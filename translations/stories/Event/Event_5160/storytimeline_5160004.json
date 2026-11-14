@@ -1,0 +1,523 @@
+{
+  "title": "Missing Snake",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "It has been one night after the pre-party had ended, and it was finally the day of the Snake Festival. Medusa was walking alone in the residential area early in the morning.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "前夜祭から一夜明け、\nいよいよ蛇祭り当日──\n早朝の居住区をメドゥーサが一人で歩いていた。"
+    },
+    {
+      "name": "Medusa",
+      "text": "...Finally, this day has arrived, hasn't it? Sisters, I'll do it. I will defeat Nephy Nella and save you both no matter what.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……ついに、\nこの日が来たのね。\nお姉ちゃん、\nアタシやるわ。\nネフィ＝ネラを倒して、\n必ず助けてみせるからね。"
+    },
+    {
+      "name": "Monika",
+      "text": "Oh, what's up Medusa, you're up pretty early. The Snake Festival starts this afternoon, right? From the looks of it, you were too nervous to sleep.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "お、\nなんだメドゥーサ、\nずいぶん早いじゃないか。\n蛇祭りは午後からだろう？\nその様子だと、\nどうやら緊張で眠れなかったみたいだな。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Huh? Th-There's no way that's true... I just woke up early because I was too excited at my upcoming victory!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "はあ？　\nそ、\nそんなわけないっての……\n楽しみすぎて早く目が覚めちゃっただけなんだから！"
+    },
+    {
+      "name": "Monika",
+      "text": "Is that so? The participants that I've seen all over are certainly strong, but you've also got some bundle of strength within you, right? You don't have to rush. Just go up there and show everyone what you're made of.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "そうなのか。\n参加者たちは\nどいつもこいつも強者揃いだが、\n其方も十分に強いのだろう？\n焦らずに\nいつもの実力を発揮すればいい。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Like I said already, I’m not nervous! I mean, it's basically already a fact that I'll be the winner. All I'm looking forward to right now is facing Nephy Nella.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "だから緊張なんかしてないってば！\nだって、\nアタシが優勝するのは確定してるんだから。\nアタシが見ているのはその先、\nネフィ＝ネラのことだけよ。"
+    },
+    {
+      "name": "Monika",
+      "text": "...I see. Saren and {0} are already back in Landosol, so they won't be able to watch, but I'll share their support for you in their place!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……\nそうか。\nサレンたちは\nランドソルに戻っていて観戦できないが、\n代わりに私が\nあいつらの分も応援してやるからな！"
+    },
+    {
+      "name": "Medusa",
+      "text": "It's not like I need your or their support in the first place, but... Well, I do owe you three for helping me out a little, so I'll show you how I can win spectacularly.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "別に応援なんて必要ないけど……\nまあ、\nアンタにはちょっとだけ世話になったし、\nアタシが華々しく勝ち上がる様を\n見せてあげるわ。"
+    },
+    {
+      "name": "Miia",
+      "text": "Aaah! Monika! This is terrible! Terrible, I say!",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "あぁ！　\nモニカさ～ん！\n大変、\n大変です～！"
+    },
+    {
+      "name": "Monika",
+      "text": "Mia...? What's wrong, why are you sliding over here in a hurry... don't tell me the Snake Festival participants are causing a ruckus or something?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ミーア？　\nどうしたんだそんなに慌てて……\nまさか\n蛇祭りの参加者が暴れてるんじゃないだろうな？"
+    },
+    {
+      "name": "Miia",
+      "text": "No, it'd be the opposite of that actually~ All the participants ARE GONE!",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "いえ、\nその逆です～\n参加者が全員、\nいなくなっちゃったんです！"
+    },
+    {
+      "name": "Monika",
+      "text": "A-ALL OF THEM?! If it was just one or two, it'd be okay but... all of them without warning? That's unbelievable...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ぜ、\n全員！？　\n一人二人ならいざ知らず\n全員だと？\nにわかには信じられないが……"
+    },
+    {
+      "name": "Miia",
+      "text": "I-I know right~... everyone came here from all over Gio Gehenna because they thought they were the best snake, so I couldn't imagine any of them quitting right before the event~",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "で、\nですよね～……\nみなさん我こそはと\nジオ・ゲヘナ全土から\nやってきた人たちばかりですから、\n直前でやめるなんて考えられません～"
+    },
+    {
+      "name": "Monika",
+      "text": "With such arguments in mind, where could they have gone? Even speculating it to be a kidnapping, it'd be probably impossible to take all the partecipants out in one go. Has anything suspicious happened?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "だとすると、\n彼らは一体\nどこへ行ったんだ？\n誘拐の線も考えられるが、\n強者ぞろいの参加者を\n全員連れて行くのは\nまず無理だろう。\n何か\n怪しい点はないのか？"
+    },
+    {
+      "name": "Staff 1",
+      "text": "Hmm, there are traces of banquets in the Colosseum, but there were no signs of fighting.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ１",
+      "orig_text": "んー、\nコロッセオには\n宴会の跡は残ってるけど、\nあ、\n争った形跡は\nなかったんだな。"
+    },
+    {
+      "name": "Staff 2",
+      "text": "First of all, it's not normal for a bunch of hot-blooded Gio Gehenna guys to be taken without a fight.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ２",
+      "orig_text": "第一、\n血の気の多いジオ・ゲヘナの奴らが\n無抵抗で連れてかれるなんて、\n普通ならありえないぜ。"
+    },
+    {
+      "name": "Staff 1",
+      "text": "Oh, speaking of suspicious, I heard that a flute was heard playing in the middle of the night. None of us prepared a flute or anything resembling it for the pre-party, so if you're asking for suspicious stuff, then that might be it...",
+      "choice_data_list": [],
+      "orig_name": "スタッフ１",
+      "orig_text": "あ、\n怪しいといえば、\n夜中\n笛の音が聞こえたって聞いたんだな。\n前夜祭で笛なんか用意してないから、\n怪しいといえば\n怪しいんだな……"
+    },
+    {
+      "name": "Miia",
+      "text": "Right, right, there are also stories of people hearing a woman laughing loudly in the middle of the night. I didn't notice it last night because I was sleeping with earplugs in... But I wonder whatever that could be, maybe a new type of monster or something?",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "そうそう、\n同じく夜中に女の高笑いが聞こえたって話もありますね。\n私は\n昨日は耳栓をして寝ていたので気付かなかったんですが……\nでもなんでしょう、\n新手の魔物か何かでしょうか～？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Laughing loudly... I see. You too, Monika?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "高笑い……\nねえ、\nモニカ？"
+    },
+    {
+      "name": "Monika",
+      "text": "Yeah, I was thinking the same thing. ...That exhibitionist girl from the other day is suspicious.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ああ、\n私も同じことを考えた。\n……先日の\nあの露出狂が怪しいな。"
+    },
+    {
+      "name": "Miia",
+      "text": "An exhibitionist girl you say... are you referring to Kanon, by chance? Well, she's sure skilled in a fight, but I find it impossible to believe she'd beat all the participants...",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "露出狂\nって……\nもしかして\nカノンさんのことですか～？\nいやでも、\nあの人も腕は立ちますが\n参加者全員を相手に勝てるとは……"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Lady Monika! We know where the missing participants are!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "モニカ殿ー！　\n消えた参加者たちの行方が分かりましたぞー！"
+    },
+    {
+      "name": "Monika",
+      "text": "Wow! Impressive speed, Knights of NIGHTMARE! So where are they located at?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "おお！　\nさすがは【王宮騎士団（NIGHTMARE）】！\nそれで\n彼らはどこへ？"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "W-Well... It appears that they are heading for Landosol.",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "そ、\nそれが……\nどうやらランドソルに向かったらしいであります。"
+    },
+    {
+      "name": "Monika",
+      "text": "What...? Are you really speaking the truth!?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "なに……？　\nそれは本当なのか！？"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Yes. According to reports from multiple witnesses, the snake monstress silently headed toward the gate to Landosol, guided by a giant snake!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "はい。\n複数の目撃者からの情報によると、\n蛇の妖魔人たちは\n無言で\n巨大な蛇に導かれるように\nランドソルへのゲートへ\n向かっていった模様であります！"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "There were also testimonies of people hearing eerie whistling sounds and silly loud laughter coming from the group!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "そしてその一団からは、\n不気味な笛の音と\nバカみたいな高笑いが\n聞こえていたという証言も！"
+    },
+    {
+      "name": "Medusa",
+      "text": "...Ah! That settles it. That damn Kanon said she'd defeat Nephy Nella, so why is she heading to Landosol now?! It doesn't make sense!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "っ！　\nこれで決まりじゃない。\nカノンのやつ、\n打倒ネフィ＝ネラとか言ってたくせに\nなんでランドソルに行くのよ！　\n意味分かんない！"
+    },
+    {
+      "name": "Miia",
+      "text": "Whatever the reason, knowing that girl, she's clearly up to no good~ Aaah, geez! If only the Princess was here to deal with things at a time like this~!",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "なんにしろ、\nあの人のことですから\nロクでもないことは確かですね～\nああもう！　\nこんな時に媛さまがいてくれたら～！"
+    },
+    {
+      "name": "Monika",
+      "text": "There's no point in crying over spilled milk. I will return to Landosol immediately! In the future we'll have to crack down on unauthorized use of the Gate... Of course, I will definitely get everyone back, so prepare for the Snake Festival and wait for me.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "嘆いたところで仕方ない。\n私は\nすぐにでもランドソルに戻る！\nゲートの無断使用は\n厳重に取り締まらなくてはならんし……\nもちろん\n必ず皆を取り戻すから、\n蛇祭りの準備をして待っていてくれ。"
+    },
+    {
+      "name": "Miia",
+      "text": "Y-Yes! The Snake Festival is one of the main attractions of this Cultural Exchange Festival! We won't allow it to be cancelled!",
+      "choice_data_list": [],
+      "orig_name": "ミーア",
+      "orig_text": "は、\nはい！　\n蛇祭りは交流祭の目玉の一つ、\n絶対に中止になんかさせませんよ～！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Monika. Take me with you to Landosol!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "モニカ、\nアタシもランドソルに連れてって。"
+    },
+    {
+      "name": "Monika",
+      "text": "Medusa, you...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "メドゥーサ、\nおまえ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Don't even think about stopping me. She ruined the Snake Festival... Now that it's come to this, I won't be satisfied until I give that stupid bat-woman a good smacking!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "止めないでよ。\n蛇祭りを台無しにしてくれちゃって……\nこうなったら\nあのフザけた蝙蝠女に\n一発入れてやんないと気が済まないわ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Heh, I wasn't planning to stop you! But make sure not to get yourself hurt in the process. You're still planning to win the Snake Festival, right?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふっ、\n止めやしないさ！　\nただし、\nケガはするなよ。\n蛇祭りで優勝するのだろう？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Of course I am! This is merely the perfect occasion for me to warm up before the festival. Come on now, to Landosol!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "もちろんよ！　\n祭りの前のウォーミングアップに丁度いいわ。\nさあ行くわよ、\nランドソルへ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Around the time Monika and Medusa headed for Landosol, the snake army led by Kanon reached the city of Landosol and began to attack.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "モニカとメドゥーサがランドソルへ向かう頃、\nカノン率いる蛇の軍団はランドソルの街中へと到達、\n進攻していた。"
+    },
+    {
+      "name": "Narration",
+      "text": "Z-Zzz, zzz...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ズ、\nズズズ、\nズズ……"
+    },
+    {
+      "name": "Narration",
+      "text": "Zazazaza...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ザッザッザッ……"
+    },
+    {
+      "name": "Resident who's randomly there",
+      "text": "W-WHAAAAAAT?! T-There's a big snake in the middle of the city?! And are those people behind it from Gio Gehenna?",
+      "choice_data_list": [],
+      "orig_name": "偶然居合わせた住民",
+      "orig_text": "え、\nえええ！　\nお、\nおっきな蛇が街中に……！？\nそれに\n後ろの人たちって、\nジオ・ゲヘナの人？"
+    },
+    {
+      "name": "Tourist who's randomly there",
+      "text": "Huh? Why are those snake monstress here in Landosol? Ah, maybe they're hosting the Snake Festival here too! I didn't think I'd be able to see it while I was traveling, so that's lucky!",
+      "choice_data_list": [],
+      "orig_name": "偶然居合わせた観光客",
+      "orig_text": "あれ？　\nなんで蛇の奴らがランドソルにいるんだ？\nあ、\nもしかして\nこっちでも蛇祭りやるってことか！\n旅行中で見れないと思ったからラッキーだぜ！"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "STOOOOOOP! You all... you're from Gio Gehenna, aren't you? I've heard about our mutual Exchange Festival, but you haven't been granted permission to hold such a large-scale event in this world!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "止まれー！　\nお前たち、\nジオ・ゲヘナの者だな？\n交流祭のことは聞いているが、\nこのような大規模な催しは許可が下りていないぞ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "*sigh* I believe you've got it all wrong. This is, of course, the coronation parade for this country's new princess! As if I'd need any permission. OOOH HO HO HO!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "はぁ、\n勘違いも甚だしいですわね。\nこれはそう、\nこの国の新たな王女の戴冠パレード！\n許可を取る必要なんてありませんコトよ。\nヲ～\nッホッホ！"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "Khhh, hearing such things from a delusional exhibitionist is degrading...! We really should have just caught you right there the other day. Anyway, turn back now! Or else...",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "くっ、\n妄想狂の露出狂とは度し難い……！\nやはり先日\n意地でも捕まえておくべきだったな。\nともかく今すぐ引き返せ！　\nさもなくば……"
+    },
+    {
+      "name": "Kanon",
+      "text": "My! You're quite passionate about your work etiquette right at the start of the new year. As soon as I inherit this country, I'll make sure to give you lots of work as a slave.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "まあ、\n新年早々お仕事熱心ですこと。\nあたくし様がこの国を頂戴したあかつきには\n家来としてコキ使って差し上げますわ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "HO-WE-VER... the crime of turning your blade against me is by no means light. You will pay with your own body. Now, listen to your heart's content! The majestic melody of my \"Snake Manipulation\"!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "で・\nす・\nが、\nあたくしに刃を向けた罪、\n決して軽くはありません。\nその身をもって\nしっかり償っていただきますわ。\nさあ、\n存分にお聴きなさい！　\n荘厳なる蛇操の調べを！"
+    },
+    {
+      "name": "Narration",
+      "text": "And a little later after Kanon had arrived, Monika and Medusa also returned safely to Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そしてカノンに遅れることしばし、\nモニカとメドゥーサもランドソルへと帰還を果たす。"
+    },
+    {
+      "name": "Monika",
+      "text": "Ugh, we've fallen quite behind her tracks...! From what I can see, we're lucky that it hasn't become a big mess just yet. But we don't have much time! Let's hurry, Medu--",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "くっ、\nだいぶ後れを取ってしまったが……！\n見たところ\nまだ大きな混乱にはなっていないのはラッキーだったな。\nだが\n猶予はない！　\n急ごう、\nメドゥ──"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ah, kh... Ugh...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "あ、\nく……\nうぅ……"
+    },
+    {
+      "name": "Monika",
+      "text": "Medusa?! What's wrong? Does it hurt somewhere?! There doesn't seem to be an injury...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "メドゥーサ！？　\nどうした、\nどこか痛むのか！？\nケガではないようだが……"
+    },
+    {
+      "name": "Medusa",
+      "text": "That's not it, there's a very nasty sound... Ugh, my head hurts...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "違う、\nすごくイヤな音が……\nうっ、\n頭が、\n痛い……"
+    },
+    {
+      "name": "Monika",
+      "text": "A sound? Now that she mentions it, I can hear a faint sound like a flute whistle...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "音？　\n言われてみれば、\nかすかな笛のような音が……"
+    },
+    {
+      "name": "Narration",
+      "text": "Ohhhh... Ohh...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ォォオオ……オォ……"
+    },
+    {
+      "name": "Monika",
+      "text": "What was that just now...? The ground rumbled... No... Maybe something happened. Medusa, can you move?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "なんだ、\n今のは……\n地鳴り……\nいや……\n何か起きたのかもしれん。\nメドゥーサ、\n行けるか？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Of course I can, y-you don't have... to worry about me. I'll definitely blow that exhibitionist bat-woman into the sky!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "もちろん、\nよ……\n気遣いは無用、\n必ずあの露出狂をぶっ飛ばすわよ！"
+    },
+    {
+      "name": "Narration",
+      "text": "At the same time, at the Sarendia Orphanage, everyone had finished eating their New Year's dishes and was taking a break.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "時を同じくしてサレンディア救護院では、\n皆で正月料理を食べ終え一息ついていた──"
+    },
+    {
+      "name": "Saren",
+      "text": "Phew, thanks for the meal. Gio Gehenna was a nice place, but home is still the most relaxing place to be at. It's been a long time since I've had such a relaxing time.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふぅ、\nごちそうさま。\nジオ・ゲヘナもいい所だったけど、\nやっぱり我が家が一番落ち着くわね。\nこんなにゆっくり過ごすの、\nすごく久しぶりだわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "That said... you didn't really have to come back with me, {0}.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "でも、\nあんたまで一緒に戻ってこなくてもよかったのに。"
+    },
+    {
+      "name": "Saren",
+      "text": "There's no need to be so dutiful, you know? But... thank you. The children are happy you're here.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "別に\n律儀に守ることじゃないのよ？\nでも、\nありがとう。\n子どもたちも\nあんたが来てくれて\nよろこんでるわ。"
+    },
+    {
+      "name": "Orphanage Child 1",
+      "text": "Mama Saren! Nii-chan! Thank you for the souvenir!",
+      "choice_data_list": [],
+      "orig_name": "救護院の子ども１",
+      "orig_text": "ママ・サレン！　\n兄ちゃん！\nおみやげありがとう！"
+    },
+    {
+      "name": "Saren",
+      "text": "Haha, you're welcome. You all did a great job watching the house by yourself.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふふ、\nどういたしまして。\nみんなもお留守番\n頑張ったわね。"
+    },
+    {
+      "name": "Orphanage Child 2",
+      "text": "Hey, hey, you two, I want to go out to the city!",
+      "choice_data_list": [],
+      "orig_name": "救護院の子ども２",
+      "orig_text": "ねえねえ二人とも、\nあたし街におでかけしたい！"
+    },
+    {
+      "name": "Saren",
+      "text": "That's right. I'd also like to go and see what Landosol is like in the New Year. Well then, let's all go later.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうね、\nランドソルの新年の様子も\n見に行きたいものね。\nそれじゃあ\n後でみんなで行きましょう。"
+    },
+    {
+      "name": "Orphanage Child 1",
+      "text": "Yaaaaay! I really want to go see that Snake Festival!",
+      "choice_data_list": [],
+      "orig_name": "救護院の子ども１",
+      "orig_text": "やったー！　\nオレ、\nヘビのお祭り行きたい！"
+    },
+    {
+      "name": "Saren",
+      "text": "Hmm, sorry. But the Snake Festival is a festival that's held only in Gio Gehenna, so I don't think we'll be able to go see it just yet.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "んー、\nごめんね、\n蛇祭りはジオ・ゲヘナのお祭りだから、\n今回はちょっと無理そうかな。"
+    },
+    {
+      "name": "Orphanage Child 1",
+      "text": "You're wrong, Mama Saren. There's also a Snake Festival here in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "救護院の子ども１",
+      "orig_text": "ちがうよ、\nママ・サレン。\nランドソルでやってる蛇祭りだよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Huh? But, I didn't hear of any plans about holding it in Landosol...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "え？　\nでも、\nランドソルでそんなのやる予定なんて\nないんだけど……"
+    },
+    {
+      "name": "Orphanage Child 2",
+      "text": "I heard the same thing. A parade featuring a HUUUUUGE snake and snake-like people was seen heading towards the castle!",
+      "choice_data_list": [],
+      "orig_name": "救護院の子ども２",
+      "orig_text": "あたしも聞いたよ。\nおーっきなヘビと、\nヘビみたいな人たちのパレードが、\nお城に向かってったって！"
+    },
+    {
+      "name": "Saren",
+      "text": "...What's with that? By \"snake-like people\" you must mean the snake monstress, right? But why Landosol... and a huge snake...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……どういうこと？　\n蛇みたいな人って、\nジオ・ゲヘナの\n妖魔人よね？\nどうして\nランドソルに……\nそれに\n大きな蛇\nって……"
+    },
+    {
+      "name": "Saren",
+      "text": "I agree... Everyone, I have an urgent matter to attend to, so please wait at home. Let's hang out and play when I come back!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "同感だわ……\nみんな、\nちょっと急用ができたから\nおうちで待ってて。\n戻ってきたら\n遊びに行きましょう！"
+    },
+    {
+      "name": "Narration",
+      "text": "Saren and {0} rushed to the city with anxiety in their hearts. There they found a scene on the brink of war...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "不安を胸に街へ駆けつけたサレンと{0}。\nそこで二人が目にしたのは一触即発の現場だった──"
+    },
+    {
+      "name": "Saren",
+      "text": "Th-This is...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こ、\nこれは……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "WAAAAAAAAAAAAAAAAAAHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "わあ\nあああー！"
+    },
+    {
+      "name": "Monika",
+      "text": "STOP IT RIGHT NOW, MEDUSA!! STOP IT I SAID!!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "やめるんだメドゥーサ！！\nやめろったら！！"
+    }
+  ]
+}

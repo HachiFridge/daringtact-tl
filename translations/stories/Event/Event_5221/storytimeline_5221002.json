@@ -1,0 +1,936 @@
+{
+  "title": "Searching for the Chibi Golshis",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After being rescued by {0} and Pecorine, Almond Eye and the others had made their way to the royal capital, accompanied by a shrunken Gold Ship.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "通りすがりの{0}たちに助けられた\nアーモンドアイたちは、\n小さくなったゴールドシップと共に\n王都へとやってきていた。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "So this is the royal capital, Landosol...!\nWhat a wonderful city!\nStraight out from a fairy tale!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ここが\n王都ランドソル……！\n素敵な街ね！　\nおとぎ話の中みたい！"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "It's almost a match for my very own Golshi-chan Colony...\nHeh. Not bad at all.",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "アタシのゴルシちゃんコロニーにタメはるくらいか……\nフッ、\nなかなかやるじゃねーか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe, thank you very much☆\nWe're very proud of our castle town!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ、\nありがとうございます☆\nわたしたちの自慢の城下町です！"
+    },
+    {
+      "name": "Narration",
+      "text": "Let's rewind time back to when {0} and Pecorine rescued the girls.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──時は、\nペコリーヌに助けられた直後に遡る。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "So Gold Ship-san was the friend you were looking for!\nI'm glad you managed to find her!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ゴールドシップさんが、\nみなさんの捜していた\nお知り合いだったんですね。\n見つかってよかったです！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Yes...\nGolshi-senpai, why have you become so small?",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "はい……\nゴルシ先輩、\nなぜそんなに小さくなってしまわれたのですか？"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "Well, see, that's the thing...\nI honestly have no idea myself!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "いやーそれがさー\nマジでよくわかんねーんだよなー"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "When that monster sent me flying, I felt this weird, mysterious power.\nThere was a FLASH! Then a WHOOSH!\nAnd before I knew it, your favorite Golshi-chan had shrunk down to this size!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "魔物に吹っ飛ばされたときに、\nなんかよくわかんねー力を感じてよ。\nピカッ！　\nてなって\nグワーーッ！　てなったら\nゴルシちゃん、ちっちゃくなっちまった。"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "And on top of that, my body ended up splitting apart...\nThere are about four of me in total, counting myself!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "んでもって\nついでに体も分裂しちまってよー\nアタシ込みで、\nざっと４人ぶん？"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "So, that means... there are three more Golshi-senpais out there, besides the one standing here...?",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "ということは、\n今ここにいる先輩以外に\nもう３人ゴルシ先輩がいる、\nということでしょうか……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I see, I see...\nSo the reason you came out from that monster earlier was because you were trapped within it?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "なるほどなるほど～\nさっき魔物から出てきたのは、\n取り込まれちゃってたって感じですかね？"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "Yeah, yeah! Exactly!\nGlad you guys catch on so quickly!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "そうそうそんな感じ！\nオメーら話が早くて助かるぜ～"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ain't somethin' easy to believe at first...\nDoes this sort of thing happen often around here?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "なんや\n俄かには信じがたいことばかりやなぁ……\nこういうのは、\nこっちではよくあることなんです？"
+    },
+    {
+      "name": "Shizurus",
+      "text": "Little brother!",
+      "choice_data_list": [],
+      "orig_name": "シズルたち",
+      "orig_text": "弟く～～～ん！"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "いやどういうことやねんっ！！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "いやどういうことやねんっ！！　"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...That was close!!\nI almost let loose a full-blown retort at someone I just met...",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "……\nあっぶな！！\n初対面の人に本気ツッコミ入れるとこやったわ……"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "W-Well, assuming something this strange really did happen...\nHow do we get Goldshi-san back to normal?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ま、\nまあ、\nそういう不思議なことが起きてしまったんだとして……\n元のゴルシさんに戻すには\nどうしたらいいのかしら？"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "After all, there was originally just one \"Golshi-senpai\"...\nPerhaps we should gather all of her pieces together and combine them into one?",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "元は\n一人のゴルシ先輩だったわけですし……\n全員集めて\n一つにする、\nとか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "In that case, our first order of business is finding the other 3 Golshi-san!\nOnce we get to Landosol, we can meet up with our friends.\nI'll contact them and ask them to help us!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "となると、\nまずはゴルシさん捜しですね！\nランドソルに行ったら、\nわたしたちの仲間もいますし\n手伝ってくれるように連絡しておきましょう！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thank ya for takin' care of us like this.\nWe were in quite a bind, so you've really saved us.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "お世話になります。\nえらい困ってたところで、\nほんまに助かります。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "When you're in trouble, we help each other♪\nWell then, let's goooo☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "困ったときは、\nお互いさまさまです♪\nそれじゃ、\nレッツゴー☆"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ah, Pecorine-san!\nOver here!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あっ、\nペコリーヌさん！\nこっちよ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Seriously...\nYou go out with a \"I'm off to catch a monster for dinner☆\" and then all of a sudden we receive a communication spell from you!\nYou nearly gave us a heart attack!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく……\n「晩ごはんの魔物獲ってきますね☆」\nって出てったのに\n急に通信魔法よこすんだから。\nびっくりするじゃない。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "So you must be the esteemed guests from a faraway land.\nI heard everything about your situation from Lady Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そちらのみなさまが、\n遠い国からいらしたお客さまですね。\nペコリーヌさまより\nお話は伺っております。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm Kyaru.\nThe one with wings and horns is Sheffy.\nWhile the little runt with a \"mama vibe\" around her is Kokkoro.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしはキャル。\nこっちの角と羽ついてるのはシェフィ。\nんで、\nそっちの\n小さいのにお袋さんっぽいのが\nコッコロよ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Nice to meet you.\nA party consisting entirely of beastfolk... how rare.\nWe've already been given a rough idea of ​​the situation.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "初めまして。\n全員同じ獣人族のパーティなんて、\n珍しいわね。\n事情はざっくり聞かせてもらったわ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Their names are a bit unusual, I guess...\nThen again, in-game names tend to be different from the ones we use back in reality at times.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "名前もちょっと変わっている気がするけれど……\nプレイヤーネームが現実と違うのは\nよくあることよね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I understand that you are searching for Lady Gold Ship, who has shrunk and split into multiple versions of herself...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさまは、\n小さくなって分裂した\nゴールドシップさまを捜していると\n伺いましたが……"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Indeed...\nWe would like to find these different pieces of her so we can put them together back into one.\nI imagine she herself must find her current state of being quite inconvenient...",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "はい……\nゴルシ先輩を集めて、\n元に戻してさしあげたいんです。\n今の姿では\n何かと\n不便ではないかと思いますし……"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "Hey, is that a weapon shop over there?\nMaybe there's some hidden treasure to be found!\nLet's find Excalibur and take it outta the rock!!!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "なぁ、\nあっちにあんのって武器屋か？\n掘り出し物ねぇかな？　\nエクスカリバー探そうぜ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Seems to me like she's enjoying herself just fine...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "本人はめちゃくちゃエンジョイしてるみたいだけどね……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, if they're all this small, I doubt we could probably find them simply by looking around.\nI wonder if there's any search magic suited for a situation like this?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まぁでも、\nこれだけちっこいと、\n普通に捜しても見つからなそーなのは確かね。\nこういう場合向きの探索魔法とか\nあったかしら？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmm... Perhaps it might be a wise idea to seek counsel from others and rely on abilities like Lady Shinobu's divinations or Lady Louise Marie's alchemy.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ……\nシノブさまの霊能力や、\nルイズマリーさまの錬金術など、\n他の方を頼ってみるのもよいかもしれません。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I'll go and ask the people at my part-time job if they saw anything.\nSince delivery work takes you all sorts of places, someone there might have spotted them.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "私も\nバイト先の人に聞いてみるわね。\n配達の仕事はいろんな所に行くから、\nもしかしたら、\n見かけてる人がいるかも。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "We appreciate the offer, but... is it really okay for you to go that far?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "気持ちはうれしいんですけど……\nそこまでしてもらって\nいいんですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, don't be strangers!\nWe even shared a meal on the way back, didn't we☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "水臭いこと言わないでくださいよ。\n帰りながら、\n一緒にごはん\n食べた仲じゃないですか☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Besides, this continent is actually pretty vast, you know?\nIt'd be reckless for just the three of you to search the whole thing without finding at least a clue first.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それにこの大陸、\nけっこー広いわよ？\nせめて手掛かりでも見つけてからにしないと、\n３人だけで捜すなんて無茶よ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...In that case, how about doing both?\nWhile our collaborators search for clues regarding Lady Golshi, the rest of you could take the opportunity to explore this country.\nHow does that sound?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……でしたら、\n両方、\nというのはいかがでしょう。\nゴルシさまの手がかりを、\n協力者の方々に探していただく間に\nみなさまは\nこの国を見て回る──\nというのは。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I concur!\nThat way you will all get to learn more about this country.\nIt'd make me really happy if you also enjoyed your stay☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですね！\nそしたらみなさんにも、\nこの国のことを知ってもらえますし。\nできれば、\n滞在も楽しんでもらいたいです☆"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "If you're willin' to go that far, it would honestly be a big help to us. Right, Ai-san?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "そうまで言っていただけるなら、\nうちらとしては正直助かります。\nなぁ、\nアイさん？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That's right. We'll take you up on that offer.",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "そうね。\nここは、\nお言葉に甘えさせてもらいましょうか。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Then it's settled! As for your immediate living arrangements...\nYou can use the spare rooms at our guildhouse.\nIt would be handy to get you registered with the Guild Management Association, but we'll leave that for later.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "じゃあ決まりね。\n当座の生活は……\nうちのギルドハウスの空き部屋を使えばいいわ。\n一応、\nギルドに登録しとくと便利だけど……\nそれはおいおいね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "You should be able to form a guild as long as you're involved in some kind of activity.\nIt could be an adventuring guild, a business, or even an idol group.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ギルドはなんらかの活動をしていれば結成できるはずよ。\n冒険でもいいし、\n経営をしているところや、\nアイドルをしているところもあるわ。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "So it's an \"anythin' goes\" kinda vibe around here, huh.\nThen what do you of the \"Gourmet Guild\" do, exactly?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ほんまになんでもありなんやねぇ。\nそれでいうと\n【美食殿】は\n何をしてはるギルドなんです？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Us, you ask? Well...\nIt'd be faster to have you see it for yourself☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたちですか？\nそれは\n実際に見てもらったほうが早いですね☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's right!\nYou've been walking for a long time, so you must be hungry, right?\nHow about we combine a welcome party for your arrival in this country with a little tour of the town♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そーね。\nあんたたちも歩き通しでお腹すいてるだろうし\nこの国に来た歓迎会と街案内を兼ねて、\nね♪"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "My, a welcome party...?!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "まあ、\n歓迎会ですか……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes☆ After all, the \"Gourmet Guild\" is...\nA guild dedicated to the pursuit of delicious food!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい☆\nだって、\n【美食殿】は──\n『美食を探求するギルド』\nですから！"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "Travel safety depends on your equipment!\nWe've got a great selection of affordable, high-quality items!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "旅の安全は道具で決まる！\n安くていいの取り揃えてるよー！"
+    },
+    {
+      "name": "Bakery",
+      "text": "How about some freshly baked bread?\nIt's guaranteed to make you feel happy!",
+      "choice_data_list": [],
+      "orig_name": "パン屋",
+      "orig_text": "焼き立てのパンはいかが～？\n食べれば幸せな気分になること\n間違いなしだよ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "What a lively plaza!\nAnd there's so many shops!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "すごく賑やかね！\nそれに、\nお店もたくさん！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This area is a bustling commercial district, so you can buy just about anything here, from all the essentials you might need for your trip to the ingredients for tonight's dinner.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "このあたりは\nいわゆる繁華街ですから、\n旅の一式から\n今日の晩ご飯の材料まで、\n大抵のものは購入できますよ。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "All the vegetables on sale here are so fresh.\nThere are even some I am not entirely familiar with...\nThey're so tempting that I just want to pick them up!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "売っているお野菜も\n新鮮なものばかりですね。\n見慣れないものもあって、\nつい\n手に取りたくなってしまいます。"
+    },
+    {
+      "name": "Karyl",
+      "text": "If you head that way, you'll reach the aristocratic district.\nBut honestly, if you're looking for plenty of delicious, easy-to-grab food, this side is definitely the better choice!\nTake that carrot crepe you're eating as an example.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっちのほうに行くと貴族街よ。\nでもま、\n手軽に食べれておいしいものが多いのは\n断然こっちね。\nさっき買った人参クレープとか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "There are lots of tasty sweets around here!\nPerfect for a little snack while walking☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "このあたりはあま～いスイーツもたくさんあるんですよ！\n食べ歩きには最適です☆"
+    },
+    {
+      "name": "Karin",
+      "text": "Do I spot some new faces?\nWelcome to the Guild Management Association!",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "初めてご利用の方ですか？\nギルド管理協会へようこそ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Guild... Isn't this the place Kyaru-chan mentioned earlier?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ギルド……\nこれって、\nさっき\nキャルちゃんたちが言ってたものよね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Yup, the very same.\nWhen you register, you get to choose your own guild name.\nLike the \"Gourmet Guild\" or \"Twinkle Wish\", for example.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ええ、\nそうよ。\n登録の際には\n自分たちでギルド名を決めるの。\n【美食殿】\nとか\n【トゥインクルウィッシュ】\nとかね。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Coming up with a team name is so exciting!\nIf we were to form a guild, what kind of name do you think would be good?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "チームの名前を考えるって\nワクワクするわね！\nもし\nわたしたちがギルドを作るなら、\nどんな名前がいいかしら？"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "What a tricky decision...\nNothing comes to mind right away, but I suppose it should be something easy to remember.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "悩ましいですね……\nすぐには思いつきませんが、\nやっぱり、\n覚えやすいものでしょうか。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Maybe \"Carrot Pudding\" would be good.\nThat's certainly easy to grasp!\nWhat do you think, Lala?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "にんじんぷりん、\nみたいな感じかしら。\n確かに、\n分かりやすいわね。\nララは\nどう思う？"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "う～ん……\nこういうやつは３人の名前からとるのが定番……\nいや、\nそれやと定番すぎるし\nキャッチーさに欠けてまう。\nかといってこの面子やし、\nおもろ方面も違うか～……！？　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "う～ん……\nこういうやつは３人の名前からとるのが定番……\nいや、\nそれやと定番すぎるし\nキャッチーさに欠けてまう。\nかといってこの面子やし、\nおもろ方面も違うか～……！？　"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Lala's got such a serious look on her face...!\nIn this world, guild names are seemingly one's calling card.\nWe really ought to give it some proper thought.",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ララってば、\nすごく真剣な顔……！\nこの世界では、\nギルド名がわたしたちの看板になるんだもの。\nちゃんと考えるべきよね。"
+    },
+    {
+      "name": "アーモンドアイ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Karyl",
+      "text": "You three... aren't you overthinking things a little?\nYou haven't even decided whether you're forming a guild together yet...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんたたち、\n組むかどうかも決まってないのに\n真剣に考えすぎじゃない……？"
+    },
+    {
+      "name": "Clerk",
+      "text": "Sorry to keep you waiting~\nHere we have a super-sized omelet rice, chicken fritters made with free-range chicken from Togoku, and beef stewed in a \"Salasaria-style\" sauce...\nFive servings of each!",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "お待たせしました～\nデカ盛りオムライスと\nトーゴク産地鶏のチキンフリット、\n牛肉のサラサリア風煮込み、\nそれぞれ５人前で～す♪"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "Whoa! That's a lot!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "うっひょー！　\nすげぇ量だな！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "These dishes look delectably delicious...!\nHowever, are you sure we can partake in such generosity?",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "どれも美味しそう……！\nですが、\nこんなにいただいて良いのですか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Rest assured. Sitting down to enjoy a meal at the same table...\nThat, too, is part of the \"Gourmet Guild's\" activities.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ご安心ください。\nおいしい食事を、\nみんなで仲良く囲んで食べる──\nこれもまた、\n【美食殿】の活動ですから。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Besides, this restaurant is one of the most delicious we've discovered!\nOn our names as Gourmets, I guarantee it☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それにここ、\nわたしたちが見つけた中でも\nとびっきりおいしいお店なんですよ！\n【美食殿】の名に懸けて、\n保証します☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "We've got someone here capable of cleaning up a plate in no time, so, rather than worrying about not being able to finish it all, you'd be better off worrying about whether there'll be enough to go around!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うちには\nこれくらいペロッと平らげちゃうやつがいるからねー\n食べきれないより、\n食べられない心配をしたほうがいいわよ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Think of this as a welcoming welcome, so please don't hesitate to eat up.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "これも歓迎の気持ちだと思って、\n遠慮しないで食べてちょうだい。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe...☆ Well then, to commemorate Ai-san and the others coming to this town!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ……☆\nそれじゃあ、\nアイさんたちが\nこの街に来た記念に！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Cheers!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "乾杯！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Such a nice view...\nThe streets of Landosol are charming.",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "いい景色……\nランドソルって\n街並みもキレイね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "There may be ways in which we can be of assistance.\nPlease let us know if there is anything we can do for you.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちで\nお手伝いできることがあるかもしれません。\nなんでも仰ってください。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Honestly, I cannot stop offering my gratitude for all you're doing for us.\nLet's see... is there somewhere with plenty of space?\nIt would be helpful if I could do some training.",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "本当に\n何から何までありがとう。\nそうね……\nなら、\nどこか広いところはある？\nトレーニングができると\nありがたいのだけれど。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Training, you say?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "トレーニング、\nですか？"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Yes! To get our bodies ready for the next race.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "はい！　\nレースに向けて、\n体づくりをしたくて。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Race, you say...\nAre you all involved in some kind of sport?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "レース\nというと……\nみなさまは、\nなにかスポーツをされていらっしゃるのですか？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah, yeah... exactly, somethin' like that!\nWe \"Umamusume\" excel at runnin', so races that showcase that talent are incredibly popular.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ああ、\nそうそう。\nそうなんです！\nうちらウマ娘は走るのが得意で、\nそれを活かしたレースがとても人気なんです。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "The most well-known of these is the \"Twinkle Series\"...\nAnd we train every single day so that we can win races within that series.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "とくに有名なのが、\nトゥインクル・シリーズで……\n私たちは\nそのトゥインクル・シリーズのレースで勝つため、\n日々トレーニングをしているんです。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Not beastfolk, but... Umamusume?\nThat's the first I've heard of that term.\nSo, you're athletes, then? Racing, huh... Sounds like fun.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "獣人族じゃなくて、\nウマ娘……？　\nっていうのは、\n初耳だけど。\nつまり、\nあなたたちはアスリートなのね。\nいいわね、\nレース。\n楽しそうだわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Yes, it truly is!\n...But I feel like we haven't been able to run the way we'd like to since we came here.",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ええ、\n本当に！\n……\nでもわたしたち、\nこっちに来てから\n思うように走れてない気がして。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Actually, since we were stranded, we tried adjustin' how we ran by experimentin' with a few things.\nBut nothin' really worked. It was almost as if our legs just...\nWeren't quite in sync.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "実は\n遭難してたときに、\n走り方を調整したり、\nいろいろ試したんです。\nけど、\nあまり効果がなくて。\nまるで、\nうちらの脚が馴染んでない、\nみたいな……"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "In order to win an actual race, we wish to train and get rid of this sense of discomfort!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "レース本番で勝つためにも、\nまずはしっかりトレーニングをして、\nこの違和感を解消したいんです！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I see... I feel as if there might be some kind of fundamental reason as to why your legs have not quite settled in just yet.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なるほど……\n脚が馴染んでない、\nというのは\n何やら根本的なところに理由がある気がいたしますね。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Magic, you say...?\nWell, we have certainly witnessed phenomena that seem to transcend the laws of physics on a few occasions...",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "魔法、\nですか……？\n確かに\n物理的な法則を超えたような現象は、\n何度か目にしてきましたけれど……"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "It seems like there's more to this world we haven't yet realized...\nWe'll need to study up a little more!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "わたしたち、\n思ってた以上に\n分からないことばかりみたいね……\nこういうことも勉強していかなきゃ。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Attend a magic school\"? I mean, we'd be grateful to do that...\nIs it really that easy to get into one?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "通ってみる？　\nって、\nそうできたらありがたいですけど……\nそんな簡単に入学できるものなんです？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, I suppose it's not impossible.\nBelieve it or not, I do have some connections that'd help.\nPlus, you get to pick up some general knowledge along the way, not a bad deal, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まぁ、\nできなくはないんじゃない？\nこう見えてツテはあるのよね。\nついでに一般教養も学べてお得でしょ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hey, Kyaru-chan... just a thought, would it be possible to incorporate magic into our training?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ねぇ、キャルちゃん。\n例えばなんだけど、\n魔法も使ってトレーニングってできたりしないかしら。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Using magic... I see. That would certainly allow for a different kind of training than what we have conducted thus far.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "魔法で……\nなるほど。\n確かにそれなら、\n今までと違うトレーニングができるかもしれませんね。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "If I could manage to learn even one single spell while at it, that'd make for one hell of a story to bring back home.\n...Though, of course, I'm well aware that it wouldn't be of any use back there.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ついでに魔法の一つでも覚えられたら、\nええお土産話になりそうやね。\n……\nもちろん、\n向こうでは使えないのはわかってますけれど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Then it's decided! Since I graduated from the Magic Academy ahead of schedule, I'll do you a special favor and teach you as a guest instructor!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "じゃあ決まりね！\nア魔学を飛び級卒業したこのあたしが\n特別に臨時講師として教えてあげるわ！"
+    },
+    {
+      "name": "Narration",
+      "text": "The Ambrose Academy of Magic, an institution where young people aspiring to become mages gather.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔法使いを志す若者が集う学び舎、\nアンブローズ魔法学園──"
+    },
+    {
+      "name": "Karyl",
+      "text": "Okay, class is starting!\nFirst up is \"Magic Fundamentals I\".\nI'm going to whip you into shape so you can start using magic in no time♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "さ、\n授業を始めるわよ！\nまずは\n『魔法基礎Ⅰ』ね。\n短期間で魔法が使えるように\nビシバシ鍛えてあげるわよ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Thus, Almond Eye and the others began learning all they could about this world alongside {0} and his companions, while continuing their search for the scattered pieces of Gold Ship.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてアーモンドアイたちは{0}たちと\n分裂したゴールドシップの行方を捜しつつ、\nこの世界の知識を吸収していくことになった。"
+    },
+    {
+      "name": "Narration",
+      "text": "And then, after a while...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、\nしばらく経ち──"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Everyone! We may have found a lead on where the other Chibi Golshi-sans are!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "みんな！\n残りのちびゴルシさんの居場所がわかったわ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Sheffy-chan!\nI see... Thank goodness...!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "シェフィちゃん！\nそう……\nよかった……！"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "Good grief.\nThese other chibi mes are such a hassle...",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "ったく。\n他のアタシらめ、\n世話かけやがって……"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "But... you don't seem particularly relieved about it, aren't ya?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "でも、\nそれにしては浮かない顔やね？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Indeed. While the other chibi Lady Golshi have been found, their situation is a little...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ええ。\n見つかったゴルシさまたちですが、\n少々、\n困った事態になっているようでして……"
+    },
+    {
+      "name": "Karyl",
+      "text": "It seems those chibi Golshis are causing all sorts of trouble around the world together with some monsters.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どうもちびゴルシたちは、\n魔物と一緒に\nあちこちで悪さしてるっぽいのよ。"
+    },
+    {
+      "name": "ララ・タクト",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ララ・タクト",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "I see... So monsters have been rampaging across the regions around Landosol, and there have been reports of people spotting Chibi Golshi-senpais alongside them.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "なるほど……\nランドソルの魔物たちが\n各地で暴れていて、\nその背後に\nちびゴルシ先輩を見かけた方がいらっしゃる、\nと。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The first Gold Ship-san we encountered was fused with a monster.\nI imagine the same thing has happened this time.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "最初に会ったゴルシさんは、\n魔物と一体化してました。\n今回もきっと同じ感じですね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "And that's not all. Those monsters all share similar characteristics.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それだけじゃないわ。\nその魔物たちには\nみんな同じような特徴があるの。"
+    },
+    {
+      "name": "Karyl",
+      "text": "There are three of them.\nA fish-type monster, \"Goltunnus\".\nA bird-type monster that flies through the air, \"Golziz\".",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔物たちは３体よ。\n魚型の魔物\n『ゴルトゥンヌス』。\nそれから、\n空を飛ぶ鳥型の魔物\n『ゴルジズ』。"
+    },
+    {
+      "name": "Karyl",
+      "text": "And last but not least, the giant dragon, the \"Wrathgolshi\", that runs through the land.\nApparently, all three are incredibly fast, and anyone who tries to catch them gets outrun.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そして最後が、\n陸上を駆ける巨大なドラゴン\n『ラースゴルシ』。\nそんでこいつら、\nどいつも脚がめちゃくちゃ速くて、\n捕まえようとしても逃げられるんですって。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Come to think of it, you all mentioned how you Umamusume are fast on your feet. Which means...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そういえば、\nウマ娘のみなさまは\n脚が大変速いと仰っていましたね。\nということは……"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "The traits this pesky bunch shows are due to Golshi-san's influence, yes.\nShe's certainly a bizarre one, but her abilities are the real deal.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "その子らの特徴も、\nおそらくゴルシさんの影響やね。\nいろいろトリッキーな人やけど、\n実力は本物\nですから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "However, why would Gold Ship-san be going around causing trouble...?\nShe's not the kind of person who would do something like that.",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "でも、\nどうしてゴルシさんが悪さなんてしてるのかしら……\nあの人って、\nそういうことをする人じゃないのに。"
+    },
+    {
+      "name": "Chibi Gold Ship",
+      "text": "That's right, VERY right!\nGolshi-chan is a pure Umamusume who lives for love and peace!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ",
+      "orig_text": "そーだそーだ！\nゴルシちゃんは\n愛と平和に生きる\nピュアなウマ娘だぞ！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Even so, we can't allow her to cause trouble for the people of this kingdom.\nWe should meet the other Golshis first and hear what they have to say.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "とはいえ、\nこの国のみなさんに\nご迷惑をおかけするわけにはいきません。\nとにかく\nまずはお会いして、\nお話を伺いたいところです。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Yes. That's all the more reason why we need to deal with the monsters, and fast!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "ええ。\nそのためにも、\n早く魔物たちをなんとかしないと！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "In that case, perhaps the best approach is to split up and catch them.\nI'll go see if I can find some reliable pals to give us a hand!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "となると、\n手分けをして捕まえるのが一番ですかね。\nわたし、\nお手伝いしてくれる方がいないか\n探してきます！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "And now, the results of the strictly conducted lottery...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それでは、\n厳正なるくじの結果──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Daring Tact shall hunt for the \"Goltunnus\" in the city of Oma.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "デアリングタクトさまは、\n港町・オーマで\n『ゴルトゥンヌス』を。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Lucky Lilac shall hunt for the \"Golziz\" in the pleasure district of Oedo.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ラッキーライラックさまは、\n歓楽街・オーエドで\n『ゴルジズ』を。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "And finally, Lady Almond Eye... you shall take on \"Wrathgolshi\" at the Ridge of the Green Dragon's Remains.\nWe will divide the targets among ourselves to defeat them and, in the process, capture the chibi Golshis.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そして、\nアーモンドアイさまは\n緑竜の骸嶺にて\n『ラースゴルシ』を。\nそれぞれ、\n分担して討伐し──\nちびゴルシさまを捕獲する、\nと。"
+    },
+    {
+      "name": "Karyl",
+      "text": "But... are you three seriously planning to take part in the capture?\nYou're not used to fighting, you could just leave it to us, you know.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "でも、\n本当に捕獲に参加するの？\n戦い慣れてないんだから、\nあたしたちに任せてもいいのに。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "No, please let us help!\nThis was originally a problem caused by our presence here.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "いえ、\nお手伝いさせてください！\nこれも、\n元はといえば私たちの問題ですから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "The monsters we're up against are fast, right? Well, while people were looking for the chibi Golshi-sans, we've been training and gradually recovered our feeling to run back. So don't worry!",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "相手の魔物は速いんでしょ？\nゴルシさんを捜してもらってる間に\nトレーニングもして、\nだいぶ感覚が戻ってきたの。\nだから大丈夫よ！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "You've all done so much for us. Please allow us to repay you for your kindness.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "みなさんには良くしてもらいましたから。\nうちらにも\n少しは恩返しさせてください。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I've been watching your training over the past few days, it was truly impressive.\nHonestly, having that kind of speed is a huge help.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "この数日\nトレーニングを見せてもらったけど、\nすごかったものね。\n正直、\nあの速さがあるのはありがたいわ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well then, let's split up and head out on a mission to rescue the chibi Golshis!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それじゃあ手分けして\nちびゴルシさん救出作戦に\n出発しましょう！"
+    },
+    {
+      "name": "Narration",
+      "text": "Various \"chibi\" Gold Ship are reportedly wreaking havoc in league with monsters. And so, the Umamusume and the members of the Gourmet Guild set out to capture them.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔物と手を組み暴れているというちびゴルシ。\n彼女を確保するため、\nウマ娘と【美食殿】のメンバーは\n行動を開始するのだった。"
+    },
+    {
+      "name": "Narration",
+      "text": "However...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "しかし──"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ah...",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "あ……"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "IT'S SO HOOOOOOT!?",
+      "choice_data_list": [],
+      "orig_name": "アーモンドアイ",
+      "orig_text": "あっつーーーーーいっ！？"
+    }
+  ]
+}

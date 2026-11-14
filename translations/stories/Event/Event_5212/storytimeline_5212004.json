@@ -1,0 +1,873 @@
+{
+  "title": "Adventurers Without Maps",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having been able to rendezvous with Labyrista, {0} and the others were preparing to return the \"people who had been trapped in the Dawn Realm\" with which they worked together so far.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ラビリスタと合流することができた{0}たちは、\nこれまで一緒に行動してきた『黎明界に取り込まれた人々』の\n帰還に向けて、\n準備を進めていた。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Now then... the teleportation magic is perfectly set up. With this, I can send everyone back to where they came from. And they shall make it in time for the New Year's Eve time limit.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "さて──\n転送魔法の段取りはバッチリだ。\nこれでみんなを元の場所に送り返せる。\n年越しのタイムリミットにも間に合うって寸法だ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...But before that, I would like your attention for just a second. Everyone who is returning now, could you please take a good look at this light? Yes, this way.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……が、その前に。\nちょっと協力してほしい。\nこれから戻る諸君、\nこのライトをしっかり見てくれないか？\nそう、\nこっちだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "With a flash of this light, you will completely forget all about the time you spent in the Dawn Realm. You will not need your memories here to return to your peaceful daily lives. OK?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "このライトの閃光で、\nキミたちは黎明界で過ごした時間を\nキレイさっぱり忘れることになる。\n平穏な日常に戻るためには、\nここでの記憶は不要だからね。\nOK？"
+    },
+    {
+      "name": "Tough-built Man",
+      "text": "Hey, lil'bro... are you and those girls planning to stay here? Aren't you going back with us? And this woman... who are you?",
+      "choice_data_list": [],
+      "orig_name": "恰幅のいい男",
+      "orig_text": "なあ、\n兄ちゃんたちは\nこっちに残るのか？\n一緒に\n戻らないのかよ？\nそれに\nあんた……\n嬢ちゃんたちも……\n何者なんだ？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "It is better for your own sake if you do not ask questions. Now, are you all good to go? Okay then... FLASH!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "聞かない方がキミたちのためだ。\nさ、\n心の準備はいい？\nそれじゃ──\nフラッシュ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The teleportation magic... worked just fine. ...Now then, let us close this scene for now.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "転送魔法、\n作動\nオーライ。\n……さて、\nひとまずこの現場はクローズといこう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Next up... Guess I need to get you three back home. In your case, losing your memories is not needed, but I promise it shall be a safe return.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "お次は……\nキミたちを帰してあげなくちゃね。\n記憶処理は要らないだろうけど、\n無事帰還させるって約束したからさ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Well then, shall we get ready? Huh? Is something wrong, you two?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "それじゃ、\n準備をしようか──\nん？\nどうした？　\n二人とも。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Master... Um, wait a minute. Hey, you aren't actually Master... right?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "マスター……\nあの、\nちょっと待って。\nねえ、\nあなた\n本当はマスター……\nじゃ、\nないよね？"
+    },
+    {
+      "name": "Labyrista?",
+      "text": "Is there... something bothering you?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ？",
+      "orig_text": "何か\n気になることが？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "There are so many things bothering me. No matter how you look at it, something is off. Your way of speaking, of acting... it's way cooler than usual! Isn't that right, Rino-chan?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "気になる事だらけだよっ。\nどう見ても様子がおかしいもの。\n言葉遣いも、\n普段より\nちょっとカッコつけてるし……\nそうでしょ、\nリノちゃん。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yes! If you're disguising as her, of course we'd notice! We were part of Labyrinth after all. Just because we disbanded doesn't mean we'll forget that!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はい！　\n変装してるにしても、\n気が付いちゃいますよ。\n私たち、\n【ラビリンス】の一員だったんですから。\n解散しちゃったからって、\n忘れたりしません！"
+    },
+    {
+      "name": "Labyrista?",
+      "text": "Ah, you are correct~ Indeed, I am not the \"real one\" you know so well.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ？",
+      "orig_text": "ああ、\nその通りだ──\nアタシは、\nキミたちのよく知る\n『本物』じゃない。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Sorry for the late introduction. I am Labyri-Theta (Θ) -- Another avatar created to support the main body.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "自己紹介が遅れて悪かった。\nアタシは\n『ラビリΘ（シータ）』──\n本体のサポート用に作られた\n別アバターだ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "A standalone projection (ghost) specialized for exploration and investigation... Think of me like one of the clones Neneka uses. Though... do not expect too much from my specs. My personality data has also been tuned to suit its purpose.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "探索や調査に特化したスタンドアロンの投影体（ゴースト）……\nいわば、\nネネカの使う分身みたいなものだよ。\n性能はご愛嬌だけどさ。\n用途に合わせて、\n性格データもチューン済み\nってワケ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Oh, so that's why you were showing off a little. You're like a fresh, a different version of Master!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ、\nそれでちょっとカッコつけてたんですね。\n新鮮かもです、\nマスターの別バージョン！"
+    },
+    {
+      "name": "Rino",
+      "text": "So then... where is the \"main\" Master right now?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "それで、\n本体のマスターは\n今どこにいるんですか？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "The main body is currently unable to contact me.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "本体は今、\nアタシとは連絡が取れない状態なんだ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "There is a strong \"reaction\" deep within the Dawn Realm, so she is probably stuck there, completely absorbed in an important analysis.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "黎明界の深層に強い『反応』があるから、\n多分、\nそっちに張り付いて大事な解析中なんだろうさ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "In other words, since Master herself is quite busy, she called upon a clone to assist her.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "つまり、\nマスター本人は手が離せないから、\n分身がサポートに来てくれた\nってことだね。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Exactly so... That shall be all for now. I will send everyone back to the safe house~",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "そういうこと……\n説明は以上だ。\nじゃあ、みんなもセーフハウスに送るから──"
+    },
+    {
+      "name": "Rino",
+      "text": "NO WAY! I'm not going home.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "イヤです！\n私、\n帰りません。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Whoops... That is an unexpected reaction coming from you. Could you tell me why?",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "おっと……\nそれは意外なリアクションだ。\n理由を聞かせてもらっても？"
+    },
+    {
+      "name": "Rino",
+      "text": "When I was able to see Master again, I felt a little relieved... However, the Master in front of me is just a clone, right?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "マスターとまた会えて、\n少しだけ安心した気持ちもありました。\nけど、\n今のマスターは\n分身ですよね。"
+    },
+    {
+      "name": "Rino",
+      "text": "In the end, I... really want to meet the real Master and talk to her! If you say you can't contact her because she's stuck analyzing something important... I'm sure she must be in trouble!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "やっぱり、\n本当のマスターに\nちゃんと会って話がしたいです。\n大事な解析中で\n連絡が取れないくらいなんだったら……\nきっと、\n困ってるはずです。"
+    },
+    {
+      "name": "Rino",
+      "text": "For someone like our Master to be left unable to move... It must be a serious situation that requires the use of a clone, right?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あのマスターが、\n動けなくなるなんて……\n分身さんを使うくらい\n大変な状況、\nなんですよね？"
+    },
+    {
+      "name": "Rino",
+      "text": "If that's the case, then I can't just go home like this! If I did, I have a sinking fear I might never be able to see her again... I'm afraid of that.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "だとしたら。\nなおさら帰れないです！\nもし今ここで帰ったら、\nもう\n本当に会えないんじゃないか\nって……\n私、\nそれが怖いんです。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Rino-chan...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "リノちゃん……"
+    },
+    {
+      "name": "Rino",
+      "text": "Just like the other day when \"Labyrinth\" was unilaterally disbanded. I don't want to lose something out of my reach again... Therefore... I'm going!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "この前、\n一方的に【ラビリンス】が解散しちゃったみたいに。\nまた……\n私の\n手の届かないところで\n何かをなくしたりしたら\n嫌だから……\nだから。\n私、\n行きます！"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "...I see. Apologies. It may have been the main body's decision, but I was not considerate of your feelings.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "……そうか、\nごめん。\n本体の判断とはいえ、\nキミたちの気持ちを考えてあげられてなかった。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "But since I already unilaterally disbanded the guild, it is too late for me to ask for your help now...",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "でも一方的にギルドを解散したアタシが、\n今更、\nキミたちの力を借りるのは──"
+    },
+    {
+      "name": "Shizuru",
+      "text": "If our guild really disbanded, then there's no reason for us to follow your orders, is there? Right now, it's not because of a \"mission\", I'm going along because I want to help Master.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ギルドがないなら、\n命令に従う必要もないよね？\n今は『任務』じゃなくって、\nマスターを助けたいから\n一緒に行くよ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "When the guild was suddenly disbanded, I... also felt a little sad. I want to see this through with my own eyes so I can accept the situation fully. Therefore, I feel the same.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ギルドが急に解散して\nやっぱり……\nちょっと\n寂しかったよ。\n今度はちゃんと納得できるよう、\n自分の目で見届けたいの。\n私も。"
+    },
+    {
+      "name": "Rino",
+      "text": "Master, I'm sure... she has come here with the resolve to solve that abnormality. In that case, what's important here is to help each other out right now.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "マスターはきっと、\nあの異変を解決しに来たんですよね？\nだったら、\n大切なのは──\n今、\nお互いを助け合うことだと思いますっ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Let's move forward together. We've been comrades for a long time, right?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "一緒に進もうよ。\n私たち、\nずっと仲間だったでしょ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "You two... how stubborn can you be... What if I still say I want to go alone?",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "二人とも、\nなんて頑固なんだろ……\nそれでもアタシが一人で行くと言ったら？"
+    },
+    {
+      "name": "Rino",
+      "text": "Even so, I won't let you go! I'd hold onto you... just like this!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "それでも離れません。\nこ\nうやって\n掴んでますから！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Me too♪ And also... the same goes for you, right, little brother?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "私もだよ♪\nそれに──\n弟くんも来てくれるよね？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Good grief... I really am no match for you guys.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "……やれやれ、\n本当にキミたちには敵わないな。"
+    },
+    {
+      "name": "ラビリΘ",
+      "text": "…ありがとう。\nキミたちと一緒なら、\n本体の所まで一直線\nってやつだ。\nよし、\nそれじゃ\nこの４人で行こう！",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "…ありがとう。\nキミたちと一緒なら、\n本体の所まで一直線\nってやつだ。\nよし、\nそれじゃ\nこの４人で行こう！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Strange... The left path and the right path... they don't seem to match in appearance and atmosphere. They both seem tacked on, unnatural...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "変だな……\n左の道も\n右の道も、\n見た目と雰囲気がなんだか噛み合ってない気がするよ。\nどっちも\nとってつけたような、\n不自然な道……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Is this supposed to be some kind of test...? Little brother, which way do you think we should go?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もしかして、\nこれって\n私たちを試してるのかな……？\n弟くん、\nここは\nどっちに進むべきだと思う？"
+    },
+    {
+      "name": "Rino",
+      "text": "Ah, Onii-chan, wait! I think I just heard a strange sound. It said, \"Don't go any further...\", I believe.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あっ、\nお兄ちゃん、\n待って！\n今、\n変な音がした気がします。\n進んじゃダメ、\nみたいな……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "A sound? I heard nothing... But if you're worried about it Rino-chan, then it must be true.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "音？　\n私は分からなかったけど……\nリノちゃんが気になるなら、\n何かあるのかもね。"
+    },
+    {
+      "name": "Rino",
+      "text": "Hmm... It's hard to put into words, but it wasn't just a sound. It was almost like a feeling that \"this isn't the right place\".",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "んー……\n言葉にはしにくいけど、\nただの音じゃなくて\n「ここじゃないよ」\nっていう感じがしたんです。"
+    },
+    {
+      "name": "Rino",
+      "text": "It reverberated inside me... Or rather, it felt like someone was teaching me...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "自分の中に響く\nというか……\n誰かに教えられてるみたいな気がして……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Come to think of it, when we were looking for those treasure chests earlier, you were the only one who could tell them apart, Rino-chan.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そういえば、\n前に宝箱を探してたときも、\nリノちゃんにだけ音が聞こえた\nって言ってたよね。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "If you're feeling the same kind of hunch, then I'm sure it's not a mistake. I believe in you.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もし同じ感じだったら、\n今回もきっと間違いじゃないと思う。\n私は信じるよ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "At times like these, logic alone may not be enough. Let us rely on Rino-chan's inspiration.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "こういう時は\n理屈だけじゃたどり着けないこともある。\nリノちゃんのインスピレーション、\n頼りにしてみようか。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Now then, which way do you want to go, Rino-chan? On the left? Or maybe the right?",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "さて、\nリノちゃんはどっちの道が気になる？\n左の道？　\nそれとも右？"
+    },
+    {
+      "name": "Rino",
+      "text": "Umm... Right in the middle, actually. Neither of those other paths are correct, so... I feel like I'm being guided to go on straight ahead.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "えっと……\n真ん中、\nです。\nどっちの道も本当の道じゃないから──\n何にもないところをまっすぐ前に進め\nって……\n案内されてる気がします。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "And there's no path to be found in the middle... But if you say so, Rino-chan, then I'm sure it'll be fine! Big Sis will believe in you and follow along!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "本当に、\n道すらないけど。\nでも\nリノちゃんがそう言うなら、\nきっと大丈夫！\nお姉ちゃん、\n信じてついていくね！"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "A path that does not even appear on the map -- True to the spirit of an adventure, I guess. Yeah, a third option is not so bad. I am counting on you, Rino-chan.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "地図にも出てこない道──\nこれもまた冒険\nってことか。\nうん、\n第三の選択肢も悪くない。\nリノちゃん、\n頼りにしてるよ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Come to think of it... something like this has happened before. When I was having trouble opening treasure chests...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "そういえば……\n前にも\nこんなことありましたよね。\n私が宝箱を開けられなくて、\n困ってた時……"
+    },
+    {
+      "name": "Rino",
+      "text": "Back then... you also came to save me, Master. Do you remember?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あの時も\nマスターが助けに来てくれましたよね。\n覚えてます？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Ah, that brings back memories. I remember it well. It seems to be an episode that is deeply etched in the memory of the main body.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "あぁ、\n懐かしいな。\nよく覚えてるよ。\n本体の記憶に強く刻まれてるエピソードみたいだ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Onii-chan, I'm sure I also told you earlier, remember? But in truth, there's more to that story~...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お兄ちゃんにもちょっと話しましたよね？\n実は、\nあの話には\n続きがあって──"
+    },
+    {
+      "name": "Narration",
+      "text": "Back during the Labyrinth mission where Rino had to retrieve magical tools from a ruin, she was struggling with a treasure chest~",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それは【ラビリンス】の魔道具を回収する任務で、\nリノが宝箱の封印と格闘していた時のこと──"
+    },
+    {
+      "name": "Rino",
+      "text": "FUGYAAAAAHHHHH...!!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "ふぎゃ────っ！！"
+    },
+    {
+      "name": "Rino",
+      "text": "Ugh, it's no good again... Why can't I do this right? I followed the steps exactly as the manual said back when I practiced, so I'm sure there's nothing wrong in what I'm doing...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "うぅ、\nまたダメだ……\nどうして、\nうまくできないんだろう。\n練習通り、\nマニュアル通り、\n手順は間違ってないはずなのに。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Everything's okay, Rino-chan?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "大丈夫かい、\nリノちゃん？"
+    },
+    {
+      "name": "Rino",
+      "text": "M-Master!? What are you doing here...? I knew it... I'm taking too long so the mission has failed? I really am a--...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "マ、\nマスター！？　\nどうしてここに……\nやっぱり\nこんなに時間がかかってたら、\n任務失敗ですか？\n私……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "No, no, that's not it! I was just curious, so I came to check on you. I gave you a bit of a difficult mission, so I wondered if you were struggling going at it alone.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いやいや、違うよ！　\nなんとなく気になって、\n様子を見に来たんだ。\nちょっと難しい任務だったし、\n一人で悩んでないかな\nって。"
+    },
+    {
+      "name": "Rino",
+      "text": "...I'm sorry. No matter how many times I try, I can't seem to open this one properly...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……ごめんなさい。\n何度やっても、\nうまく開けられなくて……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Rino-chan, I believe you might be overthinking things using just your head. Of course, the basics are important, but sometimes it's good to trust your intuition and tell yourself, \"This is it!\", you know.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "リノちゃん、\n今は\n頭で考えすぎているのかもね。\nもちろん基本も大事だけど、\n時には\n自分の\n「ここだ！」\nって直感を信じてみるのもアリだと思うよ。"
+    },
+    {
+      "name": "Rino",
+      "text": "My intuition...? Hmm, I wonder about that...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "直感……\nですか？\nうーん、\nどうなんだろう……"
+    },
+    {
+      "name": "Rino",
+      "text": "But it's true that up until now, when I was searching for treasure chests and such, there were several times when I thought, \"This is definitely it!\"",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "でも、\n確かに今まで宝箱とか探す時に、\n「絶対ここだ！」\nって思う瞬間、\n何度かありました……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "That right there, \"that\"! I'm sure that's what you need, Rino-chan.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "それそれ！\nきっと、\nそれがリノちゃんの得意なところだよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I think there are things that can be felt more clearly without using reason. Try to trust your senses a bit more.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "理屈以上に、\nちゃんと感じ取れるものがあるんだと思う。\n自分の感覚を\nもっと信じてみてごらん。"
+    },
+    {
+      "name": "Rino",
+      "text": "...Yeah. If you say so, Master, I'll rely on my own intuition a little more!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……うん。\nマスターがそう言ってくれるなら、\nもう少し、\n自分のカンも頼ってみます！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Right, right! That's fine! It's totally okay if you fail, so just try at your own pace.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そうそう、\nそれでいい！\n失敗しても全然大丈夫だから、\n自分なりのペースでやってみよう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Anyone can acquire knowledge and skills if they study hard and gain experience. However, not everyone has the same intuition that you have, Rino-chan.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "知識や技術は、\nちゃんと勉強して経験を積めば\n誰でも身につく。\nでも、\nリノちゃんみたいな直感は\n誰もが持てるものじゃない。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The ability to sense what is hidden in things... It is a very precious talent, so I hope you will cherish it.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "物事の中に隠れている何かを感じ取る力……\nそれはとても貴重な才能だから、\n大切にしてほしいな。"
+    },
+    {
+      "name": "Rino",
+      "text": "...Thank you very much, Master. I'll trust and believe in my own instincts and try again!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……ありがとうございます、\nマスター\n私、\n自分の感覚を信じて\nもう一度チャレンジしてみます！"
+    },
+    {
+      "name": "Rino",
+      "text": "Thanks to Master's encouragement back then, I was able to overcome my weakness in lock picking.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あのときマスターに励ましてもらったから、\n苦手だった鍵開けも克服できました。"
+    },
+    {
+      "name": "Rino",
+      "text": "Now you can leave handling any kind of treasure chest to me! ...Just kidding! ...Yet it was all thanks to Master.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "今はもう、\nあんな宝箱くらいなら任せてください！\nなんて。\n……全部、\nマスターのおかげです。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Eeeh... so that's what happened between you and Master. Listening to your story, Rino-chan, reminded me of an experience I had with her too...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "へ～、\nマスターとそんなことがあったんだ。\nリノちゃんの話を聞いてたら、\n私も思い出すなぁ──"
+    },
+    {
+      "name": "Narration",
+      "text": "One day, back when Shizuru was taking on a special mission for Labyrinth...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それはシズルが【ラビリンス】の特殊任務に就いていた、\nある日のこと──"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Even though it's a special festival, what a total disappointment to find myself staking out some suspicious group... It's already been three days... I'm running low on little brother-like energy...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "せっかくのお祭りなのに、\n怪しい集団の張り込みなんて華がないよ……\nもう３日……\n弟くん成分も不足してきてるよぉ……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Don't say that, Shizuru-chan. If my guess is correct, there should be some movement today.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そう言わないでよ、\nシズルちゃん。\nアタシの見立てが正しければ、\n今日あたりに動きがあるはずだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "A syndicate that trades dangerous magical tools on the black market... We've got hold of their tail. We must seal those tools away before they reach anyone and cause any harm.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "危険な魔道具を裏取引するシンジケート……\nその尻尾を掴んだんだ。\n人知れず、\n被害が出ないうちに封印しないと。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "If nothing had happened, I would have been walking around this festival hand in hand with my little brother... Huh? What I'm seeing right there is...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "何もなかったら、\n弟くんとこのお祭りを回ってるはずだったのに……\n……\nあれ？　\nあそこに見えるのは……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "My little brother with... a girl Big Sis knows nothing about...?! What kind of relationship does he have with that girl...?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "弟くんが、\nお姉ちゃんの知らない女の子と……！？\nあの子と一体どういう関係なの……？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...N-No, no good. I'm on a mission right now, so I can't leave my post... But, but... it's really bothering me...!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "──ダ、\nダメダメ。\n今は任務中だし、\n持ち場離れられないし……\nでもでも、\nすっごく気になる……！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "At the very least, I could just take a little peek and see how he's doing... No, maybe I should just take care of this first. That syndicate and everyone in it. Don't you think so too, Master?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "せめて様子だけでも……\nいや、\nもう私が今すぐとっちめちゃえばいいんじゃないかな。\nあのシンジケート、\nみんな。\nマスターもそう思わない？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "SHIZURU-CHAN, STAY! Please, calm down! I understand how you feel, but please bear with me here! If you prioritize this mission, I'll make it up to you later!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "シズルちゃん、\nステイ！　\nお願いだから落ち着いて！\n気持ちはよーく分かるけど、\nここは堪えて！\n今回の任務を優先してくれたら\n後で埋め合わせするからさ！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "But! BUT!! At this very moment, something might be happening to my little brother...! I'm so worried...!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "でも！　\nでも！！\n今この瞬間にも、\n弟くんに何かあったら心配で……！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Don't worry, I'll go ahead and use my connections to ask an informant! ...Ah, hello? Please monitor the target immediately!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "大丈夫、\nそっちは\nアタシのツテで情報屋さんに頼んでおく！\n……あ、\nもしもし？　\n緊急で\n対象の監視をお願い！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "All right! They'll contact me immediately if there's any change with the Boy. They'll also send me a report later. So, please... just make do with that for today, okay?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "よし！　\n少年に何か変化あったら\nすぐ連絡入れてくれるってさ。\nあとでレポートも送ってくれるって。\n今日はそれで\n我慢してよ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "In that case... I'll prioritize the mission... Ugh, yet I'm still curious...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "それなら……\nまずは任務をちゃんと……\nうう、\nやっぱり気になるなぁ……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "In such situations, it'd be nice if we could all use clones just like Neneka. Then Shizuru-chan No. 1 would be on a guild mission, No. 2 would be hanging out with her little brother, and No. 3 would just be... on vacation, I suppose...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "こういう時、\nネネカみたいな分身が使えたらいいんだけどね。\nそしたら、\nシズルちゃん１号は\n任務、\n２号は\n弟くん張り付き、\n３号は\nなんとなく休日\nとか……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ah, I see! A clone! That's a good solution! I'll be giving it a try!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あ、\nそっか！　\n分身！\nその手があった！　\n私、\nやってみるね！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Huh? No, no... if it were that easy, we wouldn't be stru-...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "え？　\nいやいや、\nそう簡単にできたら\n苦労はしな……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "MmmmmMMMMMMMMMMMMM...!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "むむむむむむ～\n～～……！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Pwah... No good... With my current Big Sis power it won't work...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ぷはぁ……\nダメだぁ……\n今の私じゃ、\nお姉ちゃん力がもたないよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Were my eyes playing tricks on me...? I think I saw two Shizuru-chans just now... No, it's just my imagination... right...?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "アタシの目の錯覚……？\nいま、\nシズルちゃんが二人に見えたような……\nいや\n気のせいだ……\nそうだよ\nね……？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...That's what happened. Thanks to that experience, I was able to reaffirm that there is nothing that a Big Sis can't do for her little brother.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……なんてこともあったよね。\nあの時のおかげで、\n弟くんのためなら\nお姉ちゃんに不可能なんてない\nって再確認できたんだ。"
+    },
+    {
+      "name": "Rino",
+      "text": "I believe I've heard stories of your clones once before... But to think there were glimpses of that absurdity even back then...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "いつぞやお姉ちゃんが分身した話は聞いてましたけど。\nその時から片鱗はあったんですね……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Big Sis's love for her little brother is simply infinite♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "お姉ちゃんの中にある、\n弟くんへの愛は\n無限大だから♪"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Shizuru-chan's love knows no bounds, huh... That said, be careful not to let your love get out of control. I am sure you understand that well enough.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "シズルちゃんの愛情に限界はないんだな……\nとはいえ、\n愛の暴走にはご注意だ。\n十分理解はしてるだろうけど。"
+    },
+    {
+      "name": "Rino",
+      "text": "It's precisely because she's like that that I think she really is amazing. Without flattery.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "そんなお姉ちゃんだからこそ、\n本当にすごい\nって思います。\nお世辞抜きに。"
+    },
+    {
+      "name": "Rino",
+      "text": "But, the two of us... have been helped by Master so many times. That's why I am who I am right now...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "でも、\n私たち……\nマスターには何度も助けてもらったんですよね。\nだから、\n今の私があって……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Yeah. I've been pushed forward many times... If it weren't for Master, I wouldn't be here now. I'm sure.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うん。\n私も\n何度も背中を押してもらったし……\nマスターがいなきゃ、\n今ここにはいなかったよ。\nきっと。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Ah, I believe you would always be right by the Boy's side, Shizuru-chan. I am sure that is one thing that would never change.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "ああ、\nシズルちゃんは間違いなく少年の所に転がり込んでるだろう。\nそこだけは正解してる自信がある。"
+    },
+    {
+      "name": "Rino",
+      "text": "Therefore, now... it's our turn! If Master's in trouble, then we'll be the ones to save her!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "だから今度は、\n私たちの番ですよ。\nマスターが困ってるなら絶対助けます！"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Hehe... I am honestly happy to hear you say that. Please make sure convey those feelings to the original me.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "ふふっ……\nそう言ってもらえると、\n素直にうれしいな。\nその気持ちは、\nぜひ本物のアタシにも伝えてあげてくれ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Now then, there is something I would love all you kind people to hear right now. This disturbance in the Dawn Realm... It seems that the \"Automatic World Generation Program\" is deeply involved with it.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "さて、\nそんな優しいみんなへ\n今のうちに伝えておきたいことがある。\n今回の黎明界の異変……\n『世界の自動生成プログラム』が深く関わっているようなんだ。"
+    },
+    {
+      "name": "Rino",
+      "text": "A... an automatic world generation program...? What would that be?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "せ、\n世界の\n自動生成プログラム……？\nそれって、\nどういうものなんですか？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Simply put, for this Dawn Realm -- it is the entity that creates this world, and keeps it running.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "簡単に言うと、\nこの黎明界──\n世界そのものを生み出し、\n維持している存在だ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Normally, something like this should not be able to happen so easily... but... It seems Vision Empress is up to something regarding it. After all, \"automatically generated worlds\" are her specialty.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "本来なら、\nそう簡単に異変が起きたりはしないはずだけれど……\n──どうも、\n幻境竜后が何か仕掛けている気配がある。\n元々、\n『世界の自動生成』は\n彼女の十八番だしね。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "This Vision Empress... is she part of the Seven Crowns?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "幻境竜后って、\n七冠の？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Yeah. While investigating outside interference, I found evidence of her involvement. It was well camouflaged, but... I also happen to be one of the Seven Crowns.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "ああ。\n外部からの干渉について調べていたら、\n彼女の関与した痕跡が見つかった。\n巧妙にカモフラージュされていたが……\nこっちだって七冠だ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "The real me is currently investigating further on that note, so she might be able to disclose more details than I am capable of. Either way, it is a pretty tricky situation~...",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "本体のアタシならもう少し調べているかもしれないし、\n詳しいことが分かったら必ず伝えるよ。\nいずれにせよ、\nかなり厄介な状況さ──"
+    },
+    {
+      "name": "ラビリΘ",
+      "text": "────────",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "────────"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Master...?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "マスター？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "...Sorry, the signal is a little messed up. Seems like something is off.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "……すまない、\n信号が\n少し乱れた。\nちょっと調子が悪いみたいだ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Don't tell me... something's happening to Master herself...?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "まさか……\nマスター本人に何か起こってるんじゃ……？"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Thank you for your concern, Rino-chan. I'm sure that everything is fine, and I believe that goes for the main body too.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "心配してくれてありがとう、\nリノちゃん。\nきっと大丈夫、\n本体も無事だと信じよう。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ah, look! There's a portal over there!!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "──あ、\n見て！　\nあっちにポータルが！！"
+    },
+    {
+      "name": "Rino",
+      "text": "It's true...! So this is the right path!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "本当だ……！\n道はこっちで合ってたんですね！"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Yeah, looks like your intuition was right on point, Rino-chan.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "ああ、\nリノちゃんの直感は正しかったみたいだ。"
+    },
+    {
+      "name": "Labyri-theta(Θ)",
+      "text": "Once we pass through this portal -- we will finally be able to reach the deepest part of the Dawn Realm, where the \"real me\" awaits.",
+      "choice_data_list": [],
+      "orig_name": "ラビリΘ",
+      "orig_text": "このポータルを抜ければ──\n黎明界の最深部、\nいよいよ本体のアタシにたどり着ける。"
+    },
+    {
+      "name": "Narration",
+      "text": "With a slight sense of unease in their hearts, the group heads towards the deepest part -- to the place where all the answers await.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "小さな不安を胸に、\n一行は最深部へと歩みを進める──\nすべての答えが待つ、\nその場所へ。"
+    }
+  ]
+}

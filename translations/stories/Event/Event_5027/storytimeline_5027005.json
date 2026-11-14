@@ -1,0 +1,430 @@
+{
+  "title": "Lurker in the Jungle Ruins",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Matsuri and the members of Dragons' Nest\nforge a path through the jungle in search of Tomo and the dragon.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カヤたち【ドラゴンズネスト】とマツリ一行は、\nトモとドラゴンを探し生い茂った木々の中を進む。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Is this really the right way?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "こっちであってるッスか？"
+    },
+    {
+      "name": "Homare",
+      "text": "Don't worry, we're on track~! ♪\nAccording to what I \\\"saw\\\" just now, at least. ☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "大丈夫、\nあってるよ～♪\nさっき私が\n『見た』限りだとね☆"
+    },
+    {
+      "name": "Inori",
+      "text": "The boss is never wrong about things like this.\nKaya-P, did you find anything over there?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "こういう時だけは頼りになるから安心するです。\nカヤぴぃ、\nそっちはなにかみつけたですか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "This is that stone tablet, right?\nIf it's lying around here, that means...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "これ、\nあの石板だよな？\nこんなところに落ちてるってことは……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Did that tree just shake?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "樹が揺れたッス！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Over there!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あっちだ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Tomo!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "トモね～ちゃん！！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Wha—?! What are you doing here, Matsuri?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "なっ！？\n　なんでマツリちゃんがここに？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Now that's a dumb question.\nIf anything, we oughtta be asking you.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "なんでじゃないだろ。\nそもそもそりゃこっちの台詞だって。"
+    },
+    {
+      "name": "Inori",
+      "text": "Running off on your own and getting cornered? Serves you right!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "一人で出て行って追い込まれるなんて、\nざまあないです！"
+    },
+    {
+      "name": "Tomo",
+      "text": "...Yes, you're right.\nI suppose I just wasn't able to handle this alone like you.\nMy mission is a failure... I don't know how I can face Matsuri now...",
+      "choice_data_list": [
+        "You really did your best.",
+        "Matsuri was worried about you."
+      ],
+      "orig_name": "トモ",
+      "orig_text": "……\nうん、\nその通りだ。\n私じゃ\nあなたたちのように\n一人ではうまくやれなかったよ。\nこれじゃあ任務も失敗……\nとても\nマツリちゃんに合わせる顔なんて……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Of course you'd say that... Honestly, I'm no match for you.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あなたって人は……\nまったく、\nかなわないなあ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Yeah... I'm sorry, Matsuri.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "うん……\nごめんね、\nマツリちゃん。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Waaahhh! C'mon, Tomo!\nYou can't leave me behind like that!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うあーん！！\n　\nトモね～ちゃん！\n置いてくなんてひどいッス！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, heck. Look how much the kid cares about you.\nInstead of trying to save face, why don't you consider her feelings?\nBesides, being partners is about more than just success or failure, right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おいおい、\nキミだってずいぶんと慕われてるじゃないか。\n合わせる顔とかじゃなくてさ、\n仲間に心配かけんなってことだよ。\nそれに仲間ってのは、\n役に立つ立たないってもんじゃないだろ？"
+    },
+    {
+      "name": "Inori",
+      "text": "Does that go for us too, Kaya-P?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "カヤぴぃにとってもそうです……？"
+    },
+    {
+      "name": "Kaya",
+      "text": "'Course it does.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あたりまえだろ？"
+    },
+    {
+      "name": "Inori",
+      "text": "...Ehehe. Good to hear.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……えへへ、\nそうですか。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Haha... Well, dang.\nI'm getting lectured by my own targets.\nBut you're right. I shouldn't have made you all worry.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "はは……\nまいったな。\n監視対象に説教までうけちゃうなんて。\nでも、\nその通りだ。\nみんなに心配かけちゃいましたね。"
+    },
+    {
+      "name": "Homare",
+      "text": "Were you that desperate to fulfill your mission?\n...Young knight of Nightmare. ☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そこまで必死になるほどの任務だったのかな～？\n【王宮騎士団（NIGHTMARE）】のお嬢さん☆"
+    },
+    {
+      "name": "Tomo",
+      "text": "You even know about that?\nSheesh... You were just toying with us all along.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "そこまでバレてたのか……\nまいったな、\n完全にそちらの掌の上だったんだね。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Says the girl who managed to leave us in the dust.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そんなオレたちを出し抜いておいて\nよく言うぜ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "I got so on edge, I wasn't thinking straight.\nI really am still just a greenhorn.\nThank you again, Matsuri. I'm so glad you came after me.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "焦りと対抗心で\n冷静さを見失っちゃってたよ。\nやっぱり、\n私は未熟者だな。\nあらためて、\nありがとう\nマツリちゃん。\n助けに来てくれてうれしいよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, Tomoooo!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "トモね～ちゃん！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Heh. You should've quit being stubborn from the start!\nIf you say you're sorry, you can be my subordinates and—",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "へっ、\n最初からそう素直にしてればかわいげがあったですよ。\nこれからはこのイノリ様に感謝して子分に……"
+    },
+    {
+      "name": "Homare",
+      "text": "Hey, you guys~? Sorry to interrupt your little chat...\nBut isn't that... our mystery attacker over there?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ねえ\nみんな～、\n盛り上がってるところ悪いんだけど～……\n昨夜の\nって……\n『アレ』で\nあってるよね？"
+    },
+    {
+      "name": "Dragon?",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "……"
+    },
+    {
+      "name": "Narration",
+      "text": "Everyone turns to follow Homare's gaze.\nA gigantic beast stands before them,\nstaring as if to evaluate the intruders.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ホマレの指さした先に、皆の視線が集まる。\nその巨体は、まるで値踏みをするように一行を見つめていた。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Uh, boss...? Is this really the same dragon\nwe came out here to look for?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "なあ、\nボス……\nオレたちが探してるドラゴンって……\nこいつであってるのか？"
+    },
+    {
+      "name": "Homare",
+      "text": "Inori, you're the one who saw it up close. Well?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "直接遭遇したイノリちゃんからみて、\nどう？"
+    },
+    {
+      "name": "Inori",
+      "text": "Ummm... Was it always this ugly?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "うーん……\nこんなブサイクだったですかね？"
+    },
+    {
+      "name": "Dragon?",
+      "text": "Mrrghh?!",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "ぐもっ！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Largo, can you talk to it?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ラーゴ、\nお話できる？"
+    },
+    {
+      "name": "Largo",
+      "text": "Growwrrr!",
+      "choice_data_list": [],
+      "orig_name": "ラーゴ",
+      "orig_text": "ギャオッ！"
+    },
+    {
+      "name": "Dragon?",
+      "text": "Mrghhhhhh...",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "ぐももも……"
+    },
+    {
+      "name": "Largo",
+      "text": "Grow-growl!",
+      "choice_data_list": [],
+      "orig_name": "ラーゴ",
+      "orig_text": "ギャオッギャオッ。"
+    },
+    {
+      "name": "Dragon?",
+      "text": "Mrrrgh...",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "ぐもぉ……"
+    },
+    {
+      "name": "Kaya",
+      "text": "...They're not on the same wavelength, are they?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……なんか、\n通じてないっぽいな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hold up... Is this thing a real dragon?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "もしかして、\nこいつって\nドラゴンだったッスか！？"
+    },
+    {
+      "name": "Dragon?",
+      "text": "Mrghh!",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "ぐもっ！"
+    },
+    {
+      "name": "Homare",
+      "text": "That's what we thought, but... Hmmm...\nWe might need to inspect it more closely before we can be sure.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そうだと思ったんだけどー……\nうーん……\nもうちょっとよく調べないと\n目的のものかどうかは分からないかな☆"
+    },
+    {
+      "name": "Tomo",
+      "text": "Could it be... the guild you belong to, Dragons' Nest,\ncame here to search for dragons and ruins related to them?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "もしかして、\nあなたたちのギルド\n【ドラゴンズネスト】は\nドラゴンと\nそれにまつわる遺跡を探しに……？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Well, yeah. We're all dragonfolk, but even we\ndon't know much about our own roots. And we'd like to.\nWait, did you never tell them that, {0}?",
+      "choice_data_list": [
+        "Didn't I mention it?"
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "まあな。\nドラゴン族っていっても\n自分たちですら\nはっきりとしたルーツが分かんないからさ。\nその調査にな。\nって\nキミから言ってないのか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Huh?! You knew their goal here this whole time?!\n*sigh*... I suppose we should have asked you to begin with...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "えっ！？\n　今回の目的、\n知ってたんですか！？\nはああ……\nなんだ、\n最初からあなたに聞けばよかった……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "We thought you were here to do shady gangster stuff...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "てっきり\nギャングとして悪事を働きにきたと思ってたッス……"
+    },
+    {
+      "name": "Homare",
+      "text": "Oh, I can't believe you'd think that of us~!\nDo we really look like such villains?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そんな風に思われてたなんて心外だな～……\n私たちって、\nそんな悪人に見える？"
+    },
+    {
+      "name": "Inori",
+      "text": "For my own safety, I'd rather not answer that.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "怒られたくないので答えたくないです……"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Yeah, no comment.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……ノーコメントで。"
+    },
+    {
+      "name": "Tomo",
+      "text": "What were you planning to do with any dragons you found?\nFix this \\\"broken world\\\" by standing up to the palace?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ドラゴンを使って\n何をしようとしていたんですか？\n間違った世界というのは\n王家の統治のことを？"
+    },
+    {
+      "name": "Homare",
+      "text": "Oh, I see. You overheard that, did you?\nAh, of course... I wasn't \\\"watching\\\" then, so I couldn't have known! ☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そっか、\nそれを聞かれちゃってたんだ～……\nでもあの時は\n『見て』なかったし、\nしょうがないか～☆"
+    },
+    {
+      "name": "Homare",
+      "text": "Trust me, we're not planning to set dragons on Landosol or anything.\nWhat's broken is our geography, history, common sense, memories...\nEverything that makes up this world.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "別に\nドラゴンをみつけて\nランドソルをどうこう\nっていうんじゃないの。\n間違ってるのは、\n地理や歴史、\n常識や記憶、\nこの世界を含めた全部。"
+    },
+    {
+      "name": "Homare",
+      "text": "Surely even you have felt it from time to time?\nRight now, this world is...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それは、\nあなたも\n感じたことがあるんじゃないかな？\nこの世界は\n今……"
+    },
+    {
+      "name": "Inori",
+      "text": "This isn't the time for all that stuff!\nWe need to deal with that ugly dragon!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "今はそんな話どーでもいいですよ！！\nそれよりこのブサイクドラゴンです！"
+    },
+    {
+      "name": "Dragon?",
+      "text": "Mrghhhh...!",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "ぐももっ……！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Hold up! Look how it's acting...!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "待つんだ！\n　\n相手の様子が……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hm? What now? Looking for a fight?\nSure thing—bring it on!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "お？\n　\nなんだ？\n　やる気かコイツ？\nいいぜ、\nかかってこいよ！"
+    },
+    {
+      "name": "Dragon?",
+      "text": "FFSSHHHHRRR...",
+      "choice_data_list": [],
+      "orig_name": "ドラゴン？",
+      "orig_text": "スウウゥゥゥ……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Could this be... like when it attacked the camp?!\nEveryone, get back!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "まさかアレは、\nキャンプを襲った時のっ！？\nみんな、\n逃げるんだ！"
+    },
+    {
+      "name": "Narration",
+      "text": "In response to Kaya's provocation, the dragon inhaled deeply.\nForeseeing an incoming burst of fiery breath,\nTomo found herself leaping forward to protect Matsuri.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カヤの挑発に対し、大きく息を吸い始めるドラゴン。\nその後に来るであろうドラゴンのブレスに対し、\nトモはマツリをかばうべく飛び出していた。"
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "title": "St. Theresa's Academy (Friendship Club) Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Brought together by their common desire for cash,\nYuni, Chloe and Chieru are now faced with a boy they all recognize.\nThus the scholarship briefing becomes a whirlwind of surprises...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "奨学金受給を希望して集まったユニ、クロエ、チエル。\nそこに現れたのは３人共それぞれが顔見知りの男子。\n波乱の説明会が、いま幕を開けた。"
+    },
+    {
+      "name": "Teacher",
+      "text": "Ahem. Settle down.\nNow, if we're ready, let's hear the transfer student\nintroduce himself properly.",
+      "choice_data_list": [
+        "I'm {0}.",
+        "Let's all get along."
+      ],
+      "orig_name": "女性教員",
+      "orig_text": "えー、\n静粛に。\nそれでは改めて、\n試験編入生に自己紹介をしていただきましょう。"
+    },
+    {
+      "name": "Teacher",
+      "text": "It just so happens that when our academy began the search\nfor a deeply respectable young man to take part in this exercise...",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "彼はですね、\n当学院が\n今回の試みに相応しい\n品行方正な\n青年男子を探していたところ──"
+    },
+    {
+      "name": "Teacher",
+      "text": "We received an enthusiastic recommendation\nfrom Miss Io of Lucent Academy, offering a most suitable student.",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "──ならば適任の生徒がいるとして、\nルーセント学院のイオ教諭より\n御紹介いただきました。"
+    },
+    {
+      "name": "Teacher",
+      "text": "In her words, young {0} is always calm and composed,\nand ever cordial with his female peers;\nthe very picture of an affable Landosol gentleman.",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "彼女いわく、\n{0}君はいかなるときも冷静沈着、\n女性相手にも決して浮つくことのない、\n物腰柔らかな\nランドソル紳士だということです──"
+    },
+    {
+      "name": "Teacher",
+      "text": "Ah, but it seems such introductions are unnecessary.\nMay I take it that you are all acquainted with him already?",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "──が、\nもっとも\n説明は不要だったようですね。\nどうやら各自、\n彼とは少なからず面識があるようで。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Uh... Well. I do know him, yeah...",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "はあ、\nまあ、\n知ってますけど……"
+    },
+    {
+      "name": "Chieru",
+      "text": "I know him too, buuut... how to say this...\nThere's something bugging me about those tags you gave him...",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "知ってますけど、\nうーん、\nなんてゆか……\nその評価タグは微妙にコレジャナイ感が……"
+    },
+    {
+      "name": "Teacher",
+      "text": "What's this?\nWhy are the three of you staring so incredulously?",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "なんです？\nどうしました、\n３人一斉にじっと彼を眺めて。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Deeply respectable...?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "品行方正……？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Calm and composed...?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "冷静沈着……？"
+    },
+    {
+      "name": "Chieru",
+      "text": "A gentleman... Pfft.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "紳士（笑）。"
+    },
+    {
+      "name": "Chloe",
+      "text": "She sure knows how to pick 'em, that Io from Lucy AC.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "随分いいように言ったなァ、\nルー学のイオちゃん。"
+    },
+    {
+      "name": "Teacher",
+      "text": "Do you have objections?",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "異論があるのですか？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Well, no, I suppose from a certain perspective,\nthose assessments may be somewhat difficult to entirely dismiss, but...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いや、\nまあ、\nたしかに見方を変えれば、\nいずれの表現もあながち間違いとまでは言い切れまいが……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Ehhhh~? You think he's a \\\"Landosol gentleman\\\"?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ええ～？　\nランドソル紳士（笑）がですかあ？"
+    },
+    {
+      "name": "Teacher",
+      "text": "Whatever is all this, girls?\nIf you are so displeased with him,\nwe can request that Lucent Academy send us a different student...",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "何なんです、\n皆さん。\nもしも{0}君に不服があるなら、\nルーセント学院には\n別の男子生徒をお借りしますが？"
+    },
+    {
+      "name": "Yuni",
+      "text": "No, I cannot object.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いや、\n不服はない。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Well, me neither, I guess... He's as good as anyone.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "まあ、\nうちも……\nべつに、\nどーでも。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Yep.\nI'm not keen on boys, but I guess I can deal with him.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい。\n男子は嫌だけど、\nこの人ならギリＯＫです。"
+    },
+    {
+      "name": "Teacher",
+      "text": "Oh, well then!\nIn that case, I will leave this task in your hands.\nMay the blessings of heaven be with you.",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "そうですか。\nそれでは\n先の件、\n皆さんよろしくお願いしますね。\n汝らに\n主の祝福あらんことを。"
+    },
+    {
+      "name": "Yuni",
+      "text": "So, my dear fellows.\nLet us commence our first\nEmergency Scholarship Qualification Meeting.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "さて、\nというわけで。\n第一回、\n「奨学金受給を勝ち取るための緊急対策会議」を執り行う。"
+    },
+    {
+      "name": "Yuni",
+      "text": "The key to prevailing in our shared goal\nis to make friends with {0}, or so it would seem.\nWhat say you?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "我々に提示された勝利条件は、\n「{0}君と仲良くなれ」\nということだが……\nどうだろうか？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Objection! Me and {0} are like,\ntotally the bestest of buds already. Right~? ★",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい議長。\nチエルと{0}先輩、\nすでにそこそこ仲いいですけど。\nねー？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm. Is this a contest?\nIn that case, I could say the same of myself.\n Right~? ★",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "むっ、\nなんだと小癪な。\nそれを言うならぼくとて、\nぼくとて。\nねー？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Huh. So it's like that.\nWell, sure. Whatever.\n...Right?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ふーん、そうなんだ。\nいいけど、\nなんでも。\n……ねえ？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ah, but wait a moment.\nIn this instance, it's not our individual bonds that are in question.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いや、\nとは言えだ。\n本件においては、\n個体間の結び付きなど問われていない。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Harmony with foreign cultures—those were Mother Hilda's words.\nThe academy's wish is to observe our friendship as a group,\nas a sign of their own future prosperity.",
+      "choice_data_list": [
+        "What's all this about?"
+      ],
+      "orig_name": "ユニ",
+      "orig_text": "異文化との融和、\nとマザーは言っていたな。\n要するに学院は、\n郡体としての『なかよし』を観測することで、\n共学後の秩序と安全を担保したいのだろう。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Oh? Did Mother Hilda not inform you of the details?\nI see... In that case, I will explain in due course.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "おや、\n{0}君は\nマザーから何も聞いていないのかね？\nそうか……\nであれば、\n説明は少々待ってほしい。"
+    },
+    {
+      "name": "Yuni",
+      "text": "For now, we are undecided on how to proceed.\nWe must reach an agreement.\nWhile we do, let's see... Why not apply yourself to physical education?",
+      "choice_data_list": [
+        "Start doing exercises.",
+        "Pull out a textbook."
+      ],
+      "orig_name": "ユニ",
+      "orig_text": "我々自身もまだ今後の見通しが付いていない。\nそれを今から話し合うところだ。\n君はその間、\nそうだな、\n体育の自習でもしているといい。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Huh? The heck're you doing, {0}?\nStanding up and sitting down at breakneck speed? That's just scary.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "え、\nどうしたんですか、{0}先輩。\nいきなり高速で立ったり座ったりして……\nこわっ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Actually, that's really distracting...\nSorry, but can you, like. Do that in the corner or something.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てか、比較的うっとうしいな……\nあのさ、悪いんだけど、\n隅っこの方でやっててくんない。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Ah!\nObjection! The boy flipped straight to the sex ed pages!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あッ！\n議長、\n男子が性教育のページを開いてます！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Not the finest idea.\nLet's see... perhaps dietary sciences would be more age-appropriate.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "子供にはまだ早い。\n保健なら\n食物の栄養価でも学ばせておけ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "'Kay, so, back on topic.\nWhere were we? You were saying something, Yuni?\nAbout individuals and groups and stuff?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "え、\nで、\n話を戻すと？\nなんでしたっけ、\nユニ先輩がさっき言ってたの。\n個体とか\n群体とか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Yes. In short... To fulfill our patrons' wishes,\nI expect we four will need to form a single \\\"friendship group\\\" together.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "うむ、\nつまりだ。\n勝利条件を満たすには、\n我々４人が、\nまるっと一つの『仲良し集団』になる必要がある。"
+    },
+    {
+      "name": "Yuni",
+      "text": "The \\\"group\\\" aspect is of utmost importance.\nIt's meaningless for any one of us to befriend him alone.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "肝要なのは『集団』という点だ。\n特定の個人が\n一人突出して彼と親交を深めても意味はない。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Well said.\nChieru, you listening?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "それな。\nチエル、聞いときー？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Ummm...\nI hate to ask, but what kind of character do you take me for, exactly?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あのう……\nクロエ先輩の中で、\nチエルどんなキャラなんです？"
+    },
+    {
+      "name": "Chloe",
+      "text": "A people-pleasing suckup.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "クソモテ八方美人。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Wha...?! No way, she's sussed me! Oh, shucks!\nChloe, don't tell me you've always been watching me from afar?!\nAww, so sorry! I'm not ready to go out with anyone right now!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "えっ……\nやだ、\n合ってる、\nどうしよう……\nひょっとしてクロエ先輩、\n私のことずっと前から見てた説？\nでも、\nごめんちゃい！\n　チエル、\n今は誰とも付き合えないの！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Chloe.\nIt would appear you have experienced a most sudden romantic defeat.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "クロエ君。\nいま君、\nなにやら一方的に失恋したようだぞ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Hey, Yuni.\nCan I, like, punch this clown in the gut.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ユニ先輩。\nこの雑魚、\n腹パンしていーすか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Patience, my dear.\nIf you must, do so after our goal is fulfilled.\nFor now, we must attend to our task of becoming friends.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "待ちたまえ。\n奨学金を勝ち取るまでは待ちたまえ。\nその前に\n我々はまず\n『仲良し集団』とならねばならんのだ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Huh~?\nBut haven't we, like, totally done that already? We're friends, right?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ええ～？\nでもソレって、\nチエルたちもうなってません？\n　ますよね？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Oh? Are we really?\nA-are you sure? Eheheh...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "えっ？\n　\nそうかい？\nそ、\nそうかなあ、\nふへへ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Oh god, no.\nFriends, ten minutes after you just met?\nThat's like, actual horror show levels of normie brain.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "いや、ないわ。\n出逢った初日に秒で仲良しとか、\n素で言えちゃうリア充のメンタル若干びびるわ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Awww...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ええー"
+    },
+    {
+      "name": "Chieru",
+      "text": "No, really! We're best buds!\nAren't all these jabs from Chloe just blatant proof of that?\nCan't start teasing each other 'til you get along! Right~?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "いやほら、\n仲いいですって。\nクロエ先輩の毒舌とか、\nまさにその証拠じゃないですか。\nイジりイジられって、\n仲悪かったら成立しませんもん。\nねー？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Grrr...",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "いらいらいらいら。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm... In any case, our friendship is not our own to judge.\nThat's for our patrons in the academy's upper echelons to decide.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ……\nさりとて、\n仲良し審査は自己申告制ではなかろう。\nそれを判断するのは\n我々自身ではなく\n学院側だからな。"
+    },
+    {
+      "name": "Chloe",
+      "text": "What a uselessly vague condition.\nI mean, friendship? What's that?\nWhat kind of ruler you gonna measure it with?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "基準、ふわっとし過ぎでしょー\nそもそも何なん、仲良しって。\n何をもって仲が良しとすんの。"
+    },
+    {
+      "name": "Yuni",
+      "text": "I have long pondered this.\nIt's quite the philosophical labyrinth.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "それをずっと考えてる。\nさながら哲学の迷宮だ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "God, who knows. Hey, isn't this stuff, like, your field, Chieru?\nGo on, spill it. How's a girl like you define friendship.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "知んないけど、\nそういうのはアレじゃね、\nチエルの担当じゃね？\nちょ、どーなん。\nあんたら界隈での仲良しって何よ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Well, let's see... Friends do stuff like...\ngo on group trips and take lots of cute snaps together, right?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "そおですねえ……\nみんなで旅行して、\n転写魔法映えする画をばしゃばしゃ撮ってくるとかですかねえ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Cute trips, you say! That does sound magical.\nYes, let's do it.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "映える旅行か、\nそれは青春だな。\nよし\n行こう。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Oh? Who's paying?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "へー旅費は？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ngh... Th-the magic of youth does not come cheap...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "むぐっ……\nせ、\n青春は安くないのだな……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh, but if we're going to get this scholarship,\ncan't we fund our trips and stuff with that?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あ、\nでも、\n奨学金ってゆうやつもらえるなら、\nそのお金で行けばいんじゃないです？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Whatever shall we do, Chloe?\nIt seems our flighty friend views this scholarship\nas a working adult might view an end-of-year bonus.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "おい、\nどうするクロエ君。\nどうやら彼女は、\n奨学金というものを\n臨時ボーナスか何かと勘違いしている。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Uh, haven't you gotten that plan backwards?\nSince when've we got the cash already?\nPut the means before the goal. Or what, you got a time machine?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てかそのプラン、\n時系列おかしくない？\nなんで先に奨学金が手元にある前提なの。\n手段と目的、\n逆じゃん。\nうちら時空超えんの。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Ummm... Chloe?\nMost of the stuff I say is just wild spur-of-the-moment fancies,\nso you really don't need to take it so seriously!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あのう……\nクロエ先輩？\nチエルの言うことって、\n大体ただのノリと勢いなんで、\nあんまり真に受けないでもらって大丈夫ですよ？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Who's being serious. I'm just putting you in your place.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "真に受けてねーわ。\nツッコんであげてンだわ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Still, cute group photographs... The idea itself is surprisingly sound.\nMental states are not easy to judge, so physical evidence will surely work to our advantage.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "だが、\n転写魔法映えか、\nその発想自体は悪くないように思うぞ。\n精神論は曖昧だからな、\n審査に際しては\n具体性こそ肝要だ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Ahh... Y'know, I actually kinda get that.\nIt's like the guys I see at work always say.\n\\\"Talk with your wallet, not your face.\\\"",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "あー……\nそれはなんか、\nわかりみ。\n店に来るおっちゃんたち、\nよく言ってるわ。\n誠意はしっかり形で見せろって。"
+    },
+    {
+      "name": "Yuni",
+      "text": "That sounds concerningly like a stereotypical scene of criminal extortion,\nbut yes, the principle is there. Hard evidence speaks volumes.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "それは\n反社会的な方々が恐喝行為に及ぶ際の常套句だが、\n要はそういうことだな。\n形は大事。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Well then, why not start from the goal?\nLike, um... We could start our own guild together!\nMake our group totally official in a jiffy!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "したら、\n逆に形から入ってみません？\nたとえば……\nこのメンバーでギルド組んじゃうとか。\nサクッと正式に申請とかしちゃって。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Right... Something they can't deny.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "あー、\n既成事実。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Yeppity-yep!\nIf we're fully registered as a guild,\nwho's gonna doubt we're all the best of buddies?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "そです、\nそです。\nたぶん正式なギルドってことになっとけば、\n傍目にも仲よさげっぽく見えるんじゃないです？"
+    },
+    {
+      "name": "Chieru",
+      "text": "And like, once we're a guild,\nI bet we'd end up as friends for realsies, too.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "てゆか\n実際そうなったら、\nうちらフツーに仲良くなれると思いますし。"
+    },
+    {
+      "name": "Yuni",
+      "text": "I see. A fine proposal indeed.\nA guild... That does sound magical.\nYoung Chloe, are you with us on this?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "なるほど、\nけだし名案だ。\nギルドか、\n実に青春じゃないか。\nクロエ君、\n異論はあるかね。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Uh... Well, guess I'm fine with whatever.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "はあ、\nまあ、\nどうでもいーすけど。"
+    },
+    {
+      "name": "Chloe",
+      "text": "I mean, yeah... sounds good to me.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てか、\nまあ……\nいいですけど。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Then it's settled!\nLet's all mosey off with a cheru~n ☆\nto the lovely old Guild Association!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "決まりですね！\nじゃあ今から早速、\nちぇる～ん☆\n　っとギルド組合に行っちゃいましょー！"
+    },
+    {
+      "name": "Karin",
+      "text": "You're applying to establish a new guild?\nIn that case, I'll need a representative...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "新規ギルドの設立申請ですね？\nええと、\n代表者の方は……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Sure! That's me!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい、\n私です！"
+    },
+    {
+      "name": "Chloe",
+      "text": "Move it.\nNot her. You can talk to this runt.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "邪魔。\nちゃーくて、\nこっちの小っこいのです。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hello. It's a pleasure.\nI am the guildmaster, Yuni.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "やあ、\n世話になる。\nギルドマスターのユニだよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "R-right. Lovely to meet you.\nWell then, can I start by asking your guild's name, please?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "は、\nはい、\nよろしくお願いします。\nそれでは、\nギルド名からお伺いしてよろしいでしょうか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Our guild's... name?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ギルド名。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh!\nOf course, I completely forgot.\nWe're not gonna get anywhere without a name, are we?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あっ！\nそっか、\nソレを忘れてましたね。\nソレなかったらチエルたち始まらないじゃないですか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Interesting.\nBy giving a name to the uncertain, we tether it to reality.\nHrm, a most logical step. I dub our guild the Yuni-ettes.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "なるほど。\n不確定な概念は言語化されることで容易に強度を増す。\nふむ、\n理に適っているな。\n『ユニちゃんズ』と名付けよう。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Hell no.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ないわ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "That's a nope from me.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ないですね。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Come now, my friends.\nLet's be more constructive with our discussion.\nIf you dislike this option, I trust you have a superior alternative.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "あのなあ、\n君たち。\nせめて建設的な議論をしようじゃあないか。\n否定するならば\n代案を挙げたまえ、\n代案を。"
+    },
+    {
+      "name": "Chloe",
+      "text": "No, uh, I mean.\nCan't we just use our school's name like regular students?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "いや、フツーに、\n学生なんだから学校名まんまでいんじゃないの。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Ehhh~?\nThere's gotta be a cuter option than that!\nLike \\\"Something Something Cherurun\\\" or \\\"Chelly-Chelly Whatsit\\\"!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ええー？\nチエル、\nもっとかわいいのがいいですぅ。\n『何々チェルルン』とか\n『チェルチェルなんとか』みたいな。"
+    },
+    {
+      "name": "Chloe",
+      "text": "You sure love yourself, huh.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "おま、\nホント自分好きね。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Yep, I'm crazy for me! Cheru~n! ☆",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい、\nめちゃすこですっ！\n　\nちぇる～ん☆"
+    },
+    {
+      "name": "Yuni",
+      "text": "Now, now, young Chieru, let's not lose sight of our objective.\nWe need this guild to represent our unity as a group.\nIt would hardly be right to name it solely after a single member.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "おいおいチエル君、\n本来の目的を見失ってはいかんよ。\nギルドの結成は、\n群体としての調和をアピールするためだ。\nその大看板に\n一個人の名を冠するのはいかがなものか。"
+    },
+    {
+      "name": "Chloe",
+      "text": "I wanna say \\\"Well said,\\\"\nbut look in a mirror before you talk, Little Miss Yuni-ettes.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "めっちゃ正論すけど、\nソレをどのツラ下げて言ってんすか、\nユニちゃんズが。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Chloe, can we not agree to briefly put that matter aside?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "クロエ君。\nその問題は一旦、\n脇に置いておこうか。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Briefly? I'm gonna bury it forever. Like, in hell, maybe.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "一旦ってか、\n一生置いときますけどね、\n地獄の底に。"
+    },
+    {
+      "name": "Yuni",
+      "text": "As young Chloe rightly reminded us, we should all bear in mind\nthat this group is dependent upon St. Theresa's Academy.\nAs such, our name should be befitting of that fine institution.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "先ほどクロエ君も述べたように、\n我々が留意すべきは、\nこの集団があくまで\n聖テレサ女学院に帰属するという点だ。\nならば\n教育機関の一組織に相応しい命名が求められよう。"
+    },
+    {
+      "name": "Chloe",
+      "text": "You mean... like a \\\"study group\\\" or a \\\"student society\\\" or whatever?\nI dunno, uh, kinda like \\\"The Friendship Research Team\\\" or something?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "したら……\nナニナニ研究室とか\nナントカ同好会みたいなカンジで？\n知んないけど、\nなんかこう、\n仲良しを考察する会……\n的な？"
+    },
+    {
+      "name": "Chieru",
+      "text": "If we're a school club, why not just be the Friendship Club?\nOh boy! It's so simple it's perfect!\nIt sounds super cute [i]and[/i] super friendly!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "じゃあ部活っぽく\n『なかよし部』なんてどうです？\nやだ、\n一周回って逆にかわいい！\n名前の時点でもうめちゃめちゃ仲良さそうだし！"
+    },
+    {
+      "name": "Chloe",
+      "text": "Hell no.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ないわ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "I think not.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ないな。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Yes... With that said,\nI think the time has come for \\\"Yuni-ettes\\\"\nto rearise like a phoenix from the flames.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "よし、\nというわけで、\nこれは再び\n『ユニちゃんズ』が地獄の底から甦る流れだな。"
+    },
+    {
+      "name": "Chloe",
+      "text": "No, that's still somehow worse.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "いや、\nそれはもっとない。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Nope means nope. The Yuni-ettes can get comfortable\nwith their friendly neighborhood flames of hell.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ないですよ。\nおとなしく地獄の底で体育の自習でもしててください。"
+    },
+    {
+      "name": "Karin",
+      "text": "Ummm...?\nI'm sorry, is this going to take a while?\nWe do have other applicants waiting in line...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "あのー……？\nすみません、\nまだお時間かかるでしょうか？\n他にお待ちの方もいらっしゃいますので……"
+    },
+    {
+      "name": "Chloe",
+      "text": "Oh, no, we're done.\nJust sign us up under \\\"St. Theresa's Academy.\\\"",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "あ、\nもうダイジョブっす。\nフツーに【聖テレサ女学院】で申請ヨロです。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ahh... You can't just decide that...!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ああっ……\nこら、\n勝手に……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "And don't forget to write \\\"(Friendship Club)\\\" at the end, too!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "そしたら末尾に\n(なかよし部)\nって付けといてください。"
+    },
+    {
+      "name": "Karin",
+      "text": "As you wish!",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "かしこまりました。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Wh-what?! Is that a valid move?!\nIn that case, be sure to add \\\"(Yuni-ettes)\\\" after that!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "な、\nなにっ……\nそんな手があるのか！\nならば\nさらに追加で\n（ユニちゃんズ）も！"
+    },
+    {
+      "name": "Chloe",
+      "text": "Too long.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "長い。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Way too long.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "長いですよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "I'm afraid there won't be room...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "長いんじゃないでしょうか……"
+    },
+    {
+      "name": "Yuni",
+      "text": "N... nghhh...!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ぐ、\nぐぬぬ……！"
+    },
+    {
+      "name": "Karin",
+      "text": "Great, then it's settled!\n\\\"St. Theresa's Academy (Friendship Club)\\\"\nwill be your official registered guild name.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "はい、\nそれでは\n【聖テレサ女学院\n（なかよし部）】\nということで\nギルド名を承りました。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hmph. I'm sure it's the name of \\\"Yuni-ettes\\\"\nthat the world will remember us by.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふん、\n後世の教科書は我々をユニちゃんズと呼ぶだろうがな。"
+    },
+    {
+      "name": "Karin",
+      "text": "Now then, next I need to hear your guild's main goals and objectives.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "続きまして、\nギルドとしての使命・\n目的などをお伺いしたいのですが。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Goals.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "使命。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Objectives.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "目的。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Um... Do we actually have any of those?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "え……\nありましたっけ、\nそんなの？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm. One could say we do.\nTo become friends, just as the name suggests.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ、\nあると言えばある。\n文字通り、\n仲良しになることだ。"
+    },
+    {
+      "name": "Karin",
+      "text": "To become friends.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "仲良しになる。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Well, true.\nI guess that is the only goal we've really got right now!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ま、\nそっか。\n目的って言ったら、\nたしかにそれしかないですよね。"
+    },
+    {
+      "name": "Karin",
+      "text": "To become... friends...?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "仲良しに、\nなる……？"
+    },
+    {
+      "name": "Chloe",
+      "text": "What. You got a problem?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "なに。\n駄目なの。"
+    },
+    {
+      "name": "Karin",
+      "text": "Well, yes... I'm very sorry.\nWe're not really allowed to register an official guild\nwithout at least some kind of productive purpose...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "そうですね、\nすみません。\n多少なりとも\n社会的に意義のある目的でないと、\n受理できないという決まりになってますので。"
+    },
+    {
+      "name": "Yuni",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Karin",
+      "text": "Those are the rules, you see!",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "決まりになってますので。"
+    },
+    {
+      "name": "Yuni",
+      "text": "...Hrm. We'll be back. Retreat!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "…………ふむ、\n出直そう。\n撤収。"
+    },
+    {
+      "name": "Narration",
+      "text": "After charging in without anything resembling a plan,\nthe members of \\\"St. Theresa's Academy (Friendship Club)\\\"\nwere forced to abandon their goal for the day.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "完全にノープランだったため、\n今日のところはすごすごと引き下がる\n【聖テレサ女学院（なかよし部）】の一行であった。"
+    }
+  ]
+}

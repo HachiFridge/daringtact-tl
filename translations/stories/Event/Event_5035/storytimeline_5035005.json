@@ -1,0 +1,646 @@
+{
+  "title": "The Adventure Goes On!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the Gourmet Guild\nsuccessfully defeat the monsters attacking \\\"New Generations.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たち【美食殿】の一同は、\n【ニュージェネレーションズ】を狙う魔物を退けた。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Whew.\nIs that the last of them?\nGuess they weren't so tough!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふぅっ。\nこれで全部かしら？\n大したことなかったわねー"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Everyone, thank you so much!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "みなさん、\nありがとうございますーっ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Your... \\\"Princess Knight\\\" ability, did you call it?\nThat strengthening power is really something.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "プリンセスナイトの力、\nって言ったっけ。\nキミの強化、\nすごいね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yep!\nHe's crazy powerful, our {0}! ☆\nEheh!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nすごいやばいんです、\n{0}くんはっ☆\nえっへん！"
+    },
+    {
+      "name": "Mio",
+      "text": "Man, I'm so glad nobody got hurt, and the audition stage was OK too!\nThanks, you guys!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "ほんと、\nみんなにも\nオーディション会場にも\n被害が出なくて良かったよ！\nありがとねっ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It certainly is a relief to see everyone safe.\nHowever...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさま、\nお怪我がなくて、\nよかったです。\nですが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Before this, you all seemed quite concerned\nby the state of your own memories.\nIs... everything all right on that front?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "先ほどは、\nご記憶が不確かなことについて、\n混乱しているご様子でした。\nその……\n大丈夫でしょうか？"
+    },
+    {
+      "name": "Rin",
+      "text": "Hmm...\nTo be honest, I'm still not sure what to think...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ん……\nそれについてはまだ、\nぜんぜん飲み込めてないけど……"
+    },
+    {
+      "name": "Mio",
+      "text": "Y-yeah.\nBut... the panic just now actually helped calm me down a little.",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "う、\nうんっ。\nでも……\n今の騒ぎで、\n逆にちょっと冷静になれた\nっていうか。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Right now, it's not the time\nto be worrying about memories we might have had.",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "今は、\n思い出そうとして\nしかめっ面をしてる時じゃ、\nないですから。"
+    },
+    {
+      "name": "Mio",
+      "text": "Right on! ♪ When we're on stage, we've gotta smile!\nFor the judges, the audience...\nAnd for you guys who'll be watching too!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "そうだねっ♪　\nステージに立ったら、\n笑顔でいなくちゃ！\n審査員さんや、\nお客さん……\nそれに、\nあなたたちが見てくれるんだし！"
+    },
+    {
+      "name": "Rin",
+      "text": "Yeah.\nWe mustn't let our focus slip.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うん。\n一瞬だって、\n気は抜かないよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Eheh.\nIt seems there was no need to worry after all.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふ。\nどうやら、\nわたくしの取り越し苦労だったようですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahh!\nI think the audition's about to kick off!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ！\nオーディション、\nそろそろ始まるみたいですよ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well then, get out there and win it, guys!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それじゃ、\nさっさと優勝してきちゃいなさい！"
+    },
+    {
+      "name": "All Three",
+      "text": "Right!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "はいっ。\nうんっ！\nうんっ。"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "What the heck?!\nThe supposed obstruction from our beast tamer fan\ndidn't work at all! What good was that?!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "ちょっとちょっとぉ～っ！\nファンの魔物使いにやらせた\nいやがらせ、\n全然ダメじゃない！　\n使えないんだから～っ！"
+    },
+    {
+      "name": "Rookie Idol 2",
+      "text": "Those bodyguards... They're way too strong!\nStill... Heheh. We've got one last trick left!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル２",
+      "orig_text": "あの護衛たち、\nやってくれるじゃない！\nでも……\nふふっ、\nまだ手はあるわ！"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Y-yes, good point!\nYou just wait, \\\"New Generations\\\"!\nWe'll make a laughingstock of you!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "そ、\nそうだったわね！\n見てなさいよ、\n【ニュージェネレーションズ】！\n赤っ恥、\nかかせてあげる……！"
+    },
+    {
+      "name": "Announcer",
+      "text": "Well, folks, it's time for our audition\nto welcome its final unit of up-and-coming idols!\nShow us what you've got!",
+      "choice_data_list": [],
+      "orig_name": "司会",
+      "orig_text": "それでは、\n今回のオーディション大会……\n最後のアイドルユニットに登場してもらいましょう！\nはりきって\nどうぞ！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "We are...",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "私たちー！"
+    },
+    {
+      "name": "All Three",
+      "text": "\\\"New Generations\\\"!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "【ニュージェネレーションズ】ですっ！"
+    },
+    {
+      "name": "Audience Member 1",
+      "text": "Wooooo!",
+      "choice_data_list": [],
+      "orig_name": "観客１",
+      "orig_text": "わーっ！"
+    },
+    {
+      "name": "Audience Member 2",
+      "text": "We were waiting for ya!",
+      "choice_data_list": [],
+      "orig_name": "観客２",
+      "orig_text": "待ってたぞー！"
+    },
+    {
+      "name": "Judge",
+      "text": "Heheh... Those girls are finally here!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "ふふっ……\n出てきたね、\nあの子たち。"
+    },
+    {
+      "name": "Judge",
+      "text": "I'm sure they have potential,\nbut let's see how they fare in an actual performance.\nI'll be sure to judge them fair and square!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "素質は十分と見たが。\nパフォーマンスのほうは、\nどれほどのものか──\nさあ、\n手加減なしで審査してやるよ！"
+    },
+    {
+      "name": "Mio",
+      "text": "Ahaha... That lady was one of the judges, huh?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "あはは……\nあのおばあさん、\n審査員だったんだね。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "But that doesn't change our mission here! ",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "でも、\nやることは変わらないですよ！　"
+    },
+    {
+      "name": "Rin",
+      "text": "Right! Let's sing with everything we've got! ",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うん！　\n精一杯、\n歌ってみよう！　"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh...?!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "えっ……！？"
+    },
+    {
+      "name": "Mio",
+      "text": "What's this intro?! ",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "何、\nこのイントロ！　"
+    },
+    {
+      "name": "Uzuki",
+      "text": "This isn't the song we rehearsed at all...?! ",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "私たちが練習してた曲と、\n違いますよっ……！？　"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Heheh!\nWe switched out their Sound Record for a different song!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "ふふんっ！\n音響盤を、\n予定と違う曲に変えてやったわ！"
+    },
+    {
+      "name": "Rookie Idol 2",
+      "text": "It's a super-minor track even we've never heard of!\nThey'll never be able to sing it!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル２",
+      "orig_text": "私たちも知らない、\nどマイナーな曲よ！\n歌いようがないでしょう！"
+    },
+    {
+      "name": "All Three",
+      "text": "—♪",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "—♪"
+    },
+    {
+      "name": "Uzuki",
+      "text": "I know it...!\nThis song... I know it! ",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "知ってる……！\nこの曲、\n知ってる！　"
+    },
+    {
+      "name": "Mio",
+      "text": "The lyrics, the dancing, they come to me so naturally!\nMy body remembers it all! ",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "歌詞も\n振り付けも、\n全部、\nぜんぶ勝手に出てくる！\n身体が覚えてる！　"
+    },
+    {
+      "name": "Rin",
+      "text": "It's as if I've sung it dozens...\nNo, more like hundreds or thousands of times before! ",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "まるで、\n何回も……\nううん。\n何百回も、\n何千回も歌ってきたみたいに！　"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Wh-what the—?!\nThey're all performing this random song perfectly!\nBut how?!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "ちょ、\nちょっと！？\nあいつら、\nめちゃめちゃ上手に歌えてるわよ！？\nどうして！？"
+    },
+    {
+      "name": "Rookie Idol 2",
+      "text": "H-how should I know?!\nWhere did you find that Sound Record in the first place?!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル２",
+      "orig_text": "し、\n知らないわよ！\nそもそもあんた、\nあの音響盤\nどこから拾ってきたの！？"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Huh...? Some ugly green costumed mascot\ndropped it while trying to stop the monsters just now...",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "え……\nさっきの魔物を止めようとした、\n緑のブサイクな着ぐるみが落としていったんだけど……"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Ahhh...! Don't tell me that thing\nis in cahoots with the \\\"New Generations\\\" girls?!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "あっ──\nもしかして、あいつ\n【ニュージェネレーションズ】と\nグルだったの！？"
+    },
+    {
+      "name": "Rookie Idol 2",
+      "text": "You dummy!\nWh-what do we do now?!\nThey're gonna steal our hard-earned victory!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル２",
+      "orig_text": "ばかーーーーっ！\nど、\nどうするのよ！？\n優勝、\n持ってかれちゃうわよ！？"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Th-there's nothing left [i]to[/i] do!\nAnd actually...",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "い、\n今さらどうしようもないわ！\nっていうか……"
+    },
+    {
+      "name": "Rookie Idol 2",
+      "text": "Actually...?",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル２",
+      "orig_text": "ていうか？"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "...They really are good, aren't they?",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "……\n本当に上手いわね、\nあいつら……"
+    },
+    {
+      "name": "All Three",
+      "text": "—♪",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "—♪"
+    },
+    {
+      "name": "Audience",
+      "text": "...\n...",
+      "choice_data_list": [],
+      "orig_name": "観客たち",
+      "orig_text": "……\n……"
+    },
+    {
+      "name": "Audience",
+      "text": "...Yeahhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "観客たち",
+      "orig_text": "……わああああああっ！！！！！"
+    },
+    {
+      "name": "Audience Member 1",
+      "text": "Awesome! Too awesome!\nThis is what idols are all about!",
+      "choice_data_list": [],
+      "orig_name": "観客１",
+      "orig_text": "すげえ！　\nすげえや！\nこれこそアイドルだ！"
+    },
+    {
+      "name": "Audience Member 2",
+      "text": "\\\"New Generations\\\" forever!\nNew! Generations! Forever!",
+      "choice_data_list": [],
+      "orig_name": "観客２",
+      "orig_text": "ニュージェネサイコー！\nジェネ\nサイコー！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "\\\"New Generations\\\" forever! ☆",
+      "choice_data_list": [
+        "\\\"New Generations\\\" forever!"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ニュージェネサイコー☆"
+    },
+    {
+      "name": "All Three",
+      "text": "Th-thanks, everyone!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "あ、\nありがとーっ！"
+    },
+    {
+      "name": "Judge",
+      "text": "You girls really are something!\nAre you really new to this?!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "あんたたち、\nすごいじゃないか！\n本当に新人なのかいっ！？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "U-um, well...",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "え、\nえーっと……"
+    },
+    {
+      "name": "Rin",
+      "text": "Actually...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "それは……"
+    },
+    {
+      "name": "Mio",
+      "text": "We can't really explain\nthat we're not even sure ourselves, can we?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "自分たちでもわかんなくなってきちゃったなんて、\n言えないよね……"
+    },
+    {
+      "name": "Judge",
+      "text": "You were like real stars!\nI felt as though I was witnessing a top idol unit's performance!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "貫禄すら感じた！\nまるでトップアイドルのパフォーマンスを見ているようだったよ！"
+    },
+    {
+      "name": "Judge",
+      "text": "You're a match for the latest big sensation, Carmina!\nNo one on this continent...\nNo, nobody in this world can stand in your way!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "あんたたちなら、\n最近ウワサの【カルミナ】にだって負けない！\nこの大陸で、\nいや\n世界中で一番のアイドルにだってなれる！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Th-thank you very much...\nBut...",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "あ、\nありがとうございます……\nでも……"
+    },
+    {
+      "name": "Mio",
+      "text": "Um, madam... Listen, we...",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "あの、\nおばあさん。\n私たち……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Everyone!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みなさ～んっ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Oh—you guys...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あっ、\nみんな……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Your live show was an incredible sight! ☆\nI think it actually touched my heart!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みなさんのLIVE、\nとってもすごかったです☆\nわたし、\n感動しちゃいました！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I too felt my eyes beginning to brim with tears.\nIt was a truly remarkable performance.",
+      "choice_data_list": [
+        "I loved it!"
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしも、\nなにやら目頭が熱くなってしまいました。\n本当に、\n素晴らしかったですね。"
+    },
+    {
+      "name": "Mio",
+      "text": "Eheheh... Thanks! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "えへへ……\nありがとっ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "But, uh, why'd you suddenly pick a different song?\nI'm sure I never heard you practice that one!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "けどさ、\nどうしていきなり本番で違う曲にしたの？\nあんな曲、\nぜんぜん練習してなかったじゃない。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "True enough... I was also a little curious about that.\nDespite the substitution, you sang it with such zeal...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そうですね……\nわたくしも、\n少々それは気になりました。\nなのにみなさま、\nとても上手に歌われていて……"
+    },
+    {
+      "name": "Mio",
+      "text": "Oh—yeah...\nThe thing is... We don't really know what happened there either.",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "あっ、\nうん……\nそれが……\n自分たちでも、\n正直よくわかってないんだ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh...? You mean someone else switched out your song?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "え……\nじゃあ、\n誰かがすり替えたとかしたってこと！？"
+    },
+    {
+      "name": "Rin",
+      "text": "That would be one explanation.\nIt's a good thing the new song was one we all knew...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "可能性は、\nゼロじゃないかな。\nたまたま知ってる曲がかかって、\n助かったけど……"
+    },
+    {
+      "name": "Uzuki",
+      "text": "But... when and where did we learn it?\nI can't seem to remember at all...",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "でも……\nいつ、\nどこで覚えた曲なのか。\nぜんぜん、\n思い出せなくて……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmm...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh—you guys!\nI think they're about to announce the winners!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ、\nみなさん！\nそろそろ結果発表だそうですよ。"
+    },
+    {
+      "name": "Mio",
+      "text": "Huh? Already?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "えっ、\nそうなんだ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, after all that applause and the reactions of the judges...\nThere probably wasn't much need to debate over a winner.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ま、\n会場の盛り上がりや、\n審査員たちの様子からしたら……\nどこが優勝か、\n悩む必要もなかったってところじゃない？"
+    },
+    {
+      "name": "Announcer",
+      "text": "Well then, it's time for the big moment!\nLet's award the Up-and-Coming Idol Audition's grand prize!",
+      "choice_data_list": [],
+      "orig_name": "司会",
+      "orig_text": "それでは、\nさっそく発表いたします！\n今回の新人アイドルオーディション、\n栄えある優勝は！"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh...? What now? Is the ground shaking?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "え……\nなに、\nなんか揺れてない？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Is this also part of the show...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "これも演出、\nなのでしょうか……？"
+    },
+    {
+      "name": "Announcer",
+      "text": "Our winner is: the guild New Generatio... \nWuoaghh?!",
+      "choice_data_list": [],
+      "orig_name": "司会",
+      "orig_text": "優勝は！\nギルド、\n【ニュージェネレーショ……\nうわあっ！？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Aaahhhh!\nI can't stand up straight!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "きゃああっ！\n立ってられないです～っ！"
+    },
+    {
+      "name": "Judge",
+      "text": "Wh-what in the world is this quaking?!\nAnd at such an important moment!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "な、\nなんだってんだいこの揺れは、\nいいところだってのに！"
+    },
+    {
+      "name": "Audience Member 1",
+      "text": "H-hey... Look! Guys, up there!",
+      "choice_data_list": [],
+      "orig_name": "観客１",
+      "orig_text": "お、\nおい\n見ろ\nみんな、\nアレ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I... isn't that...?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ、\nあれって……！"
+    },
+    {
+      "name": "Rookie Idol 1",
+      "text": "Ts... \\\"Tsubomi-chan\\\"...?!\nBut...!",
+      "choice_data_list": [],
+      "orig_name": "新人アイドル１",
+      "orig_text": "つ、\n『つぼみちゃん』っ……！？\nでも……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Doesn't it look like it's getting bigger and bigger?!\nIt's towering over the whole town!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんかアレ、\nどんどんおっきくなってるわよね！？\nここからでも見えるくらいに！"
+    },
+    {
+      "name": "Judge",
+      "text": "Wh-what is happening to you, Tsubomi-chan?!",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "い、\nいったいどうしたってんだい、\n『つぼみちゃん』！"
+    },
+    {
+      "name": "Mio",
+      "text": "No...\nThat thing isn't Tsubomi-chan at all!\nRight, Shiburin?! Shimamu?!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "ううん！\nあれって、\n『つぼみちゃん』じゃないよ！\nねえ\nしぶりん！　\nしまむー！"
+    },
+    {
+      "name": "Rin",
+      "text": "Right.\nCould it really be...?!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うん！\nあれって……\nもしかして！"
+    },
+    {
+      "name": "All Three",
+      "text": "\\\"Ueki-chan\\\"?!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "『うえきちゃん』っ！？！？"
+    }
+  ]
+}

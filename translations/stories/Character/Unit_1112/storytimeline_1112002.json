@@ -1,0 +1,406 @@
+{
+  "title": "Misogi (Halloween) Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "On a request from Misogi,\n{0} heads out to the Mysterion Woods,\nonly to find Misogi herself sitting at the bottom of a pitfall trap.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミソギから呼び出され、\nミステリオン森林にやってきた{0}は、\nなぜか落とし穴に落ちているミソギと遭遇する。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Mister! You gotta help me!\nI don't think I can get out of here on my own!",
+      "choice_data_list": [
+        "Rescue Misogi."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃーん、\nたすけてー！\nミソギ、\n一人じゃ上がれそうにない～！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Thanks for that, mister!\nHuh? I shouldn't fall into my own pitfall traps?\nOh, please! Of course this isn't a trap [i]I[/i] made!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ありがとう、\nにいちゃん！\nえ？　\n自分で掘った穴に落ちちゃダメだよって？\n違うよ～\nミソギが掘ったんじゃないんだよ～"
+    },
+    {
+      "name": "Misogi",
+      "text": "It looks pretty old, actually. I didn't notice till it was too late!\nOh, but look! I found these at the bottom of the hole!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "だいぶ昔に掘られたみたいで、\n全然気づかなかったんだよね～\nあ、\nでもでも！　\n穴の中でこんなもの見つけたんだよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "A... letter? And an old map!\nThe letter's all faded and I can't really read it,\nbut the map's still in good shape!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "手紙？　\nと古い地図！\n手紙の方は文字がかすれててほとんど読めないけど、\n地図の方はきちんと読めるよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "And there's an \\\"X\\\" on it here, so that means treasure!\nThis place is... a grave, I guess?\nC'mon, let's check it out!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "なんかバツ印がついてるから、\nきっと宝の地図だよ！\nこの場所は……\nお墓、\nかな？\n行こう！　にいちゃん！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmm... We arrived at the grave, but there's nothing here.\nDid you spot anything, mister?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ん～、\nお墓に来てみたけど、\nなんにもないね～\nにいちゃんはなんか見つけた？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? The \\\"X\\\" is a bit further that way?\nOh, you're right! Let's keep going, then!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "え？　\n印の場所はもう少し先？\nあ、\nほんとだ！　\nもうちょっと進んでみよう！"
+    },
+    {
+      "name": "Misogi",
+      "text": "There's nothing here either!\nJust a bunch of boring rocks all piled up!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ここにもなんにもないよ～！！\nなんかたくさん石が積んであるだけじゃ～ん！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Was the map just showing where they store their gravestone materials?\nThat's so booooring!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "墓石の材料の場所を\n書いてただけの地図なのかな～\nそんなのつまんな～い！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Wahhh?!\nA monster behind the rocks?!",
+      "choice_data_list": [
+        "Look out!"
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "わぁっ！？\n石の陰から魔物が！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Mister! W-wait for me!\nI'll chase it off with one of my firecrackers!\nYaaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃん！　\nま、\n待ってて！\nいまミソギがクラッカーボールで追い払うから！\nえ～～いっ！！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whew...\nGuess the monster ran away!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "よかった～\n魔物、\n逃げてったね。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? It looks like the monster dropped something.\nA glowing... stone?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あれ？　\nあの魔物、\nなんか落としてったみたい。\n光る、\n石？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? Look in the direction the monster ran?\nWhoa! There's even more glowing stones!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "え？　\n魔物が逃げてった方をみてごらん？\nわっ！　\n光る石がたくさん落ちてる！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Could it be...\nthe \\\"X\\\" on that map was showing where to find these?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ひょっとして、\n地図の印は\nこの石が取れる場所のことだったのかな？"
+    },
+    {
+      "name": "Misogi",
+      "text": "What even is this stone?\nIt doesn't look like treasure...",
+      "choice_data_list": [
+        "Does the letter say anything about it?"
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "この石なんなんだろう～？\n宝石には見えないよね～？"
+    },
+    {
+      "name": "Misogi",
+      "text": "The letter?\nHmm... It's hard to make out any words.\nOh, but I think I can read the address!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "手紙に？\nんー、\nほとんど消えちゃってたからなー\nあっ、\nけど宛先は読めるかも！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmm...?\nThis address... Could it be...?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "んー？\nこの宛先って、\nひょっとして……"
+    },
+    {
+      "name": "Misogi",
+      "text": "I knew it!\nIt's the shop where I buy all my prank items!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "やっぱり！\nミソギがいつもイタズラ道具を買ってるお店だ！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "What's all this now? Why the ruckus?\nOh, if it isn't my best little customer!",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "なんだいなんだい、\n大きな声出して。\nああ、\nいつも来てるお嬢ちゃんじゃないか。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hey, granny! I found this weird glowing stone in the graveyard,\nbut I dunno what it is, so I thought you could have a look!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "おばあちゃん！　\nミソギ、\n今日お墓で光る石拾ったんだけど、\nなんだかよくわからないから、\nおばあちゃんのところに持ってきたんだ！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "I'm not exactly sure I follow... Hm? What's that, young man?\nThis little miss fell into a pit in the forest, found a map and letter,\nand they ultimately led you all the way here to me?",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "いまひとつ話が見えないんだが……\nん？　\nなんだい、\nお兄さん。\nお嬢ちゃんが\n森で古い落とし穴に落ちて、\n地図と手紙を見つけて\nそれを頼りにあたしんとこにたどり着いたっていうんだね。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Well, let's see what you've brought exactly.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "どれ、\n持ってきたものを見せてごらん。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Sure! Here they are!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "はい、\nこれだよ！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Now this takes me back!\nThis map and letter were written by my own husband.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "こりゃまた懐かしいね～\nこの地図と手紙は\nあたしの旦那が書いたものだよ。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "That pitfall you fell into was likely his handiwork.\nWhen he was young, he'd dig holes here and there\nand bury all kinds of funny things.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "お嬢ちゃんが落ちた穴も\n旦那が掘ったものだろうね。\n若い頃はあちこちに掘っては\n落とし穴こしらえたり、\nいろいろ埋めたりしてたからさ。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "I'm so sorry if his trap hurt you.\nYou're not injured, are you?",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "お嬢ちゃんには\n悪いことしたねぇ。\n怪我はないかい？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Oh, I'm fine!\nAnd it was lots of fun, so I don't mind a bit!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "平気だよ！\nそれに楽しかったから、\nミソギは気にしてないよ！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Really? Well, thank you, little miss.\nNow, as for that glowing stone...",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "そうかい？　\nありがとね、\nお嬢ちゃん。\nそれで、\nその光る石だけどね……"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "My husband used to give me one of those as a present every year.\nIt's not especially valuable, but when Halloween comes around,\nit gathers magical energy and gives off this glow.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "毎年\nあたしが旦那からプレゼントされてた\n思い出深いもんさ。\n別に高価なもんじゃないんだが、\nハロウィンの季節にだけ\n魔力を蓄えて光る\n不思議な石でね。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Once Halloween's over, it's just a pebble.\nThinking back, he sure did manage to find a cheap gift!\nStill, it's just the kind of thing that makes his eyes sparkle.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "ハロウィン過ぎちまえば\nただの石ころだから、\n今思えば\nずいぶん金のかからないプレゼントをされてたもんだよ。\nまぁ、\n旦那らしいプレゼントだから\n嬉しかったけどね。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Did he give you one this year?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "今年もこの石もらったの？"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Oh, no. He's off on a trip, adventuring and gathering rare materials.\nSo he hasn't given me a thing.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "いいや。\nいまうちの旦那は\n仕入れも兼ねた冒険の旅に出ててね。\nな～んにももらっちゃいないよ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Really?\nI'll give you this one, then!\nSince I kinda nabbed your letter and map!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "そうなの？\nそれじゃあこの石あげるよ！\n手紙と地図、\n勝手に見ちゃったし！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Ahaha! Thank you.\nBut I've received so many of them already,\nso I think you should be the one to keep it.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "あはは、\nありがとね。\nけど、\n今まで旦那からたくさんもらったから、\nそれは\nお嬢ちゃんが持っていきな。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Honestly, I don't really care about rocks that just glow.\nDoesn't seem much use for pranks...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ミソギ、\n光るだけの石にはあんまり興味ないな～\nイタズラに使えそうにないし～"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Ahahah! Well, I should've known!\nBut in fact, I think that stone might be exactly what you need.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "あはは！　\nそうかいそうかい！\nだけどね、\nそんなお嬢ちゃんにこそピッタリなんだよ、\nこの石は。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh?! How d'you mean?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "え～！　\nそうなの！？"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Can I borrow that firecracker on your belt?\nAnd pass me the glowing stone, too.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "腰に着けた\nクラッカーボールを貸してごらん。\nそれから、\n光る石もね。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmm? OK, sure!\nHere you go, granny!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ん？　\nわかった～！\nはい、\nおばあちゃん！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Wait here just a minute.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "ちょっと待ってな。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "There, all done.\nHere's your firecracker back, little miss.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "待たせたね。\n預かってたクラッカーボールだよ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmm?\nIt doesn't look any different from before.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ん～？\nなんにも変わってないみたいだけど～？"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Try setting it off.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "鳴らしてごらん。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ooh, OK!\nHere goes... Boom!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わかった！\nいくよ～、\nそれっ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Wha—?!\nAhahah! What the heck?! That's so funny!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わっ！？\nキャハハ！　\nなにこれ！　\nおもしろ～い！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Wahahahah!\nYou laugh just like my husband, little miss.\nI knew this was worth the trouble.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "わはっはっは！\nうちの旦那と同じように笑うんだね、\nお嬢ちゃん。\nあげたかいがあるってもんだ。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "That glowing stone, as it happens,\nis a vital ingredient in making firecrackers that sound like laughter.\nThough they only work for as long as the stone still glows.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "あの光る石を加工するとね、\n笑い声に聞こえる音が鳴る\n不思議なクラッカーができあがるんだ。\n光っている間じゃないとだめだから\n期間限定だがね。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "I've had enough fun with them thanks to my husband,\nso now it's your turn, little miss.\nYou can ask this young man to give you one every year.",
+      "choice_data_list": [
+        "I'm looking forward to next year already.",
+        "Let's collect them together every year!"
+      ],
+      "orig_name": "店主",
+      "orig_text": "あたしは\n旦那からこの石で十分楽しませてもらったから、\n今度はお嬢ちゃんが楽しみな。\nそこのお兄さんに\n毎年プレゼントしてもらってさ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Yeah, I can hardly wait!\nOh, but if I stick together with you all year, it'll go by in a flash!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "来年が待ちきれないな～\nあっ、\nけどそれまでずっとにいちゃんと一緒にいれば\nあっという間だよね！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Every year? For real?!\nThat's a promise! No backsies, you hear?!\nYou'll be in big trouble if you ever break it!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "本当に毎年くれるの！？\n約束だよ！　\nぜったいだからね！\n約束破ったら針千本飲ますからね！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Man, a present from you every year, huh?\nI so can't wait!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "毎年にいちゃんからプレゼント貰えるのか～！\n楽しみだな～！"
+    },
+    {
+      "name": "Narration",
+      "text": "And as Misogi looked excitedly to the future ahead,\n{0} and the old lady watched over her happily.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "未来に想いを馳せるミソギを温かく見守る\n店主と{0}であった。"
+    }
+  ]
+}

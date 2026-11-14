@@ -1,0 +1,792 @@
+{
+  "title": "Part 2: Chapter 2 Episode 9",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Not too far from Landosol's downtown area...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソル・下町地区付近──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Everyone, be swift!\nWe're approaching the location of the monster sightings!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさま、\nお急ぎを！\n魔物が現れたのは、\nこちらだそうです……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Okay, Kokkoro!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん、\nコッコロちゃん！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ugh, geez... Just when I was ready for bed!",
+      "choice_data_list": [
+        "(...So sleepy...)"
+      ],
+      "orig_name": "キャル",
+      "orig_text": "ったく、\nそろそろ寝ようって時間にぃ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wait, not you too! Pick your face up off the ground!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ってちょっとあんた、\n地面にへたりこむんじゃないわよっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "I'm sorry we woke you, Mr. Knight. You must be so tired!\nWe were able to leave little Sheffy sound asleep, at least...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "起こしちゃってゴメンね騎士クン、\n眠いよねっ！\nシェフィちゃんは、\nそのまま寝かせてきたけど……"
+    },
+    {
+      "name": "Rei",
+      "text": "We haven't yet confirmed\nif this new disturbance is the work of the Rage Legion guild...\nBut if it is, I'm afraid we'll need your help.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "騒ぎの元凶が、\n【レイジ・レギオン】というギルドの仕業かは、\nまだ不明だが……\nもしそうなら、\nキミの力を借りなくてはならない。"
+    },
+    {
+      "name": "Rei",
+      "text": "I'm sorry, but please hang in there for us!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "すまないが、\n少しだけガマンしてくれ……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Karyl!\nDid you send a message to Peco for us?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "キャルちゃん！\nペコさんに通信魔法\nしてくれたっ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Huh? Yes...\nBut right now, she's in the palace,\nso it'll take her a while to get here...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……え、\nええ……\nでもあいつ、\nいま王宮だから\n来るまで時間かかるみたいだけど……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wait...\nWhy's it so quiet around here?\nThe mood's creeping me out...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "って……\n……なんか、\n妙に静かね。\nイヤな雰囲気……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This area is not the most civilized of Landosol's districts...\nBut to compensate, I recall its streets as always being alive with activity.\nYet now...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……このあたりは、\nあまり治安の良い地域ではありませんが……\nそのかわり、\nどんな時も\n人々の活気にあふれていたと記憶しています。\nですが……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "There isn't anyone around!\nDo you think they all ran away...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "人なんて、\nぜんぜんいないよ！\nみんな、\n逃げちゃったのかな……？"
+    },
+    {
+      "name": "Yui",
+      "text": "I hope that's all it is...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "だと、いいんだけど……"
+    },
+    {
+      "name": "Rei",
+      "text": "This silence...\nIt feels as still as a graveyard.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……この静けさ。\nまるで、\n墓場のようだな……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...I finally thought...\nit had gotten a little quieter, but...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………やっと、\n少し…………\n……静かになったと、\n思った\nのに……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "That's the same young woman we met the other day...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あの女性はたしか、\n先日お会いした……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Such magical energy...! She's not normal, that girl!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "すごい魔力っ……\n普通じゃないわ、\nあいつ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Huh?!\nLook, you guys!\nThere's something behind the girl!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……！？\n見て、\nみんな！\nあの女のひとの後ろ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Ahhh!\nThose people... they're trapped inside some kind of crystals!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ああっ！\n人が、\n結晶の中に閉じ込められちゃってるっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Are those... the members of Twilight Caravan?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……あれは！\n【トワイライトキャラバン】の構成員か……！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "You know them, Rei?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさん、\nお知りあい！？"
+    },
+    {
+      "name": "Rei",
+      "text": "The Destroyer, the Collector...\nThe One-Eyed Devil and the Living Storm...\nThey're all feared professionals in underworld society!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "『壊し屋』に\n『蒐集家』、\n『隻眼の悪魔』、\n『歩く竜巻』……\nいずれも裏社会では名の知られた実力者だ！"
+    },
+    {
+      "name": "Rei",
+      "text": "And... is that Ruka...?!\nHow could anyone defeat a swordswoman of her caliber so easily?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "それに、\nルカまでっ……！\n彼女ほどの剣士を、\n一方的に仕留めたというのか！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Who in the world are you?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あなたは、\n一体……！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Me...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……わたし……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "My name's... Ranpha.\nI belong to the guild... Rage Legion.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしは……\nランファ。\n……所属\nギルドは……\n【レイジ・レギオン】……\nです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...!\nThen you really are one of that dumb brat Kariza's friends!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……！\nじゃあやっぱり、\nあんたもカリザってクソガキの仲間なのね……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Why are you guys attacking the city?!\nIt's awful!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あなたたち、\nどうして街を襲うの！？\nひどいよっ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Awful...?\n...Yes. You could say that, I suppose. But... you see...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ひどい……？\n……ええ。\nそう\nかも……\nしれない\nけど。\nでも……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "If I don't do this... then my wish won't be granted, so...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……こう\nしなくちゃ……\nわたしの\n願いが、\n叶わない\nから……"
+    },
+    {
+      "name": "Yui",
+      "text": "Your... wish...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あなたの、\n願い……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Which is...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それは……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I don't know what Kariza and the others desire...\nBut my wish is for... a quiet place of my own...\nThat's all I want...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……カリザくんたちの\n願いは、\nしらない\nけど……\nわたしが\n願うのは……\n静かな\n場所が、\nほしい……\n……ただ、\nそれだけ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "In this world... No matter where I go...\nIt's so full of noises, clamoring for attention...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "この世界は……\nどこも\nかしこも。\n……たくさんの\n音が、\n駆け巡って\nいるから……"
+    },
+    {
+      "name": "Rei",
+      "text": "You can't mean...\nIf you remove this city's people, that will bring you peace?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "まさか……\nこの街の人々を消せば、\n少しは静かになるとでもっ！？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...No.\nI wish it were as simple as that, but...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……いいえ。\nそんな、\n簡単なことなら……\nよかったの\nだけど……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Y-you call that simple?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "か、\n簡単なことっ！？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ahhh... I knew it...\nNone of you are able... to hear it either.\nI envy you...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ああ。\nやっぱり……\nあなたたち\nにも……\n聞こえない\nのね。\nうらやましい……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Here in this world...\nEven aside from the living people... there are so, so many...\nSo many voices calling out to us...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……この\n世界には……\n生きている人たち\n以外にも……\nこんなにも、\n……たくさんの……\nたくさんの\n声が、\nあふれて\nいるのに……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Huh?\nI-I don't think I can hear any voices...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……？\nわ、\nわたしには、\n何も聞こえないけど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Ranpha, was it...?\nWhatever can your words be implying...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ランファさま、\nでしたか……\nいったい\n何をおっしゃっているのでしょう……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...\nThen...\nI'll make it easier... for you all to understand...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………\nじゃあ……\n……あなた\nたちにも……\nわかりやすく\nして\nあげる……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "... ♪",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "────…………♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "She's singing?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "歌……！？"
+    },
+    {
+      "name": "Yui",
+      "text": "What a beautiful voice...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "すっごく、\n綺麗な声……"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's magic in that song!\nIt's like an incantation! We should stop her!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔力を乗せた歌よ！\n詠唱みたいなもんだわっ、\n止めるわよっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Skeletal Wyverns?!\nI think they're protecting Ranpha...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "骨のワイバーンっ！？\nランファさんを、\n守るみたいに……！"
+    },
+    {
+      "name": "Rei",
+      "text": "That's not all! What are these dark forms?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "それだけじゃない！\n影のような何かが……！"
+    },
+    {
+      "name": "Shadows",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "シャドウたち",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are these... Shadows?!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "これは……\nシャドウ！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "This many of them?!\nThey seem to be appearing in time with the song!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "こんなにたくさん……！\nあの歌に合わせるみたいに、\nシャドウが出てくるよっ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Shadows...?\nThat's not right. These are errors of this world...\nBeings that shouldn't even exist...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "シャドウ……？\n……違うわ。\nこれは……\nこの世界の\nエラー……\n本来は、\n存在しないはずのもの……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Errors of... the world...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "世界のエラー、\nって……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Isn't that like... what Her Majesty used to say?\nProblem is, I don't know what any of it actually means...\nThat pisses me off...! ",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こいつ、\n陛下と同じようなこと言ってる？\nつっても、\nあたしじゃどういう意味かまではわかんないのよね……\nなんかシャクだわ……！　"
+    },
+    {
+      "name": "Shadow 1",
+      "text": "\\\"What shall I make for today's dinner...?\\\"",
+      "choice_data_list": [],
+      "orig_name": "シャドウ１",
+      "orig_text": "『今日の夕飯は、\nどうしようかしら……』"
+    },
+    {
+      "name": "Shadow 2",
+      "text": "\\\"Yeah, yeah. Take 'em out!\\\"",
+      "choice_data_list": [],
+      "orig_name": "シャドウ２",
+      "orig_text": "『おうおう、\nやっちまえ！』"
+    },
+    {
+      "name": "Shadow 3",
+      "text": "\\\"Make sure you put the trash where it belongs.\\\"",
+      "choice_data_list": [],
+      "orig_name": "シャドウ３",
+      "orig_text": "『ゴミはちゃんとゴミ捨て場に出しなさいよねっ』"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Wahh?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "──わっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Karyl! Be careful!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "キャルちゃん、\n気をつけて！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Aaghhh!\nI don't need any dumb Shadows hanging around me!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ええーい！\nシャドウごときが、\nあたしに近づくんじゃないわよっ！"
+    },
+    {
+      "name": "Shadows",
+      "text": "\\\"...!\\\"",
+      "choice_data_list": [],
+      "orig_name": "シャドウたち",
+      "orig_text": "『…………！』"
+    },
+    {
+      "name": "Hiyori",
+      "text": "W-w-wahhh!\nThey just keep coming!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "わわわっ！\nどんどん湧いてくるよっ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Do you... understand now...?\nI can always hear their voices...\nWords with no meaning... Just going on and on... like empty ghosts...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……わかって、\nもらえる\nかしら……？\nわたしには……\nいつも、\n聞こえるの……\n何の意味も\nない……\n……亡霊のような、\nたくさんの\n声が……"
+    },
+    {
+      "name": "Yui",
+      "text": "W-well, I guess...\nIf I could hear Shadows' voices all the time,\nit might drive me pretty crazy...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "た、\nたしかに……\nシャドウたちの声が\nずっと聞こえてたら、\nおかしくなっちゃいそうだけど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Even so... We can hardly allow you to destroy this city!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ですが……\nこの街を破壊するようなことは、\nさせられません！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...I see...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……そう……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Even you... who look so sleepy...?",
+      "choice_data_list": [
+        "Nod."
+      ],
+      "orig_name": "ランファ",
+      "orig_text": "……そこの……\n眠そうな、\nあなたも……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Oh... I see...\n...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……そう、\nなの\nね……\n…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Well, that's a shame...\nAn awful, awful shame...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "残念、\nだわ…………\n……とても、\nとても\n残念…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Well then...\n...Goodbye...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……じゃあ……\n…………さようなら…………"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Ngh!\nThe Shadows are one thing... but these skeletal Wyverns are strong!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くっ！\nシャドウはともかく……\nこの骨のワイバーン、\n強い！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "And they're super tough, too!\nWhen I punch them, it makes my hands hurt!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "それに、\nすっごく硬いよ～っ！\nパンチした手が\nじんじんする～っ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Normal magic can't get through, either...\n{0}!\nPower me up! Can you do that?!",
+      "choice_data_list": [
+        "Uh-huh!"
+      ],
+      "orig_name": "キャル",
+      "orig_text": "生半可な魔法も通じないみたいね……\n{0}！\n強化よ！　\nできる！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ah...!\nHis Princess Knight energy is flowing through Miss Karyl!\nJust like before!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あっ……！\n『プリンセスナイト』のお力が、\nキャルさまに対して発動いたしました！\n以前と同じように……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Great!\nNow I might stand a better chance!\nYahhh!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "よぉしっ！\nこれならちょっとはマシに戦えるわ！\nでえ～いっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Nice going, Mr. Knight!\nLooks like you can use your power again!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えらいよ騎士くんっ！\nまた、\n強化が使えるようになったんだね！"
+    },
+    {
+      "name": "Rei",
+      "text": "As much as I hate to trouble you,\ncan you extend that power to us as well?!",
+      "choice_data_list": [
+        "..."
+      ],
+      "orig_name": "レイ",
+      "orig_text": "すまないが、{0}！\nその調子で我々にも、\n強化を頼むっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "H... huh...?\nMr. Knight closed his eyes...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あ、\nあれっ？\n騎士クン、\n目を閉じちゃった……！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "M-my lord?\nOh, how awful. If you fall asleep at this time,\nMiss Karyl's battle with the monsters will be...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\n主さまっ？\nいけません、\n今お眠りになってしまうと、\n魔物と交戦中のキャルさまが……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ahahah!\nLet's see how you like an extra-huge blast!\n...Huh?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっはっは！\n特大の魔法、\nお見舞いしてやるわっ──\n……へっ？"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Karyl!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさまっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Look out, Karyl!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぶない、\nキャルちゃんっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Peco!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ペコさんっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Eheheh! ♪\nLooks like I rescued Karyl from certain doom! ☆\nHow's that, Karyl? Did I make you swoon?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへっ♪\nわたしってばキャルちゃんのピンチを救っちゃいました☆\nどうですかキャルちゃん、\nホレちゃいました？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Dummy!\nDumborine!\nQuit saying stupid stuff and just fight already!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "バカ！\nアホリーヌ！\nマヌケなこと言ってないで戦いなさいよーっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Right! ☆ Leave it to me!\nI'll take care of anyone who tries to harm our city! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はいっ☆　\n任せてください！\n街を荒らすひとたちは、\nどーんとやっつけちゃいますね♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "These bony Wyvern things\nseem tougher than your average skeleton...\nYui! Let's take them all down!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "この骨ワイバーンさんたち、\nけっこう骨があるみたいですし……\nユイちゃん！\n一気に行きましょう！"
+    },
+    {
+      "name": "Yui",
+      "text": "Right!\nIt'll make me hungry again... but I guess we have to...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うん！\nまたお腹すいちゃうけど……\n仕方ないよねっ……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord!\nThough it pains me to disturb you when you lie at rest...\nPlease lend Miss Pecorine and Miss Yui your power!",
+      "choice_data_list": [
+        "Okay...!"
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……！\n本来ならお休みの時間に\n申し訳ありませんが……\nペコリーヌさまとユイさまに、\nお力を！"
+    },
+    {
+      "name": "Yui & Pecorine",
+      "text": "Change! Princess Form!",
+      "choice_data_list": [],
+      "orig_name": "ユイ・ペコリーヌ",
+      "orig_text": "チェンジ！　\nプリンセスフォーム！"
+    },
+    {
+      "name": "Yui & Pecorine",
+      "text": "Here we go!",
+      "choice_data_list": [],
+      "orig_name": "ユイ・ペコリーヌ",
+      "orig_text": "「──いきますっ！」\n「──いくねっ……！」"
+    },
+    {
+      "name": "Yui & Pecorine",
+      "text": "Yaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "ユイ・ペコリーヌ",
+      "orig_text": "せええーいっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Just three more to go!\nLet's keep this up and smash the whole pack!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あと３匹ですねっ！\nこの調子で、\nサクサクいきますよ～っ☆"
+    },
+    {
+      "name": "Yui",
+      "text": "Yes!\nDivine—!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うんっ！\nディバイン──……！"
+    },
+    {
+      "name": "Yui",
+      "text": "...H-huh?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……あ、\nあれっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Our Princess Forms disappeared?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "プリンセスフォームが、\n解けちゃった！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord is still fully awake...\nBut then, why...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまは、\n起きていらっしゃいます……\nでは、\nいったい……"
+    },
+    {
+      "name": "Karyl",
+      "text": "What's going on?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どういうことっ！？"
+    },
+    {
+      "name": "Rei",
+      "text": "Does this new power\nhave limitations that we're still not aware of?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あの強化能力には、\nまだ私たちの知らない制限があるんだろうか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hmmm... Maybe, like, after you transform,\nyou can't do it again for a few days... or something?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ん～っ、\nもしかして\n一度変身したら\n何日間かあけないとパワーアップできなくなる……\nとか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "N-no way...!\nIt's true that curry tastes better if you leave it for a while,\nbut we need this power right now!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そ、\nそんな～っ！\nたしかにカレーなら時間を置いたほうがおいしいですけど！\n必要なのは今なんですよ～っ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Ummm...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………ええと…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Well then... I suppose I'll strike back...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……それじゃあ……\n反撃、\nするわね……？"
+    },
+    {
+      "name": "Monsters",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    }
+  ]
+}

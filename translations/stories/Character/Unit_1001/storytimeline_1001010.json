@@ -1,0 +1,604 @@
+{
+  "title": "Hiyori Episode 10",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, Hiyori and {0}\naccept a request to escort a caravan.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その日{0}とヒヨリは\nとあるキャラバンの護衛という依頼を引き受けることにした。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Mr. Knight, look! I think those people over there are escorts as well!\nIt really is a huge caravan, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くん見て！　\n他にも護衛する人たちがいるみたい！\nさっすが\n大きなキャラバンだね！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "So you're the other guys taking the job, huh...?\nYou better not hold us back.",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "アンタらが他に引き受けたヤツか……\n足引っ張んじゃねえぞ？"
+    },
+    {
+      "name": "Escort 2",
+      "text": "Hehe. Doesn't matter if they're a bandit or a monster, we'll cut down\n[i]anyone[/i] who gets in our way! Got it?!",
+      "choice_data_list": [],
+      "orig_name": "護衛２",
+      "orig_text": "へへっ、\n途中で邪魔するヤツは\n悪党だろうが魔物だろうが\n構わずぶった切ってやろうぜ！　\nなあ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yikes. ...What a scary bunch.\nI wonder if they'll actually protect the caravan.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "はーい！　\n……なんか怖そうな人たちだね。\n護衛の依頼、\nちゃんとやってくれるのかな？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Mr. Knight. Suddenly, I'm not so sure about this anymore...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you all right?"
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くん。\nあたし、\nちょっと不安になってきたかも……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Okay... Um, yeah. Yeah! I'm okay now.\nYou're here with me, so I know everything will be fine, no matter what\nhappens!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "大丈夫……\nに\nなった。\nうん。\nもう大丈夫。\n騎士くんも一緒だし、\n何かあってもきっと大丈夫だよね！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah...! I'm all right. Just a tiny, tiny bit though.\nEheheh. Thanks for worrying about me!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん……\n平気だよ。\nただ\nちょっと、\nちょっとだけだから。\nえへへ、\n心配してくれてありがとう！"
+    },
+    {
+      "name": "Man",
+      "text": "Heeey, you two!\nGet to your stations! We're about to depart!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "おおーい、\n君たち！\nそろそろ出発するから、\n配置についてくれ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yes, sir!\nLet's go, Mr. Knight! There's no point in hanging around here getting all\nworked up, is there?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "分かりましたー！\n騎士くん行こう！　\nここで色々気にしてても、\nしょうがないよね！"
+    },
+    {
+      "name": "Man",
+      "text": "We're going straight through the forest with no breaks!\nEveryone, be extra vigilant of your surroundings!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ここからは森を一気に突っ切って行く！\nみんな、\n今まで以上に周囲を警戒してくれ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "了解っ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Walking through the gloomy forest like this really takes me back\nto that time I came to the woods with Mr. Knight and the others.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……\nこんな風に薄暗い森の中を進んでると、\n前に\n騎士くんたちと森に来た時のこと、\n思い出しちゃうな。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Back then, the bandits dressed up as monsters\nand attacked us...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あの時は、\n魔物の格好をした盗賊が\nあたしたちを襲ってきて……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Hold on. I think I just heard something...\nIt might've been tailing us since we entered the forest...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……ちょっと待って。\n今、\n物音が聞こえた気がする……\n森の入り口から\nずっと尾行されてたのかも……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Excuse me!\nPlease stop for a minute!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ごめんなさい！\nちょっと止まってくださーい！"
+    },
+    {
+      "name": "Man",
+      "text": "Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "何かあったのか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I think we're surrounded by people or monsters!\nWe should spread out before proceeding!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "人か魔物に囲まれてるかもしれません！\n少しだけ広がりながら、\n進ませてください！"
+    },
+    {
+      "name": "Man",
+      "text": "Are you certain?!\nOkay, everyone, stay alert in case of an attack!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "本当か！？\nよし、\n全員襲撃に備えて警戒するんだ！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Tch! They're on to us!\nPretty perceptive bunch! Let's get down to business!",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "ちっ！　\nあいつら気が付きやがったのか！\n勘のいいヤツらめ！　\nしかけるぞ！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "You got it!",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "おうっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "So you finally showed yourselves!\nYou've been following us, haven't you?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "やっぱり出てきた！\nあたしたちを尾行してたんだね！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Let's all work together to take them down! Here I go!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "みんなで力を合わせて倒しちゃおう！　\nいっくぞー！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Just when escort duty was getting boring.\nThere couldn't be more perfect prey! Yahhhh!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "護衛だけで退屈してたんだ。\nちょうどいい獲物だぜっ！　\nおらあっ！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Tch! You've got quite the swing, huh?!\nHrraaagh!",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "ちっ！　\nやってくれたな！\nでりゃあっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Whoa! You won't get away with that!\nHyah!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "おっと！　\nそうはいかないよ！\nとりゃー！"
+    },
+    {
+      "name": "Escort 2",
+      "text": "There's no way I'll lose either!",
+      "choice_data_list": [],
+      "orig_name": "護衛２",
+      "orig_text": "こっちも負けてられねえなっ！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Uwah! I get the feeling this one likes to get messy...!",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "うおっ！　\n面倒なことになりそうだぜこいつは……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It's going well!\nLet's keep the pressure on! Yahhh!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "いい感じだね！\nこのまま押し切っちゃおう！　\nせいやーっ！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Ooow, ow, ow...",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "いてててて……"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Damn you...!",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "ちくしょう……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Phew... Looks like we got them all.\nEverything's fine now!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ふう……\n他に仲間はいないみたい。\nもう大丈夫ですね！"
+    },
+    {
+      "name": "Man",
+      "text": "Right. Thanks to you noticing them shadowing us,\nwe were able to keep damage to a minimum. Good job!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ああ。\n君が尾行に気づいてくれたおかげで\n被害を最小限に食い止められたよ。\n助かった。"
+    },
+    {
+      "name": "Man",
+      "text": "But I think it might be a good idea\nto return to Landosol and regroup.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "しかしこれは、\nいったんランドソルに戻って\n態勢を立て直した方がよさそうだ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "We gotta hand these bandits over to Nightmare, and do loads of other\nstuff, right?\nIf you like, we can take it from here!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "この人たちを\n王宮騎士団に引き渡したり、\n色々ありますよね。\nもしよかったら\nあたしたちが代わります！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Reprobates!\nThey've sure got some nerve thinking they can attack us like that!\nEat a fist, you little rat!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "こいつら、\nこの俺様たちを襲おうなんて\nいい度胸してやがったな。\nおらっ！　\nこいつめっ！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Ouch... Please stop...\nWe'll never do anything like that ever again...",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "痛てぇ……\nもうやめてくれ……\n二度と、\nこんな事しねえからよ……"
+    },
+    {
+      "name": "Escort 2",
+      "text": "You can't trust a word that comes out of the mouths of scumbuckets\nlike these!\nKiss my foot, you cockroach!",
+      "choice_data_list": [],
+      "orig_name": "護衛２",
+      "orig_text": "悪党の言うことなんか、\nアテになるわけねえだろ！\nオラッ！　\nくたばれっ！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "P-please don't... Someone stop him...",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "や、\nやめてくれ……\n助けてくれ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Why are you still attacking them?! You're taking it too far!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "なんでまだ攻撃してるの！？　\nやりすぎだよ！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "This way we don't have to go back to Landosol!\nIt's better if we take care of them ourselves!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "こうすりゃランドソルに戻るまでもねぇ！\nこのまま、\n俺たちの手で動けなくしちまえばいいのさ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wait! They've already shown remorse for their actions!\nThere's no need to keep terrorizing them!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "待って！　\nこの人たちも反省してるでしょ！\nこれ以上、\nひどい目に遭わせる必要なんてないよ！"
+    },
+    {
+      "name": "Escort 2",
+      "text": "Huh?! Why are you standing up for these lowlifes?\nListen, if you don't wanna get hurt, then get outta my way!",
+      "choice_data_list": [],
+      "orig_name": "護衛２",
+      "orig_text": "はあ？　\nなんであんたが悪党をかばってるんだよ。\nほら、\nケガをしたくなかったらそこをどけ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Forget about it!\nThere's absolutely no way I'm gonna move from this spot...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "どかないよ！\nあたしは絶対、\nここをどかないから……！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Y-you...",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "あ、\nあんた……"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "*sob*... *sob*",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "ひぐっ……\nううぅ……"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Listen,\nas long as we help the client, it's fine!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "あのなあ、\n依頼人さえ助かればそれでいいんだよ！"
+    },
+    {
+      "name": "Escort 2",
+      "text": "Besides, all we're doing is dishing out the appropriate punishment for\nthe crime they committed. They were trying to steal other people's stuff.\nSo it makes perfect sense.",
+      "choice_data_list": [],
+      "orig_name": "護衛２",
+      "orig_text": "それに俺たちは、\n悪事を働いたこいつらに\n罰を与えてやってんだ。\n人の物を盗もうとしたんだ。\nこれくらい当然だろ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "No, you're wrong!\nThis isn't something [i]you[/i] should be doing!",
+      "choice_data_list": [
+        "You are going a bit overboard.",
+        "That's enough."
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そんなの間違ってるよ！\nそれは、\nあなたたちのやっていいことじゃない！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Right! You can't torment a prisoner \njust 'cause they did something bad!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そうだよ！　\n悪いことをしたからって、\n捕まえた人を痛めつけちゃダメだよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "There's no need to harm them like this...\nEven though they've done bad things, they're still human beings!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "こんなに傷つける必要なんてないのに……\n悪いことをした人だって\n同じ人間だよ！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Tch. Quit your preaching!\nWhen a person does something bad, they deserve everything they get!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "ちっ、\nうるせえな！\n一度悪いことをした人間は\n何をされてもしかたねえだろ！"
+    },
+    {
+      "name": "Man",
+      "text": "Hmmm... I-I suppose...\nThey are criminals in the first place...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ううむ……\nそ、\nそうだな……\n元はと言えば、\n悪党だし……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "But... using that logic, it wouldn't matter how small the bad deed was,\nyou would use it as justification to inflict pain on someone.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "でも……\nそんなこと言ったら、\nどんなに小さな悪いことでも\nそれを理由にして、\n誰かを傷つけていいってことになっちゃう。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That's just wrong!\nSo you can't hurt these people any more!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そんなのは違うよ！\nだから、\nここでこの人たちをこれ以上傷つけちゃいけない！"
+    },
+    {
+      "name": "Man",
+      "text": "...You're right.\nIf you say so, we'll go back to Landosol and surrender the prisoners to\nNightmare.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "……\n分かったよ。\n君がそう言うなら、\n悪党はランドソルで王宮騎士団に引き渡そう。"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "...H-hey, little girl.\nWhy did you stand up for bandits like us...?",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "……な、\nなあ、\nあんた。\nなんで、\n悪党の俺たちを\nこんなにかばってくれるんだ……？"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "How open-minded...",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "なんて懐の広さだ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Why...? 'Cause you guys were in trouble.\nRight, Mr. Knight?",
+      "choice_data_list": [
+        "I scratch your back, you scratch mine!"
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "なんでって……\nあなたたちが困ってたから。\nだよね、\n騎士くん？"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "...Are you for real?",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "……\n嘘、\nだろ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Why would I lie at a time like this?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "こんな時に嘘なんかつかないよ！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Hahahah... You guys are somethin' else.\nWe truly are sorry. We'll atone for our sins like grown men...",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "ははは……\nすげえな、\nあんたたち。\n本当にすまなかった。\n大人しく罪を償うよ……"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "We'll never do anything bad again, and we'll turn ourselves in once\nwe're back in Landosol. Also, we promise to do everything you tell us to.",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "もう、\nこれ以上悪さはしねえし、\nランドソルに戻ったら自首するよ。\nそれに、\nお嬢ちゃんの言うことなら何でも従う。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Well, can you promise me that you won't touch your weapons\nuntil we make it back to Landosol?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……じゃあ、\nランドソルにつくまで\n絶対武器を手にしない\nって\n約束してくれる？"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Sure, we can agree to that...\nBut aren't you gonna confiscate them from us...?",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "ああ、\nそれは構わねえけど……\n俺たちから武器も取り上げねえのか……？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Nope! I have total faith in your word!\nSo please don't do anything bad ever again. Got it?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん！　\nあたしは\nあなたたちの言葉、\n信じるよ！\nだからもう、\n悪いことはしないで。\nねっ？"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Y-yes...! We promise!",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "あ、\nああ……！　\nもちろんだ！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Tch. What's with that brat...?\nSuddenly taking away all of the fun. Unbelievable.",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "ちっ、\nなんだあの女……\n急にしゃしゃり出てきやがって。\nつまらねえ。"
+    },
+    {
+      "name": "Knight Commander",
+      "text": "Well then, we will take custody of these bandits.",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士隊長",
+      "orig_text": "それでは、\n悪党たちの身柄はこちらで引き取ろう。"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Little lady, thanks for everything that you did for us. Sorry again...",
+      "choice_data_list": [],
+      "orig_name": "悪党２",
+      "orig_text": "お嬢ちゃん、\nあんたには\n世話になったな。\nすまなかった……"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "And you too, young lad, thanks.\n...I can say with certainty that we owe you our lives.",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "そっちの兄ちゃんも、\nありがとな。\n……あんたたちは、\n命の恩人だ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "No problem. Thank you too!\nWe're both really glad that you kept your word!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あたしこそ、\nありがとう！\nちゃんと約束を守ってくれて\nうれしかった！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "...If only we were able to meet someone like you sooner.\nFarewell.",
+      "choice_data_list": [],
+      "orig_name": "悪党１",
+      "orig_text": "……あんたみたいな人に、\nもっと\n早く会えたらよかったのかもな。\nそれじゃあな。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...There they go.\nI really hope they do reflect on their mistakes.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……\n行っちゃったね。\nあの人たち、\nちゃんと反省してくれてるといいな。"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Ha! Don't count on it!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "はっ、\nそんな都合よくいくかよ！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Eventually there'll come a day when you pushovers will start to regret\nbeing so naive.",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "あんたたちみたいな甘ちゃんは、\nいつか絶対に痛い目を見るからな！"
+    },
+    {
+      "name": "Escort 1",
+      "text": "Make sure we never see your faces again! Bye!\nYou'll both die a dog's death someday, you stupid idiots!",
+      "choice_data_list": [],
+      "orig_name": "護衛１",
+      "orig_text": "二度と俺たちに顔見せんじゃねえぞ！　\nじゃあな！\nどっかでのたれ死にするだろう、\nおバカさんたち！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Pushover... Am I really that much of a soft touch?\nWas it wrong of me to stand up for the bad guys?",
+      "choice_data_list": [
+        "Not at all.",
+        "You're very admirable."
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "甘ちゃん……\nあたし\nやっぱり甘いのかな？\n悪人でも助けようと思うのは\n間違ってるのかな。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Yeah, you're right.\nIt doesn't matter who they are—if I see someone in trouble,\nI can't just ignore them!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……うん、\nそうだよね。\n目の前で困ってる人がどんな人でも、\n放っておけないもん！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I'm not admirable at all.\nI saw what was happening and just acted out of impulse, that's all.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "立派なんかじゃないよ。\n気づいたら\n身体が勝手に動いてただけ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Mr. Knight. Thanks for cheering me up.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くん。\n励ましてくれて、\nありがとう。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I don't care if I get called a pushover.\nFrom now on, as many times as necessary, no matter the kind of\nperson, I'll help anyone in need!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "甘いって言われてもいい。\nこれからも\n何度も何度も、\nどんな人だって\n助けてみせるよ！"
+    },
+    {
+      "name": "Narration",
+      "text": "With a reinvigorated spirit,\nthus vowed Hiyori deep within her heart.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "元気を取り戻したヒヨリは\nそう心の中で強く強く誓うのであった。"
+    }
+  ]
+}

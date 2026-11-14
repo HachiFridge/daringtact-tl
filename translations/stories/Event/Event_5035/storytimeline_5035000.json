@@ -1,0 +1,576 @@
+{
+  "title": "Cast a Spell On...",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having accepted a new mission from the Guild Association,\n{0} and the members of the Gourmet Guild\nare out on a monster hunt.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}と【美食殿】の３人は、\nギルド管理協会からの依頼で\n魔物討伐に出かけていた。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...!\nMy lord, this way!\nI do believe I heard an unfamiliar monster cry!",
+      "choice_data_list": [
+        "Yeah!"
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "……！\n主さま、\nこちらです！\nこちらから、\n聞き慣れぬ魔物の声が……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This new type of monster the mission mentioned...\nI can't wait to see what it tastes like! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "協会からの依頼にあった、\n新種の魔物……\nどんな味か、楽しみです～っ☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hold up. Pecorine?\nJust so we're clear, I'm not eating that stuff!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっとペコリーヌっ？\nいっとくけど、\nあたしは食べないからね！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Aw, don't say that, Karyl!\nEverything's more tasty if you eat it together!\nOr what, are you on a diet?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もう、\nキャルちゃんってば～っ。\nごはんはみんなで食べたほうがおいしいですよ？\nそれとも\nダイエット中ですか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's not the issue!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そうじゃなくって～……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Everyone.\nPlease lower your voices.\nI feel the presence of a monster nearby.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……みなさま。\nどうかお声を低く。\n魔物らしきものの気配が、\n近いようです……！"
+    },
+    {
+      "name": "Both",
+      "text": "...!",
+      "choice_data_list": [
+        "There it is...!"
+      ],
+      "orig_name": "２人",
+      "orig_text": "……！"
+    },
+    {
+      "name": "???",
+      "text": "...!\nP-pinya...?!",
+      "choice_data_list": [],
+      "orig_name": "？？？　",
+      "orig_text": "……！\nぴ、\nぴにゃっ……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wow~! ♪\nIt's green all over, and round and fluffy too!\nLike a big edamame bean! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わぁ～♪\n全身緑色で、\nモコモコの魔物です～♪\n枝豆みたいですね☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "It doesn't look familiar, that's for sure.\nIs it a new type of orc, or a giant moss ball that grew legs?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "たしかに、\n初めて見る魔物ね。\nオークの変種か、\nそれとも巨大化したマリモが歩き出したのか……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, whatever.\nLet's beat it up and finish the mission!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まあいいわ。\nさっさと倒して、\n依頼解決よ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I will provide support.\nMy lord, please lend us your strength!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "援護いたします。\n主さま、\nわたくしたちに強化を……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's pound it into a big green mochi ball!\nHere goes nothing!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "すり潰して、\nお餅にしちゃいましょう☆\nいきますよっ！"
+    },
+    {
+      "name": "???",
+      "text": "P-pinya?!\nPinyaaaahh!",
+      "choice_data_list": [
+        "Wait, guys!"
+      ],
+      "orig_name": "？？？",
+      "orig_text": "ぴ、\nぴにゃ！？\nぴにゃあああ～っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?!\nWhat's wrong now, {0}?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっ！？\nどうしたんですか{0}くん？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, come on—this is a battle!\nPower us up already, will you?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっとあんた、\n戦闘なのよ！？\n早く強化しなさいよっ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord...?\nIs something concerning you?",
+      "choice_data_list": [
+        "The monster looks really scared..."
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……？\nどうか、\nなさったのですか？"
+    },
+    {
+      "name": "???",
+      "text": "Pinya...\nPinyaaa...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぴにゃ……\nぴにゃぁ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I think you may be right.\nIt is cowering in fear without making any attempt to attack.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……どうやら、\nそのようですね。\n怯えるばかりで、\n反撃の意志も無い模様です。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Are you saying it's a harmless monster? I wouldn't be so sure...\nWhat if it's waiting till we let our guard down,\nso it can leap in for an easy kill?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "無害な魔物、\nっていいたいワケ？\nどうかしらね……\n油断したところに、\nいきなりぐさーっ！\nとか攻撃してくるかもしんないし？"
+    },
+    {
+      "name": "???",
+      "text": "Pinya!\nNyapipi!",
+      "choice_data_list": [
+        "It says it won't do that."
+      ],
+      "orig_name": "？？？",
+      "orig_text": "ぴにゃ！\nにゃぴぴ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?\n{0}, can you understand what it's saying?",
+      "choice_data_list": [
+        "I think so, sort of..."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっ？\n{0}くん、\nこの子の言葉がわかるんですか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord...\nI had no idea you possessed such a talent.\nYou truly are the most remarkable of fellows. ♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……\nそのような特技を、\nお持ちだったのですね。\nほんとうに、\n底知れないお方です……♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmmm... Well, if {0}\nwants to let the poor thing go, I don't mind!\nEven if I am still curious about what it tastes like...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うーん……\n{0}くんが\nこの子を見逃してあげたいなら、\nいいですよ。\nわたしとしては、\n味見してみたい気持ちはありますが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Naturally, I will do as my lord wishes.\nHowever... in that case, it seems inevitable\nthat this mission must end in failure.",
+      "choice_data_list": [
+        "Karyl, are you OK with this too?"
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしは、\nもちろん主さまに従います。\nですが……\nその場合は\n当然ではありますが、\n依頼は失敗\nとなってしまいますね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "*sigh*... Fine, fine, whatever.\nThat dumb face and the sound of its weird squeals\nare making it really hard to take seriously anyway.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁ……\nはいはい、\nわかったわよ。\nこいつのブサイク面と、\nマヌケな鳴き声聞いてたら\n向かい合ってるのも\nバカらしくなってきちゃったしね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yaaay! ♪\nYou're such a sweetie, Karyl! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わぁ～♪\nキャルちゃん、やっさしぃ～☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ohhh, quit grabbing me like that!\nAnyway, listen up, you big, green, ugly lunk!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "もうっ、\nいちいちくっつくなぁ～っ！\nそれより聞きなさい、\nそこの緑のブサイク魔物！"
+    },
+    {
+      "name": "???",
+      "text": "P-pinya?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぴ、\nぴにゃっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Looks like you're off the hook this time.\nBut if you cause anyone any trouble... next time I'll roast you\nand feed you to Miss Bottomless-Stomach-on-Legs here!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんた、\n今日は見逃してあげるけど。\nもし人にメーワクかけるようなことしたら……\n今度こそ串焼きにして、\nこの食欲バカ女に\n食わせてやるんだからね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Roast monster... I love it! ♪\n*drool*... ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "串焼き、\nいいですね♪\nじゅる……☆"
+    },
+    {
+      "name": "???",
+      "text": "Pinya!\nPinyaaaa!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぴにゃ！\nぴにゃ～っ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Eheh... ♪\nWell then, shall we return to the city? My kindhearted lord... ♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふ……♪\nでは、\n町に戻りましょうか。\nやさしい主さま……♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Since I didn't get to eat the monster,\nI'm absolutely starving now!\nLet's head home and buy a nice big dinner! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "魔物さんを食べそびれてしまったので、\nわたしもうお腹ペコペコですよ！\nはやく帰って、\n定食屋さんに行きましょうー♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... Hey, hold it!\nDon't go running off on your own!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっ、\nちょっとコラ！\nひとりで突っ走るんじゃないわよーっ！"
+    },
+    {
+      "name": "???",
+      "text": "...\n...Pinya...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……\n…………ぴにゃ……"
+    },
+    {
+      "name": "Narration",
+      "text": "The next day...\nThe Gourmet Guild's members have come to the usual bulletin board\nin search of another new job.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、翌日……\n【美食殿】の一同は、掲示板で新たな依頼を探していた。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmmm...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむふむ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "How's it look, Koro?\nDid you find any decent-looking jobs?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どーお\nコロ助ー\nそっち、\nなんかいい依頼はあった？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Let's see...\n\\\"Please find my stray dog.\\\"\n\\\"Looking for a babysitter.\\\"",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ええと……\n「迷子の犬探してください」\n「ベビーシッターお願いします」……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "\\\"Defeat the goblin ravaging our fields!\\\"\n\\\"Seeking help moving rubble!\\\"\nSo many different options! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "「畑を荒らすゴブリンを退治して！」\n「瓦礫撤去手伝い募集中！」……\nよりどりみどりですね☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmmm...\nNone of them exactly leap out at me.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……うーん。\nなんか、\nどれもパッとしないわねぇ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are you sure?\nIf we can be of use to these people,\nI would be quite happy to offer our services...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そうでしょうか。\nみなさまのお役に立つことであれば、\n率先して\n引き受けてよいかと思うのですが。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Geez... What are you, a saint?!\nYou're making me look like a miser by comparison!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく、\nこの良い子ちゃんがーっ！\nそれじゃ、あたしの心が貧しいみたいじゃないの！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't worry!\nEveryone here knows that you're the kindest\nand sweetest girl there ever was! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まあまあ。\nキャルちゃんが優しい心の持ち主ってことは、\nわたしたちはよーく知ってますから♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, look, Karyl—how about that flyer posted over there?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それよりキャルちゃん。\nあそこの張り紙なんかどうですか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm?\nWhich one?\nLet's see... Huh?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ？\nどれどれ？\nえっと……\nはぁ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "\\\"Turn us into real pop idols!\\\"\n...That seems to be all it says.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "「私たちをアイドルにしてください！」\nと\n書いてありますが……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huhhh?\nWhat the heck? What a freaky request.\nActually, is this even the kind of job you're supposed to post here?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はあぁ？\nなにそれ？\n　意味わかんないし。\nっていうか\nギルドの掲示板に張る依頼か？\n　コレ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Idols... They're performers who sing and dance, right?\nSounds like lots of fun to me! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "アイドルって、\n歌ったり踊ったりするアレですよね？\n面白そうじゃないですか☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "I mean, sure, they're probably fun to [i]watch.[/i] \nBut as a job? Seems like a clear \\\"no can do\\\" to me.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そりゃあ、\n見る分には面白いでしょうけど。\nでも無理ね、\n依頼として引き受けられるもんじゃないわ……"
+    },
+    {
+      "name": "???",
+      "text": "...Pinya...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──ぴにゃ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Oh?\nThat large, green individual... He seems familiar.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……おや？\nあそこにいる緑色の方、\nあれは昨日の……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't tell me he followed us all the way here?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかして、\nついてきちゃったんですかっ？"
+    },
+    {
+      "name": "???",
+      "text": "Pinyaaaa!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぴにゃーっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ahh!\nHey, stop that! You can't just rip flyers off the board!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっ！\nちょっとダメよ、\n勝手に掲示板から紙を剥がしちゃ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "How in the world did he grip the flyer with those hands?\nPerhaps he is surprisingly dextrous... Oh?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あの手の形状で、\nどのように紙を掴んだのでしょう。\n意外と器用なのでしょうか……\nおや。"
+    },
+    {
+      "name": "???",
+      "text": "Pinya.",
+      "choice_data_list": [
+        "Thanks."
+      ],
+      "orig_name": "？？？",
+      "orig_text": "ぴにゃ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't just accept it, {0}!\nOh heck, and isn't that\nthe \\\"turn us into idols\\\" job we just totally ruled out?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何受け取ってんのよ、{0}っ。\nそれ、\nさっきの\n「アイドルにしてください」\nってフザけた依頼の紙じゃない！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Could it be... he's actually\ntrying to recommend that we accept this job?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかして……\nわたしたちに、\nこの依頼を薦めてくれているつもりなんでしょうか？"
+    },
+    {
+      "name": "???",
+      "text": "Pinya.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぴにゃ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "\\\"Pinya\\\"? Oh, gimme a break!\nPin that flyer back up!\nIf we're holding it, somebody might get the wrong idea and—",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぴにゃ\nじゃないわよーっ！\n戻してきなさい、早く！\n持ってたら、\nその依頼を受けるつもりって誤解を──"
+    },
+    {
+      "name": "???",
+      "text": "Ahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "？？？　",
+      "orig_text": "あーーーーーっ！"
+    },
+    {
+      "name": "???",
+      "text": "Look over there, Shiburin, Shimamu!\nThat guy—he's taken the job request flyer we posted!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "見てみてしぶりん、\nしまむー！\nあの人、\n私たちが張った依頼の紙を取ってくれてるよ！"
+    },
+    {
+      "name": "???",
+      "text": "Um, Mio? Not so loud...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ちょっとミオ、\n声が大きい……"
+    },
+    {
+      "name": "???",
+      "text": "You don't think he's really planning to accept it, do you?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "もしかして、\nあの依頼を引き受けてくれるんでしょうか……！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Guehh!\nI don't like the way this is going...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "げげっ！\nなんか、\nヤな感じの流れ……！"
+    },
+    {
+      "name": "???",
+      "text": "Um... It's nice to meet you!\nWe're the ones who posted that flyer—\na small guild by the name of \\\"New Generations\\\"!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "えっと、\nはじめまして！\n私たち、\nその紙を張った\n【ニュージェネレーションズ】\nっていうギルドの者なんですけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Heyas!\nI'm the perpetually peckish Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "オイッスー☆\nお腹ペコペコ、\nペコリーヌです！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Greetings. We are the Gourmet Guild.\nMy name is Kokkoro,\nand this is my lord, {0}.",
+      "choice_data_list": [
+        "It's great to meet you."
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "はじめまして、\nギルド【美食殿】です。\nわたくしはコッコロ。\nそしてこちらは、\n{0}さまです。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "I'm Uzuki! ♪\nIt's a pleasure!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "ウヅキです♪\nはじめまして！"
+    },
+    {
+      "name": "Mio",
+      "text": "I'm Mio!\nHi there! ♪\nAnd this stoic girl over here is...",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "ミオです！\nよろしくね♪\nで、\nこっちのクールなのが……"
+    },
+    {
+      "name": "Rin",
+      "text": "...Rin.\nHmm.\nSo you're taking on our request, are you?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……\nリン。\nふぅん。\nアンタたちが、\n依頼を受けてくれるわけ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "By \\\"request\\\"... you mean, uh...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "依頼って……\nその、\nやっぱり。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "That's right!\nReady, guys?",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "はい！\nせーのっ。"
+    },
+    {
+      "name": "Mio & Uzuki",
+      "text": "We need you to turn us into real idols!",
+      "choice_data_list": [],
+      "orig_name": "ミオ・ウヅキ",
+      "orig_text": "私たちを、\nアイドルにしてくださーいっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Sorry... That's not happening!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ごめん……\nそれ\n無理だわ。"
+    },
+    {
+      "name": "Mio & Uzuki",
+      "text": "Whaaaat?!",
+      "choice_data_list": [],
+      "orig_name": "ミオ・ウヅキ",
+      "orig_text": "えーーーーっ！？"
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "title": "Someone Who Shouldn't be Here",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "It's been about ten days since Nozomi and {0} started working at the Alkes Alchemy Hall shop.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ノゾミと{0}が\nアルケス錬金堂で働き出してから、\n約10日が過ぎた。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "\"Original Transmutation\"!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "『基創錬成』！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Okay, potion complete!! Lou-chan, how about this one?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……はいっ、\nポーション完成っ！！\nルイちゃんっ、\nこれでどうかな？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Hmm. ...Well, I guess I can give you a passing grade for that. It's a very close call though.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ふーん。\n……ま、\n合格点あげてもいいわ。\n超ギリギリのおまけだけど。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yay, I got my master's seal of approval♪ ...*sniff sniff*! Haaah... I'm so happy... Maybe it's thanks to Lou-chan's gentle scent that I was able to work so hard!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "やったー、\n師匠からのお墨付きだー♪\n……クンクンクン！　\nはぁぁ……\n幸せ……\nここまで頑張れたのは\nルイちゃんの優しい匂いのおかげかも！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "What kind of context even is that...!?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "どういう脈絡よ……！？"
+    },
+    {
+      "name": "Sono",
+      "text": "What are you doing, \"Shameless Pair\"?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "なにやってんのよ\n公開破廉恥ズ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "T-That's the worst duo name I've ever heard!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "さ、\n最悪のコンビ名だわ……！！"
+    },
+    {
+      "name": "Sono",
+      "text": "Nozomi-chan, we've got more customers, so please help us out.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ノゾミちゃん、\nお客さん増えてきたから\nこっちヘルプお願い。"
+    },
+    {
+      "name": "Customer 1",
+      "text": "Oh, Nozomi-chan. Thank you so much for the Nozomi branded potion you made for me.",
+      "choice_data_list": [],
+      "orig_name": "客１",
+      "orig_text": "ああ、\nノゾミちゃん。\nノゾミ印のポーション\nありがとうね。"
+    },
+    {
+      "name": "Customer 1",
+      "text": "That reminds me, I heard from my grandson. Nozomi-chan you're also an idol, right? I'm going to see you on stage singing next time you're on♪ See you then~",
+      "choice_data_list": [],
+      "orig_name": "客１",
+      "orig_text": "そうだ、\n孫から聞いたよ。\nノゾミちゃんって\nアイドルもやってるんだってね？\nこんど\nお歌の舞台\n見に行くからね♪　\nそれじゃあね～"
+    },
+    {
+      "name": "Sono",
+      "text": "Fufu. Lately, it's not Nozomi-chan the idol, but Nozomi-chan the alchemist that has been gathering quite the fans. Geez, that girl's really something else.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ふふ。\n最近じゃ\nアイドルとしてのノゾミちゃんじゃなく、\n錬金術師のノゾミちゃんにお客さんがついてる。\nまったく大したもんだよ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ehehe, that makes me happy too! ...Oh, Iroha-chan.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えへへ、\nうれしいです！\n……\nあ、\nイロハちゃん。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Nozomi-chan! This is what you made for me! Let's go try it out during our lunch break! Oh, do you want to come with us, Uncle?",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ノゾミちゃん！　\nノゾミちゃんが作ってくれたやつ！\nお昼休憩に試しに行こーっ！\nあ、\nおじちゃんも一緒に行きたいー？"
+    },
+    {
+      "name": "Iroha",
+      "text": "I see... That's too bad! See you later, Uncle!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "そっか～\n残念！\nじゃあね、\nおじちゃん！"
+    },
+    {
+      "name": "Sono",
+      "text": "That guy... is he planning to be called \"Uncle\" forever?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "あいつ……\nこのままおじちゃんでいく気か？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yes! This is a \"insect-attracting honey\" made from Gio Teogonia materials! Just apply it to the tree and wait a few minutes...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "はい！　\nジオ・テオゴニアの素材で作った\n『虫寄せ蜜』だよ！\nこれを木に塗って、\n数分待てば……"
+    },
+    {
+      "name": "Narration",
+      "text": "Bwooom...!!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ブーン……ッ！！"
+    },
+    {
+      "name": "Iroha",
+      "text": "WOOOOW!! There's so many stag beetles!! That's amazing, I love Nozomi-chan! You're my second favorite thing after stag beetles!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "わあっ！！　\nクワガタいっぱいっ！！\nすごいよノゾミちゃん大好きっ！　\nクワガタの次に好き！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ahaha, hopefully I'll surpass the stag beetles someday♪ ...Anyway, I also really enjoy your \"wild\" smell too, Iroha-chan...♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あはは、\nいつかクワガタ超えてやる♪\n……\nそれにしても、\nイロハちゃんの匂いもワイルドで好き……♪"
+    },
+    {
+      "name": "Sono",
+      "text": "Nozomi-chan's such a good girl.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ノゾミちゃん、\nいい子だよね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...What's this coming from now?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……なによ急に。"
+    },
+    {
+      "name": "Sono",
+      "text": "No, y'see... I used to think idols were all high and mighty. Nozomi-chan is honest, innocent and hardworking. ...I find myself wondering if she'll continue working for us like this.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "いやさ。\nアイドルって\nお高くとまってんのかなー\nとか思ってたけど。\nノゾミちゃんは素直で\n天真爛漫で\n一生懸命で。\n……\nこのまま、\nずっとうちで働いてくれないかな～\nなんて。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Well, if her alchemy skills were to improve a little more, we might put her into some better use I guess. ...Oh, looks like a customer's here.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ま、\nもうちょっと錬金術の腕が上がったら\n多少は使い物になるかもね。\n……\nっと、\nお客さんみたいよ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We're also back!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "戻りましたー！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Thanks to Nozomi-chan, we've got a huge stag beetle catch! Ahaha, today is the best day of my life~☆",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ノゾミちゃんのおかげでクワガタ大漁だよっ！\nあははっ、\n今日は人生サイコーの一日だな～☆"
+    },
+    {
+      "name": "Customer 2",
+      "text": "*sigh*... My life... is over.",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "はああ……\n人生\n詰んだ。"
+    },
+    {
+      "name": "Sono",
+      "text": "No, the gap between you and Iroha is almost visible. ...You look so gloomy as you sigh. What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "いや\nイロハとの落差。\n……\nそんなに暗い顔で溜息ついて。\n一体どうしたんです？"
+    },
+    {
+      "name": "Customer 2",
+      "text": "I... I'm sorry. I came to Landosol for work a while ago. But the work has been so intense I've reached the limits of my stamina and mental fortitude...",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "す……\nすみません。\n私、\n少し前に仕事でランドソルにやってきたんですが。\n恐ろしいほどの激務で\n体力も\n精神力も限界で……"
+    },
+    {
+      "name": "Customer 2",
+      "text": "Every day, I go back and forth between home and work... Just when I thought I couldn't do it anymore, I found this store's sign and tagline. \"A store that has everything\"...",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "毎日毎日、\n家と職場を\n往復する日々……\nもう\nダメだと思った時。\nこのお店の看板を見つけたんです。\n『無いものは無いお店』……\nって。"
+    },
+    {
+      "name": "Customer 2",
+      "text": "So, I thought, at the very least, I would like to buy something that gives people hope.",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "それで。\nせめて、\n希望を持つことができるようなものを\n売ってもらえれば、\nと。"
+    },
+    {
+      "name": "Sono",
+      "text": "Whoa... A Black Market Guild? You'd better hurry up and get to the right place. I'm sure the Guild Management Association has jurisdiction over that sort of thing...",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "うわ……\nブラックギルドですか？\nさっさとしかるべきところに駆け込んだ方がいいですよ。\n確か\nギルド管理協会にそういう管轄があったはず……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Now, now, Sono-san. Whether you want to run to someone or ask for advice, it's difficult if you're always feeling down. If you're looking for some potion to cheer you up... how about \"Party Anytime Elixir\"?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "まあまあ、\nソノさん。\n駆け込むにしても\n相談するにしても、\n気分が落ちてたら難しいわよ。\n元気になれるお薬なら……\n『いつでもパリピ薬』なんてどうでしょう？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Just take a look at what happens to this energy-saving girl after taking this elixir.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "この薬を飲めば、\n省エネ少女もこの通り。"
+    },
+    {
+      "name": "Sono",
+      "text": "No, what are you making me drink... *gulp*!?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "いや\n勝手になに飲ませて……\nごくんっ！？"
+    },
+    {
+      "name": "Sono",
+      "text": "FOOUUUR☆ PARTY PEOPLE FUWA FUWA! PARTY PEOPLE FUWA FUWA! Let's show them what a SHOWTIME is! HEYAAAHHHH!!",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "フォーッ☆　\nパー\nリー\nピー\nポー、\nフワッ\nフワッ！\nパー\nリー\nピー\nポー、\nフワッ\nフワッ！\n盛り上がって\nいきまSHOWタイム！　\nヒーアッ！！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Wow! Iroha's doing it too! PARTY PEOPLE FUWA FUWA! PARTY PEOPLE FUWA FUWA!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "わー！　\nイロハもやるー！\nパー\nリー\nピー\nポー、\nフワッフワッ！\nパー\nリー\nピー\nポー、\nフワッフワッ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Even without drinking that Iroha-chan's still a party animal.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "イロハちゃんは飲まなくてもパリピなんだ。"
+    },
+    {
+      "name": "Customer 2",
+      "text": "...A-Amazing. Okay, I'll try it out. *gulp*...",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "……す、\nすごい。\nじゃあ、\nいただきます。\nごくん……"
+    },
+    {
+      "name": "Customer 2",
+      "text": "......*Blank*.",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "…………ず～んっ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Wha?! \"Party Anytime Elixir\" isn't working...!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "なっ！？\n『いつでもパリピ薬』が効かないですって……！"
+    },
+    {
+      "name": "Customer 2",
+      "text": "...I'm sorry. I'm sure it would have worked if I were a healthy person. I am so tired... So it's probably impossible for me to enjoy myself. Excuse me...",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "……すみません。\nきっと\n元気な方なら\n効いたのかもしれません。\n私はもう、\n疲れきっていて……\n楽しむなんて無理なんでしょう。\n失礼します……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Please wait! You came to our store because this was your true last chance before giving up, didn't you? In that case, I can't let you go home with that look on your face.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……待ってくださいっ！　\nうちのお店に、\n藁にも縋る気持ちで\n来てくれたんですよね？　\nだったら。\nそんな顔で帰らせるなんてできません。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We are a store that \"has everything you need\"! I'm sure that together we'll find what you're looking for!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うちは、\n『無いものは無いお店』なんだから！\nきっと、\nお探しの品。\nお出ししますね♪"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Hey, Nozomi... Don't say such careless things. If you talk big like that and then can't back it up, it'll affect our reputation, you know?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ちょっとノゾミ……\n勝手な事言わないで。\n大口叩いて\nできませんでしたじゃ、\n信用にかかわるのよ？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I'm aware of that Lou-chan. Could you leave this to me?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "分かってるよルイちゃん。\nここは私に任せてもらえないかな？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Understood. Please go ahead.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "分かった。\nお願い。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Thank you, Lou-chan! Alright, can you help too, {0}-kun? I'll explain what we're going to do.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ありがとうルイちゃん！\nよし、\n{0}くんも手伝ってくれる？\n何をするかは説明するから。"
+    },
+    {
+      "name": "Customer 2",
+      "text": "*sigh*... Um, I think it's about time I went home... It looks like you're preparing something for me, but okay, really. Excuse me...",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "はああ……\nあの、\nもう\n帰ります……\nなんか\n準備してくれてるみたいですけど、\nホントいいんで。\n失礼します……"
+    },
+    {
+      "name": "Sono",
+      "text": "Oh, it seems as if things are ready to go. Here, have a seat in this chair.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "あ、\n準備できたっぽいですよ。\nはい、\nこの椅子にお座りください。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Alright, this one's perfectly set too! The Rainbow Lamp decorations Nozomi-chan made with alchemy are all ready to go!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "よしっ、\nこっちもばっちり！\nノゾミちゃんが錬金術で作った\n『虹色ランプ』\n飾りつけ完了！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "A \"Rainbow Lamp\"... As the name suggests, it's just a lamp that glows. ...Nozomi. What are you planning to do with something like this? Hey, {0}, what on earth even is this?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "『虹色ランプ』……\nその名の通り、\nただの光るランプよ？\n……\nノゾミ。\nこんなもの作ってなにするつもり……\nねえ{0}くん、\nこれって一体。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...! What is this music? Is this an audio board...?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……っ！　\nなにこの音楽？\nこれは、\n音響盤……？"
+    },
+    {
+      "name": "Iroha",
+      "text": "Wow, the rainbow lamps started to light up in time with the music!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "わっ、\n音楽に合わせて\n『虹色ランプ』が光り出した！"
+    },
+    {
+      "name": "Customer 2",
+      "text": "...No. I don't really have the luxury of enjoying music right now...",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "……いや。\n今の私に\n音楽を楽しむ余裕なんて……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Come on, don't make that face! Or your happiness might just run away too!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ほらほら、\nそんな顔しないでください！\n幸せが逃げちゃいますよ～？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Happiness gathers around smiling people! That's why I'll make you all smile!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "幸せは\n笑顔の人のところに集まるんです！\nだから私があなたを笑顔にさせますね！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Hello everyone! I'm Nozomi of Carmina♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "どーもこんにちは！\nカルミナのノゾミです♪"
+    },
+    {
+      "name": "Customer 2",
+      "text": "Carmina's Nozomi... Ugh! That's still the girl from before, right...? Wh-What's with this glow...!!",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "カルミナのノゾミ……\n……\nううっ！　\nさっきの\n子だよな……！？\nな、\nなんだ\nこの\n輝き……っ！！"
+    },
+    {
+      "name": "Iroha",
+      "text": "A-Amazing...!! She's an idol, no doubt...!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "す……\nすごい……っ！！\nアイドルだ……！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I'll sing with all my heart and soul just for you! It's a solo version, but please listen to it! \"Shining Future\"!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あなたのために、\n心を込めて歌います！\nソロバーションだけど聞いてくださいっ！\n『Shining Future』！"
+    },
+    {
+      "name": "Customer 2",
+      "text": "Wh-What's this... Such charisma...Wait a second... Am I laughing...? Why am I getting so excited!?",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "な……\nなんてカリスマ性……\nちょ、\nちょっと待って……\n私、\n笑ってる……？\nなんで私こんなに、\nノリノリになってんだよお！？"
+    },
+    {
+      "name": "客２",
+      "text": "オイッ！　",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "オイッ！　"
+    },
+    {
+      "name": "Sono",
+      "text": "Yes... This excitement truly is overbearing.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ええ……\nめっちゃ盛り上がってる。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Sono-chan, here just for you! The 'Party Anytime Elixir'!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ソノちゃん\nはい！\n『いつでもパリピ薬』！"
+    },
+    {
+      "name": "二人",
+      "text": "オイッ！　",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "オイッ！　"
+    },
+    {
+      "name": "みんな",
+      "text": "オイッ！　",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "オイッ！　"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "う……\nみんなノリノリだ……\nこういうの恥ずかしいけど\n一人棒立ちの方が恥ずかしい……っ。\nよ……\nよし、\n私も……っ！　",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "う……\nみんなノリノリだ……\nこういうの恥ずかしいけど\n一人棒立ちの方が恥ずかしい……っ。\nよ……\nよし、\n私も……っ！　"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Thank you very much!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ありがとうございました！"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "オイッ！　\nオ……\n終わってるっ！！",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "オイッ！　\nオ……\n終わってるっ！！"
+    },
+    {
+      "name": "Customer 2",
+      "text": "I finally found a reason to live. I've only just arrived in Landosol, so I didn't know about this at all, but I will strongly support as my oshi... Nozomi from Carmina!!",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "私、\n生き甲斐見つけちゃいました。\nランドソルに来たばっかで、\n仕事漬けで\nぜんぜん知らなかったけど、\nカルミナを……\nノゾミンを激推しします！！"
+    },
+    {
+      "name": "Customer 2",
+      "text": "ALRIGHT, I'M POURING WITH HOPE ALL OVER!! I'LL DO MY BEST AT WORK!!",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "よっしゃー、\n生きる希望が湧いてきたー！！\n仕事頑張るぞーっ！！"
+    },
+    {
+      "name": "Sono",
+      "text": "Wow... That's one impressive glow-up. Nozomi-chan, you're amazing...!",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "すごい……\nめっちゃ元気になった。\nノゾミちゃん、\nあんたすごいよ……！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Yeah!! Nozomi's singing and dancing were really cool! Idols are amazing!!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "うんっ！！\nノゾミちゃんの歌とダンスもすっごくかっこよかった！\nアイドルってすごいんだね！！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ehehe, thank you♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えへへ、\nありがとう♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Thank you for trusting me and leaving that to me, Lou-chan. As a member of Alkes Alchemy Hall, I wonder if I was able to contribute even if just a little?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……ルイちゃんも私に任せてくれてありがとう。\n【アルケス錬金堂】のメンバーとして、\nちょっとは貢献できたかな？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Nozomi.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ノゾミ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "What is it, Lou-chan?♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "なに、\nルイちゃん♪"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "You... From tomorrow, you're fired.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "あなた、\n明日でクビよ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Huh?! Wh-Why all of a sudden?!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えっ！？\nと、\n突然どうして！？"
+    },
+    {
+      "name": "Sono",
+      "text": "Th-That's right... Why do such a thing, Lou-chan?!",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "そ、\nそうだよ……\nなんでさルイちゃん！？"
+    },
+    {
+      "name": "Iroha",
+      "text": "Lou-chan, why are you being so mean?! Ah, I get it! You're frustrated because Nozomi-chan is doing such a great job here!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ルイちゃん\nなんでそんなイジワルなこと言うの！？\nあ、\nわかった！　\nノゾミちゃんが大活躍だから悔しいんだ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "That's not it!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "そんなんじゃないっ！！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "うっ……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Nozomi. Here.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ノゾミ。\nこれ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...It's a miracle cure for \"the secret elixir that will release your true self\". If you drink this, your strong smell fetish will be finally cured.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……『本当の自分を解放する秘薬』の特効薬よ。\nこれを飲めば\nその激しい匂いフェチ体質は治るわ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Eeeehhh?! You had made this already?!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ええ！？\nもう作れてたの！？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Back when we went to Gio Teogonia, I actually found the ingredients needed to make this cure then.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ジオ・テオゴニアに行った時にね。\n実はあの時、\nこの薬の素材も見つけてたの。"
+    },
+    {
+      "name": "Sono",
+      "text": "I see... But why were you hiding the cure up until now?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "そうだったの……\nでも\nなんで今まで隠してたん？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "That's... well...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "それは……\nその。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "If I give this to you... If Nozomi's smell fetish gets cured, then there will be no reason for her to be around here anymore...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "これを渡すと。\n……\n匂いフェチ体質が治っちゃうと、\nノゾミがここにいる理由がなくなっちゃうから……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...MMMMmmmgh!!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "～～\n～っ！！！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "S-Sono-san, lend me your ear...! *Whisper whisper*...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ソ、\nソノさん耳かして……！\nコソコソコソ……"
+    },
+    {
+      "name": "Sono",
+      "text": "Hmm? What's that...? \"Since Nozomi came, have there been more smiles from all the customers\"? \"I've also made many new discoveries\"? \"And Iroha-chan and Sono-san both look really happy\"... yeah. However?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ん？　\nなになに……？\nノゾミが来てから\nお客さんの笑顔も増えて？　\n色んな発見もあって？\nイロハちゃんもソノさんも\nとってもうれしそうで……\nうん。\nでも？"
+    },
+    {
+      "name": "Sono",
+      "text": "After seeing what happened earlier, you think Nozomi shouldn't be here? Because you think Nozomi should shine as an idol?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "さっきのを見て、\nノゾミはここにいるべき人じゃないって？\nノゾミは\nアイドルとして輝くべきだと\n思ったから？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "*Whisper whisper whisper*...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "コソコソコソ……"
+    },
+    {
+      "name": "Sono",
+      "text": "No, what am I a ventriloquist. At least say the last part yourself please.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "いや\n腹話術か。\n最後くらい自分で言いな。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...N-Nozomi.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ノ、\nノゾミ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Yes.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……はい。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "If I had given you this medicine right away, you could have returned to being an idol sooner. I'm sorry.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "この薬を渡せば、\n本当は\nもっと早くアイドルに戻れたのに\nごめんなさい。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...I'm sorry for being so selfish.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……私のわがままのせいで、\nごめんなさい。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Don't apologize. ...But Lou-chan, what part of that is selfish...?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "謝らないで。\n……\nでも\nルイちゃん。\nルイちゃんのわがままって……？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Huh...? You're still as insensitive as ever. You should understand without me telling you that.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "は……？　\n相変わらず察しが悪いわね。\nそんなの言わなくても分かりなさいよ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Isn't it obvious?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……決まってんでしょ？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I wanted to work with you, Nozomi... together even if a little more.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "あなたと……\nノゾミともっと。\nここで一緒に働きたかったのよ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yeah... Thanks. I can smell that Lou-chan really thinks that way... This is the smell of Lou-chan's kindness, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うん……\nありがと。\nルイちゃんが、\n本当にそう思ってくれてる匂いがする……\nこれは、\nルイちゃんの優しさの匂い、\nなんだね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I said it's just me being selfish here. ...You can forget about it, okay?! Actually, forget about it right now!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ただの身勝手よ、私の。\n……\n忘れていいから、\nね！\nていうか忘れなさいよね！"
+    },
+    {
+      "name": "Narration",
+      "text": "Thus, Nozomi obtained the cure that would return her to her original state.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、ノゾミは、元の状態に戻る薬を手に入れたのだった。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Ah, wait! Now that I think about it, when Nozomi tasted the elixir that will \"release your true self\"... You were nearby, {0}, right? Did anything change with you?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "あ、\n待って！　\nそういえば\nノゾミの口に\n『本当の自分を解放する秘薬』が入っちゃったとき、\n{0}くん\n近くにいたのよね？　\nなにか変化はなかった？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "SO YOU TOOK IT TOO, DIDN'T YOU?! B-But... there was no particular visible change... I wonder if that elixir only worked on Nozomi.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "やっぱりあなたも飲んじゃってるじゃない！？\nで……\nでも\n特に変化はなかったのよね……\nあの薬がノゾミにしか効かなかったってことかしら。"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "……それとも。\n薬は効いたけど、\nなんの変化もなかったってこと……？\nつまり、\n隠してる本当の自分なんてない……\nいつもありのままの自分をさらけ出してるってことよね……！？　",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……それとも。\n薬は効いたけど、\nなんの変化もなかったってこと……？\nつまり、\n隠してる本当の自分なんてない……\nいつもありのままの自分をさらけ出してるってことよね……！？　"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "……すてき。\nやっぱり運命の王子さまだわ……♪　",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……すてき。\nやっぱり運命の王子さまだわ……♪　"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Uh, yeah, it's nothing, I'm fine! See you tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "う、\nうん\nなんでもないの、\n大丈夫！\nじゃあまた明日。"
+    }
+  ]
+}

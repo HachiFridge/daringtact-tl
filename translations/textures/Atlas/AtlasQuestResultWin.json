@@ -1,0 +1,442 @@
+{
+  "atlas_name": "AtlasQuestResultWin",
+  "sprites": [
+    {
+      "name": "common_reward_boss",
+      "x": 102,
+      "y": 11,
+      "width": 112,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "common_reward_clear",
+      "x": 198,
+      "y": 79,
+      "width": 112,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "common_reward_clear_white",
+      "x": 130,
+      "y": 115,
+      "width": 120,
+      "height": 42,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "dungeon_floor_base",
+      "x": 214,
+      "y": 321,
+      "width": 225,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "dungeon_info_area_notification",
+      "x": 395,
+      "y": 202,
+      "width": 96,
+      "height": 117,
+      "border": [
+        36,
+        1,
+        36,
+        84
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "ef_circle_light",
+      "x": 0,
+      "y": 101,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ef_item_star_white",
+      "x": 441,
+      "y": 340,
+      "width": 42,
+      "height": 42,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        11,
+        11,
+        11,
+        11
+      ]
+    },
+    {
+      "name": "ef_kirakira",
+      "x": 214,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ef_shock_light_rb",
+      "x": 395,
+      "y": 384,
+      "width": 110,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        9,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "name": "ef_star_blur",
+      "x": 0,
+      "y": 309,
+      "width": 212,
+      "height": 203,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        22,
+        26,
+        22,
+        27
+      ]
+    },
+    {
+      "name": "ef_txt_clear_reward_white",
+      "x": 205,
+      "y": 206,
+      "width": 148,
+      "height": 23,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "effect_clrear_rank",
+      "x": 0,
+      "y": 47,
+      "width": 196,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "gauge_bg",
+      "x": 355,
+      "y": 210,
+      "width": 27,
+      "height": 19,
+      "border": [
+        10,
+        0,
+        10,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "gauge_result_exp",
+      "x": 130,
+      "y": 103,
+      "width": 18,
+      "height": 10,
+      "border": [
+        6,
+        0,
+        6,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "gauge_result_heart",
+      "x": 225,
+      "y": 165,
+      "width": 18,
+      "height": 10,
+      "border": [
+        7,
+        0,
+        7,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "gauge_result_hp",
+      "x": 205,
+      "y": 165,
+      "width": 18,
+      "height": 10,
+      "border": [
+        7,
+        0,
+        7,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_team_lv",
+      "x": 198,
+      "y": 51,
+      "width": 130,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_line_h3",
+      "x": 252,
+      "y": 141,
+      "width": 36,
+      "height": 34,
+      "border": [
+        25,
+        0,
+        7,
+        0
+      ],
+      "padding": [
+        0,
+        6,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "reward_star",
+      "x": 0,
+      "y": 5,
+      "width": 100,
+      "height": 40,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ribbon_item_result",
+      "x": 0,
+      "y": 231,
+      "width": 393,
+      "height": 76,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "star_xl_off",
+      "x": 130,
+      "y": 159,
+      "width": 73,
+      "height": 70,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "star_xl_on",
+      "x": 322,
+      "y": 148,
+      "width": 59,
+      "height": 56,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "txt_level_up",
+      "x": 205,
+      "y": 177,
+      "width": 115,
+      "height": 23,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        6,
+        5,
+        5,
+        4
+      ]
+    }
+  ]
+}

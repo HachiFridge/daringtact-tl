@@ -1,0 +1,691 @@
+{
+  "title": "Mixed with Another World",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "迷子の折、『強欲の魔女』エキドナと出会った{0}。\n様々な出会いが{0}を助け、\nやがてエミリアとの再会へと繋がってゆく。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "迷子の折、『強欲の魔女』エキドナと出会った{0}。\n様々な出会いが{0}を助け、\nやがてエミリアとの再会へと繋がってゆく。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I've finally found you. Don't go off on your own anymore, okay? I'm glad that some kind people found you, tough.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "やっと見つけたわ。\nもう、\n一人で勝手にどこか行っちゃ\nめっ、\nよ？\n見つけてくれたのが\n優しい人たちだったからよかったけど。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hm, very well done. You're amazing, you were able to reply properly.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "よくできました。\nちゃんとごめんなさい出来て\nすごーくえらいわ。"
+    },
+    {
+      "name": "Ram",
+      "text": "That was all in all a huge pain. Thanks to that, the search for the white whale hasn't progressed at all.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "まったく手間がかかるわね。\nおかげでシロクジラの捜索がまるで進んでいないわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "I wonder if Lady Pecorine and the others had any luck on their end. We haven't confirmed any signal that shows they've found it, however...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ペコリーヌ様たちの方は、\nどうなっているでしょうか。\n見つけた際の合図は\n確認できていませんが……"
+    },
+    {
+      "name": "Emilia",
+      "text": "I'm sure Pecorine and the others are doing their best. Therefore, we have to do our best too!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "きっと\nペコリーヌたちも頑張っているわ。\n私たちも頑張らないと！"
+    },
+    {
+      "name": "Puck",
+      "text": "You're such a hard worker, Lia. Dad is happy that you've grown up to be such a good kid.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "リアは頑張り屋さんだね。\nいい子に育ってくれて\nお父さんは嬉しいよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Haha, it's all thanks to you, Puck. But recently I learned that taking care of a child is really difficult. Therefore, you have my thanks once more.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ふふ、\nパックのおかげね。\nでも、\n子どもをお世話するのって本当に難しいのね。\n改めて\nパックにありがとうを言わなきゃ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Now, since we've found this unruly boy, let's go look for the white whale...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それじゃあ\nこの子も見つかったことだし、\nシロクジラを探しに──"
+    },
+    {
+      "name": "？？？",
+      "text": "Th-This is terrible～! A huge white whale has appeared on the beach～～～!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "た、\n大変だぁ～っ！\nでかくて白い鯨が、\n海辺に出てきたぞ～～～！"
+    },
+    {
+      "name": "エミリアたち",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "エミリアたち",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Emilia",
+      "text": "That's our cue!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "行きましょう！"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, Lady Emilia!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\nエミリア様！"
+    },
+    {
+      "name": "Ram",
+      "text": "That forced sounding voice just now...",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "今のわざとらしい声は……"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "There truly is one... a white whale!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ほんとにいた──\nシロクジラ！"
+    },
+    {
+      "name": "Rem",
+      "text": "So it ended up appearing on the beach anew on its own...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "自ら砂浜に姿を現しましたね……！"
+    },
+    {
+      "name": "Ram",
+      "text": "How convenient. The prey itself came to offer its head to us. Rem, do it.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "好都合よ。\n獲物が自分から首を差し出してきたのだから。\nレム、\nやってしまいなさい。"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes! Al Huma!!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい！　\nアル・ヒューマ！！"
+    },
+    {
+      "name": "White whale",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Puck",
+      "text": "I wonder if such a powerful magic is good enough to signal Pecorine and the others back to us.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "これでペコリーヌたちにも合図が送れたかな。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Before the damage it causes can be spread amongst the beach, let's draw it to ourselves.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "海辺の人たちに被害が広がる前に、\n私たちの方に引き付けておきましょう。"
+    },
+    {
+      "name": "Puck",
+      "text": "We can easily take care of it anyway~",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ボクたちだけでやっつけちゃってもいいけどね～"
+    },
+    {
+      "name": "エミリア",
+      "text": "行くわよ、\nパック。\nそれと……\n{0}は隠れていて。\nお利口だから、\n言うこと聞けるわよね？",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "行くわよ、\nパック。\nそれと……\n{0}は隠れていて。\nお利口だから、\n言うこと聞けるわよね？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Heehee, you're such a good boy♪ Alright, I'll go and help Rem and the others out, then~",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ふふっ、\nいい子ね♪\nよし、\nじゃあ私もレムたちに加勢を──"
+    },
+    {
+      "name": "Ram",
+      "text": "It looks like it'll be hard to get attacks through on that giant body. Hula!",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "あの巨体じゃなかなか攻撃が通らなさそうね。\nフーラ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Rem is joining in! Haaaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "レムも参ります！\nはあぁぁぁぁぁぁっ！"
+    },
+    {
+      "name": "White whale",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Ram",
+      "text": "...? It seems to be... working...",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "……？\n効いてる、\nわね……"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, I can feel my impact landing. Its movements are also very basic, just hitting its tail and fins around, so I think I should just keep going and attack!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\n手ごたえはあります。\n動きも\n尻尾やヒレをぶつけるだけの大雑把なものですから、\nこのまま一気に攻め切ってしまうべきかと！"
+    },
+    {
+      "name": "Emilia",
+      "text": "In that case... you two, please stop it on its tracks! Puck, lend me your strength!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "だったら──\n二人とも、\n足止めをお願い！\nパック、\n力を貸して！"
+    },
+    {
+      "name": "Both",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "はい！"
+    },
+    {
+      "name": "Rem",
+      "text": "El Huma!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "エル・ヒューマ！"
+    },
+    {
+      "name": "Ram",
+      "text": "El Fula!",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "エル・フーラ！"
+    },
+    {
+      "name": "Puck",
+      "text": "The ice and wind have bound together not allowing the whale to move any further. Lia, it looks like the preparations for our move are complete.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "氷と風で\nシロクジラは動けない。\nリア、\nお膳立ては終わったみたいだよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes. This move will decide it.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ。\nこれで決めるわ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "In this fun beach... YOU'RE NOT ALLOWED TO GO WIIILDDDD!!!!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "楽しい海で──\n暴れちゃダメッ！"
+    },
+    {
+      "name": "White whale",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Look, Nee-sama! The white whale is disappearing...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "見てください姉様！\nシロクジラが消えていきます……！"
+    },
+    {
+      "name": "Ram",
+      "text": "Looks like the subjugation was a success. It was pretty easy, though.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "どうやら討伐成功のようね。\nずいぶんあっけなかったけど。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...So this is the end, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……\nこれで\n終わったのよね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...HEEEEYYYY! Everyone!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──お～い！\nみなさーん！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Sorry to have kept you waiting.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お待たせいたしました。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, there, there they are. I knew it. So that big piece of ice was you guys after all.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いたいた、\nやっぱあのでかい氷はあんたたちだったのね。"
+    },
+    {
+      "name": "Ram",
+      "text": "Hmph. You took your time to come here, Kyaru.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "ふん。\n随分とゆっくりした到着ねキャル。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It can't be helped, we were busy. We were engaged in a life-or-death battle on the sea just now. It was so sudden that we couldn't even send a signal, you know?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "仕方ないじゃない、\nこっちは忙しかったのよ。\nさっきまで海の上で死闘を繰り広げてたんだから。\nいきなりだったから\n合図も送れないしさ？"
+    },
+    {
+      "name": "Rem",
+      "text": "A fight to the death...? A signal...?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "死闘……？　\n合図……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh my, My Lord... You haven't returned to normal yet, have you? But we were just...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おや、\n主さま……\nまだ元に戻られておりませんね？\n先ほどわたくしたちが──"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, that's right, listen to this, Pecorine! The white whale had appeared, but we defeated it!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──\nそうだ、\n聞いてペコリーヌ！\nシロクジラなんだけど、\n私たちが倒しちゃったの。"
+    },
+    {
+      "name": "Gourmet Guild",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "美食殿",
+      "orig_text": "え？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...If you're talking about THAT white whale, we also defeated it...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──シロクジラなら、\nわたしたちが倒しましたけど……"
+    },
+    {
+      "name": "Ram Emilia Rem",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "ラム・エミリア・レム",
+      "orig_text": "え？"
+    },
+    {
+      "name": "Everyone",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "あれ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Uhhh, wait, so you guys signaled us because you've met and defeated a white whale too?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えーっと\nつまり。\nあんたたちもさっき、\nシロクジラを倒してたってこと？"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, there's no mistaking it. I'm certain Lady Emilia's blow did annihilate the white whale.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\n間違いありません。\n確かにエミリア様の一撃で\nシロクジラは消滅しました。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Pecorine had also unleashed her full power on the beast, and we personally confirmed its defeat.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "こちらも\nペコリーヌさまが全力全開をぶつけ、\n撃破を確認しております。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm, I wonder what's going on. Could there have been two of them from the start?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う～ん、\nどうなっているんでしょう。\nもしかして、\n初めから二匹いたんですかね？"
+    },
+    {
+      "name": "Ram",
+      "text": "Are there many white whale monsters around here?",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "シロクジラって魔物は何匹もいるの？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, that shouldn't be the case, however...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえ、\nそんなことはないはず、\nなんですけど──"
+    },
+    {
+      "name": "？？？",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "This sound is...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "この声って……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "There's no mistaking it! It's a white whale! But why...!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "間違いありません、\nシロクジラです！\nどうして……っ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Is something wrong, My Lord? You seem to be pointing at something... Oh my? Something is floating in the sky...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "どうかなさいましたか、\n主さま？\n何かを指さしておられるようですが……\nおや？\n空に何かが、\n浮かんで……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "A big, white... whale...? Wait, A WHALEEEEE...?!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "白くて、\n大きな……\nクジ、ラ……？\nクジラがっ──"
+    },
+    {
+      "name": "Gourmet Guild",
+      "text": "IT'S FLYIIIIINGGGGGG---------!?",
+      "choice_data_list": [],
+      "orig_name": "美食殿",
+      "orig_text": "空を飛んでるーーーーーーーーっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What's more, they seem to be increasing, there's one, two, three more of them. Karin... You never mentioned something like this...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "しかも、\n一、\n二、\n三……\n増えてますね。\nカリンさん……\nそんな情報、聞いていませんでした……"
+    },
+    {
+      "name": "Puck",
+      "text": "This is... Hmm.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "これは……\nふむ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "HOW can you be so calm, you fluffy little thing?! There's a whale flying in the air!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんで落ち着いてんのよこのモフモフ！\nクジラが空飛んでんのよ！？"
+    },
+    {
+      "name": "Puck",
+      "text": "Oh, sorry, sorry. But I've seen such a familiar sight this before. Could it be that the white whale is being influenced by our presence...?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ああ、ごめんごめん。\nでも、\nこの様子には見覚えがあるよ。\nこれはもしかして、\nシロクジラが\nボクたちの影響を受けて……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Familiar, you say? Is it normal in your world for whales to fly like THAT?! Your other world is SCARY!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "見覚えあるって、\nあんたたちの世界\nクジラが飛ぶのが普通なの！？\n異世界こわっ！？"
+    },
+    {
+      "name": "Rem",
+      "text": "Nee-sama... Could that horn growing on the white whale... be that of a magical beast?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "姉様……\nシロクジラに生えているあの角は、\nもしや魔獣の……"
+    },
+    {
+      "name": "Ram",
+      "text": "I have a bad feeling about this. We should consider retreating. Our priority is Lady Emilia's safety.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "嫌な感じがするわ。\n退却を考えるべきね。\n優先すべきは、\nエミリア様の安全──"
+    },
+    {
+      "name": "Emilia",
+      "text": "No chance. Remember what Subaru said.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ダメよ。\nスバルが言ってたもの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "The beach is a place where everyone can smile. If we leave those whales roaming free like this, the fun this beach and ocean hold will be forever ruined.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "海は\nみんなが笑顔になれる場所だって。\nあのシロクジラをこのままにしちゃったら、\n楽しい海が台無しになっちゃう。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Besides, in order to get Lorik back to normal from being a baby, I CANNOT allow a single whale to escape.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それに、\nこの子を元に戻してあげるためにも、\nここでシロクジラを逃がすわけにはいかないわ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I have to protect this boy, and everyone else's 'Summah Vaca-shiun'!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "この子も、\nみんなの『さまぁばけぇしょん』も、\n守ってあげなきゃ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Emilia... Thank you so much!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "エミリアちゃん……\nありがとうございます！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Honestly, we'd never be capable of handling this situation on our own. I'm glad you're helping us.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "正直、\nわたくしたちだけでは対応できぬ状況。\nご助力いただけるのならば、\n何よりでございます。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You truly are a good lady, truly...! ...What about you, Ram?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ほんといいやつね、\nあんた。\n……\nラムはどうなのよ。"
+    },
+    {
+      "name": "Ram",
+      "text": "If this is Lady Emilia's decision, Ram has no objections. Think of the words of gratitude you'll say to Ram after we subjugate the white whale, Kyaru.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "エミリア様が決めたことであればラムに異論はないわ。\nシロクジラを討伐した後に言うラムへの感謝の言葉を\n考えておくことね、\nキャル。"
+    },
+    {
+      "name": "Rem",
+      "text": "Rem will help out too! I haven't enjoyed the beach with Subaru-kun yet! I'd be in trouble if those beasts went wild here and messed up the beach.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "レムもやります！\nまだスバルくんと海を楽しんでないんですから！\nここで暴れられて\n海をめちゃくちゃにされては困ります。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Rem, why don't you try walking alongside the beach side together with Lord Subaru? It is a sure way to create a nice atmosphere. I'll tell you more about it after we subjugate the white whale.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "レムさま、\nスバルさまと\n海の中を歩いてみるのはいかがでしょう。\nとてもよい雰囲気でございましたよ。\nシロクジラを討伐した後、\nお教えいたしますね。"
+    },
+    {
+      "name": "Puck",
+      "text": "It seems like I'll need to put in some real effort, too. Lia, please don't push yourself too hard.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ボクも少し気合を入れなきゃかな。\nリア、\nくれぐれも無茶はしないようにね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes, I understand.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ、\nわかったわ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well then, Emilia.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "では、\nエミリアちゃん。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Let's go, Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "行きましょう、\nペコリーヌ！"
+    },
+    {
+      "name": "Narration",
+      "text": "An unbelievable change has happened to the white whale. To protect the summer sea where smiles are born, Pecorine and Emilia take up arms, join forces, and throw themselves into a fierce battle.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "シロクジラに起きたありえない変化。\n笑顔の生まれる夏の海を守るため、\nペコリーヌたちとエミリアたちは\n武器を取り、\n力を合わせ、\n激しい戦いへと身を投じるのであった。"
+    },
+    {
+      "name": "Ameth",
+      "text": "What the hell is that?! It’s MULTIPLYING? With that huge body? I've never seen such a monster...! No, there's no way something so unbalanced would be programmed in...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "何よあれ！？\n増殖？　\nあの巨体で？　\nあんな魔物見たことない……！\nいや、\nあんなアンバランスなものがいるわけない……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "This is a clearly abnormal reaction, different from the white whales that live in this world... What's going on...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "この世界に生息するシロクジラとは違う、\n明らかに異常な反応……\nどうなってるのよ……"
+    },
+    {
+      "name": "Echidna",
+      "text": "That thing... it seems something mixed up with it.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "あれは……\nどうやら混ざっているようだね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Echidna... Do you know something?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "エキドナ……\nあんた、何か知ってるの？"
+    },
+    {
+      "name": "Echidna",
+      "text": "Since this is an unknown event in another world, I cannot say for sure, but I can speculate on the phenomenon that is occurring before me.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "異なる世界の未知の出来事だから断言はできないが、\n起こっている現象は推測できる。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Cut the chatter, if you know, answer me. What is that thing?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "知っているなら答えなさい。\nアレはなんなの？"
+    },
+    {
+      "name": "Echidna",
+      "text": "As I was saying, something got mixed in with it. Those monsters called white whales steal memories, don't they? In other words, it ended up absorbing it into their body...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "だから、\n混ざっているんだよ。\nシロクジラと呼ばれるあの魔物は、\n記憶を奪うんだろう？\nつまり、\nその身に取り込んでしまったのさ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "His...the otherworldly factor that Natsuki Subaru possessed.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "彼……\nナツキ・スバルの持つ、\n異世界の因子を。"
+    },
+    {
+      "name": "アメス",
+      "text": "異世界という本来存在しないデータを受け取り、\nシロクジラに\nバグが起きた……？　",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "異世界という本来存在しないデータを受け取り、\nシロクジラに\nバグが起きた……？　"
+    },
+    {
+      "name": "Echidna",
+      "text": "I think it's quite the interesting phenomenon. That monster, which contains factors from this world, has properties very similar to the magical beasts created by our famous \"Gluttony.\"",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "とても興味深い現象だよ。\nこちらの世界の因子を宿したあの魔物は、\n今や\nかの\n『暴食』が生み出した魔獣によく似た性質を有している。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Now then, what kind of ending will they reach...?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "さて、\n彼らはどんな結末を選ぶのかな──"
+    }
+  ]
+}

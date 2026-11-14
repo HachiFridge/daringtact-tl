@@ -1,0 +1,3640 @@
+{
+  "unit_enemy_data": {
+    "641201": {
+      "1": "Lucky Lilac's Shadow",
+      "12": "A peculiar monster bearing a striking resemblance to Lucky Lilac.\n"
+    }
+  },
+  "obtent_navi_comment": {
+    "1020801": {
+      "4": "Aira"
+    }
+  },
+  "unit_data": {
+    "141201": {
+      "1": "Lucky Lilac",
+      "20": "[Magic] A patient Uma Musume who waits in the rear for her moment to bloom in all her glory. In the latter half of battle, she unleashes her hidden [Stamina] and gracefully slips past any enemies standing in her way."
+    }
+  },
+  "gacha_data": {
+    "10478": {
+      "1": "Normal Gacha"
+    },
+    "20478": {
+      "1": "Premium Gacha",
+      "2": "No pickup character"
+    },
+    "30478": {
+      "1": "Focus Gacha",
+      "2": "Lucky Lilac",
+      "3": "Limited character 「Lucky Lilac」 is now available!",
+      "4": "Every time get the target character, Get            [FFBB00,CE4F00]200 Memory Shards"
+    },
+    "70174": {
+      "1": "Guarantee ★3 Premium Gacha",
+      "2": "No pickup character",
+      "3": "Paid jewels only! [3C404E] The 10th character is guaranteed to be a [FFBB00,CE4F00]★3 character !",
+      "4": "Obtain a Masterpiece x1!",
+      "6": "Special"
+    }
+  },
+  "room_item_get_announcement": {
+    "9": {
+      "5": "New Year Tuna Fishing Poster for Ohma Regional Development"
+    }
+  },
+  "zodiac_enemy_parameter": {
+    "140122011": {
+      "2": "Star Beast Princess: Rukbat"
+    }
+  },
+  "seven_event_setting": {
+    "10213": {
+      "1": "Grand Cru Royal: Invitation to a heartfull course"
+    },
+    "10221": {
+      "1": "Full-Speed Mayhem! Princess Derby: Magic, Fire, Sea, and Sky?!"
+    }
+  },
+  "story_detail": {
+    "1412001": {
+      "2": "Lucky Lilac Episode 1",
+      "3": "La La, Drifting on the Wind"
+    },
+    "1412002": {
+      "2": "Lucky Lilac Episode 2",
+      "3": "Graceful and Poised Amid the Lava"
+    },
+    "1412003": {
+      "2": "Lucky Lilac Episode 3",
+      "3": "Magic, Retorts, and Quests"
+    },
+    "1412004": {
+      "2": "Lucky Lilac Episode 4",
+      "3": "The Lilac That Leaps Over Rooftops"
+    }
+  },
+  "unlock_unit_condition": {
+    "141201": {
+      "1": "Lucky Lilac"
+    }
+  },
+  "story_data": {
+    "1412": {
+      "3": "Lucky Lilac"
+    }
+  },
+  "wtm_story_data": {
+    "5128071": {
+      "2": "Time for Just the Two of Us"
+    },
+    "5128161": {
+      "2": "Invited by the Storyteller of Dreams"
+    }
+  },
+  "rag_story_data": {
+    "5152061": {
+      "4": "Children Exercise"
+    },
+    "5152062": {
+      "4": "Idol Exercise"
+    },
+    "5152063": {
+      "4": "Thanks Exercise"
+    },
+    "5152065": {
+      "4": "Spiritual Exercise"
+    },
+    "5152066": {
+      "4": "Radio Exercise"
+    },
+    "5152601": {
+      "4": "Opening"
+    }
+  },
+  "nyd_story_data": {
+    "5134601": {
+      "2": "Opening"
+    },
+    "5134602": {
+      "2": "Ending"
+    }
+  },
+  "skill_data": {
+    "1002001": {
+      "1": "Group Heal"
+    },
+    "1002002": {
+      "1": "Blooming Blast",
+      "46": "Deals moderate M.DMG to an enemy directly in\nfront."
+    },
+    "1002003": {
+      "1": "Flower Guard",
+      "46": "Slightly boosts all allies' P.DEF and M.DEF\nand deploys a physical nullification barrier.\nIf a barrier is already active on self when\nactivated, additionally slightly recovers all\nallies' TP."
+    },
+    "1030001": {
+      "1": "Ninpo: Scorching Hell"
+    },
+    "1030002": {
+      "1": "Hurricane Assault"
+    },
+    "1030003": {
+      "1": "Blazing Fan",
+      "46": "Deals major P.DMG to an enemy in front and slightly knocks them back. Does this twice. Grants self 1 [Fire Style Mark] (max 5)."
+    },
+    "1056001": {
+      "1": "Origin Strike: Severing Moon",
+      "46": "Deals major P.DMG to an enemy in front and\ngreatly lowers their P.DEF."
+    },
+    "1056003": {
+      "1": "Peerless Stance",
+      "46": "Moderately recovers own HP and moderately\nboosts own P.DEF."
+    },
+    "1056202": {
+      "1": "First Strike: Reticence",
+      "46": "[Taunt] Taunts all enemies. If hit by an attack during the post-taunt animation, deals moderate P.DMG to enemies in a forward range and knocks them back slightly."
+    },
+    "1058001": {
+      "1": "Princess Strike"
+    },
+    "1058002": {
+      "1": "Lunchtime"
+    },
+    "1058003": {
+      "1": "Falling Slash",
+      "46": "Deals moderate P.DMG to an enemy directly in\nfront."
+    },
+    "1059001": {
+      "1": "Aurora"
+    },
+    "1059002": {
+      "1": "Tri-Slash",
+      "46": "Deals moderate P.DMG to an enemy directly in\nfront."
+    },
+    "1059003": {
+      "1": "Speed Boost"
+    },
+    "1061001": {
+      "1": "Spiresbane Blade",
+      "46": "Deals massive P.DMG to an enemy in front and\nequips the Heavenly Tower Severing Sword.\nWhile equipped, TP continuously decreases,\nand the equipment is removed when TP reaches\n0."
+    },
+    "1061002": {
+      "1": "Feeling Scared Yet?!",
+      "46": "Deals small P.DMG twice to enemies in the\nfrontal area, stuns them, and knocks them\nback a short distance."
+    },
+    "1061003": {
+      "1": "Right This Way!",
+      "46": "Slightly lowers the P.DEF of enemies in the\nfrontal area."
+    },
+    "1061101": {
+      "1": "Spiresplitter Sweep",
+      "46": "Deals massive P.DMG to an enemy directly in\nfront."
+    },
+    "1061102": {
+      "1": "Spirespin Slice",
+      "46": "Deals large P.DMG to enemies within range\ncentered on self."
+    },
+    "1065001": {
+      "1": "Dragon's End Fist"
+    },
+    "1065002": {
+      "1": "Draconic Smash",
+      "46": "Deals moderate P.DMG to an enemy directly in\nfront."
+    },
+    "1065003": {
+      "1": "Dragolyzer Stance",
+      "46": "Large boost to own P.ATK and P.CRIT Rate."
+    },
+    "1069001": {
+      "1": "Hadou Tensei: Destruction",
+      "46": "Removes all enemies' barriers and status-up\neffects, then deals major P.DMG and major\nM.DMG. This skill's damage is based on the\ncombined values of P.ATK and M.ATK, while its\ncritical rate is based on the combined values\nof P.CRIT RATE and M.CRIT RATE."
+    },
+    "1069002": {
+      "1": "Ama-no-Murakumo: False Flight",
+      "46": "Deals moderate P.DMG to enemies in front and\nslightly lowers their TP. Slightly recovers\nown TP."
+    },
+    "1069003": {
+      "1": "Hachishaku Magatama: Cremation",
+      "46": "Moderately increases P.DMG and M.DMG taken by enemies in front, and slightly lowers their P.DEF, M.DEF, P.CRIT DMG, and M.CRIT DMG. Grants self P.Evasion and M.Evasion for a period of time. The duration decreases based on the number of enemies. On the first activation, additionally grants all allies [Hadou Tensei: Omniscience] status. [Hadou Tensei: Omniscience] nullifies damage received once, then is removed."
+    },
+    "1069101": {
+      "1": "Ama-no-Murakumo: Kusanagi",
+      "46": "Deals moderate P.DMG and moderate M.DMG to\nenemies in front and slightly lowers their\nP.DEF and M.DEF. This skill's damage is based\non the combined values of P.ATK and M.ATK,\nwhile its critical rate is based on the\ncombined values of P.CRIT RATE and M.CRIT\nRATE."
+    },
+    "1070001": {
+      "1": "Mirror Mirror",
+      "46": "[Summon] Creates a clone of oneself that does not activate its UB. Deploys a field around oneself that massively boosts allies' M.ATK and slightly boosts their TP Boost."
+    },
+    "1070002": {
+      "1": "Saturation Ray",
+      "46": "Deals moderate M.DMG to enemies within range\ncentered on the enemy in front and stuns them\nfor a short time."
+    },
+    "1070003": {
+      "1": "Instance Gem",
+      "46": "Deals moderate M.DMG to an enemy in front and\nslightly lowers their M.DEF."
+    },
+    "1071002": {
+      "1": "Overlay",
+      "46": "Moderately boosts own P.ATK and slightly\nboosts TP Boost."
+    },
+    "1071003": {
+      "1": "Injection",
+      "46": "Deals moderate P.DMG to an enemy in front,\nand slightly lowers its P.DEF."
+    },
+    "1071201": {
+      "1": "Numbers Avalon",
+      "46": "Deals major P.DMG to an enemy in front.\nSlightly boosts own P.ATK and grants self\nphysical evasion for a certain period. This\nattack is guaranteed to hit and deal critical\ndamage."
+    },
+    "1075001": {
+      "1": "Princess Splash",
+      "46": "Deals massive P.DMG to enemies in the front area.\n"
+    },
+    "1075002": {
+      "1": "Dessert Time"
+    },
+    "1075003": {
+      "1": "Parasol Assault"
+    },
+    "1076001": {
+      "1": "Ocean's Healing"
+    },
+    "1076002": {
+      "1": "Nereid Spear",
+      "46": "Deals minor P.DMG to an enemy in front and\nslightly lowers their P.DEF."
+    },
+    "1076003": {
+      "1": "Navel Support",
+      "46": "Slightly boosts all allies' P.ATK."
+    },
+    "1078001": {
+      "1": "Rubber Rampage",
+      "46": "Deals massive M.DMG to an enemy directly in\nfront."
+    },
+    "1078002": {
+      "1": "Aqua Bullet",
+      "46": "Deals moderate M.DMG to an enemy directly in\nfront."
+    },
+    "1078003": {
+      "1": "Spiral Wave",
+      "46": "Deals small M.DMG to an enemy in front and\nmoderately lowers their M.DEF."
+    },
+    "1080001": {
+      "1": "Leviathan Lance",
+      "46": "Deals major P.DMG to enemies in front and\nmassively boosts all allies' P.ATK."
+    },
+    "1080002": {
+      "1": "Hydro Swing",
+      "46": "Deals moderate P.DMG to an enemy in front and\nminor P.DMG to enemies in range around the\ntarget."
+    },
+    "1080003": {
+      "1": "Hunting Mode",
+      "46": "Moderately boosts own P.ATK and greatly\nboosts own P.CRIT RATE."
+    },
+    "1082001": {
+      "1": "Trick or Pudding!",
+      "46": "Deals massive P.DMG to the farthest enemy and\ninflicts Curse."
+    },
+    "1082003": {
+      "1": "Ghosty-Go-Round!"
+    },
+    "1082202": {
+      "1": "I'm a Were-Miyako!"
+    },
+    "1085001": {
+      "1": "Winter Chimes"
+    },
+    "1085002": {
+      "1": "Jingling Cheer",
+      "46": "Rings a bell to massively boost the allies'\nP.DEF in range. This effect continues for a\nset time or until attacked."
+    },
+    "1085003": {
+      "1": "Healing Bell"
+    },
+    "1087001": {
+      "1": "Hiyori Happy Stamp"
+    },
+    "1087002": {
+      "1": "Paw-Paw Charge"
+    },
+    "1087003": {
+      "1": "Good Luck Punch",
+      "46": "Deals moderate P.DMG to an enemy directly in\nfront."
+    },
+    "1089001": {
+      "1": "Icy Edge: Snowbloom",
+      "46": "Deals medium P.DMG to all enemies, inflicting stun.\n"
+    },
+    "1089003": {
+      "1": "Silvery Wintertime"
+    },
+    "1089202": {
+      "1": "Avalanche Reversal"
+    },
+    "1090001": {
+      "1": "Love Punishment"
+    },
+    "1090002": {
+      "1": "Heavy Mixing"
+    },
+    "1090003": {
+      "1": "Sweet Sacrifice"
+    },
+    "1093001": {
+      "1": "Omeme-chan Attack!",
+      "46": "Deals minor M.DMG 5 times to enemies in range centered on the enemy in front. Damage increases based on the number of [Omeme-chan]."
+    },
+    "1093002": {
+      "1": "Come on Out, Omeme-chan!"
+    },
+    "1093003": {
+      "1": "Beginner's Luck",
+      "46": "Deals minor M.DMG to enemies in range centered on the enemy in front and moderately recovers own TP. Effect strength increases based on the number of [Omeme-chan]."
+    },
+    "1095001": {
+      "1": "Dance of Purest Ecstasy",
+      "46": "Massively recovers own HP and greatly boosts\nP.DEF and M.DEF of allies in range around\noneself."
+    },
+    "1095002": {
+      "1": "Everyone gets excited!",
+      "46": "Moderate boost to allies' M.ATK."
+    },
+    "1095003": {
+      "1": "My Breath Is Bewitching!",
+      "46": "Deals minor M.DMG to an enemy in front and\nslightly lowers their M.DEF."
+    },
+    "1096001": {
+      "1": "Ninpo: Fujiyama Shuriken",
+      "46": "Deals colossal P.DMG to an enemy in front.\nThis skill's critical damage is tripled."
+    },
+    "1096002": {
+      "1": "Ninpo: Swoopy Swallow",
+      "46": "Deals moderate P.DMG to an enemy in front,\nand slightly lowers its P.DEF."
+    },
+    "1096003": {
+      "1": "Ninpo: Shadow Clone no Jutsu"
+    },
+    "1097001": {
+      "1": "Al Huma"
+    },
+    "1097002": {
+      "1": "El Huma"
+    },
+    "1097003": {
+      "1": "Aqua Healing"
+    },
+    "1098001": {
+      "1": "Out of My Way"
+    },
+    "1098002": {
+      "1": "Fura"
+    },
+    "1098003": {
+      "1": "Clairvoyance",
+      "46": "Causes the enemy with the highest P.ATK to\nenter a state where their next physical\nattack is guaranteed to miss."
+    },
+    "1099001": {
+      "1": "Promised Field"
+    },
+    "1099002": {
+      "1": "Help Me Out, Puck!"
+    },
+    "1099003": {
+      "1": "Ice Needles"
+    },
+    "1105001": {
+      "1": "Ryukyu-Ken Spiral Shot",
+      "46": "Deals moderate P.DMG to enemies in front.\nDamage increases based on the number of\nenemies hit."
+    },
+    "1105002": {
+      "1": "Cyclone Smash"
+    },
+    "1105003": {
+      "1": "Ryukyu Calypso"
+    },
+    "1108001": {
+      "1": "Dark Daybreak",
+      "46": "Deals massive P.DMG to an enemy directly in\nfront."
+    },
+    "1108002": {
+      "1": "Violet Dusk"
+    },
+    "1108003": {
+      "1": "Silver Moonlight",
+      "46": "Deals moderate P.DMG to an enemy in front and slightly lowers their P.DEF. Effect values increase based on the number of [Intimidation] stacks on the target."
+    },
+    "1109001": {
+      "1": "Cheru-Cheru★Carnage",
+      "46": "Deals major P.DMG to an enemy in front and\ngreatly boosts own P.ATK and P.CRIT RATE."
+    },
+    "1109002": {
+      "1": "Chell★We★Dance?"
+    },
+    "1109003": {
+      "1": "Mega★Cheru~n",
+      "46": "Deals minor P.DMG to an enemy in front, greatly lowers their P.ATK, and slightly boosts own P.ATK and P.CRIT RATE. The P.ATK and P.CRIT RATE boost values increase based on the number of [Cheru] stacks."
+    },
+    "1110001": {
+      "1": "Philosophy of Perception and Potential"
+    },
+    "1110003": {
+      "1": "A Study in Insulating Factors",
+      "46": "Grants all allies continuous TP recovery and\ndeploys a magic nullification barrier, but\ngreatly lowers own M.ATK."
+    },
+    "1110202": {
+      "1": "Hero Generation Theorem",
+      "46": "Greatly boosts the P.ATK and P.CRIT RATE of\nthe ally with the highest P.ATK and slightly\nrecovers their TP, but slightly lowers own\nP.DEF and M.DEF."
+    },
+    "1111001": {
+      "1": "Halloween Bloom Dance",
+      "46": "Moderately lowers the M.DEF of an enemy in\nfront and massively boosts all allies' M.ATK."
+    },
+    "1111002": {
+      "1": "Magical Trick",
+      "46": "Moderately boosts the M.ATK of the ally with\nthe highest M.ATK. Effect values increase\nbased on own M.ATK."
+    },
+    "1111003": {
+      "1": "Magical Treat",
+      "46": "Moderate boost to allies' M.ATK."
+    },
+    "1112001": {
+      "1": "Trick or Trick!"
+    },
+    "1112002": {
+      "1": "Painting Kick",
+      "46": "Deals moderate P.DMG to enemies in range."
+    },
+    "1112003": {
+      "1": "Pumpkin Surprise"
+    },
+    "1113001": {
+      "1": "Bunny Mummy Stomp",
+      "46": "Deals massive P.DMG to enemies in the front area.\n"
+    },
+    "1113002": {
+      "1": "Bandagey Bash",
+      "46": "Deals massive P.DMG to enemies in the front area.\n"
+    },
+    "1113003": {
+      "1": "Bunny Mummy Happy Dance"
+    },
+    "1114001": {
+      "1": "Phantom Howl"
+    },
+    "1114003": {
+      "1": "Undying Resentment"
+    },
+    "1114101": {
+      "1": "Come On My Adventure"
+    },
+    "1114202": {
+      "1": "Soul Conversion"
+    },
+    "1116001": {
+      "1": "Ride On, Santa!"
+    },
+    "1116002": {
+      "1": "Festive Cheer",
+      "46": "Deploys a barrier that negates P.DMG around\nall allies for 18s."
+    },
+    "1116003": {
+      "1": "Frost Slash"
+    },
+    "1120001": {
+      "1": "New Year Burst"
+    },
+    "1120002": {
+      "1": "Shadow Bullet"
+    },
+    "1120003": {
+      "1": "Wishing Field"
+    },
+    "1121001": {
+      "1": "Ceremony of Blessings",
+      "46": "Moderately recovers all allies' HP and\ngreatly boosts their action speed."
+    },
+    "1121002": {
+      "1": "Fresh New Breeze"
+    },
+    "1121003": {
+      "1": "Warding Arrow",
+      "46": "Deploys a barrier that negates M.DMG around\nall allies."
+    },
+    "1122003": {
+      "1": "Misty Wrapping"
+    },
+    "1122201": {
+      "1": "Mystic Prism",
+      "46": "Deals medium M. DMG to all enemies and\nslightly reduces their TP."
+    },
+    "1122202": {
+      "1": "Magical Halation"
+    },
+    "1123001": {
+      "1": "Purely Shower",
+      "46": "Massive boost to allies' P.ATK."
+    },
+    "1123002": {
+      "1": "Purely Aiming",
+      "46": "Moderate boost to P.ATK and P.CRIT Rate of\nall nearby allies."
+    },
+    "1123003": {
+      "1": "Purely Snipe"
+    },
+    "1124001": {
+      "1": "Smiling Bravery"
+    },
+    "1124002": {
+      "1": "Revolutionary Smile"
+    },
+    "1124003": {
+      "1": "Pink Lively",
+      "46": "Deals medium P.DMG to enemies within the frontal area.\n"
+    },
+    "1125001": {
+      "1": "Iolite Blue"
+    },
+    "1125002": {
+      "1": "Lazuli Leo"
+    },
+    "1125003": {
+      "1": "Hauyne Judgement"
+    },
+    "1126001": {
+      "1": "Sparkle Magic"
+    },
+    "1126002": {
+      "1": "Triple Star"
+    },
+    "1126003": {
+      "1": "Keep On Fighting! ☆"
+    },
+    "1128001": {
+      "1": "Elizabeth Carnival",
+      "46": "Deals Medium Physical DMG to the area of front enemies and inflicts Confusion state."
+    },
+    "1128002": {
+      "1": "No Milk No Life"
+    },
+    "1128003": {
+      "1": "Farmer's Rush"
+    },
+    "1129001": {
+      "1": "Fantastic Unison"
+    },
+    "1129003": {
+      "1": "Wonder Arrow"
+    },
+    "1129202": {
+      "1": "Wonder Illusion"
+    },
+    "1130001": {
+      "1": "Clock of Rabbit"
+    },
+    "1130002": {
+      "1": "Clock Down"
+    },
+    "1130003": {
+      "1": "Clock End"
+    },
+    "1132001": {
+      "1": "Summer Dragonics Breaker"
+    },
+    "1132002": {
+      "1": "Demonic Salvation: Sea Prison"
+    },
+    "1132003": {
+      "1": "Kakyoku: Suimeiki"
+    },
+    "1133001": {
+      "1": "Nanaka Summer Carnival",
+      "46": "Deals major M.DMG to enemies in front and\nslightly lowers their M.DEF."
+    },
+    "1133002": {
+      "1": "Dolphin Magic"
+    },
+    "1133003": {
+      "1": "Break Splash",
+      "46": "Slightly lowers all enemies' M.DEF. Effect\nvalues increase based on the number of\nenemies."
+    },
+    "1134001": {
+      "1": "Summer Cheering★Star",
+      "46": "Deals heavy M.DMG to all enemies, but puts\nherself into a sleep state. The sleep status\ninflicted by this skill is only lifted when\nshe is attacked."
+    },
+    "1134003": {
+      "1": "Cheerful★Happiness",
+      "46": "Moderately boosts the M.ATK and M.CRIT RATE\nof allies within range centered on self."
+    },
+    "1134202": {
+      "1": "Pom-Pom Yell★Shoot"
+    },
+    "1135001": {
+      "1": "Summer Goddess Coaching"
+    },
+    "1135002": {
+      "1": "Healing Drink"
+    },
+    "1135003": {
+      "1": "Advise Yell",
+      "46": "Moderately boosts all allies' P.ATK and\nM.DEF."
+    },
+    "1136001": {
+      "1": "Summer Inferno"
+    },
+    "1136002": {
+      "1": "Heat Spike"
+    },
+    "1136003": {
+      "1": "Sunlight Break",
+      "46": "Deals large P.DMG to an enemy directly in\nfront."
+    },
+    "1137001": {
+      "1": "Heavenly Kiss",
+      "46": "Deals massive M.DMG to an enemy directly in\nfront."
+    },
+    "1137002": {
+      "1": "Angel Charge"
+    },
+    "1137003": {
+      "1": "Angel Shoot"
+    },
+    "1141001": {
+      "1": "Halloween Tiger Hero"
+    },
+    "1141002": {
+      "1": "Hollow Tiger Claw"
+    },
+    "1141003": {
+      "1": "Nightmare Tiger"
+    },
+    "1142001": {
+      "1": "Sky Lovely Hurricane",
+      "46": "Deals major P.DMG to an enemy in front and\nmoderately lowers their P.DEF."
+    },
+    "1142002": {
+      "1": "Lovely Order"
+    },
+    "1142003": {
+      "1": "Lovely Impulse",
+      "46": "Deals moderate P.DMG to an enemy in front and\nslightly restores the HP of the ally with the\nlowest HP. The amount of HP restored\nincreases based on the damage dealt."
+    },
+    "1146001": {
+      "1": "Christmas Fizz"
+    },
+    "1146003": {
+      "1": "Happy Holidays"
+    },
+    "1146202": {
+      "1": "Pale Moon"
+    },
+    "1147001": {
+      "1": "Shinshun Kenkon Tenseiken",
+      "46": "Deals massive P.DMG to enemies in the front area.\n"
+    },
+    "1147002": {
+      "1": "Get Out Of The Way!"
+    },
+    "1147003": {
+      "1": "I Got It!"
+    },
+    "1150001": {
+      "1": "New Year Prism"
+    },
+    "1150003": {
+      "1": "Sunrise Heal"
+    },
+    "1150202": {
+      "1": "Flower Blessing"
+    },
+    "1155001": {
+      "1": "Green Bond Wind",
+      "46": "Moderately boosts own P.CRIT DMG and deals\nlarge P.DMG to an enemy in front. This\nskill's critical damage is 5× instead of\ndoubled."
+    },
+    "1155002": {
+      "1": "Strong Spring Wind"
+    },
+    "1155203": {
+      "1": "Soaring Fragrant Breeze",
+      "46": "Massively boosts own P.ATK, greatly boosts\nown P.CRIT RATE, and slightly recovers own\nTP."
+    },
+    "1156001": {
+      "1": "Spirit Precious",
+      "46": "Moderately recovers all allies' HP, greatly\nboosts their P.ATK, and grants continuous HP\nrecovery to the frontmost ally."
+    },
+    "1156002": {
+      "1": "Spiritual Brave"
+    },
+    "1156203": {
+      "1": "Gift Spirit",
+      "46": "Slightly recovers the TP of allies within\nrange centered on the ally with the highest\nP.ATK and slightly boosts their P.ATK."
+    },
+    "1158001": {
+      "1": "Metamorph Princess"
+    },
+    "1158002": {
+      "1": "Mofumofu Smash",
+      "46": "Deals large P.DMG to an enemy directly in\nfront."
+    },
+    "1158100": {
+      "1": "Beyond the Dream",
+      "46": "Deals massive P.DMG to an enemy directly in\nfront."
+    },
+    "1158101": {
+      "1": "Beauty and Beast"
+    },
+    "1158102": {
+      "1": "Dance with Me"
+    },
+    "1158103": {
+      "1": "Metamorphosis",
+      "46": "Transforms herself."
+    },
+    "1158203": {
+      "1": "Mofumofu Tackle"
+    },
+    "1164001": {
+      "1": "Joint Illusion of Truth and Existence"
+    },
+    "1164002": {
+      "1": "Analysis and Exercises in Magical Mechanics"
+    },
+    "1164101": {
+      "1": "Forbidden Chapter"
+    },
+    "1164203": {
+      "1": "Metaphysical Extended Theory"
+    },
+    "1166001": {
+      "1": "Dragon's End Burst"
+    },
+    "1166002": {
+      "1": "Dragon's Edge",
+      "46": "Deals moderate P.DMG to an enemy directly in\nfront."
+    },
+    "1166203": {
+      "1": "Accel Reactor"
+    },
+    "1168001": {
+      "1": "Neko-Neko Taiyaki Rush"
+    },
+    "1168002": {
+      "1": "Fish Edge",
+      "46": "Deals moderate P.DMG to an enemy directly in\nfront."
+    },
+    "1168203": {
+      "1": "Cat Hospitality",
+      "46": "Slightly recovers all allies' TP and greatly\nboosts their P.ATK."
+    },
+    "1170001": {
+      "1": "Deadly Summer Sunset"
+    },
+    "1170002": {
+      "1": "Midsummer Blast",
+      "46": "Deals moderate P.DMG to an enemy in front,\nand slightly lowers its P.DEF."
+    },
+    "1170203": {
+      "1": "Alchemic Summer"
+    },
+    "1171001": {
+      "1": "Summer Sacred Splash"
+    },
+    "1171002": {
+      "1": "Blue Waving"
+    },
+    "1171003": {
+      "1": "Sun-Flowery"
+    },
+    "1172001": {
+      "1": "Memories of Summer",
+      "46": "Slightly boosts all allies' P.CRIT DMG and\ndeals massive P.DMG to an enemy in front."
+    },
+    "1172002": {
+      "1": "Summer Idol Cheer"
+    },
+    "1172203": {
+      "1": "Summer Breeze",
+      "46": "Slightly recovers all allies' TP and greatly\nboosts their P.ATK."
+    },
+    "1174001": {
+      "1": "Carmina Summer Dome",
+      "46": "Deals massive P. DMG to an enemy in front and\ngreatly lowers their action speed."
+    },
+    "1174002": {
+      "1": "Splash String",
+      "46": "Deals moderate P. DMG to an enemy in front and\nbinds them."
+    },
+    "1174003": {
+      "1": "Summer Bind Action",
+      "46": "Deals minor P. DMG to the enemy with the\nhighest ATK in front, binds them, and pulls\nthem directly in front of self."
+    },
+    "1178001": {
+      "1": "Ayakashi Ninpo: Hyakki's Ecstatic Feast"
+    },
+    "1178002": {
+      "1": "Ayakashi Ninpo: Shadow Illusion Clone Art"
+    },
+    "1178003": {
+      "1": "Ayakashi Ninpo: Pumpkin Charge Art"
+    },
+    "1180001": {
+      "1": "Million Flipping",
+      "46": "Deals moderate P.DMG to enemies in front and\nslightly lowers their P.DEF. Effect values\nincrease based on the number of enemies\nwithin range."
+    },
+    "1180002": {
+      "1": "Trap Wallet"
+    },
+    "1180003": {
+      "1": "Royalty Light",
+      "46": "Grants all allies continuous HP recovery and\ncontinuous TP recovery, and deploys a\nphysical nullification barrier."
+    },
+    "1185001": {
+      "1": "Call of Guild",
+      "46": "Slightly boosts all allies' P.CRIT DMG and\nM.CRIT DMG, and moderately lowers all\nenemies' P.CRIT DMG and M.CRIT DMG. Deploys a\nP./M.DMG nullification barrier for all\nallies. Greatly boosts Wind allies' P.ATK and\nM.ATK, and slightly boosts their P.CRIT DMG\nand M.CRIT DMG."
+    },
+    "1185002": {
+      "1": "Guild of Strength",
+      "46": "Greatly boosts all allies' P.ATK and M.ATK and inscribes [Power Rune] upon them. While [Power Rune] is inscribed, greatly boosts allies' additional action speed."
+    },
+    "1185003": {
+      "1": "Guild of Detonation",
+      "46": "Deals moderate M.DMG to all enemies and greatly knocks them back. If [Management Association's Quill Pen] is at maximum, consumes all stacks and additionally deals major M.DMG to all enemies. On the first activation, enters a state where self gains 1 stack of [Management Association's Quill Pen] (max 60) whenever receiving a status-up effect."
+    },
+    "1185101": {
+      "1": "Executive Support",
+      "46": "Moderately boosts all allies' P.ATK, M.ATK,\nP.DEF, and M.DEF. Slightly boosts Wind\nallies' P.ATK, M.ATK, P.DEF, and M.DEF."
+    },
+    "1186001": {
+      "1": "Nebbia Infelicità",
+      "46": "Inflicts one of Confusion, Fear, Blind, or\nStun to all enemies, and becomes immune to\nall damage for a set period of time."
+    },
+    "1186002": {
+      "1": "Scherzo",
+      "46": "Inflicts Obsession on the enemy with the\nhighest P.ATK, slightly restores own HP, and\ngrants self Physical Evasion for a set period\nof time. Moves beside a random enemy."
+    },
+    "1186003": {
+      "1": "Capriccio",
+      "46": "Inflicts Obsession on the enemy with the\nhighest M.ATK, slightly restores own HP, and\ngrants self Magic Evasion for a set period of\ntime. Moves beside a random enemy."
+    },
+    "1186101": {
+      "1": "Nel Cielo",
+      "46": "[Flight] Enters Flight mode. Flight allows to avoid any attacks or skills that deal AoE affects."
+    },
+    "1190001": {
+      "1": "Magical Love Guidance"
+    },
+    "1190002": {
+      "1": "Romantic Heart"
+    },
+    "1190203": {
+      "1": "Magic Love Beam"
+    },
+    "1192001": {
+      "1": "Elizabeth Dreamland"
+    },
+    "1192002": {
+      "1": "Saint Harvest"
+    },
+    "1192003": {
+      "1": "Wild Wheel"
+    },
+    "1193001": {
+      "1": "Christmas Stardust",
+      "46": "Greatly boosts own P.CRIT RATE and deals\nmajor P.DMG to enemies in front. This skill's\ncritical damage is tripled."
+    },
+    "1193002": {
+      "1": "Blessing Wreath",
+      "46": "Moderate boost to P.ATK and P.CRIT Rate of\nall nearby allies."
+    },
+    "1193003": {
+      "1": "Jingle Arrow",
+      "46": "Deals minor P.DMG to enemies in front and\nslightly lowers their P.DEF. The amount of\nP.DEF reduction increases based on the number\nof enemies within range, up to 4 times. This\nskill's critical damage is tripled."
+    },
+    "1200001": {
+      "1": "Darkness Combination Sister"
+    },
+    "1200002": {
+      "1": "Yami Onee-chan Will Protect♪"
+    },
+    "1200003": {
+      "1": "Noir Hold"
+    },
+    "1207001": {
+      "1": "Sky Dance: Early Spring Ice Dragon"
+    },
+    "1207002": {
+      "1": "Spring Shoes"
+    },
+    "1207003": {
+      "1": "Ice Flash"
+    },
+    "1207101": {
+      "1": "Spring Shoes"
+    },
+    "1207102": {
+      "1": "Ice Flash"
+    },
+    "1208001": {
+      "1": "Snow Sword: Emperor Snow Flakes"
+    },
+    "1208002": {
+      "1": "Moon Sword: Cold Moon"
+    },
+    "1208003": {
+      "1": "Flower Sword: Remnants of Winter"
+    },
+    "1208101": {
+      "1": "Moon Sword: Cold Moon"
+    },
+    "1209001": {
+      "1": "Vermilion Rising"
+    },
+    "1209002": {
+      "1": "New Moon Eclipse"
+    },
+    "1209203": {
+      "1": "Bloody Servant"
+    },
+    "1210001": {
+      "1": "Overload Strike"
+    },
+    "1210002": {
+      "1": "Limiter Overwrite"
+    },
+    "1210003": {
+      "1": "Enormous Cleave"
+    },
+    "1211003": {
+      "1": "Deadend Curse",
+      "46": "Deals minor M.DMG to enemies within range\ncentered on an enemy in front and inflicts\nParalysis."
+    },
+    "1211201": {
+      "1": "Overload Burst",
+      "46": "Deals moderate M.DMG to all enemies and\ninflicts Dread. Damage dealt by this skill\ndoes not restore enemies' TP. If any enemies\nare already under Dread when activated,\nadditionally slightly lowers their TP."
+    },
+    "1211202": {
+      "1": "Dark Vortex"
+    },
+    "1212001": {
+      "1": "Overload Structure"
+    },
+    "1212002": {
+      "1": "Append Courage"
+    },
+    "1212003": {
+      "1": "Protection Break",
+      "46": "Deals moderate P.DMG to an enemy in front,\nand slightly lowers its P.DEF."
+    },
+    "1212101": {
+      "1": "Scalput",
+      "46": "Deals large P.DMG to an enemy."
+    },
+    "1213001": {
+      "1": "Blooming Spotlight"
+    },
+    "1213003": {
+      "1": "Protection Bell"
+    },
+    "1213202": {
+      "1": "Tiny Cheer"
+    },
+    "1214001": {
+      "1": "Delight Festa"
+    },
+    "1214002": {
+      "1": "Booster Eye"
+    },
+    "1214003": {
+      "1": "Chaos Dress-up"
+    },
+    "1216001": {
+      "1": "Dragon's Phantom",
+      "46": "Deals large P.DMG to an enemy in front. If\nself is in Stealth, moderately boosts own\nP.CRIT DMG, increases this skill's damage,\nguarantees 1 hit as a critical hit, and that\ncritical hit deals 4× damage instead of\ndoubled."
+    },
+    "1216002": {
+      "1": "Shadow Fang"
+    },
+    "1216003": {
+      "1": "Dragon's Mist",
+      "46": "[Stealth] Enters Stealth, greatly boosts own action speed, massively boosts own P.ATK, and greatly recovers own TP."
+    },
+    "1220001": {
+      "1": "Soul Liberation"
+    },
+    "1220002": {
+      "1": "Soul Bind"
+    },
+    "1220003": {
+      "1": "Void Slash"
+    },
+    "1220101": {
+      "1": "Astral Seal"
+    },
+    "1221001": {
+      "1": "Camping Blast"
+    },
+    "1221002": {
+      "1": "Bush Shot"
+    },
+    "1221003": {
+      "1": "Precious Coffee"
+    },
+    "1222001": {
+      "1": "Camping Limelight"
+    },
+    "1222002": {
+      "1": "Rust Nail"
+    },
+    "1222003": {
+      "1": "Grill Paradise"
+    },
+    "1224001": {
+      "1": "Hiyori Cheer Sunshine"
+    },
+    "1224002": {
+      "1": "Paw Splash"
+    },
+    "1224003": {
+      "1": "Heartly High V"
+    },
+    "1225001": {
+      "1": "Summer Ocean Grace"
+    },
+    "1225002": {
+      "1": "Raging Flood"
+    },
+    "1225003": {
+      "1": "Azure Shot"
+    },
+    "1228001": {
+      "1": "Surprised Firecracker"
+    },
+    "1228002": {
+      "1": "Summer Splash Bomb"
+    },
+    "1228003": {
+      "1": "Tropical Sunshine"
+    },
+    "1229001": {
+      "1": "Bunny Summer Impact"
+    },
+    "1229002": {
+      "1": "Hop-Hop Summer"
+    },
+    "1229003": {
+      "1": "Bunny Summer Bash"
+    },
+    "1231001": {
+      "1": "Fairy-tale Explorer"
+    },
+    "1231002": {
+      "1": "Maho-Maho Unicorn Stamp"
+    },
+    "1231003": {
+      "1": "Maho-Maho Felt Cheer"
+    },
+    "1233001": {
+      "1": "Slimey Stream",
+      "46": "[Taunt] Deals large P.DMG to all enemies, becomes invincible for a short duration, and taunts all enemies."
+    },
+    "1233002": {
+      "1": "Camu-Camu Slime",
+      "46": "Deals medium P.DMG to the enemy with the\nhighest TP, excluding enemies whose TP is\nalready full, and moderately reduces their\nTP."
+    },
+    "1233003": {
+      "1": "Jam-Jam Slime",
+      "46": "Greatly lowers all enemies' P.ATK, and\nmoderately lowers their P.CRIT RATE and TP\nBoost."
+    },
+    "1235001": {
+      "1": "Jiangxi Hell Rush",
+      "46": "Deals massive P.DMG to all enemies and\ngreatly lowers their M.ATK."
+    },
+    "1235002": {
+      "1": "Fearful Big Acorn"
+    },
+    "1235003": {
+      "1": "Curse of Laziness"
+    },
+    "1236001": {
+      "1": "Mikuma Style: Yomawari Rensan",
+      "46": "Deals major P.DMG to an enemy in front and\ngreatly boosts own P.ATK and the P.ATK of the\nally other than self with the highest P.ATK.\nThe P.ATK boost increases by up to 7 times\nbased on own P.ATK."
+    },
+    "1236002": {
+      "1": "Mikuma Style: Dog-Catching",
+      "46": "Greatly boosts own P.ATK, deals major P.DMG\nto an enemy in front, and slightly recovers\nown TP."
+    },
+    "1236003": {
+      "1": "Mikuma Style: Flowing",
+      "46": "Massively boosts own P.ATK and P.CRIT RATE,\nas well as those of the ally other than self\nwith the highest P.ATK."
+    },
+    "1237001": {
+      "1": "Nanaka Maniac Flame",
+      "46": "Deals major M.DMG to enemies within range\ncentered on the enemy with the highest HP and\ninflicts Burn on them. Burn damage increases\nbased on the number of enemies within range."
+    },
+    "1237002": {
+      "1": "Jack-o'-Circle",
+      "46": "Deploys a magic damage field centered on the\nenemy with the highest HP."
+    },
+    "1237003": {
+      "1": "Nanaka-chan Trick",
+      "46": "Massively reduces the HP recovery received by\nenemies within range centered on the enemy\nwith the highest HP and slightly lowers their\nM.DEF."
+    },
+    "1238001": {
+      "1": "Brutus Avalon"
+    },
+    "1238002": {
+      "1": "Rapid Rabbit"
+    },
+    "1238003": {
+      "1": "Elevation"
+    },
+    "1241001": {
+      "1": "Holy Night Happening",
+      "46": "Deals large M.DMG to an enemy in front, and\ngreatly lowers its M.DEF."
+    },
+    "1241002": {
+      "1": "Angel Wish"
+    },
+    "1241003": {
+      "1": "Angel Coordination"
+    },
+    "1242001": {
+      "1": "Sword of Noel"
+    },
+    "1242002": {
+      "1": "Saint Enhancement"
+    },
+    "1242003": {
+      "1": "Blessing Horn"
+    },
+    "1245001": {
+      "1": "Dragon's Tear"
+    },
+    "1245002": {
+      "1": "Sticky Bite"
+    },
+    "1245003": {
+      "1": "Cruel Bloom",
+      "46": "Deals moderate M.DMG to all enemies and\nmoderately lowers their M.DEF."
+    },
+    "1247001": {
+      "1": "Spring Whirlwind of Turbulence"
+    },
+    "1247002": {
+      "1": "Seal-Breaking First Mark"
+    },
+    "1247003": {
+      "1": "Early Spring Scorching Treatment"
+    },
+    "1248001": {
+      "1": "Hope on Stage",
+      "46": "Deals major P.DMG to an enemy in front,\nslightly lowers their P.DEF, and massively\nboosts the P.ATK of allies who deal physical\nattacks."
+    },
+    "1248002": {
+      "1": "Glow Elation"
+    },
+    "1248003": {
+      "1": "Cheer for Future",
+      "46": "Greatly boosts the P.ATK and slightly\nrecovers the TP of allies who deal physical\nattacks. Upon first activation, TP recovery\nincreases significantly, and additionally\nslightly lowers all enemies' P.DEF."
+    },
+    "1249001": {
+      "1": "Dragon's End Break",
+      "46": "Deals major P.DMG to enemies within range in\nfront, greatly knocks them back, and\nmassively boosts own P.ATK for a short time.\nUpon first activation, damage increases\nsignificantly."
+    },
+    "1249002": {
+      "1": "Raging Fist"
+    },
+    "1249003": {
+      "1": "Dragonic Call",
+      "46": "Greatly boosts own P.ATK and moderately\nrecovers TP. Upon first activation, the P.ATK\nboost and TP recovery increase significantly."
+    },
+    "1250001": {
+      "1": "True Brilliance: Spires Twin Swift Strike"
+    },
+    "1250002": {
+      "1": "Spires Moonlight Flash",
+      "46": "Deals large P.DMG to an enemy in front, and\nslightly lowers its P.DEF."
+    },
+    "1250003": {
+      "1": "Spires Roaring Blade"
+    },
+    "1250101": {
+      "1": "Spires Moonlight Flash"
+    },
+    "1250102": {
+      "1": "Spires Roaring Blade"
+    },
+    "1251001": {
+      "1": "Neko-Neko Café Party",
+      "46": "Deals major P.DMG to all enemies, moderately\nboosts own P.ATK, and slightly recovers the\nHP of allies within range centered on self.\nDamage and the P.ATK boost increase based on\nthe number of allies within range."
+    },
+    "1251002": {
+      "1": "Bitter Edge"
+    },
+    "1251003": {
+      "1": "Sweet Service",
+      "46": "Moves next to the ally with the highest P.ATK\nand deploys a field that greatly boosts the\nP.ATK and slightly recovers the HP of allies\nwithin range centered on that ally."
+    },
+    "1253001": {
+      "1": "Master-Servant Bond Style"
+    },
+    "1253002": {
+      "1": "With Doggie My Lord"
+    },
+    "1253003": {
+      "1": "Deep Green Healing Breeze"
+    },
+    "1255001": {
+      "1": "Æther Blast"
+    },
+    "1255002": {
+      "1": "Black Haze",
+      "46": "Deploys a 400 radius field around an enemy in\nfront that deals M.DMG every second, and\nmoderately lowers enemies' M.ATK and M.DEF in\n400 range."
+    },
+    "1255003": {
+      "1": "Chaser"
+    },
+    "1256001": {
+      "1": "Gold Fangs",
+      "46": "Deals large P.DMG to an enemy in front and becomes invincible for a period of time. While [Field] is active, massively boosts the P.ATK of allies within range centered on self."
+    },
+    "1256002": {
+      "1": "Only Child's Dream"
+    },
+    "1256003": {
+      "1": "It's Parade Time♪",
+      "46": "Deploys a field centered on self that\nslightly recovers the HP of allies within\nrange, and greatly boosts their P.ATK and\nP.CRIT RATE."
+    },
+    "1257001": {
+      "1": "Divine Medicine"
+    },
+    "1257002": {
+      "1": "Miserable Mist"
+    },
+    "1257003": {
+      "1": "Medic"
+    },
+    "1258001": {
+      "1": "Shadow Split: Lamenting Scythe"
+    },
+    "1258002": {
+      "1": "Fleeting Blossom Transformation"
+    },
+    "1258003": {
+      "1": "Black Feather Sweep",
+      "46": "Deals large P.DMG to an enemy in front, and\nslightly lowers its P.DEF."
+    },
+    "1258101": {
+      "1": "Fallen Feather",
+      "46": "[Flight] Enters Flight mode. Flight allows to avoid any attacks or skills that deal AoE affects."
+    },
+    "1260001": {
+      "1": "Shadow Split: Hidden Thorns"
+    },
+    "1260002": {
+      "1": "Thorn Maiden"
+    },
+    "1260003": {
+      "1": "Ambivalent Guard"
+    },
+    "1260101": {
+      "1": "Fallen Feather",
+      "46": "[Flight] Enters Flight mode. Flight allows to avoid any attacks or skills that deal AoE affects."
+    },
+    "1262001": {
+      "1": "Vermilion Veil"
+    },
+    "1262002": {
+      "1": "Bloody Grace"
+    },
+    "1262003": {
+      "1": "Engage Bloom",
+      "46": "Boosts allies' M.ATK and M.CRIT Rate in range\nand greatly boosts their action speed."
+    },
+    "1262101": {
+      "1": "Ruler's Aid"
+    },
+    "1265001": {
+      "1": "White Thunder Night Sky",
+      "46": "Deals massive M.DMG to an enemy in front and slightly lowers their M.DEF. Damage increases while [Thunder Realm] is active."
+    },
+    "1265002": {
+      "1": "Tune of Thunderclap",
+      "46": "Greatly boosts the M.ATK of allies within range centered on self. Deals moderate M.DMG to an enemy in front and slightly lowers their M.DEF. While [Thunder Realm] is active, the M.ATK boost and damage increase."
+    },
+    "1265003": {
+      "1": "Thunderous Roar Sanctuary",
+      "46": "Greatly boosts the M.ATK and slightly boosts the M.CRIT DMG of allies within range centered on self. Effect values increase while [Thunder Realm] is active."
+    },
+    "1265101": {
+      "1": "Thunder Realm",
+      "46": "Activates the environment effect [Thunder Realm]. This skill's effects apply to both enemies and allies. Slightly increases magic damage dealt, and each time a character that performs physical attacks acts, deals percentage damage to that character based on their max HP, up to 99999."
+    },
+    "1266001": {
+      "1": "Secret Float"
+    },
+    "1266002": {
+      "1": "Blue Sea Breeze"
+    },
+    "1266003": {
+      "1": "Sparkle Mirror"
+    },
+    "1267001": {
+      "1": "Wisterian Splash"
+    },
+    "1267002": {
+      "1": "Midsummer Edge"
+    },
+    "1267003": {
+      "1": "Heat-Up Soul"
+    },
+    "1268001": {
+      "1": "Saint Michelada"
+    },
+    "1268002": {
+      "1": "Summer Delight"
+    },
+    "1268003": {
+      "1": "Shandy Gaff"
+    },
+    "1269001": {
+      "1": "Nephrite Aria"
+    },
+    "1269002": {
+      "1": "Siren's Breath"
+    },
+    "1269003": {
+      "1": "Sunshade Barrier"
+    },
+    "1270001": {
+      "1": "Electrical Summer Play",
+      "46": "Deals medium P.DMG to enemies in the frontal\narea. Damage increases as own HP decreases.\nSlightly recovers own HP."
+    },
+    "1270002": {
+      "1": "Aqua Dancing",
+      "46": "Deals medium P.DMG to enemies in the frontal\narea and greatly lowers their P.ATK and\nM.ATK."
+    },
+    "1270003": {
+      "1": "Summer Makes Your Body Hot~!",
+      "46": "Slightly boosts own P.ATK, P.DEF, and M.DEF,\nand moderately recovers own TP. The P.ATK\nboost increases as own HP decreases."
+    },
+    "1272001": {
+      "1": "Broom Witch Burst"
+    },
+    "1272002": {
+      "1": "Book of Enhancement"
+    },
+    "1272003": {
+      "1": "Light of Youth"
+    },
+    "1277001": {
+      "1": "Sincere Service"
+    },
+    "1277002": {
+      "1": "I'll Clean Up!"
+    },
+    "1277003": {
+      "1": "A Treat For You ♪"
+    },
+    "1279001": {
+      "1": "Precious Strike"
+    },
+    "1279002": {
+      "1": "Royal Affection"
+    },
+    "1279003": {
+      "1": "Frozen Slash"
+    },
+    "1283001": {
+      "1": "The Great Dragon Inori!",
+      "46": "Deals major physical damage to enemies in front, and greatly increases own Physical ATK and Physical Crit."
+    },
+    "1283002": {
+      "1": "Dragon's Knock"
+    },
+    "1283003": {
+      "1": "Come At Me!",
+      "46": "[Provoke] Taunts all enemies. If incapacitated, knocked back, or pulled during the Provoke motion, greatly knocks back the enemy directly in front, deals major physical damage to enemies in front, and inflicts Stun. Nullifies incapacitation, knockback, and pull effects received from enemies until this skill ends."
+    },
+    "1287001": {
+      "1": "Hiyori Astral Flare",
+      "46": "Deals massive P.DMG to an enemy in front,\ngreatly lowers its P.ATK and slightly lowers\nits P.DEF."
+    },
+    "1287002": {
+      "1": "Resonance Fire"
+    },
+    "1287003": {
+      "1": "Blaze Cheer"
+    },
+    "1288001": {
+      "1": "Astral Sonic"
+    },
+    "1288002": {
+      "1": "Aerial Edge"
+    },
+    "1288003": {
+      "1": "Gale Charge"
+    },
+    "1296001": {
+      "1": "Vivid Vigilance",
+      "46": "Deploys [Flower of Rejection]. While [Flower of Rejection] is active, moderately lowers all enemies' P.DEF and M.DEF and deals continuous P.DMG based on their combined P.ATK and M.ATK. If a target's M.DEF is lower than their P.DEF, the damage is treated as M.DMG. Moderately boosts allies' P.DEF and M.DEF and grants continuous HP recovery. HP recovery increases based on own combined P.ATK and M.ATK."
+    },
+    "1296002": {
+      "1": "Ivy Drain",
+      "46": "Slightly reduces the TP of an enemy in front\nand slightly restores the HP and TP of allies\nwithin range centered on the ally with the\nlowest HP. HP recovery increases based on own\ncombined P.ATK and M.ATK."
+    },
+    "1296003": {
+      "1": "Poison Flick",
+      "46": "Greatly lowers all enemies' P.ATK and M.ATK,\nand slightly lowers their P.DEF, M.DEF, and\nP.DMG and M.DMG dealt."
+    },
+    "1296101": {
+      "1": "Flower Trick",
+      "46": "Greatly boosts own additional action speed, enters the [Afterimage] state, and slightly recovers own TP. The [Afterimage] state nullifies damage taken once, then ends."
+    },
+    "1298001": {
+      "1": "Wolven Rush Raid",
+      "46": "Deals massive P.DMG to an enemy in front,\ngreatly lowers their P.ATK, and slightly\nlowers their P.DEF. If the target is already\naffected by a P.DEF Down effect, additionally\ndeals large P.DMG."
+    },
+    "1298002": {
+      "1": "Spearhead"
+    },
+    "1298003": {
+      "1": "Warrior's Code",
+      "46": "Greatly boosts own P.ATK and P.CRIT Rate, and\nmassively recovers own TP."
+    },
+    "1302001": {
+      "1": "Die♡ Full Burst"
+    },
+    "1302002": {
+      "1": "Protect Me♡Ally Shield"
+    },
+    "1302003": {
+      "1": "Kyuu♡ Izuna Launcher"
+    },
+    "1310001": {
+      "1": "Fairy-tale Curtain Call",
+      "46": "Slightly lowers the M.DEF of enemies in the frontal area. Massively boosts all allies' M.ATK, greatly boosts their M.CRIT RATE, slightly boosts own M.CRIT DMG, and grants [Curtain Call]."
+    },
+    "1310002": {
+      "1": "Maho-Maho Fancy Ball"
+    },
+    "1310003": {
+      "1": "Maho-Maho Wonder Hoop",
+      "46": "Deals medium M.DMG to enemies in the frontal area, greatly lowers their P.ATK and M.ATK, slightly boosts all allies' TP Boost, and slightly recovers their TP. While [Curtain Call] is active, additionally deals large M.DMG to enemies in the frontal area."
+    },
+    "1316001": {
+      "1": "Secret Sword Practice: Watermelon Slash"
+    },
+    "1316002": {
+      "1": "Sandcastle Building"
+    },
+    "1316003": {
+      "1": "Sound of Waves: Rainbow Bridge"
+    },
+    "1317001": {
+      "1": "Fiore Oceano",
+      "46": "Deals massive M.DMG to an enemy in front,\ngreatly lowers their P.ATK and M.ATK, and\nslightly lowers their M.DEF."
+    },
+    "1317002": {
+      "1": "Aqua Membrana"
+    },
+    "1317003": {
+      "1": "Vita Operare",
+      "46": "Greatly boosts all allies' action speed.\nModerately recovers the HP of the ally with\nthe lowest HP and grants allies within range\ncentered on that ally continuous HP recovery."
+    },
+    "1319001": {
+      "1": "Frozen Ocean"
+    },
+    "1319002": {
+      "1": "Ice Wall Protection",
+      "46": "[Summon] Creates an Ice Wall behind the 3rd enemy in front, deploys Barrier over all allies that negates P/M.DMG. The Ice Wall disappears after a set amount of time."
+    },
+    "1319003": {
+      "1": "Spirit Guidance"
+    },
+    "1320001": {
+      "1": "Fruit of an Unknown Summer",
+      "46": "Deals two massive M.DMG hits to the enemy in\nfront, ignoring a certain amount of their\nM.DEF."
+    },
+    "1320002": {
+      "1": "Show Me Your Potential!"
+    },
+    "1320003": {
+      "1": "It's a Dirty Trick~"
+    },
+    "1320101": {
+      "1": "Don't Take This Witch Too Lightly"
+    },
+    "1321001": {
+      "1": "Summer Al Huma"
+    },
+    "1321002": {
+      "1": "Beachside Star",
+      "46": "Deals large P.DMG to an enemy in front and\ngreatly boosts own P.ATK."
+    },
+    "1321003": {
+      "1": "Waterside Healing"
+    },
+    "1321100": {
+      "1": "Summer Al Huma"
+    },
+    "1321101": {
+      "1": "Raging Morningstar"
+    },
+    "1321102": {
+      "1": "Blazing Freeze"
+    },
+    "1328001": {
+      "1": "Affectionate Thunder Night Sky"
+    },
+    "1328002": {
+      "1": "Thunderbolt Blown Kiss"
+    },
+    "1328003": {
+      "1": "Thunderclad Barrier"
+    },
+    "1332001": {
+      "1": "Magnificent Circling Heavenly Dance!",
+      "46": "Deals major P.DMG to enemies within range\ncentered on an enemy in front, slightly\nlowers their P.DEF, and greatly boosts own\nP.ATK. The amount of P.DEF reduction and\nP.ATK boost increases up to 5 times based on\ndamage dealt."
+    },
+    "1332002": {
+      "1": "Skyward Reckless Charge!",
+      "46": "Deals large P.DMG to an enemy in front, and\nslightly lowers its P.DEF."
+    },
+    "1332003": {
+      "1": "World Pilgrimage Gem!",
+      "46": "Greatly boosts own P.ATK, slightly boosts\nP.CRIT DMG, and slightly recovers TP. Effect\nvalues increase each time this is activated,\nup to 4 times."
+    },
+    "1335001": {
+      "1": "Rising Phoenix",
+      "46": "Deals colossal M.DMG to an enemy in front 2 times and massively boosts own M.ATK. Damage increases based on the number of [Phoenix]."
+    },
+    "1335002": {
+      "1": "Calling Feather"
+    },
+    "1335003": {
+      "1": "Meditation Dance",
+      "46": "Upon first activation, enters a state in which 1 [Phoenix] (up to 20) is granted to self each time an ally activates their UB. Massively boosts all allies' M.ATK, moderately boosts their M.CRIT RATE, and moderately recovers their TP. The effect values are increased only for self."
+    },
+    "1336001": {
+      "1": "Riezal Medusiana"
+    },
+    "1336002": {
+      "1": "Illusion Whip"
+    },
+    "1336003": {
+      "1": "Mighty Eye"
+    },
+    "1338001": {
+      "1": "Tír na nÓg"
+    },
+    "1338002": {
+      "1": "Titania Bright"
+    },
+    "1338003": {
+      "1": "Phosphorescent"
+    },
+    "1338101": {
+      "1": "Gregorian Light"
+    },
+    "1338102": {
+      "1": "Faerie Flutter"
+    },
+    "1339001": {
+      "1": "Imaginary Hellscape"
+    },
+    "1339002": {
+      "1": "Demonic Thrust"
+    },
+    "1339003": {
+      "1": "Absolute One"
+    },
+    "1344001": {
+      "1": "Emerald Symphony",
+      "46": "Massively boosts all allies' M.ATK and\ngreatly boosts their M.CRIT RATE. Massively\nboosts the M.ATK and M.CRIT RATE of self and\nthe nearest ally, slightly boosts their\nM.CRIT DMG, deals major M.DMG to all enemies,\nand slightly recovers all allies' HP."
+    },
+    "1344002": {
+      "1": "Sanctus Chorus",
+      "46": "Massively boosts all allies' M.ATK and\ndeploys a physical nullification barrier.\nMassively boosts the M.ATK of self and the\nnearest ally and moderately recovers their\nTP."
+    },
+    "1344003": {
+      "1": "Sylphen Cantabile",
+      "46": "Greatly boosts all allies' P.DEF. Massively\nboosts the M.ATK and M.CRIT RATE of self and\nthe nearest ally, slightly boosts their\nM.CRIT DMG and TP Boost."
+    },
+    "1347001": {
+      "1": "Prismatic Inferno of Purification"
+    },
+    "1347002": {
+      "1": "Phoenix's Recovery"
+    },
+    "1347003": {
+      "1": "Phoenix Garden Flame"
+    },
+    "1351001": {
+      "1": "Summer Dance: Ice Dragon Ride",
+      "46": "Slightly lowers an enemy in front's P.DEF and deals major P.DMG to them. Moderately restores own HP. If there are 4 or more [Whimpering] stacks, consumes 4 [Whimpering] stacks to additionally massively boost the P.ATK of allies within range centered on self, increase the damage dealt, and deal colossal P.DMG to an enemy in front. When 4 [Whimpering] stacks are consumed, the damage ignores a fixed amount of P.DEF and is guaranteed to be critical."
+    },
+    "1351002": {
+      "1": "Frozen Treat"
+    },
+    "1351003": {
+      "1": "Tide Boots",
+      "46": "[Taunt] Taunts all enemies and grants self a P.DMG and M.DMG reduction effect. Deploys a field that greatly boosts the P.ATK of allies within range centered on self, moderately boosts their P.DEF and M.DEF, and slightly restores their HP and TP."
+    },
+    "1351101": {
+      "1": "I'll absolutely never turn into a baby!",
+      "46": "Activates when hit by an enemy and grants self 1 [Whimpering] stack (up to 8)."
+    },
+    "1354001": {
+      "1": "Fruitful Bloom",
+      "46": "Deals massive M.DMG to an enemy in front. If\nthe target's P.DEF is lower than their M.DEF,\nthis damage is treated as P.DMG. Slightly\nlowers the target's M.DEF. Massively boosts\nall allies' M.ATK, greatly boosts their\nM.CRIT RATE, slightly boosts their M.CRIT\nDMG, and grants continuous HP recovery."
+    },
+    "1354002": {
+      "1": "Balloon Clap",
+      "46": "Greatly lowers the P.ATK and M.ATK of an\nenemy in front and slightly lowers their\nM.DEF. On the first activation, additionally\nslightly lowers the P.DMG and M.DMG they\ndeal."
+    },
+    "1354003": {
+      "1": "Summer Nectar",
+      "46": "Slightly boosts all allies' P.DEF and M.DEF,\nand greatly boosts their action speed.\nSlightly recovers the HP and TP of Light\nallies. On the first activation, TP recovery\nincreases based on the number of Light\nallies, up to 5×."
+    },
+    "1356001": {
+      "1": "Divine Art - Ooharai Shinatobe Kaze",
+      "46": "[Summon] Deals massive P.DMG to an enemy in front. If a clone created by self is on the allied side, additionally deals massive P.DMG and slightly increases the P.DMG they receive. On first activation, additionally greatly boosts all allies' action speed and creates a clone of self that does not activate its UB."
+    },
+    "1356002": {
+      "1": "Secret Sword - Juujin Kaze",
+      "46": "Deals major P.DMG to an enemy in front and\nslightly lowers their P.DEF. Deploys a\nphysical nullification barrier on self and\nmoderately recovers HP."
+    },
+    "1356003": {
+      "1": "Purifying Sword Dance",
+      "46": "Reduces damage taken by self by 50%. If there\nare no allies in front of self, this damage\nreduction effect is removed. Massively boosts\nown P.ATK and slightly boosts own P.CRIT DMG."
+    },
+    "1356101": {
+      "1": "Immortal Sky Blade",
+      "46": "Triggers when attacked by an enemy and deals\nmoderate P.DMG to that enemy."
+    },
+    "1357001": {
+      "1": "Hiyori Moon Finale",
+      "46": "Deals massive P.DMG to an enemy in front. If the enemy is affected by continuous damage, this attack's number of hits increases. Grants Dark allies continuous HP recovery and continuous TP recovery. While [Salasarian Step] is active, additionally deals major P.DMG to an enemy in front."
+    },
+    "1357002": {
+      "1": "Graceful Cat Step",
+      "46": "Greatly boosts Dark allies' P.CRIT RATE, slightly boosts their P.CRIT DMG, and moderately recovers their HP. After the first activation, for every 10 instances of damage dealt by self, greatly boosts Dark allies' P.ATK, up to 10 times. After dealing damage 100 times, grants self [Salasarian Step]."
+    },
+    "1357003": {
+      "1": "Salasarian Rush",
+      "46": "Deals major P.DMG to an enemy in front and slightly lowers their P.DEF. If the enemy is affected by continuous damage, this skill's number of hits increases. If [Salasarian Step] is not active, additionally slightly recovers Dark allies' TP. If active, slightly boosts Dark allies' P.CRIT DMG and moderately recovers their TP."
+    },
+    "1359001": {
+      "1": "Hexagonal Bone Burial: Shadow Entry Ant Drop",
+      "46": "Deals colossal P.DMG to an enemy in front and\nremoves their barrier. Inflicts a Hex effect\non self and the enemy in front. If self is\nalready under a Hex effect when activated,\nadditionally deals major P.DMG to an enemy in\nfront 2 times. Damage taken from this skill's\nHex effect does not recover own TP."
+    },
+    "1359002": {
+      "1": "Hexagonal Bone Burial: Pulling Vajra",
+      "46": "Deals major P.DMG to an enemy in front,\nslightly lowers their P.DEF, and moderately\nrecovers own TP. If self is under a Hex\neffect, additionally deals major P.DMG to an\nenemy in front and slightly boosts own P.DMG\ndealt."
+    },
+    "1359003": {
+      "1": "Chalice of Offering",
+      "46": "Massively boosts own P.ATK, slightly boosts\nP.CRIT DMG, and moderately boosts P.DEF and\nM.DEF. If self is under a Hex effect,\nadditionally moderately boosts own HP Drain."
+    },
+    "1359101": {
+      "1": "Chalice of Offering",
+      "46": "Massively boosts own P.ATK, extremely boosts\nP.CRIT RATE, slightly boosts P.CRIT DMG, and\nmassively boosts P.DEF and M.DEF. Nullifies\nincapacitation inflicted by enemies on self\nuntil the end of battle and massively\nrecovers TP. If self is under a Hex effect,\nadditionally moderately boosts own HP Drain."
+    },
+    "1376001": {
+      "1": "Young Lord's Creation Spear",
+      "46": "Deals colossal M.DMG to an enemy in front, slightly lowers their M.DEF, and slightly boosts all allies' M.CRIT DMG. On the first activation, additionally slightly boosts all allies' buff enhancement and damage boost. On the fourth activation, additionally enters the [Evolution Transcendence] state."
+    },
+    "1376002": {
+      "1": "Aetherizer",
+      "46": "Deals major M.DMG to an enemy in front twice and greatly boosts all allies' M.ATK and M.CRIT RATE. While in the [Evolution Transcendence] state, the damage ignores a fixed amount of M.DEF, and the M.ATK and M.CRIT RATE boosts are doubled."
+    },
+    "1376003": {
+      "1": "Ex Bloom",
+      "46": "Consumes 25% of all allies' HP, but massively boosts all allies' M.ATK, slightly boosts their magic damage dealt, and moderately recovers own TP. The higher all allies' HP, the greater the M.ATK and magic damage boosts, up to 2 times. While in the [Evolution Transcendence] state, these boosts increase by up to 4 times instead of 2 times. Damage dealt to allies by this skill does not restore their TP."
+    },
+    "1382001": {
+      "1": "Omni-Transmutation: Demon-God Buddha Palm",
+      "46": "Grants oneself 1 [Snakefall Mark] (max 6), moderately lowers all enemies' P.DEF, and deals major P.DMG to all enemies. If there are 2 or more [Serpent Mark], additionally deals major P.DMG to all enemies. When [Serpent Mark] first reach 4, additionally greatly recovers the TP of all Light-element allies except oneself. When [Serpent Mark] first reach maximum, additionally massively recovers the TP of all Light-element allies except oneself. This skill always deals critical hits."
+    },
+    "1382002": {
+      "1": "Transmutation: Flashing Hand",
+      "46": "Slightly lowers all enemies' P.DEF and deals moderate P.DMG to all enemies. If there are 2 or more [Serpent Mark], additionally slightly lowers all enemies' P.DEF. If there are 4 or more [Serpent Mark], additionally massively boosts all allies' P.ATK and slightly boosts their P.CRIT DMG. If [Serpent Mark] are at maximum, additionally deals moderate P.DMG to all enemies. This skill always deals critical hits."
+    },
+    "1382003": {
+      "1": "Radiant Descent: Vajra",
+      "46": "Deploys P.DMG and M.DMG nullification barriers for all allies, grants them Harmony, greatly boosts their action speed, and slightly recovers their HP. If there are 2 or more [Serpent Mark], deploys absorption barriers instead of nullification barriers. If there are 4 or more [Serpent Mark], additionally grants all allies continuous TP recovery. If [Serpent Mark] are at maximum, additionally slightly recovers all allies' TP."
+    },
+    "1392001": {
+      "1": "Operation: Boko Summon!"
+    },
+    "1392002": {
+      "1": "Panzer Vor!"
+    },
+    "1392003": {
+      "1": "Go, Boko!"
+    },
+    "1393001": {
+      "1": "Blitzkrieg"
+    },
+    "1393002": {
+      "1": "Sprenggranate"
+    },
+    "1393003": {
+      "1": "Eisenherz"
+    },
+    "1401001": {
+      "1": "Over-the-Top Love♡Summer Dive",
+      "46": "Deals large P.DMG to enemies within an area\ncentered on an enemy in front, slightly\nlowers their P.DEF, and inflicts Burn. If the\nenemy in front is afflicted with Poison, this\nskill deals increased P.DMG, additionally\ndeals large P.DMG to the enemy with the\nlowest P.DEF, and slightly increases the\ncritical damage they take. If the enemy in\nfront is already afflicted with both Poison\nand Burn when this skill is activated,\nadditionally greatly boosts the P.ATK and\nP.CRIT RATE of self and the frontmost ally,\nand slightly boosts their P.CRIT DMG."
+    },
+    "1401002": {
+      "1": "Vroooom♡Float",
+      "46": "Deals medium P.DMG to enemies within an area\ncentered on an enemy in front, and slightly\nlowers their P.DEF. If the enemy in front is\nafflicted with Poison, this skill deals\nincreased P.DMG and additionally deals medium\nP.DMG to the enemy with the lowest P.DEF. If\nthe enemy in front is afflicted with both\nPoison and Burn, additionally allows self and\nthe frontmost ally ahead of self to nullify\nthe next incapacitating effect inflicted by\nan enemy, and slightly recovers the TP of\nself and the frontmost ally."
+    },
+    "1401003": {
+      "1": "Spreading♡Poison Mist Bomb",
+      "46": "Inflicts Poison and Blind on enemies within\nan area centered on an enemy in front. If the\nenemy in front is already afflicted with\nPoison when this skill is activated, Poison\ndamage is increased and additionally deals\nlarge P.DMG to the enemy with the lowest\nP.DEF. If the enemy in front is already\nafflicted with both Poison and Burn, Poison\ndamage is increased further."
+    },
+    "1407001": {
+      "1": "Nightfall Strafe",
+      "46": "Deals massive P.DMG to an enemy in front 2\ntimes and slightly lowers their P.DEF. If the\ntarget already has 7 or more types of debuffs\nwhen activated, increases the amount of P.DEF\nreduction, additionally slightly increases\nthe critical damage they receive, and deploys\na physical nullification barrier on allies\nwithin range centered on self."
+    },
+    "1407002": {
+      "1": "Rapid Elegant",
+      "46": "Deals major P.DMG to an enemy in front 2\ntimes, slightly lowers their P.DEF, and\nslightly increases the critical damage they\nreceive. If the target already has 7 or more\ntypes of debuffs when activated, increases\nthe amount of P.DEF reduction."
+    },
+    "1407003": {
+      "1": "Illuminate Flare",
+      "46": "Stuns an enemy in front, inflicts Blind, and\ngreatly lowers their P.ATK. Greatly boosts\nown P.ATK, slightly boosts P.CRIT DMG, and\ngreatly recovers TP. If the enemy in front\nalready has 7 or more types of debuffs when\nactivated, increases the P.ATK and P.CRIT DMG\nboost values, and additionally slightly\nrecovers the TP of Dark-element allies within\nrange centered on self."
+    },
+    "1407101": {
+      "1": "Counter Snipe",
+      "46": "Activates when attacked by an enemy, dealing\nmoderate P.DMG to that enemy and greatly\nlowering their evasion. This skill always\ncritically hits and cannot activate again for\na set period after activation."
+    },
+    "1412001": {
+      "1": "Sky-Blooming Star",
+      "46": "Deals colossal M.DMG to the enemy with the\nlowest M.DEF 2 times. If less than 30 seconds\nremain in battle, additionally deals colossal\nM.DMG to the enemy with the lowest M.DEF."
+    },
+    "1412002": {
+      "1": "What the heck?!",
+      "46": "Nullifies one instance of being incapacitated by an enemy. Deals major M.DMG to the enemy with the lowest M.DEF 2 times and slightly recovers own TP. If own [Stamina] is 15 or higher, consumes 15 [Stamina] to additionally deal major M.DMG to the enemy with the lowest M.DEF and slightly recover own TP. Upon first activation when less than 30 seconds remain in battle, additionally recovers own [Stamina] by 99 (up to 99), and changes action pattern."
+    },
+    "1412003": {
+      "1": "Quietly Burning Spirit",
+      "46": "Massively boosts own M.ATK and slightly boosts M.CRIT DMG. Upon first activation, additionally recovers own [Stamina] by 99, moderately boosts own P.DEF and M.DEF, greatly boosts additional action speed, and enters a state in which own [Stamina] is restored by 1 each time self receives a stat boost effect."
+    },
+    "1412511": {
+      "1": "Graceful Footwork+",
+      "46": "At the start of battle, greatly boosts own\nM.ATK."
+    },
+    "1801001": {
+      "1": "Hiyori Blazing Impact",
+      "46": "Deals massive P.DMG to an enemy in front and\nslightly lowers their P.DEF. The amount of\nP.DEF reduction increases based on the damage\ndealt, up to 6 times."
+    },
+    "1801002": {
+      "1": "Twinkle Brave",
+      "46": "Moderately boosts own P.ATK and slightly\nboosts own P.CRIT RATE and P.CRIT DMG."
+    },
+    "1801003": {
+      "1": "Burning Sunrise",
+      "46": "Slightly boosts own P.ATK and deals moderate\nP.DMG to an enemy in front."
+    },
+    "1805001": {
+      "1": "Aurora Sanctuary",
+      "46": "Deploys a field that slightly restores the HP\nand slightly boosts TP Boost of allies within\nrange centered on self. Slightly boosts all\nallies' P.CRIT DMG and M.CRIT DMG, and\nslightly lowers all enemies' P.DEF and M.DEF."
+    },
+    "1805002": {
+      "1": "Aero Healing",
+      "46": "Slightly restores the HP of all allies."
+    },
+    "1805003": {
+      "1": "Bright Attitude",
+      "46": "Greatly boosts all allies' P.ATK and M.ATK,\nand slightly recovers their TP."
+    },
+    "1807001": {
+      "1": "My Dear Star",
+      "46": "Greatly boosts own P.ATK and deals major\nP.DMG to enemies in front."
+    },
+    "1807003": {
+      "1": "Sisters' Link",
+      "46": "Slightly boosts the P.ATK, P.CRIT RATE, and\nP.CRIT DMG of allies within range centered on\nself. Effect values increase up to 4 times\nbased on own P.ATK."
+    },
+    "1807202": {
+      "1": "Starlight Shoot",
+      "46": "Deals moderate P.DMG to an enemy in front and\nmoderately recovers own TP. Effect values\nincrease based on the number of enemies\nwithin range."
+    },
+    "1809001": {
+      "1": "Noble Blaze",
+      "46": "Deals massive P.DMG to an enemy in front. The\nhigher own HP, the greater the damage.\nDeploys a physical damage field centered on\nthat enemy."
+    },
+    "1809002": {
+      "1": "Fire Enhancement",
+      "46": "Massively boosts all allies' P.ATK and\nslightly boosts their P.CRIT RATE and P.CRIT\nDMG."
+    },
+    "1809003": {
+      "1": "Glitter Force",
+      "46": "Deploys a field that slightly restores the HP\nand TP of allies within range centered on\nself. Greatly recovers own TP."
+    },
+    "1811001": {
+      "1": "Sacred Rain",
+      "46": "Deals major P.DMG to an enemy in front twice\nand moderately restores own HP. Critical\ndamage dealt by this skill is multiplied by\n3.5. Deploys a field behind self that\nmassively boosts the P.ATK and greatly boosts\nthe P.CRIT RATE of allies within range."
+    },
+    "1811002": {
+      "1": "Saint Arrow",
+      "46": "Deals moderate P.DMG to an enemy in front twice. Critical damage dealt by this skill is multiplied by 3.5. [While Field is Active] Additionally, slightly recovers all allies' TP."
+    },
+    "1811003": {
+      "1": "Precious Connection",
+      "46": "Deploys a physical nullification barrier on self, massively boosts own P.ATK and P.CRIT RATE, and slightly boosts own P.CRIT DMG. [While Field is Active] Increases the barrier's damage nullification capacity and additionally slightly lowers all enemies' P.DEF."
+    }
+  },
+  "seven_contents_condition": {
+    "10201_4": {
+      "5": "Astrum Development Logs"
+    },
+    "10202_4": {
+      "5": "Concert poster"
+    },
+    "10203_4": {
+      "5": "Why, what, Chroce?"
+    },
+    "10205_4": {
+      "5": "The Young Lady's Correction Challenge"
+    },
+    "10207_4": {
+      "5": "Ninon, make an eight-count"
+    },
+    "10208_4": {
+      "5": "Replica World Memories"
+    },
+    "10209_1": {
+      "5": "Dear Satsuki..."
+    },
+    "10213_4": {
+      "5": "Fortune-Bursting Traveling Bistro"
+    },
+    "10216_4": {
+      "5": "Let's Build Our Tank!"
+    }
+  },
+  "item_data": {
+    "31412": {
+      "1": "Lucky Lilac's Memory Shard",
+      "2": "A Shard of Lucky Lilac's Sealed memories. Collect these items to unleash your characters' hidden power."
+    },
+    "41412": {
+      "1": "Dedicated Lucky Lilac's Ring"
+    }
+  },
+  "enemy_parameter": {
+    "100000001": {
+      "2": "Glowshroom"
+    },
+    "100000002": {
+      "2": "Golem"
+    }
+  },
+  "byway_quest_data": {
+    "15067003": {
+      "3": "<EX> The Accident-Prone Second Daughter Goes Missing",
+      "23": "Win the battle."
+    },
+    "15067006": {
+      "3": "<EX> Dangerous Monsters: Great Ogre and Thunderbird",
+      "23": "Win the battle."
+    },
+    "15068003": {
+      "3": "<EX> The Free-Spirited Eldest Daughter Goes on a Drunken Rampage",
+      "23": "Win the battle."
+    },
+    "15068006": {
+      "3": "<EX> Dangerous Shadow Horde",
+      "23": "Win the battle."
+    },
+    "15069003": {
+      "3": "<EX> Dangerous Shadow Horde",
+      "23": "Win the battle."
+    },
+    "15069006": {
+      "3": "<EX> Dangerous Shadow Horde",
+      "23": "Win the battle."
+    },
+    "15070003": {
+      "3": "<EX> Dangerous Shadow Horde: Idols",
+      "23": "Win the battle."
+    },
+    "15070006": {
+      "3": "<EX> Dangerous Shadow Horde: Foundation",
+      "23": "Win the battle."
+    },
+    "15071003": {
+      "23": "Win the battle."
+    },
+    "15071006": {
+      "23": "Win the battle."
+    },
+    "15072003": {
+      "3": "<EX> Dangerous Shadow Horde: Gourmet",
+      "23": "Win the battle."
+    },
+    "15072006": {
+      "3": "<EX> Dangerous Shadow Horde: Infirmary",
+      "23": "Win the battle."
+    },
+    "15073003": {
+      "3": "<EX> Dangerous Shadow Horde: Forest Spirits",
+      "23": "Win the battle."
+    },
+    "15073005": {
+      "3": "<EX> Dangerous Shadow Horde: Twilight",
+      "23": "Win the battle."
+    },
+    "15074003": {
+      "3": "<EX> Dangerous Shadow Horde: Academy",
+      "23": "Win the battle."
+    },
+    "15074005": {
+      "3": "<EX> Dangerous Shadow Horde: White Wings",
+      "23": "Win the battle."
+    },
+    "15075002": {
+      "3": "<EX> Dangerous Shadow Horde: Friendship",
+      "23": "Win the battle."
+    },
+    "15075004": {
+      "3": "<EX> Dangerous Shadow Horde: Dragon's Nest",
+      "23": "Win the battle."
+    },
+    "15076003": {
+      "3": "<EX> Dangerous Shadow Horde: Light's Wish",
+      "23": "Win the battle."
+    },
+    "15076005": {
+      "3": "<EX> Dangerous Shadow Horde: Demon Army",
+      "23": "Win the battle."
+    },
+    "15077002": {
+      "3": "<EX> Dangerous Shadow Horde: Magic Academy",
+      "23": "Win the battle."
+    },
+    "15077005": {
+      "3": "<EX> Dangerous Shadow Horde: Fallen Angels",
+      "23": "Win the battle."
+    },
+    "15078002": {
+      "3": "<EX> Dangerous Monster: Great Ogre, Once More",
+      "23": "Win the battle."
+    },
+    "15078004": {
+      "3": "<EX> Dangerous Monster: Sloth Beast",
+      "23": "Win the battle."
+    },
+    "15078006": {
+      "3": "<EX> Dangerous Monster: Griffin",
+      "23": "Win the battle."
+    },
+    "15079002": {
+      "3": "<EX> Dangerous Monster: Thunderbird, Once More",
+      "23": "Win the battle."
+    },
+    "15079004": {
+      "3": "<EX> Dangerous Monster: Eyestalk Vines, Once More",
+      "23": "Win the battle."
+    },
+    "15079006": {
+      "3": "<EX> Dangerous Monster: Winged Dragon, Once More",
+      "23": "Win the battle."
+    },
+    "15080001": {
+      "3": "<EX> Dangerous Monster: Deep-Sea Dragon",
+      "23": "Win the battle."
+    },
+    "15080002": {
+      "3": "<EX> Dangerous Monster: Ogre Cavalry",
+      "23": "Win the battle."
+    },
+    "15080004": {
+      "3": "<EX> Dangerous Monster: Demon Wolf",
+      "23": "Win the battle."
+    },
+    "15081001": {
+      "3": "<EX> Dangerous Monster: Spirit King",
+      "23": "Win the battle."
+    },
+    "15081002": {
+      "3": "<EX> Dangerous Monster: Immortal Ape",
+      "23": "Win the battle."
+    },
+    "15081003": {
+      "3": "<EX> Dangerous Monster: Ancient Giant Turtle",
+      "23": "Win the battle."
+    },
+    "15082001": {
+      "3": "<EX> Dangerous Monster: Serpent",
+      "23": "Win the battle."
+    }
+  },
+  "emblem_mission_data": {
+    "56112138": {
+      "3": "Recruit Lucky Lilac"
+    },
+    "56112139": {
+      "3": "Ascend Lucky Lilac to 3★[-]"
+    },
+    "56112140": {
+      "3": "Ascend Lucky Lilac to 5★[-]"
+    }
+  },
+  "voice_group_chara": {
+    "100101001": {
+      "1": "Twinkle Wish (Hiyori)"
+    },
+    "100201001": {
+      "1": "Twinkle Wish (Yui)"
+    },
+    "100301001": {
+      "1": "Twinkle Wish (Rei)"
+    },
+    "100401001": {
+      "1": "Little Lyrical (Misogi)"
+    },
+    "100501001": {
+      "1": "NIGHTMARE (Matsuri)"
+    },
+    "100601001": {
+      "1": "Diabolos (Akari)"
+    },
+    "100701001": {
+      "1": "Diabolos (Miyako)"
+    },
+    "100801001": {
+      "1": "Weissflügel\n(Landosol Branch) (Yuki)"
+    },
+    "100901001": {
+      "1": "Twilight Caravan (Anna)"
+    },
+    "101001001": {
+      "1": "Caon (Maho)"
+    },
+    "101101001": {
+      "1": "Labyrinth (Rino)"
+    },
+    "101201001": {
+      "1": "Forestier (Hatsune)"
+    },
+    "101301001": {
+      "1": "Twilight Caravan (Nanaka)"
+    },
+    "101401001": {
+      "1": "Caon (Kasumi)"
+    },
+    "101501001": {
+      "1": "Forestier (Misato)"
+    },
+    "101601001": {
+      "1": "Lucent Academy (Suzuna)"
+    },
+    "101701001": {
+      "1": "Caon (Kaori)"
+    },
+    "101801001": {
+      "1": "Lucent Academy (Io)"
+    },
+    "102001001": {
+      "1": "Little Lyrical (Mimi)"
+    },
+    "102101001": {
+      "1": "Sarendia Orphanage (Kurumi)"
+    },
+    "102201001": {
+      "1": "Diabolos (Yori)"
+    },
+    "102301001": {
+      "1": "Sarendia Orphanage (Ayane)"
+    },
+    "102501001": {
+      "1": "Sarendia Orphanage (Suzume)"
+    },
+    "102601001": {
+      "1": "Elizabeth Park  (Rin)"
+    },
+    "102701001": {
+      "1": "Twilight Caravan (Eriko)"
+    },
+    "102801001": {
+      "1": "Sarendia Orphanage (Saren)"
+    },
+    "102901001": {
+      "1": "Carmina (Nozomi)"
+    },
+    "103001001": {
+      "1": "Weissflügel\n(Landosol Branch) (Ninon)"
+    },
+    "103101001": {
+      "1": "Diabolos (Shinobu)"
+    },
+    "103201001": {
+      "1": "Mercurius Foundation (Akino)"
+    },
+    "103301001": {
+      "1": "Elizabeth Park  (Mahiru)"
+    },
+    "103401001": {
+      "1": "Mercurius Foundation (Yukari)"
+    },
+    "103601001": {
+      "1": "Little Lyrical (Kyoka)"
+    },
+    "103701001": {
+      "1": "NIGHTMARE (Tomo)"
+    },
+    "103801001": {
+      "1": "Elizabeth Park  (Shiori)"
+    },
+    "104001001": {
+      "1": "Forestier (Aoi)"
+    },
+    "104201001": {
+      "1": "Carmina (Chika)"
+    },
+    "104301001": {
+      "1": "Caon (Makoto)"
+    },
+    "104401001": {
+      "1": "Diabolos (Illya)"
+    },
+    "104501001": {
+      "1": "Weissflügel\n(Landosol Branch) (Kuuka)"
+    },
+    "104601001": {
+      "1": "Mercurius Foundation (Tamaki)"
+    },
+    "104701001": {
+      "1": "NIGHTMARE (Jun)"
+    },
+    "104801001": {
+      "1": "Mercurius Foundation (Mifuyu)"
+    },
+    "104901001": {
+      "1": "Labyrinth (Shizuru)"
+    },
+    "105001001": {
+      "1": "Lucent Academy (Misaki)"
+    },
+    "105101001": {
+      "1": "Twilight Caravan (Mitsuki)"
+    },
+    "105201001": {
+      "1": "Elizabeth Park  (Lima)"
+    },
+    "105301001": {
+      "1": "Weissflügel\n(Landosol Branch) (Monika)"
+    },
+    "105401001": {
+      "1": "Carmina (Tsumugi)"
+    },
+    "105501001": {
+      "1": "Weissflügel\n(Landosol Branch) (Ayumi)"
+    },
+    "105601001": {
+      "1": "Twilight Caravan (Ruka)"
+    },
+    "105701001": {
+      "1": "？？？ (Djeeta)"
+    },
+    "105801001": {
+      "1": "Gourmet Guild (Pecorine)"
+    },
+    "105901001": {
+      "1": "Gourmet Guild (Kokkoro)"
+    },
+    "106001001": {
+      "1": "Gourmet Guild (Karyl)"
+    },
+    "106101001": {
+      "1": "？？？ (Muimi)"
+    },
+    "106401001": {
+      "1": "Gourmet Guild (Sheffy)"
+    },
+    "106501001": {
+      "1": "Dragons Nest (Kaya)"
+    },
+    "106601001": {
+      "1": "Dragons Nest (Inori)"
+    },
+    "106701001": {
+      "1": "Dragons Nest (Homare)"
+    },
+    "106801001": {
+      "1": "Labyrinth (Labyrista)"
+    },
+    "106901001": {
+      "1": "？？？ (Kaiser Insight)"
+    },
+    "107001001": {
+      "1": "？？？ (Neneka)"
+    },
+    "107101001": {
+      "1": "NIGHTMARE (Christina)"
+    },
+    "110801001": {
+      "1": "St. Theresa Girls' School  (Friendship Club) (Chloe)"
+    },
+    "110901001": {
+      "1": "St. Theresa Girls' School  (Friendship Club) (Chieru)"
+    },
+    "111001001": {
+      "1": "St. Theresa Girls' School  (Friendship Club) (Yuni)"
+    },
+    "112401001": {
+      "1": "New Generations (Uzuki)"
+    },
+    "112501001": {
+      "1": "New Generations (Rin)"
+    },
+    "112601001": {
+      "1": "New Generations (Mio)"
+    },
+    "118001001": {
+      "1": "Creditta"
+    },
+    "118101001": {
+      "1": "Rage Legion (Ranpha)"
+    },
+    "118201001": {
+      "1": "Rage Legion (Misora)"
+    },
+    "118501001": {
+      "1": "Karin"
+    },
+    "118601001": {
+      "1": "Navi"
+    },
+    "122301001": {
+      "1": "Vampy"
+    },
+    "123001001": {
+      "1": "Ameth"
+    },
+    "123301001": {
+      "1": "Nea"
+    },
+    "125601001": {
+      "1": "Vikala"
+    },
+    "125801001": {
+      "1": "Riri (Fallen)"
+    },
+    "126001001": {
+      "1": "Quria (Fallen)"
+    },
+    "126101001": {
+      "1": "Precia (Fallen)"
+    },
+    "126401001": {
+      "1": "Croce"
+    },
+    "126501001": {
+      "1": "Lyrael"
+    },
+    "127701001": {
+      "1": "Lind"
+    },
+    "127801001": {
+      "1": "Wyrm"
+    },
+    "129001001": {
+      "1": "Eris"
+    },
+    "129601001": {
+      "1": "Anemone"
+    },
+    "129701001": {
+      "1": "Nefi-Nera"
+    },
+    "130001001": {
+      "1": "Yamato"
+    },
+    "130101001": {
+      "1": "Wakana"
+    },
+    "130201001": {
+      "1": "Fubuki"
+    },
+    "130901001": {
+      "1": "Kururu"
+    },
+    "132001001": {
+      "1": "Echidna (Summer)"
+    },
+    "132301001": {
+      "1": "Louise Marie"
+    },
+    "132401001": {
+      "1": "Iroha"
+    },
+    "132501001": {
+      "1": "Sono"
+    },
+    "133001001": {
+      "1": "Grace"
+    },
+    "133101001": {
+      "1": "Violet"
+    },
+    "133601001": {
+      "1": "Medusa"
+    },
+    "134001001": {
+      "1": "Ameth"
+    },
+    "134701001": {
+      "1": "Ho-oh"
+    },
+    "134901001": {
+      "1": "Kanon"
+    },
+    "135501001": {
+      "1": "Aira"
+    },
+    "135601001": {
+      "1": "Shinatsu"
+    },
+    "135801001": {
+      "1": "Yukino"
+    },
+    "135901001": {
+      "1": "Satsuki"
+    },
+    "136001001": {
+      "1": "Arachne"
+    },
+    "136101001": {
+      "1": "Sakura"
+    },
+    "136201001": {
+      "1": "Naana"
+    },
+    "136901001": {
+      "1": "Rurui"
+    },
+    "137601001": {
+      "1": "Kokkoro (Little Guidance)"
+    },
+    "139201001": {
+      "1": "Miho(Garupan)"
+    },
+    "139301001": {
+      "1": "Maho(Garupan)"
+    },
+    "139401001": {
+      "1": "Erika(Garupan)"
+    },
+    "140301001": {
+      "1": "Tia"
+    },
+    "140401001": {
+      "1": "Liza"
+    },
+    "140901001": {
+      "1": "Aglaia"
+    },
+    "141001001": {
+      "1": "Gold Ship"
+    },
+    "141101001": {
+      "1": "Almond Eye"
+    },
+    "141201001": {
+      "1": "Lucky Lilac"
+    },
+    "180701001": {
+      "1": "Hatsune & Shiori"
+    },
+    "180801001": {
+      "1": "Misogi & Mimi & Kyoka"
+    },
+    "180901001": {
+      "1": "Akino & Saren"
+    },
+    "181001001": {
+      "1": "Anne & Grea"
+    },
+    "181101001": {
+      "1": "Shizuru & Rino"
+    }
+  },
+  "abd_story_data": {
+    "5154061": {
+      "2": "Business Trip! Alces Atelier"
+    }
+  },
+  "unit_comments": {
+    "1028001": {
+      "7": "I found a store that sells crayons, coloring\nbooks, and blocks for cheap! Help me shop!"
+    },
+    "1028002": {
+      "7": "When cooking, you need to use every last bit\nof your ingredients. Waste not, want not!"
+    },
+    "1028003": {
+      "7": "Money is important, but I just want to see a\nsmile on everyone's face. Including yours!"
+    },
+    "1028004": {
+      "7": "You and I should go somewhere fun sometime.\nJust as long as it's free, of course."
+    },
+    "1028005": {
+      "7": "I want to have a tea party. You'll be\ninvited, of course. It'll be lots of fun!"
+    },
+    "1028006": {
+      "7": "The line for limited items starts here... Oh,\nyou came too! Welcome to our bazaar!"
+    },
+    "1028007": {
+      "7": "I'll call out to the customers. Can you twirl\nthis sign to draw them in?"
+    },
+    "1028008": {
+      "7": "I can't believe we got so many customers! You\nmay as well go do your shopping, too!"
+    },
+    "1028009": {
+      "7": "Thanks for helping me manage the lines. Work\nis so much more fun with you around!"
+    },
+    "1028010": {
+      "7": "The bazaar was a hit! Let's celebrate with a\nfeast. You'll be the ultimate refreshment!"
+    },
+    "1103001": {
+      "7": "Ahaha, it's nice to have a day to relax on the beach until the sun sets, isn't it?"
+    },
+    "1103002": {
+      "7": "Collecting seashells and making accessories isn't a bad idea for making memories, is it? I'm not thinking of selling them or anything, you know? probably."
+    },
+    "1103003": {
+      "7": "The sand at the beach feels so nice and smooth, doesn't it? I wonder if we can take some and make a sandbox at the orphanage"
+    },
+    "1103004": {
+      "7": "Of course it's fun to spend time with the children and have a lively atmosphere, but spending time alone with you is also quite nice."
+    },
+    "1103005": {
+      "7": "Having the chance to see me in my swimsuit up close, you're really lucky, aren't you?♪"
+    },
+    "1103006": {
+      "7": "I may not be elegant, but please forgive me just this once. Right now, I'm feeling really excited and I can't help but be swept off my feet!"
+    },
+    "1103007": {
+      "7": "The summer sunshine makes me feel so free! I wonder if I should try a little more adventure myself ♪"
+    },
+    "1103008": {
+      "7": "It's been a long time since I've been to the beach~ Since it's a precious vacation, I have to enjoy it or it'll be a waste!"
+    },
+    "1103009": {
+      "7": "The sea is really beautiful, isn't it? If we were alone on a deserted beach, just the two of us... Wait! Why am I saying such a thing!"
+    },
+    "1103010": {
+      "7": "Try to catch me~♪ W-wait, there's no way I could do something like that!!"
+    },
+    "1145001": {
+      "7": "I'll show you that you don't have to spend a fortune to have a wonderful Christmas!"
+    },
+    "1145002": {
+      "7": "Kids really love Christmas, don't they? Well, I can't really blame them... it just puts me in a really happy mood, too."
+    },
+    "1145003": {
+      "7": "The happiest thing for me is when children can spend Christmas with a smile on their faces."
+    },
+    "1145004": {
+      "7": "It looks like you're bored even though it's Christmas. Oh well, I guess I'll keep you company for a little while. Let's go get something warm to drink, shall we?"
+    },
+    "1145005": {
+      "7": "Eh? You think this dress suits me? I-Is that so...? Thank you... It makes me happy to be praised by you."
+    },
+    "1145006": {
+      "7": "Now, let's start a hot and fun Christmas! There's no time to be feeling cold♪"
+    },
+    "1145007": {
+      "7": "I may be a little less elegant, but you'll have to forgive me, okay? I'm going to enjoy Christmas to the fullest."
+    },
+    "1145008": {
+      "7": "Spending Christmas with you... feels pretty good♪. Being able to spend time with someone I can trust and feel at ease with... it's just happiness."
+    },
+    "1145009": {
+      "7": "Even though I'm outside, I feel like it's hot, is it perhaps because you're next to me...?"
+    },
+    "1145010": {
+      "7": "I'm not cut out for fancy dinners at high-end restaurants. But if you're here with me, then... Well, it'll be the best Christmas ever!"
+    }
+  },
+  "room_item_detail": {
+    "1211_1": {
+      "2": "Proof that you have conquered the \"Darkblight Crag.\" Enjoy the thick and creamy flavor of the Ultimate Egg draped across freshly cooked rice, with a dash of potent soy sauce. The more you eat, the more your stomach rejoices!"
+    },
+    "140_18": {
+      "2": "An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!"
+    },
+    "141_16": {
+      "2": "When water is poured over it, it changes into a magical potion. its refreshing, sweet taste helps one recover from fatigue, trough it can be enjoyed at any time."
+    },
+    "142_15": {
+      "2": "An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification."
+    },
+    "144_1": {
+      "2": "Proof that you have conquered the \"Cloudtop Peak.\" Rare, mouthwatering monster meat with the finest marbling that appears only near the summit."
+    },
+    "145_1": {
+      "2": "Proof that you have conquered the \"Deepwood Oak.\" It is also know as the \"World's Most Delicious Fruit.\" Trough the skin is hard and difficult to pierce, the flesh is exquisite."
+    },
+    "147_1": {
+      "2": "Proof that you have conquered the \"Tideborne Tower.\" Exquisite cotton candy woven from the light, sugary snow that falls only at the tower's peak. Said to bring ecstasy to even the divine."
+    },
+    "1_15": {
+      "2": "The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets."
+    },
+    "2206_1": {
+      "2": "Proof that you have conquered the \"Jadewyrm's Roost\". A hearty hotpot using the meat that came free while pulling the spines from a great dragon's tail. This legendary ingredient from the king of all creatures opens up new horizons for gourmets around the world. Even after being thoroughly stewed, the dragon's lingering vigor causes the tail to grow back any bites you take out of it."
+    },
+    "2810_1": {
+      "2": "Proof that you have conquered the \"Heaven's Fortress.\" A miraculous water that springs from a fountain standing in the deepest part of the castle. It contains ingredients that enhance vitality and shines in gold color. Its sweetness, like ascending to the heavens, spreads throughout the body, and no matter how tired one may be, their energy is rejuvenated."
+    },
+    "2817_1": {
+      "2": "Proof that you have conquered the \"Sandfall's Capital\". A special pancake made with the honey of the legendary cactus that grows in the deepest part of the Sandfall. It is said to contain a lot of nutrients from the earth and has an outstanding beauty effect. This sweet is the dream of many women who desire to become more beautiful as they eat it."
+    },
+    "2831_1": {
+      "2": "Proof that you have conquered the \"Azure King Fortress.\" Once opened, this mysterious box endlessly produces fresh and plump seafood from the source. Occasionally, something with an indescribable appearance comes out, but despite its eerie appearance, it is full of flavor and exudes a mystical power."
+    },
+    "2848_1": {
+      "2": "Fio’s flower bed, planted with a giant bud. The familiar-looking pink petals seem extremely comfortable to rest on. Together with the guide fairy, you might be able to dream of a world beyond this one."
+    }
+  },
+  "emblem_data": {
+    "110202138": {
+      "3": "Lucky Lilac"
+    },
+    "110202139": {
+      "3": "Bond with Lucky Lilac"
+    }
+  },
+  "room_unit_comments": {
+    "1901_105301": {
+      "7": "Let's discuss ways to boost the morale of Weissflügel!"
+    },
+    "1902_105301": {
+      "7": "I am not a child! But I will have some of those sweets!"
+    },
+    "1903_105301": {
+      "7": "We must keep this place spic and span. An unclean home makes an unclean heart!"
+    },
+    "1904_105301": {
+      "7": "Hmm... It's not like I can just wake up tomorrow and be taller, huh."
+    },
+    "1905_105301": {
+      "7": "Nothing beats a room that's always stocked full of sweets..."
+    },
+    "1906_105301": {
+      "7": "I can't wait to start training again with him!"
+    },
+    "1907_105301": {
+      "7": "Spending time with him makes every day fulfilling..."
+    },
+    "1908_105301": {
+      "7": "Daily study is part of a soldier's duty. Shall we do more drills today?"
+    },
+    "1909_105301": {
+      "7": "I drink milk every day, but I'm still not getting any taller..."
+    },
+    "1910_105301": {
+      "7": "Would you like a candy? They're sweet! And delicious!"
+    },
+    "1911_105301": {
+      "7": "Let us soar ever higher together!"
+    },
+    "1912_105301": {
+      "7": "You are a truly reliable man... I just realized that now."
+    },
+    "1913_105301": {
+      "7": "It is a great pleasure having you with me. I hope to continue this fruitful partnership."
+    },
+    "1914_105301": {
+      "7": "A good morning, indeed. Reminds me of the sunrise in my home country!"
+    },
+    "1915_105301": {
+      "7": "It's about time for lunch. Can't fight on an empty stomach!"
+    },
+    "1916_105301": {
+      "7": "*yawn* I'm not a child, but when I get sleepy, I get really sleepy."
+    },
+    "1917_105301": {
+      "7": "One's grooming is an indicator of one's mental state!"
+    },
+    "1918_105301": {
+      "7": "Whew... I know soldiers should not let their guard down, but this is really relaxing."
+    },
+    "1919_105301": {
+      "7": "Indeed. This is so cute... I'd like to bring it back to my home country."
+    },
+    "1920_105301": {
+      "7": "The tender warmth of this flame will heal our battle-worn hearts."
+    },
+    "1921_105301": {
+      "7": "Ahhh, so warm and fuzzy... H-hey! Don't lose focus on me now!"
+    },
+    "1922_105301": {
+      "7": "Woooooo! Discipline, discipline, discipline!"
+    },
+    "1923_105301": {
+      "7": "I leave just enough space in my stomach, so I'm always prepared to fight!"
+    },
+    "1924_105301": {
+      "7": "I will read this and concoct an entirely novel war strategy!"
+    },
+    "2001_105801": {
+      "7": "Welcome to our guildhouse!"
+    },
+    "2002_105801": {
+      "7": "Grrr... Oh no, my stomach is growling."
+    },
+    "2003_105801": {
+      "7": "Huh? Is that food I smell?"
+    },
+    "2004_105801": {
+      "7": "I'd like to have a big, fun meal with everyone at the table!"
+    },
+    "2005_105801": {
+      "7": "This room is where I call home. ♪"
+    },
+    "2006_105801": {
+      "7": "When I see him, my heart is filled with warmth! But my stomach remains empty!"
+    },
+    "2007_105801": {
+      "7": "I wonder if he doesn't like girls who eat a lot."
+    },
+    "2008_105801": {
+      "7": "You have food for me? Yay! You really know how to win a girl over. ♪"
+    },
+    "2009_105801": {
+      "7": "I-I'm not stealing a bite! I'm simply checking the flavor!"
+    },
+    "2010_105801": {
+      "7": "Always room for food, dessert, and a little side of monster!"
+    },
+    "2011_105801": {
+      "7": "Eating what I love, with people I love! Doesn't get any better than that. ☆"
+    },
+    "2012_105801": {
+      "7": "I hereby dub you the Prince of Food!"
+    },
+    "2013_105801": {
+      "7": "I like you a lot! I love you! Eheheh. ♪"
+    },
+    "2014_105801": {
+      "7": "Now that we've finished breakfast, how about some brunch?"
+    },
+    "2015_105801": {
+      "7": "Lunch was so delicious! Well then, I guess it's time for a snack! ☆"
+    },
+    "2016_105801": {
+      "7": "Well, I've eaten dinner and supper... So, time for a late night snack! ☆"
+    },
+    "2017_105801": {
+      "7": "Brushing my hair and prettying myself up is very important! ♪"
+    },
+    "2018_105801": {
+      "7": "Whew... My tummy's really putting in the work!"
+    },
+    "2019_105801": {
+      "7": "Looks delicio— E-err, cute!"
+    },
+    "2020_105801": {
+      "7": "What an appetizing aroma! Even the air tastes delicious! *drool* ♪"
+    },
+    "2021_105801": {
+      "7": "Look at the fire go! ♪ I'm gonna grill up some monsters!"
+    },
+    "2022_105801": {
+      "7": "Run, then eat! Run, then eat! It's an endless cycle!"
+    },
+    "2023_105801": {
+      "7": "I can eat, eat, and eat some more! This is happiness! ☆"
+    },
+    "2024_105801": {
+      "7": "Just looking at pictures of food makes my mouth start to water."
+    },
+    "2051_106001": {
+      "7": "I get to eat all sorts of delicious food... It's actually a pretty sweet deal."
+    },
+    "2052_106001": {
+      "7": "Hmm... Why exactly am I in this guild again?"
+    },
+    "2053_106001": {
+      "7": "Once he gets here, I've gotta shadow him. ♪"
+    },
+    "2054_106001": {
+      "7": "Maybe his secret is hidden somewhere in this room."
+    },
+    "2055_106001": {
+      "7": "Can't believe I'm saying this, but being in a guild is actually lots of fun! ♪"
+    },
+    "2056_106001": {
+      "7": "All this spying on him... I-it's starting to make me feel weird."
+    },
+    "2057_106001": {
+      "7": "My lord... W-wait... I hope no one heard that just now!"
+    },
+    "2058_106001": {
+      "7": "It seems my fickle nature is my most charming feature."
+    },
+    "2059_106001": {
+      "7": "Uwahhh! Wh-why are you always sneaking up on me like that?!"
+    },
+    "2060_106001": {
+      "7": "Eeek! Don't come near me with that bug!"
+    },
+    "2061_106001": {
+      "7": "Do you think I could keep a stray cat in this room?"
+    },
+    "2062_106001": {
+      "7": "We're going out! Everything will be fine... if you do as I say. ♪"
+    },
+    "2063_106001": {
+      "7": "Hey, wanna try being manipulated?"
+    },
+    "2064_106001": {
+      "7": "The Gourmet Guild has to have high standards for breakfast too."
+    },
+    "2065_106001": {
+      "7": "It's part of our guild activities! Let's eat a delicious lunch! ♪"
+    },
+    "2066_106001": {
+      "7": "Dinnertime! Our guild's objective is food, after all. ♪"
+    },
+    "2067_106001": {
+      "7": "My tail is in perfect form today. ♪"
+    },
+    "2068_106001": {
+      "7": "I can't help curling up and napping in these kinds of places. *yawn*"
+    },
+    "2069_106001": {
+      "7": "Could I control this with my powers?"
+    },
+    "2070_106001": {
+      "7": "Meowwr! ♪ *meow, meow*"
+    },
+    "2071_106001": {
+      "7": "Ah, I feel like just lounging around."
+    },
+    "2072_106001": {
+      "7": "It's all about training! I can do anything if I put my mind to it!"
+    },
+    "2073_106001": {
+      "7": "Guild activities are a lot of fun... when you get to eat lots of food! ♪"
+    },
+    "2074_106001": {
+      "7": "Wielding magic requires lots of knowledge, too."
+    },
+    "2101_105901": {
+      "7": "This space carries the essence of my lord... Heheheh. ♪"
+    },
+    "2102_105901": {
+      "7": "I still need to cook, clean, do laundry, and go shopping."
+    },
+    "2103_105901": {
+      "7": "I must find a place I can pray to Lady Ameth."
+    },
+    "2104_105901": {
+      "7": "I am not surprised. The city is full of delicious foods."
+    },
+    "2105_105901": {
+      "7": "These rooms must be kept in a state that serves my lord."
+    },
+    "2106_105901": {
+      "7": "If possible... I'd like a room for just us, my lord."
+    },
+    "2107_105901": {
+      "7": "I at my lord's side, and my lord at mine. There is no greater happiness."
+    },
+    "2108_105901": {
+      "7": "Could I possibly have gotten taller? ...Oh, I see."
+    },
+    "2109_105901": {
+      "7": "If you're feeling tired, perhaps I can massage your shoulders?"
+    },
+    "2110_105901": {
+      "7": "My lord, is there anything you desire me to do? Or anything you want?"
+    },
+    "2111_105901": {
+      "7": "Here's your pocket money for today. Do get yourself something nice to eat."
+    },
+    "2112_105901": {
+      "7": "Your hands are so warm, my lord. ♪"
+    },
+    "2113_105901": {
+      "7": "It makes me happy to be in your presence, my lord."
+    },
+    "2114_105901": {
+      "7": "Good morning. I must do the laundry..."
+    },
+    "2115_105901": {
+      "7": "It's time for lunch. Let's get something tasty to eat."
+    },
+    "2116_105901": {
+      "7": "Please let me know when you go to bed. I will accompany you."
+    },
+    "2117_105901": {
+      "7": "It would be nice if I was just a little bit taller."
+    },
+    "2118_105901": {
+      "7": "How exquisitely soft this is... It reminds me of my lord."
+    },
+    "2119_105901": {
+      "7": "How endearing. ♪ It looks just like you, my lord."
+    },
+    "2120_105901": {
+      "7": "The scents here are not like those back home, but they're comforting."
+    },
+    "2121_105901": {
+      "7": "May I hang the laundry here?"
+    },
+    "2122_105901": {
+      "7": "This is how folks in the city stay in shape?!"
+    },
+    "2123_105901": {
+      "7": "Oh, how I would love to personally feed this to my lord. ♪"
+    },
+    "2124_105901": {
+      "7": "I must study hard so that I can better serve my lord."
+    },
+    "2151_190801": {
+      "7": "*yawn* Oh! Did you see that just now?"
+    },
+    "2152_190801": {
+      "7": "How are you settling into your guildhouse?"
+    },
+    "2153_190801": {
+      "7": "If you require anything, please just let me know. ♪"
+    },
+    "2154_190801": {
+      "7": "Sometimes I wish I could go on quests with everyone, too!"
+    },
+    "2155_190801": {
+      "7": "Good morning!\nI was just about to get started with the cleaning."
+    },
+    "2156_190801": {
+      "7": "If you have any lunch requests, I'll be happy to have them prepared!"
+    },
+    "2157_190801": {
+      "7": "This place is always\nso lively, even at night."
+    },
+    "3338_105801": {
+      "7": "I'd love it so much\nif he could be\nmy personal knight..."
+    },
+    "3339_105801": {
+      "7": "Thanks to you,\nthe stomach in my heart\nis always full to bursting!"
+    },
+    "3340_105901": {
+      "7": "If it were within my power, I would hurry to my lord's side without a moment's delay..."
+    },
+    "3341_105901": {
+      "7": "My lord... I care for you most deeply. Please allow me to serve you for as long as I may live..."
+    },
+    "3342_106001": {
+      "7": "This is bad... He's all I've been thinking about lately..."
+    },
+    "3343_106001": {
+      "7": "M-make sure you bring me along if you're going out, okay? I'll, um, keep you safe."
+    },
+    "5637_105301": {
+      "7": "Did I grow a little taller?! Oh, I must go report to him!"
+    }
+  },
+  "ailment_data": {
+    "11": {
+      "3": "Poison"
+    },
+    "12": {
+      "3": "Burn"
+    },
+    "13": {
+      "3": "Curse"
+    },
+    "14": {
+      "3": "Charm"
+    },
+    "19": {
+      "3": "Confusion"
+    },
+    "20": {
+      "3": "Venom"
+    },
+    "21": {
+      "3": "Clairvoyance"
+    },
+    "28": {
+      "3": "Hex"
+    },
+    "33": {
+      "3": "Poison"
+    },
+    "34": {
+      "3": "Stun"
+    },
+    "35": {
+      "3": "Poison"
+    },
+    "36": {
+      "3": "Curse"
+    },
+    "37": {
+      "3": "Confusion"
+    },
+    "48": {
+      "3": "Thunder Realm"
+    },
+    "5": {
+      "3": "Bind"
+    },
+    "51": {
+      "3": "Bind"
+    },
+    "53": {
+      "3": "Lethargic Spirit"
+    },
+    "58": {
+      "3": "Stun"
+    },
+    "59": {
+      "3": "HP Recovery Down"
+    },
+    "62": {
+      "3": "Invincible"
+    },
+    "63": {
+      "3": "Physical evasion"
+    },
+    "64": {
+      "3": "Invincible"
+    },
+    "65": {
+      "3": "Magic Evasion"
+    },
+    "7": {
+      "3": "Stun"
+    }
+  },
+  "voice_group": {
+    "20001": {
+      "1": "Hatsune & Shiori"
+    },
+    "20002": {
+      "1": "Shizuru & Rino"
+    },
+    "20004": {
+      "1": "Yori＆Akari"
+    },
+    "20159": {
+      "1": "Riri & Precia"
+    }
+  },
+  "dsb_story_data": {
+    "1010801": {
+      "2": "Competing endurance: Fire Onsen",
+      "11": "Originating in Elpis Island:\nFire nut, bell pepper",
+      "12": "Improves sensitivity to cold, raise metabolism.\n※Please be careful when bathing\nfor a long time.",
+      "13": "A passionate Onsen that uses plenty\nof fire nuts given by a dragon-like\ncreature on Elpis Island. Once immersed,\nsweat erupts like a waterfall. The passion\nfirmly grasps the fighting spirit of the\nHan and Han women who are trying to reach\ntheir limits and does not let go."
+    },
+    "1010802": {
+      "2": "Relax and shiny soul: Aroma Onsen",
+      "11": "Elves Forest Kagwashi Flower Essence",
+      "12": "Beautiful skin effect, relaxation effect,\nincense effect ※Sweet and sour may feel.",
+      "13": "A Onsen with fragrant flowers and\nthe aroma essence of the flowers.\nThe relaxation effect that makes you\nforget the time is perfect for the needs\nof busy urbanites. Combined with the high\nbeauty effect, it is becoming a hot spot\namong young women."
+    },
+    "1010803": {
+      "2": "Rejuvenate FUNta onsen melon flavor",
+      "11": "Nakai's special carbonated \nspring melon essence",
+      "12": "Peeling effect to promote blood\ncirculation Effect to return to childhood",
+      "13": "A playful Onsen filled with mild\ncarbonation and sweet melon scent.\nMitsuki's desire to create a Onsen\nthat will please children has taken shape.\nIt is said that even the normally grown-up\nhonor students will be in high spirits\nfor their age if they soak in this bath."
+    },
+    "1010804": {
+      "2": "Tokimeki Shock ☆ Biribiri Onsen",
+      "11": "Young landlady's magic (lightning)",
+      "12": "Relieves back pain and stiff shoulders,\npromotes blood circulation\nBilibili Ecstasy Trip(?)",
+      "13": "A stimulating Onsen with the electric\nshock of the young proprietress added to\nthe source that is the pride of our ryokan.\nIt is very popular as it is effective for\nstubborn stiffness all over the body.\nEven today, people from desk workers to\nthe elderly come here to relieve their\nstiffness. It's one of the reasons why\nit's addictive to feel a little pain."
+    },
+    "1010805": {
+      "2": "Vigor for monday: Vitality Onsen",
+      "11": "Elves Forest's Heal-Leaf Rots",
+      "12": "Super Physical Fatigue Recovery,\nSuper Neural Fatigue Recovery\nSuper Mental Fatigue Recovery",
+      "13": "A Onsen famous for relieving fatigue.\nA medicinal bath that enhances the effects\nof medicinal herbs that are the pride of Elf\nForest is a place of relaxation for people\nwho are exhausted. It is said that the hard\nworkers of the world work hard by soaking in\nthis Onsen and working, then soaking and\nworking again."
+    },
+    "1010806": {
+      "2": "Rage detox! Tingling Onsen",
+      "11": "Nakai's special kung po, rare chili",
+      "12": "Fat burning effect, high detox effect\n*Please be careful when bathing\nfor a long time.",
+      "13": "A Onsen with a high detoxification\neffect that uses a lot of hot peppers,\nwhich are said to be so hot that they\ncannot be distributed in the market. \nThe steam is also stimulating, so if\nyou wish, you can also rent goggles\nto protect your eyes (please feel\nfree to ask at the receptionist)."
+    },
+    "1010807": {
+      "2": "High viscosity: Gelatina's Onsen",
+      "11": "Potion specially made by the young\nlandlady, cheerful gelatinum",
+      "12": "Magical recovery, beautifully skin,\nand moisturizing effect\n※You may be bitten by the Onsen"
+    },
+    "1010808": {
+      "2": "Refresh mind and body♪: Susu's Onsen",
+      "11": "Seed oil of Susu grass from Elf Forest",
+      "12": "Refreshing effect, Moisturizing\neffect for throat and nose\n※Humming may reach the inn",
+      "13": "A medicinal bath containing medicinal\nherbs that have a cooling effect.\nInhaling the steam moisturizes your\nthroat and nose, and is popular for\nits ability to make your voice clearer.\nCoupled with the refreshing feeling\nafter bathing, there are many repeaters.\nSingers and idols are also secretly visiting."
+    },
+    "1010809": {
+      "2": "Rosy life, beauty skin Onsen",
+      "11": "Super beautiful skin medicine\nmade by Nakai, large roses",
+      "12": "Beautiful skin effect, moisturizing\neffect,heat retention effect\nRelaxing effect with rose scent",
+      "13": "A gem of a Onsen that pursues the effect \nof beautifying the skin.It is rumored\nthat you can see the difference just\nby taking a light bath in Onsen, and \nthat the release of a lotion that uses\nthis Onsen is also being explored.\nBy the way, roses are only for scenting\nand do not have a skin beautifying effect."
+    }
+  },
+  "xeh_story_data": {
+    "5106601": {
+      "2": "Holy Night Ghost x Vampire"
+    },
+    "5106602": {
+      "2": "Little Santa Gifts"
+    },
+    "5106603": {
+      "2": "Ahh, a beautiful Christmas"
+    },
+    "5106604": {
+      "2": "Shine! Christmas Concert"
+    },
+    "5106605": {
+      "2": "Beware of Angel Divination"
+    },
+    "5106606": {
+      "2": "Santa and Fluffy Reindeer"
+    },
+    "5106607": {
+      "2": "As Long As I have My Sister's Love"
+    },
+    "5106608": {
+      "2": "Christmas that Can't be Honest"
+    },
+    "5106609": {
+      "2": "Aim! New Business!"
+    },
+    "5106610": {
+      "2": "Pure Heart Christmas"
+    }
+  },
+  "ske_story_data": {
+    "1005805": {
+      "2": "Bond Diary Number Five"
+    },
+    "1005906": {
+      "2": "Bond Diary No. 11"
+    }
+  },
+  "lsv_story_data": {
+    "1009801": {
+      "2": "Myu-chan's Diary No. 1"
+    },
+    "1009802": {
+      "2": "Myu-chan's Diary No. 2"
+    },
+    "1009803": {
+      "2": "Myu-chan's Diary No. 3"
+    },
+    "1009804": {
+      "2": "Myu-chan's Diary No. 4"
+    }
+  },
+  "zodiac_quest_battle_effect": {
+    "140122011": {
+      "3": "Massive boost in all attribute bonuses",
+      "4": "When four or more characters of the same elements are in a team, the character's element bonus is enhanced."
+    },
+    "140122012": {
+      "3": "Damage Cut",
+      "4": "All enemies take reduced damage from a single hit. The damage reduction increases proportionally to damage dealt."
+    },
+    "140122013": {
+      "3": "Physical Defense UP (Unremovable)",
+      "4": "At the start of battle, increases P.DEF of all monsters. This effect is unaffected by P.DEF reduction effects."
+    },
+    "140122014": {
+      "3": "Magical Defense UP (Unremovable)",
+      "4": "At the start of battle, increases M.DEF of all monsters. This effect is unaffected by M.DEF reduction effects."
+    },
+    "140122015": {
+      "3": "TP Down Cut",
+      "4": "At the start of the battle, TP Down Dealt on the All monsters will be cut into 100%."
+    },
+    "140122016": {
+      "3": "HP absorption down",
+      "4": "At the start of battle, reduces HP absorption of all characters."
+    }
+  },
+  "wts_story_data": {
+    "5122061": {
+      "3": "Aoi's"
+    },
+    "5122062": {
+      "3": "Miyako's"
+    },
+    "5122063": {
+      "3": "Io's"
+    },
+    "5122064": {
+      "3": "Mifuyu's"
+    },
+    "5122065": {
+      "3": "Mahiru's"
+    },
+    "5122066": {
+      "3": "Kazumasa's"
+    },
+    "5122067": {
+      "3": "Eriko's"
+    }
+  },
+  "won_story_data": {
+    "10116111": {
+      "2": "Rock Badger's Ecology memo ①"
+    },
+    "10116112": {
+      "2": "Rock Badger's Ecology memo ②"
+    },
+    "10116113": {
+      "2": "Rock Badger's Ecology memo ③"
+    },
+    "10116114": {
+      "2": "Rock Badger's Ecology memo ④"
+    },
+    "10116121": {
+      "2": "Wappadanuki's Ecology Memo ①"
+    },
+    "10116122": {
+      "2": "Wappadanuki's Ecology Memo ②"
+    },
+    "10116123": {
+      "2": "Wappadanuki's Ecology Memo ③"
+    },
+    "10116124": {
+      "2": "Wappadanuki's Ecology Memo ④"
+    },
+    "10116131": {
+      "2": "Goblin Great's Ecology Memo ①"
+    },
+    "10116132": {
+      "2": "Goblin Great's Ecology Memo ②"
+    },
+    "10116133": {
+      "2": "Goblin Great's Ecology Memo ③"
+    },
+    "10116134": {
+      "2": "Goblin Great's Ecology Memo ④"
+    }
+  },
+  "dvs_story_data": {
+    "5118600": {
+      "2": "Opening"
+    }
+  },
+  "asb_story_data": {
+    "10130013": {
+      "2": "Aiming to be a splendid adventurer"
+    }
+  },
+  "limited_mission_detail": {
+    "10305001": {
+      "3": "Clear Dungeon \"Sandfall's Capital\""
+    },
+    "10305002": {
+      "3": "Clear Phase 3 of the Memory Domain"
+    },
+    "10305003": {
+      "3": "Clear Crimson Flame Depths  3-10"
+    },
+    "10305004": {
+      "3": "Clear Azure Wave Depths  3-10"
+    },
+    "10305005": {
+      "3": "Clear Jade Storm Depths  3-10"
+    },
+    "10305006": {
+      "3": "Clear Amber Sky Depths  3-10"
+    },
+    "10305007": {
+      "3": "Clear Violet Abyss Depths  3-10"
+    }
+  },
+  "byway_story_detail": {
+    "2201101": {
+      "2": "Substory Ⅰ",
+      "3": "To the Reverse World of the Reverse Guild"
+    },
+    "2201102": {
+      "2": "Substory Ⅱ",
+      "3": "Train! Alter Maiden"
+    },
+    "2201103": {
+      "2": "Substory Ⅲ",
+      "3": "Field Trip to the Strange Country"
+    },
+    "2202101": {
+      "2": "Substory Ⅳ",
+      "3": "Oshikura Princess!"
+    },
+    "2202102": {
+      "2": "Substory Ⅴ",
+      "3": "Pudding Ghost and Candy Castles"
+    },
+    "2202103": {
+      "2": "Substory Ⅵ",
+      "3": "Dragon Maid"
+    },
+    "2202104": {
+      "2": "Substory Ⅶ",
+      "3": "Damn you, Taiyaki!"
+    },
+    "2203101": {
+      "2": "Substory Ⅷ",
+      "3": "The Android and Naito-san"
+    },
+    "2203102": {
+      "2": "Substory Ⅸ",
+      "3": "Fun-Fun Picnic♪"
+    },
+    "2203103": {
+      "2": "Substory Ⅹ",
+      "3": "Outbreak?!\nThe Great Little Sisters War"
+    },
+    "2203104": {
+      "2": "Substory ⅩⅠ",
+      "3": "Fluffy Strawberry Love Road"
+    },
+    "2204101": {
+      "2": "Substory ⅩⅡ",
+      "3": "Magical Girl and Mushroom Rebellion"
+    },
+    "2204102": {
+      "2": "Substory ⅩⅢ",
+      "3": "Tunnus fishing \"behind the back\""
+    },
+    "2204103": {
+      "2": "Substory ⅩⅣ",
+      "3": "Sparkling Stone and a Merchant's Spirit"
+    },
+    "2204104": {
+      "2": "Substory ⅩⅤ",
+      "3": "Princess Bathtime"
+    },
+    "2204105": {
+      "2": "Substory ⅩⅥ",
+      "3": "Magical Remodeling! Monster Countermeasure Seminar"
+    },
+    "2204106": {
+      "2": "Substory ⅩⅦ",
+      "3": "Seeking the Phantom Score in the Underworld"
+    },
+    "2204107": {
+      "2": "Substory ⅩⅧ",
+      "3": "Twin Dragons' Service Date"
+    },
+    "2205101": {
+      "2": "Substory ⅩⅨ",
+      "3": "Beauty Methods of Gio Teogonia"
+    },
+    "2205102": {
+      "2": "Substory ⅩⅩ",
+      "3": "Masochist and Brat"
+    },
+    "2205103": {
+      "2": "Substory ⅩⅩⅠ",
+      "3": "Mom Battle in Gio Gehenna"
+    },
+    "2205104": {
+      "2": "Substory ⅩⅩⅡ",
+      "3": "Princess Concerto"
+    },
+    "2206101": {
+      "2": "Substory ⅩⅩⅢ",
+      "3": "Eureka! The Clumsy Detective"
+    },
+    "2206102": {
+      "2": "Substory ⅩⅩⅣ",
+      "3": "Anemone Observation Experiment"
+    },
+    "2206103": {
+      "2": "Substory ⅩⅩⅤ",
+      "3": "The Right to Bathe Together in the Hot Springs!"
+    },
+    "2206104": {
+      "2": "Substory ⅩⅩⅥ",
+      "3": "The Duel in Gio-Gehenna!"
+    },
+    "2207101": {
+      "2": "Substory ⅩⅩⅦ",
+      "3": "Playing House with the Princesses"
+    },
+    "2207102": {
+      "2": "Substory ⅩⅩⅧ",
+      "3": "The Magical Adolescent Extracurricular Activity"
+    },
+    "2207103": {
+      "2": "Substory ⅩⅩⅨ",
+      "3": "Aim to become a Ninja Master!"
+    },
+    "2207104": {
+      "2": "Substory ⅩⅩⅩ",
+      "3": "Otherworld 'Magic Cards' Battle"
+    },
+    "2208101": {
+      "2": "Substory ⅩⅩⅩⅠ",
+      "3": "Gio Gehenna's Friend?"
+    },
+    "2208102": {
+      "2": "Substory ⅩⅩⅩⅡ",
+      "3": "Dragons Tag Match"
+    },
+    "2208103": {
+      "2": "Substory ⅩⅩⅩⅢ",
+      "3": "Dark Gust Chronicles: The Chapter of Infernal Flames"
+    },
+    "2208104": {
+      "2": "Substory ⅩⅩⅩⅣ",
+      "3": "Lady Sexy Go!"
+    },
+    "2209101": {
+      "2": "Substory ⅩⅩⅩⅤ",
+      "3": "Gio Teogonia's Trap!?"
+    },
+    "2209102": {
+      "2": "Substory ⅩⅩⅩⅥ",
+      "3": "It's time for Princess \"Arrogance\""
+    },
+    "2209103": {
+      "2": "Substory ⅩⅩⅩⅦ",
+      "3": "A fierce battle? My manipulated friends"
+    },
+    "2209104": {
+      "2": "Substory ⅩⅩⅩⅧ",
+      "3": "Fear! The things creeping up on me"
+    },
+    "2209105": {
+      "2": "Substory ⅩⅩⅩⅨ",
+      "3": "C'mon, c'mere, Sheffy"
+    },
+    "2209106": {
+      "2": "Substory ⅩＬ",
+      "3": "Mysterious Monster Birds"
+    },
+    "2209107": {
+      "2": "Substory ⅩＬⅠ",
+      "3": "Yori vs Misora~Round 2~"
+    },
+    "2209108": {
+      "2": "Substory ⅩＬⅡ",
+      "3": "My First Time in Teogonia"
+    },
+    "2210101": {
+      "2": "Substory ⅩＬⅢ",
+      "3": "Iroha of the beetle amusement park!"
+    },
+    "2210102": {
+      "2": "Substory ＲⅠ",
+      "3": "The Masochist, The Glasses, and Reality"
+    },
+    "2210103": {
+      "2": "Substory ⅩＬⅣ",
+      "3": "Four Worlds Chevalier Conference"
+    },
+    "2211101": {
+      "2": "Substory ⅩＬⅤ",
+      "3": "Sono's Hot Spring Adult Strategy"
+    },
+    "2211102": {
+      "2": "Substory ＲⅡ",
+      "3": "Fluffy, the Health Center, and Reality"
+    },
+    "2211103": {
+      "2": "Substory ⅩＬⅥ",
+      "3": "Quria's Exciting Job Experience"
+    },
+    "2212101": {
+      "2": "Substory ⅩＬⅦ",
+      "3": "Delusional Rampage! A Shameless Chase"
+    },
+    "2212102": {
+      "2": "Substory ⅩＬⅧ",
+      "3": "Chick & Hiyori's Journey to the Underworld"
+    },
+    "2212103": {
+      "2": "Substory ＲⅢ",
+      "3": "Pukichi & mimi in Reality"
+    },
+    "2212104": {
+      "2": "Substory ＲⅣ",
+      "3": "Otaku & Ninjas in Reality"
+    },
+    "2213101": {
+      "2": "Substory ⅩＬⅨ",
+      "3": "Sightseeing Date for Troublesome Noble Ladies?"
+    },
+    "2213102": {
+      "2": "Substory Ｌ",
+      "3": "Arisa Meets a Giant Woman"
+    },
+    "2213103": {
+      "2": "Substory ＬⅠ",
+      "3": "The Stinkiest Smell in the Afterlife"
+    },
+    "2213104": {
+      "2": "Substory ＲⅤ",
+      "3": "Money, Boobs, and Reality"
+    },
+    "2214101": {
+      "2": "Substory ＲⅥ",
+      "3": "Heroes, Errands and Reality"
+    },
+    "2214102": {
+      "2": "Substory ＬⅡ",
+      "3": "Twin Flowers of the Underworld vs Twin Devils"
+    },
+    "2214103": {
+      "2": "Substory ＬⅢ",
+      "3": "Three Red-haired Bandy Sisters?!"
+    },
+    "2215101": {
+      "2": "Substory ＬⅣ",
+      "3": "Misaki Snapped!!"
+    },
+    "2215102": {
+      "2": "Substory ＲⅦ",
+      "3": "Rich Ladies, Taiyaki and Reality"
+    },
+    "2215103": {
+      "2": "Substory ＬⅤ",
+      "3": "Ayumi & her Super-large Kouhai"
+    },
+    "2216101": {
+      "2": "Substory ＬⅥ",
+      "3": "New Idol, Shinacchi-tan"
+    }
+  },
+  "mme_story_data": {
+    "5110601": {
+      "2": "Opening",
+      "3": "Nostalgic Crystals of the Past"
+    },
+    "5110602": {
+      "2": "Memories of Octo Part 1",
+      "3": "Which one is the leader!"
+    },
+    "5110603": {
+      "2": "Memories of Octo Part 2",
+      "3": "Why i want to win"
+    },
+    "5110604": {
+      "2": "Reminiscence of Christina Part 1",
+      "3": "Good listener Regina Geas"
+    },
+    "5110605": {
+      "2": "Daigo's Memories Part 1",
+      "3": "Hidden true power...?"
+    },
+    "5110606": {
+      "2": "Labyrinth's Reminiscence Part 1",
+      "3": "Write as a friend and read as a rival"
+    },
+    "5110607": {
+      "2": "Memories of Masaki",
+      "3": "Laughter of evil and justice"
+    },
+    "5110608": {
+      "2": "Reminiscence of Rajiraji Part 1",
+      "3": "What is Princess Night"
+    },
+    "5110609": {
+      "2": "Memories of Octo Part 3",
+      "3": "Reminisce about the days we haven't seen yet"
+    },
+    "5111602": {
+      "2": "Reminiscence of Rajiraji Part 2",
+      "3": "Punishment of the Leaping King"
+    },
+    "5111603": {
+      "2": "Reminiscence of Christina Part 2",
+      "3": "If it's Just the Two of Us, then Definitely"
+    },
+    "5111604": {
+      "2": "Daigo's Memories Part 2",
+      "3": "Step on the Tiger's Tail"
+    },
+    "5111605": {
+      "2": "Labyrinth's Reminiscence Part 2",
+      "3": "Who is the Most Suspicious of th Seven Crowns"
+    },
+    "5111606": {
+      "2": "Reminiscence of Neneka",
+      "3": "Too Easy Problem"
+    },
+    "5111607": {
+      "2": "Memories of Octo Part 3",
+      "3": "The Magician Speaks"
+    },
+    "5111608": {
+      "2": "Memories of Octo Part 3",
+      "3": "The Future that Villains Aim For"
+    },
+    "5111609": {
+      "2": "Ending",
+      "3": "Memories beyond the past"
+    }
+  },
+  "tpr_story_data": {
+    "5148061": {
+      "2": "Sweets eating club"
+    },
+    "5148062": {
+      "2": "The true identity of Penpokorin...?"
+    },
+    "5148064": {
+      "2": "Yonagi's love life?"
+    },
+    "5148065": {
+      "2": "Mugishuwa Abduction"
+    },
+    "5148067": {
+      "2": "It was a shiny board"
+    },
+    "5148068": {
+      "2": "What's M?"
+    },
+    "5148070": {
+      "2": "First watermelon, then milk?"
+    },
+    "5148071": {
+      "2": "Kishi-kyun therapy"
+    },
+    "5148073": {
+      "2": "Clap, clap, huff"
+    },
+    "5148074": {
+      "2": "I'll use the fire escape jutsu to make a mess!"
+    },
+    "5148076": {
+      "2": "If you listen closely"
+    },
+    "5148077": {
+      "2": "Shouldn't we exorcise it?"
+    },
+    "5148079": {
+      "2": "Exploding Hot Hip Drop"
+    },
+    "5148080": {
+      "2": "Super Slime Warrior"
+    },
+    "5148601": {
+      "2": "Dismembered photographs and testimony"
+    },
+    "5148602": {
+      "2": "Photo album restored!"
+    },
+    "5148603": {
+      "2": "Commemorative group photo★"
+    }
+  },
+  "content_release_data": {
+    "802": {
+      "4": "Clear Main Quest\n1-7（NORMAL）"
+    }
+  },
+  "legion_quest_data": {
+    "2002": {
+      "1": "Zane"
+    }
+  },
+  "zodiac_area_setting": {
+    "14001": {
+      "1": "Part 4 Chapter 1",
+      "2": "Stormy Landosol",
+      "3": "Stormy Landosol"
+    }
+  },
+  "unit_role_mastery_slot_data": {
+    "10101_2": {
+      "2": "[Attacker] ATK Up  Lv 2"
+    },
+    "10102_2": {
+      "2": "[Attacker] Critical Rate Up  Lv 2"
+    },
+    "10103_2": {
+      "2": "[Attacker] Damage Dealt Up  Lv 2"
+    },
+    "10104_2": {
+      "2": "[Attacker] Normal Attack Up  Lv 2"
+    }
+  },
+  "zodiac_challenge_data": {
+    "10109001": {
+      "1": "Win with 0:10 or more remaining time"
+    },
+    "10129001": {
+      "1": "Win with 0:30 or more remaining time"
+    },
+    "10200000": {
+      "1": "Win with 0 or fewer fallen characters."
+    }
+  }
+}

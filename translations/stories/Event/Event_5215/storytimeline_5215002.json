@@ -1,0 +1,607 @@
+{
+  "title": "Capture Kyouka's Mama",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and his companions arrived at Kyouka's house to obtain permission to depart for Geo Niflhell. Her mother was waiting anxiously in front of the house for her daughter's return.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・ニヴルヘルへ出発する許可を得るため、\nキョウカの家にたどり着いた{0}たち。\n彼女の母親は家の前で、\n心配そうに娘の帰りを待っていた。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I'm home... Mom.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ただいま……\nお母さん。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Welcome home. How was school? ...Wait, oh my?",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "おかえり、\n学校は大丈夫だった？\n……って、\nあら？"
+    },
+    {
+      "name": "Everyone",
+      "text": "Good evening!\" \"I'm home safe and sound.",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "「こんばんは！」\n「ただいま戻りました。」"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "My, I see you have brought friends. What brings you all here today?",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "まぁ、\nお友達でいっぱいね。\n今日は\nどうしたの？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "You know, umm... well...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あのね。\nええっと……\nその……"
+    },
+    {
+      "name": "Grace",
+      "text": "...You wanted to discuss something with them regarding the chain, remember? That's why you called them over.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……鎖の件について、\n相談があるんですよね？\nそれで、お友達も来てくださったんです。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Y-Yeah. That's right. Can they all come in the house with me...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "う、\nうん。\nそうなの。\nみんなも、\nおうちに上がってもらってもいいかな……？"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "I see... Well then, I will contact everyone's mother first.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "そう……\nそれじゃあ、\nみんなのお母さんに連絡しておくわね。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Wait... Oh dear! Kyouka, both you and the... octopus girl(?) are covered in mud! Go take a bath with Grace-chan first. Everyone, you can join her if you wish.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "って、\nたいへん。\nキョウカも\nタコの子（？）\nも\n泥だらけじゃない。\n先にグレイスちゃんとお風呂に入ってきなさい。\nよかったら、\nみんなも一緒に入っておいで。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Eh, are you sure?! Thank you, Kyouka's Mama! Alright, let's all go in together♪",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっ、\nいいの！？　\nありがとう、\nキョウカママ！\nよーし、\nみんなで一緒に入ろう♪"
+    },
+    {
+      "name": "Rurui",
+      "text": "M-Me toosh...? But... won't I turnsh into a boiled octopush?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あ、\nあたちもでしゅか……？\nでも、\n茹でタコになったりしましぇんか……？"
+    },
+    {
+      "name": "Mimi",
+      "text": "You've got nothing to worry about. Let's go in together, Lului-chan♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "だいじょうぶだよ。\nルルィちゃんもいっしょに入ろう♪"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Huh...? No, you are a bit... If you really mean it, I will call the Royal Knights of NIGHTMARE.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "えっ…………\nいや、\nあなたはちょっと……\n本気なら【王宮騎士団（NIGHTMARE）】を呼びますよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Please don't say such weird things. You'll really come across as a suspicious pervert.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あんまりへんなことを言わないでください。\n本当にへんたいさんになってしまいますよ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Well then, I shall prepare a meal while everyone else is taking a bath. {0}-kun, please sit on the sofa and rest.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "じゃあ、\nみんながお風呂に入っている間に、\n料理を作っておくわね。\n{0}くんは、\nソファに座って休んでください。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "My, are you sure? Thank you. You are a lifesaver.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "まぁ、\nいいの？\nありがとう、\n助かるわ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "All right. It looks like it shall be done if we simmer it a little longer... By the way, I recall you staying over once before, and you even came to Kyouka's school visit day.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "よし。\nもう少し煮込めば、\n完成しそうね……\nそういえば、\nあなたは一度家にも泊まったことがあったし、\nキョウカの参観日にも出てもらったこともあったわね。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Thank you for always taking care of Kyouka. For today, too. She has been through a lot lately...",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "いつもキョウカがお世話になっています。\n今日もありがとうね。\nこのところ、\nキョウカも色々と大変だから……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ahahaha, that tickles~ Your tentacles are something else, Lului!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あはははっ、\nくすぐったいよ～\nルルィの触手って、\nすごいんだね！"
+    },
+    {
+      "name": "Rurui",
+      "text": "Thank you for the praisesh! I can evensh use them to wash your backsh!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ありがとうございましゅ！\n体のしゅみじゅみまで、\n洗いましゅよ～！"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Hehe, seems like we can hear everyone's voices all the way from here... Having friends around sure is nice.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "ふふ、\nキッチンまでみんなの声が聞こえてくる……\nお友達がいると、\n賑やかでいいわね。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Since there's a chain, I guess you two take baths together too. Oh, in that case... are you always together, even outside of baths?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "くさりがあるから、\n二人はおふろもいっしょなんだね。\nあっ、\nそれじゃあ。\nおふろ以外もいつもいっしょなのかな？"
+    },
+    {
+      "name": "Grace",
+      "text": "Yes, bedtime is no different. Using the bathroom proves especially difficult~",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はい、\nベッドも同じですよ。\n特にトイレが大変で──"
+    },
+    {
+      "name": "Kyoka",
+      "text": "UWAAAAHHHHHH~! If that's the case, please don't tell them everything! Aren't you even a little embarrassed, Grace-san?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "わあぁ～！　\nだから全部話さないでください！\nグレイスさんは恥ずかしくないんですか！？"
+    },
+    {
+      "name": "Grace",
+      "text": "Of course I am. Yet we may have been born at different times, but we swore we'd die of this same shame together, didn't we?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "モチのロン。\n生まれた時は違えども、\n死ぬ時は同じと誓った仲じゃないですか。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "This is the first time I've heard of that. I have not made any such swear! Or rather, aren't you dead already...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そんなの初耳です、\n勝手に誓わないでください。\nそもそもグレイスさんは、\nもう死んでるんじゃ……？"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Hehe... Kyouka seems to be having a lot of fun, too. I wonder if having so many friends is to thank for that. Your help is very appreciated...",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "ふふ……\nキョウカも楽しそうにしてる。\nお友達がたくさんいるからかしら。\nこれも、\nみんなのおかげね……"
+    },
+    {
+      "name": "Everyone",
+      "text": "Thanks for the food!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "いただきまーす！"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Ehe, make sure to eat a lot! No picky eating, okay?",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "ふふ、\nたくさん食べてね。\n好き嫌いはしちゃダメよ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Oh, by the way... I know Mimi-chan and the others well, but I have not heard your name, octopus girl(?)... Ummm, you are?",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "あ、\nそういえば……\nミミちゃんたちはよく知っているけど、\nタコの子（？）\nのお名前は聞いていなかったわね……\nあの、\nお名前は？"
+    },
+    {
+      "name": "Rurui",
+      "text": "I apologizesh for the late introductionsh. I hailsh from Geo Niflhell, born southsh of the Giant Whalesh Castle. I am from the \"Deep Gardensh\". The namesh is Lului. I work as a pagesh apprentice. Today, I have comesh to help resolve the chain problemsh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "名乗り遅れまちた。\n手前、\n生国はジオ・ニヴルヘル、\n巨鯨城から南。\n『深い庭』の出で御座いましゅ。\n名はルルィ。\n稼業、\n小姓見習い。\n本日は、\n鎖の問題を解決しゅるために、\nお邪魔させていただいてましゅ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "My, what a splendid introduction... Nice to meet you, Lului-chan. So you come from a place known as the \"Deep Garden\" in Geo Niflhell?",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "まぁ、\n立派な挨拶で……\nよろしくね、\nルルィちゃん。\nジオ・ニヴルヘルの\n『深い庭』という場所のご出身なのね。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "And then, umm... Speaking of that chain. I surmise it is not something that will just go away over time, right?",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "それで、\nええっと……\n鎖の話だったわね。\nやっぱり、\n時間が経てば解けるというようなものではないの？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yeah... Mom, you see... If things continue like this, I'm going to end up living through the \"suspicious pervert bad end\"...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うん……\nお母さん、\nあのね。\nこのままじゃ私──\n『へんたいふしんしゃさん破滅エンド』になっちゃうの。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "...I could not quite believe what my ears heard, but I understand what you just said... However, to think you need to head back to Geo Niflhell where this incident began...",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "──耳を疑ったけど、\n話はわかったわ……\nでも、\nまた事件のあったジオ・ニヴルヘルに向かう必要があるなんて……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Grace",
+      "text": "Revered Mother, please rest assured. I may be a frivolous Gadabout now, but I was once a Chevalier. I will always strive to protect Young lady Kyouka.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "お義母さん、\nご安心ください。\n私は、\n今は遊び人のチャランポランですが、\n元守護騎士です。\nキョウカお嬢様は、\n必ずお守りします。"
+    },
+    {
+      "name": "Rurui",
+      "text": "I-I'll alsho help. I'll do my bestsh to guide everyonesh through Geo Niflhell!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あ、\nあたちも協力ちましゅ。\nジオ・ニヴルヘルの案内は、\nあたちががんばりましゅ！"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "...Everyone, thank you. I am glad to hear how much you care about my Kyouka.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "……みんな、\nありがとう。\nキョウカをこんなにも想ってくれて、\nうれしいわ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "When she is fooling around with Grace-chan, I can see her return to her usual cheerful self. But even so, ever since the chain incident, she has been somewhat withdrawn...",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "グレイスちゃんとふざけている時は\nいつもの元気なキョウカになるけど。\nそれでも、\n鎖の事件以来\nキョウカはどこか塞ぎこんでいたから……"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Even when I spoke to her, she would just say things like \"I'm fine\". That only made me worry even further, though that was the opposite of her intent.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "声をかけても、\n「大丈夫だよ」って。\n私に心配をかけないようにって、\n頑張るキョウカが心配だった。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "But, with your friends... you were able to talk it down properly, were you not? Knowing that made me feel a little relieved.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "でもお友達には、\nちゃんとお話しできていたのね。\nそれが、\nわかって少し安心しました。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "That said... I shall also accompany you in Geo Nifhell. In the end, I am still worri-...",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "けれど……\nジオ・ニヴルヘルには、\n私も同行するわ。\nやっぱり心配だし。"
+    },
+    {
+      "name": "Kyoka",
+      "text": ".........Wait, Mom. I want you, Mimi and Misogi to remain here in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "…………待って、\nお母さん。\nあとミミとミソギにも、\nランドソルに残ってほしいの。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Huh? Mimi and the others can't come with you?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "えっ？\nミミたちは、\nついて行けないの？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yeah... I mean, we don't know what might happen when we get there... You might all get cursed and turned into suspicious perverts.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うん……\nだって、\nあっちで何があるかわからない……\nみんなも、呪いにかかって\nへんたいふしんしゃさんになっちゃうかもしれないんだよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Even with all of this going on, I still have a place to return to... I believe that, and that's why, even though I'm scared... I feel like I can face this problem.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "こんなことになっても、\n私には帰る場所がある……\nそう信じられるから、\n怖くても……\nこの問題に、\n向き合える気がするんだ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmm, I see! Then Misogi and the others will protect Landosol, your \"place to return to\". We'll set up lots of traps and wait for you!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ふーん、\nなるほどね！\nじゃあ\n『帰る場所』のランドソルは、\nミソギたちが守ってみせるよ。\nいっぱいトラップつくって待ってるね！"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Even so...... No, you are right. You have Grace-chan and {0}-kun with you, so...... Okay.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "でも…………\nううん、\nそうよね。\nグレイスちゃんも{0}くんだって付いているんだし……\nわかったわ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Listen, Kyouka... Promise me you will return home safe and sound. Also, when you force yourself to do your best on your own because you do not want to worry others or feel embarassed...",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "いい？　\nキョウカ……\n必ず無事に帰ってくるって約束して。\nあと、\n心配をかけたくないとか\n恥ずかしいとかで、\n一人でうまくやろうと無理にがんばっちゃうことがあるけど。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "That is when you need to muster up the courage to ask for help. And when someone helps you, be sure to say thank you.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "そんな時にこそ、\n助けてと言える勇気をもってね。\nそして、\n助けてもらったら\nちゃんと\nありがとうって伝えるのよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Mom... Yeah... Everyone... Thank you for today...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "お母さん……\nうん……\nみんなも……\n今日はありがとう……"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "Grace-chan, please take care of my Kyouka. And when you are going through a tough time, you too should not hesitate to ask for help to those around you.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "グレイスちゃん、\nキョウカのことお願いね。\nグレイスちゃんも辛い時は、\n周りを頼ってね。"
+    },
+    {
+      "name": "Grace",
+      "text": "Yes, revered Mother. I've been freeloading here for a while, so in terms of help you've already given me plenty.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はい、\nお義母さん。\n私は居候させてもらったりで、\n既に十分助けてもらっていますよ。"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "I see... Thank you for today, everyone. Well then, let us eat before the food gets cold.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "そう……\nみんなも、\n今日はありがとうね。\nそれじゃあ、\nご飯が冷めちゃう前に、\n食べちゃいましょう。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Grace",
+      "text": "...It's fine. I'm with you.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……大丈夫です。\n私もついています。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Grace-san... She's holding my hand...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "グレイスさん……\n私の手を握ってくれてる……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yeah... Thanks.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うん……\nありがとう。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...Mom. There's still something I have to tell you.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……お母さん。\nまだ言わなくちゃいけないことがあるの。"
+    },
+    {
+      "name": "キョウカの母",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...I'm sorry. You see, today... I didn't go to school!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……ごめんなさい。\n実は今日、\n学校には行ってないの。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "In the end, I was afraid of everyone's reactions. I pretended to go to school, but instead I was killing time in the forest. I also asked Grace-san to keep quiet about it...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "やっぱり、\nみんなの反応が怖くて。\n学校に行ったフリをして、\n森で時間を潰していたの。\nグレイスさんにも黙っているように、\nお願いしてて……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I didn't want to worry you, so I couldn't say it. But lying... it was so painful...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "お母さんに心配かけるのが嫌で、\n言えなかった。\nでも\n苦しかった……"
+    },
+    {
+      "name": "Kyouka's Mother",
+      "text": "I see... that must have been so hard. Mommy should be the one apologizing. I will tell the school, so do not worry. No matter what happens, you are always you, Kyouka. My precious daughter.",
+      "choice_data_list": [],
+      "orig_name": "キョウカの母",
+      "orig_text": "そうだったの……\n辛かったのね。\nお母さんこそ、\nごめんね。\n学校には、\nお母さんが伝えておくから大丈夫。\n何があっても、\nキョウカはキョウカ。\n大事な娘よ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Mom... You too, Grace-san. I'm sorry for asking you to hide something for my sake.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "お母さん……\n……グレイスさんも、\n隠し事をお願いして\nごめんなさい。"
+    },
+    {
+      "name": "Grace",
+      "text": "Here, here. It's fine. I'm sorry for always saying weird things myself.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "よしよし、\n大丈夫ですよ。\nこちらこそ、\nいつもへんなことばかり言ってすみません。"
+    },
+    {
+      "name": "Narration",
+      "text": "Having thus obtained permission to travel to Geo Niflhell, Kyouka, Grace and the others decided to spend the night at Kyouka's house, as it was getting quite late.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そうして、\nジオ・ニヴルヘルへ旅立つ許可を得たキョウカとグレイス。\nすっかり夜も遅くなり、\n{0}たちは\nキョウカの家で一泊することになった。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A lot of things happened today... but I'm glad. I was able to talk to Mom, so I feel like I'll be able to sleep soundly today.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "今日は色んなことがあったけど……\nでも、よかった。\nお母さんともちゃんと話せたし、\n何だか今日はぐっすり眠れそう。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Hmmmm...? Wait a minutesh. Isn't the chainsh longer than before...?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ん……？　\n待ってくだしゃい。\nさっきより、\n鎖の長さが伸びていましぇんか？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? You're right... It's certainly gotten longer. But why...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あれ、\n本当だ……\nたしかに、\n長くなってる。\nでも、\nどうして……？"
+    },
+    {
+      "name": "Grace",
+      "text": "Hmm... This is just a theory, but it might be due to the emotions you felt earlier. If fear shortens the chain, then the opposite must also be true.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ふむ……\nもしかすると、\n先ほどの感情に理由があるのかもしれません。\n恐怖で鎖が短くなるのであれば、\nその逆もまた然り。"
+    },
+    {
+      "name": "Grace",
+      "text": "When people feel a sense of solidarity, their minds become more stable. And perhaps the length of that chain increases in proportion to that sense of security.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "人は連帯感を得ると、\n精神が安定するものです。\nその安心感に応じて、\n鎖の長さも伸びるのではないでしょうか。"
+    },
+    {
+      "name": "Grace",
+      "text": "Conversely, when isolated, people are tormented by anxiety and fear. The prime example of this is how we were treated as suspicious perverts. Perhaps that's why the chain was so short until now.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "反対に、\n孤立状態に陥ると、\n人は不安や恐怖に苛まれるもの。\nその最たる例が、\nへんたいふしんしゃさん扱いです。\nそのせいで、\nこれまでは鎖が短くなっていたのでしょう。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Certainly... it does feel like we're more at ease now, doesn't it? Until yesterday, we were all alone and isolated.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……たしかに、\n今の方が\nずっと安心感はあるかも？\n昨日までは、\n二人ぼっちで孤立してましたから。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Hmm... In other wordsh, the length of the chainsh is preciselysh a \"SusPerv Value\", wouldn't you saysh...?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ふむふむ……\nということは、\n鎖の長さはズバリ。\n『へんふ値』\nといっても\n過言じゃありましぇんね……"
+    },
+    {
+      "name": "Mimi",
+      "text": "What's that supposed to mean...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "なにそれ……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "The \"SusPerv Value\" is a measuresh of sanity that fluctuatesh based on fear and interpersonalsh relationships. When that \"SusPerv Value\" decreasesh, the chain shortensh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "『へんふ値』は\n恐怖や人間関係で変動する\n正気度のバロメーターでしゅ。\n『へんふ値』が削れると、\n鎖は短くなると言えましゅ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Applying this casesh, since you've won oversh your mother and gained her supportsh, you could say the chainsh have been extendedsh!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "今回のケースを当てはめましゅと、\nお義母しゃんを攻略ちて連帯を得たので、\n鎖が伸びたと言えましゅね！"
+    },
+    {
+      "name": "Grace",
+      "text": "The rules are now clear. We need to restore our broken relationships, maintain a certain level of harmony, and break the curse. Otherwise, we will face a bad ending.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "これでルールがハッキリしました。\n私たちは、\n壊れた人間関係を回復し、\n一定のへんふ値を維持しつつ、\n呪いを解く必要がある。\nでなければ、\n破滅エンドを迎えてしまいます。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Sounds like it's going to be tough, but I'm sure everything will be alright. I'm leaving Kyouka in your hands, Nii-chan!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "なんだか大変そうだけど、\nきっと大丈夫だよ。\nキョウカのことは任せたよ、\nにいちゃん。"
+    },
+    {
+      "name": "Grace",
+      "text": "Hehe. Quite the relaxed man, answering with his snoring as he sleeps. However, there's no one more reliable than Master Knight when it comes to navigating relationships. He's a smooth talker, after all.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ふふ。\n寝息で返事とは余裕そうですね。\nですが、\n騎士氏ほど人間関係を攻略する上で、\n心強い味方はいません。\nスケコマシですから。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "He's also an expert when it comes to being a suspicious pervert, you know!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "へんたいふしんしゃさんの専門家でもありますよ。"
+    },
+    {
+      "name": "Grace",
+      "text": "True enough. In that case, victory is practically guaranteed. Let's get some rest ourselves and prepare for tomorrow.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "そうでした。\nもう勝ち確ですね。\n明日に備えて、\n私たちも眠るとしましょう。"
+    },
+    {
+      "name": "Narration",
+      "text": "Little by little, Grace and the others began unraveling the mystery of the magical chain. And in the meantime, while he slept, {0} was (somewhat arbitrarily) recognized as both an expert on \"suspicious perverts\" and a master of navigating human relationships.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "少しずつ、\n魔力の鎖の謎を解明していくグレイスたち。\nそして眠っている間に、\nへんたいふしんしゃさんの専門家兼\n人間関係攻略家に認定された{0}なのであった。"
+    }
+  ]
+}

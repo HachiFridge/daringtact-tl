@@ -1,0 +1,628 @@
+{
+  "title": "Celebrate New Year All Together!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the others are working on preventing the meteor from causing damage. As they each strengthen their resolve, their final strategy meeting is about to be held.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "隕石の被害阻止のために動いていた{0}たち。\nそれぞれの決意を固める中、最後の作戦会議を開こうとしていた。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Sorry for making you guys wait.\nI'll be sharing the informations I got.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "すまない、\n待たせたね。\nこちら側の結果を\n報告させてもらうよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...So in short, evacuating the townspeople will be difficult. But we've roughly estimated where the meteor will crash.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nというわけで、\n住民の避難は難しそうだ。\nでも、\n落下地点については\nだいたいの予測ができたよ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Despite having a guide, running around here and there is rough on your bones... But thanks to that, I can check off lack of exercise from my new year resolutions.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "案内があったとはいえ、\nあちこち走り回るのはなかなか骨が折れたけど……\nおかげで、\n年末の運動不足は解消されたわね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "How about you guys? Have you found a way to deal with the meteor fragments?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そっちの方はどうだい？\n破片への対処法は見つかったかな？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yep, with my \"magic\" I can make the meteor fragment speed down to a crawl. I think it'd be possible to do that with the help of Morigami-sama's powers.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん。\n私の『魔法』で、\n破片のスピードを緩めることになったよ。\n森神さまの力を借りれば、\nそれで何とかなると思う。"
+    },
+    {
+      "name": "Morigami",
+      "text": "This girl isn't using magic but is instead using super abilities.\nI'm convinced that her prophetic dream is a power beyond my understanding. \nI'm worried if I could even strengthen that kind of power...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "この娘、\n魔法ではなく\n超能力とやらの使い手とは。\n予知夢の件も、\nわしの理解の外にある力なら\n納得じゃな。\nそれ故に、\nちゃんと強化できるか心配なのじゃが……"
+    },
+    {
+      "name": "Inori",
+      "text": "I get the plan now, but we definitely have to succeed! In the off chance that we fail, we'll be the cause of a death toll surpassing Kaiser Insight!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "作戦は分かりましたけど、\n絶対に失敗できないですよ！\n万が一ダメだったら、\nそこでなんか考え事してる元凶は\n何とかインサイト以上のキルカウントを叩き出すことになるです！"
+    },
+    {
+      "name": "Morigami",
+      "text": "Eh, well, when you put it that way that's a bit... \nI'll do anything, I'll even kneel down, so please succeed～!!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "えっ、\nいや、\nそれはそのじゃな……\n土下座でもなんでもしますから！！\n何卒、\n何卒よろしくお願いします～！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Even without that, I'll do everything I can to protect Landosol! To be honest, I'm a little scared...\nBut thank you for staying all the way to the end!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そんなことしなくても、\nランドソルは絶対に守るよ！\n正直、\nちょっと怖いけど……\nみんな、\n最後までよろしくね！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Oh~!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "お～！"
+    },
+    {
+      "name": "Morigami",
+      "text": "Hm, what is it? Do you need me to go somewhere for awhile?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うん？　\nどうした。\nお主らは離れた場所に行かねばならんのじゃろ？"
+    },
+    {
+      "name": "Morigami",
+      "text": "I see, I have no complaints about it.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "なるほど、\nお主の言い分は分かった。"
+    },
+    {
+      "name": "Morigami",
+      "text": "It's possible, perhaps even likely to succeed. I can't guarantee it but now that we've come this far, let's try our best.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "恐らくは可能じゃし、\n成功率も高まるはずじゃ。\n保証はできんが、\nな。\nここまできたんじゃ、\n最善を尽くそう。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Looks like you've made up your mind.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あなたは、\n決めたんですね。"
+    },
+    {
+      "name": "Morigami",
+      "text": "It seems that this girl is also thinking hard about something.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そちらの娘も何か、\n考えがあるようじゃな。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Yes, Onee-chan might be angry but... \nI've also made up my mind.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はい。\nお姉ちゃんは\nもしかしたら怒るかもしれないけど……\n私も、\n決めました。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Morigami-sama, we should go now.\nEveryone else has already left.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "森神さま、\n私たちもそろそろ行こう。\nもうみんなは出発してしまったよ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Kasumi-san. Could you listen to what I have to say?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "カスミさん。\n話を聞いてもらえませんか？"
+    },
+    {
+      "name": "Inori",
+      "text": "The townspeople sure are immersed with the stalls... What a carefree bunch. Even though a huge meteor is about to crash soon.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "街の連中は屋台に夢中ですか……\n呑気なもんですね。\nもうすぐどでかい隕石が落ちてくるっていうのに。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's a joyous day after all. \nIt'll depend on us whether it'll stay that way or not.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "本来はおめでたい日だからね。\nおめでたい日のままで終われるかは、\n私たち次第だ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Right, let's check again one final time. From the picture drawn by Hatsune-san, we can predict from which direction the meteor will come...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……よし、\n最終確認をしよう。\nハツネさんの描いてくれた絵から、\n隕石が飛来する方角は予測できているけれど……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You need me and Eriko-san to be watching the other directions, right? In case it didn't go as the prophetic dream said.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "それ以外の方角も、\n私とエリコちゃんで見張るのよね？\n全てが予知夢の通りになるとは限らないから。"
+    },
+    {
+      "name": "Eriko",
+      "text": "I'll keep a close eye on it. All of this is to protect his world together with me... Kus, kus, kus.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "しっかりと見張らせていただきますわ。\nすべてはあのおかたと\n私の世界を守るために……\nクスクスクス。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I'll count on you. In the off chance that the meteor comes from another direction, stay calm and send a signal to let us know.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "よろしく頼む。\n万が一、\n他の方角から飛んできても、\n落ち着いて合図を出して\n知らせてほしい。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Understood, we'll be going into position. \nLet's both do our best for this to succeed.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "了解よ。\nそれじゃあ、\n私たちはさっそく配置につくわね。\n成功のために、\nお互い最善を尽くしましょう。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I'll stay near you, Inori-kun. To prevent the meteor fragments from spreading out, you have to wait for my signal before shooting your laser beam.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私はイノリくんの傍で、\nビームの発射タイミングを知らせる。\n破片の拡散を\n可能な限り防ぎたいから、\n必ず私の合図を待ってから\nビームを撃ってくれ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Don't hold off the signal for too long! If we destroy it in an awkward place, I won't get away unscathed either!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なるべく早めに合図は出してほしいですよ！\n変なところで砕いちまったら、\nあたしもタダじゃすまねーんですから！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hatsune-san, as soon as you see the laser beam hitting the meteor, please quickly use your magic to prevent the fragments from crashing upon us.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ハツネさんは、\nビームが隕石に当たったのを見たら\nすぐに魔法で破片の落下を防いでくれ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hatsune-san... as I thought, she still hasn't gotten over how she couldn't see how the dream ended. \nShe really is too sincere, just like Shiori-san.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ハツネさん……\nやっぱり、\n予知夢を見落とした件を引きずってるのか。\n本当に、\n真面目過ぎるところは\nシオリさんとそっくりだ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then Morigami-sama, we'll have to start our preparation. Will you grant us a wish?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\n森神さま。\n私たちも準備を始めなきゃ。\nお願いを叶えてもらってもいいかな？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yes, your wish was to turn the dragon-folk girl into a giant and to strengthen your \"magic\", wasn't it?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ。\nドラゴン族の娘の巨大化と、\nお主の『魔法』の強化じゃったな。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Right, I'm not sure if it'll work... but we'll try our best.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん。\n成功するかは分からないけど……\nがんばるから。"
+    },
+    {
+      "name": "Morigami",
+      "text": "I refuse.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "断る。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Thanks... Ehhh!? Did you just refuse!? Why!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ありが……\nええっ！？\n今、\n断るって言った！？\nなんで！？　\nどうして！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Due to some circumstances, I changed the plan a little bit. Come on, it's fine to show yourself now.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "諸事情により\n少し作戦を変更することになってね。\nもう、\n出てきてもいいんじゃないか？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Eh... Ehh!? Why are you here...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっ……\nええっ！？\nどうしてキミがここに……？"
+    },
+    {
+      "name": "Morigami",
+      "text": "This young boy seems to hold the power to strengthen his friends. For the last wish... I will amplify that power.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "この少年は、\n仲間を強化する力を持っておるそうじゃの。\nわしの最後の願いは……\nその力を強化することに使う。"
+    },
+    {
+      "name": "Morigami",
+      "text": "That way when he strengthens you, your \"magic\" will be stronger too.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そして、\n少年がさらにお主を強化することで、\n『魔法』の威力はさらに大きいものとなろう。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Assistant-kun asked Morigami-sama to change the plan in order to support Hatsune-san up until the end.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\n助手くんは、\n最後までハツネさんを支えるために、\n自分から作戦の変更を森神さまに申し出たそうだ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Like him, Shiori-san is coming to the city too. She is also doing what she can do to help, to make sure everyone would have their first new year shrine visit.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "シオリさんも同様に、\n街に来てるよ。\n彼女も、\n彼女にできることをやってくれてる。\n誰も欠けることなく、\n初詣に行けるようにね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Even Shiorin...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリンまで……？"
+    },
+    {
+      "name": "Maho",
+      "text": "I'll be closing this street. If you want to go to the town square, please go through that street. \nIt's dangerous beyond this point.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "こっちの通りは\n通行止めにさせてもらってますえ。\n広場の方へ向かうんやったら、\nあっちの道を進んどくれやす。\nこの先、\nちょっと\n危なくなってるんどす。"
+    },
+    {
+      "name": "Maho",
+      "text": "This is our permit for closing the street. \nAnd naturally, it's the real deal♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "通行止めの許可証なら、\nこれですやろか。\nもちろん、\n本物どす♪"
+    },
+    {
+      "name": "Maho",
+      "text": "I know that it's an inconvenience to take a detour, but it's for the sake of your safety♪ Thank you for your cooperation～",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうどすなあ、\n遠回りで\nご不便おかけしますけど、\n安全のために\nご理解よろしゅうお願いします♪\nおおきに、\nご協力\n感謝どす～"
+    },
+    {
+      "name": "Shiori",
+      "text": "Thank you for cooperating! If you go down this route, it'll be easier to walk on!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ご協力ありがとうございます！\nあっちの方へ行ってもらうと、\nもっと歩きやすいです！"
+    },
+    {
+      "name": "Shiori",
+      "text": "This area is crowded, so please move slowly!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "このあたりは混雑しますから、\nゆっくり進んでくださいね！"
+    },
+    {
+      "name": "シオリ",
+      "text": "完全に人を追い出そうとすると、\n騒ぎになっちゃうから無理だけど……\nこうすれば、\nイノリさんが巨大化するとき、\n混乱が起きることは防げるはず……！　",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "完全に人を追い出そうとすると、\n騒ぎになっちゃうから無理だけど……\nこうすれば、\nイノリさんが巨大化するとき、\n混乱が起きることは防げるはず……！　"
+    },
+    {
+      "name": "Shiori",
+      "text": "By the way, Maho-san. How did you get permission to close the street? Getting NIGHTMARE's cooperation couldn't be easy...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ところで、\nマホさん。\n通行止めの証明書なんて、\nどうやって用意したんですか？\n【王宮騎士団（NIGHTMARE）】の協力は、難しいって……"
+    },
+    {
+      "name": "Maho",
+      "text": "Of course, it's handmade♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "もちろん、\nうちの手作りどす♪"
+    },
+    {
+      "name": "Shiori",
+      "text": "Which means, it's a fake...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "つまり、\n偽造なんじゃ……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Right now, what Hatsune-san really needs... \nIs someone who she can trust and will stand with her... \nAssistant-kun and Shiori-san isn't included because...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "今のハツネさんに\n本当に必要なのは……\n一緒に立ち向かってくれる、\n心から信じられる『仲間』なんだ。\nそのメンバーに\n助手くんやシオリさんが入ってないのは……"
+    },
+    {
+      "name": "Inori",
+      "text": "It'd be a bit insensitive? I would've flipped out if I were in those two's position.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "野暮ってもんじゃないですか？\nあたしが二人の立場なら、\n余裕でブチぎれ案件です。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "...Yeah.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "……うん。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Instead of worrying and running away from it, let's choose to overcome it together. Isn't that right, Assistant-kun?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "だから心配して遠ざけるんじゃなくて、\n一緒に乗り越える方法を選びたい。\nそうだろう？　\n助手くん。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Everyone... Thought of it that way...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "みんな……\nそんなふうに思って……"
+    },
+    {
+      "name": "Morigami",
+      "text": "To tell the truth, your \"magic\" is beyond my understanding. But on the other hand, that boy's power works in a similarly unknown way but is close in property with mine. That's why, my power can probably enhance its effectiveness.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "お主の『魔法』は、\n正直に言うと\nわしの理解の外にある。\n一方で少年の力は、\n同じく未知ではあるが性質は近い。\nその分、\nわしの強化もより効果が期待できる。"
+    },
+    {
+      "name": "Morigami",
+      "text": "It's my duty to grant the wishes of those faithful to me. And... I might've made a huge mistake the first time and things ended up like this... but that's precisely why, I won't make another mistake with the remaining wish.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "わしは、\nわしを信じる者の願いを叶えることが務めじゃ。\nそのぉ、\n最初に大失敗してこんなことになってしまったが……\nだからこそ、\n残り二つの願いは間違えたくない。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So, even Morigami-sama thinks this would work better.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "森神さまにとっても、\nこっちの方がいいって思える変更だったんだね。"
+    },
+    {
+      "name": "Morigami",
+      "text": "I might not be able to see the future, but even still I have the responsibility to resolve this situation. That's why I'll increase our chance of success even if it's only a small amount.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "わしには未来は見えん。\nそれでも、\nこの事態を収拾する責任がある。\nだから、\n少しでも可能性が高まる決断をしたのじゃ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Saying that with such a smug face, wasn't this all your fault to begin with?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ドヤ顔で言ってますけど、\nそもそもおまえのせいですよね？"
+    },
+    {
+      "name": "Morigami",
+      "text": "You... I have something to say for you! Isn't this your fault too for making such an outrageous wish!? This would've never happened if you had just been more humble and asked for something easier to understand!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "あのさぁ、\nじゃあわしも言わせてもらうけどさぁ！\nお主だってしょーもない願い事しやがって、\nなんなの！？\nもっと謙虚で分かりやすいこと願ってたら\nこうはならんかったじゃろ！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Stooooop!!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "スト～\nップ！！"
+    },
+    {
+      "name": "Inori & Morigami",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "イノリ・森神",
+      "orig_text": "はい！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "...I understand how everyone feels now. I was wrong!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "……みんなの気持ち、\n分かったよ。\n私、\n間違ってた！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It's normal to not know the future! And that's why I'll believe in everyone that we'll definitely succeed! \nThat much will definitely come true!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "未来なんて、\n分かんないのが普通だし！\nだからみんなの力を信じて、\n絶対に成功させる！\nそれが一番いいに決まってるよね！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Of course.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "もちろん。"
+    },
+    {
+      "name": "Inori",
+      "text": "That should be obvious!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "当ったり前じゃねーですか！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Morigami-sama, let's go with the plan you said earlier. Together with him, we'll definitely stop the meteor fragments!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "森神さま。\nさっき言った作戦で大丈夫だよ。\n彼と一緒に、\n絶対破片は止めるから！"
+    },
+    {
+      "name": "Morigami",
+      "text": "Nice! It's about time, I'll turn the dragon-folk girl into a giant first.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ！\nそろそろ時間じゃ、\nまずはドラゴン族の小娘を巨大化させるぞ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmph, finally! I wonder how it feels to be a giant? \nDo you have some cool pose to use?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふん、\nやっとですね！\nそれで、\nどんな感じで巨大化するんです？\nなんか\nカッコイイポーズとかいりますかね？"
+    },
+    {
+      "name": "Morigami",
+      "text": "None. Morigami Beaaaaam!!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "いらん。\n森神ビィィィム！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Byaaaaaaaaaah!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "びゃあああああああああ！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Is that really how you're supposed to grant her power!? Doesn't this look more like you're torturing her!?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "力を与えるってそういう感じなのか！？\n拷問されてるようにしか見えないんだが！？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Don't worry, I'm certain that I granted it. \nJust look at her.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "安心せよ、\n今回は正しく叶えたぞ。\n見よ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Ohh～!? This is amazing, I really am huge now! Ha～hahaha! \nLook at me! Even passersby look like ants from here!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おぉ～！？\nすげーですよ、\n本当に巨大化できました！\nはーっはっはっは！　\n見るです！　\n通行人がゴミのようですよ！"
+    },
+    {
+      "name": "Male",
+      "text": "W-what is that!? They sure are going all out for new years～!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "な、\nなんだあれ！？\n今年の年末は\nずいぶん派手な催しがあるんだな～！"
+    },
+    {
+      "name": "Woman",
+      "text": "It's quite an elaborate contraption.\nIt moves just like the real thing...",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "ずいぶん凝ったつくりね。\nまるで生きてるみたいに動くし……"
+    },
+    {
+      "name": "Morigami",
+      "text": "It made a small commotion but that couldn't be helped. \nNext up is you, boy.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "少々騒ぎになってしまったが、\n背に腹は代えられん。\n次は少年、\nお主じゃな。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Don't make such a scared face, you're not gonna die from this. Well～ Just a little～ ...Well it actually hurts a bit more than that.\nY'know, it's kinda like growing pains.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そう怯えたような顔をするな、\n死にはせん。\nちょっと～、\nまぁまぁ～……\n実はそれなり以上に痛いけど。\nほれ、\n成長痛みたいなものじゃ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Then, Morigami Beaaaaam!!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "では、\n森神ビィィィム！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Assistant-kun!?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "助手くーん！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Are you okay!? I never heard you screaming like that before, you're alive right!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "大丈夫！？\n今まで聞いたことない声出てたけど、\nちゃんと生きてる！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "T-Thankfully, you seem okay...? Do you feel any different?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "よ、\nよかった、\n大丈夫なんだね……？\nなにか\n変わった感じとかする？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Both you and that giant girl will return to normal after you've destroyed the meteor. I can't prevent that from happening either so it's guaranteed.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "小娘の巨大化も、\n少年に与えた力も、\n隕石が破壊できたら元に戻るようにしておいた。\n後から取り消し、\nは無理じゃからの。"
+    },
+    {
+      "name": "Morigami",
+      "text": "...I'm really sorry, but that's all I can do. \nThe rest is up to you guys.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "……本当に申し訳ないが、\nわしにできるのはここまでなのじゃ。\nあとは頼んだぞ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Leave it to us! We'll protect Landosol!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "任せて！\nランドソルは、\n私たちが守るから！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Alright, let's get in position. Prepare for the meteors!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "よし、\n私たちも配置につこう。\n隕石に備えるんだ！"
+    }
+  ]
+}

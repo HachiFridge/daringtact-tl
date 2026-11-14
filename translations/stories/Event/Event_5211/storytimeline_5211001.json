@@ -1,0 +1,943 @@
+{
+  "title": "Proactive Date Plan",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Misora and Yui continue preparations for Yui's date with {0}. First, they decide to hold a little strategy meeting, but...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}とのデートに向け、\n準備を進めるミソラとユイ。\n二人はまず作戦会議をすることに決めたのだが……"
+    },
+    {
+      "name": "Misora",
+      "text": "First, just to check... do you think you can invite Knight-san in a natural way?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まず確認なんですけど、\n騎士さんのこと、\nいいカンジに誘えそうですか？"
+    },
+    {
+      "name": "Yui",
+      "text": "Umm... I guess I'll try my best...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えーっと……\n……\n頑張っては\nみるつもり……"
+    },
+    {
+      "name": "Misora",
+      "text": "Well, Knight-san... he can be pretty dense at times. But... if you can't even ask him out, nothing will happen, you know?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まぁ\n騎士さんって\nカンジンなところで鈍感ですもんね。\nでも、\nデートに誘えなきゃ\n何も始まんないですよ？"
+    },
+    {
+      "name": "Yui",
+      "text": "I know that...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "それはそうなんだけど～……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yui...? What are you doing here?! Wait, you! Aren't you Misora?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ユイ？\nなんでこんなとこに──\nって！\nおまえ、\nミソラじゃねーか！"
+    },
+    {
+      "name": "Yui",
+      "text": "Makoto-chan!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "マコトちゃん！"
+    },
+    {
+      "name": "Misora",
+      "text": "Hellooo★ Umm... am I intruding?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "こんにちは★\nんー\nっと、\nお邪魔してます？"
+    },
+    {
+      "name": "Makoto",
+      "text": "\"Am I intruding?\" -- don't give me that! Why the hell are you with Yui...? Don't tell me you're plotting something again?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お邪魔してます？　\nじゃねーよ！\nなんだっておまえがユイと一緒に……\nまさか、\nまたなんか企んでるのか？"
+    },
+    {
+      "name": "Misora",
+      "text": "Nope! The two of us... we're working out a date plan★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "違いますよー\nわたしたち、\nデート計画を練ってるんです★"
+    },
+    {
+      "name": "Makoto",
+      "text": "A date plan? That makes it even weirder! What kind of messed-up combo IS this?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "デート計画？\nなら余計おかしいだろ！　\nどんな組み合わせだよこれ！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Umm, you see, Makoto-chan! The truth is... A lot has happened...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あのね、\nマコトちゃん！\nその……\n本当のことなの。\nいろいろあって……"
+    },
+    {
+      "name": "Makoto",
+      "text": "You're kidding me...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "マジか……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yup★ For starters, I'm a Christmas fairy right now... or was I an angel? Huh. Well, something like that -- so don't worry★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そうですよー？　\n第一、\n今のわたしはクリスマスの妖精で……\nあれ？　\n天使でしたっけ？\nまぁそんな感じなんで、\n安心してください★"
+    },
+    {
+      "name": "Makoto",
+      "text": "At least get your own backstory straight... Whatever. Angel, fairy, whatever you are, if you're so confident, show me an example.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "設定くらいちゃんとしろよ……\nまぁいいぜ。\n天使だか妖精だか知らねえけど\nそんなに言うなら、\nお手本を見せてくれよ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Huh? An example?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "え？　\nお手本ですか？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yeah. Show me you're actually serious about helping her, prove it.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そうだよ。\nおまえが本当に相談に乗る気があるのか、\n実際に見せてみろ\nってこと。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Giving advice isn't the same as messing around. Do you even get that?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "大体相談ってのは茶化すのと違うんだぞ。\nおまえ、\nそのへん本当にわかってんのか？"
+    },
+    {
+      "name": "Misora",
+      "text": "I think I understand what you're trying to say, but... If that's the case, then let's try thinking up a date plan★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "一応わかってるつもりなんですけどねー……\nそういうことなら、\n試しにデートプランでも考えてみましょうか★"
+    },
+    {
+      "name": "Misora",
+      "text": "First, the way you invite him. If it were me, I'd just snatch him up right from the start★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まず\n誘い方なんですけど、\nわたしなら初手で拉致っちゃいますね★"
+    },
+    {
+      "name": "Makoto",
+      "text": "Great, first suggestion and it's already useless...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "初手から参考になんねえのきたな……"
+    },
+    {
+      "name": "Misora",
+      "text": "Now, now, being bold is important★ And you need the right amount of surprise too, you know?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まぁまぁ、\n強引にいくのが大事\nってことで★\nそれに、\n適度なサプライズも必要ですよ？"
+    },
+    {
+      "name": "ミソラ",
+      "text": "ってことで、\nみんなの知らない町で二人きり★\n夫婦みたいに仲良くデート……\nできたらいいんですけど。\nでも\nそれだけだと\nドキドキしづらいですよねー",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ってことで、\nみんなの知らない町で二人きり★\n夫婦みたいに仲良くデート……\nできたらいいんですけど。\nでも\nそれだけだと\nドキドキしづらいですよねー"
+    },
+    {
+      "name": "Misora",
+      "text": "Therefore! To make you conscious of each other on the date, we need... an \"happening\"★ Like, say...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ってことで、\nデートでお互いを意識するためには\nハプニングを起こしましょう★\n例えば……"
+    },
+    {
+      "name": "Misora",
+      "text": "Kyah★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "きゃっ★"
+    },
+    {
+      "name": "{0}",
+      "text": "Misora-chan, are you okay?",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "ミソラちゃん、\n大丈夫？"
+    },
+    {
+      "name": "Misora",
+      "text": "I'm fine, thanks to you catching me♥ But, um... the ground around here seems a little unstable... Would it be okay if I stayed holding onto your arm like this?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "騎士さんが抱きとめてくれたおかげで\n平気です♥\nでもぉ、\nこのあたり\n足元がよくないみたいで……\nこのまま、\n腕にくっついてもいいですか？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Something like that★ The sense of distance is key here. Make his heart race with someone else's warmth♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……なーんて★\n大事なのは距離感ですよね。\n自分以外の温もりで\nドキドキさせちゃいましょう♪"
+    },
+    {
+      "name": "Misora",
+      "text": "Alsooo... after grabbing drinks at a café, sit a little closer than usual. An accidental indirect kiss is great too. Really push the advantage★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あとはー\nカフェで飲み物を買った時に、\nいつもよりちょっと近めに座ったりー\n間接キスもいいですね。\nぐいぐいいっちゃいましょう★"
+    },
+    {
+      "name": "Misora",
+      "text": "Do that, little by little, build up the tension and stack those heart-throbs. And once the heat is high enough... go for it. Stay the night together.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そんな感じでジワジワ焦らして、\nドキドキを積み上げて。\nお互いの熱を高めていったところで──\n最後はずばり、\n一泊しちゃいましょう。"
+    },
+    {
+      "name": "Misora",
+      "text": "There's only one bed in the room, of course. It's cold now, so it's better to sleep together so you don't catch a cold★ Riiiight, Knight-san♥",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "部屋のベッドはもちろん一つだけ。\n今は寒い時期ですし、\n一緒に寝たほうが風邪ひかなくていいですよね★\nねー\n騎士さん♥"
+    },
+    {
+      "name": "{0}",
+      "text": "If that's your plan, then I understand.",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "そういうことなら、\n分かったよ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Ehehehe★ Once you've got Knight-san wrapped around your finger, you lean in under the covers and whisper...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふっ★\n──そうやって騎士さんを丸め込んだうえで、\n布団の中で\nこう囁くんです。"
+    },
+    {
+      "name": "Misora",
+      "text": "Hey, Knight-san. Don't you wanna enjoy the rest of tonight... just a little more?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ねぇ、\n騎士さん。\n今日一日、\nもう少し\n楽しみたくないですか？"
+    },
+    {
+      "name": "Misora",
+      "text": "I actually wore this outfit to make you happy. It's all pure and white and cute, but... see? Don't you wanna touch around... here, on my waist?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "実はこの服、\n騎士さんに喜んでほしくて着てきたんです。\nこんなまっしろでかわいい服ですけど──\nほら。\n腰のこのへんとか、\n触ってみたくないです？"
+    },
+    {
+      "name": "Misora",
+      "text": "*Sliiide*...★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "つつー\nって……★"
+    },
+    {
+      "name": "Yui Makoto",
+      "text": "STOP!!!",
+      "choice_data_list": [],
+      "orig_name": "ユイ・マコト",
+      "orig_text": "ストップ！！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hold it, hold it, HOLD IT! This whole direction is NOT okay! In so many ways! And if Yui heard any of this--...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "待て待て待て！\nこの流れはダメだろ！　\nいろいろと！\nつーかこんな話、\nユイが聞いたら……"
+    },
+    {
+      "name": "Yui",
+      "text": "Pshuuuu...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ぷしゅうぅ……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Here, look at that! She's totally blown a fuse! I was an idiot to think you weren't as unhinged as usual...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ほら見ろ！　\nパンクしてんじゃねーか！\n意外とぶっ飛んでねぇなと思ったあたしがバカだったぜ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Eeeh... then, just what kind of date do you think would be appropriate, Makoto-san?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えー\nじゃあ、\nそういうマコトさんはどんなデートがいいと思います？"
+    },
+    {
+      "name": "Makoto",
+      "text": "HUH?! Why do I have to be the one to come up with such a thing?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "はぁ！？\nなんであたしがそんなこと言わなきゃいけねえんだよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "I mean, the original purpose of this meeting was to come up with ideas for Yui-san's date, right? If my plan's no good, then you've gotta show us the correct answer★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "だってこの会はもともと\nユイさんのデートに向けた\n案出しが目的ですし？\nわたしのがダメなら、\nマコトさんから正解を見せてもらわないと★"
+    },
+    {
+      "name": "Yui",
+      "text": "Makoto-chan. Umm... I too... could you tell us?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "マコトちゃん。\nその……\nわたしからも、\nお願いしていいかな？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yui... Fine, I get it! I'll only say it once, so listen carefully!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ユイ……\nわかったよ！\n一回しか言わないから\nよく聞いとけよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "First of all... I'm the one who'd be asking him out on a date. He's not the type to ask anyone out himself.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "まず……\nデートに誘うのはあたしからだ。\nあいつは自分から誘うとかないだろうし。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Then, maybe I'd ask him to go skiing. I-I can't just jump straight into some romantic mood! Gotta have fun first, right?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そんで、\n最初はスキーに誘うかな。\nい、\nいきなりイイ感じの雰囲気になるとか、\nあたしもムリだし……\nまずは楽しまなきゃだろ。"
+    },
+    {
+      "name": "{0}",
+      "text": "Uwaaaaah!?",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "うわあああっ！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Whoa! You fell over in a pretty impressive way... Are you okay?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "うわっ！？\nおまえ\n派手に転んだな……\n大丈夫か？"
+    },
+    {
+      "name": "{0}",
+      "text": "Yeah. Turns out skiing is pretty fast.",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "うん。\nスキーってすごく速いんだね。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Isn't that obvious? This area has a fair amount of slope... But that makes it a hidden gem where you can enjoy skiing with ease.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "当たり前だろ。\nこのあたりはそれなりに傾斜もあるし……\nでも、\nそのぶん気持ちよく滑れるって穴場なんだ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Well, don't worry. As long as I'm with you, you'll be able to master skiing in no time.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "まぁ安心しろよ。\nあたしが一緒なら、\nおまえもすぐ滑れるようになるからさ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "...So like that, I guess we'd hang out together until lunchtime. Then we'd eat the food I made along the way.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……そんな感じで、\n昼くらいまでは普通に遊ぶかな。\n途中で作ってきた飯を食べたりしてさ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Eeeh, a handmade lunch, huh? Would you even go for the \"Aaah\" feeding play?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "へー、\n手作り弁当ですか。\nあーんとかしちゃいます？"
+    },
+    {
+      "name": "Makoto",
+      "text": "HUH?! There's no way I'd do that--...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "はぁ！？\nんなことするわけ──"
+    },
+    {
+      "name": "Makoto",
+      "text": "No, wait... This is supposed to give Yui an idea for her date, so there's no point if I don't give her a push.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "いや、\n待てよ……\nこれはユイのデート案なんだから、\nユイの背中を押さなきゃ意味がねぇ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "In that case, what I should be doing right now...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なら、\n今のあたしが\nすべきなのは……"
+    },
+    {
+      "name": "Makoto",
+      "text": "H-Hey, {0}. I'm pretty confident about these mini hamburgers, but the sauce tends to spill a little easily.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "な、\nなぁ{0}。\nこのミニハンバーグ、\nけっこう自信作なんだけど\nちょっとソースがこぼれやすくってさ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "So... um... I'll feed you! Here, say \"aaah\"...♪",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "だから……\nその。\nあたしが食わせてやるよ！\nほら、\nあーん……♪"
+    },
+    {
+      "name": "Yui",
+      "text": "Makoto-chan?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "マコトちゃん！？"
+    },
+    {
+      "name": "{0}",
+      "text": "Ahhh... Yeah! Those are actually pretty good!",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "あー\nんっ……\nうん！　\nすごくおいしいよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "O-Of course! But... since you're so satisfied, I'll give you another one. Here...♪",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あ、\n当たり前だろ！？\nでも\nそんなにうれしそうに食うなら\nもう一個食わせてやるよ。\nほら……♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "...It's kind of cute, like I'm feeding a chick... Wait wait wait! Why am I excited!? And what's more, to a {0} I made in my imagination!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……なんか、\n雛に餌付けしてるみたいで\nかわいいな……\nって\n待て待て待て！　\nなんであたしがときめいてんだ！？\nしかも、\n想像の中のあいつにっ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "W-Well, that's more or less it! As long as you do a few sweet things and have fun, that's good enough for a date! The end!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ま、\nまあ\nそんな感じで！\nちょっと甘いことしつつ\nお互い楽しめりゃデートは十分だろ！\nおわり！"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm... Makoto-san you're surprisingly pure-hearted★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふぅーん……\nマコトさんって、\n意外と純情なんですね★"
+    },
+    {
+      "name": "Makoto",
+      "text": "SHUT UP!!! Damn it, how did things end up like this...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "うるせえ！！\nくそっ、\nなんであたしがこんなことに……"
+    },
+    {
+      "name": "Yui",
+      "text": "B-But, that was really helpful!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "で、\nでも\nすごく参考になったよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Besides, no matter what we say, it won't do any good if {0} doesn't go along with it.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "つーかそもそも、\nあたしらがあれこれ捏ねたところで\n{0}が付き合ってくれなきゃどうにもならないだろ。"
+    },
+    {
+      "name": "Yui Makoto",
+      "text": "KYAAAAH!?!?\" \"UWAAAAA!!?",
+      "choice_data_list": [],
+      "orig_name": "ユイ・マコト",
+      "orig_text": "「きゃあっ！？！？」\n「うわぁっ！？！？」"
+    },
+    {
+      "name": "Makoto",
+      "text": "Y-You...! Don't just suddenly enter the scene from nowhere!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お、\nおまえ……！\n急に背後から声かけるんじゃねぇよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "It was just a little story, so don't worry about it★ But in a way, it's good timing!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "こっちの話なんで\n気にしないでください★\nでもある意味ナイスタイミングですよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "You see... it seems that Yui-san here has something she wishes to ask you. Would you mind listening to her?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "実は\nユイさんから騎士さんに\nお願いしたいことがあるらしいんです。\n聞いてあげてくれませんか？"
+    },
+    {
+      "name": "Yui",
+      "text": "Misora?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ミソラちゃん！？"
+    },
+    {
+      "name": "Misora",
+      "text": "This is your chance, so we can't just let it go. Let's make sure you get the first move★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "せっかくのチャンスなんですから\n逃しちゃだめですって。\nここは当たって砕けるつもりでいきましょう★"
+    },
+    {
+      "name": "Makoto",
+      "text": "Well, she's true on that... It's quite sudden, but it's enough of a starting point. Go for it, Yui!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "まぁそうだな……\nだいぶいきなりだけど、\nきっかけとしちゃ十分だ。\nやってやれ、\nユイ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Eh?! EHHHHH?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "え、\nえええええ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "U-Umm, well... K-Kishi-kun...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "え、\nええと、\nその……\nき、\n騎士クン……"
+    },
+    {
+      "name": "Yui",
+      "text": "Actually... umm... I wanted you to go out with me...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "実は……\nその……\n付き合って、\nほしくて……"
+    },
+    {
+      "name": "Yui",
+      "text": "Th-That's not it! By going out... I don't mean to any specific place...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "そ、\nそうじゃないの！\n付き合うっていうのは、\n場所じゃなくて……！"
+    },
+    {
+      "name": "Yui",
+      "text": "All I did was ask him to go on a date, but I'm not mentally prepared...! Or rather, those fictional date stories from earlier are making my head spin...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "デートしてくださいって言うだけなのに、\n心の準備が……！\nというか、\nさっきのデートの話が\nぐるぐるして……！"
+    },
+    {
+      "name": "ユイ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Kishi-kun... Yeah, I... I'm in trouble. My heart is beating really hard... and my body is getting hot...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン……\nうん、\nわたし……\n困ってるの。\n胸がすごく、\nドキドキして……\n体が熱くなっちゃって……"
+    },
+    {
+      "name": "Yui",
+      "text": "These feelings won't go away unless I'm with you, Kishi-kun. So... will you... go out with me?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "この気持ちは、\n騎士クンとじゃないと\n収まらないの。\nだから……\n今度、\nわたしと……\nお出かけしてくれる？"
+    },
+    {
+      "name": "Yui",
+      "text": "I-I said something amazing...! But... the way I just phrased it, was it a...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わ、\nわたし\nすごいこと言っちゃった……！\nでも、\nこの言い方なら、\nさすがに……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Eh, ah?! No, that's not it, Kishi-kun! My body is fine! Just, umm... WAIT! KNIGHT-KUUUUN!!!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……えっ、\nあっ！？\nちがっ、\nそうじゃないの騎士クン！\n体は元気なの！　\nただその……\n待って！　\n騎士クン！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Afterwards, Yui and the other two somehow managed to clear up the misunderstanding when {0} tried to take Yui to the hospital in earnest.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その後、\nユイたち３人は\n本気で病院に連れていこうとする{0}に対して\nなんとか誤解を解いたのだった。"
+    },
+    {
+      "name": "Misora",
+      "text": "I suppose we managed to get him to accept to go on a date, but... I'm sorry, Yui-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "なんとかお出かけの約束はできましたけど……\nユイさん、\nごめんなさい。"
+    },
+    {
+      "name": "Yui",
+      "text": "It's okay... Makes sense, you know... By putting it like that, it's no wonder Kishi-kun would react the way he did...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "大丈夫……\nそうだよね、\nあんな言い方したら\n騎士クンなら\nこうなるよね……"
+    },
+    {
+      "name": "Makoto",
+      "text": "B-But you were really bold back there! I think you've seriously grown! Made me feel like I can't just sit back either... so don't worry, okay?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "で、\nでも\nさっきのユイは\nかなり大胆っていうか\n進歩してたと思うぜ！？\nあたしも負けてらんねー\nっていうか……\nだから\n心配するなって、\nな？"
+    },
+    {
+      "name": "Misora",
+      "text": "Exactly. A promise is a promise, no matter how you get there. Now let's hammer out the details★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そうですよ。\nどんな形であっても、\n約束は約束です。\nあとは細かい計画を詰めていきましょう★"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん……！"
+    },
+    {
+      "name": "Yui",
+      "text": "See you later, both of you. Thank you for today!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "二人とも、\nまたね。\n今日はありがとう！"
+    },
+    {
+      "name": "Misora",
+      "text": "Sure, see you tomorrow★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はい、\nまた明日★"
+    },
+    {
+      "name": "Makoto",
+      "text": "Don't worry about what happened today!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "今日のこと、\nあんま気にすんなよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "...Hold it, Misora.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "…………\n待てよ、\nミソラ。"
+    },
+    {
+      "name": "Misora",
+      "text": "...What is it, Makoto-san★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……なんですかー、\nマコトさん★"
+    },
+    {
+      "name": "Makoto",
+      "text": "You're asking why, but you should know.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なんで呼び止められたか、\nおまえならわかってんだろ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Huh? Could it be... are you still suspicious of me?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あれ～？\nもしかしてわたし、\nまだ疑われちゃってます？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Of course I am. I was there when I saw you push Yui into a corner.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "当たり前だろ。\nあたしはおまえらのせいで\nユイが\n追い詰められてたのを見てるからな。"
+    },
+    {
+      "name": "Makoto",
+      "text": "As we talked today, I somehow got the sense that you were trying to do something good. But, if you ask me if that's enough...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "今日喋ってて、\nおまえがいいことをしようとしてるのは\nなんとなくわかったよ。\nでも、\nそれでハイそうですかって言えるかっていうと……"
+    },
+    {
+      "name": "Misora",
+      "text": "Well, I get why you can't trust me. If I were you, Makoto-san, I wouldn't forgive me either.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まぁ、\n信じられない\nってのはわかりますけどねー\nもしわたしがマコトさんだったら、\nわたしのこと\n絶対許せないですもん。"
+    },
+    {
+      "name": "Misora",
+      "text": "*sigh* Yui-san's so lucky... Having such a devoted friend who cares about her so earnestly. She even gets to talk to you about love, huh?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はぁ……\nユイさんはいいですねー\nこんな友だち想いの人が親友で。\n恋の相談とかもできちゃいますし？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "はぁ？"
+    },
+    {
+      "name": "Misora",
+      "text": "So, about Yui-san. You might not believe me, but I really don't have any intentions of doing anything bad this time.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "で、\nユイさんのことなんですけど。\n信じてもらえないかもですけど、\n今回は本当に悪いことをするつもりはないんです。"
+    },
+    {
+      "name": "Misora",
+      "text": "Actually, Yui-san... to be honest, I'm not interested in her anymore.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "っていうか、\nユイさんについては──\n正直、\nもう興味ないんですよね。"
+    },
+    {
+      "name": "Makoto",
+      "text": "...What did you just say?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……なんだって？"
+    },
+    {
+      "name": "Misora",
+      "text": "Me, see...  I actually hoped, just a little, that maybe Yui-san and I could become friends.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わたし、\nですね？\nユイさんとお友だちになれるかな\nって、\nちょっとだけ期待してたんです。"
+    },
+    {
+      "name": "Misora",
+      "text": "But in the end... Yui-san's nothing like me. She doesn't think she's in the wrong at all. And that's when I felt... \"Ah, we're not the same\", you know?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "でも結局──\nユイさんは、\nわたしと違って。\n自分が悪いなんて思わなくって。\nだから、\nなんか違うなー\nって思ったんです。"
+    },
+    {
+      "name": "Misora",
+      "text": "Moreover, Lady Eris is no longer pitiful right now★ So, I don't really care about Yui-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まして今は、\nエリスさまもカワイソウじゃないですしね★\nだから、\nユイさんのことはどうでもいいんです。"
+    },
+    {
+      "name": "Makoto",
+      "text": "If you don't care, why are you still getting involved? Why not just leave Yui alone?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "どうでもいいなら、\nなんでまた関わってるんだよ。\nユイのことなんて放っておけばいいだろ？"
+    },
+    {
+      "name": "Misora",
+      "text": "Normally, I would... but there are circumstances that won't let me just walk away.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "本当ならそうなんですけど、\nそうも言ってられない事情があるんですよねー、\nこれが。"
+    },
+    {
+      "name": "Misora",
+      "text": "Also, also... I personally wanted to play the role of the Cupid of Love. See, doesn't it feel a bit youthful?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あとあと、\n個人的に\n恋のキューピッド\nってやりたかったんですよ。\nほら、\nなんかセイシュン\nって感じしません？"
+    },
+    {
+      "name": "Misora",
+      "text": "Well, I've said a lot of things, but I have no intention of bullying Yui-san so please rest assured★ Even if that's kinda hard for you to believe, Makoto-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "まぁ\nいろいろ言いましたけど、\nユイさんをいぢめるつもりはないですから、\n安心してください★\nマコトさん的には\n難しいかもですけどね。"
+    },
+    {
+      "name": "Makoto",
+      "text": "......Seriously, I can't make any sense of you......",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "…………\nおまえ、\nほんっとよくわかんねぇやつだな……"
+    },
+    {
+      "name": "Makoto",
+      "text": "But, well... If that's how it is, then I understand.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "でも、\nまぁ……\nそういうことなら、\nわかったよ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Huh? Does that mean...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "え？\nそれって……"
+    },
+    {
+      "name": "Makoto",
+      "text": "It means I'll believe you. Ah, but that's not the same as trusting you, okay?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "信じるってことだよ。\nあ、\nでも\n別におまえを信じたわけじゃねえからな？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yui's the one who suffered the most back then, and she says she believes you. In that case, I choose to believe in Yui's decision. That's all.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あのとき一番辛い目に遭ったユイが信じるってんだ。\nなら、\nあたしはそんなユイを信じる。\nそれだけだよ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "But if you do something to Yui, I won't forgive you. If you do anything suspicious, I'm not going to let you get away with it. Remember that.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "でも\nユイになんかしたら承知しねぇし\n不審なことしてたら許さねぇからな。\nそこんとこは覚えとけよ。"
+    },
+    {
+      "name": "Misora",
+      "text": "...Heheh ★ You really are kind, Makoto-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "…………ふふっ★\n本当に優しいんですね、\nマコトさん\nって。"
+    },
+    {
+      "name": "Makoto",
+      "text": "What's that supposed to mean? Are you being sarcastic?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なんだそれ。\n嫌味か？"
+    },
+    {
+      "name": "Misora",
+      "text": "Nothing of the sort. It's just... I can see that you really trust in Yui-san. Is this what they call female friendship?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そんなことないですよー\nただ、\n本当にユイさんのことを信頼してるんだなー\nって。\n女の友情\nってやつですか？"
+    },
+    {
+      "name": "Misora",
+      "text": "Ah, and the next time you might want to flirt with Knight-san, I'll help you out. Of course... without telling Yui-san★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あ、\nもし今度マコトさんが騎士さんとイチャイチャしたくなったら\nお手伝いしてあげますね。\nもちろん、\nユイさんにはナイショで★"
+    },
+    {
+      "name": "Makoto",
+      "text": "Ah, wait a minute, hey! ...Geez. If you know that much and blubber such a thing your personality's even more rotten than I thought, seriously...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あっ、\nちょっと待て、\nおい！\n……ったく。\nわかってて言ってんなら\nなおさら性格悪いだろ、\nあれ……"
+    },
+    {
+      "name": "Narration",
+      "text": "That night──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その夜──"
+    },
+    {
+      "name": "Yui",
+      "text": "You know... Kishi-kun... My heart is beating really hard... and my body is getting hot...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あのね……\n騎士クン……\nわたし、\nなんだかずっと\n体が熱いの……"
+    },
+    {
+      "name": "{0}",
+      "text": "Hold on, Yui. I'll go get a doctor",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "待ってて、\nユイ。\n今お医者さんを呼んでくるから──"
+    },
+    {
+      "name": "Yui",
+      "text": "That's not it... This isn't a cold... It's your fault, Kishi-kun...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "違うの……\nこれは風邪なんかじゃなくて……\n騎士クンのせいなんだよ……？"
+    },
+    {
+      "name": "Yui",
+      "text": "When I think of you, Kishi-kun... my heart starts beating really fast... So, you see... Kishi-kun...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クンのことを想うと\nわたし、\nすごく\nドキドキしちゃって……\nだから、\nね、\n騎士クン……？"
+    },
+    {
+      "name": "Yui",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "～～～～っ……！！"
+    },
+    {
+      "name": "Yui",
+      "text": "...A dream...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "…………夢……？"
+    },
+    {
+      "name": "Yui",
+      "text": "My heart is pounding... What was I planning to do after that...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "胸が、\nドキドキしてる……\nわたし、\nあのあと\n何をするつもりだったんだろう……？"
+    },
+    {
+      "name": "Yui",
+      "text": "Was this... because of Misora's story...? But... I feel like it's not...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "これ、\nミソラちゃんの\n話のせい……？\nでも、\n違う気がする……"
+    },
+    {
+      "name": "Narration",
+      "text": "After some probing, Makoto and Misora ​​reach a temporary agreement. However, behind the scenes, Yui's body was slowly changing.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "探り合いの後、\n一旦の和解に至ったマコトとミソラ。\nしかしその裏で、\nユイの身には少しずつ変化が起きているのだった。"
+    }
+  ]
+}

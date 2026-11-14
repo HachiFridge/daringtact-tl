@@ -1,0 +1,957 @@
+{
+  "title": "Lawless New Year Game",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} learned the truth about the meteor from Morigami. To avoid the meteor from falling to the city, they came to the conclusion of using the remaining 2 wishes to destroy the meteor.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "森神から隕石の真実を知った{0}たち。\n隕石の落下を回避するため、残る二つの願い事を使って、\n隕石を破壊するという対策を導き出した。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Use the wishes to destroy the meteor... You mean to wish for the meteor to be destroyed?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "お願い事を使って隕石を壊すって……\n隕石を壊してくださいってお願いするってこと？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "If we could wish for that, then the discussion would be over by now. But the fact that it hasn't been suggested until now, would mean that asking for it directly wouldn't work, right?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "それで大丈夫なら話は早いんだけど。\n今まで提案をしてこなかったってことは、\nストレートにお願いしても効果はないんだろう。\n違うかい？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "In Inori-kun's case, what she wished for was an \"Otoshidama\".",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "イノリくんのケースでもそうだけれど、\n彼女が願ったのは\n「お年玉が欲しい」だ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Even though the wish was misunderstood, the \"Otoshidama\" itself was still granted. If only it was a straightforward wish like \"I want to become rich\"...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "その願いは曲解されてしまったが、\n具体的に\n『落とし玉』が叶えられることになった。\nきっと、\nただ漠然とした\n「お金持ちになりたい」\nという願いだったら……"
+    },
+    {
+      "name": "Morigami",
+      "text": "That's right, there are wishes I couldn't grant. I can't grant a wish like \"I want tests to be gone from this world\" but I could grant \"I want reference books to study\".",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そうじゃの。\n叶えることはできなかったじゃろうな。\n「この世からテストをなくしてほしい」は叶えられぬが、\n「勉強のための参考書がほしい」は叶えてやることができる。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I see. Then in this case... How would you destroy the meteor? With a cannon? With some magic spells? Is suggesting the method ourselves off the table too?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "なるほど。\n今回のケースなら、\nどう隕石を破壊するのか……\n大砲とか、\n魔法とか、\n具体的な手段を提案しないとダメってことかな？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yeah, otherwise someone will use my wishes to curse someone. My wishes should only be used to help the people's misfortune, pain and suffering.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そうしないと、\n誰かを呪ってくれとか言い出すヤツが出てくるからの。\nわしの願いは、\n誰かの不幸や悩み、\n苦しみを癒すために\n使われるべきなのじゃ。"
+    },
+    {
+      "name": "Inori",
+      "text": "I don't even know which of those I want to retort at...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……で、\nどこからツッコめばいいんです？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "At least because of that, we don't have to worry about those cases... Now that we've understood the basic rules, let's think about what we'll wish for.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "結果論ではあるが、\n確かにそういったものから解放はされるね……\nとにかく、\n基本的なルールも分かったし、\n何を願うか考えていこう。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Morigami-sama has enough power to summon a meteor in the first place, so couldn't she summon something as strong as that?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "森神さまは隕石呼べるくらい強い力を持ってるんだから、\n同じくらい強い何かを用意してもらえれば\n何とかなりそうじゃない？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Wait, wait, don't just assume I can. I don't have much power left for the remaining wishes...\nSummoning that meteor took a lot out of me after all.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "待て待て、\n焦るでない。\n残りの願いを叶えるには、\nちと力が足りておらぬ……\n隕石を呼ぶために、\nちょっとばかり無理をしたからの。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Is that so... And how do you regain your power?\nDo you just eat a lot?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そうなんだ……\n力を取り戻すには、\nどうしたらいいのかな？\nご飯をたくさん食べるとか？"
+    },
+    {
+      "name": "Morigami",
+      "text": "No, I need a ritual...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "否、\n信仰の儀式が必要じゃ……"
+    },
+    {
+      "name": "Inori",
+      "text": "D-Don't tell me that you need a sacrifice...!? I'm not delicious so find another person to sacrifice!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ま、\nまさか\n生贄を寄越せとか言わないですよね……！？\nあたしはおいしくないから、\n他のヤツにするですよ！！"
+    },
+    {
+      "name": "Morigami",
+      "text": "Don't mimic me like that! What I want is the power of faith.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そんな真似はせんわい！\nわしが欲しいのは\n信仰の力。\n儀式の力。\n人々と共に\n楽しく正月を迎えるため、\n厳かな準備が必要なのじゃ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "So why don't you gather people? If I can receive faiths, I promise that I'll be able to grant your wishes.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "というわけで、\n人を集めてくれぬか。\n信仰さえ取り戻せれば、\n必ず願いを叶えると約束しよう。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Umm... What are we being gathered here for...? It was explained, but I still don't quite understand.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あの……\nこれって\n何の集まりなんですか……？\n説明は聞いたけど……\nまだ\nちょっと理解が追い付かなくて。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I was stopped on my way home from eating lunch with Misato... Honestly, this is an unbelievable situation.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ミサトとお昼を食べた帰りに\n呼び止められて来てはみたけど……\n正直、\nにわかには信じがたい状況ね。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Hmm, are these people going to be fine? They look far from being able to do a solemn ritual...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "いや、\nあの、\n大丈夫かこの面子？\n厳かな儀式と信仰には程遠そうなんじゃが……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Kus, kus... Do not worry. Of course I understand that we'll need to do this ritual in order to help this lady out.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "クスクスクス……\nご心配なく。\nこのおかたを救うための儀式であることは、\nもちろん把握していますわ……"
+    },
+    {
+      "name": "Eriko",
+      "text": "And that this small kid is what's causing all of this. I am still thinking about how she should take responsibility.\nKus, kus... Kus, kus...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "この小さいのが全ての元凶だということも含めて。\nどう責任を取らせるべきか……\nそれはまだ思案中ですが。\nクスクス……\nクスクスクス。"
+    },
+    {
+      "name": "Morigami",
+      "text": "...Well, about that... I've reflected on what I've done so could you please put that axe away?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "……いや、\nその。\n反省はしておりますので、\n斧はしまっていただけますでしょうか。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Well then, we've finished the introduction and got closer with each other. Morigami-sama, can you explain the ritual we are going to do?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\n顔合わせも済んで親睦も深まったことだし。\n森神さま、\n儀式って何をすればいいのか教えてくれる？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Humu, let me explain. The new year ritual to restore my power... is this!!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ、\n説明しよう。\nわしの力を復活させる、\n正月の儀式とは……\nこれじゃあ！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "This is... games?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "これは……\nおもちゃ？"
+    },
+    {
+      "name": "Inori",
+      "text": "Badmintons, Cards, Board Games...\nThese are all new year games.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "羽子板、\nカルタ、\nすごろく……\n全部正月に関係のある遊びですね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So, the ritual is playing with these?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "もしかして、\nこれで遊ぶのが儀式ってこと？"
+    },
+    {
+      "name": "Morigami",
+      "text": "That's correct! Rejoice over the arrival of new year with new year games, deepen your bond between believers, and renew your faith on me.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そうじゃ！\nお正月の遊びを通じて\n新年の到来を喜び、\n信者同士で親睦を深め、\nわしへの信仰の気持ちを新たにする。"
+    },
+    {
+      "name": "Morigami",
+      "text": "That is Morigami's New Year Ritual! Even if no one is playing it, don't you think something like this should be the norm?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "それこそが、\n森神流正月の儀式なのじゃ！\n誰も遊んでくれないからって、\n神様権限で義務化したわけじゃないぞ？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "That sounds like a really fun ritual～♪ \nI thought it'd be much more troublesome.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "本当に楽しそうな儀式でよかった～♪\nもっと大変そうなイメージだったよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "If you can win or lose in it, then I'll give my all at it.\nWinning is fun after all!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "どれも勝ち負けがある遊びみたいなんで、\n本気でやるしかねーですね。\n負けるのはつまんねーですからね！"
+    },
+    {
+      "name": "Morigami",
+      "text": "Glad to see someone's excited! Each of the games will require considerable physical strength so split into groups and increase your faith!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "やる気があってよろしい！\nどの遊びもなかなか体力を使うゆえ、\n手分けして遊びまくり、\n信仰心を高めていくのじゃ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Fufu, are we going to compete with Badminton? It's advantageous for young people like me, are you sure you're fine with that?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふふん、\nあたしたちは羽根つきで勝負ですか。\n若くて運動神経がいい方が有利ですけど\n大丈夫です？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Ara～ Thank you for worrying about me ♪ \n...But you won't keep that smile again after this match.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あら～、\n心配してくれて\nありがとう♪\n……\n二度と笑顔で羽根つきできないようにしてあげるわ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It's fine to be excited over the match but please don't turn this into a fight!? This is a peaceful match!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "盛り上がるのはいいけど、\nケンカはダメだよ！？\n平和的に\n本気の勝負だよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Let me throw one first, fear this... Oraa!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "まずは一発かまして、\nビビらせてやりますよ……\nおりゃあ！！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Kyaa!? What is this fearsome power and speed...? As expected from the dragon race, even if we do our best there's no chance of surpassing that.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "きゃあっ！？\nなんてパワーとスピードなの……？\nさすがはドラゴン族、\nまともにやっても勝ち目はないわね。"
+    },
+    {
+      "name": "Inori",
+      "text": "Fufun, have you finally understand how amazing Inori-sama is? It's fine to give up and change with someone else you know?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふふん、\nイノリさまの恐ろしさが分かったですか？\n降参して、他の人と交代してもいいですよ？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I refuse, I have a trump card myself! With this secret anti-aging drug I've been researching... Ku, ku...!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "お断りね、\nこちらも奥の手を使わせてもらうわ！\nアンチエイジングのために研究していたこの秘薬で……\nん\nく、\nんく……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Haaaaaaa～!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "はああああああああ～！！"
+    },
+    {
+      "name": "Inori",
+      "text": "D-Doping should be considering cheating, no!? Her body is clearly releasing an abnormal amount of aura for a human!?\nUh, is it too late to apologize...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ド、\nドーピングはずるくないですか！？\n明らかに人間が放っちゃダメなオーラが体から湧き出てるですよ！？\nあの、\n今からでも謝ったら許してもらえ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "With this, my muscle and skin has been improved beyond what's normal. I will verify how effective it really is on you...!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "これで\n筋力とお肌のツヤは人並み以上に向上したはず。\n効果がどれほどのものか、\nあなたで検証してあげるわ……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Eat this, Bloody Rose Strike!!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "食らいなさい、\nブラッディローズ・ストライク！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Piiii!? ...Nothing came? What happened?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴぃ\nっ！？\n……\nあれ、\n何も飛んでこない？　\nどうしたです？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "...This medicine might be able to increase your muscle strength... but the joints can't keep up...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……\nこの薬、\n筋力は強化できるけど……\n関節のフォローは\n忘れてたわ……"
+    },
+    {
+      "name": "Inori",
+      "text": "Could it be you're having shoulder and back pains? If you withdraw, then I win by default!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "もしかして、\n肩とか腰とか痛めたですか？\n棄権するなら\nあたしの勝ちですね！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "It hurts so much to even move a bit...! My bag has a compress, please somebody get it～!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ちょっとでも動くと、\nものすごく痛い……！\n私のバッグに湿布が入ってるから、\n誰か取って～！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "That's why, Mitsuki-sensei is now resting under the tree! With one match finished now, are you feeling your power returning?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "というわけで、\nミツキ先生には木陰で休んでもらいました！\n森神さま、\n一つ遊びが終わったけど\n力は戻ってきた？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Although it's faint, I can feel it having an effect on me.\nJust keep going at it like this!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "かすかではあるが、\n手ごたえは感じておる。\nこの調子で\nどんどんやってくれ！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Now it's me and Kasumi-san's turn. We're playing cards, is it... I won't be holding back... Kus, kus...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "今度は私とカスミさんの番ですね。\n遊ぶのは\nカルタですか……\n手加減しませんわ……\nクスクス。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I've heard quite the rumors about you, so I wanted to play something calm where you wouldn't be able to move so much...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "君には\nあまり体を動かさない\n穏やかな遊びに参加してほしくてね。\nいろいろと評判は聞いているもので……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Kus, kus... you don't have to be on guard so much. Kasumi-san intrigues me so I wanted to talk and get along with each other.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "クスクス……\nそんなに警戒しなくても大丈夫ですよ。\nカスミさんに興味があって、\n仲良くお話しをしてみたかったですから。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Eh, is that so? I'm surprised you thought of me that way... If you're fine with me, you can ask this detective anything while we're playing.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "えっ、\nそうなのかい？\nエリコさんからそんなふうに思われてたなんて\n意外だな……\n遊びながらでよければ、\nなんでもこの探偵に聞いてくれたまえ。"
+    },
+    {
+      "name": "Eriko",
+      "text": "Then, I won't hesitate to ask... You seem to be close with that person, what do you usually do when you're together?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "では、\n遠慮なく。\n……\nずいぶん、\nあのおかたと仲がよろしいようですが。\n普段ご一緒されてるときに、\nどんなことをしてらっしゃるのかと。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Let's stop the idle talk there! Someone will read the cards soon, anytime now!!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "よし、\n雑談はやめて集中しよう！\n誰か読み札を読んでくれないか、\n一刻も早く！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then Hatsune-chan will do it!\nMorigami-sama, can we use these cards?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\nハツネちゃんがやります！\n森神さま、\nこれが読み札でいいのかな？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yes! I like those cards in particular, they reflect the players memories on the cards themself.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ！\nそのカルタは特に気に入っておってな、\nなんと\n参加者の思い出が絵札と読み札に反映されるのじゃ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "You'll be able to look back on your past while playing and you can also set goals for the new year. I used my power to perform tricks like that.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "遊びながら過去を振り返ることで、\n新年の目標も立てられるように。\nわしの力でそういう細工を施したのじゃよ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then this time it'll be Kasumin and Eriko-chan's memories turned into cards. That sounds interesting, Hatsune-chan will read it enthusiastically～☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "じゃあ、今回は\nカスミンとエリコちゃんの思い出が\nカルタの札になってるってことだね。\nなんだか面白そうだし、\nハツネちゃんも気合入れて読むのだ～☆"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Wait, I have a bad feeling about this...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "待ってくれ、\nイヤな予感が……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then, the first one! Misty, Theory, Truly! Magical...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\n一枚目！\nミスティ、\nセオリー、\nトゥルーリィ！\nマジカルリボ……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Got it!!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "はぁぁぁい！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Kasumin was so fast!? Won't Eriko-chan get hurt if you use that much strength?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "カスミン、すごい勢いでいったね！？\nそんなに力いっぱいやったら、\nエリコちゃんがケガしちゃうよ？"
+    },
+    {
+      "name": "Eriko",
+      "text": "That's no problem for me... Kus, kus...\nI won't let you take the next one...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "あれくらいなら問題ありませんわ……\nクスクス。\nさぁ、\n次は取らせませんよ……？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then I'll read the second verse～☆\nEven if you insert scissors in your body!! What a...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\n二枚目を読み上げるのだ～☆\n仮にもあなた様の体の一部にハサミを入れるなんて！！\nなんと背徳的な……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Hmph!!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ふぅん！！"
+    },
+    {
+      "name": "Kasumi & Hatsune",
+      "text": "...Ehh.",
+      "choice_data_list": [],
+      "orig_name": "カスミ・ハツネ",
+      "orig_text": "……えぇ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Uhh, there's a hole where the card was placed...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "あの。\nさっきまで絵札があったところに、\n穴が開いておるんじゃが。"
+    },
+    {
+      "name": "Eriko",
+      "text": "I miscalculated my power... Kus, kus♪ The card itself is gone so let's consider it as invalid.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "力加減を間違えましたわ……\nクスクスクス♪\n絵札自体がなくなってしまったので、\n今のは無効といたしましょう。"
+    },
+    {
+      "name": "Morigami",
+      "text": "I wonder how this'd end...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "終わる頃にはどうなってしまうんじゃ、\nわしのカルタ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "That just means both of them are excited over the match! Although shouldn't they take better care of the cards?\nI won't think much and continue reading～",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それだけ二人とも、\n真剣にやってるってことだよね！\nでも道具は大切に使ってほしいかな？\n気を取り直して、どんどん読むよ～"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Capturing criminals with the power of love ☆\n──Misty...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "愛の力で犯人確保☆\n──ミスティラッ……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hyaaaah!!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "せぇぇぇい！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Even though we're tied by fate, to do these before marriage! What an audacious...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "運命で結ばれているとはいっても、\n私は結婚前！\nそんな大胆なことは……"
+    },
+    {
+      "name": "Eriko",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Inori",
+      "text": "...I give up on Cards.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……カルタの札は、もう諦めるですよ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yes.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "はい。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So the result is 23 points for Kasumin and 0 points for Eriko-chan... Kasumin wins～☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "というわけで結果は、\nカスミン23枚、\nエリコちゃん０枚……\nカスミンの勝ち～☆"
+    },
+    {
+      "name": "Kasumi & Eriko",
+      "text": "Hah...",
+      "choice_data_list": [],
+      "orig_name": "カスミ・エリコ",
+      "orig_text": "はぁ……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Uhh, aren't you two a bit too exhausted from that? But I suppose it was such a close match that we lost half the cards.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっと、\n二人とも？\nなんかぐったりし過ぎじゃない？\n確かに、カルタの枚数が半分になっちゃうくらい激戦だったけど。"
+    },
+    {
+      "name": "Inori",
+      "text": "Or rather, isn't the axe woman just too motivated!? She didn't get a single point because the card turned into dust everytime!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "というか、\n斧女の方はやる気あったんですか！？\n毎回絵札を塵に変えるせいで\n一枚も取れてなかったですよ！"
+    },
+    {
+      "name": "Eriko",
+      "text": "My time together with that person is for me alone. I can't stand how that game is intruding my private affairs...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "あのおかたと二人きりで過ごした時間は、\n私だけのものですわ。\n玩具如きに、\n土足で踏み入られるのは我慢ならなくて……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I felt like every secret I had was going to be exposed. Isn't this a huge design flaw?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ありとあらゆる秘密を暴露されそうになったよ。\n設計ミスじゃないのか、\nこれは？"
+    },
+    {
+      "name": "Morigami",
+      "text": "About that, I deeply apologize. But because of that match that was taken way too seriously, I'm only one step away from regaining my power!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "その、\nなんじゃろ、\nごめんなさい。\nでも\n必要を上回る真剣勝負をしてくれたおかげで、\nかつての力を取り戻すまで\nあと一歩じゃ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then for the last match, it's me, Shiorin, and you playing board games! It's been a long time since we last play together like this～",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\n最後は私、\nシオリン、\nキミの３人ですごろくだね！\nこういう遊びをするのって、\nすごく久しぶりな気がするよ～"
+    },
+    {
+      "name": "Shiori",
+      "text": "We played together when we were much younger, but now we live in different places.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "二人とも\n小さいころならやってたけど、\n今はお互い、\n別々のところに住んでるしね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It's rare we get to play together, so let's enjoy it as much as we can! Morigami-sama, does this game have a special device too?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "せっかくだから、\n思いっきり楽しんじゃおう！\n森神さま、\nこれには特に仕掛けはないの？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Of course! Each of the tiles has an event that I've personally thought of. When you reach these squares, you'll have to do what's written on it!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "もちろんあるぞ！\nすごろくの各マスには\nわしが考えたイベントが記されておる。\n駒をそこへ進めたら、\n書いてあるとおりにせねばならんのじゃ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "That, sounds fun...♪ I'll try my best to get first place.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "なんだか、\n楽しそう……♪\n一番を目指して、\n頑張ってみるね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah. I'll play this seriously so don't go easy on me, ok? Now then, Hatsune-chan will start first!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん、\n真剣勝負だから、\n手加減しないよ～？\nそれじゃあまずは、\nハツネちゃんからスタート！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Shake the dice... I got a 4!\n1, 2, 3, 4... What's written here...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "サイコロを振って……\n四！\nいち、\nに、\nさん、\nよん……\nなになに……？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hold hands while cuddling together with the person on your right...? Ehh, but the person on my right is...!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "右隣の人と指を絡めながら肩を寄せ合う……\nえぇっ！？\n私の右隣って……！"
+    },
+    {
+      "name": "Shiori",
+      "text": "It's him... That means...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あなた、\nですね……\nつまり……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I can't do it! I'm too embarassed to do that... Hyaa!? M-My hands are...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ムリムリ、\n恥ずかしくってできるわけ……\nひゃあっ！？\nか、\n勝手に手が……"
+    },
+    {
+      "name": "Morigami",
+      "text": "How is it? we created a lot of lovey-dovey event boxes for my followers to get closer to each other! Also, it'll force you to do it so you have to do it.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "どうじゃ、\n信者同士が儀式を通して仲良くできるよう、\nラブラブなイベントマスを盛沢山で作ってあるぞ！\nちなみにズルできぬよう、\n強制力も持たせてある。"
+    },
+    {
+      "name": "Inori",
+      "text": "I can only see this ending in disaster.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "今のところ、\n修羅場になる未来しか見えねーですよ？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It's already looking heated even from the first tile～!\nWhy do you look so content with this!? Are you okay with this?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "一マス目から、沸騰しちゃいそうだよ～！\nキミはどうして平気そうにしてるの！？\n嫌だったりしない？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ah, I see... Ehehe♪ Then... is it fine if I stay like this for a bit longer? Holding your hand like this, it's quite hot...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あっ、\nうん、\nそっか……\nえへへ♪\nそれじゃあもうちょっと、\nその……\nぎゅってしてもいい？\nキミの手を握ってると、\nなんだかほっとするし……"
+    },
+    {
+      "name": "Shiori",
+      "text": "I'm next. I'll roll the dice... Six... Press your cheeks with the person on your left...!? Uuu, but that's...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "次は私ですね。\n私もサイコロを振って……\n六だから……\n左隣の人と、\nほっぺたをくっつける……！？\nうぅ、\n左隣は……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's me.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私だ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Eh? I don't think Kasumi-san is supposed to be part of the game? Why are you here...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あれ？\nカスミさん、\nすごろく担当じゃなかったですよね？\nどうしてそこに……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Well even though playing cards made me sick to my stomach, Shiori-san's group seems to be enjoying your games...!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "こっちはカルタで胃に穴があくような思いをしたっていうのに、\nシオリさんたちはずいぶん楽しそうだと思ってね……！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Such a convenient setup, or rather it's so difficult that I should be the one dealing with it!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "こんな都合のいい、\nもとい\n困難を極めるすごろくは、\n私こそが対処するべきですわ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I can't stay down myself...! This is, a marriage tile isn't it... isn't it!?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "私も、\n黙ってみていられないわ……！\nこれ、多分\n結婚マスとかもあるのよね……\nあるわよね！？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Good to see everyone is excited～!\nThat's good, collect more faith for me～! Looks like everyone \nwill participate on this game, look even the dragon girl is joining!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "みんなやる気満々じゃの～！\nいいぞ～、\n信仰心が集まってくるぞ～！\nこのまま全員参加してしまえ！　\nほれ、\nドラゴン族の娘もじゃ！"
+    },
+    {
+      "name": "Inori",
+      "text": "I-I'll decline on that offer. If I step on one of the weird event tiles, the others would use it to gang up on me... Especially that axe lady, she wouldn't overlook it——",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "あ、\nあたしは遠慮しておくですよ。\n変なマス踏んだら、\n他の参加者に袋叩きにされそうですから。\n特に斧女は\n絶対見逃してくれそうにねーです。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Alright, a lap pillow tile! On... Mitsuki-san...!?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "よし、\n膝枕マス！\n対象は……\nミツキさん……！？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Excuse me, what're you dissatisfied with my lap pillow!? I'm... Nice! It's the marriage tile! Two people who love one another will exchange rings...!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "失礼ね、\n私の膝枕の何が不満だっていうの！？\n私は……\nやったわ、\n結婚マスよ！\n愛し合う二人で、\n指輪を交換しあう……！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Uhh, but your partner is Eriko-san.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あの、\nでも。\n結婚相手、\nエリコさんになってますけど。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Eh.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "え゛っ。"
+    },
+    {
+      "name": "Eriko",
+      "text": "Even if you can't find a partner, to turn to your guildmate is a bit...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "いくらお相手が見つからないからって、\nギルドの仲間を道連れにするのはどうなんですか……？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I feel like something crazy just happened...!?\nNext is my turn again...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "な、\nなんかすごいことになってきちゃった……！？\n次はまた私の番だけど……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Nice, have a drink together with you!\nThis kinda looks like a date... Ehehe♪",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん、\nキミと一緒にドリンクを飲む、\nだって！\nなんだかデートみたいだね……\nえへへ♪"
+    },
+    {
+      "name": "The Three",
+      "text": "Unfair!!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "ずるい！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Ha——hahaha, what a well made board game. The people with an ulterior motive are getting their just punishment.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はーっはっはっは、\nよくできたすごろくですよ。\n下心のあるヤツには、ちゃんとバチが当たるようになってやがるです。"
+    },
+    {
+      "name": "Shiori",
+      "text": "I-It's just a coincidence, board games are just a game of luck... Looks like I'll have to get your ears cleaned.\nCould you place your head on my lap...?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "た、\nたまたまだと思うよ、\nすごろくなんて運だし……\nあっ。\n私、\nあなたに耳かきしなきゃいけないみたいです。\n膝の上に、\n頭を乗せてもらえますか……？"
+    },
+    {
+      "name": "The Three",
+      "text": "Cheater!!\nThis can't be right!!\nYou're cheating!!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "こんなの、インチキよ！！\nこんなの、インチキだ！！\nこんなの、インチキです！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "1, 2, 3... Yay, Hatsune-chan got 3rd place～☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "いち、\nに、\nさん……\nあがり～！\nやったー、\nハツネちゃん、３番なのだ～☆"
+    },
+    {
+      "name": "Shiori",
+      "text": "Congratulations, Onee-chan. I was also really surprised when he closed in and took 1st place.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "おめでとう、\nお姉ちゃん。\nあなたが途中から追い上げて、\n一番になったのは驚いたけど。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I can't believe it. With Assistant-kun gone, the remaining participats will be in big trouble...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まったくだよ。\n助手くんがさっさとあがってしまったから、\n残る参加者は大変なことになってしまったけれど……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Uh...! This time, breathe into the ears of the 2nd person from my right, but since he's no longer here...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "う\nっ……！\n今度は、\n二つ右隣の方の耳に息を吹きかけるとありますが、\nもうあなた様はいらっしゃらないので……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "It's me. Ok, Eriko-chan, go on.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "私ね。\nはい、\nじゃあ、エリコちゃん、\nどうぞ。"
+    },
+    {
+      "name": "Eriko",
+      "text": "...Fuu-",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……ふー"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "...Hello.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……どうも。"
+    },
+    {
+      "name": "Inori",
+      "text": "How about we stop this now...? Everyone looks like they're dead inside, this looks just like a scene from hell.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そろそろ勘弁してやったらどうですか？\n全員目が死んでるし、\n控えめに言って\n地獄絵図になってるですよ？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Y-You have a point. I've gathered enough faith too, so we can end it here. Thank you for your hard work.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そ、\nそうじゃの。\n信仰はもう十分集まったし、\n問題はなかろう。\nお疲れさまじゃった。"
+    },
+    {
+      "name": "The Three",
+      "text": "*sigh*...",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "はぁ～……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So, is the ritual over with that? Morigami-sama doesn't look all that different.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それで、\n儀式はこれでおしまいなの？\n森神さま、\nあんまり変わった感じしないけど。"
+    },
+    {
+      "name": "Morigami",
+      "text": "There's still the finishing touch left. After enjoying the new year games, clap your hands once toward the shrine and bow at a 45 degree angle to finish it.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "最後の仕上げが残っておる。\n正月の遊びを通して楽しんだ後は、\n祠に向かって一度両手を打ち、\n斜め45度にお辞儀して\n完了じゃ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "There's some minor difference but it's similar to your average shrine etiquette. Hatsune-san, let's do it.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "細かい差はあるけど、\n一般的なお参りの作法に近いね。\nハツネさん、\nさっさとやりきってしまおう。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah! Everyone, let's head to the shrine...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん！\nそれじゃみんな、\n祠に向かって……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "...This'll be fine, right? Uhh, Morigami-sama?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "……これでいいのかな？\nあの、\n森神さま？"
+    },
+    {
+      "name": "Morigami",
+      "text": "It's here! It's here～!\nIt's been awhile since I've felt this sensation～!! \nWaaaaa～!!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "きたきたきたきた～！！\n久しいぞ\nこの感覚、\n全身に活力がみなぎってくるのじゃ～！！\nうぉおおお\nおおお～！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Uwahh!? Morigami-sama's body is, shining...!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "うわっ！？\n森神さまの体から、\n光が……！"
+    },
+    {
+      "name": "Inori",
+      "text": "Could it be that she's regaining her powers and turning into her original form? Even if she becomes bigger than me, she wouldn't take revenge over all the retorts I did right...?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "もしや力を取り戻して、\n本来の姿に戻るってありがちなヤツですか！？\nあたしより大きくなっても、\n嫌味を言った仕返し\nなんて真似はしねーですよね……？"
+    }
+  ]
+}

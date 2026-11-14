@@ -1,0 +1,852 @@
+{
+  "title": "Extravagant Landosol Party",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and his companions arrive in Geo Niflhell. They begin questioning villagers in an attempt to find clues about the villainess in question...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・ニヴルヘルに到着した{0}たち。\n『件の令嬢』の手がかりを得るため、\n村で聞き込みをするのだが──"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Geo Niflhell... as creepy as I remember it to be. Ah, sorry. It seems the chain has gotten shorter again...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ジオ・ニヴルヘル、\nやっぱり不気味です……\nあ、\nすみません。\n鎖がまた短くなってしまいました……"
+    },
+    {
+      "name": "Grace",
+      "text": "It's alright, Young lady Kyouka. It may be a dark and damp village, but the people here are all good-natured. Most of the rotten ones... well, they're basically my friends.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "大丈夫ですよ、\nキョウカお嬢様。\n暗くてじめじめとした村ですけど、\n気のいい人ばかりですから。\n腐った奴らは、\nだいたいフレンドです。"
+    },
+    {
+      "name": "Grace",
+      "text": "Oh, speak of the devil. First villager spotted. Umm, excuse me... could I have a word?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "おっ、\n噂をすれば。\n第一村人発見。\nあのー、\nすみません。\nちょっといいですか？"
+    },
+    {
+      "name": "Zombies",
+      "text": "...Okaaaay.",
+      "choice_data_list": [],
+      "orig_name": "ゾンビたち",
+      "orig_text": "……はぁい゛。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Eeek, there's so many zombies...!? Ugh~",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひぃ、\nゾンビがいっぱい……！？\nうっ──"
+    },
+    {
+      "name": "Rurui",
+      "text": "Ah, Kyouka-shan. If you get that scaredsh, your \"SusPerv Value\" willsh...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あっ、\nキョウカしゃん。\nそんなに怖がっちゃうと、\nへんふ値が……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "KYAAAAAHHH?! Zombies are below my tolerance! Grace, protect me at once!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "きゃあ～！？　\nゾンビは苦手でしてよ！\nグレイス、\nわたくしをお守りになってぇ～！"
+    },
+    {
+      "name": "Grace",
+      "text": "Leave it to meeee, pyon♪ Take this... my ultimate buck-tooth attack, pyon!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "まっかせるぴょん♪\nひっさつまえばをくらえぴょん！"
+    },
+    {
+      "name": "Headless Knight",
+      "text": "Hey, hey, what's all the noise about? Suspicious individuals will be questioned... Wait, Lady Grace...?! What's the matter with that chain?! Are you being deceived by this young villainess?!",
+      "choice_data_list": [],
+      "orig_name": "首無し騎士",
+      "orig_text": "こらこら、\n何を騒いでいるんだ。\n怪しい人は職務質問するよ……\nって、\nグレイス様……！？　\nその鎖、\nどうしたんですか！？\n悪い令嬢にたぶらかされているんですか！？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Th-This isn't goodsh...! While they're still stunned, let's hurry to the castlesh! We mightsh be able to reunite with the Princessh and the othersh!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ま、\nまずいでしゅ……！\n呆気に取られている内に、\n急いでお城に向かいましょう。\n姫姉しゃまたちと合流できるかもちれましぇん！"
+    },
+    {
+      "name": "Grace",
+      "text": "Bunny hops... ARE TOUGH, PYON...! My thighs feel like they're about to burst like balloons again, pyon...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ウサギ跳び\nキツイぴょん……\nまたしても、\n太ももが爆発寸前の風船だぴょん……"
+    },
+    {
+      "name": "Rurui",
+      "text": "S-Somehowsh we made it... Big Shish Princess~... Wait, UJYUUUUU!?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "な、\nなんとか辿りつきまちたね……\n姫姉しゃま～……\nって、\nうじゅっ！？"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Overly familiar, aren't we, otherworldly brat. And too bad for you. Princess Violet isn't here. She's gone off somewhere with Duran.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "馴れ馴れしいわ、\n異界の小僧め。\nそして残念だったな。\nヴァイオレット姫はここにはおらぬ。\nデュランとどこかへ出かけていきよったわ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Besides that, Grace... that outfit is the very image of a degenerate. Well, it is a fitting appearance for someone who fell as low as you did.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "しかし、\nグレイスよ。\nその格好、\n変質者そのものだな。\nまぁ、\n落ちぶれた貴様に相応しい姿ではあるが。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Quiet down at once. You are polluting the very air we breathe.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "お黙りなさい。\n空気が汚れますわ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Wha...!?",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "なっ……！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Grace is my loyal familiar. I will not allow you to insult her.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "グレイスは、\nわたくしの忠実な使い魔でしてよ。\nそのグレイスを侮辱することは、\n許しませんわ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Speaking of images, you should take a look at yourself in a mirror. You look positively pale. You ought to get some sunlight, oh ho ho ho!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あなたこそ、\nご自身の姿を鏡でご覧なさい。\n顔色が悪いですわよ。\nもっと陽の光を浴びるべきですわね、\nおーっほっほっほ！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Speaking of mirrors and sunlight... towards a vampire like me!?",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "吸血鬼の私に、\n鏡と陽の光だと……！？"
+    },
+    {
+      "name": "Grace",
+      "text": "As expected of a young lady representing Landosol, pyon. Her words hit like silver bullets, pyon.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "流石、\nランドソルを代表する令嬢様だぴょん。\n言葉の威力は、\nまるで銀の弾丸だぴょん。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "This \"bold manner of speaking\" and \"skillful use of irony\"... This girl must be quite seasoned in high society... Irritating as it is, she could serve as a valuable bridge to influential figures in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "この『堂々とした物言い』と\n『皮肉を操る巧みな話術』\nさてはこの小娘、\n社交界を相当渡り歩いておるな……\n癪に障るが、\nランドソルの有力者とパイプを築く足がかりになるはず。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Ahem... I apologize for my ignorance; I didn't realize you were a noble lady of Landosol. Actually, I was planning to hold a party here. As a token of my apology, I'd like to invite you all.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "コホン……\nランドソルのご令嬢だったとは、\nこれは失礼した。\n実は、\nここでパーティーを開く予定でして。\nお詫びといってはなんですが、\n特別に皆様をご招待しましょう。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Oh my, changing your tune already? I refuse to accept such a suspicious invitation.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あら、\n手のひら返しですか。\nうさん臭い誘い手は、\nお断りですわ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "But... since representativesh from all the tribesh will be gatheringsh at the party, we mightsh be able to find some cluesh about this \"villainesssh\".",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "でも、\nパーティーには各部族が集まりましゅから、\n『令嬢』に関する手がかりも\n得られるかもしれましぇんよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Well then, I suppose I shall make a spectacular change of tune myself. I will participate.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "では、\nわたくしも華麗に手のひらを返しましょう。\n参加しますわ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...No one's coming. How long have we been waiting?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……誰も来ないですね。\nもうどれぐらい待ちましたか？"
+    },
+    {
+      "name": "Grace",
+      "text": "Long enough for our madness to subside. ...What's going on here, Count?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "一時的狂気が収まるぐらいは、\n時間が経ちましたね。\n……\nどうなってるんです\n伯爵？"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Damn it, why is no one coming? It's a party hosted with my very name...!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "くそっ、\n何故誰も来んのだ。\n私主催のパーティーだというのに……"
+    },
+    {
+      "name": "Rurui",
+      "text": "Ah... Couldsh it be... that'sh the reason why...?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あっ……\nもちかちて、\nしょれが原因じゃないでしゅか……？"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "W-What do you mean...? It sounds like you are implying I am the cause behind all of this.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "ど、\nどういうことだ……？\nまるで、\n私に原因があるように聞こえたぞ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Because of whatsh happened with Big Shish Satsuki, your namesh is on the declinesh, Count... You're even rumoredsh to be \"so stingy you won't even fartsh\"...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "サツキ姉しゃまとのアレコレで\n伯爵しゃまは落ち目にありましゅから……\n「ケチ過ぎて屁すら出し惜ちむ男」と\n噂されたり……"
+    },
+    {
+      "name": "Grace",
+      "text": "I see. That explains why you decided to throw a party... to regain your image. But seeing the result... you never know what life will throw at you, Count.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "なるほど。\nそれで、信頼回復のためにパーティーを開いたと。\nしかし、\nこの結果では……\n人生何があるかわかりませんね、\n伯爵。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Hold it. You are NOT the one I want to hear that from right now.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "待て。\n今の貴様にだけは言われたくないぞ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Huh...? Why would I join the likes of you...?",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "はあ……？\n何故私が貴様のような輩と……"
+    },
+    {
+      "name": "Grace",
+      "text": "Hmm... Master Knight makes a sound argument. We have a common interest in restoring our respective image, Count.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ふむ……\nたしかに騎士氏の仰る通りですね。\n伯爵、\n私たちは信頼回復という点で利害が一致しています。"
+    },
+    {
+      "name": "Grace",
+      "text": "We are a bunch of oddballs and fallen nobles. As things stand, it will be difficult to bridge the gap between us and the residents. ...As things stand, that is.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "私たちは、\nへんふしと落ち目の貴族。\n今のままでは、\n住民たちと距離を縮めるのは難しいでしょう。\n……\n今のままでは、\nね。"
+    },
+    {
+      "name": "Grace",
+      "text": "So, why don't we work together to completely change the image this world has towards us? You have the financial resources, Count, while we have a powerful ally in Master Knight.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "だから、\n一緒に私たちを取り巻く世間の空気を一変しませんか？\n伯爵には資金力が。\n私たちには\n強力な助っ人の騎士氏がいます。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Lord Countsh. Knight-shan's amazing. He's a pro in human relationshipsh and an expert on suspicioush pervertsh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "伯爵しゃま。\n騎士しゃんはすごいんでしゅよ。\n人間関係攻略家で、\nへんたいふしんしゃさんの専門家なんでしゅ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "The otherworldly Knight, huh...? Or rather, is that supposed to be an appraisal? (...No, but it's true that this boy has a wide network of connections. He might be useful in breaking through my current situation...)",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "異界の騎士がか……？　\nというか、\nそれは評価しているのか？\n（……いや、\nだがこの小僧に広い人脈があることは事実だ。\n現状を打破する上で、\n利用価値はあるのかもしれぬ……）"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "...Very well. But I am by no means a fallen nobleman. And also, otherwordly Knight, you too should object to being subject to such misunderstandings.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "……いいだろう。\nだが私は決して落ち目の貴族ではない。\nあと、\n異界の騎士よ。\n貴様も誤解には異議を唱えるべきだぞ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "B-But there will be zombies coming, right... I wonder if the length of the chain will stay stable...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "で、\nでも\nゾンビの人たちも来るんですよね……\n鎖の長さは大丈夫でしょうか……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Ah, you're rightsh. We'll have to come upsh with a countermeasuresh for the \"SusPerv Value\", too...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あっ、\nしょっか。\n『へんふ値』の対策も\n考えないとでしゅよね……"
+    },
+    {
+      "name": "Grace",
+      "text": "That's going to be all part of our strategy meeting. Let's work together and conquer the trust of the inhabitants of Geo Niflhell.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "それも含めて作戦会議ですね。\n力を合わせて、\nジオ・ニヴルヘルの住民を攻略しましょう。"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "What's with this flyer? \"Count Orlok's Extravagant Party -- Landosol Festival\"? Wait, WHOAAAAAAA!?",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "なんだ、\nこのチラシ？\n『オルロック伯爵の\n出血大サービスパーティー・\nランドソル祭り』？\nって、\nうわああぁ！？"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Hahahaha, that was a pitfall straight out from Landosolian culture. How did you like this thrilling service?",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "ハハハハハ、\n今のはランドソル文化の\n落とし穴\nというものだ。\n此度のスリルあるサービス、\nいかがだったかな？"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "Y-Your Highness...?! I was so surprised, I felt like my heart had stopped beating again...! I don't often feel like this. I was deeply moved!",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "は、\n伯爵さま……！？\nびっくりして、\n止まった心臓が脈打った気がしましたよ……！\nこんな感覚なかなかないです。\n感動しました！"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "Heheh. You're surprisingly good-natured, Count... I didn't know that. I always thought you were a despicable, fart-saving jerk... Ah, my brain must be rotten, I just blurted out what I was thinking...!",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "へへ。\n伯爵さまって、\n意外と気さくなんですね……\n知りませんでした。\nずっといけ好かない\n屁のクソ野郎だ\nと思ってましたから……\nあっ、\n脳が腐ってるからか、\n思ったことそのまま言っちまった……！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Ha... HAHAHAHAHAAH! Let's throw formalities to the wind, this is a once-in-a-lifetime blowout service! Now, take my hand. I'll personally pull you up from there. (A fart-saving jerk?! Unforgivable.)",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "ハ、\nハハハハ、\n無礼講無礼講、\n出血大サービスだ！\nさあ、\n手を取れ。\n私が直々に引き上げてやろう。\n（屁のクソ野郎だと！？　\n許さぬぞ。）"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "Th-Thank you very much. B-But... for you to throw a party to spread Landosolian culture... Why...?",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "あ、\nありがとうございます。\nで、\nでも\n伯爵さまがランドソル文化を広めるパーティーなんて。\nどうしてまた……？"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "Wait... Ah?! Isn't that the young lady from back then...?! Unless my brain is rotten and I'm mistaken.",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "って、\nあ！？　\nあの時の嬢ちゃんじゃないか……！\n俺の脳が腐ってて、\n勘違いじゃなければだけど。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hieee...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひ\nぃっ……！？"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "I'm sorry for scaring you during that intercultural exchange. I didn't mean any harm. I've wanted to apologize for so long... I'm sorry.",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "交流会の時は、\n怖がらせてすまなかった。\n悪気はなかったんだ。\nずっと謝りたかった……\nごめんね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh...? Oh. I-I should be the one apologizing for getting startled. I'm just not used to zombies...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "え……？　\nあ。\nわ、\n私こそ、\nビックリしちゃってごめんなさい。\nゾンビさんに慣れてなくて……"
+    },
+    {
+      "name": "Grace",
+      "text": "Well, seeing how we look... I guess we both know how sad it is to be judged by our appearance.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "まぁ、\nお互いにこんな見た目ですしね。\nですが、\n外見で判断される悲しさも、\n互いに知っているはずです。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Y-Yeah... You're right... We're also helping to host that party, so please bring your friends too. We'll be looking forward to your arrival!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "う、\nうん……\nそうだよね……\nあの\nパーティーをやってますので、\nぜひお友達も呼んできてください。\nその……\n楽しみにして、\n待ってますので。"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "Thank you, I'll definitely come. ...Oh, but I'm sorry if my brain gets rotten and I accidentally forget.",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "ありがとう、\n必ず行くよ。\n……あ、\nでも脳が腐って、\nうっかり忘れちゃった時はごめんな。"
+    },
+    {
+      "name": "キョウカ",
+      "text": "の、\n脳がくさる……\nやっぱりへんだけど。\nでもしゃべってみたら、\nちょっとは怖くないのかも……？　",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "の、\n脳がくさる……\nやっぱりへんだけど。\nでもしゃべってみたら、\nちょっとは怖くないのかも……？　"
+    },
+    {
+      "name": "Oni Woman",
+      "text": "That sounds a little fun... A festival made in Landosolian style... I might be a little interested...",
+      "choice_data_list": [],
+      "orig_name": "鬼族の女性",
+      "orig_text": "なんだか楽しそうね……\nランドソルのお祭りか……\nちょっと興味があるかも……"
+    },
+    {
+      "name": "Rurui",
+      "text": "Soundsh interesting, doesn't it? By the waysh, I hear that when it gets warmersh in the Spring, suspicioush pervertsh start appearing in Landosolsh!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "興味深いでしゅよね～\nちなみに、\nランドソルは春になって暖かくなると、\nへんたいふしんしゃさんが湧くそうでしゅよ。"
+    },
+    {
+      "name": "Zombie man",
+      "text": "Eeeh... so they start acting weird when it gets warm? In that sense, it's kind of like us zombies... too much heat speeds up our brain rot... I'm starting to feel a bit of kinship.",
+      "choice_data_list": [],
+      "orig_name": "ゾンビの男性",
+      "orig_text": "へぇ～、\n気温が高くなると\nおかしくなっちまうのか？\nそういう意味では、\n暖かすぎると脳の腐敗が進んじゃう、\n俺たち\nゾンビに似ているな……\nちょっと\n親近感が湧いてきたぞ。"
+    },
+    {
+      "name": "ダークエルフの男",
+      "text": "ふむ……\nランドソルで、\nへんたいふしんしゃさんが湧く、\nか……\nしかも、\nゾンビのように脳が腐りかけで、\n正気度が低いと……？　",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "ふむ……\nランドソルで、\nへんたいふしんしゃさんが湧く、\nか……\nしかも、\nゾンビのように脳が腐りかけで、\n正気度が低いと……？　"
+    },
+    {
+      "name": "Rurui",
+      "text": "It seemsh that everyone has gatheredsh as plannedsh. The party is finallysh about to beginsh...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "作戦通り、\n参加者は十分に集まったみたいでしゅ。\nいよいよパーティーの始まりでしゅね……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I-I'm starting to get nervous... Grace-san, are you sure it's okay for me to just stand next to you? Won't it create an awkward atmosphere...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "き、\n緊張してきました……\nグレイスさん、\n私は本当に隣に立っているだけでいいんですか？\nへんな空気になったりしませんか……？"
+    },
+    {
+      "name": "Grace",
+      "text": "All you need to do is introduce yourself at the beginning, milady. While I give my opening remarks, please just watch from the sidelines. So, just act as you \"normally would\".",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "お嬢様は、\n最初に自己紹介をしていただくだけで大丈夫です。\n私が開催の挨拶をしている間は、\nただ隣で見守っていてください。\nなので、\n『いつも通り』で大丈夫ですよ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Thank you for joining us today, everyone. To kick off this \"Count Orlok's Extravagant Party -- Landosol Festival\", we have a toast from our special guest!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "皆様、\n本日はご参加いただきありがとうございます。\n『オルロック伯爵の出血大サービスパーティー・\nランドソル祭り』\nを開催するにあたって、\nスペシャルゲストから乾杯の挨拶です！"
+    },
+    {
+      "name": "Grace",
+      "text": "My gratitude for the introduction. I am Grace, former Chevalier. First, a quick note: due to these chains binding me, Young lady Kyouka here will be accompanying me during this address.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ご紹介にあずかりました、\n元守護騎士のグレイスです。\n最初に一言断っておきます。\n鎖で繋がっている都合で、\nこの挨拶は\nキョウカお嬢様にも付き添っていただいています。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I hail from Landosol, the name's Kyouka. Hello...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ランドソルから来ました、\nキョウカです。\nこんにちは。"
+    },
+    {
+      "name": "Participants:",
+      "text": "Isn't that little girl...\" \".........\" \"Will this be fine...?\" \".....\" \"....\" \"Grace's little sister...?",
+      "choice_data_list": [],
+      "orig_name": "参加者たち",
+      "orig_text": "「お嬢ちゃんじゃないか……」「…………」\n「大丈夫か……？」「…………」「…………」\n「グレイスの姐さん……」"
+    },
+    {
+      "name": "Grace",
+      "text": "Everyone, do you have your glasses in your hands? First of all, thank you for joining us at this party.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "みなさん、\nグラスは手にお持ちでしょうか？\nまずは、\nパーティーにご参加いただきありがとうございます。"
+    },
+    {
+      "name": "Grace",
+      "text": "It's wonderful to see all your faces again after so long. Just seeing how lively you all are is enough to fill me up already. (Brrr~)",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "久しぶりにみなさんの顔を見られて何よりです。\n元気な顔を見ているだけで、\nもうお腹がいっぱいです。\n（ぐぅ～）"
+    },
+    {
+      "name": "Participants:",
+      "text": "………… (Awkward silence...)",
+      "choice_data_list": [],
+      "orig_name": "参加者たち",
+      "orig_text": "…………（シーン……）"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...Grace-san, you're the opposite of filled! Your stomach is rumbling! Actually, pull yourself together. The atmosphere is getting really awkward.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……グレイスさん、\n逆です。\nお腹が鳴ってます。\nというか、\nしっかりしてください。\nへんな空気になってますよ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Pardon me. But seeing you all again made me realize something once again... Geo Niflhell is really wonderful.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "失礼。\nでもみなさんと再会できて、\n改めて思いました。\nやっぱり、\nジオ・ニヴルヘルは素敵だなと。"
+    },
+    {
+      "name": "Grace",
+      "text": "With that said, here's my personal rankings about the best things in Geo Niflhell♪ ...Oh. This is going to be long. Please put your glass down for a moment.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "というわけで、\n個人的ジオ・ニヴルヘルのイイトコランキング発表♪\n……あ。\nこっから長いです。\n一度グラスはおろしてください。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "HUH?! What happened to the toast?! This is wrong!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ、\n乾杯の挨拶はどこにいったんですか！？\nおかしいですよ！"
+    },
+    {
+      "name": "Grace",
+      "text": "First place: the Headless Knights friendliness. When I returned after dying an unnatural death, they spoke to me without discrimination and said: \"What are you doing?\" \"What's your address?\" \"Can you come with us to the guardpost?\"",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "まず一位。\n首無し騎士がフレンドリーなところ。\nへんふしとして帰ってきた私に、\n分け隔てなく声をかけてくれました。\n「何してるの？」\n「住所は？」\n「詰所まで来てくれる？」"
+    },
+    {
+      "name": "Kyoka",
+      "text": "They were completely suspicious of you! That just means the guards are good at not letting suspicious people slip by!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "しっかり怪しまれてますよ！\nふしんしゃさんを見逃さない兵士さんが、\n優秀なだけじゃないですか。"
+    },
+    {
+      "name": "Headless Knight",
+      "text": "Huh? Could it be? Is she praising me in front of everyone...? T-That's kind of embarrassing... hehe.",
+      "choice_data_list": [],
+      "orig_name": "首無し騎士",
+      "orig_text": "え、\nもしかして。\nみんなの前で褒められてるのか……？\nな、\nなんだか照れるな……\nへへ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Tied for first place: I loved how honest and refreshing the zombies' words were. They called Count Orlok himself a \"despicable, fart-saving jerk\" directly to his face. It was so satisfying.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "同率一位。\nゾンビのみなさんの言葉が素直で気持ちいいところ。\nオルロック伯爵に\n「いけ好かない屁のクソ野郎」って言ってましたね。\nスカッとしました。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "He'll get mad at you, you know?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "怒られちゃいますよ？"
+    },
+    {
+      "name": "Grace",
+      "text": "It's the objective truth, so there's nothing to fear.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "事実だから大丈夫ですよ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "THERE'S NOTHING OBJECTIVE ABOUT THAT!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "事実なわけあるか！"
+    },
+    {
+      "name": "Participants:",
+      "text": "Hahahaha\" \"Fufu\" \"Hehehe\" \"Ufufu",
+      "choice_data_list": [],
+      "orig_name": "参加者たち",
+      "orig_text": "「あははははは。」\n「ふふっ。」\n「うふふ。」"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "I-I see... At the time, I thought I said something I shouldn't have. But maybe that's one of the good things about my slightly rotten brain... heheh.",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "そ、\nそっか……\nあん時は失敗だと思ったけど。\nあれも、\n脳がちょっと腐ってる\n俺のよさだったのかな……\nへへ。"
+    },
+    {
+      "name": "Grace",
+      "text": "That said, well... there are about 100 other things tied for first I could list, but this is getting too long.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "とまぁ、\n他にも同率一位は100個あるんですけど。\n長くなるのでここら辺で。"
+    },
+    {
+      "name": "Grace",
+      "text": "In other words, the message I was trying to convey is... I've reached some good realizations since becoming a suspicious pervert. By the way, what about you, Lady Kyouka?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "つまり、\n何が言いたかったかというと。\nへんたいふしんしゃになってから、\nいい気づきもあったという話です。\nちなみに、\nキョウカお嬢様はどうなんですか？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? Me...? Well, that's true... I learned how harsh it is to be judged entirely by your appearance or traits... so I don't really want to do that to others...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ、\n私ですか……？　\nそれは、\nそうですね……\n見た目や特徴で、\n全てを判断される厳しさを知りました……\nだから、\n自分はあんまりそんなことはしたくないなって……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I wasn't familiar with the zombiefolk, so I was scared of them at first. But when I talked to them, they were all really nice people. Realizing that was one of the good things to come from this.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "私はゾンビさんたちになじみがなくて、\n最初は怖かったんですけど。\nでも、\nお話ししてみると、\nいい人ばかりで。\nそれを知れたのは、\nよかったことの一つです。"
+    },
+    {
+      "name": "Zombies",
+      "text": "*Deeply moved*...",
+      "choice_data_list": [],
+      "orig_name": "ゾンビたち",
+      "orig_text": "ジーン……"
+    },
+    {
+      "name": "Grace",
+      "text": "And so, I hope that at this party, you'll get a taste of Landosol's culture and gain some new insights yourselves.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "というわけで、\nこのパーティーでも、\nランドソルの文化に触れて、\nみなさんにも何か気づきがあったら素敵ですね。"
+    },
+    {
+      "name": "Grace",
+      "text": "Finally, I would like to take this opportunity to ask you all one thing. This appearance and this chain are actually the result of a curse. I am searching for the whereabouts of the villainess who holds the key to breaking it.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "最後に、\nこの場を借りて、\nみなさんにお願いが一つあります。\nこの姿も、\n鎖も、\n実は呪いが原因でして。\nその呪いを解く手がかりである\n令嬢の居場所を捜しています。"
+    },
+    {
+      "name": "Grace",
+      "text": "If you have any information, please let me know. Anything at all is fine. Even stuff like \"she has long ears\" or \"her tail is round\".",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "何か情報があれば、\nぜひ教えてください。\n本当に何でもいいです。\n「耳が長いね」\nとか\n「しっぽが丸いね」\nとか。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That's just a random observation, and of your clothes, at that! We're supposed to be asking for actual clues!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "それただの感想じゃないですか、\nしかも服の！\n手がかりを募集しましょうよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "No... but at this point, even comments about clothing might be fine. I hope this will be an opportunity for us to connect with each other. Please feel free to ask me anything about Landosol.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "いえ……\nでもこの際、\n服の感想でもいいかもしれないですね。\nこれをきっかけに、\nみなさんとも交流できればいいなって思います。\nランドソルのことも、\n気軽に聞いてください。"
+    },
+    {
+      "name": "Grace",
+      "text": "That's right. Let's interact a lot today. Okay everyone, do you have your glasses in your hands? Alright then...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "そうですね。\n今日はたくさん交流しましょう。\nではみなさん、\nグラスは手に持ちましたか？　\nそれでは──"
+    },
+    {
+      "name": "Kyouka Grace",
+      "text": "Cheers!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・グレイス",
+      "orig_text": "かんぱーい！"
+    },
+    {
+      "name": "Zombie lady",
+      "text": "Hehehe. That was a strange toast, wasn't it... But I'm impressed that they were able to talk about such a difficult situation just like that. Their self-deprecating humor made it easier for us to laugh too...",
+      "choice_data_list": [],
+      "orig_name": "ゾンビの女性",
+      "orig_text": "ふふふ。\n何かへんな乾杯だったね……\nでも、\n大変な状況をあんなふうに話せるなんて……\n感心するわ。\n自虐のおかげで、\nこっちも安心して笑えたっていうか……"
+    },
+    {
+      "name": "Oni Woman",
+      "text": "Yeah... maybe we were being too careful just because she got fired. We probably should've just treated her the same as always.",
+      "choice_data_list": [],
+      "orig_name": "鬼族の女性",
+      "orig_text": "うん。\nクビになったからって、\nこっちも気を遣いすぎていたのかもね。\n今まで通り接すればよかったのかも。"
+    },
+    {
+      "name": "Grace",
+      "text": "Young lady Kyouka, you did a wonderful job. You really saved me back there.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "キョウカお嬢様、\nお見事でしたよ。\nすごく助けられました。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Oh, thank you very much. But that wasn't just \"standing beside you\" at all, was it?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あ、\nありがとうございます。\nって、\n全然隣に立つだけじゃなかったじゃないですか！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Geez... Heheh. It's strange, though. You keep saying weird things, Grace-san, and I end up correcting you. And just that makes everyone laugh... it's like the atmosphere changes.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "もう……\nふふ。\nでも不思議ですね。\nグレイスさんがへんなことを言って、\n私が正して。\nそれだけで、\nみんなが笑ってくれて……\n空気が変わったというか。"
+    },
+    {
+      "name": "キョウカ",
+      "text": "……あれ？　\nこれまでを振り返ってみると、\nグレイスさんは\nそんなふうに私を励ましてくれていたのかな……？　",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……あれ？　\nこれまでを振り返ってみると、\nグレイスさんは\nそんなふうに私を励ましてくれていたのかな……？　"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "Sis Grace and Kyouka-chan. Your greetings just now were really nice. So, um... I don't know if this might serve as a clue or not, but... Lately, I haven't seen any zombies that have lost their reason...",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "グレイスの姐さんとキョウカちゃん。\nさっきの挨拶\nすごくよかったです。\nそれで、\nその……\n手がかりになるかはわかんねぇっすけど。\n最近、\n理性を失ったゾンビどもを見かけなくなりまして……"
+    },
+    {
+      "name": "Grace",
+      "text": "Thank you, Master Knife Licker. But what do you mean by \"you haven't seen them\"...?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ナイフペロリーヌ氏、\nありがとうございます。\nしかし\n「見かけなくなった」とは……？"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "Exactly that. It's like they've vanished somewhere; they're just gone. ...Well, unless I'm mistaken, of course. My eyesight isn't the best, you know.",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "そのまんまです。\nどこかに消えちまったみたいに、\nいないんですよ。\n……まぁ、\n俺の見間違いじゃなければっすけど。\n目もちょっと腐ってますんで。"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "Anyway, I'm glad to see you're all doing well. Today... you're not with the Princess and the others?",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "とにかく、\n姐さんたちが元気そうでよかったです。\n……\n今日は、\n姫さんたちは一緒じゃないんですね？"
+    },
+    {
+      "name": "Grace",
+      "text": "The Princess... I haven't seen her since I got fired. Well, I'm in a different position now, after all.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……姫とは、\nクビになって以来\n会えていません。\nまぁ、\n前とは私も立場が違いますし。"
+    },
+    {
+      "name": "キョウカ",
+      "text": "……あれ、\nグレイスさん？　",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……あれ、\nグレイスさん？　"
+    },
+    {
+      "name": "Narration",
+      "text": "In this manner, while running the party, Kyouka and the others continued to gather information.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そんな調子で、\nパーティーの運営と並行して、\nキョウカたちは、\n情報の聞き込みをしていく。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "The party ended without incident. After interacting with others, none of the zombiefolk seem so scary anymore.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "パーティーも無事に終わりましたね。\n交流して、\nゾンビさんもそこまで怖くなくなりました。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Yesh! The chainsh has been successfully extendedsh. Even the Countsh, who joined me and Knight-shan in the traditionalsh \"Octopush Dance\" seemsh to have gained everyone'sh affection.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "はい。\n無事、\n鎖も伸びまちたね。\nあたちと騎士しゃんに混じって、\nタコ踊りをちた伯爵しゃまも、\nみなしゃんから親しみを得られたようでしゅ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Indeed. Thank you all for today. I was honestly surprised that the Count, who hates Landosol, cooperated with us. And to think he even did the octopus dance!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はい。\n今日はみなさんありがとうございました。\nランドソル嫌いの伯爵が協力してくれたのは、\n正直意外でしたよ。\nしかも、\nタコ踊りまでするなんて。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "My hate for Landosol remains unchanged. However... if I don't know my enemy, I can't protect Geo Niflhell. ...No mentioning of that octopus dance anymore.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "ランドソルは今も嫌いだ。\nだが\n敵を知らなければ、\nジオ・ニヴルヘルを守ることもできぬからな。\n……\nタコ踊りのことはもう口にするな。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "About that, umm... The party was a success, but when it comes to leads on what we should do next, well...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "それが、\nその……\nパーティーは成功しましたけど。\n次に繋がる情報はありませんでした……"
+    },
+    {
+      "name": "Everyone",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Heh... how pathetic. You really are a hopeless bunch.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "……ふ、\n情けない。\n全く仕方のない奴らだ。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "I spotted that dark elf man who was in charge of the intercultural exchange event, remember him? Lately, he's been acting suspiciously.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "異文化交流会を仕切っていた\nダークエルフの男がいただろう。\n近頃、奴は怪しい動きをしておってな。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "I've also obtained information that he was seen traveling to the \"Forest of Spores\" in the \"Deep Garden\". Perhaps you will find something there. ...Consider this a special treat from me.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "『深い庭』の『胞子の森』に\n出入りしていたという情報もある。\nもしかすると、\nそこに何かあるのかもしれんな。\n……\n私からの出血大サービスだ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Thank you, Count. I will surely repay this kindness with malice. Now, let's head to the \"Deep Garden\".",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "感謝します伯爵。\nこの恩は必ず仇で返します。\nでは、\n次は『深い庭』に向かいましょう。"
+    },
+    {
+      "name": "Narration",
+      "text": "Despite being immediately warned with a \"I don't need your malice!\", Grace and the others managed to win over even the Count. Having successfully thrown a bizarre party and obtained a clue leading to the villainess, {0} and his friends head towards the mysterious \"Deep Garden\".",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "「仇で返すな！」と指摘されつつ、\n伯爵すらも攻略したグレイスたち。\n奇天烈なパーティーを成功させ、\n『令嬢』に繋がる手がかりを得た\n{0}たちは、\n謎の多い『深い庭』へと向かうのだった。"
+    }
+  ]
+}

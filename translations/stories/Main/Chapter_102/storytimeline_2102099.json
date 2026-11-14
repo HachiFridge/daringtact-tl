@@ -1,0 +1,686 @@
+{
+  "title": "Interlude 1",
+  "text_block_list": [
+    {
+      "name": "Kokkoro",
+      "text": "*munch munch*... *munch munch*...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "もぐもぐ、もぐもぐ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*gobble gobble*... *chomp chomp*...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あぐあぐ、\nまぐまぐ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Phew...\nThank you for the meal.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふぅ……\n……ごちそうさまでした。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Sure you've had enough, Kokkoro?\nThis seafood bowl looks super delicious as well! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もういいんですか、\nコッコロちゃん？\nこっちの海鮮丼も、\nすっごくおいしいですよ～☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Ahh...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……う……"
+    },
+    {
+      "name": "Yui",
+      "text": "Urghhh... I shouldn't be eating at this time at all, but...!\nAhhh, I just can't stop!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うぅっ……\nホントは\nこんな時間に、\n食べちゃったらダメなのに……\nあぁっ、\n止まらないよぉ～っ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...I am terribly sorry.\nMay I ask for just... one more bowl?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……申し訳ありません。\nあと一杯だけ、\nおかわりを……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*snarf snarf*... *nom nom*...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "んぐんぐ、\nはぐはぐ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Watching Pecorine stuff her face just bores me now,\nbut Koro eating just as much right next to her\nis a little bit scary...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ペコリーヌがドカ食いするのは、見飽きてるけど……\nその横でコロ助が同じくらい食べてるのを見ると、\nちょっと不安になるわね……"
+    },
+    {
+      "name": "Rei",
+      "text": "The aftereffects of the Princess Form, huh...?\nAccording to Labyrista, it's just because {0}\nisn't used to this power yet, but...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "『プリンセスフォーム』の反動、\nか。\nラビリスタが言うには、\n{0}がまだ力を使いこなせてないかららしいけど……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "D'you think Yui and Peco transforming back so fast\nwas because of that, too...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃんたちのパワーアップがすぐ解けちゃったのも、\nそのせいなのかなぁ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "We could use an answer to that.\nIf we don't get used to using {0}'s power,\nthe battles ahead will be tough for sure...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そのへん、\nちゃんと知りたいわね。\n{0}の力を使いこなせなきゃ\nこの先やばいのは、\n間違いなさそうだし……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I hadn't seen my \\\"test subject\\\" for a little while,\nbut to think he'd ended up like this...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "しばらく見てないうちに、\n私の『実験台』が\nそんなことになっちゃってたとはね……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Ah, what a crying shame!\nAfter my love returned to an infant state,\nI may have had the chance to make him imprint upon me...!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "あぁ、\n不覚でしたわ……\n幼い精神状態へと戻ったあの方に、\n私のことを刷り込み出来たかもしれませんでしたのに。"
+    },
+    {
+      "name": "Eriko",
+      "text": "...No, it's still not too late to try.\nIf I whisper my name over and over\nright next to his sweet sleeping face...!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……いえ、\n今からでも遅くはありません。\nこの愛らしい寝顔の横で、\nずっと\n私の名前を繰り返せば……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yes, yes... We don't want to wake him up, so I think that's enough.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "はいはい、\n起こしたら可哀想だから\nそのへんにしときなよ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Eheheh! ☆\nAt times like this, the classic trope is to draw stuff on his face! ☆",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うぇひひっ☆\nこういう時は、\nおでこに『肉』\nが定番コースですな☆"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Still...\nI know heroes are cursed with troubled fates,\nbut personally I have to hope the true Sigurd will return to us soon...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しかし、\nだ。\nいくら英雄には受難がつきまとう宿命とはいえ、\n私は出来るだけ早く、\nシグルドに元に戻ってもらいたいぞ……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "While his words are limited to those of a child,\nhow can we converse together of the deeper secrets we share?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "幼子のごとき言葉しか操れぬのならば、\n真なる言霊を通じ合わせることは\n不可能ではないか……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Well, yes...\nI wouldn't mind taking this chance to dabble in pediatrics...\nBut seeking a cure for damage to the soul sounds far more exciting!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……そうねぇ。\n私も、これを機に\n小児科になってあげてもいいケド……\n『魂にダメージを負った人』\nの治療法を研究するほうが、楽しそうね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*sigh*...\nEven though we had already eaten dinner,\nit seems that I've consumed far more than my fill...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はぁ。\nお夕飯をいただいた後だというのに、\n思わず、\n食べすぎてしまいました……"
+    },
+    {
+      "name": "Yui",
+      "text": "Urghhh...\nI barely even got to fight,\nso why's the hunger part as strong as ever?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うぅっ……\nほとんど戦ってないのに、\nしっかりお腹は減っちゃうなんてぇ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thanks for the food! ♪\nMan, chowing down is even more fun\nwhen I have friends to compete with! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ごちそうさまでした♪\nいやぁ～、\n一緒にたくさん食べてくれる人がいると\n張り合いがでちゃいますね☆"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "...Say, princess of the Gourmet Guild.\nI have a small proposition for you. Would you care to listen?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……ねぇ、\n【美食殿】のお姫さま？\nちょっとだけ提案があるんだけど……\n聞いてもらえるかしら。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm? What's this now?\nOh—if it's about the bill, you don't need to worry! ♪\nWe're not splitting it—I'm gonna charge my share to the palace!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "んっ？　\nなんでしょう？\nあっ、\nここのお勘定なら心配しなくて大丈夫ですよ♪\n割り勘じゃなく、\nちゃんと王宮に領収書を回すので！"
+    },
+    {
+      "name": "Karyl",
+      "text": "If we were splitting bills, nobody in their right mind\nwould come anywhere near a diner with you...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "割り勘だったら、\n誰もあんたと一緒に\n定食屋に入ろうなんて\n思わないわ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "So listen.\nAbout our friend {0}...\nWould you be willing to let us assist with restoring him to normal?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "えっとね。\n{0}くんのコトだけど……\n私たちにも、\n彼を元に戻すお手伝いをさせてもらいたいの。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You know, as an unlicensed doctor, I do a lot of research.\nI may be able to find hints in areas that don't usually see the light of day.\nAnd after all our experiments, I'm extremely familiar with his body... ♪",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "私……\n闇医者として、\nイロイロ研究してるし。\n正規ルートにない治療法の中に、\n役に立つ方法があるかも知れないわ。\n彼のカラダは、\n何度も調べさせてもらって良く知ってるしね……♪"
+    },
+    {
+      "name": "Eriko",
+      "text": "Ahh...!\nI couldn't possibly let Mitsuki handle such important research alone!\nI insist that you allow me to assist as well.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……！\nそんなやりがいのありそうな研究、\nミツキさんだけに任せられませんわ。\n私も、\n断固として協力させていただきます。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "There could be a hint or three in my tome collection, too! ☆\nI swear... I won't rest till this mystery is solved! The game is afoot!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "私の魔導書コレクションの中にも、\nヒントあるかも☆\nこの謎……\n必ずや解き明かしてみせよう、\nじっちゃんの名にかけて！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hmm.\nSeems like my girls are all raring to go.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ふーむ。\nウチの連中、\nやる気まんまんみたいだねぇ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "What do you say, Rei?\nWe could try pursuing the same target\nin a field other than fishing for once.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "どうだい、\nレイ？\nたまには\n釣り以外でも、\n同じ獲物を狙ってみるってのはさ。"
+    },
+    {
+      "name": "Rei",
+      "text": "Personally, I'd welcome the idea...\nBut what do you say, Gourmet Guild members?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "私としては、\nもちろん歓迎だが……\n【美食殿】の皆は、\n構わないだろうか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ooh, I'd love to have your help! ☆\nNeneka's looking into it for us too,\nbut the more people on the case, the better! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わぁっ、\nぜひぜひお願いします☆\nネネカさんも調べてくれてますけど、\nこういうのは、手が多いほうがいいですからね♪"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Yes, you can leave this to us! The contract is bound!\nI shall restore Sigurd to his primal form!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ああ、\n我らに任せるがよい！　\n盟約は結ばれた！\n必ずや、\nシグルドをあるべき姿へ戻そう！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Aw yeah! ☆ Then for starters...!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "よっしゃあ☆　\nじゃあさっそく～\n……？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Here comes Lovely Nanaka!\nLet's try a transformation, shall we?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "オッス！\nオラナナカ！\nいっちょ変身してみっかー！"
+    },
+    {
+      "name": "Eriko",
+      "text": "...Nanaka?\nWhat's this now...?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……ナナカさん？\nいったい何を……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Like, for reals, as a magic nerd, I can't miss a chance to nab a new form!\nWake up! Wake up, {0}!\nThis ain't no time for sleeping! Believe it!",
+      "choice_data_list": [
+        "...?"
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "いやマジ、\n魔法ヲタとしては変身チャンスとか黙ってらんないっしょ！\n起きて\n起きて{0}君！\n寝てる場合じゃねぇ！　\nであります！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Um, are you mad?\nWe still hardly know a thing about this ability!\nIf you force him into it, who knows what'll happen?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっとあんたっ？\nまだわかってないコトの方が多い能力なんだし、\n無理やりやらせるとか、\nどうなるかわかんないわよ！？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "No objections!\nI'll show you the power of courage! ☆",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ご意見無用！\nあとは勇気で補えばいい☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Can you try listening to me?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "話を聞きなさいよーっ！？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Change! Princess Foooorm! ♪",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "チェンジ・\nプリンセス\nフォォォォムっ♪"
+    },
+    {
+      "name": "Nanaka",
+      "text": "...Oh?\nWhoooaaaa?!\nIt's over 9000!!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "……おっ！？\nおおおおっ！？\nみｗなｗぎｗっｗてｗきｗたーｗｗｗｗ"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Urgh! She beat me to it!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "くっ！　\n先を越されたか！"
+    },
+    {
+      "name": "Eriko",
+      "text": "I'm so jealous...!\nMy turn must be next!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "うらやましいっ……！\n次は私も……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "...Hm?\nHmm?\nThis feels... a little bit weird...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "…………ん？\nんんっ？\n……なんか、\n変な感じがっ…………"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hmm?\nWhat's wrong, Nanaka?!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "んっ！？\nどうしたんだい、\nナナカっ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Could the energy have gone out of control?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "もしや、\n力の暴走かっ！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Huhhhh?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えええぇっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ahhh, geez! What did I try to tell you?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ああもう、\n言わんこっちゃない──！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Bl... bl... bl bl...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ひ、\nひ……！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Bloooork!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ひでぶ～っ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Wh...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "な、"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Wh...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "な、"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Wh...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "な、"
+    },
+    {
+      "name": "Eriko",
+      "text": "Wh...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "な、"
+    },
+    {
+      "name": "Nanaka",
+      "text": "What the heckity?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "なんじゃこりゃーっ！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Ohhh... that's so cute!\nWait, forget cute!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わぁっ、\nかわいい……！\nって、\nそうじゃなくて！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Did that girl just get really tiny?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あのひと、\nちっちゃくなっちゃった！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "She's like a fairy! ☆\nI could eat her up in one mouthful!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "妖精さんですね☆\n一口サイズで、\nかわいいですー！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As we thought... this Princess Form ability is rife with mysteries.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "やはり……\n『プリンセスフォーム』の力は、\nまだ未知数でございますね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You can say that again.\nWho knows what kind of other risks it comes with?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ほんとにね。\nどんなリスクがあるか、\nわかったもんじゃないわ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Ahaha.\nNow, this does seem worth researching! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "フフフッ。\nこれは研究しがいがありそうね……♪"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Waaahhh!\nIsn't anybody gonna help me become a real girl again?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うわーん！\n誰かはやくなんとかしてクレメンスーっ！？"
+    },
+    {
+      "name": "Narration",
+      "text": "A few hours later, Nanaka spontaneously returned to full size.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──数時間後、\nナナカの姿は無事元に戻ったという……"
+    },
+    {
+      "name": "Narration",
+      "text": "In a fortress far away from Landosol...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──ランドソルから遠く離れた、ある砦──"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...*sigh*...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………はぁ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Oh... ♪\nRanpha! Welcome home! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あっ♪\nランファさん、\nおかえりなさーい♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Mm...\nI'm back... Misora...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ん……\nただいま……\nミソラちゃん……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...B-but I'm sorry...\nI seem to have been defeated... *sigh*...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ご、\nごめんなさい……\nわたしも、\n負けて\nしまって…………\nはぁ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Oh—well, yes. I don't think anyone can blame you for that...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それはまぁ、\nしょうがないかなーって思いますけどぉ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Misora",
+      "text": "...Hmm?\nRanpha, did something happen in the city?\nYou're in even more of a daze than usual.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……うーん？\nランファさん、\n街で何かありました？\nなんだか\nウワノソラーってカンジですよ？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Huh?\nI-is that how it seems...?\nI don't think I'm... acting so different...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……えっ？\nそ、\nそう、\nかしら……？\n……そんなこと、\nないと\n思う\nけど……"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmmm... Am I imagining things, then?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "んー、\nわたしの\n気のせいですかー？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Ha-hah! ♪\nHey, hey, Ranpha?\nCan I ask you one little thing?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……ははーん♪\nねぇねぇランファさん？\n聞いてもいいですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Wh-what might that be...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "な、\nなに\nかしら……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Was this \\\"Mr. Knight\\\" really all that dashing~?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "──『騎士クン』さんってぇ、\nそんなにステキだったんですかぁ？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ahh...?!\n...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！？\n～～～っ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Aha! Look, you've gone all red! ♪\nThat's so cute! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あっ、\nランファさんったら赤くなったー♪\nかっわいー♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "*pant*... *pant*...\nO-ohh...\nD-don't tease me so much, Misora...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……はぁ、\nはぁ……\nも、\nもう……\n……か、\nからかわないでね、\nミソラ\nちゃん……"
+    },
+    {
+      "name": "Misora",
+      "text": "Eheheh... I'm sorry~! ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えへへ、\nごめんなさーい★。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "*sigh*...\n...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……はぁ……\n…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...\n...U-um, hey, Misora...\nCould I tell you something...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………\n……あ、\nあのね、\nミソラ\nちゃん……\n聞いて、\nもらえる\nかしら……"
+    },
+    {
+      "name": "Misora",
+      "text": "Mm~?\nWhat is it, Ranpha?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うんっ？\nなんですかぁ、\nランファさんー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...W-well, I... Y-you know...\nI've never... talked to a boy... much at all, really, up until now, but...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……わ、\nわたし……\nわたし\nね。\nこれまで、\n男の子と……\n……ちゃんと\n話したこと、\nぜんぜん\nないんだけれど……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...But, you know...\nRight now, when I think about {0}...\nit gives me a strange feeling...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……でも\nね。\nなんだか、\nいま……\n{0}くんのことが、\nすごく\n気になるの……"
+    },
+    {
+      "name": "Misora",
+      "text": "...Ahh!\nRanpha, do you mean...?!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……！！\nランファさん、\nそれって……！？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "E-even I... don't really understand what this means...\n...But I want to hear his voice...\nAnd to hold him closer... for some reason...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "じ、\n自分でも……\n自分の\n気持ちが……\nよく\nわからないの。\n……{0}くんの声を、\nもっと\n聴いて……\nもっと、\n触れてみたいって……\n思って\nしまって……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yep, yep! ♪\nWhat else do you feel?!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うんうん♪\nそれからそれからっ？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "W-well, I... I was wondering...\nC... could this feeling...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わ、\nわたし……\n思ったの\nだけど。\n……も、\nもしかしたら……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "This strange new feeling...\nCould it be...\nCould it really be...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……もしかしたら、\nこの気持ち。\n……これが……\nこれが、\nウワサに聞く……"
+    },
+    {
+      "name": "Misora",
+      "text": "Ahaha. Yes, that's right, Ranpha! ★\nIt's called lov—",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うふふっ、\nそうですよランファさん★\nそれが、\n恋っ──"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Could it be... my motherly instincts... awakening within me...?!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "これが……\n母性……\nというもの、\nなのかしら……！？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Ehhh?!\nTh-[i]that's[/i] your angle?!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……い！？\nって、\nそっちですかぁーっ！？"
+    }
+  ]
+}

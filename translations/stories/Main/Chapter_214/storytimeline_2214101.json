@@ -1,0 +1,663 @@
+{
+  "title": "Heroes, Errands and Reality",
+  "text_block_list": [
+    {
+      "name": "？？？",
+      "text": "Here I am! A member of the Royal Knights of NIGHTMARE, an invincible superhero! The name is...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "参上ッ！\n【王宮騎士団（NIGHTMARE）】所属・\n天下無敵のスーパーヒーロー！　\nその名も──"
+    },
+    {
+      "name": "Matsuri's Mother",
+      "text": "Hey, Matsuri! What are you doing neglecting your homework? Before you go superheroing, can you go shopping at the supermarket? I wonder what they have on discount today...",
+      "choice_data_list": [],
+      "orig_name": "茉莉の母",
+      "orig_text": "こら茉莉！　\n宿題もしないで何やってるの！\nスーパーヒーローの前に、\nスーパーまで買い物に行ってきてくれない？\n今日の特売品はねえ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "UWAAAAH! M-M-M-Mom! Knock before you enter the room!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "わ～っ、\nお、\nお母さんっ、\n部屋に入るときはノックしてほしいッス～！"
+    },
+    {
+      "name": "Matsuri",
+      "text": ".........Phew~! Now then, I'll strike a pose so that I can transform into my shopping form~♪",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "…………\nふぅ～っ……！\nさぁ～て、\nポーズをキメて、\nショッピング・フォームに変身ッス～♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ultra Dash to the station! Arriving at sub-light speed! ...Huh? Those people...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "駅前まで\nウルトラダーッシュ！　\n亜光速で到着ッスよ～ッ！\n……んっ？　\nあの人たち……"
+    },
+    {
+      "name": "Yuki",
+      "text": "I decline. It's an offer I don't need.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "お断りするよ。\nボクには必要のない提案だ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Why would you turn it down?! There's no other part-time job that pays as well as this, you know!?",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "何で断るのよ！？\nこんなに割のいいバイト、\nほかにないわよ！？"
+    },
+    {
+      "name": "Yuki",
+      "text": "I understand that you were hired by Karin-san for that part-time job, and that you're gathering companions. And that by getting me to cooperate, we'll both receive rewards.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "キミが\nそのバイトとやらでカリンさんに雇われて、\n仲間を集めてるのはわかったよ。\nボクが協力することで、\nお互いに報酬が入るってこともさ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "What's more, ahh...! Just walking down the street, I attract attention with my cuteness and beauty! I understand all too well why you chose me first! But that's exactly why...",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "それに、\nああ……！　\n街を歩くだけで目を引いてしまうボクの\nこのかわいさ、\n美しさ！　\n真っ先に白羽の矢を立ててしまう\nキミの\n気持ちもわかりすぎるほどわかるってものさ！　\nでも、\nだからこそ……"
+    },
+    {
+      "name": "Yuki",
+      "text": "I think I'll decline after all. If I follow you, I'll have to entrust my fleshy body to those unseemly support machines.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "やっぱり\n遠慮しておくよ。\nそうなるとまた\nあの生命維持装置に、\nボクの玉のようなボディを預けっきりになるんだろう。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Well... I would love to go there and meet {0}-san. But... wouldn't that mean taking away from this world the greatest piece of art that is me?",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "まあ……\nあっちに行って、\n{0}さんに\n会いたい気持ちはあるよ。\nでもね……\nそれは、\nこの世界から\nボクという最高の芸術を、\n奪い去ってしまうことになるだろう？"
+    },
+    {
+      "name": "Yuki",
+      "text": "Don't you think it's a terrible loss? Everyone here owes my life for emotional support!",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "ひどい損失だと思わないかい？\n誰もが\nボクの美しさを心の支えにしているっていうのに。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Ah, if that's your worry, it's actually more of a gain than a loss. You won't need to take care of it while those machines do it for you, and you'll be able to save on cosmetics costs, right?",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "ああ、\nそれならむしろ、\n損失っていうより利益があるわよ。\n装置に入っているあいだはお手入れの必要もないし、\n化粧品代を浮かせたままにできるでしょう？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Right♪ If you consider that you'll also save on water and gas bills for baths, it's even more economical♪",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "そうだわ♪\nなんならお風呂の水道代やガス代も浮くって考えると、\nますます経済的じゃない♪"
+    },
+    {
+      "name": "Yuki",
+      "text": "That doesn't make sense! If I were to lock myself in something like that and something were to happen to my beautiful skin, it could cause a great depression in the world you know!? And besides...",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "話が嚙みあわないな！\nあんなものに閉じ込めて、\nボクの美肌に何かあったら、\nそれこそ\n世界に大恐慌が起きちゃうかもしれないよ！？　\nそれに──"
+    },
+    {
+      "name": "茉莉",
+      "text": "……あの二人は、\nこっちの世界の\nミフユさんとユキさん……\nもしかして……\nまた\nアストルムにダイブするって話をしてるッスか……？　",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "……あの二人は、\nこっちの世界の\nミフユさんとユキさん……\nもしかして……\nまた\nアストルムにダイブするって話をしてるッスか……？　"
+    },
+    {
+      "name": "茉莉",
+      "text": "…………\n…まっ、\n自分には関係ない話ッスねっ♪",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "…………\n…まっ、\n自分には関係ない話ッスねっ♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "What I'm trying to protect now is the peace of this town! So, I'll go on a righteous patrol while shopping... Whoa!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "いま\n自分が守るのは、\nこの街の平和ッス！\nさ～て、\n買い物しながら正義のパトロール……\nわっ！"
+    },
+    {
+      "name": "？？？",
+      "text": "PYAAAAAAAHHHH?! H-Hey! Look ahead while you're walking!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぴゃああああっ！？\nこ、\nこらっ！　\n前見て歩きやがれですっ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Aaah, s-sorry! A-Are you hurt?! ...Wait... Huh? Could you be...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ああっ、\nゴ、\nゴメンッス～！\nけ、\n怪我はないッスか！？\n……って……\nえ？　\nもしかして……"
+    },
+    {
+      "name": "Inori",
+      "text": "Pie...? Ahhh, y-you're...!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "ぴえ……？\nあ～っ、\nお、\nおまえは……！"
+    },
+    {
+      "name": "Inori",
+      "text": "It's so frustrating! I can't stand it! I'm a high-ranking executive of \"Dragon's Nest\"! If I wanted to, I could take out everyone in an instant!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "悔しいです！　\n悔しくてたまんねーですよ！\nあたしは【ドラゴンズネスト】の大幹部！\nその気になりゃみんなイチコロにしてやれるんですよ！？"
+    },
+    {
+      "name": "Inori",
+      "text": "And yet, every single person I meet makes fun of me, saying I'm crazy...",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "だってのに\nどいつもこいつも、\nあたしの頭がおかしくなったって\nバカにして……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "C'mon now, cheer up! Let's calm down by eating some candy♪ Um, well... at times like these, the town hero... should be cheerful and bright...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ま～ま～ま～、\n駄菓子でも食べて落ち着くッス～♪\nえ、\nえっと……\nこんなとき、\n街のヒーローなら……\n明るく\n明るく……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Ahem. Inori-san... it's okay to use that name, right? I want to hear more details. What exactly happened?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "……コホン。\n祈梨さん、\nで\nいいんスよね。\n詳しく聞かせてほしいッス。\nいったい\n何があったのか。"
+    },
+    {
+      "name": "Inori",
+      "text": "I just don't understand... Until recently, I was in a gang with my dragonfolk comrades! I was running around rampaging with the Boss, Kaya-pii and our minions!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "なんだかもう、\nわけが分かんねーです……\nちょっと前までのあたしは、\nドラゴン族のギャングで！\nボスやカヤぴぃたちと手下どもを従えて、\n暴れまわってたんですよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "I've been constantly fighting monsters, weaklings, and idiots who tried to invade our turf, and sometimes I've made risky bets and been punished by that old hag of our Boss, but! I'm a dragonfolk, an ultra-rare and powerful species...",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "魔物やヘタレ野郎や\nシマを荒らすバカどもとケンカ三昧で、\n時には危ない賭けもしたり\nクソボスババアにお仕置きされたりしたけど、\nでも！　\nあたしは超レア最強種族のドラゴン族でっ……"
+    },
+    {
+      "name": "Inori",
+      "text": "I wasn't afraid of anything and was always on an adventure. But the \"me\" here... I'm a wimp who can't even do a back flip on the horizontal bar. But it's definitely \"me\". Which one is the real \"me\"...?",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "何にも怖いものなんかなくって、\nいつも冒険してたです。\nでも、\nここにいるあたしは……\n鉄棒の逆上がりもできないヘタレで。\nけど、\n確かにあたしなんです。\nいったい\nどっちが本物なんですかね……？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Aaaah, don't cry, pal! You're confused, aren't you? Don't worry, though, Inori-san. We can go back to that world! Using that \"mimi\" device we'll be back in a flash!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ああ～～、\n泣かないッス泣かないッス！　\n混乱しちゃってるッスよね。\n祈梨さん。\nでも大丈夫ッスよ、\nこれから確かめに行けばいいんッス！\nmimiを使えばすぐ行けちゃうんスから！"
+    },
+    {
+      "name": "祈梨",
+      "text": "mimiは……\nその……\n……………………\nお母さんに没収されちまったです……\nあ\n～っ！　\n笑いやがりましたね！",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "mimiは……\nその……\n……………………\nお母さんに没収されちまったです……\nあ\n～っ！　\n笑いやがりましたね！"
+    },
+    {
+      "name": "茉莉",
+      "text": "い、\nいやいや、\nゴメンッス。\n……えへへ、\nじつは自分もなんスよ。\nや～\nも～、\n宿題だのお手伝いだの、\nうるさくって～\nこっちの世界の、\nお母さん──……\nなんスよね、\nあの人が……",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "い、\nいやいや、\nゴメンッス。\n……えへへ、\nじつは自分もなんスよ。\nや～\nも～、\n宿題だのお手伝いだの、\nうるさくって～\nこっちの世界の、\nお母さん──……\nなんスよね、\nあの人が……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, no, no! ...Hey, Inori-san, you're an adult! A very cool middle schooler! That reminds me of myself, you know? Playing hero in the game world!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "あ、\nいやいや！　\n……ね、\n祈梨さん。\n祈梨さんは、\n大人ッス！　\nかっこいい中学生ッス！\nそりゃ、\n自分も思い出すッスよ？　\nゲームの世界で\nヒーローごっこ！"
+    },
+    {
+      "name": "Inori",
+      "text": "...Pretend play...",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "……ごっこ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "But... even if I wanted to Dive, I don't have a \"mimi\" anymore. ......That's right. What's gone is gone, as they say♪ Ahaha♪",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "でも……\nダイブしたくたって、\nもう\nmimiはないんッス。\n…………\nそうッス。\nないものはないんッスよ♪　\nあははっ♪"
+    },
+    {
+      "name": "Inori",
+      "text": "I'm not a middle schooler! I am the strongest dragonfolk in a popular gang! And Matsuri! You're a member of the Royal Knights of NIGHTMARE who protect Landosol...!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "あたしは中学生じゃねーです！　\nドラゴン族の最強ギャングですよ！\nそして茉莉！　\nおまえはランドソルを守る\n【王宮騎士団（NIGHTMARE）】の一員です……！"
+    },
+    {
+      "name": "Inori",
+      "text": "I remember it all too well. I often think about my Astrum's mother... Ah, um, I'm talking about that stupid old woman who pretends to be my mother without my permission... That's why I have to find her again.",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "あたしはよく思い出すですよ。\nアストルムのお母さ……\nあ、\nえっと、\n勝手にお母さんヅラしてくる\nあのクソバカ年増のことですけど……\nだからあたしは、\nあいつをまた捜し出さなきゃなんねーです。"
+    },
+    {
+      "name": "茉莉",
+      "text": "─っ……",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "─っ……"
+    },
+    {
+      "name": "Inori",
+      "text": "When you're a gangster like me, you have to retaliate when someone attacks you. That's right... The only way to retaliate against your foes is to overthrow them! Hahahaha!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "ギャングなら、\nやられたらやり返さなきゃいけねーです。\nそう……\n下剋上してやる、\nっていう恩返しをですよ！！\nはーっはっはっはー！"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "Now, it's about time you left the house. You'll be late for training, you know? ...Take care!",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "さあ、\nそろそろ家を出ないと。\n訓練に遅刻しちゃうわよ？\n……いってらっしゃい！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Mom... *sniffle*... Ugh... Uuughhh...!!!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "お母……\nさん……\n…………\nうう……\nううぅうぅ～～っ……！！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Wh-Wh-What's wrong, Matsuri?! You suddenly started holding your head...! Maybe the candies we ate together earlier hit you in the stomach?! I'm not bullying you or anything!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "ど、\nどどどどうしたですか茉莉！？　\n急に頭抱えて……！\nもしかして、\nさっき一緒に食べた駄菓子が\nお腹にあたったですか！？　\nあたしはいじめたりしてねーですよっ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "WAIT RIGHT THERE! My first recruitment bonus!",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "待ちなさーい！\n私のボーナス第一号！"
+    },
+    {
+      "name": "Yuki",
+      "text": "You're so persistent! Ugh, I'm all sweaty from running around. ...Wait, whoah!",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "しつこいなあキミは！\nううっ、\n逃げ回ったせいで汗みずくじゃないかっ。\n……って、\nわっ！"
+    },
+    {
+      "name": "Inori",
+      "text": "PIEEEH?!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "ぴえっ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...I see, so that's what happened. My dear bonus no.2 and 3... Ah, no, ignore what I just said. For now, we understand each other's situations...",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "──なるほどそういうわけね、\n私のボーナス二号と三号……\nああ、\nいえ、\nこっちの話よ。\nとりあえず、\nお互いの状況は分かったところだけど……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "If you want to solve everything efficiently, there's a good way to do it♪ That is... \"Dive\" into Astrum together with us once again!",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "もし効率よくすべてを解決したいなら、\nいい方法があるわよ♪\nそれはね──\n私たち二人といっしょにもう一度、\nアストルムにダイブすること！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Can you not include me in this?!",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "しれっとボクも含めないでくれるかな！"
+    },
+    {
+      "name": "Inori",
+      "text": "Was this efficiency-obsessed lady even listening properly?! We've had our mimi taken away from us...",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "この効率厨のお姉さんは、\nちゃんと聞いてたですか！？\nあたしたちはmimiを取り上げられてて……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Hehe, about that... what fortune! Karin-san's going to arrange a brand-new mimi for us. As long as you come along♪ And don't worry about home either. The organization's support system is flawless.",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "ふふっ、\nそれが、\nな・ん・と！\n佳凛さんが新しいmimiを手配してくれるの。\n私たちと来るならね♪\nおうちのことも心配しないで。\n組織からのサポート体制は万全よ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Oh... that sounded like a sales pitch. Is that really okay? Of course, I'm Diving to help cover my family's living expenses... But I'll take responsibility and make sure it brings real benefits for everyone, too.",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "なんて……\nセールストークしちゃったけれど、\nこれでいいのかしら。\nもちろん、\n私がダイブするのは家の生活費のためだし……\nみんなにとっても責任もって、\n必ずメリットがあるようにしてみせるわ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "But... is that why I should Dive...? To have something in return...? ...No, it has to be. Everyone must've had a reason or another to get back in!",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "でも……\nダイブって、\nそういうことのために……\n見返りのためにするものだったっけ？\n……ううん、\n合ってるわ。\nそもそもの動機は、\n誰もがそうだったはずよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "D-Did you hear that, Matsuri?! They're going to give us new mimi! Now there's no more problems! We'll be able to go to back to Astrum again! Right?!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "き、\n聞きましたか、\n茉莉！　\n新しいmimiをくれるですよ！\nこれでもう問題はなくなったです！\nあたしたち、\nまたアストルムに行けるですよ！　\nね！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I can't... go back... pal...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "行け……\nない……\nッス……"
+    },
+    {
+      "name": "Inori",
+      "text": "HUUH?! What's wrong, Matsuri? Since earlier, you've been...!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "はぁ！？\nどうしたですか茉莉、\nさっきから……！"
+    },
+    {
+      "name": "茉莉",
+      "text": "……分から……\nない……、\n分からないんッス。\n自分が\n「mimiがないから行けない」って言ったのは……\nただの言い訳なんッス。",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "……分から……\nない……、\n分からないんッス。\n自分が\n「mimiがないから行けない」って言ったのは……\nただの言い訳なんッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I'm the one who can't grow up... I'm the one who's most confused. Everything you've said about yourself earlier is true for me too, Inori-san.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "大人になれないのは、\n自分……\n一番混乱してるのは、\n自分なんッスよ。\n祈梨さんが言ってたことは、\nそのまま全部、\n自分のことなんッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hey, Mifuyu-san... is it any different for you? What about you, Yuki-san? I'm... in pain. My head's a mess.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ねえ、\nミフユさんは違うッスか？　\nユキさんはどうなんスか？\n自分は……\n苦しいッス。\n頭ん中、\nぐちゃぐちゃッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Every single day, the image of myself in Astrum, swinging my sword and protecting peace, comes back to life in my head...! I DON'T UNDERSTAND! Which is the real world?! Which one is the real ME...?!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "毎日毎日、\nアストルムの自分が、\n剣を振って大暴れしてた自分が、\n頭の中によみがえって……！　\n分かんないんッス！\nどっちが本当の世界なのか！　\n本当の自分なのか……！"
+    },
+    {
+      "name": "美冬",
+      "text": "マツリちゃん……\nもしかして本当は\nマツリちゃんも、\nイノリちゃんみたいに、\n『認識の修正』が完全にはまだ解けていない……？　",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "マツリちゃん……\nもしかして本当は\nマツリちゃんも、\nイノリちゃんみたいに、\n『認識の修正』が完全にはまだ解けていない……？　"
+    },
+    {
+      "name": "Matsuri",
+      "text": "And the mother who helped me dress in the Tiger Tribe armor with her own hands... the nagging mother who only talks about my grades at school... Both of them are my real mother who cares about me...!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "トラ族の鎧を、\nその手で着せてくれたお母さんも……\n学校の成績のことしか言わない、\n口うるさいお母さんも……\nどっちも、\n自分のことを大切に考えてくれる、\n本当のお母さんで……！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I DON'T UNDERSTAND! I just don't understand where I should belong! Hey, please tell me... Mifuyu-san...! Yuki-san...!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "分かんないッス！\nどっちを追いかけたらいいか、\n自分には分かんないッス！\nねえ、\n教えて……\nミフユさん……！　\nユキさん……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "...Yeah. I certainly heard your heartfelt cry. I see, you...",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "……ああ。\nキミの心の叫び、\nたしかに届いたよ。\nそうか、\nキミは……"
+    },
+    {
+      "name": "Yuki",
+      "text": "...Are not beautiful at all.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "美しくないね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "I've never known a girl as whiny and gloomy as you. The real me? The real world? Ugh, those un-beautiful worries are enough to give me a headache.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "キミみたいなウジウジジメジメした子なんて、\nボクは知らないなあ。\n本当の自分？　\n本当の世界？\nああ、\nそんな美しくない悩み、\n頭痛がしそうだよ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yuki-chan?! What are you saying to such a young girl?!",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "ユキちゃん！？\nこんな小さい子に向かってなんてこと言うの！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Ah, right, right! I do know about Matsuri-chan, the apprentice knight of the Royal Knights of NIGHTMARE whom I once met in Astrum.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "ああそうそう！　\nかつてアストルムの中で出会った、\n【王宮騎士団（NIGHTMARE）】の見習い騎士、\nマツリという子のことなら、\nボクは知っているよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Huh...?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "……え……"
+    },
+    {
+      "name": "Yuki",
+      "text": "That girl, you see... she was always excited, going around and calling herself a hero. She seemed to be having fun, while also training as hard as she could.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "その子はね、\n自分のことを、\nヒーローなんだって言って、\n張り切ってたっけ。\n大変な訓練も、\n楽しそうにこなしていてね。"
+    },
+    {
+      "name": "Yuki",
+      "text": "That girl never stopped being a hero. Just like I never stop being my cute self. Unlike you standing in front of me now... she was beautiful.",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "どんな時も、\n自分がヒーローであることを、\nその子はやめなかった。\nボクがどんなときでも、\nかわいいボクをやめないようにね。\nいまボクの前にいるキミと違って、\n美しい子だったけれど。"
+    },
+    {
+      "name": "Yuki",
+      "text": "...Ah, and in contrast, look at me! No matter what world I'm in, I shine so brightly! This is what they mean by radiance that overflows from within♪",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "……ああ、\nそれに引きかえこのボクは！\nどんな世界にいようと、\nなんてキラキラしているんだろう！\n内面からにじみ出る輝きとは、\nこういうのを言うんだろうねえ♪"
+    },
+    {
+      "name": "Inori",
+      "text": "D-D-Don't make fun of us! You self-intoxicated beauty narcissist! What would you know!? You've never had your head messed up with before...!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "なっ、\nバ、\nバカにするんじゃねえですよ！\nこの美貌自家中毒患者っ！　\nおまえに何が分かるですか！？\n頭がぐちゃぐちゃにされたこともないおまえにっ……！"
+    },
+    {
+      "name": "Inori",
+      "text": "Matsuri was hiding the fact that her head was a mess and staying cheerful to cheer me up! Matsuri is a real bonafide hero! If you keep insulting her, I'll mess you up!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "茉莉は、\n自分の頭がぐちゃぐちゃなのを隠して、\nあたしを元気づける\nために、\n元気を貫いてたです！　\n茉莉はちゃんとヒーローでしたよ！\n侮辱するってんなら\nボコボコにしてやるですよっ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Matsuri, you too! You can't just stay quiet when someone says whatever they want like that! Look! ...Matsuri? What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "茉莉もっ！　\n言いたい放題言われて黙ってちゃダメです！\nほらっ！　\n……茉莉？　\nどうしたですか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Hehe... Amazing... You're so beautiful, Inori-san. You were so cool!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "……ふふっ……\nすごい……\n美しいッス、\n祈梨さんは。\nかっこいいッスよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "You're the kind of person who would think something like that about me even when I've always been just worrying! Someone who'd get angry on my behalf! I've received your always beautiful feelings, Inori-san.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ただウジウジ悩んでただけの自分を、\nそういうふうに\n思ってくれる人ッス。\nそれで、\n自分のかわりに怒ってくれる人ッス。\n祈梨さんの\nいつも美しい気持ち、\n受け取ったッスよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "And Yuki-san. Thank you, pal. Your words made me remember.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "そして、\nユキさん。\nあ\nりがとうッス。\nあなたの言葉で、\nしっかり思い出したッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I don't know what's true... Certainly, that's a silly worry♪ There's always one truth, and it's always been inside of me.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "何が本当か分からない……\nたしかに、\nへへっ、\nばかみたいッスよね♪\nあるじゃないッスか、\n本当のこと、\nいつだって\nたった一つ、\n自分のなかに。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "The world is in danger right now... People are asking for help... If that's the case...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "いま、\n世界は危機に陥っている……\n人々が\n助けを求めてる……\nだったら……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I have no choice but to go and save them! If I'm a real hero!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "救いにいくっきゃないッスよね！\nヒーローなら！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "No matter where, I have to go! That's the beauty of being a hero! Heheh!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "たとえそこがどこだろうと、\n行くしかないッス！\nそれが\nヒーローの美学、\nッスよ！　\nへへんっ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...That's right... I understand too. I understand now. The truth in my heart.",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "……そうだわ……\n私も分かった。\nいま分かったわ。\n私の心の中の、\n本当のこと。"
+    },
+    {
+      "name": "Akino",
+      "text": "Oh ho ho ho♪ There's nothing to worry about, Yukari-san and Mifuyu-san! If we all join forces again, we can overcome any crisis♪",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "おーっほっほっほ♪\n心配無用ですわ\nユカリさん、\nミフユさん！\nまたみんなで力を合わせれば、\nどんな危機も\n乗り越えられますわ♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "At the Mercurius Foundation, along with everyone else, I was constantly being pushed around by Akino-san... that was, well... hehe, it was fun. It was a fun... beautiful memory.",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "【メルクリウス財団】で、\nみんなと一緒に、\nアキノさんにいっぱい振り回されて……\nあれは、\nそう……\nふふっ、\n楽しかったわ。\n楽しくて……\n美しい思い出。"
+    },
+    {
+      "name": "美冬",
+      "text": "私のバイト代のことも、\nきっと言い訳なのね。\nきっと、\nそんなことのためじゃない、\n私は\n私が行きたいから行くんだわ。\nみんなに会いたくて、\nあの場所を守りたくて！　",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "私のバイト代のことも、\nきっと言い訳なのね。\nきっと、\nそんなことのためじゃない、\n私は\n私が行きたいから行くんだわ。\nみんなに会いたくて、\nあの場所を守りたくて！　"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Hehe... Hehehe...♪ That's right, I remember now. I'm glad I remembered!",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "ふふっ……\nふふふっ……♪\nそうだったわ、\n思い出した。\n思い出せてよかったわ！"
+    },
+    {
+      "name": "Inori",
+      "text": "What are you laughing at all of a sudden?!",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "急に何を笑いやがるです！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "No, it's nothing. Just something about myself♪ Come on, let's all return to Astrum! We don't have much time. I'll show you around right away, to the Reverse Tower!",
+      "choice_data_list": [],
+      "orig_name": "美冬",
+      "orig_text": "ううん、\nなんでもないの。\nただ、\n私自身のことでね♪\nさあ、\n行くわよ、\nみんなでアストルムへ！\n時間がもったいないわ。\nさっそく案内するわよ、\n『リバースタワー』に！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hey, wait, what? Why are you pulling on ME too?! I don't want my clothes to tear, wait! Hey, hey! Can't you hear me?! LET ME GO AT ONCE!",
+      "choice_data_list": [],
+      "orig_name": "雪",
+      "orig_text": "ちょ、\nま、\nえっ、\nなぜボクまで引っ張るんだい！？\n服が破れたら困るよ、\nちょっと！\nねえ！　\nおい！　\n聞こえてないのかい！　\nは～な～し～て～っ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "\"Sorry, Mom! It seems like this shopping trip will take a while.\" Something like that will do... Yeah, I'll leave this message for her. Now, I'll just have to trust that Karin-san will figure something out.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "『お母さん、\nごめん！　\nちょっと\n長い買い物になりそうッス』、\nと……\nうん、\nメッセージは入れておいたッス。\nあとは\nカリンさんがなんとかしてくれるって、\n信じるしかないッスね。"
+    },
+    {
+      "name": "Inori",
+      "text": "Matsuri, are you worried that your mother will be concerned?",
+      "choice_data_list": [],
+      "orig_name": "祈梨",
+      "orig_text": "茉莉、\nお母さんに心配かけるの、\n気にしてるですか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Well, of course I'd be... But I'm a hero who protects people, and my mother is obviously among those I strive to protect.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "まあ、\nそうッスね……\nでも、\n自分は\n人々を守るヒーロー\nその人々の中には、\nこっちのお母さんのことだって入ってるッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Once peace is restored to the world, I will definitely return here, open the door to my house, face her properly and say...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "世界に平和を取り戻したら、\n必ずまたここへ戻って、\n家のドアを開けて、\nちゃんと向き合って──"
+    },
+    {
+      "name": "Matsuri",
+      "text": "\"I'm home!\" with all the energy I have!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "元気いっぱい、\n「ただいま」って\n言うッスよ！"
+    }
+  ]
+}

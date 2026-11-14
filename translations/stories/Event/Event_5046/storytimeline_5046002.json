@@ -1,0 +1,978 @@
+{
+  "title": "Advisor Misato's Trial",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After school, Misato and {0} begin practicing beach baseball with the other club members.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "放課後、ミサトと{0}は、\n部員たちとビーチベースボールの練習を始める。"
+    },
+    {
+      "name": "Misato",
+      "text": "Good work in class, everyone~ Now it's time for club practice! Let's get fired up~ ...Oh my, where's Asahi-kun?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "みんな、\n授業お疲れさま～\nさあ\n部活の時間よ。\n張り切っていきましょうね～\n……あら、\nアサヒ君は？"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Apparently, he's on duty today. He said he'll come over when he's finished, so we should start without him.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "今日は日直だそうだ。\n終わったら行くから、\n先に始めててくれだと。"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, is that so? Then, let's get started. Everyone, be careful not to get hurt!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nそうなのね～\nじゃあ\n始めちゃいましょうか。\nみんな、\n怪我には気をつけるのよ～！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Yeah, leave it to me. You bastards... you know what to do, right?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ああ、\n任せとけ。\nテメェら……\n分かってるな？"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Y-Yeah!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "お、\nおう！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "We'll start with a warm-up. The teacher told us to be careful not to get hurt. So let's get our shoulders... WARMED UP!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "まずウォーミングアップからだ。\n先生も怪我に気をつけろって言ってるからな。\n肩慣らしといこうじゃねえか……\nおらあっ！"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Oww, ouch! Don't just go for a joint lock out of nowhere!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "いでで！\nいきなり関節技かますんじゃねえ！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "An old man like you needs this much to loosen up!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ジジイはこれくらいしねえと、\nほぐれねえだろ。"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Ukeke! You shouldn't do pro wrestling on the beach! At this rate, you'll be covered in dirt in no time!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ウケケ！　\nビーチでプロレスなんかするもんじゃねえな！\nこれじゃあ、\nあっという間に全身汚れちまうぜ！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Ah, right! We even had these uniforms just washed. So anyway... let's go for some more! LIKE THIS!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ああ、\nせっかく洗ってもらったばかりなのにな。\nつーわけで……\nもっといくぞ！　\nおらあ！！"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Ugh... Treating me like an old man so brazenly...! I'll show you that I won't lose to any young whippersnapper just yet! HMPH!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "ぐっ……\nワシを年寄り扱いしやがって……！\n若いモンにはまだ負けんってとこ、\n見せてやるからな！　\nふんぬー！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Ukeke! Let me join in! DORYAAAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ウケケ！\nオレも混ぜろよ！　\nどりゃー！！"
+    },
+    {
+      "name": "Misato",
+      "text": "Fufu, so energetic~! Keep up the good work~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ、\nとっても元気ね～！　\nその調子よ～！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, I don't think so... Maybe it just looks that way because they're so enthusiastic?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nそうは思えないけど……\n張り切ってるから、\nそう見えるだけじゃないかしら～？"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, Daichi-kun. Aren't you going to join us? I was hoping you could teach everyone how to practice until Asahi-kun arrives...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nダイチ君。\nあなたは一緒にやらないの？\nアサヒ君が来るまで、\nみんなに練習を教えてあげてほしいんだけど……"
+    },
+    {
+      "name": "Daichi",
+      "text": "I'm not getting involved. Besides, what they're doing right now is... Hmph. Never mind.",
+      "choice_data_list": [],
+      "orig_name": "ダイチ",
+      "orig_text": "俺は関わらねえよ。\nそれにあいつらが今やってんのは……\nふん。\nなんでもねえ。"
+    },
+    {
+      "name": "Daichi",
+      "text": "Don't expect too much from us, okay? You'll probably regret it. Well, it doesn't really concern me either way.",
+      "choice_data_list": [],
+      "orig_name": "ダイチ",
+      "orig_text": "俺らに期待すんのも程々にしとけよな？\nきっと後悔するぞ。\nまあどっちにしろ俺には関係ねえけどよ。"
+    },
+    {
+      "name": "Misato",
+      "text": "As a teacher, it's only natural for me to have high expectations of my students~ I'd love to see you play~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "先生だから、\n生徒に期待するのは当然じゃない～\nあなたがプレイするところを見てみたいわ～"
+    },
+    {
+      "name": "Daichi",
+      "text": "Hmph...",
+      "choice_data_list": [],
+      "orig_name": "ダイチ",
+      "orig_text": "ふん……"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, he's gone... Hmm... I wonder how we can get Daichi-kun to join the club...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら\n行っちゃったわ\n……\nどうしたらダイチ君も部活をやってくれるのかしら……"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Alright, this should be good enough for a warm-up.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "よし、\nウォーミングアップはこれくらいで十分だろ。"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "So this is how dirty beach baseball uniforms get, huh? Ukekeke!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ビーチベースボールってのは、\nこんなにもユニフォームが汚れるもんなんだなあ？　\nウケケ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, are you done stretching? What are you going to do next?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nストレッチはもう終わり？\n次は\nなにをするのかしら？"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Yup. Next we'll play some catch.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ああ、\n次はキャッチボールをやる。"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my! It's really starting to look like a beach baseball club, that's great! Is there anything I can do to help? I'd love to join the practice as an advisor.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nビーチベースボール部らしくなってきていいわね～！\n私にも\nなにかお手伝いできることはないかしら？\n顧問として\n私も練習に参加したいの。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Perfect timing... In that case, could you go and pick up any balls that fly off? We're complete amateurs who've barely ever thrown a ball before. We don't know where they might end up.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ちょうどいい……\nだったら、\n暴投しちまったボールを拾ってきてくれ。\nオレたちはロクにボールも投げたことねえ素人だ。\nどこに飛んでいくか分からん。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "If we have to go and retrieve each ball ourselves, it'll be a waste of practice time. So if you could collect them for us, that waste wouldn't exist.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "オレたちが一球一球取りに行ってると、\n練習の時間がもったいない。\nだから先生が集めてきてくれるなら、\nその無駄もなくなるからな。"
+    },
+    {
+      "name": "Misato",
+      "text": "Fufu, got it! Leave it to Sensei, feel free to throw the ball with all your might!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ、\n分かったわ～！\n先生に任せて、\nみんなは思い\nっきりボールを投げてちょうだいね。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Did you hear that? She said to throw with all our might... HERE GOES!!!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "今の聞いたか？\n思いっきり投げろだとよ……\nそぉらっ！！！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Damn, you just hit a home run during a game of catch!! Hyahaha! If you keep throwing wild pitches like that, no amount of balls will be enough!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "キャッチボールでホームランが出たぜー！　\nヒャハハ！\n毎回あんな暴投じゃ、\nボールがいくつあっても足りねえぜ！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Don't worry. Our teacher is here to retrieve them for us... Isn't that right?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "心配するな。\n先生が取りに行ってくれるからよ。\nな、\nそうだろ？"
+    },
+    {
+      "name": "Misato",
+      "text": "Sure~ Let's do this together, {0}-kun. Everyone, please keep playing catch~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "いいわよ～\n一緒に行きましょう、{0}君。\nみんなは\nキャッチボールを続けていてちょうだいね～"
+    },
+    {
+      "name": "Misato",
+      "text": "I think it flew around here. I wonder where it is...?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "この辺りに飛んでいったと思うんだけど、\nどこかしら……？"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Sorry, Teach! There's another flying your way!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "すまねえ先生～！　\nまたそっちに飛んだぞ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh myyy~?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら～？"
+    },
+    {
+      "name": "Misato",
+      "text": "EEEK!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "きゃっ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Thank you, {0}-kun. Nice catch!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ありがとう、\n{0}君。\nナイスキャッチね～！"
+    },
+    {
+      "name": "Misato",
+      "text": "My oh my, so many balls are flying towards us one after the other~ We have to pick them all up. Let's hurry~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら、\nまたたくさんボールが飛んできたわ～\n全部拾ってあげなくちゃ。\nちょっと\n急ぎましょうか～"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Alright, let's go to the next one. You guys better catch it properly this time.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "よし次行くぞ。\nテメェら今度こそちゃんと捕れよ。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Gahaha! You're the one who's throwing it in the wrong direction!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "ガハハ！\nオマエが明後日の方向に投げてんだろうが！"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Still, you've got a great arm and shoulders to be able to throw that far. Maybe you'd do well in beach baseball?",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "しかしよー、\nあんな遠くまで投げられるなんて、\nオマエいい肩してるぞ。\nもしかしてビーチベースボールに向いてるんじゃねえか？"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Stop messing around. Like I'd ever understand what's so fun about throwing a ball around like this.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "冗談よせよ。\nこんなボールを投げて、\nなにが楽しいのか全く分からねえ。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "That said... I wonder if she's really going to pick up every last one of them.",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "それにしてもな……\n全部拾ってくるだろうか、\nあの先生は。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "She keeps talking like she's some kind of saint, but she's a teacher like any other. She'll get fed up with us soon enough. Every single one of them is only capable of looking at us like garbage.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "聖人みたいな言葉ばかり並べてるが、\n他の教師たちと同じだ。\nすぐオレたちに愛想つかすに決まっている。\nどいつもこいつも\nオレたちをゴミみたいな目で見るしか能のない連中だ。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Now then, the last ball available is the one in my hand... So, this will be the finishing blow... Huh?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "さて、\n手元に残ってるボールはこれが最後だな……\nそれじゃトドメだ……\nん？"
+    },
+    {
+      "name": "Misato",
+      "text": "Ehe~! Sorry for the wait~! *Pant* We picked them all up!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "おまたせ～！　\n拾ってきたわよ～！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "What...? Hey, did you really pick ALL of them?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "なに……？\nおい、\n本当に全部拾ってきたのか？"
+    },
+    {
+      "name": "Misato",
+      "text": "Hmm... One, two... Yeah, it should be all of them. Sorry for the wait~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "いち、\nに……\nうん、\n全部あるはずよ。\n遅くなっちゃって\nごめんね～"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "No, that's not the issue. We, umm...",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "いや、\nそういうことじゃない。\nオレらが、\nその……"
+    },
+    {
+      "name": "Misato",
+      "text": "...? But more importantly, it's amazing how far you can throw~ I'm sure you'll do great in a real game~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……？\nそれより、\nあんなに遠くまで投げられるなんてすごいわ～\nきっと\n試合でも大活躍するに違いないわね～"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "What?!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "なにっ！？"
+    },
+    {
+      "name": "Misato",
+      "text": "You even put your hearts into your stretches. That makes Sensei so happy~! Your uniforms got dirty already, but don't worry~ I'll clean them every day.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ストレッチも気合い十分だったし、\n先生うれしいわ～\nさっそく汚れちゃったけど、\n毎日洗濯するから\n気にしないでちょうだいね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Keep practicing a lot, and don't worry about getting them dirty~! That dirt is proof that you are all working hard~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "これからもい\nっぱい練習して、\nどんどん汚しちゃって構わないわよ～\nその汚れは、\nみんなが頑張ってる証なんですから～"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Why aren't you mad at us...?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "どうしてオレたちを怒らない……？"
+    },
+    {
+      "name": "Misato",
+      "text": "Hm? I should be mad at you? I wonder why~? If anything, I should be apologizing...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あなたたちを怒る？　\nどうしてかしら～？\nそれより\n謝るのは先生の方よ……"
+    },
+    {
+      "name": "Misato",
+      "text": "I'm sure I must've surprised you at first. After all, I, a special lecturer, suddenly asked you all to resume your club activities...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "きっと\n初めは驚いたと思うの。\n特別講師の私が、\nいきなり部活をやろうなんて\nお願いをしたから……"
+    },
+    {
+      "name": "Misato",
+      "text": "But... to see you practicing so hard... Sensei's overjoyed to have met such kind students!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "でも、\nこんなに一生懸命練習してくれて……\nみんなのような優しい生徒と出会えて、\n先生はとってもうれしいわ。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Are you serious...?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "本気で言っているのか……？"
+    },
+    {
+      "name": "Misato",
+      "text": "Yes, as serious as I can be!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "はい、\n本気ですよ～！"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Gahahaha! It's just like I said! She's definitely different from the others!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "ガハハハハ！　\nワシの言った通りだったな！\nやっぱ\n他のヤツらとは違えぜ！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Seriously, I can't believe a teacher like this exists...",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "マジでこんな先生がいるなんてな……"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Hey, you. Is this teacher... always like this?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "なあ、\nおい。\nこの先生、\nいつもこんな調子なのか？"
+    },
+    {
+      "name": "Club Member 2 & Club Member 3",
+      "text": "...HUH?!",
+      "choice_data_list": [],
+      "orig_name": "部員２・部員３",
+      "orig_text": "……は！？"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "A-A LAP PILLOW, YOU SAYYY?!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "ひ、\n膝枕だとぉ～～！？"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "By lap pillow, you mean... that one? You've put your head on her lap... and then had her gently pat you on your head? That one?!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "膝枕ってのは、\nあれか？\n先生の膝の上に、\nオマエの頭を乗せて……\nそれで\n優しく撫でてもらったりとかしちゃうのか？　\nそうなのか！？"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "He's just a kid, yet he's living the life already...",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "ガキのくせして、\nなんていい思いをしてんだ……"
+    },
+    {
+      "name": "？？？",
+      "text": "Ah, there you are!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あ、\nいたいたー！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my! Hatsune-chan!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら～！　\nハツネちゃん！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Here I am! Sparkleee☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "私も来ちゃったのだ！　\nきらーん☆"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh, but, but! Don't worry! I've asked Aoi-chan to take on our work as \"Forestier\"!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あ、\nでもでも安心して！\n【フォレスティエ】の仕事は、\nアオイちゃんにお願いしたから！"
+    },
+    {
+      "name": "Misato",
+      "text": "Fufu, that's reassuring to hear. But... that outfit...?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ、\nそれなら安心ね。\nでも\nその格好……？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I heard that you became the advisor for the beach baseball club, so I thought I'd like to help out too, Misato-sensei!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ミサト先生がビーチベースボール部の顧問になった\nって聞いたから、\n私もお手伝いしたいなって思って！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I want to support you, {0}-kun, and all the club members at the same time, so I'm going to join the club as a cheerleader!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ミサト先生も、\n{0}くんも、\n部員のみー\nんなもまとめて応援しようと思って、\nチアリーダーとして、\n私も部活に入っちゃうよー！"
+    },
+    {
+      "name": "Misato",
+      "text": "My oh my! We've got such a reliable new ally~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら～、\nとっても\n心強い味方が増えたわね～！"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Another young girl has arrived...? And she also seems to be well acquainted with {0}...",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "また若い娘さんが増えた……？\n{0}の\n知り合いのようだけどよぉ……"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Hatsune-chan... huh? She looks like a nice, cheerful girl...",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ハツネ……\nちゃん\nって言うのか。\n明るくていい子そうじゃねえか……"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "I don't want to admit it, but if you look closely at that teacher...",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "認めたくはねえが、\nあの先生もよく見たら……"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Yeah... She's a beauty...",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ああ……\n激マブだぜ……"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "I noticed it from the very beginning! The charm of the teacher... no, Misato-chan!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "ワシは最初から気付いていたぞ！\n先生の……\nいや、\nミサトちゃんの魅力に！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Referring to her with \"-chan\" out of nowhere... You're being way too forward.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "急にちゃん付けしやがって……\n調子良すぎるぞ。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Hm? Well, I mean... I'm older, and I've always been the type to take the initiative.",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "む？　\nだって\nワシの方が年上だし、\nグイグイ引っ張っていくタイプだからな。"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my~? You've been whispering in secret for a while now. What are you talking about? Let Sensei in, too~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら～？　\nさっきからこそこそ\n内緒話かしら～？\nどんなことをお喋りしてるの？　\n先生もまぜてちょうだい～"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "A-Actually, I... all this time, for you Misato-chan... OUCH!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "じ、\n実はその……\nワシはずっと前から\nミサトちゃんのことが……\nいてっ！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Don't do it. You'll just end up getting rejected anyway. An old man like you has no chance.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "やめとけ。\nどうせフラれるのがオチだ。\nオヤジのオマエじゃ、\n無理に決まってる。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ah! So you must be the club members! I'm Hatsune. Nice to meet you all!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あっ、\nあなたたちが部員だね！\n私はハツネ。\n今日からよろしくね！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Besides cheering, I will also help out with club activities, so if you have any problems, leave it to Hatsune-chan! Sparkleee☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "応援以外にも\n部活のお手伝いとかもするから、\n困ったことがあったら\nハツネちゃんにお任せなのだー！　\nきらーん☆"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Thump!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ドッキーン！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Huh? You suddenly froze up, what happened? Did you perhaps hurt yourself during practice...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あれ？　\n急に固まっちゃって、\nどうしたの？\nもしかして\n練習でどこか痛めたとか……"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "N-No! It's nothing!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "い、\nいや！　\nなんでもねえ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Really? Then that's great!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そうなのー？　\nなら\n良かったー！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "...This beach baseball club used to be nothing but a bunch of sweaty guys, but finally it seems a spring of youth is upon us...!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "……男ばっかでむさ苦しかったビーチベースボール部に、\nついに青春の予感が……！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "H-Hatsune-chan!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ハ、\nハツネちゃん！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hm, what?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん、\nなにー？"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Ah, no! I was just wondering if it's okay if I call you \"Hatsune-chan\"...",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "あ、\nいや！\nハツネちゃん……\nって、\n呼んでもいいかなーって。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Of course it is!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "もちろんだよー！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "...! Hatsune-chan! We're going to practice as hard as we can, so watch over us!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "……！　\nハツネちゃん！\nオレたち、\nめちゃくちゃ練習頑張るから見ててくれ！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Yeah. Which is why we want you to do your best supporting us, Hatsune-chan!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ああ。\nだからハツネちゃんも、\nオレたちの応援を頼む。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, leave it to me! I'll cheer everyone up!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん、\n任せてー！\nみんなに元気\nあげちゃうよー！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "KHHHH! So reliable! Let's start practicing!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "くぅー！　\n頼もしいぜ！\nんじゃ\n練習始めようぜ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It's my turn now! Let's go with enthusiasm! Keep it up, keep it up! Go, fight! Goooo!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "さっそく私の出番だね！　\n張り切っていこうー！\nフレー、\nフレー！　\nゴー、\nファイト！　\nゴー！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Hyahaha! Just having Hatsune-chan cheer me on makes me feel like I've become a master of this sport!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ヒャハハ！　\nハツネちゃんに応援されただけで、\nなんかもううまくなった気がしてきたぜ！！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Yeah. Having Hatsune-chan's support sure feels nice.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ああ。\nいいもんだな、\nハツネちゃんの応援って。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Witness, Misato-chan! My impressive super play! Gahahaha!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "見ててくださいね、\nミサトちゃん！\nワシのスーパープレーを！　\nガハハ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Fufu, of course I will~ I'll always be watching over you all. Do your best~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ、\nもちろんですよ～\nみんなのことは、\nいつでも見守っていますからね。\n頑張って～！"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Yessss!!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "はーーーい！！"
+    },
+    {
+      "name": "Asahi",
+      "text": "H-Hey! What are you all doing in a uniform?!",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "おい！　\nユニフォームなんか着て\n何してるんだよ！？"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "YOU'RE LATE, ASAHI! Bastard, are you up for this?",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "遅いぞ、アサヒ。\nテメェやる気あるのかよ。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Can't you tell just by looking? We're doing our club activities! Your favorite beach baseball!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "見て分からねえのか？\n部活だよ！　\nオマエの大好きなビーチベースボールだ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So you must be the captain, Asahi-kun! I'm the cheerleader, Hatsune-chan! Starting today, I'll be working with you! Sparkleee☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あなたがキャプテンのアサヒくんだね！\n私、\nチアリーダーのハツネちゃんなのだ！\n今日からよろしくね！　\nきらーん☆"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Everyone is super motivated, and it's fun to cheer them on! It looks like it's going to be a hot summer!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "みんなすっごくやる気で、\n応援してて楽しいよ！\n熱い夏になりそうだね！"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Yeah. Let's make this a summer to remember, Hatsune-chan.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "ああ。\n最高の思い出を作ろうぜ、\nハツネちゃん。"
+    },
+    {
+      "name": "Asahi",
+      "text": "W-Wait a minute. Are you really... being serious about this?",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "ちょっと待ってくれよ。\nそれ\n本気で言ってるのか？"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "I've seen the light... all thanks to Ms. Misato and Hatsune-chan.",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "目覚めちまったんだよ。\nミサト先生とハツネちゃんのおかげでな。"
+    },
+    {
+      "name": "Misato",
+      "text": "Asahi-kun, could you teach everyone how to practice? I still don't really know much about beach baseball...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "アサヒ君、\nみんなに\n練習を教えてあげてくれる？\n私はまだ\nビーチベースボールのこと、\nよく分からなくて……"
+    },
+    {
+      "name": "Asahi",
+      "text": "Looks like they're not lying... Understood, teacher. Let's start practicing then!",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "どうやら本当みたいだな……\n分かりました、\n先生。\nそれじゃあ\n練習を始めよう！"
+    },
+    {
+      "name": "Misato",
+      "text": "Fufu! We're in your hands~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ、\nよろしくね～！"
+    },
+    {
+      "name": "Asahi",
+      "text": "Right, when playing catch, try throwing the ball towards your partner's chest. When catching, don't just use one hand, but gently cup it with both hands... that way you can make a secure catch.",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "そう、\nキャッチボールは相手の胸元辺りを目掛けて投げてみて。\nキャッチする時は\n片手で捕るんじゃなくて、\n両手で優しく包み込むように……\nそうすれば\n確実な捕球ができるよ。"
+    },
+    {
+      "name": "部員１",
+      "text": "相手の胸元……",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "相手の胸元……"
+    },
+    {
+      "name": "Misato",
+      "text": "Everyone, if you get tired, don't push yourself and tell Sensei, okay? Resting is part of practice too~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "みんな、\n疲れたら\n無理せずに\n先生に言うのよ～？\n休むのも練習のうちですからね～"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Mm! Misato-chan?! ...Ah!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "むっ！　\nミサトちゃん！？　\n……\nあっ！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "OI, YOUR CONTROL'S DAMN TERRIBLE! Hey... Teach, are you hurt?",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "オメー、\nコントロール悪すぎだぜ！\nよ\nっと\n……\n先生、\n怪我はねえっすか？"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my... thank you! You are quite fast! Did you play any sports before?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nありがとう～！\nあなたはとっても足が速いのね～\n何か\nスポーツをやっていたの？"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Ukeke! I'm not bragging, but I've always been confident in my speed. That's why I'm so good at running away after dining and dashing... Ah, never mind.",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ウケケ！　\n自慢じゃねえけど、\n昔っから足の速さだけは自信あるんすよ。\nだから食い逃げなんかを……\nああいやなんでもねえや。"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, I see~! So you were chasing after and catching people who did things like that? I think that's a wonderful attitude. That's great~!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら\nそうなの～！\nそういったことをした人を追いかけて捕まえてるのね～\nとっても素晴らしい心がけだと思うわ。\nえらいえらい～！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "...Yeah, let's leave it at that!",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "……ああ、\nそういうことにしといてくれ！"
+    },
+    {
+      "name": "Asahi",
+      "text": "Mm! That speed is definitely something to look forward to in the game. The other two are also well-built, so I'm sure they'll be able to hit home runs too.",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "うん、\nその足の速さは試合でも十分に期待できるね。\n他の二人もガタイはいいし、\nきっと\nホームランも狙えそうだよ。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Hmm... Really? How do you do that? You've got experience, right? Teach me the trick!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "む……\n本当か？　\nどうやったら打てるんだ？\nオマエ経験者だろ？　\nワシにコツを教えてくれ！"
+    },
+    {
+      "name": "Asahi",
+      "text": "U-Umm... Sorry. I don't know the trick to hitting a home run. I've never hit one before...",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "え、\nえーっと……\nごめん。\nホームランのコツは分からないんだ。\n俺、\n今まで打ったことないから……"
+    },
+    {
+      "name": "Asahi",
+      "text": "I can teach you the basics, but I might not be able to give you advice on how to play in a way that will be effective at the national level.",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "基礎的なことは一通り教えられるけど、\n全国大会で通用するようなプレーのアドバイスは、\n俺にはできないかもしれない。"
+    },
+    {
+      "name": "Club Member 3",
+      "text": "Seriously...? Can we really reach the national summer tournament like that? Our coach's also an amateur!",
+      "choice_data_list": [],
+      "orig_name": "部員３",
+      "orig_text": "マジか……\nそんなんで夏の全国大会行けるのか？\n監督も素人なんだぞ。"
+    },
+    {
+      "name": "Club Member 1",
+      "text": "Then... who's going to teach us how to master beach baseball? I want to hit a super-sized home run!",
+      "choice_data_list": [],
+      "orig_name": "部員１",
+      "orig_text": "じゃあ\n誰がビーチベースボールを教えてくれるんだ？\nワシは超特大のホームランを打ちてえ！"
+    },
+    {
+      "name": "Misato",
+      "text": "You mean you know a coach, right? Well then, may I ask you to invite them for our next practice~?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "コーチ\nってことよね？\nそれじゃあ今度、\n練習に呼んでもらってもいいかしら～？"
+    },
+    {
+      "name": "Asahi",
+      "text": "Wait a minute. Beach baseball isn't just about hitting home runs to win. You have to hone your throwing, catching, and hitting skills... mastering all of those is the key to success.",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "ちょっと待って。\nビーチベースボールは\nホームランが打てれば勝てるわけじゃないよ。\n投げて、\n捕って、\n打って……\nそれら全てを鍛えないと駄目なんだ。"
+    },
+    {
+      "name": "Asahi",
+      "text": "There's no way you'd be able to find a coach that conveniently...",
+      "choice_data_list": [],
+      "orig_name": "アサヒ",
+      "orig_text": "そんな都合よくコーチが見つかるわけが……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "If {0}-kun says so, then trust in him!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "{0}くんが言うなら大丈夫だよー！"
+    },
+    {
+      "name": "Club Member 2",
+      "text": "Pipe down, Asahi! Hatsune-chan said he's a reliable man! Right, Misato-sensei?",
+      "choice_data_list": [],
+      "orig_name": "部員２",
+      "orig_text": "ゴチャゴチャうるせーぞ、\nアサヒ！\nハツネちゃんもそう言ってんべ！　\nねー、\nミサト先生？"
+    },
+    {
+      "name": "Misato",
+      "text": "Yeah, I'm sure there's no need to worry. He's extremely reliable~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "うん、\nきっと\n心配ないわ。\nとっても頼りになる子ですから～"
+    },
+    {
+      "name": "Narration",
+      "text": "Practice began with the team members, whose attitudes had completely changed. To solve the many challenges facing the team, {0} decided to introduce them to a coach.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "態度を一変させた部員たちと始まった練習。\n多く積み重なる課題を解消するため、\n{0}はコーチを紹介することになったのだった。"
+    }
+  ]
+}

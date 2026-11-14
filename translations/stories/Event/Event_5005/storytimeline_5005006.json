@@ -1,0 +1,316 @@
+{
+  "title": "Island Attack!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "With the members of the Mercurius Foundation reunited,\ntogether with {0}, they discuss the nature of the\ngreat Island Whale on which they find themselves stranded.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【メルクリウス財団】の４人が全員そろった。\n{0}を含めて５人は、\nこの島全体が島クジラという魔物であることを共有した。"
+    },
+    {
+      "name": "Akino",
+      "text": "I see, I see... If everything you say is true,\nwe should be able to speak with the island itself\nby sailing offshore and calling out to it.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "なるほど……\nタマキさんたちの話が本当なら、\n沖からこの島に呼びかければ、\n島クジラと話ができるのですわね……"
+    },
+    {
+      "name": "Akino",
+      "text": "First we negotiate...\nAnd if that doesn't work, we'll have to use force!\nEither way, we're leaving this place and returning to reality!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "まずは話しあって……\nそれでもだめなら\n実力行使ですわ！\nそして、\n現実世界に帰していただきますわよ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Yes... I think we've been here long enough!",
+      "choice_data_list": [
+        "We can do this if we work together!",
+        "Actually, I'd kind of like to stay here..."
+      ],
+      "orig_name": "ユカリ",
+      "orig_text": "うん、\n現実へ帰らなきゃね！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Right! We're going home, no matter what!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "えぇ、\nなんとしても帰らなくっちゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Nyo way!\nWe're done with running away from reality!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ダメだにゃ！\nあたしたちは、\nもう現実から目を逸らさないにゃ！"
+    },
+    {
+      "name": "Akino",
+      "text": "Now then, let's get on this raft and take to the waves!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "さぁ、\n全員いかだに乗って、\n沖まで行きますわよ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "So... We've paddled a fair way from the shore...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "と、\n勢い良く海に出てみたものの……"
+    },
+    {
+      "name": "Yukari",
+      "text": "But even from out here, I can't see a face anywhere on the island...\nAre you sure it's a monster?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "今までいた島、\nこうやって外から見ても顔なんてついてないし……\n本当に魔物なのかしら？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "There's nyo doubt about it! That thing's the Island Whale!\nThe diary laid it all out, nyice and clear!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "間違いないにゃ！\n　あれは島クジラなのにゃ！\n手記にそう書いてあったのにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Hey, you! Big fella! Island Whale!\nWe've had enough of your fake old island!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "おーーーい！\n　こらーーーー！\n　島クジラーーー！\nあたしたちを、\nこの島から出すにゃーーー！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "How very odd... There's no response...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "おかしいわね、\n反応がない……"
+    },
+    {
+      "name": "Akino",
+      "text": "Tamaki, Mifuyu...\nCould it be that you're still caught in some kind of illusion?\nWho can say if that diary was even real...?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "タマキさん、\nミフユさん……\nもしかして、\nあなたたち\nまだ幻想を見ているのではありませんこと？\nその手記も本当にあったのか……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I-it's just gotta be real...\nWe should definitely be able to talk to the whale...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "そ、\nそんなはずないにゃ……\n本当に島クジラと対話ができるはずにゃ……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Oh, I know!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "わかったわ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "What is it now, Mifuyu?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "どうしたの、\nミフユさん？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "That whale is fueled by greed!\nInstead of provoking it with fighting words,\nwe should catch its interest with something it cares about!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あいつは、欲深いのよ！\nけんか腰で話しかけるんじゃなくて、\nあいつが興味ありそうなことを言えばいいの！"
+    },
+    {
+      "name": "Akino",
+      "text": "Oh, I see! That certainly sounds worth a try!\nOh, Mr. Island Whale!\nI have a little deal to offer you!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "なるほど、\nそれでは私が試してみますわ！\n島クジラさまーー！\nいい取引の話がありますのー！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hmm? Is it just me, or do you feel some kind of shaking?\n...An earthquake?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あれ？\n　なんだか、\n地響きがしてないかしら……\n地震？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Ahh! Look, everyone! The island's rising out of the water!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あっ？　\nみんな、あれを見て！\n　島が浮上していくわ！"
+    },
+    {
+      "name": "Island Whale",
+      "text": "...GRROOOAAAHHH!",
+      "choice_data_list": [],
+      "orig_name": "島クジラ",
+      "orig_text": "──おおおおおおッ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Aaaahhh?! A gigantic face appeared from beneath the waves!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "ひえっ！？\n　島が浮かんで顔が現れたーーっ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "So that island really was a monster all along...!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あの島、\n本当に魔物だったのね……！"
+    },
+    {
+      "name": "Island Whale",
+      "text": "Tiny humans... What deal do you offer...?\nDo you ask, like the human before you,\nthat I spare your meager lives so that you may bring others?",
+      "choice_data_list": [],
+      "orig_name": "島クジラ",
+      "orig_text": "人間よ……\n取引とは、\nなんだ……？\nまた、\n以前いた人間のように、\nこの島の存在を広めるから\n見逃して欲しいとでも言うのか……？"
+    },
+    {
+      "name": "Akino",
+      "text": "Oh, no, I think not.\nTell me, would you like to form a contract with me?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "いいえ、\n違いますわ。\nあなた、\nおいくらで契約していただけますの？"
+    },
+    {
+      "name": "Island Whale",
+      "text": "A contract...?",
+      "choice_data_list": [],
+      "orig_name": "島クジラ",
+      "orig_text": "契約……？"
+    },
+    {
+      "name": "Akino",
+      "text": "Your goal is to collect the desires of humans, is it not?\nIn that case, the Mercurius Foundation would like to offer you\na business opportunity! We'll promote you far and wide!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あなたは、\n人間の欲望を集めたいのですわよね？\nでしたら、\n我が【メルクリウス財団】と手を組んでビジネスに\nしてみませんこと？\n　大々的に宣伝しますわよ？"
+    },
+    {
+      "name": "Akino",
+      "text": "I'll call it the One-Week Dream Life Island Experience!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "その名も、\n『一週間だけ夢のような暮らしを提供するサービス』！"
+    },
+    {
+      "name": "Akino",
+      "text": "We will transport customers directly to your island to grant their desires,\nand before they die, we will forcibly return them to their lives!\nIt will be a massively popular attraction!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "お客様に\n一週間だけこの島クジラで欲望を叶えていただいて、\n死んでしまう前に\n強制的に連れ帰るサービスを始めるのですわ！\nこれは、\n大繁盛間違いなしですわよ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Oh, Akino... You do come up with the wildest ideas...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "アキノさん、\nめちゃくちゃなこと考えるな～……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "But that does sound like an efficient solution...\nThe only question is whether the Whale will take the bait.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "でもそれなら確かに、効率もいいわね……\n問題は、\n島クジラがこの提案に乗るか……"
+    },
+    {
+      "name": "Island Whale",
+      "text": "P...",
+      "choice_data_list": [],
+      "orig_name": "島クジラ",
+      "orig_text": "ふ……"
+    },
+    {
+      "name": "Island Whale",
+      "text": "Preposterous!\nDid you truly believe I would debase myself\nto become a tool for human entertainment?!",
+      "choice_data_list": [],
+      "orig_name": "島クジラ",
+      "orig_text": "ふざけるな……！\nそんな貴様ら人間の道具になるようなことを、\nワシが聞くとでも思ったかああああ！"
+    },
+    {
+      "name": "Akino",
+      "text": "It made him angry?!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "怒りましたわ！？"
+    },
+    {
+      "name": "Yukari",
+      "text": "Well, at the end of the day, he [i]is[/i] a monster...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "まあ、\nそりゃそうだよね、\n魔物だもん……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hmm? What's this?\nAs the Island Whale sinks...\nSomething is spurting up from its back...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あれ？\n　何かしら？\n沈んでいく島クジラが、\n何かを背中から一斉に吹き出してる……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Oww! These little hard things...\nHey, look... They're CatCoins!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あいたっ！　\n固くてちっちゃな……\nこれは……\nキャットコインにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "So the coins really did exist...\nMaybe they're treasure left behind by the pirate crew\nthat was stranded here before us!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "このコインは実在してたのね……\nもしかしたら、\n昔にこの島に漂着した\n海賊のお宝だったのかも！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Looks like we made some unexpected profit!\nBut there's still one question left...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "なんだか、思いがけず儲かっちゃった！\nでも、\nそれより問題は……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Can we actually get all the way back to Landosol on this raft?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "これで、\n本当にランドソルへ帰れるのかってことよね……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Exactly... *yawn*...\nThe thought of it is making me sleepy...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "本当ね……\nふあーあ……\nと思ったら急に眠たくなってきた……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "*yawn*... This drowsy sensation feels awfully familiar...\nBut this time, it's going to take us [i]away[/i] from the island, right?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ふあ～……\nこの眠気は、何度も経験したけど……\n今回は、\n抜け出すための眠気のはず……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Will we be all right...?\nWill we actually make it back home this time...?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "大丈夫かにゃあ……\n今度は、ちゃんと……\n帰れるかにゃぁ……？"
+    },
+    {
+      "name": "Akino",
+      "text": "Tell you what... Let's hold hands to make sure we stay together.\nAll of us... The Mercurius Foundation... Together... forever...",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "それなら……\n万が一の時に備えて手を繋いでおきましょう。\n私たち……\n【メルクリウス財団】は、\nいつも\n一緒ですわよ……"
+    }
+  ]
+}

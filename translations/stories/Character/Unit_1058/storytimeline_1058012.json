@@ -1,0 +1,658 @@
+{
+  "title": "Pecorine Episode 12",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The morning after their first night training together,\nPecorine and {0} are preparing breakfast.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "修行の一夜を明かしたペコリーヌと{0}は、\n朝食の準備をしていた。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh no! I completely forgot to buy any!\nThis is a real pickle. What to do, what to do...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ああ、\nうっかり買い忘れちゃってました！\n困りましたね、\nどうしましょう……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hm? What did I forget to buy, you ask?\nSeaweed, of course! Nori seaweed!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "え？　\nなにを買い忘れたのか、\nですか？\n海苔です、\nお海苔ですよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's full of vitamins, super compact,\nand it's a must for stopping rice balls sticking to your hands!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "栄養価は高いし、\nかさばりませんし、\nおにぎりに巻けば\n手にお米がぺたぺたくっつかないんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I never usually leave the house without it... Urgh. I messed up.",
+      "choice_data_list": [
+        "I'll go buy some."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "欠かせない旅のお供だったんですけど……\nうう、\n失敗しました。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "N-no, no! If you're going, I should go too!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "い、\nいえいえ、\nだったらわたしも一緒に──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm... But I came all this way to get away from Landosol.\nWouldn't heading back now defeat the whole purpose?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う～ん、\nでも、\nせっかく指名手配中のランドソルから出てきたのに\n舞い戻ったら、\n本末転倒ですよね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Urgh... All right, then.\nCan I take you up on that offer, please, {0}?",
+      "choice_data_list": [
+        "You can count on me."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うう……\nそれじゃあ、\n{0}くんの言葉に\n甘えさせてもらってもいいですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thank you... I really appreciate it.\nI'll just do a bit more training while I wait for you here, then!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "すみません……\nありがとうございます。\nわたし、\nここで修行しながら\n{0}くんの帰りを待ってますね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Is {0} still not back?\nHe's been gone for an awful long while now...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん、遅いですね。\nいつになったら帰ってくるんでしょう……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm starting to get worried.\nI guess I could venture a little closer to the city!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "さすがに心配ですね。\n近くまで様子を見に行きましょう！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I came all the way to the main road,\nbut I still haven't seen any sign of {0}...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "街道まで出ちゃいましたけど、\n{0}くんと会いませんでしたね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I hope he hasn't gotten totally lost or anything...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "迷子になったりしてなければいいんですけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? That figure over there, is that...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あれ？　\n向こうから来るのは、\nもしかして……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahhh! It [i]is[/i] you, {0}!\nThank goodness. You took so long, I was worried sick!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ああっ、\nやっぱり{0}くん！\nよかった。\n帰りが遅いから、\n心配してたんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? You got held up making some food you thought I'd like?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "え？　\nわたしが好きそうな食べ物を作ってたら\n遅くなった？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, so that's why!\nWell, thank you for going to the trouble!\nEheheh... That makes me so happy!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうだったんですね。\nわたしのために、\nありがとうございます！\nえへへ、\nとっても嬉しいです！"
+    },
+    {
+      "name": "???",
+      "text": "Aaaaaagghhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "きゃああああああああっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm? That sounded like...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おや？　\n今の悲鳴は──"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Knight",
+      "text": "Ngh... Milady, save yourself!",
+      "choice_data_list": [],
+      "orig_name": "騎士",
+      "orig_text": "くっ……\nお嬢様、\nお逃げください！"
+    },
+    {
+      "name": "Young Noble",
+      "text": "Ahhh...!\nI-I can't! We're surrounded on both sides!",
+      "choice_data_list": [],
+      "orig_name": "貴族の少女",
+      "orig_text": "ひっ……！\nむ、\n無理です！　\nこっちにも魔物が！！"
+    },
+    {
+      "name": "Monsters",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Knight",
+      "text": "Milady! Look out!",
+      "choice_data_list": [],
+      "orig_name": "騎士",
+      "orig_text": "お嬢様！　\n危ない……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll rescue you! Hiyaahhh!☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしが助けます！\nおりゃー☆"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Knight",
+      "text": "I-incredible! With a single attack?!\nI don't know who you are, but thank you for your assistance!",
+      "choice_data_list": [],
+      "orig_name": "騎士",
+      "orig_text": "す、\nすごい！　\n魔物を一撃で！！\nどなたか存じませんが、\nご助力感謝いたします！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We can talk afterwards!\nFirst, let's take care of these guys... Hoiyahhh!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "お話しはあとにしましょう！\nまずはこの場を切り抜けないと……\nせいやー！！"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "*pant* *pant*... This is honestly pretty tiring.\nI'm getting so hungry, my Royal Equipment's growing weaker!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はあ、\nはあっ……\nさすがに疲れてきちゃいました。\nお腹が減りすぎて、\n王家の装備の力も鈍ってきてます……！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This looks bad. There's no end to these monsters...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "困りましたね、\n次から次へと魔物が……！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah—not good!\nOne of them snuck around behind me!",
+      "choice_data_list": [
+        "I'll protect you, Peco!"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ、\nいけません！\n一体後ろに回られました！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "{0}?!\nIt's too dangerous! Please, get yourself to safety!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん！？\n危ないです！　\nあなたは逃げてください！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahhh...! He got sent flying...!\nEven if it's to help me, he's pushing himself too hard!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁっ！　\n魔物に吹き飛ばされて……！！\nわたしを助けるためとはいえ、\n無茶のし過ぎです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If only I had something to eat right now...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "せめて、\nなにかごはんを食べることができたら……！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? You've got just the thing?\nB-but this is...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "え？　\nいいものがある、\nですか？\nこ、\nこれは……！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A shrimp tempura rice ball!\nDid you make this for me?!\nThat's my Ricebowl Prince!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "エビ天おにぎりじゃないですか～！\nもしかして、\nこれをあなたが！？\nさすがごはん王子です！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's even wrapped in the nori I asked you to get!\nAhh, so easy to eat! It's full of loving care!\nAll right, I'll dig right in! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "買った海苔でおにぎりを包んでくれたんですね！\n手がぺたぺたしませんよ～\nあなたの愛を感じます！\nさっそく、\nいただきまーす☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "*nom nom nom*...\n*nom nom nom nom* ♪\nI-it's so goooood!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もぐもぐもぐっ、\nもぐもぐもぐもぐっ♪\nお、\n美味しい～！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The sticky rice! The tasty nori!\nAnd the juicy shrimp! It's all just perfect! How crazy is that?! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ごはんの甘み！　\n海苔の旨み！\nそして\nエビの食感！！　\n最高すぎます！！　\nやばいですね☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Mmmm...! And this sensation coming over me...\nYou're lending me your power!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "んんっ……！　\nさらにやってくるこの感覚は、\n{0}くんの強化の力！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But this power feels different from usual!\nLike it's gushing forth from within, stronger than ever before?! ",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でも、\nいつも以上にみなぎってくるような、\n身体の奥から熱くなる、\nこの感じはいったい……！？　"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thank you for this, {0}!\nWith your food and your strength, I'm reaching a whole new level!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん、ありがとうございます！\n素敵なごはんと強化の力で、\nわたし、\nパワーアップです！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm going all out! Hiyaahhh! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "一気にいきますよ～！　\nそりゃああ～☆"
+    },
+    {
+      "name": "Monster",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm not done yet! I can take every last one of you!\nHeave-ho! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まだまだですよ！　\nみんなやっつけちゃいます！\nどっこいしょー☆"
+    },
+    {
+      "name": "Monster",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Knight",
+      "text": "Wh-what incomparable strength...\nThis girl—no, this pair... Who are they?\nI feel like I recognize the girl's face somehow...",
+      "choice_data_list": [],
+      "orig_name": "騎士",
+      "orig_text": "な、\nなんという桁外れの強さ……\n彼女は、\nいや、\n彼女たちは、\n何者なんだ？\nどこかで\n見たことがあるような気がするんだが……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's a wrap! I've taken care of all the monsters!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やりました！　\n魔物を全部やっつけましたよ～！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "{0}, you're not hurt too badly, are you?\nLet me see... Oh, it's just a few little bruises. Thank goodness...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん、さっきのけがは大丈夫ですか？\nどれどれ……\nああ、\nひどい感じではなさそうですね。\nよかった……"
+    },
+    {
+      "name": "Young Noble",
+      "text": "Um...\nThank you so much for saving us when we needed it most.",
+      "choice_data_list": [],
+      "orig_name": "貴族の少女",
+      "orig_text": "あの……\n危ないところを助けていただいて、\n感謝いたします。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, no, it's nothing, really... Oh?!\nY-you're...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえいえ、\nいいんですよ……\n！？\nあ、\nあなたは……"
+    },
+    {
+      "name": "Young Noble",
+      "text": "Ummm... Is something the matter?",
+      "choice_data_list": [],
+      "orig_name": "貴族の少女",
+      "orig_text": "ええと……\nわたくしが、\nなにか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I've spoken to her a few times at royal banquets...\nBut I suppose she wouldn't remember me, would she?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "彼女は確か、\n王宮での晩餐会で何度か……\nでも、\nわたしのことは忘れてしまっているみたいですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm sure her memories will have been adjusted...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "恐らく、\n記憶を操作されているんでしょう……"
+    },
+    {
+      "name": "Knight",
+      "text": "M-milady! Step away from her at once!",
+      "choice_data_list": [],
+      "orig_name": "騎士",
+      "orig_text": "お、\nお嬢様、\nお下がりください！"
+    },
+    {
+      "name": "Knight",
+      "text": "This girl is a wanted criminal!\nI knew that face looked familiar from somewhere!",
+      "choice_data_list": [],
+      "orig_name": "騎士",
+      "orig_text": "この者は、\n指名手配中の女です！\nどうりで、\nどこかで見た顔だと思ったわけだ……！"
+    },
+    {
+      "name": "Young Noble",
+      "text": "A criminal?\nBut she was kind enough to rescue us just now,\nand she really doesn't seem dangerous...",
+      "choice_data_list": [],
+      "orig_name": "貴族の少女",
+      "orig_text": "このかたが？\nですが、\nわたくしたちを助けてくださいましたし、\nそもそもそんな風には……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Even outside of Landosol, a bounty is still a bounty...\nI should have known I couldn't escape that.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ランドソルから離れても、\n追われる身は追われる身……\nということなんですね、\nわたしは……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, this is no time to stand around feeling shocked! ",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "って、\n今はショックを受けている場合じゃありませんね！　"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's run for it!\n{0}, follow me!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "逃げますよ、{0}くん！\nついてきてください！！"
+    },
+    {
+      "name": "Young Noble",
+      "text": "Ah...! Wait a moment!",
+      "choice_data_list": [],
+      "orig_name": "貴族の少女",
+      "orig_text": "あっ、\nお待ちになって……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "{0}...\nThat girl's someone I used to know. She's awfully kind...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん。\nあの子、わたしの知り合いなんです。\nすごく優しい子で……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But it looks like she's forgotten all about me right now.\nAhaha... Whyever could that be?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でも、\n今はわたしのこと、\nすっかり忘れちゃってるみたいでした。\nあはは、\nどうしてですかね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? Is someone calling from behind us?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あれ？　\n後ろから、\n声が──"
+    },
+    {
+      "name": "Young Noble",
+      "text": "Thank you for helping us!\nGood day to you both!",
+      "choice_data_list": [],
+      "orig_name": "貴族の少女",
+      "orig_text": "ありがとうございましたー！\nごきげんようー！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah... That's her voice...\nIs she... thanking us?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ……\n彼女の声……\nお礼を言ってくれてる……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Even without their memories of me,\nI guess people don't change. Not deep down...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……たとえ、\n記憶を失っているとしても、\n人の本質は変わらない、\nということですね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I don't think that knight's following us.\nMaybe his mistress asked him to stay!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あの騎士さん、\n追ってきませんね。\n彼女が引き留めてくれたのかもしれません。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, yes—{0}!\nI still didn't thank you properly.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうだ、{0}くん。\nまだお礼を言ってませんでした。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thank you so much for protecting me back there.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "さっきは守ってくれて、\nありがとうございます。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Um, {0}...\nI think I'd like to go on this journey alone after all.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あの、{0}くん。\nわたし、\nやっぱり一人旅をしようかなって思うんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I really do enjoy spending all this time together,\nbut sticking with me will just get you into trouble.",
+      "choice_data_list": [
+        "I don't care.",
+        "Let's stay together."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "こうして一緒にいるのは本当に楽しいですけど、\nわたしといたら、\n{0}くんに迷惑ですし。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "O-oh, {0}.\nPlease don't say such childish things!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "も、\nもう。\nそんなだだっ子みたいなこと言わないでください。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "When you say it like that, I...\nI get so happy, my head starts to spin like crazy...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そんな風に言われちゃうと、\nわたし……\nうれしくて、\n心が\nぐらぐらしちゃうじゃないですか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Whoa... You don't mince words!\nYou're so manly sometimes, {0}!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わわ、\n直球です！\n男の子ですね、{0}くん！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No... I shouldn't try to laugh it off.\nUm, listen... Thank you so much.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "って、\n茶化しちゃ失礼ですよね。\nえっと、\nその……\nありがとうございます。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Say, {0}...\nWhy do you still try to stick with me\neven when you can see it's dangerous?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あの、{0}くん。\nどうしてあなたは危険だと分かっていて、\nわたしに関わってくれるんですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? ...I looked like I was about to cry?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "え？　\n……\nペコさんが\n泣きそうだから？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "O-of course I wouldn't do anything like that!\nWhat would I start crying for?!\nI'm the happy old perpetually peckish Pecorine, remember?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わ、\nわたし\n泣きそうになんてなってませんよ！？\nそんなわけないじゃないですか～！\nわたしはただの、\nお腹ぺこぺこのペコリーヌですもん！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I just figured it out.\nWhy I felt such incredible power back there.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……今、\n分かりました。\nわたしが、\n今までになくパワーアップした理由が。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It seems that...\nI trust {0} from the bottom of my heart...\nand I was reaching out to him.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたし……\n{0}くんのことを、\n心の底から信頼して……\n求めちゃってたみたいです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Just like the girl we met back there and her knight,\nI wanted so badly for him to protect me...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それこそ、\nさっきの女の子を守っていた\n騎士さんのように、\nわたしも\n{0}くんに守られたいって……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Oh boy.\nI'm just no match for you, am I, {0}?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……もう。\nかなわないですね、\n{0}くんには。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "All right, then!\nI guess I'll allow you to accompany me for a little longer! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "分かりました！\nそれじゃあもうしばらく、\n一緒に修行の旅を続けましょう♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's train together, eat all sorts of delicious meals,\nand become as strong as we possibly can!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いっぱい修行して、\nいっぱい美味しいごはんを食べて、\nい～っぱい強くなりましょうね！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And one day, when you finally get stronger than me...\nI hope you'll protect me as my personal knight!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そして、\nいつか{0}くんが\nわたしよりも強くなったら……\nそのときは\n騎士として、\nわたしを守ってください！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm counting on you, OK? My future knight! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "よろしくお願いしますね、\n未来の騎士さん☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wait... Ahhh?! You're already my Ricebowl Prince!\nPrince or knight... Which do I want you to be?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "って、\nああ！？　\nでも{0}くんはごはん王子でした！\n王子と騎士、\nどっちになってもらいましょう……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Having discovered a whole new side\nto her own feelings for {0},\nPecorine was filled with a deep sense of satisfaction.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ペコリーヌは、{0}への想いを新たにして、\n満ち足りた感情に包まれるのだった。"
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "title": "Wyrm Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The square in front of Gio Teogonia Castle. Wurm, carrying a large simply wrapped package on her back, was heading to Uncle Popo's workshop with {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・テオゴニアの城前広場。\n大きな風呂敷包みを背負ったヴルムは\n{0}とポポじいさんの工房へ向かっていた。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Uncle Popo, are you there?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ポポじい～、\nいる～？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Wurm, huh? Glad to see you, welcome. I see the Kid's with you too. ...What's this? You've got quite a load with you.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ヴルムか。\nよく来たな。\n小僧も一緒か。\n……なんじゃ？　\n随分と大荷物じゃが。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "The other day, I had a chance to visit Landosol. I brought some souvenirs from there. And also some other rare materials.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "こないだ、\nちょっとランドソルに行くことがあって。\nそん時のお土産持ってきた。\nあと他にも\n色々珍しい素材とか。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh, sorry for the trouble. So... what do you want today? Are you slacking off like usual? I hope you don't think you can just give a souvenir and leave it at that.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "おお、\nわざわざすまんのう。\nで……\n今日はなんの用じゃ？　\nいつものサボりか？\nまさか土産を渡して終わり\nって事はなかろう。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, that's true. Lately, Sis has been really strict with me, and I feel like I'm suffocating.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ま、\nその通りなんですけど。\n最近姉さんの目が厳しくて、\n息が詰まりそうなんで。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "From what I recall, you've been slacking off to take a breather plenty enough. Wouldn't it be better if you just got suffocated a little? For a maid who is always slacking off",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "普段から\n存分にサボって息抜きしとるんじゃ。\nちょっと詰まるくらいで\n丁度ええんじゃないかの？\n万年サボり魔メイドには。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Even a perpetually lazy maid deserves a right to breathe. She's still bothered about the last time I've ran away. Like today she...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "万年サボり魔メイドにも\n息する権利くらいくださいって。\nこないだの脱走が尾を引いて面倒なんですよ。\n今日なんかですね……"
+    },
+    {
+      "name": "Lind",
+      "text": "Geez! Stop lounging around here and help me out instead, Wurm. We have to get this done with quickly.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "もうっ！\nそんなとこでごろごろしてないで、\nヴルムもちょっとは手伝って。\n早く仕事を終わらせなくっちゃ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Help she says... You're supposed to rest during your break, Sis.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "手伝ってって……\n休憩時間は休むもんでしょ、\n姉さん。"
+    },
+    {
+      "name": "Lind",
+      "text": "That's true, however... If I take a break, I won't have enough time. I have to train hard to be useful to everyone in battle.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "それは\nそうだけど……\n休憩なんてしてたら、\n時間が足りないの。\nみんなの役に立つために、\n戦いの特訓もしなくちゃだし。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Wait a sec, Sis, aren't you pushing yourself here? You're aren't really cut out for fighting, adventuring or anything of the sort.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ちょっと姉貴、\n無理してない？\nやっぱ向いてないって、\n戦うとか冒険とかそういうの。"
+    },
+    {
+      "name": "Lind",
+      "text": "That can't be! I won't know until I try, right? I know that it's not like I'll see any result right away.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "そんなの\nやってみないとわからないでしょ？\nすぐに結果が出るわけじゃないことくらい\nわかってるわよ。"
+    },
+    {
+      "name": "Lind",
+      "text": "You too, Wurm. You shouldn't complain about this or that everytime. You always slack off, making up all sorts of excuses! Just the other day...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "そう言うヴルムも、\n文句ばっかり言ってちゃダメなんだからね。\nなんのかんの理由つけてはいっつもサボって！\nこの前だって……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Uwah, there she goes again. Sis' lecturing mode... I can't take a break like this...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "うわ、\nまーた始まった、\n姉貴のお説教……\nこれじゃおちおち休んでらんないって……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Aaaaaaah... Now that I think about it, I remember they asked me to get the lights in the warehouse replaced. I'll just go get them.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あー……\nそういえば離れの倉庫から\n照明の替え、\n出しといてほしいとか言われてたの思い出した。\nちょっと取ってくる──"
+    },
+    {
+      "name": "Lind",
+      "text": "Wait. You're saying that but instead you're planning to get out of the castle again, aren't you? I'll go and do that myself, so you clean up here, Wurm. Okay? Break time's almost over!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "待って。\nそう言ってまたお城から抜け出すつもりでしょ？\n私が取ってくるから、\nヴルムはここで掃除してて。\nいい？\n休憩時間はそろそろ終わりだからね！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I'm not sure how things ended up like this... but I'm extremely glad for that naivety of yours. Quietly, quietly... I'll slip out...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "こういうとこの詰めが甘いんだけど……\nその甘さに今は感謝しますか。\n静かに、\nそろーっと……\n抜け出して\nっと……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...And here's just an example of why I've been feeling uneasy lately. Due to my sister.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ってな感じで、\n最近妙にやる気で困ってるんですよ。\nうちの姉さん。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "The day of the castle's general inspection is approaching, so there's already a lot of work to do. Replacing the rickety furniture and fixtures, and other hard work that's too tough for a weak and cute maid.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "お城の総点検の日が近いんで、\nただでさえ作業が増えてて。\nガタついた家具や調度品の入れ替えやら、\nかよわいメイドには過酷な重労働が。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "\"Weak and cute\"? Who are you referring to? I can think of a surprisingly tough maid who's always slacking off on my end...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "かよわい？　\n誰がじゃ？\n意外とたくましい万年サボり魔メイドなら\n心当たりはあるが……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Oh dear, Uncle Popo, you should've let me know earlier if your presbyopia is getting worse. I'll introduce you to a good optician. While we're on the topic, would you like Cro-san to give you a back massage?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "やだなあポポじい、\n老眼が進んだなら言ってくれないと。\nいい眼鏡屋さん紹介してあげますね。\nついでに\nクロさんに背中のマッサージでもしてもらいますか。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Stop it, stop it. That was just me joking. If it's you saying it, I know you're serious, so you're scaring me here.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "やめいやめい。\nワシが悪かった。\nオマエが言うと\n本気でやりそうで怖いんじゃ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Well, that's just how it is. If I'm going to have to sacrifice my precious break time to be motivated, I won't have the stamina or the energy to keep going.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ま、\nそんなわけで。\n貴重な休憩時間つぶしてまでやる気出されると\nあたしとしては体力続かないっていうか、\n気力が出ないっていうか。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I see, I understand the situation... but that's no excuse for slacking off.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "なるほどのう、\n事情は分かった……\nが、\nそれがサボる言い訳にはなるまい。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Aaaahhh... to think Uncle Popo also wants me to be an honest working maid...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "え～、\nポポじいまであたしに働けって言うんですか。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Of course! Despite what you may think, I'm busy inventing a new secret weapon. Come on, why don't you help me instead of just standing there!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "あったり前じゃろ！\nこう見えてワシも\n新発明の秘密兵器づくりで忙しいんじゃ。\nほら、\n突っ立ってるくらいなら\n手伝わんか！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "A secret weapon? What kind of--",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "秘密兵器？　\nそれってどんな──"
+    },
+    {
+      "name": "Lind",
+      "text": "Geez, there you are!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "もー、\nこんなところに居た！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Geh. Sis...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "げ、\n姉さん……"
+    },
+    {
+      "name": "Lind",
+      "text": "Wurm. Break's long over, isn't it? I've been looking all over for you!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ヴルム。\n休憩はとっくに終わってるでしょ？\nあちこち捜したんだから！"
+    },
+    {
+      "name": "Lind",
+      "text": "Oh my, Kishi-san's with you? ...Ah! Don't tell me that you were planning to quietly go to Landosol with him again...?!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あれ、\n騎士さんも一緒だったの？　\n……はっ！\nまさか、\nまた黙ってランドソルに行こうとしたんじゃ……！？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "You're wrong, that's not it, I just came to give a souvenir to Uncle Popo today. It's just a coincidence that Kishi-Person is here.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ちがうちがう、\n今日はポポじいにお土産渡しにきただけ。\n騎士のひとがいるのは偶然。"
+    },
+    {
+      "name": "Lind",
+      "text": "Then that's all over and dealt with, isn't it? Everyone, excuse us. Let's go, Wurm!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ならもう済んだでしょ？\nみなさん\nそれでは失礼しますっ。\n行くわよ\nヴルム！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Ugh, there's no need to pull my collar... Well then, excuse me...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "うげ、\n襟引っ張んなって……\nそんじゃ\n失礼しま～す……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "This is just like a kitten being carried away from her mother. Even Wurm becomes shapeless in front of Lind.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ありゃ母ネコに運ばれる子ネコじゃな。\nリンドの前じゃと\nヴルムも形無しじゃのう。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That said, this souvenir of hers is truly quite heavy... What did you guys bring? Sweets alone wouldn't be this heavy.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "しかし\nこの土産の包み、\nすこぶる重たいが……\nオマエさんたち、\nなーにを持ってきたんじゃ？\n菓子だけじゃこの重さにはならんぞ。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Now that I recall, I did tell Wurm there were some rare items I wanted... Ah, I knew it!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "もしや、\n前に珍しい品があればと\nヴルムに伝えとったが……\nやはりそうか！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Here, take a look. A recipe compiling all of Landosol's local medicine... Is this an assortment of minerals from Gio Gehenna? ...Hmm, this is...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ほれ、\n見てみい。\nランドソルの調合レシピに薬品……\nこっちはジオ・ゲヘナ産の\n鉱物の詰め合わせか？\n……む、\nこれは……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "This luster, this radiance, and this tingly texture... Th-Th-This is...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "この色艶、\nこの輝き、\nそしてこのチリチリとした肌触り……\nこ、\nこここ…………"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "THIS IS ITTTTTTT!!! What I've been looking for! I can't just sit back and watch something like this! Let's resume the experiment quickly! Now, don't just stand there, help me Kid!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "これじゃーーーーー！！！　\nワシが探し求めておったのは！\nこんなものを見せられてはじっとしておれん！\n早く実験再開じゃ！　\nほれ、\n突っ立ってないで\n手伝え小僧っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "A few days later... {0} and Wurm were summoned by Uncle Popo and visited the workshop again.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数日後──\n{0}とヴルムはポポじいさんに呼び出され、\n再び工房を訪れた。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I've been looking forward to this day, you two!! The truth is, a secret weapon I've been working on is nearly complete! Thanks to those souvenirs you've brought me!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "待ちわびたぞ、\n二人とも！！\n実は件の秘密兵器が\n完成間近なんじゃっ！\nオマエたちが持ってきてくれた土産のおかげでな！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "A secret weapon...? I recall you mentioning that before...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "秘密兵器……？　\nって、\n前言ってた……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Yeah, actually, I've been developing a secret weapon that can deal with monsters so the residents can live in peace.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "おう、\n実は住民が安心して暮らせるよう、\n魔物に対処できる秘密兵器を開発しておってな。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Its name is Super Galactic Bomber No. 1! To allow the residents to live in peace, it's a secret weapon to repel monsters that employs deadly auto-homing missile loaded with super-powerful explosives!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "その名も、\n超ギャラクティックボンバー１号！\n住民が安心して暮らせるよう、\n魔物を撃退する秘密兵器にして、\n超火力爆薬を満載した\n必殺の\n自動追尾ミサイルじゃ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Eeeeh. I've no idea what you just said, but I guess that's great. I merely thought Uncle Popo would like that random junk, so it was worth picking a few of them.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "へー、\nよくわかりませんけど良かったですね。\nポポじい好きそうだな～と思って、\n色々採ってきた甲斐もあったってもんです。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "So. That Super Galaaa-... whatever it's called. What does that have to do with us?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "で、\nその超ギャラ……\nなんとかですけど。\nそれがあたしたちと何の関係があるんです？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I was getting to that part. The truth is, I've run out of materials for research and development... ...Sorry, but could you go and gather some more for me?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "まさにそこじゃな。\n実は研究開発に使ってた素材が尽きてしまってのう……\n……\nすまんが、\n必要な素材を集めてきてくれんか？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Eeehhh...?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "えぇ～…………"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I'm begging you! I can't gather all the materials by myself! Please let me rely on your discerning eye since you've already found me some great materials.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "頼む！　\nワシ一人じゃ素材採集まで手が回り切らん！\nどうか\n素ン晴らし～い素材を見つけてきた\nオマエのその目利きに\n頼らせてくれんか？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That's right, the castle inspection is coming up soon, isn't it? This thing has some incredible destructive power. I'm sure it'll come in handy in disposing of all the waste materials that might come out of that!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "そうじゃ、\n城の総点検が近いんじゃろ？\nコイツの破壊力たるや\n並大抵ではないぞ。\nわんさか出てくる廃材の処理なんかにも\nきっと役立つはずじゃ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "No, I mean... wouldn't that be too much firepower for a broom-replacing cleaning tool? That said... Hmm...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "や、\nホウキ代わりの掃除道具にしては\n火力が過剰すぎません？\nですけど……\nふむ……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Fine then. I'll go get the materials for you. However, I'd like to set some conditions in place first.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……いいですよ。\n素材、\n採ってきてあげます。\nただし、\nこっちからも条件を出させてほしいんだけど。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Conditions? What kind?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "条件じゃと？　\nなんじゃ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That secret weapon of yours isn't ready just yet, right? You have to actually use it, adjust it... in other words, you need actual combat data.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "その秘密兵器って\n作って終わりじゃないですよね？\n実際に使って、\n調整して……\nよーするに\n実戦データが必要になるはず。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "So, could you leave the combat data collection to me? I'd appreciate it if you'd let me test it even after that.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "で、\nそのデータ取りを\nあたしに任せてくれませんか。\n継続してテストさせてもらえれば\n御の字ですけど。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I'd be certainly grateful if you helped me smooth the development by collecting data, however... How are you, someone who avoids trouble in every possible way, requesting this?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "実戦データが取れるのは確かにありがたいが……\n面倒事を避けたがるオマエが、\n一体どういう風の吹き回しじゃ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That Super Galactic... Um, well... Bomber 1? Once it's complete, it won't make just this cleaning duty easier, but also all the ones that come after.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "その超ギャラクティック……\nえと、\nボンバー１号？\nが完成すれば、\n今回に限らず\n次の大掃除も楽になりますよね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "If it'll make that annoying, tedious job easier, then helping Uncle Popo out would be a part of my job. Probably.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あのめんどくさい大仕事が楽になるなら\nポポじいに協力するのも仕事のうちに入るでしょ。\nたぶん。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Well, I do actually have another reason...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ま、\n他にも理由はあるけど……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "So with that said... Kishi-san. How about going out with this cute maid? It might be a little dangerous though.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ってわけで……\n騎士さん。\nこのかわいいメイドと一緒に\nお出かけはどうですか？\nちょっと危険もあるかもですけど。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Kishi-san you... when someone asks you something, it's generally a \"yes\", isn't it. I really like that about you.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "騎士さんって\n頼めば大抵イエスって言いますよね。\nそういうとこ、\n結構スキですよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "All right, Uncle Popo. Give me a list of the materials you need. Ah, I guess we'll leave after letting Lady Lyrael hear about this. ...If I can keep the higher-ups on my side, my sister shouldn't be able to interfere.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "そんじゃポポじい。\n必要な素材のリストちょーだい。\nあ、\n一応ライラエルさまのお耳に入れてから出発しますか。\n……上を押さえておけば、\n姉さんも口出しはできないはず。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "'Right. Well then, let's go back to the castle and get ready before we leave.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "よし。\nじゃ、\nお城に戻って準備が済んだら出かけましょっか。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Let's see, what Uncle Popo asked for is... photon drops for lenses, ether soda springs for mixed fuel, and so on... There's a lot of stuff.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "えーっと、\nポポじいから依頼されたのは……\nレンズに使うフォトンドロップに、\n混合燃料用のエーテルソーダ泉、\nなどなど……\n多いですね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I know he said that he just wants me to pick something that catches my eye, but... I don't really feel like going into the forest at this time of year...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "他にあたしの目についたものも採ってきてほしいってことですけど……\nこの時期の森、\nあんま入りたくないんですよね……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That's not what I meant... Aaah, you may not know this, Kishi-san. Right now is the growing season for forest plants.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "そーゆうわけじゃないんですが……\nああ、\n騎士さんはご存じないかもですね。\n今の時期って、\n森の植物の生長期にあたるんです。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "They soak up lots of sunlight, absorb lots of moisture from the earth, and grow healthy and strong. The whole package.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "陽の光をわんさか浴びて、\n大地からぐびぐび水分を吸収して、\nすくすく健やかに大きくなるんです。\n何もかもが。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Rapid growth means that the environment is also changing dramatically in turn. Please be very careful, Kishi-san.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "急激に生長するってことは、\nそれだけ環境の変化が著しいってことです。\n騎士さんも気を付けてください。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "There's a lot of them, so the most common result is slipping on moss and...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "特に多いのが、\n苔なんかで足を滑らせたりとか──"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Hey--Kishi-san! Are you okay...WAH?!",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ちょっ、\n騎士さんっ！　\nだいじょ──\nうわっ！？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...As soon as I said that, this happened. Now you know what happens if you let your guard down, don't you?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……言ったそばからこれですよ。\n油断するとどうなるか、\nこれでよくわかったんじゃないですか？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "*sigh*... Even my clothes are sticky...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "はぁ……\nもう服までベトベト……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Above?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "上？"
+    },
+    {
+      "name": "ヴルム",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...That's exactly why I told you to be careful, didn't I. Ahhh...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……だから、\n気を付けてって言ったじゃないですか。\nはぁ……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I've applied some first aid. I can't take off my clothes, so I only did what I could.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "一応、\n応急処置はしました。\n服を脱げないので、\nできる範囲だけですけど。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Ugh, it still has that sweet smell... I'll have to do the laundry when I get back to the castle... ah, that's such a pain...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "う、\nまだ甘い匂いがこびりついてるような……\nお城に帰ったら洗濯しなきゃ……\nあーめんど……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Kishi-san. I'll lead the way from now on. Please do not move without my specific instructions. Got it?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "騎士さん。\nこれからはあたしが先導するんで。\n絶対に\n指示なく\n動かないでください。\nいいですね？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I spent a lot of time wiping off the juice from the cream puffs. I'll wrap it up from here on out.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "クリームの実の汁を拭くのにずいぶん時間使っちゃいましたし。\nこっからは巻きでいきますよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "All right, Kishi-san, please bend down. I'll borrow your back for a bit... Hmm... here. I got my target, glue maple sap.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "よし、\n騎士さん\nかがんでください。\nちょっと背中借りますよ……\nっと。\n目標のグルーメープル樹液、\nゲットです。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Anyway, it seems even a seasoned adventurer like Kishi-san can experience failure while adventuring. ...Ah, I'm not trying to complain or anything. Merely speaking my mind.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "だけど、\n冒険慣れしてそうな騎士さんでも\n失敗することってあるんですね。\n……ああ、\n文句を言いたいわけじゃないです。\nただの感想で。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "My Sis keeps saying stuff like \"I want to be useful to everyone\"... You know, there's always the right person for the right job.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "姉さんは「みんなの役に立ちたい」\nって言いますけど……\nほら、\n物事には適材適所ってあるじゃないですか。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "The two of us... we're just maid, you know? Even if we say we’re going to fight, there's only so much we can do. Maids should act like maids and be useful in a maid’s way.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あたしたち、\nただのメイドですよ？\n戦うっていっても\nたかが知れてますって。\nメイドはメイドらしく、\nメイドのやり方で役に立てばいいのに。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "There's plenty of better ways to increase someone's firepower. Uncle Popo's weapons are a prime example. Once this one's complete, neither of us will need to fight.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "戦力の増強なら、\nもっといい方法があるんです。\nポポじいの兵器なんて、\n最たる例ですね。\n完成すれば、\n別にあたしたちが切った張ったしなくていいでしょ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Ah, I guess that's part of it. Well, I have my own calculations and ulterior motives... But I'm mainly worried about my sister being on the front lines.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……の、\n一部です。\nま、\nあたしなりの打算と下心もあるんですけど……\n姉が前線に立つのは心配ですからね。\nぶっちゃけ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Kishi-san, it seems that this time I got you involved in my selfish plans. I don't know if I can call it an apology... but I'd like to give you something as a token of my appreciation. Is there anything you'd like?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "今回はあたしの思惑に\n騎士さんを巻き込んじゃいましたね。\nそのお詫び……\nって言えるほどじゃないかもしれませんけど。\n何かお礼したいです。\n欲しい物とかあります？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Black tea... Would something like that really do?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "紅茶……\nそんなのでいいんですか？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well... when there are guests, the other maids usually take the initiative to make tea or coffee instead of me. Even if that's not the case, my sister tends to take over. I probably didn't have many, if any, opportunity to make tea for you, Kishi-san.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "まあ、\n来客の際は他のメイドが率先して出しますし。\nそうでなくても、\n姉さんに出番とられがちなんで。\n騎士さんに淹れる機会、\nあんまなかったかもですね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Sure, that's fine. Understood. Once this request is completed, I'll give you a rare item that's known as the black tea that I personally brewed.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "いーですよ。\nわかりました。\nじゃ今回の依頼が終わったら\nあたしの淹れる紅茶っていう\nレアアイテムを差し上げます。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Hey, somehow this feels like I've just set a \"flag\" didn't I? These kinds of promises usually end up unfulfilled, leading to a tear-jerker pattern--they're a sign that trouble is around the corner.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "って、\nなんかこれフラグっぽいですね。\nこういう約束って\n大体果たされずにお涙頂戴のパターンとか──\nトラブルに巻き込まれる前兆だったりしますけど。"
+    },
+    {
+      "name": "Kid Bear",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "子グマ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That's right, it's very cute indeed. With that said, Kishi-san, the baby bear in front of you is clearly immature and not yet independent.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "そうですね、\nかわいいですね。\nで、騎士さん。\n目の前の子グマ、\nどう見ても未成熟で独り立ちしてないですよね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "And so, the fact that there is a baby bear like this also means that──",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "まあ、\nこういう子グマがいるって事は──"
+    },
+    {
+      "name": "Mama Bear",
+      "text": "Vrrrrrrr...",
+      "choice_data_list": [],
+      "orig_name": "親グマ",
+      "orig_text": "ヴォルルルルル……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Of course, that's the kind of development that I'd expect. Actually, she's locked onto us, hasn't she?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "当然こうなりますよね。\nってか、ロックオンされちゃってません？　あたしたち。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Ah, geez, I guess I couldn't get rid of the smell. That's all because Kishi-san fell over in a place like that.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……あーもー、\n匂いまでは落とせなかったのかなぁ。\n騎士さんがあんなとこですっ転んじゃうからですよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Let's have our promised tea once we get through this difficult situation. For now... let's get outta here!",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "約束のお茶はこの窮地を乗り切ったらにしましょう。\nひとまずこの場は……\n退散\nってことで！"
+    },
+    {
+      "name": "Narration",
+      "text": "Taking {0}'s hand, Wurm dashed off as fast as she could.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}の手を取ると、\nヴルムは一目散に駆け出すのだった。"
+    }
+  ]
+}

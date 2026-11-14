@@ -1,0 +1,936 @@
+{
+  "title": "In the Darkness Inside the Serpent",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Shortly before Saren and {0} joined them, Monika and Medusa managed to catch up with the group of various snakes, however...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サレンと{0}が合流する少し前、\nモニカとメドゥーサはどうにか蛇の一団に追いついていたが──"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "G-Guhh... They're strong, but... we have a duty to protect Landosol...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "ぐ、\nぐうぅ……\n強い、\nだが、\nランドソルは我々が守らねば……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "OH HO HO HO♪ You are facing the denizens of Gio Gehenna, who survive in harsh conditions every day. They're on a different level than the average lowlifes around here! How dandy!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲ～\nッホッホ♪　\n彼らは過酷な環境で\n毎日がおサバイバルな\nジオ・ゲヘナの民ですわよ？　\nそんじょそこらの下々オーラな方々とは\nレベルが違いますの！　\nおダンチですわ～！"
+    },
+    {
+      "name": "Kanon",
+      "text": "And on top of that----I'm wielding the great magic of controlling snakes with a mere flute, something which I learned at one of the streets corners right HERE in Landosol! I've added some gorgeous arrangements to it, and now let it be known as the grand march of the Snake Tribe Monstress... ON. PARADE!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "さらには──\nランドソルの辻角で披露されていた、\n笛で蛇を操る大奇術！\nそこにあたくし様が華麗なるおアレンジを加えることで完成した\n蛇族妖魔人たちの大行進──\nオン・\nパレードッ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "During my time with the Earth Hydra, I felt like I somehow had a vague understanding on how to use magical power to control others. But to think it's already working out this perfectly, I can't help but feel frightened at my own talent, OH HO HO HO HO♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "アースハイドラの時に、\n他者を操るための魔力の使い方はな～んとなく\n理解した気がしないでもありませんでしたけど？　\nこうまで上手く\nいっちまうとは、\n己の才能が恐ろしくて仕方ありませんわ\nヲ～\nッホッホ♪"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "KHHH! So she's the type of idiot who's blessed by talent, huh? What a troublesome exhibitionist...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "くっ！\nバカのくせに才能はあるタイプか、\nどこまでも厄介な露出狂だ……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "We’ve finally caught up with her! Wait, the battle’s already started!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ようやく追いついたわ！　\nって、\nもう戦いが始まってるじゃない！"
+    },
+    {
+      "name": "Monika",
+      "text": "However, thanks to the Royal Knights of NIGHTMARE holding them back right here, it seems that no damage was done to the town or its residents.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "だが、\n【王宮騎士団（NIGHTMARE）】が\n足止めをしてくれたおかげで、街や住人に\n被害は出てないようだ。"
+    },
+    {
+      "name": "Tourist who's randomly there",
+      "text": "Oooh! More intruders have joined into this festival?! This is getting exciting!",
+      "choice_data_list": [],
+      "orig_name": "偶然居合わせた観光客",
+      "orig_text": "おお！　\nここで乱入者が追加かー！？\n盛り上がってきたぞ！"
+    },
+    {
+      "name": "Resident who's randomly there",
+      "text": "I've never seen a real show like this before, to think even the Royal Knights of NIGHTMARE are taking part in the performance!",
+      "choice_data_list": [],
+      "orig_name": "偶然居合わせた住民",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】まで協力してるなんて、\nこんな本格的なショーはじめてだわ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Hmm, the people around us seem to wrongly believe this is part of some festival performance... If I were to tell them the truth, they might panic. This is a tricky situation...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "むぅ、\n周りの者たちは\n祭りの出し物と勘違いしているな……\n下手に本当のことを言うと\nパニックになりかねない。\n厄介な状況だ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Kanon...! What's the big idea? Weren't you going to defeat Nephy Nella? As I thought, you were just as untrustworthy as you looked.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "カノン……！　\nどういうつもり？\nネフィ＝ネラを倒すんじゃなかったの？\nやっぱり見た目通り\n信用できないヤツだったわね。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Oh dear, no. I haven't lied even a little bit, you know? Of course, taking Nephy's life is high on the list of priorities. But before that, I'll take this country too - that's all it boils down to.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "あらやだ。\n嘘なんてこれっぽっちもついておりませんでしてよ？\nネフィのお命も\n当然いただきますわ。\nただ、\nその前に\nこの国もいただいてしまう──\nそれだけのコトですの。"
+    },
+    {
+      "name": "Medusa",
+      "text": "How dare you be so brazen... You tried to take advantage of me by using my sisters safety as an excuse, I'll never forgive you!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "よくもまあいけしゃあしゃあと……\nお姉ちゃんをダシにして、\nアタシを利用しようとしたこと、\n絶対許さないんだから！"
+    },
+    {
+      "name": "Kanon",
+      "text": "H-Hold on just a second. I'll admit that there was a slight misunderstanding. But I'm fairly sure the person you should be baring your fangs towards is still Nephy Nella... Do you really have the nerve or time to pick a fight with me?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "お、\nお待ちなさいな。\n多少の行き違いがあったのは認めますわ。\nですが\nアナタの牙剥く相手はあくまでネフィ＝ネラ……\nあたくし相手におケンカ吹っ掛ける余裕がおありなのかしら？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Eh? ...W-Well that's...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "っ……\nそ、\nそれは……"
+    },
+    {
+      "name": "Kanon",
+      "text": "Of course, I have no intention of fighting you either, you know? Ah, I know just the thing♪ As a sign of our reconciliation, would you mind listening to a song for me?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "勿論\nあたくしも、\nアナタと戦うつもりなんてありませんでしてよ？\nあぁそうですわ♪\n仲直りの証として、\n一曲聴いていただけませんコト？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Huh? Sure, but...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "えっ？\nいいけど──"
+    },
+    {
+      "name": "Monika",
+      "text": "MEDUSA, NO! GET BACK! THAT IS CLEARLY A TRAP!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "メドゥーサ、\nダメだ落ち着け！！\nこれは罠だ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "TOO LATE FOR THAT! Listen carefully! Manticore-style Serpent Control Song - \"The Foolish Serpent's Whinny\"!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "もう遅くってよ、\nご清聴なさい！\nマンティコア流蛇操楽曲──\n『愚蛇のわななき』！"
+    },
+    {
+      "name": "Narration",
+      "text": "*FWEEE FWEE FWEEEEEEEE*♪",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ピ～ヒョロロ～ピ～ピ～ピ～♪"
+    },
+    {
+      "name": "Medusa",
+      "text": "Auh...! No, this sound... It's disgusting... but...! I-It won't work on me...!!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "あぅ\nっ……！　\nヤダ、\nこの音……\n気持ち、\n悪ぅ……\nだけど……！　\nき、\n効かないわよ……！！"
+    },
+    {
+      "name": "Kanon",
+      "text": "WHAAAAAAAAAAAAAAAAA?! Wh-What's the meaning of this?! Whether it's a group of monstress or a giant snake so tall you have to look up, all that matters is that they're snakes! I should be able to make them all, including you, my slaves!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "んなぁっ～～！？　\nど、\nどういうコトですの！？\n妖魔人の集団も、\n見上げるほどの大蛇も、\n蛇ならばみーんな\nあたくしの奴隷にできるハズですのに！"
+    },
+    {
+      "name": "カノン",
+      "text": "もしかしてこの小娘、\nあたくしを上回る素質を持っている──\nとかおっしゃるおつもり！？　\nありえません、\nありえませんですわ～！　",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "もしかしてこの小娘、\nあたくしを上回る素質を持っている──\nとかおっしゃるおつもり！？　\nありえません、\nありえませんですわ～！　"
+    },
+    {
+      "name": "Monika",
+      "text": "...Lord Captain, could you please leave this situation to me? I would like the Royal Knights of NIGHTMARE to prepare so that the surrounding citizens are not put in danger.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……隊長殿、\nこの場は私に任せてはもらえないだろうか。\n【王宮騎士団（NIGHTMARE）】には周りの市民たちに\n危険が及ばぬよう、\n備えておいていただきたい。"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "B-But... even if it's you Lady Monika, you're clearly outnumbered...",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "し、\nしかし\nいくらモニカ殿と言えど、\nさすがに\n多勢に無勢では……"
+    },
+    {
+      "name": "Monika",
+      "text": "There's no problem. And that's because... I'm pretty pissed off right now.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "問題ないさ。\nなぜなら……\n今の私は──\nだいぶ怒っている。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Huh?! Wh-Wh-What's with you...?! As if I'd be scared of a runt like you, even if you act all serious!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "っ！？\nな、\nなんですの……\nおチビがすごんだところで\n怖くもなんともありませんでしてよ！？"
+    },
+    {
+      "name": "Monika",
+      "text": "Over the past few days, I have been working to ensure that my dear friend could have a peaceful and enjoyable New Year's holiday. He is someone who is quick to help others and gets easily into trouble as a result.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "私はこの数日間、\n大事な友が\n平穏で楽しい正月を送れるようにと動いてきた。\nそいつは、\nすぐに人の手助けをして、\nトラブルに巻き込まれる質でな。"
+    },
+    {
+      "name": "Monika",
+      "text": "He has a bad habit of helping anyone and everyone without looking back at his own situation──That often causes its own shares of trouble, but everyone cares deeply about him. ...Of course, I am included into that \"everyone\" aswell.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "我が身を振り返らず、\n誰彼構わずに助けてしまう悪癖がある奴で──\n困ったことも多いが、\n皆がそいつを大切に思っている。\n……無論、\n私もだ。"
+    },
+    {
+      "name": "Monika",
+      "text": "I want him to spend the end and beginning of the year in peace. Even those who are busy adventuring and helping others all the time need to rest, even if only for a moment. Without some peace in their lives, anyone is eventually bound to crumble.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "そいつに、\n一年の終わりと始まりくらい、\n平和に過ごしてもらいたい。\n冒険に人助けに忙しい奴にだって、\n一時だろうと休息が必要だ。\n平穏がなければ\n人というのはいつか、\n潰えてしまうからな。"
+    },
+    {
+      "name": "Monika",
+      "text": "You are trying to trample on that brief moment of peace I'm trying to give him. You are attempting to take Landosol, my friend's home that he looks forward to return to, with your foolish hands. Therefore, I will protect both my friend and Landosol. Right here, and now.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "おまえは、\nそのつかの間の平穏を踏みにじろうとしている。\n我が友の帰る場所、\nランドソルを愚劣な手で奪おうとしている。\nならば、\n我が友とランドソル、\n両方を私は守る。"
+    },
+    {
+      "name": "Monika",
+      "text": "Furthermore, this is the second time you've betrayed another friend of mine. You sweet-talked her and trampled on her heart, which was tormented by anxiety after being separated from the family she cherishes. ...There's no way I could ever forgive you for this, is there?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "さらに──\nもう一人の友人を二度も裏切った。\n大切な人と離れ\n不安に苛まれた心に甘言を弄し、\n土足で踏みにじった。\n……到底、許すわけにはいくまい？"
+    },
+    {
+      "name": "Medusa",
+      "text": "M-Monika...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "モ、\nモニカ……"
+    },
+    {
+      "name": "Kanon",
+      "text": "H-Hmph. As I thought, pipsqueaks like you are too naive. Are you sure you can take us on? Gio Gehenna is a world of survival of the fittest, so it's foolish to show such a glaring weakness!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ふ、\nふん、\nやはりおチビは\n言うことも甘々でございますわね。\nいいですこと？　\nジオ・ゲヘナは\n弱肉強食の世界、\n隙を見せた方がおマヌケでございますのよ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "It's over for you! My adorable slaves! We'll teach those sweet little ones just how harsh the reality of the world can BEEEEEEE!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "やっておしまい！　\nあたくしのかわいい奴隷たち！\n甘々おチビちゃんに\n世界の厳しさを教えて差し上げるのですわ～！"
+    },
+    {
+      "name": "Monika",
+      "text": "I see, survival of the fittest, huh? ...THEN! YOU WON'T COMPLAIN IF YOUR DEFEAT IS MISERABLE AND IMMEDIATE! HAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "そうか、\n弱肉強食か。\n──なら、\nここで無様に打ち倒されても文句は言うまいな！\nはぁっ！"
+    },
+    {
+      "name": "Snake Monsterfolk",
+      "text": "GWAGYAAAAAAAAA!?",
+      "choice_data_list": [],
+      "orig_name": "蛇の妖魔人たち",
+      "orig_text": "ぐわぎゃー！？"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Ah? A-A few people were blown away by a single sword strike... This pipsqueak... Just who are you?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……は？　\nひ、\n一太刀で、\n数人が吹っ飛ばされましたわ……\nこ、\nこのおチビ、\n何者なんですの……"
+    },
+    {
+      "name": "Monika",
+      "text": "Medusa, listen up! I am a soldier. It is my duty to wield my blade for the sake of my homeland.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "メドゥーサよ、\n私は軍人だ。\n本来なら\n祖国のために刃を振るうのが我が使命だ。"
+    },
+    {
+      "name": "Monika",
+      "text": "But for now, just for now, I shall become a knight who fights for my friends. Now, give me your order.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "だが今は、\n今だけは\n我が友のために戦う騎士となろう。\nさあ、\n命じるがいい。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Wh-What are you trying to show off for...? But thanks, Monika. Please! Help me teach a lesson to that bat-woman!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "な、\nなによカッコつけちゃって……\nでも、\nありがと、\nモニカ。\nお願い！　\nアタシと一緒に\nあの蝙蝠女をぶっ飛ばしてちょうだい！"
+    },
+    {
+      "name": "Monika",
+      "text": "UNDERSTOOD! Then, FOLLOW ME!!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "心得た！　\nでは、\n私に続けー！！"
+    },
+    {
+      "name": "Medusa",
+      "text": "I should be saying that to you, Monika! TAAAAAAAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "アンタこそ遅れないでよ、\nモニカ！\nたああぁー！"
+    },
+    {
+      "name": "Monika",
+      "text": "...*pant, pant* That's strange. Sure, there were a lot of them, but their numbers don't seem to be decreasing at all. Could it be...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……\n妙だな。\nたしかに大人数ではあったが、\n一向に数が減っている様子がないな。\nまさか……"
+    },
+    {
+      "name": "Kanon",
+      "text": "Yes, as you may have guessed, those snake folks are being controlled by me. I will try to reap their consciousness, and as long as the flute is effective, they will rise up again and again! And with the joy of serving me, that is~ OH HO HO HO♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ええ、\nお察しの通り。\n蛇たちはあたくしに操られておりますの。\n意識を刈りとろうと、\n笛の効き目ある限り何度でも立ち上がりますわ！\nあたくし様に仕えられる喜びと共に！　\nですわ～\nッホッホッホ♪"
+    },
+    {
+      "name": "Monika",
+      "text": "I thought so... Then there's no true end to this fight. They are all strong people to begin with. So this puts us at a disadvantage...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "やはりか……\nこれではキリがないな。\nもともと屈強な人々ばかりだ。\nとなれば\nいよいよ我々が不利……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Huh. So you're saying... we just have to immobilize them, right? Monika, get behind me.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "へえ。\nってことは……\n動けなくすればいいんでしょ。\nモニカ、\nアタシの後ろにまわって。"
+    },
+    {
+      "name": "Monika",
+      "text": "Oi, Medusa, what are you doing?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "おい、\nメドゥーサ、\n何をするつもりだ？"
+    },
+    {
+      "name": "Medusa",
+      "text": "What we need to do, of course! Eat this!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "こうするのよ！　\n食らいなさい！"
+    },
+    {
+      "name": "蛇の妖魔人たち",
+      "text": "……！？",
+      "choice_data_list": [],
+      "orig_name": "蛇の妖魔人たち",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Monika",
+      "text": "All those monstress were... petrified?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "妖魔人たちが、\n石化した……？"
+    },
+    {
+      "name": "Medusa",
+      "text": "That got all of them to stop moving. Don't worry, I used a weak effect, so within 30 minutes they should be back to normal. That should be enough to defeat that bat woman, right?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "これで動きは止まったわね。\n安心して、\n手加減したから30分もすれば戻るわ。\nそれだけあれば、\nあの蝙蝠女を倒すには十分でしょ？"
+    },
+    {
+      "name": "Kanon",
+      "text": "Ugh...! Ah, how dare you treat my pawns like that...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "くっ……！\nあ、\nあたくしの手駒をよくも……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Now all that's left is you and that giant snake. Now, give up already, you perverted woman.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "これで残るは\nアンタとその大蛇だけね。\nさあ、\nとっとと降参しなさい、\n変態女。"
+    },
+    {
+      "name": "Kanon",
+      "text": "You're getting carried away... that's UNWISE!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "お調子に乗るんじゃ──\nありませんでしてよぉっ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Eh--~",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "へっ──"
+    },
+    {
+      "name": "Monika",
+      "text": "MEDUSA! ...ACK!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "メドゥーサ！\n……くぅっ\n──！！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Oh my, oh my? You really are capable, shielding Medusa with such a precise timing, pipsqueak. And furthermore, you even managed to avoid a fatal blow on yourself...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "あらあらあら？　\n今のタイミングでメドゥーサさんを\nかばってのけるなんて、\nやはりデキますわねアナタ。\nしかも自身の致命傷まで避けてるだなんて──"
+    },
+    {
+      "name": "Monika",
+      "text": "...Heheheh. This much is nothing more than a scratch... *cough*!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……ふっふっふ。\nこの程度、\nかすり傷──……\nごふっ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Wha... Th-This is... poison...!?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "なっ……\nこ、\nこれは……\n毒……、\nだと……！？"
+    },
+    {
+      "name": "Medusa",
+      "text": "M-Monika! Get a hold of yourself!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "モ、\nモニカ！\nしっかりしなさいよ……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "OH HO HO HO♪ This is the Manticore Style: Poisonous Killing Swordsmanship! Hiding behind my graceful swordplay, the scorpion's tail stabs! Deadly and cute!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲ～\nッホッホ♪\nこれぞマンティコア流、\n毒殺剣術！\n華麗なる剣捌きの裏に隠れて蠍の尾がプスリ！　\nですわ～！"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Well, that was just a graze, not an actual stab, so your limbs will probably just go numb for a little while and that's it. Don't think you can block this next attack though...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……まぁ今のはプスリではなくカスリでしたから、\n少しの間お手足が痺れる程度でしょうけれど。\n次の剣を受けられるとは\n思わないことですわね──ッ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "S-Stop it, you...! YOU TOO! TURN TO STONE RIGHT AWAY...!!!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "や、\nやめなさいよこのっ！\nアンタも\n石になっちゃえ──！！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Evade! Stylish DODGE!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "回避！\nお回避ですわ～っ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Huh?! I-I've missed?!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "えっ！？\nは、\n外れちゃった！？"
+    },
+    {
+      "name": "Kanon",
+      "text": "OH HO HO HO♪ I see through you! You can only petrify a very small area in front of your gaze! You also have to charge some magical energy in the process - if I know it's coming I can easily avoid it!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲ～\nッホッホ♪　\n見切りましてよ！\nアナタの石化の対象は、\n視線を向けた先の\nごく狭い範囲のみ！\n魔力のタメもありますし──\n来るとわかってりゃ\n余裕でお回避ですわ～！"
+    },
+    {
+      "name": "カノン",
+      "text": "……まぁ、\n最初の発動で対象にされてたら\nあたくしも今ごろ\n世界一美しい石像になっちまってましたけど……\n手駒のみなさまも、\nほ～～～んのちょっとだけ役立ちましたわね♪　",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……まぁ、\n最初の発動で対象にされてたら\nあたくしも今ごろ\n世界一美しい石像になっちまってましたけど……\n手駒のみなさまも、\nほ～～～んのちょっとだけ役立ちましたわね♪　"
+    },
+    {
+      "name": "Medusa",
+      "text": "Th-Then...! I'll just glare at you as many times as it takes!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "な、\nなら！\n何度だって睨みつけてやるわよっ──！"
+    },
+    {
+      "name": "Kanon",
+      "text": "As if I'd give you such an opening any longer! Here it comes. Spinning Backhand Shield!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "そんな隙、\n差し上げませんわ！\nスピニング\nバックハンドおシールド！"
+    },
+    {
+      "name": "Medusa",
+      "text": "EEEEK!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "きゃっ！？"
+    },
+    {
+      "name": "Kanon",
+      "text": "OH HO HO HO♪ Don't worry, I won't kill you. I may have failed earlier, but I fully intend to use you as a pawn again.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲ～\nッホッホ♪　\nご安心なさいな、\n殺したりはしませんわ。\n先ほどは失敗してしまいましたけど、\nあらためて\nアナタを手駒としてあげるつもりですし。"
+    },
+    {
+      "name": "Kanon",
+      "text": "You're a mere weakling yourself, but... As long as you can petrify Nephy using those eyes of yours, you might still be of some use to me, right? To start with, you'll petrify all of those Landosol's knights and allow us to break-in~♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "アナタ自身は弱っちいですけど……\n石化の視線が当たりさえすれば、\nネフィにも通じるかもしれませんし？　\n手始めに\nこのランドソルの\nお兵士たちをみ～んな石化して、\n慣らし運転して差し上げますわ～♪"
+    },
+    {
+      "name": "Medusa",
+      "text": "Y-You...! Did you just say that I'm a weakling?!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "こ、\nこのっ……！\nアタシが弱っちいですって……！？"
+    },
+    {
+      "name": "Kanon",
+      "text": "Hmph! Do you lack the gift of self-awareness? It seems that you have some talent, but it is far from polished. It would have been fine if you were under the tutelage of a wealthy family or something, however...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "フンっ！　\nお自覚ございませんですかしら？\n多少の才能はあるようですけれど、\nまるで磨かれておりません。\nお太い実家の庇護下でならば\nそれでよろしかったんでしょうけれど。"
+    },
+    {
+      "name": "Kanon",
+      "text": "I'm sure that your sisters too... maybe they got fed up by having you depend on them and decided to leave you alone?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "大方\nアナタの姉たちも、\nそんなアナタの甘えっぷりに\nウンザリして\n出て行ったんじゃありませんこと？"
+    },
+    {
+      "name": "Medusa",
+      "text": "A-AAAAHHHH?! You... what are you saying?! As if you'd know even one thing about my sisters...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "は、\nはぁ！？\nアンタ、\n何言ってんの！？\nお姉ちゃんたちのこと\n知りもしないで……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "GEEEEEEEZ, YOU'VE MADE ME MAD...! Now that you've asked for it, I'm going full power! This is the first time I've done something like this──I'm going to turn everything in my sight to stone...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "もー\nあったまきた……！　\nこうなったら、\nフルパワーよ！\nこんなのやるの初めてだけど──\n視界に入るもの、\n全部石にしてやるんだからっ……！"
+    },
+    {
+      "name": "Monika",
+      "text": "This is bad. Medusa's clearly lost her cool! At this rate, even the audience will be hurt!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "まずい、\nメドゥーサのヤツ冷静さを失ってるぞ！\nこのままでは観客に被害が出てしまう！"
+    },
+    {
+      "name": "Saren",
+      "text": "We'll stop her! {0}!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "止めるわよ、\n{0}！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ngyaaa! I can't see... I can't see in front of me! What are you doing, you idiot?!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "んきゃあっ！\n前が、\n前が見えない……！\nなにすんのよバカー！"
+    },
+    {
+      "name": "Saren",
+      "text": "Phew... Did we make it just in time...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふぅ……\n間一髪、\n間に合ったかしら……？"
+    },
+    {
+      "name": "Monika",
+      "text": "M-My comrade?! And you too, Saren?! Wh-What are you doing here?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "き、\n貴公！？　\nそれにサレンも！\nど、\nどうしてここに……"
+    },
+    {
+      "name": "Saren",
+      "text": "We had a bad feeling when we heard there was a commotion in the middle of the city, so we rushed here straight from the Orphanage. Looks like that was the correct decision. Due to the urgency, I had to come here in my kimono.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "街中で\n騒ぎになってるって聞いて\nイヤな予感がして\n救護院から大急ぎで駆け付けたのよ。\n大正解みたいね。\nおかげで\n着物のまま来ちゃったけど。"
+    },
+    {
+      "name": "Monika",
+      "text": "I'm sorry, it's still your New Year's holiday to enjoy... I wanted to finish this by myself, but...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "すまない、\nせっかくの正月休みなのに……\n私たちだけで\n片をつけたかったのだが……"
+    },
+    {
+      "name": "Saren",
+      "text": "Monika, even if it's you we're speaking of, this was a bit too reckless. Besides, if someone is in trouble, this guy will rush over no matter what he's doing. He's definitely not the type to take it easy in an emergency.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "いくらモニカさんでも、\nそれはちょっと無茶が過ぎるわね。\nそれに、\nこいつは誰かが困ってたら\n何をしてたって飛んでくわよ。\n非常事態にのんびりなんて\n絶対してられないタイプでしょ。"
+    },
+    {
+      "name": "Monika",
+      "text": "...That's right. Sorry that you needed to scold me like that.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……そうだったな。\n重ね重ね\nすまん。"
+    },
+    {
+      "name": "Monika",
+      "text": "That's also exactly why I didn't want to bother him, but it seems things don't always go to plan.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "だからこそ、\nその手を煩わせたくはなかったのだが、\n上手くはいかないものだな。"
+    },
+    {
+      "name": "Tourist who's randomly there",
+      "text": "Ohhhhh! Even more reinforcements have arrived! This is getting exciting!",
+      "choice_data_list": [],
+      "orig_name": "偶然居合わせた観光客",
+      "orig_text": "おお！　\nここでさらなる援軍か！\n盛り上がってきたぞ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "*sigh*... Mr. Slave-born, is it you again before me? I wish you'd stop acting like a hero by showing up every time with a woman at your side.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "はぁ……\n馬ボーンさん、\nまたアナタですの？\n毎度女付きで現れて、\nヒーロー気取りも大概にしていただきたいですわ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "...I respectfully refuse. Your strengthening ability has caused me such a bitter defeat in the past...\nI have to admit that the odds are stacked against me now...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……お断りです。\nアナタの強化能力には\n以前お苦杯をナメさせられたものですし……\n分が悪くなったのは認めざるを得ませんけれど。"
+    },
+    {
+      "name": "Kanon",
+      "text": "But more than anything, your skills, Mr. Slave-born, fall under the category of \"pathetic\" and besides──I still have some tricks up my sleeves left!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "何より\n馬ボーン自身の腕前は、\nおヘッポコの範疇、\nそれに──\nまだあたくし様には、\n手が残されておりますわ！"
+    },
+    {
+      "name": "Big Snake",
+      "text": "Kishaaaa!",
+      "choice_data_list": [],
+      "orig_name": "大蛇",
+      "orig_text": "キシャアーーーッ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "KYAAAAAAAAAHHHH!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "キャア\nアアアー！"
+    },
+    {
+      "name": "サレン",
+      "text": "{0}！",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "{0}！"
+    },
+    {
+      "name": "Monika",
+      "text": "Medusa, too! That snake swallowed them both since he was covering her in his cape...!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "メドゥーサも！\n目隠しをしていた{0}ごと、\n丸呑みに……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "OOOOOOOOOOOH HO HO HO HO♪ You truly are still a weakling, aren't you, my dear Slave-born?! Well, this time, I'll excuse you since blindfolding Medusa like that was clearly your downfall~♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲ～\nッホッホッ♪　\nやはりおヘッポコですわね馬ボーン！\nまぁ今回は、\nメドゥーサさんを目隠ししていたのが\nアダとなったということにして差し上げますわ～♪"
+    },
+    {
+      "name": "Kanon",
+      "text": "Now then, now then... Monika and Saren, was it? Whether or not our dear Slave-born in the serpent's belly will be dissolved by the stomach acid and turn into real bones is entirely up to me.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "さてさて……\nモニカさんに\nサレンさん\nでしたかしら？\n大蛇のお腹の馬ボーンたちが\n胃酸で溶かされて本当にボーンになるかは\nあたくし様のお腹づもり一つですわ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "THE-RE-FORE, there's only one thing you two can do to avoid that. Just let me pass through to the royal palace, that's all!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "な・\nら・\nば、\nアナタたちができることは一つだけ、\nこのままあたくしを王宮まで素通りさせること、\nそれだけですわ～！"
+    },
+    {
+      "name": "Saren",
+      "text": "Ugh... Taking hostages... you're truly the worst!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "く\nっ……\n人質なんて、\n最悪ね……！"
+    },
+    {
+      "name": "Monika",
+      "text": "Certainly the situation is dire and hopeless. But I know you {0}, my comrade. No matter what, you've never given up. Even now, you're surely struggling to help and save Medusa.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "たしかに状況は最悪、\n絶体絶命だ。\nだが\n貴公はどんなときでも\n絶対に諦めなかった。\n今だって\nメドゥーサを助けるために\n必死でもがいているのだろう。"
+    },
+    {
+      "name": "モニカ",
+      "text": "どうか、\nメドゥーサを\n頼むぞ！　",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "どうか、\nメドゥーサを\n頼むぞ！　"
+    },
+    {
+      "name": "Medusa",
+      "text": "...Nn, uuu...Ah! I... Ugh, what's with this place? It's dark, cramped, and humid...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……ん、うぅ……\nはっ！　\nア、\nアタシ……\nうっ、\nな、\n何ここ、\n暗くて、\n狭くて、\nジメジメしてる……"
+    },
+    {
+      "name": "Medusa",
+      "text": "...I, was swallowed up by that snake, right...? Wh-What should I do... What should I do? I have to get out of here... Fugyah!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……アタシ、\nあの蛇に飲み込まれたのよね……？\nど、\nどうしよう\nどうしよう……\n早くここから出なきゃ……\nふぎゃっ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "N-No... It's so slippery and I can't move around properly... Let me out, let me out already... Hey! Hey, hey!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ダ、\nダメ……\nぬるぬるしてて、\n上手く進めない……\n出して、\n出してよ……\nねえ！　\nねえ、\nねえ！"
+    },
+    {
+      "name": "メドゥーサ",
+      "text": "はぁ……\nアタシが叩いた程度じゃ、\n全然反応しない……\nそれに、\nはぁ、\nちょっと息苦しくて、\nぼうっとしてきたかも…………\nうぅ……",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "はぁ……\nアタシが叩いた程度じゃ、\n全然反応しない……\nそれに、\nはぁ、\nちょっと息苦しくて、\nぼうっとしてきたかも…………\nうぅ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "I wonder if I'll never see my sisters again. Here, I'm all alone... my life will just end as I'm digested by a snake.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "アタシ、\nもう、\nお姉ちゃんたちに会えないのかな。\nここで、\n一人っきりで……\n蛇に食べられちゃって。"
+    },
+    {
+      "name": "メドゥーサ",
+      "text": "なにが優勝よ、\n打倒ネフィ＝ネラよ……\nアタシ、\n全然強くないじゃん……\nカッコ悪くて、\n情けない……\nこんなんじゃ\nお姉ちゃんに笑われちゃうよ……",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "なにが優勝よ、\n打倒ネフィ＝ネラよ……\nアタシ、\n全然強くないじゃん……\nカッコ悪くて、\n情けない……\nこんなんじゃ\nお姉ちゃんに笑われちゃうよ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Sisters, I want to see you... Help me, sisters... Onee-chan, Nee-chan...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "お姉ちゃん、\n会いたいよ……\n助けて、\nお姉ちゃん……\nお姉ちゃん、\nお姉ちゃん……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "...!? Th-That voice... Perhaps, could it be you, {0}?! Wh-why are you next to me! By the way, did you hear all that just now..? GEEZ THIS IS JUST THE WORST! IDIOT, IDIOT, IDIOT!!!!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "っ！？　\nそ、\nその声……\nもしかして{0}！\nな、\nなんでアンタが隣にいるのよ！　\nていうか\n今の聞いてた……？\nもう\n最悪！　\nバカバカバカー！"
+    },
+    {
+      "name": "Medusa",
+      "text": "In the first place, it's been THE WORST since the START! My sisters disappeared, Nephy Nella stole what’s important to me, and even when I tried to do my best on my own, I was defeated by a perverted bat woman and ended up in this state...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そもそも\n最初から全部最悪なのよ！　\nお姉ちゃんはいなくなっちゃうし、\nネフィ＝ネラに大事なもの盗られちゃうし、\n一人で頑張ってみても、\n変態蝙蝠女にやられてこの有様よ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "I shouldn't have come to the festival... You guys were so nice to me, I got excited, I acted all cocky, but in the end, I couldn't do anything on my own.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "お祭りなんて、\n来なきゃよかった……\nアンタたちに優しくされて、\n浮かれて、\nイキがったところで、\n結局一人じゃ何もできないって\n思い知らされちゃった。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Monika too... I used to make fun of her for being a kid, but the most childish was me from the very start...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "モニカのこと、\n子どもだってバカにしてたのに、\n一番子どもなのは\nアタシじゃない……"
+    },
+    {
+      "name": "Medusa",
+      "text": "I hate both Kanon and Nephy Nella, but who I hate the most is myself... This me who deep down in her heart hopes that someone will come to save her...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "カノンもネフィ＝ネラも大っ嫌いだけど、\nいざとなったら\n誰かが助けてくれるって\n心の奥で期待しちゃってるアタシ自身が一番嫌いよ……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Seriously, I can't take it anymore, it's the worst. Ugh, sob... Ugh, ugh, ugh...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ホント、\nもう\n無理、\n最悪。\nうぅ、\nぐすっ……\nう、\nううぅ、\nううぅ……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Stop it, I don't need you to comfort me... Watching over me by the sidelines is annoying enough already...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "やめてよ、\nなぐさめなんていらないわよ……\nそばで見守るなんて\nイラっとくる……"
+    },
+    {
+      "name": "Medusa",
+      "text": "...I'm sorry. {0}, you came to save me, didn't you? And yet I took out my anger on you in such an uncool way... I really am lame. Ah, now that I've said that, I feel a little better...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……ごめんなさい。\nアンタ、\n助けに来てくれたんでしょ？\nなのにあんな八つ当たりして……\n本当にカッコ悪いわね、\nアタシ。\nあー、\n言うだけ言ったら少しだけスッキリしたわ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "I absolutely don't want things to end like this. I won't be satisfied until I give that exhibitionist a good beating, and I definitely want to meet my sisters!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "このまま終わりなんて絶対にイヤ。\nあの露出狂に\n一発お見舞いしないと気が済まないし、\nお姉ちゃんたちにも絶対会いたいわ！"
+    },
+    {
+      "name": "Narration",
+      "text": "GRAAAAAAAAAGH!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "グラグラッ──"
+    },
+    {
+      "name": "Medusa",
+      "text": "EEK! This giant snake is still rampaging. If we're inside, Monika and the others won't be able to do anything. We have to do something...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "きゃっ！　\nこの大蛇、\nまだ暴れてるわね。\nアタシたちが中にいちゃ、\nモニカたちも手出しできないわ。\nなんとかしないと……"
+    },
+    {
+      "name": "Medusa",
+      "text": "...Run away? How? Don't tell me... you're going to say we should get out of its butt. ABSOLUTELY, I don't want that.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……逃げる？　\nどうやって？\nまさか、\nお尻から出るとか言わないわよね絶対。\nアタシ\nいやだからねそんなの。"
+    },
+    {
+      "name": "Medusa",
+      "text": "You think there's still something we can do? ...Oh well. Then let's brainstorm a way out together!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "方法は\nまだ何も？\n……しょうがないわね。\n二人で考えるわよ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "...I've thought about that, of course. But this giant snake is just being controlled in the same way as the monstress are.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……それはもちろん考えたわよ。\nでも、\nこの大蛇も妖魔人たちと同じように\n操られてるだけなのよね。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Thinking about it like that, I don't really want to hurt it or anything...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そう思ったら、\nあまりひどいことはしたくないかなって……"
+    },
+    {
+      "name": "Medusa",
+      "text": "HUUUUUUUUUH!? {0}, what are you saying!? Eh? If it's a foreign object that can't be digested, you're sure we will be spit out together?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "はあ！？　\nアンタなに言ってるのよ！\nえ？　\n消化できない異物なら\nきっと吐き出すって？"
+    },
+    {
+      "name": "Medusa",
+      "text": "...Sorry, I don't think I can do it. I understand the logics of what you're asking, but... I'm scared.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……\nごめん、\nちょっと無理かも。\nやろうとしてることは分かるけど……\n怖いのよ。"
+    },
+    {
+      "name": "Medusa",
+      "text": "I can't help thinking about what would happen if I turned you to stone and you never returned to normal... Normally, I'd be able to adjust the effect accordingly, but I don't think I can do it as I am now...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "アンタを石にして、\nもし元に戻らなかったら……\nって考えちゃう。\nいつもなら調節もきくんだけど、\n今のアタシじゃ\nできる気がしなくて……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Huh?! Wh-What's with this light? Did you do it? Wow, I feel so much more powerful than usual! With this, I'm sure I'll...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "え！？　\nな、\nなにこの光？　\nアンタがやったの？\nすごい、\nいつもよりずっと\n力がみなぎってるわ！\nこれならきっと……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "...Hey, you... somehow, you're truly a strange guy. You seem completely unreliable, but for some reason you make me feel like I can trust you. I think I understand a little bit more about why Monika and the others are so engrossed with you.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……ねえ、\nアンタって\nなんだか不思議なヤツね。\n全然頼りなさそうなのに、\nなぜか信じてもいいって気にさせる。\nモニカたちがアンタと一緒にいた意味が\n少し分かった気がするわ。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Since you believed in me, I'll believe in you and in myself too!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "アンタがアタシを信じてくれたんだから、\nアタシもアンタと、\nそして\n自分を信じてみる！"
+    },
+    {
+      "name": "Medusa",
+      "text": "So, please be patient for a little while and bear with it! Well then, here we go--",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "だから、\nちょっとだけ我慢してよね！\nそれじゃ、\nいくわよ──"
+    },
+    {
+      "name": "Medusa",
+      "text": "TURN TO STOOOOOOOOONE!!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "石になっちゃえーっ！！"
+    }
+  ]
+}

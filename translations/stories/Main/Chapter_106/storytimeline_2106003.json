@@ -1,0 +1,789 @@
+{
+  "title": "Part 2 Ch. 6 Ep. 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A fort far from Landosol...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソルから遠く離れた、ある砦──"
+    },
+    {
+      "name": "Misora",
+      "text": "Sorry I'm late! ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "すみませーん、\n遅くなりましたー★"
+    },
+    {
+      "name": "Kariza",
+      "text": "You're late, dumbass.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "おせーよボケっ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Hello, Misora...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "こんにちは、\nミソラちゃん……"
+    },
+    {
+      "name": "Zane",
+      "text": "...Misora. Where's Azold?",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……ミソラ。\nアゾールドは？"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm, Azold-san seems to have hurt his back quite a bit. It seems like he won't be able to get up for a while",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "んー\nアゾールドさん、\n腰をかなり痛めちゃったみたいでー\nしばらく起き上がるのもムリそーですねー"
+    },
+    {
+      "name": "Kariza",
+      "text": "Bah. You're so sloppy. I don't usually eat stupid food and exercise, so that's why.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ケッ。\nだらしねー\n普段からバカスカ喰って運動してねーからそーなんだよっ。"
+    },
+    {
+      "name": "Misora",
+      "text": "But... this is a problem. Without Azold-san, we'll have a lot of time to gather information",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "でも……\n困っちゃいますねー\nアゾールドさん抜きだと、\n情報収集が\nかなり滞っちゃいますしー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Me too... I'm sorry. I couldn't make tea as well as the all-Purpose Dolls...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしも……\nごめんなさい。\n万能人形さんたちほど、\n上手に\nお茶を淹れられなくて……"
+    },
+    {
+      "name": "Misora",
+      "text": "No, no♪ The tea you made is hot and delicious, Ranpha-san♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "いえいえ♪\nランファさんが淹れてくれたお茶、\nあつあつで美味しいですよ♪"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hmph. I just flipped the teapot over and dumped it all over the zeen",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "はんっ。\nさっき急須ひっくり返して、\nゼーンに思いっきりぶっかけたんだぜーコイツー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "K-Kariza... Don't say it... I'm sorry, too...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "カ、\nカリザくん……\n言わないで……\nゼーンさんも、\nごめんなさい……"
+    },
+    {
+      "name": "Zane",
+      "text": "It's okay. There's no problem.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "大丈夫だ。\n問題ない。"
+    },
+    {
+      "name": "Zane",
+      "text": "More importantly... We've relied too much on Azold. For the time being, we need to move things forward without burdening him.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "それよりも……\n我々は、\nアゾールドに頼り過ぎた。\n当面は、\n彼に負担をかけずに物事を進めなくては。"
+    },
+    {
+      "name": "Misora",
+      "text": "You're right. There's a lot of things only Azold can do, like analyze information on the seven crowns, duplicate abilities, and maintain the hideout.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そうですねー\n七冠の情報解析とか、\n能力の複製とか、\nアジトのメンテナンスとか……\nアゾールドさんじゃないとできないこと、\n色々ありますからねっ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'll prepare dinner, too.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ごはんの用意とかも……\nね。"
+    },
+    {
+      "name": "Zane",
+      "text": "I also have some good information. It turns out that the guild master of Dragonsnest isn't one of the Seven Crowns.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "良い情報もある。\n【ドラゴンズネスト】のギルドマスターが\n七冠ではないことがわかった。"
+    },
+    {
+      "name": "Zane",
+      "text": "And I heard that the person said that the \"the 'seventh' is not here.\" ......",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "それに、\nその人物は\n「『七番目』がこちらにいない」と言っていたそうだが……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yep, yep! ★ That's really important information, isn't it? You did great, Ranpha-san! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うんうん★\nそれってとっても大事な情報ですよねっ。\nランファさん、\nお手柄です♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Th-Thank you... But... I don't think I can take you at face value...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あ、\nありがとう……\nでも……\n鵜呑みにするわけには、\nいかないと\n思うけど……"
+    },
+    {
+      "name": "Zane",
+      "text": "But up until now, even if Azold and Misora tried their best, they couldn't find a single trace of the Seventh. So it makes sense to assume they're not here.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "だが\n今まで、アゾールドとミソラが手を尽くしても\n『七番目』は痕跡のひとつさえ見つけられなかった。\nならば、\nこちらにはいないと考えるのが筋だろう。"
+    },
+    {
+      "name": "Zane",
+      "text": "In other words... the Metamorph Regnant, the Regina Geas, Kaiser Insight, and Queen Labyrinth. I need to narrow down my aim, I intend to take all four of them out.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "つまり……\n変貌大妃、\n誓約女君、\n覇瞳皇帝、\nそして\n迷宮女王。\nこの４人をすべて獲るつもりで、\n狙いを絞らなくては。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Y-You're right... I have to do my best too...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そ、\nそうね……\nわたしも、\nがんばらなきゃ……"
+    },
+    {
+      "name": "Kariza",
+      "text": "That's fine, but I think there's an order in which to catch them.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "そりゃ構わねーけどよー\n獲る順番ってモンがあると思うぜー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huh? In order...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっ？\n順番……？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Yeah. The only one who knows where the Kaiser is, Is guarded by Queen Labyrinth and the Metamorph Regnant.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "あぁ。\nそん中で、唯一居場所のわかってる覇瞳皇帝は\n迷宮女王と変貌大妃がガードしてやがる。"
+    },
+    {
+      "name": "Kariza",
+      "text": "I don't know how deep it is under the castle, and with the nature of these people, there must be a lot of traps. At least, that's what I would do.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "城の地下っつったって\nどれくらい深くかわかんねーし、\n連中の性格からして\n罠もタップリだろ。\n少なくとも、\nオレならそーする。"
+    },
+    {
+      "name": "Kariza",
+      "text": "That's why we have to take down Queen Labyrinth and the Metamorph Regnant first. After that, Kaiser Insight. And as for the remaining, Regina Geas...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "だから\n先に、迷宮女王と変貌大妃を押さえなくちゃだ。\n覇瞳皇帝はそれからだ。\nんでもって、\n残りの誓約女君だが……"
+    },
+    {
+      "name": "Kariza",
+      "text": "Rumor has it, she's like a spoiled child to the Kaiser Insight. If we use her as a decoy and drag her around, she might come at us. That's what we're going to do.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ウワサじゃ、\n奴は覇瞳皇帝にオネツらしーからな。\n覇瞳皇帝をオトリにして\nそこらへん引きずりまわしてやりゃ、\n向こうからホイホイつっかかってくるだろ。\nそこを返り討ちってワケだ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Kariza...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……カリザくん……"
+    },
+    {
+      "name": "Misora",
+      "text": "Kariza, Are you a genius? A prodigy?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "カリザくん、\nすごーい★\n天才ですか？　\n秀才ですか？　\n神童ですかぁ～っ？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Don't pat my head! I'm not a kid!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "頭ナデんじゃねーよっ！\nガキじゃねーんだっての！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-But... how am I supposed to find Queen Labyrinth and the Metamorph Regnant...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでも……\nどうやって、\n迷宮女王と\n変貌大妃を\n見つければいいのかしら……？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Queen Labyrinth is just like the Regina Geas, isn't she? All you have to do is use her Princess Knight as bait to catch her.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "迷宮女王の方は、\n誓約女君と同じでいーだろ。\n奴のプリンセスナイトを、\n釣りのエサにしちまえばいいのさ。"
+    },
+    {
+      "name": "Zane",
+      "text": "Azold also said that Queen Labyrinth interfered with his attempt to abduct that boy. It might be an effective way to get him out of the picture.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "アゾールドも、\nあの少年を拉致しようとして\n迷宮女王の妨害にあったと言っていた。\n奴を穴熊から引きずり出すには、\n有効な手かもしれないな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Heh, that's right.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "へっ、\nそーいうこった。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I see...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "なるほど……"
+    },
+    {
+      "name": "Misora",
+      "text": "Kariza, you're such a genius! ★ You're so talented! ♪ You're a prodigy, aren't you? ♪ Kaguri kaguri ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "カリザくん、\nすごーい★\n天才ですね♪　\n秀才ですね♪　\n神童ですねっ♪\nかいぐりかいぐり★"
+    },
+    {
+      "name": "Kariza",
+      "text": "Don't pat my head like that! You're really making fun of me, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "だぁらっ、\n頭ナデんなっつの！\nテメーほんとは馬鹿にしてんだろっ！"
+    },
+    {
+      "name": "Zane",
+      "text": "It's just... I should think of countermeasures for the Princess Form. If you bundle them together, they are arrows that will repel a man the size of Azold.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "ただ……\nプリンセスフォームへの対策は、\n考えておくべきだろう。\n束ねれば、アゾールドほどの男を退ける矢だ。"
+    },
+    {
+      "name": "Misora",
+      "text": "The strategy of waiting for the princess form's time limit to run out doesn't seem to be very effective anymore.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "時間切れを待つ作戦も、\nもうあんまり有効じゃないっぽいですしねー"
+    },
+    {
+      "name": "Misora",
+      "text": "We are not at full strength at the moment. Not only Azold, but also Ranpha is still injured. but, I would like to see Zane take revenge on the Queen Labyrinth....",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "現状こっちの戦力も、\n万全じゃないですし。\nアゾールドさんはもちろん、\nランファさんも怪我明けで。\nゼーンさんには、\n迷宮女王さんにリベンジしてほしいですし……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...I'm sorry. It took a lot of strength to get away from Dragonsnest...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ごめんなさい。\n【ドラゴンズネスト】から逃げきるために、\nかなり消耗してしまって……"
+    },
+    {
+      "name": "Kariza",
+      "text": "Then what are you gonna do? Can't we just save the heavy lifting and take the brute force approach? Without Azold, too",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "じゃどーすんだよ？\n力押しは取っとくとして、\nなんか良いからめ手用意できんのか？\nアゾールドも抜きでよー"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm, let's see... Then...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ん～～、\nそうですねー\n……それじゃあ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Shall we go to the hot springs for a breather? ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "息抜きに、\n温泉にでも……\n行っちゃいますか★"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile, Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方、ランドソル。"
+    },
+    {
+      "name": "Narration",
+      "text": "[Creditta of the Richmond Merchants Association] was working hard to clean up after the commotion the other day at the request of the royal palace",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【リッチモンド商工会】のクレジッタは王宮からの依頼で、\n先日の騒動の後始末に奔走していた。"
+    },
+    {
+      "name": "Creditta",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Secretary",
+      "text": "Excuse me, Miss Creditta. The repairs to Sector 7's shopping district plaza have been completed.",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "失礼いたします、\nクレジッタさま。\n７番地区の繁華街広場の修繕手配、\n完了いたしました。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Thank you very much, Secretary No. 1. Please come in today.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ごくろうさま秘書１号。\n今日はもう、上がってよろしくてよ。"
+    },
+    {
+      "name": "Secretary",
+      "text": "...? For once, you seem tired.",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "……？\n珍しく、\nお疲れのようですね。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Isn't that obvious? Investigating after the Amalgam trade, collecting counterfeit coins, normalizing the distribution network... Thanks to that, I haven't had much time to sleep for the past week.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "当然でしょう？\n【アマルガム貿易】の事後調査、\n偽造硬貨の回収、\n流通網の正常化……\nおかげでここ一週間、\nろくに寝る暇もありませんでしたのよ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "And on top of that, Chairman Chtholly forced me to do something that wasn't even worth a penny. It made me want to sigh.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "かてて加えて、\nクソ議長から一銭にもならない厄介事を押し付けられて。\nため息のひとつもつきたくなるというものですわ。"
+    },
+    {
+      "name": "Secretary",
+      "text": "More recruiting for the thugs who are going to be pawns... That's the secret job. I wonder what they're planning to use it for.",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "手駒となるごろつきたちの、\nさらなる追加募集……\nという裏仕事ですか。\nそれだけ集めて、\nいったい何に使うつもりなのやら。"
+    },
+    {
+      "name": "Creditta",
+      "text": "I don't know. I'd rather not know. because I have to cut corners to meet the ever close delivery date.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "知りませんわよっ。\n知りたくもありません。\nこちらとしては\n弱みを握られているものだから、\n大赤字でも\n短い納期に間に合わせなくてはなりませんでしたし……\nあーもうっ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "...*sigh*... While we're in the red, maybe I'll plan a company trip once this is over...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……はぁ……\n赤字ついでに、\nこれがひと段落したら\n社員旅行のひとつでも企画してみようかしら……"
+    },
+    {
+      "name": "Secretary",
+      "text": ".........! ......",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "…………っ…………"
+    },
+    {
+      "name": "Creditta",
+      "text": "Hey, what's going on, secretary #1? You're standing there with your eyes rolling into the back of your head...!?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ちょっ、\nど、\nどうしたの秘書１号。\n立ったまま白目を剥いてっ……！？"
+    },
+    {
+      "name": "Secretary",
+      "text": "Ha......!",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "──はっ……！"
+    },
+    {
+      "name": "Secretary",
+      "text": "I... I never dreamed I'd hear a story about benefits coming out of Lady Creditta's mouth. It seems I've fainted. Forgive me for my rudeness.",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "ま……\nまさか、\nクレジッタさまのお口から\nまともな福利厚生の話が出てくるなどと、\n夢にも思わず。\nあまりのことに、\nつい失神してしまった模様です。\n失礼いたしました。"
+    },
+    {
+      "name": "Creditta",
+      "text": "How rude of you!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "本当に失礼ですわね貴女っ！？"
+    },
+    {
+      "name": "Secretary",
+      "text": "In that case... Leave the travel arrangements to me. I have an idea of a nice hot spring inn in Oedo. I'll treat you to a luxurious pine room with the finest kaiseki cuisine...",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "となれば……\n社員旅行の手配は、お任せください。\n私、\nオーエドのほうに\n良い温泉宿の心当たりがありますので。\n豪華絢爛な松の間に、\n最高級の会席料理でおもてなしを……"
+    },
+    {
+      "name": "Creditta",
+      "text": "Hey, hey! I'm not saying you're stingy, but do it in the right place, okay?!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ちょっとちょっとっ！\nケチれとまでは申しませんが、\n適切なところにしなさいな！？"
+    },
+    {
+      "name": "Secretary",
+      "text": "Hey, hey, hey! I'm not saying to be stingy, but make sure it's in the right place!",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "ええ、\nご安心ください。\nクレジッタさまも、\nこれが終われば温泉旅行だと考えれば\n多少は励みになるのではありませんか。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Hmph... That's not true.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "フン……\nそんなこと、\nありませんわよっ。"
+    },
+    {
+      "name": "Secretary",
+      "text": "...Fufu.",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "……ふふ。"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "Creditta Cash! This is the Golden Hand, under the direct command of the nobles' council!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "──クレジッタ・キャッシュ！\nこちらは貴族議会直属、\n【黄金の手】である！"
+    },
+    {
+      "name": "Secretary",
+      "text": "What's going on?!",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "何事ですかっ？"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Ahem! you're still sweating as usual, lady merchant.",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "ウォッホン！\n相変わらず汗水垂らしているようだな、\n女商人。"
+    },
+    {
+      "name": "Creditta",
+      "text": "...Chairman Gorschin. You didn't have to come all the way here. If you'd called me, I would have come. And you even brought the soldiers with you...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……ゴウシン議長。\nわざわざご足労くださらなくても、\nお呼びいただければ馳せ参じましたのに。\nそれも、\n兵士たちまで連れて……"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Enough with the greetings. But more importantly, how far have you gotten in gathering the people I ordered you to do the other day?",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "挨拶はもう良い。\nそれよりも、\n先日貴様に命じておいた\n人集めはどこまで進んでいるか？"
+    },
+    {
+      "name": "Creditta",
+      "text": "Yes, yes. Without delay. We have already employed about three hundred skilled mercenaries and adventurers for the time being...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ええ、\nええ。\n滞りなく。\n腕利きの傭兵や冒険者を、\nひとまずは三百人ほど……\nキッチリと用立てておりましてよ。"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Very well. You can do it if you try. ...I'm a little disappointed in your skill, but...",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "結構。\nやればできるではないか。\n……その手腕は、\n少々惜しいが……"
+    },
+    {
+      "name": "Creditta",
+      "text": "...? What do you mean by that...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……？\nそれは、\nどういう……"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Hey, come on in.",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "おい、\n入れ。"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Excuse me, Chairman.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "失礼いたします、\n議長。"
+    },
+    {
+      "name": "Creditta",
+      "text": "...And who's that?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……そちらの方は？"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "He's one of my confidants. As of today, he'll be joining the Richmond Merchants Association.",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "吾輩の腹心のひとりだ。\n今日をもって、\nこの【リッチモンド商工会】に加えてもらう。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Come to think of it... You said something like that when we were gathering more people.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "そういえば……\n人集めの追加の折に\nそのようなこと、おっしゃっていましたわね。"
+    },
+    {
+      "name": "Creditta",
+      "text": "You're saying you're watching over me because I didn't take part in the princess's assassination? ...There's nothing I can do about that. I have to give the money up my sleeve so that they will not send an unfavorable report to the chairman.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "王女さまの暗殺に与しなかったわたくしへの、\nお目付け役……\nというコトですわよね。\n……仕方がありませんわ。\n袖の下を渡して、\n不利な報告を議長へ送らせないようにせねば……"
+    },
+    {
+      "name": "Creditta",
+      "text": "Well then, I look forward to working with you today. The Richmond Merchants Association is a very clean guild. I'm sure it'll be comfortable.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ではでは、\n今日からよろしくお願いいたしますわね。\n当【リッチモンド商工会】は、\n大変ホワイトなギルドでしてよ。\nきっと居心地も良いはずですわ。"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Yes, it's a pleasure to make your acquaintance. Of course, I wont be seeing you again.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ええ、\n以後お見知りおきを。\n──もっとも、\nクレジッタさんとは今日限りですけど、\nね。"
+    },
+    {
+      "name": "Creditta",
+      "text": "...What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……どういうことですの？"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Fool. You are fired, Creditta Cash.",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "愚か者が。\n貴様はクビだということだ、\nクレジッタ・キャッシュ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Wh-What are you saying?! I am the guild master of the Richmond Merchants Association! Naturally, I have all the personnel rights...!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "なっ……\n何をおっしゃっておりますの！？\n【リッチモンド商工会】のギルドマスターは、\nこのわたくしです！\n当然ながら、\n全ての人事権はわたくしにありましてよッ……！"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "What are you talking about? The guild master of the Richmond Chamber of Commerce has been changed to him.",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "貴様こそ何を言っているのか。\n【リッチモンド商工会】のギルドマスターは、\n彼に変更になったのだぞ？"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Yes, of course. Pleased to meet you, everyone.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ええ、\n承りました。\nみなさん、\nどうぞよろしく。"
+    },
+    {
+      "name": "Creditta",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……は？"
+    },
+    {
+      "name": "Secretary",
+      "text": "No way...!",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "そんなっ……！"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Oh, are you doubting me? However, the guild management committee's executive staff has issued a Master Registration Permit... This is it. Of course, it has gone through the proper procedures.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "おや、\nお疑いでしょうか？　\nですがギルド管理協会の\n幹部職員による、\nマスター登録認可証明書が……\nこちらに。\n無論、\n正式な手続きを踏んだものですよ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "A-A document like that... There must be some mistake! No, it's a forgery! Changing the guild master without permission is a crime!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "そ、\nそのような文書……\n何かの間違いですわ！\nいえ、\n偽造ですわっ！\n無断でギルドマスターの変更など、\n犯罪行為ではありませんかっ！"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Forgery? That's quite the accusation. Hey, gentlemen!",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "偽造だと？\nこれはまた随分な言いがかりだ。\nなぁ、\n諸君！"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "That's right! Show me proof! Proof!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "そうだそうだ！\n証拠見せてみろ証拠！"
+    },
+    {
+      "name": "Soldier 2",
+      "text": "Long live the new guild master! Long live Chairman Gorschin!",
+      "choice_data_list": [],
+      "orig_name": "兵士２",
+      "orig_text": "新ギルドマスター、\n万歳！\nゴウシン議長、\n万歳！"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "So... I'm going to issue personnel rights as guild master right away. You're fired, Mr. Creditta. I don't have a pension or anything, but... Well, it can't be helped, can it?",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "というわけで……\n早速ですがギルドマスターとして人事権を発令します。\nあなたはクビですよ、\nクレジッタさん。\n退職金などはありませんが……\nまあ、仕方ありませんね？"
+    },
+    {
+      "name": "Creditta",
+      "text": "...! I won't allow you to fire me! I poured my heart and soul into building this guild from scratch! I'm not going to let you steal it from me with a single thin scrap of paper!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……ッ！　\nクビだなどと、\nそのようなことは認められませんっ！\nこのギルドは\nわたくしが一から、\n心血注いで築き上げてきたものです！\nそんな薄っぺらい紙切れ一枚で、\n奪わせたりはいたしませんのよ！"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "I see, I see. But this country doesn't recognize you as a member of the guild anymore. What a shame. former guildmaster?",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "そうかそうか。\nだがすでに、\nこの国は貴様をギルドの所属者と認めておらん。\n残念だったな。\n元ギルドマスター？"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Don't worry. I'll take care of the business of the Richmond Merchants Association.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ご安心ください。\n【リッチモンド商工会】の経営は、\n私が万全にこなしてみせますよ。"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "And...you're a pretty cute secretary. Please work hard for me from now on.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "それに……\nなかなかかわいらしい秘書さんだ。\n今日からは、私のためにしっかりと働いてくださいね。"
+    },
+    {
+      "name": "Secretary",
+      "text": "Eek...!",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "ひっ……！"
+    },
+    {
+      "name": "Creditta",
+      "text": "You!! Don't you dare touch my subordinates so casually!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "貴方ッ！！\nわたくしの部下に気安く触れるんじゃありませんことよッ！？"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Oh my, I've been caught. This is why the poor are so scary, so violent.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "おやおや、\n掴みかかられてしまいました。\nこれだから貧乏人あがりは、\n乱暴で恐ろしいですねぇ。"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "How disrespectful! Take this outsider away to where she belongs, Golden Hands!",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "不敬である！\nこの部外者を何処ぞへつまみ出せ、\n我が【黄金の手】たちよ！"
+    },
+    {
+      "name": "Soldiers",
+      "text": "──Hah!",
+      "choice_data_list": [],
+      "orig_name": "兵士たち",
+      "orig_text": "──はっ！"
+    },
+    {
+      "name": "Creditta",
+      "text": "Ugh... Damn you! Let me go!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "クッ……\nこのっ！\n離しなさい！"
+    },
+    {
+      "name": "Soldier 2",
+      "text": "You, stay still!",
+      "choice_data_list": [],
+      "orig_name": "兵士２",
+      "orig_text": "貴様、\n大人しくしろっ！"
+    },
+    {
+      "name": "Secretary",
+      "text": "Lady Creditta...!",
+      "choice_data_list": [],
+      "orig_name": "秘書",
+      "orig_text": "クレジッタさまっ……！"
+    },
+    {
+      "name": "Creditta",
+      "text": "Let go of me! The Richmond Merchants Association is my precious...!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "離しなさいったらぁっ！\n【リッチモンド商工会】は\nわたくしのッ、\nわたくしの大事なっ……！"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Your precious guild! All of its assets! I'll put them in my pocket and devour them all!!",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "貴様の大事なギルドは！\nその資産はすべて！\nこの吾輩の懐に収め、\n食らい尽くしてやるわッ！！"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Be honored, Creditta Cash! Gahahaha!!",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "光栄に思えよ、\nクレジッタ・キャッシュ！\nガッハッハッ！！"
+    },
+    {
+      "name": "Gorschin.",
+      "text": "Gahahaha!!!",
+      "choice_data_list": [],
+      "orig_name": "ゴウシン",
+      "orig_text": "ガーッハッハッハッ！！！"
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "title": "Would you like to go on a date?!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Gradually, the number of visitors to \"Grand Dream Park\" has been increasing.\nHowever, it was far from being crowded.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "徐々に客足が増えてきた『グランドリームパーク』。\nとはいえ満員にはほど遠い状況だった。"
+    },
+    {
+      "name": "Narration",
+      "text": "So, in order to achieve further increase in customers, Kulul decided to distribute flyers in the town below the Castle of Parfa.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そこでクルルたちは、更なる集客アップを実現するため、\nキャッスル・オブ・パルフェの城下町でチラシ配りをすることにした。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hello everyone~!\nHave you decided on your plans for the upcoming holiday~♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "みなさ～ん\nどもどもです～っ！\n今度のお休みのご予定は\n決まってますですか～っ♪"
+    },
+    {
+      "name": "Maho",
+      "text": "If you have some free time, please come visit \"Grand Dream Park\"~♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "もし\n空いてはったら。\nぜひ\n『グランドリームパーク』へ\nおこしやす～♪"
+    },
+    {
+      "name": "Person in the town 1",
+      "text": "...Huh, \"Grand Dream Park\"...?",
+      "choice_data_list": [],
+      "orig_name": "街の人１",
+      "orig_text": "……え、\n『グランドリームパーク』……？"
+    },
+    {
+      "name": "People in the city 2",
+      "text": "By the way, it seems like it has resumed... I heard it was good before it got rough...",
+      "choice_data_list": [],
+      "orig_name": "街の人２",
+      "orig_text": "そういや\n再開したらしいね……\n荒れる前はよかったって聞いたけど……"
+    },
+    {
+      "name": "People of the City",
+      "text": "...Hmm...",
+      "choice_data_list": [],
+      "orig_name": "街の人たち",
+      "orig_text": "…………うーん……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh, oh...?\nNo one is receiving it...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あ、\nあれあれ……？\n誰も受け取ってくれません……？"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah, that's right, Your Highness.\nMmm...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうやね、\n王子はん。\nんん……"
+    },
+    {
+      "name": "Maho",
+      "text": "...Should we stop handing out flyers here?\nKururu and the prince will wait for us at the park, right?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……チラシ配りは\nここまでにしまひょか。\nクルルはんと王子はんは\nパークに戻っといてくれる？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Huh? Where's Maho-chan?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "え？　\nマホちゃんさんは？"
+    },
+    {
+      "name": "Maho",
+      "text": "I'll do some asking around. I'll conduct a market survey for \"Grand Dream Park.\"",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うちは\nちょっと\n聞き込みしてみるわ。\n『グランドリームパーク』の市場調査や。"
+    },
+    {
+      "name": "Maho",
+      "text": "At first, the increase in customers was also good, but honestly, recently it seems like it's starting to plateau, doesn't it? ...There must be a reason for that, I think.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "初めは\n客足の伸びも\n好調やったけど、\n正直な話、\n最近頭打ちになってしもうとる感は\n否めへんやろ？\n……それにはきっと\n原因があるはずや、\n思てなぁ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "So, is that so? There might still be something missing in my house. For example, you know, the issue of the couple that Maho-chan mentioned...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "で、\nですかねですかね？　\nうちにまだ足りないものがあるかもです。\n例えばほら、\nマホちゃんさんが言ってた\nカップルさんの件……"
+    },
+    {
+      "name": "Maho",
+      "text": "Ah, that's true... That might be one of the reasons too.\nI feel like there aren't many couple customers at this park.\nIt's supposed to be a popular spot for dates when it comes to amusement parks.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ、\nそれなぁ……\nそれも一つの\n原因かもしれへんね。\nこのパーク、\nカップルのお客はんが\nえらい少ない気がするんよ。\n遊園地と言えば\nデートの定番のはずやのにね。"
+    },
+    {
+      "name": "Maho",
+      "text": "I was thinking about it...\nMaybe many of the members of Gio Teogonia are actually shy when it comes to romance, you know?\n.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "それで\n考えたんやけど……\nもしかしたら\nジオ・テオゴニアのみなはんは、\n恋愛に奥手な人が\n多いんかもしれへんなぁ～\nって。"
+    },
+    {
+      "name": "Maho",
+      "text": "Look, aren't there a lot of calm people in Gea Teogonia?\nBut that doesn't mean they're all the same,\nthere are also many shy people.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ほら、\nジオ・テオゴニアは\n穏やかな人が\n多いんやろ？\nそれがイコールってことではないやろけど、\nシャイな人も\n多いんちゃうかな\nって。"
+    },
+    {
+      "name": "Kururu",
+      "text": "I see... I am absolutely clueless when it comes to romance...\nWait! This is not the time to talk about me!\nSorry~!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "なるほど……\nわたしも、\n恋愛とかはからっきしで……\nって！　わたしのことなんてお話ししてる場合じゃなかったです！\nすみませ～んっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "...Alright, from here we will split into two teams. One team will conduct market research, and the other team will brainstorm strategies for couples. How does that sound?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……ほな\nここからは\n二手に分かれまひょ。\nうちは市場調査。\n二人は\nカップルはんの施策を考える。\nそれでええかな？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいですっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Well, then. Let's quickly find a couple and talk to them...\nOh... Are those two on the terrace a couple!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……さて。\nでは\n早速カップルさんを探してお話を……\nあ……\nテラスにいるお二人、\nカップルさんですかね！？"
+    },
+    {
+      "name": "Boyfriend",
+      "text": "Oh. You sit in the back...\nI'll be over here... fidgeting.",
+      "choice_data_list": [],
+      "orig_name": "彼氏",
+      "orig_text": "あ。\nキミ\n奥に座りなよ……\n僕\nこっちで……\nもじもじ。"
+    },
+    {
+      "name": "Girlfriend",
+      "text": "Oh... um, I get nervous sitting facing each other.\nMaybe it's better to sit next to each other... fidgeting.",
+      "choice_data_list": [],
+      "orig_name": "彼女",
+      "orig_text": "あ……\nあの、\n向かい合って座るのは緊張しちゃうな。\n隣同士の方がいいかも……\nもじもじ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Excuse me, suddenly ♪\nIf you don't mind, how about the next date at\n\"Grand Dream Park\"!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "どもどもっ、\n突然すみません♪\nもしよろしければ\n次のデートは\n『グランドリームパーク』なんてどうでしょう！？"
+    },
+    {
+      "name": "Boyfriend",
+      "text": "Huh... \"Grand Dream Park,\" you mean...?\n...Hey. How about going on a date to the amusement park? All shy.",
+      "choice_data_list": [],
+      "orig_name": "彼氏",
+      "orig_text": "えっ……\n『グランドリームパーク』って、\nあの……？\n……\nね、\nねえ。\nどうかな\n遊園地\nデート。\nもじもじ。"
+    },
+    {
+      "name": "Girlfriend",
+      "text": "Oh, it's still too early for us to go on a date to an amusement park!\nAt least three more years of dating before that's even possible...I feel shy about it.",
+      "choice_data_list": [],
+      "orig_name": "彼女",
+      "orig_text": "あ、\nあたしたちには\n遊園地デートなんてまだ早いよっ！\n少なくとも\nあと３年はお付き合いしないと無理……\nもじもじ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Maybe Maho-chan is right after all...!\nPerhaps, for the couple from Gio-Teogonia, \nthe amusement park is too exciting...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "やっぱり\nマホちゃんさんの言う通りかもですっ……！\nもしかしたら\nジオ・テオゴニアのカップルさんにとっては、\n遊園地は刺激的すぎるのでしょうか……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "But, but... I can't make that decision.\nI'm really clueless about that kind of thing...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "で、\nでもでも……\nわたしにはその判断ができなくて。\nわたし、\n本当にそういうの疎くて……"
+    },
+    {
+      "name": "Kururu",
+      "text": "I've never been on a date before...\nAnd I've never liked a guy before...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "デートだって一度もしたことないですし……\n男の人を好きになったことも……"
+    },
+    {
+      "name": "Kururu",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……"
+    },
+    {
+      "name": "Kururu",
+      "text": "What!?\nN-No, it's nothing!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわっ！？\nい、\nいえ、\nなんでもっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "So, how about Hero-san?\nLike, going on a date at an amusement park.\nCan you tell me more details...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "そ、\nそれより\nヒーローさんはどうなんですっ？\nその……\n遊園地で\nデート、\nとか。\n詳しかったりしちゃいますですか……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "So, that's how it is... Phew.\n... Why am I feeling relieved!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "で、\nですよね……\nほっ。\n……って\nわたし、\nなんで安心してるんですますっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Huh?! R-Really...?\nYes... Yes... Pudding, ice cream, cream puffs...\nThat might be dessert, not a date!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "えっ！！　\nそ……\nそうなんですか……\nはい……\nはい……\nプリンにアイスにシュークリーム……\nそれ\nデートじゃなくて\nデザートかもですっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Now, what should we do...\nMaybe we could ask a couple to try it out...\nBut it's not easy to find someone like that, right...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "さて、\nどうしましょう……\n誰か\nカップルさんにお願いして\n体験してもらうとか……\nでも、\nそんなの簡単に見つかりませんよね……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "......or......that.\nLet's try it ourselves, or something like that......",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……\nそれか……\nその。\nわたしたちで、\n試してみる、\nとか……"
+    },
+    {
+      "name": "Kururu",
+      "text": "...Ah, hey!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "…………\nあ、\nあのっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "..........Um, Mr. Hero.\n...Would you go on a date with me to the amusement park...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "…………あの、\nヒーローさん。\nわたしと\n遊園地デートして……\nくれま……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Are you kidding me!? I got carried away~~!!\nEven if it's for work, the idea of me going on a date with a hero is just too much!! So embarrassing~~!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "せ\nんよねせんよねっ\n！？　\n調子に乗りましたぁ～～！！\n例え仕事としてでも、\nわたしなんかがヒーローさんとデートだなんて、\nとてもとてもとてもっ！！　\nおこがましすぎましたです～～っ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh no!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわわわっ！！？"
+    },
+    {
+      "name": "Staff",
+      "text": "Welcome back, manager.\nThat thing has arrived. Starting tomorrow... hmm?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "あ、\nお帰りなさい支配人。\n例のあれ、\n届いてますよ。\n早速明日から……\nん？"
+    },
+    {
+      "name": "Staff",
+      "text": "Um, why are you two holding hands...?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "あの、\nお二人\nなんで手を繋いで……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "What!!?\nHero-san, you're holding my hand!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "へっ！！？\nヒーローさん、\n手、\n握ってますっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh, n-no, this is just for work... Hey,\nHero-san!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "いっ、いやあくまでこれはお仕事で……\nって、\nヒーローさんっ！？"
+    },
+    {
+      "name": "Pecorine doll",
+      "text": "Well well♪ Now then, everyone, have a great adventure!\nOff to the next world we go~☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ人形",
+      "orig_text": "『さてさて♪　\nそれではみなさん\n良い冒険を！\n次の世界へ\n行ってらっしゃ～い☆』"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はうぅ……っ！"
+    },
+    {
+      "name": "Passing by Precia",
+      "text": "Churros. Yummy.",
+      "choice_data_list": [],
+      "orig_name": "通りすがりのプレシア",
+      "orig_text": "チュロス。\nうま。\nつぎ。\nも。\nおいチュロス。\nチョロす。"
+    },
+    {
+      "name": "Kururu",
+      "text": "I'm feeling a bit thirsty!\nExcuse me.\nCan I have two tropical juices, please?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ちょっと\n喉渇いちゃいましたねっ！\nすみませ～ん。\nトロピカルジュース\n二つお願いしますですっ。"
+    },
+    {
+      "name": "Food court employee",
+      "text": "Hello, manager. \nBut our tropical juice is quite large, isn't it? \nOne should be enough for two people, right? Here are two straws!",
+      "choice_data_list": [],
+      "orig_name": "フードコート店員",
+      "orig_text": "どうも支配人。\nでも\nうちのトロピカルジュース\nかなり大きいですよ？\n二人で一つで十分かと♪　\nはいっ、\nストロー二本♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "What?!\nIt's too much for the same juice as the great hero!\nHeroes don't like it either!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわわっ！？\n偉大なるヒーローさんと同じジュースなんて\n恐れ多すぎですっ！\nヒーローさんも嫌ですよねっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ughhh...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はう\nううぅ……っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "The two continued their date simulation and decided to\nride the Ferris wheel, a classic for lovers.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてデートのシミュレーションを続けた二人は、\n恋人たちの定番。観覧車に乗ることになった。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Today, all day long, constantly...\nDuring the attractions, during meals.\nI was always feeling nervous.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "今日一日\nずっとずっと……\nアトラクションも、\nお食事の時も。\nずっと\nドキドキしちゃってました。"
+    },
+    {
+      "name": "クルル",
+      "text": "ううっ、\nどこもかしこも刺激が強すぎですます……\n『グランドリームパーク』……\n恐るべしですっ！　\nわれながらっ！　",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ううっ、\nどこもかしこも刺激が強すぎですます……\n『グランドリームパーク』……\n恐るべしですっ！　\nわれながらっ！　"
+    },
+    {
+      "name": "Kururu",
+      "text": "We're not really a couple or anything.\nEven though we know this is for investigation.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "別にわたしたち、\nほんとのカップルさんじゃないのに。\nこれは\n調査のためだって……\nそうわかってるのに。"
+    },
+    {
+      "name": "Kururu",
+      "text": "That's because I'm facing the hero!\nIf I make eye contact with the hero in this situation, I'd probably...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "それはヒーローさんと向かい合ってるからですよぉっ！\nこの状況でヒーローさんと目があったら\nわたし\n多分……"
+    },
+    {
+      "name": "Kururu",
+      "text": "...Glance.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……ちらっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "I'm going to die-!!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "死んじゃいますですーーーっ！！！"
+    },
+    {
+      "name": "クルル",
+      "text": "……はあっ。\nはあっ。\n危なかったです……\nはあっ。",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……はあっ。\nはあっ。\n危なかったです……\nはあっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ferris wheel... This is a weapon. A demon's private room where we are obligated to sit facing each other...\nThis is... a matter of life and death!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "観覧車……\nこれは凶器ですっ。\n向き合って座らせることを義務付けられたあくまの個室……\nこれは……\n命の危機ですますっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "...By the way.\nThis morning, the couple I met at the café also said the same thing.\nThey said it's embarrassing to sit face-to-face.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……\nそういえば。\n今朝、\n喫茶店で出会ったカップルさんも言ってました。\n向かい合って座るのは恥ずかしいって。"
+    },
+    {
+      "name": "Kururu",
+      "text": "If we sit next to each other, maybe it'll be a little better...?\nAt the very least, our eyes won't meet...\nbut. It's strange to sit next to each other with nothing there...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……隣り合って座れば\n少しはましかも……？\n少なくとも\n目が合うことはない……\nでも。\n何もないのに隣り合うなんて\n変ですよね……"
+    },
+    {
+      "name": "Staff",
+      "text": "Excuse me, manager.\nIs it okay if I interrupt your date?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "あの、\n支配人。\nデート中すみませんが\nよろしいですか？"
+    },
+    {
+      "name": "Staff",
+      "text": "Earlier, as I was trying to tell you.\nIt has arrived as planned.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "先程、\nお伝えしようとしたのですが。\n予定通り\nあれが届いてます。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Huh...?\n...A lovey-dovey couple facing each other...\nOh, no! Haha, it's fireworks, right?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あれ……？\n……向かい合ってのラブラブカップルジュース……\nじゃなくって、\nああっ！　ははは花火ですよねっ。"
+    },
+    {
+      "name": "Staff",
+      "text": "Yes. Thanks to the manager, we were able to prepare 10,000 fireworks.\nOnce these are launched, I'm sure everyone's eyes will be glued to them.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "ええ。\n支配人のおかげで、\n一万発の花火を用意できましたよ。\nこれが打ち上がれば、\nきっと皆さんの目は釘付けでしょう。"
+    },
+    {
+      "name": "Staff",
+      "text": "Right away, starting from tomorrow night, we'll have a party every night...\nManager?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "早速明日から毎晩打ち上げて……\n支配人？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Everyone's eyes are glued to it...\nThat's it...that's it!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "皆さんの目は釘付け……\nそれだ……\nそれですっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Staff, can I ask you a favor!?\nStarting today! Let's launch fireworks!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "スタッフさん、\nお願いしてもいいですか！？\n今日から！　\n花火を打ち上げましょうっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "...Hero, I apologize for the wait.\nWould you ride the Ferris wheel with me just one more time from now?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……ヒーローさん、\nお待たせいたしました。\n今から、\nもう一度だけ\n一緒に観覧車に乗っていただけますか？"
+    },
+    {
+      "name": "Kururu",
+      "text": "This time it's okay... probably...\nOh... here it is. Please get on!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "今度は\n大丈夫です……\n多分\n……\nあ……\nきました。\nでは乗ってくださいっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "......Yes, Hero-san, please have a seat.\nI'll be sitting next to you, excuse me.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……はい、\nヒーローさん\n座ってください。\nわたしは、\nお隣失礼しますですっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes! If we face each other,\nit will turn out the same as before...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "は、\nはいっ！　\n向かい合ったら\nさっきと同じことになっちゃいますですから……っ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "I understand, what you want to say! \nIsn't it awkward for two people to sit side by side? \n...but, but.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わかりますよ、\n言いたいことはっ！\n二人で隣同士に座るのは\n不自然ですよねっ？\n……\nでもでも。"
+    },
+    {
+      "name": "Kururu",
+      "text": "How about this!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "これなら\nどうですか！？"
+    },
+    {
+      "name": "Narration",
+      "text": "Whirrrrrrrrrrrrrrrrrrrrrrrr............",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ヒュルルルルル…………"
+    },
+    {
+      "name": "Narration",
+      "text": "Boom!!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ドォーンッ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow...♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わぁ……っ♪\nきれいです……っ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Look, look, it's fireworks!\nHero, please look♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ほらほら、\n花火ですよ！\nヒーローさん\n見てください♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Tama-ya-!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "たーまやーっ♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hehe. What do you think!?\nThis way, we naturally end up looking in the same direction.\nSo, it's not weird to sit next to each other like this!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "えへへ。\nどうでしょうっ！？\nこれなら自然とおんなじ方向を見ることになりますっ。\nだからこうやって隣に座っても\n変じゃありませんよね！"
+    },
+    {
+      "name": "Kururu",
+      "text": "... A Ferris wheel where even modest couples can enjoy themselves with peace of mind.\nWith this, conversation can also be lively by looking at the same thing, right?\nHow about a name like this?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……控えめなカップルさんも安心して楽しめる観覧車。\nこれなら同じものを見て\n会話も弾みますね♪\n名前は……\nこんな感じでどうでしょう？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Less stimulation, being reserved is also okay, Ferris wheel!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "『刺激少なめ、\n奥手もオッケー観覧車』！"
+    },
+    {
+      "name": "Kururu",
+      "text": "No way! That's not true at all.\nIt was thanks to the staff's idea... and besides,\nmost of all, it's thanks to the hero.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "そんなそんな！　\nそんなことありませんですよっ。\n思いついたのはスタッフさんのおかげですし……\nそれに。\nなによりも、\nヒーローさんのおかげですっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "......There is definitely no mistake.\nHero-san is absolutely, absolutely, a god.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……やっぱり間違いありません。\nヒーローさんは、\n絶対絶対、\n神様です。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Because I ordered these fireworks for an event starting tomorrow. I never expected them to be used like this.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "だって\nこの花火、\n明日から始まるイベントのために取り寄せてたんですよ。\nこんな使い方をするなんて\n予想もしてなかった。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ever since I met Hero, I've been having a lucky streak ♪\nSo, to me, Hero is......",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ヒーローさんと出会ってから、\nわたしはラッキー続きです♪\nだからわたしにとって\nヒーローさんは……"
+    },
+    {
+      "name": "Narration",
+      "text": "Clang!!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ガタンッ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Kyaa!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "きゃあっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh, sorry for relying on you...\nJust swaying in a slightly strong wind...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あ、\nすみません支えていただいて……\nちょっと強めの風で揺れただけ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "......!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……っ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "It's not just a little... it's not enough...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "少しなんかじゃないです……っ。"
+    },
+    {
+      "name": "クルル",
+      "text": "隣に座って安心したわたしが\nバカでドジでした……\nだってそのせいで、\n距離が\nこんなにっ！　",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "隣に座って安心したわたしが\nバカでドジでした……\nだってそのせいで、\n距離が\nこんなにっ！　"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ah, the hero's eyes are so beautiful...\nEven though it's embarrassing... I can't look away.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ああ。\nヒーローさんの瞳、\nとってもきれいで……\n恥ずかしいのに……\n逸らすことができませんっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ugh... It feels like I'm being sucked in...\nTh-this is the first time... I feel dizzy...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ううぅ……\n吸い込まれてしまいそうです……\nこ……\nこんなの\n初めてで……\nなんだか……\nめまいが……"
+    },
+    {
+      "name": "Kururu",
+      "text": "... What is that?\nSome reason, my heart is pounding... my body feels hot...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……あれ、\nなんでしょう？\nなんだか、\n胸が\nドキドキして……\n体も\n熱くて……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hmm... Me...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あれ……\nわたし……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Consciousness...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "意識、\nが……"
+    },
+    {
+      "name": "Staff",
+      "text": "Why isn't customer attraction growing...?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "集客が伸び切らない理由……\nですか。"
+    },
+    {
+      "name": "Maho",
+      "text": "Yes. Today, I asked some people for their opinions.\nIt seems like no one really wants to talk about it...\nOne person seemed scared and ran away.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "はい。\n今日何人かに\nお話聞いてみたんやけど。\nみんな\nあんまり言いたくないみたいで……\nある人は\n怖がった様子で\n逃げてもた。"
+    },
+    {
+      "name": "Maho",
+      "text": "The reason why customer attraction is not growing may not only be due to the small number of couple customers, but also there may be a deeper underlying cause...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "集客が伸び切らへんのは。\nカップルのお客はんが\n少ないだけやなくて、\n恐らくもっと\n根深い原因が\nあるのかもしれまへん……"
+    },
+    {
+      "name": "Staff",
+      "text": "According to the deputy manager's prediction,\nthe cause is... in the past.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "副支配人の予想では、\nその原因は……\n過去にある、\nと。"
+    },
+    {
+      "name": "Maho",
+      "text": "Sure thing. This isn't something that just started yesterday, you know.\nI think so.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうどす。\nこれは、\n昨日今日に始まったことやない、\nと。\nうちは思うんどす。"
+    },
+    {
+      "name": "Staff",
+      "text": "It seems reasonable. If you don't know through street surveys,\nhow about a questionnaire? It may be easier to answer than asking directly.\nIf you're okay with it, shall I proceed with it on my side?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "一理ありそうですね。\n街頭調査で分からないのなら\nアンケートはどうでしょう？　\n直接伺うよりも答えやすいかと。\nよろしければ\nわたしの方で進めますが？"
+    },
+    {
+      "name": "Maho",
+      "text": "Shall we try that?\nCan I ask for your help with arranging the survey?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうしてみまひょか。\nアンケートの手配、\nお願いして\nええやろか。"
+    },
+    {
+      "name": "Staff",
+      "text": "Understood. Right away.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "分かりました。\nすぐにでも。"
+    },
+    {
+      "name": "Maho",
+      "text": "Whew... if our prediction is wrong, Kururu-han will surely be sad. \"Grand Dream Park\" will be like it was before...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふう……\nもし\nうちの予想が当たってしもうてたら、\nきっとクルルはんは\n悲しい思いをするやろなぁ。\n『グランドリームパーク』が、\nまた\n前みたいに……"
+    },
+    {
+      "name": "Maho",
+      "text": "I can't believe you would even think that!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "なんて、\nそないなこと考えたらあきまへん……っ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Kururu and the prince discuss countermeasures... Ah. \nThe prince is in a good spot...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはんと王子はんとも相談して\n対策を……\nあ。\n王子はん\nいいところに……"
+    },
+    {
+      "name": "Maho",
+      "text": "Kululu...!?\nDid he collapse!? On the ferris wheel, suddenly...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはん……！？\n倒れはったん！？　\n観覧車で、\n急に……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "......Ugh.\nHa...ha...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……うぅ。\nはあ……\nはあ……っ！"
+    },
+    {
+      "name": "Maho",
+      "text": "I have a bad fever... but this symptom might not just be a cold.\nCould this symptom be—",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ひどい熱や……\nけど\nこの症状、\nただの風邪やあらへん。\nこの症状は\nもしかして──"
+    },
+    {
+      "name": "Maho",
+      "text": "Prince, let's take him to the hospital as soon as possible.\nI will go too. So, please be strong, Kururu.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "王子はん、\n一刻も早く\n病院に連れて行きまひょ。\nうちも行きます。\nだから、\nしっかりしておくれやす、\nクルルはん。"
+    },
+    {
+      "name": "Narration",
+      "text": "During the date, Kururu suddenly collapsed.\nShe was quickly taken to the hospital – but what happened next?",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "デート中、突然倒れてしまったクルル。\n急いで病院へと連れて行かれたのだが──果たして。"
+    }
+  ]
+}

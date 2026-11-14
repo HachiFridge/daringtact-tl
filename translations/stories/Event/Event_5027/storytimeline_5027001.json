@@ -1,0 +1,438 @@
+{
+  "title": "To Uncharted Lands!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A few days later...\nTomo and Matsuri have infiltrated the crew recruited by Dragons' Nest\nfor their latest voyage to Elpis Island.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それから数日後……\nトモとマツリは無事【ドラゴンズネスト】の募集する開拓団に紛れ混み\nエルピス島へと向かう船に乗り込んでいた。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Whewww! Hey, Tomo, isn't this awesome?!\nWe're out on the open sea!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ふぁー！　\nトモね～ちゃん、\nすごいッス！\n海ッスよ！　\n海！"
+    },
+    {
+      "name": "Tomo",
+      "text": "You sure are full of energy.\nI expect we'll be sick of that open sea before long.\nAh well, keeping lookout is all part of our job here.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "マツリちゃんは元気だねえ……\nこれから嫌\nってほど海しか見れなくなっちゃうのに。\nまあ、\nこうやって見張りをするのも仕事のうちだけどね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Y-yeah, good point.\nCan't let the excitement distract me from the job...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そ、\nそうだったッス。\n仕事を忘れて浮かれてちゃダメだったッス……"
+    },
+    {
+      "name": "Tomo",
+      "text": "What's that~?\nMatsuri, you do remember our \\\"job\\\" is to defend the crew, don't you?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あれれ～？\nマツリちゃん、\n仕事っていっても\n『この船の用心棒』だよ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh yeah, I know!\nYou and me are a beautiful bodyguard and her sidekick!\nAm I right?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "分かってるッス！　\n今の自分たちは\n『美少女用心棒とその従者』！\nッスよね？"
+    },
+    {
+      "name": "Tomo",
+      "text": "The \\\"beautiful\\\" part doesn't seem necessary, but that's the idea.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "まあ、\n美少女かどうかはおいといて、\nそういうこと。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I don't think anyone on this ship has noticed\nthat we're really members of Nightmare!\nCaptain Jun sure knows her stuff, huh?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "今のところ自分たちが【王宮騎士団（NIGHTMARE）】ってことに\n気付いている人はいないッス！　\nさすがジュンさんの策ッスね！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Our real targets are the dragonfolk guild members.\nThere should be three of them aboard, so stay alert.\nIf they find us out, who knows what we'll be subjected to.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "マークすべきは\nギルドのメンバーであるドラゴン族だ。\nどうやら３人いるみたいだから、\n気を付けてね。\n正体がバレたら\n何されるか分からないよ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Urghh... When you put it like that, this feels scary...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うう～、\nそんなこと言われると不安になるッス……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Hahaha. Don't worry. Nobody should know about us here,\nshort of a freak encounter with an acquaintance. Wait, huh?",
+      "choice_data_list": [
+        "Hey, guys!"
+      ],
+      "orig_name": "トモ",
+      "orig_text": "ははは、\nごめんごめん。\n私たちの事は\nあまり知られてないから\n知り合いでもいない限りは大丈夫。\nって、\nあれ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? Huuuuuuh?!\n{0}?!\nWhat're [i]you[/i] doing on this ship?",
+      "choice_data_list": [
+        "It's just a job."
+      ],
+      "orig_name": "マツリ",
+      "orig_text": "え？　\nえええええ？　{0}さん！？\nなんで\nこんなところにいるッスか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Ahaha... Same as us, then.\nWe joined up as bodyguards as part of a new training regime.\nRight, Matsuri?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あはは、\n私たちと同じですね。\n武者修行を兼ねて\n用心棒の仕事に来てるんですよ。\nね、\nマツリちゃん？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh! ...Yeah!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "っ！　\n……\nッス！"
+    },
+    {
+      "name": "Tomo",
+      "text": "I'm guessing you're here to handle cargo?\nThese expeditions do pay well, so they're attractive work.",
+      "choice_data_list": [
+        "I was invited by this guild's members."
+      ],
+      "orig_name": "トモ",
+      "orig_text": "{0}さんは\n荷物運びのバイトですか？\n開拓団の仕事は\n結構払いがいいから助かりますよね。"
+    },
+    {
+      "name": "Tomo",
+      "text": "You have friends in Dragons' Nest...?\nCould you tell us a little more about that, perhaps?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "【ドラゴンズネスト】の人たちと知り合い……\nちょっとそのお話、\n詳しく聞かせてもらえます？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Urgh... Tomo's expression turned scary...\nMaybe I should get outta here before I let anything slip...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うう、\nトモね～ちゃん目が怖いッス……\nここは\n自分がボロださないように\nちょっと逃げておくッス……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Whew... It sure is a big ship, though!\nThis side is \\\"port,\\\" that's \\\"starboard,\\\" and our cabin is...\nHuh? I-I can't remember which way it was...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ふう……\nそれにしてもでっかい船ッスね～\nこっちが左舷で、\nこっちが右舷で、\n自分たちの船室は……\nあれ？　\nど、\nどっちだか分かんなくなっちゃったッス……"
+    },
+    {
+      "name": "???",
+      "text": "You there! What are you loitering for?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "こらそこ！　\nなにやってやがるです？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Mm? There's a little girl yelling.\nHuh, didn't know there were other kids on board.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ん？　\nなんか子供が騒いでるッス。\nなんだ、\n他にも子供も乗ってるんスね～"
+    },
+    {
+      "name": "???",
+      "text": "I'm talking to you, tiger-tailed beast-runt! Yes, you right there!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "そこの虎しっぽの\n獣人の子供！　\nおまえですよ、\nおまえ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? Wait, you mean me?\nL-like heck I'm a beastgirl! This tail's an accessory!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ふぇ？　\n自分のことッスか？\nじ、\n自分は獣人じゃないッス！　\n尻尾は飾りッス！"
+    },
+    {
+      "name": "???",
+      "text": "Who cares what race you are?!\nWhat're you doing on this ship?!\nThis is no place for curious little brats to wander!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "そんなことはどうでもいいです！\nこの船でなにしてやがるです！\nここはおまえみたいなガキのくるところじゃないです。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Say what? I'm here on work!\nA mission... uh, I mean, a bodyguard job!\n...Even if I'm just helping out.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "なにって、\n仕事にきまってるッス！\n任務……\nじゃなくって、\n用心棒！　\nの\nつきそいみたいな感じッス！"
+    },
+    {
+      "name": "???",
+      "text": "Who hires a bodyguard as teensy as you?!\nEven that sword you've got looks like a toy!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おまえみたいな用心棒がいるわけないです！\nオモチャの剣しか持ってないくせに生意気です！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "D-don't you look down on me!\nI'm a member of Nigh... Argh! That's a secret...\nWh-who are you, anyway?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "み、\n見くびらないで欲しいッス！\nこう見えてもナイトメ……\nうう、\n秘密だったッス……\nそっちこそ何者ッスか！"
+    },
+    {
+      "name": "Inori",
+      "text": "Oh-hoh? So you don't even know who I am?\nThat proves you don't belong here!Haha... Listen and weep!\nI am the great Inori, a leading member of the Family!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ほほーう、\nどうやらこのあたしを知らないようですね！\nこいつはモグリにちがいないです！　\nふふ……\n何を隠そう！\nこの『ファミリー』の幹部、\nイノリ様とはあたしのことなのです！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Leading...?\nWait. Those horns and wings... Could you be a dragongirl?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "かんぶ……？\nって、\nそのツノと羽根……\nもしかして、\nドラゴン族ッスか！？"
+    },
+    {
+      "name": "Inori",
+      "text": "Eheheh. I scared her... I actually scared her!\nHahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふふふ、\nビビってる……\nビビってやがるですよ！\nはーっはっはっはっはー！"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "Oh, there she is. What're you up to here, Inori?\nThe boss was looking for you.",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "あ、\nいたいた。\nイノリちゃんこんなとこでなにしてんの。\nボスが探してたぜ？"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "Oh yeah, if she finds you slacking off, you'll be in for it again.",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "そうそう、\nサボってるのバレたら\nまた怒られちゃうよ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Are they gangsters?\nLooks like they're from that guild, at any rate...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ギャングの構成員？\nどうやら\nギルドの人間なのは間違いなさそうッスね……"
+    },
+    {
+      "name": "Inori",
+      "text": "Ah, what perfect timing!\nYou guys can teach this brat how we do things around here!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おお、\nいいとこにきたです！\nこのガキンチョに、\nあたしたちの流儀を教えてやるです！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Like you're not a kid yourself.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……そっちだって子供じゃないッスか。"
+    },
+    {
+      "name": "Inori",
+      "text": "Aurgh! I can't let that one lie! How exactly do I look like a kid?!\nYou cheeky brat! Men, take care of this girl!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はうぅ！　\n今のはカチンときたです！　\nあたしのどこが子供ですか！\nナマイキな！　\nおまえら、\nやっちまえです！！"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "...Uh, don't give out weird orders, Inori.",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "……いや\n無茶いわないでくれよイノリちゃん。"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "We've got actual work to handle.\nHere, you two have some candy to eat together.",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "俺らも仕事あるんだからさあ……\nほら、\nお菓子あげるから\n二人で食べな。"
+    },
+    {
+      "name": "Inori",
+      "text": "Nghhh...! Is [i]everyone[/i] here hopeless?!\n...I mean, sure, I'll take the candy, but still.\nI'll just have to teach this brat a lesson... all by myself!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "くぅ～……！　\nなさけないヤツらですよ！\n……まあ、\nお菓子はもらっといてやるですけど？\nこうなったらあたし一人でも制裁を……\nやってやるです！"
+    },
+    {
+      "name": "???",
+      "text": "Whoa there, Inori. What're you up to now?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "こーらイノリ。\nなにやってんだ？"
+    },
+    {
+      "name": "Inori",
+      "text": "Pyeughh!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴうぅっ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Wh-what's the big idea, Kaya-P?! You're too cruel!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "な、\nなにするですかカヤぴぃ！　\nひどいですよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "A-another dragongirl...! ",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ま、\nまたドラゴン族ッス……！　"
+    },
+    {
+      "name": "Kaya",
+      "text": "I'm not the one hurling threats at a kid I've just met.\nHey. You OK there?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "見ず知らずの子供を脅かすよりは\nひどくないと思うぜ？\nキミ、\n大丈夫か？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh... Y-you mean me?\nI'm fine...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あ……\nじ、\n自分ッスか？\n大丈夫ッス……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Sorry about our little runt. I'll see she behaves better.\nI think she's really just happy to see another kid her own age.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ウチのが迷惑かけてゴメンな。\nあとでちゃんと言っとくからさ。\n同じくらいの年の子がきてうれしいんだよ、\nきっと。"
+    },
+    {
+      "name": "Inori",
+      "text": "Ehhhh?! Of course I'm not happy!\nDon't put me on the same level as some snot-nosed brat!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はぁ～！？　\nそんなことないですよ！\nこんなガキンチョといっしょにしてほしくないです！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh yeah—we should introduce ourselves.\nI'm Kaya. And this is Inori.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おっと、\n自己紹介がまだだったな。\nオレはカヤ。\nで、\nこっちがイノリ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Aughh! Kaya-P! You can't just ignore me!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "あうぅ！　\nカヤぴぃ～！　\nさらっと無視すんなです！！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "My name's Matsuri... Oh yeah!\nYou wouldn't happen to be friends of {0}, would you?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分は、\nマツリッス……\nそうだ。\nカヤさんたちって、\n{0}さんと知り合いなんッスか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hm? You know him too, do you?\nActually, he did say he thought he recognized someone in the crew.\nSo that was you, huh...?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ん？　\nカレのこと知ってるのかい？\nそういえば\n知り合いっぽいのが船に乗ってるっていってたな。\nそれがキミだったってわけか……"
+    },
+    {
+      "name": "Kaya",
+      "text": "OK. Nice to meet you, Matsuri.\nNow, where was I?\nInori, the boss wants you. What did you do this time?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "オッケー、\nよろしくなマツリ。\nっと、\nそうだった。\nイノリ、\nボスが呼んでたぜ。\nまーたなんかやったのか？"
+    },
+    {
+      "name": "Inori",
+      "text": "Yeaugh! I-I haven't messed up yet today!\nI'm innocent, totally... inno... cent...?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ひうぅ！　\n……きょ、\n今日はまだ何もしてない、\n清廉潔白の身の上……\nです、\nよ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "So many options, you don't know which one this is about, huh?\nWell, I'll say sorry with ya, so let's move.\nLater, Matsuri.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "多すぎて逆に心当たりが見つからねー\nって顔だな。\n一緒に謝ってやるから、\n早く行くぞ。\nじゃあな、\nマツリ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, sure... See you around.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あ、\nはい……\nどうもッス……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Off they go...\nThat girl... actually seemed kind of cool...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "行っちゃったッス。\nなんか……\nカッコイイ人だったッスけど……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Hmm... Is that right?\nFeeling tempted by the gangster life, are you, Matsuri?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ふーん、\nそうなんだー\nマツリちゃんってば、\nああいうギャングの方がカッコイイんだ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Uwahh?! T-Tomo! When did you show up...?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ふわっ？　\nトモね～ちゃん！　\nいつのまに……！"
+    },
+    {
+      "name": "Tomo",
+      "text": "I thought we were devoted to pursuing justice together,\nbut I guess that was just me. Too bad, too bad.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "いっしょに\n正義を目指して\n頑張ってるとばかり思ってたのに、\n私の片想いだったみたいだねえ。\n残念残念。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "No, it's not just you!\nI'm always aflame with passion for justice!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そんなことないッスよ！\n自分は\n今でも正義に燃えてるッスよ～！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Ahaha, that's a relief.\nStill, those two... They're the dragonfolk, huh?\nI can see how they might be tricky customers.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あはは、\nならひと安心だ。\nそれにしても……\nあれが、\nドラゴン族か。\n確かに\n一筋縄じゃいかなさそうだ。"
+    },
+    {
+      "name": "Narration",
+      "text": "With dark clouds on the horizon, the ship glided across the waves,\ncarrying the conflicting factions of Dragons' Nest and Nightmare\nto a brave new world...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "波乱の予感とともに、船は大海原を往く。\n【ドラゴンズネスト】と【王宮騎士団（NIGHTMARE）】\nそれぞれの思惑を乗せて……"
+    }
+  ]
+}

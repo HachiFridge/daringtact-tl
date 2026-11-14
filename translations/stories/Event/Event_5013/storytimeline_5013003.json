@@ -1,0 +1,624 @@
+{
+  "title": "The Landosol Tour Guide",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The crew continue their Gigas hunt.\nThe further they progress up the mountain, however, the less\neffective Anne's tracing magic becomes.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ギガースを探して頂上へ行く{0}たちだったが、\n頂上へ近づくほどに、アンの魔力探知が鈍ってきていた。"
+    },
+    {
+      "name": "Anne",
+      "text": "Hm... This isn't ideal.\nI've kind of got an idea, but it's not as clear as before...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うーん、\nだめだなぁ。\nぼんやりとは分かるんだけど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are you feeling tired, perhaps?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "アンさま、\nお疲れでしょうか？"
+    },
+    {
+      "name": "Anne",
+      "text": "I think it's the sheer number of them around here.\nI could pinpoint the next Gigas if there were fewer, but alas..",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ギガースの数が多すぎるのかも。\nこれ！　\nって絞り込めないんだよね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The sun's setting, too.\nShould we go back to Landosol for now?\nWe're in danger of getting lost if we wait until after it gets dark.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もう日が暮れてきちゃいましたね……\nいったんランドソルへ帰りませんか？\n暗くなる前に下山しないと、\n遭難しちゃうかもしれませんし。"
+    },
+    {
+      "name": "Lou",
+      "text": "Landosol?\nThat's the city you all live in, I guess?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "らんどそる……\nそれって、\nみんなが住んでるとこですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yup!\nIt's a super big city, plus it has a castle!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうなんです！\nお城がある、\nとっても大きな都市なんですよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "A castle?!\nNow that I want to see!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "お城！？　\nルゥ、\n行ってみたいですぅ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That settles it, then!\nLet's make our way back and get dinner!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "じゃあ、\n今日はランドソルで夕ごはんにしましょう！"
+    },
+    {
+      "name": "Lou",
+      "text": "Woo!\nI'm gonna eat until I burst!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "やった～！\n今日もいっぱい食べるですよ～！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You'll love the restaurant I've got in mind. Trust me!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "オススメのレストランがあるので\nそこへ行きましょう！"
+    },
+    {
+      "name": "Anne",
+      "text": "Hey, Grea.\nWhen she says dinner, do you think she means, uh...\n[i]That[/i]?",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ねぇ、\nグレア。\nペコリーヌの言うごはんって、\nやっぱり……\nあれかなっ？"
+    },
+    {
+      "name": "Grea",
+      "text": "Yup. I'm positive she means that.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うん、\nきっとそうだと思う。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "They'll take the ingredients we brought and cook them up nice and tasty!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ここでは、持ってきた食材をおいしく料理してくれるんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And we found a bunch of rare ones today.\nI'm really looking forward to what sort of dish they become!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "今日は珍しい食材をいっぱい持ち込んだから、\nどんなごはんが出てくるか、\nわくわくしてきますね！"
+    },
+    {
+      "name": "Woman",
+      "text": "Sorry for the wait!\nHere you go!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "はい、\nお待たせしました！"
+    },
+    {
+      "name": "Karyl",
+      "text": "It really does look like normal food at a glance.\nToo bad about everything else...\nHaha... Hahahaha...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……見た目だけは普通なのよね。\n見た目だけは……\nははっ、\nあはははははっ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wow! Now this looks delish! ☆ It's honestly amazing how you can take a\nbig, disgusting monster like that and make a dish that looks and smells\namazing! Cooking up and trying all sorts of stuff sure is worth it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ん〜！　\n美味しそう〜☆\nあのデロデロの魔物から、\nこんないい匂いのダシが取れるなんて！\nやっぱりなんでも料理して、\n食べてみないと分かりませんね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Time to dig in! ☆*munch, munch* That's some good soup!\nAnd the tentacles still make their presence known in the salad!\nIncredible!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いっただっきま～す☆　\nんっ、\nんっ……\nなんて濃厚なスープ！\nサラダの中にもコリコリの触手が細かく入ってて、\n最高です！"
+    },
+    {
+      "name": "Grea",
+      "text": "...You know, it actually is delicious.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\n確かに美味しいよね。"
+    },
+    {
+      "name": "Anne",
+      "text": "Yup!\nI wouldn't mind eating this every day!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん！\n毎日食べてもいいかも～！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Your enjoyment of that atrocity is beyond my understanding...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんでこんなものを平然と食べられるのよ、\nあんたたち……"
+    },
+    {
+      "name": "Karyl",
+      "text": "I just want some normal grub... Is that so much to ask for? *munch, munch*\nA-argh! The fact that it tastes good annoys me even more!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしは\nもっと普通の食事がいいのにぃ……\nあむ、\nんく。\nも、\nもぉぉー！　\nなんで味はまともなのよぉ～！"
+    },
+    {
+      "name": "Lou",
+      "text": "Wooow.\nMonsters really are tasty, huh?\nMaybe I should... give it a try after all... *drool*",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ふわぁ～\n魔物って美味しいですねぇ。\nやっぱり、\n食べてみても……\nじゅるり。"
+    },
+    {
+      "name": "Grea",
+      "text": "Sorry, Lou, but Mr. Gawker remains off the menu.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……ルゥ。\nオメメちゃんはだめだって言ったでしょ。"
+    },
+    {
+      "name": "Lou",
+      "text": "I-I know!\nI was just joking! Really!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "し、\n知ってるですよ！\n今のは\nじょーだんです！"
+    },
+    {
+      "name": "Grea",
+      "text": "Sheesh...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "もう……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well, that sure hit the spot!\nEvery dish was delicious, from the main course to dessert! I'm super satisfied! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いや～！　\nメインディッシュからデザートまで、\nフルコースで美食を堪能しましたね！　\n満足満足☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Our bellies are all nice and full now,\nso let's use that energy and head back to the mountain tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おなかいっぱい\nごはんも食べたことですし、\n明日もまた\nみんなで山へ探索しにいきましょう！"
+    },
+    {
+      "name": "Anne",
+      "text": "Sounds good.\nThanks so much for all the help!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん。\nみんな、\n何から何までありがとう！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Anne, Grea, Lou!\nHeyas!\nDid you all get some good sleep?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おいっす～！　\nアンさん、\nグレアさん、\nルゥちゃん！\n昨日はよく眠れましたか？"
+    },
+    {
+      "name": "Anne",
+      "text": "Yup! Helps that the beds were so nice and comfy!\nMy magic's all replenished!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん！　\nベッドふかふかだった～！\n魔力も全快だよ！"
+    },
+    {
+      "name": "Anne",
+      "text": "That said, my tracing magic's still kind of funky.\nHm...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "……けど、\n魔力探知は相変わらずかなぁ。\nうーん……"
+    },
+    {
+      "name": "Karin",
+      "text": "Um, excuse me.\nDo you all have a moment?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "あの、\nすみませーん。\nちょっとよろしいでしょうか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh! Good morning, Karin! ☆\nIs something the matter?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "カリンさん！　\nおはようございます☆\nえっと、\nなにかあったんですか？"
+    },
+    {
+      "name": "Karin",
+      "text": "There is, in fact.\nWe've received reports of an unidentified monster on Mount Gastros.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "はい、\nガストロス山のことでお知らせがあって来ました。\nどうやら\n未知の魔物が現れたそうでして。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It wouldn't happen to be a giant, would it?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それってまさか、\n巨人の魔物？"
+    },
+    {
+      "name": "Karin",
+      "text": "It would, actually...\nI take it you're aware of its existence.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "はい、\nそうですが……\nすでにご存知だったんですね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We were actually searching the mountain as part of\nour guild activities just yesterday, you see. We came across\nsaid giant—which is actually called a Gigas—at that time.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "実は昨日、\nわたくしたちはギルド活動のため、\nあの山を探索していたのですが、\nその時に\n巨人の魔物……\nギガースを目撃したのです。"
+    },
+    {
+      "name": "Karin",
+      "text": "That explains things.\nVery well. The Guild Association will prepare a formal request,\nso can we leave the investigation and extermination in your hands?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "そうだったんですね。\nでは、\n【ギルド管理協会】から正式に依頼しますので、\n引き続き調査、\nおよび討伐をお願いできますか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Leave it to us!\nOh, but wait. We're kind of facing a little issue.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "任せてください！\nああでも、\n実はちょっと困っていることがありまして……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey. The Guild Association wouldn't happen to have a magic tracer,\nwould they? That'd help our search big time.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ねえ。\n【ギルド管理協会】に\n魔力探知機とかってないの？\nそれがあれば、\n探索が捗るんだけど。"
+    },
+    {
+      "name": "Karin",
+      "text": "Oh. We can get one for you if you'd like.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "魔力探知機でしたら、\nこちらでご用意できますよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "That said, another guild is using it at the moment.\nIt might take a few days before they're done with it.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ですが、\n現在別のギルドに貸し出し中でして、\nお渡しは数日後になるかと。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Aww, really?\nGuess the search is off until then.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうなんですか～\nじゃあ、\nしばらく探索はお休みですね。"
+    },
+    {
+      "name": "Karin",
+      "text": "I'll get in touch as soon as it's ready for use.\nWell, have a good day, everyone.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "お渡しできるようになりましたら、\nすぐお伝えしますね。\nそれでは\n失礼します。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hm. A few days' wait is in order, then.\nWhat should we do in the meantime, my lord?",
+      "choice_data_list": [
+        "Let's go have some fun.",
+        "Time to sleep."
+      ],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ、\nすぐには借りられないのですか……\nその間は\nいかがいたしましょう、\n主さま。"
+    },
+    {
+      "name": "Lou",
+      "text": "Some fun? That sounds great!\nThere's so much stuff I wanna ea—\n...Experience!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "わぁっ！　\nとっても楽しそうです！\nルゥ、\nもーっといろいろ食べた……\n……\n知りたいですぅ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Let's not become the embodiment of sloth, shall we?\nIf you've got the time, then why not show then around town?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いくらなんでも自堕落すぎるでしょ……\nせっかくだし、\nアンたちをどこかに連れてってあげたら？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Then it's decided!\nWe'll show them around Landosol until the tracer's ready!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "じゃあ、\n魔力探知機を借りられるまで、\nアンさんたちにランドソルを案内してあげましょう！"
+    },
+    {
+      "name": "Grea",
+      "text": "...Are you okay with that?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……そんなの、\nいいのかな？"
+    },
+    {
+      "name": "Anne",
+      "text": "Hey, it's their idea. And I'm down with it!\nYou're coming too, of course!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ペコリーヌたちがそう言ってくれてるから、\n決まりだって！\nもちろんグレアも一緒にねー！"
+    },
+    {
+      "name": "Karyl",
+      "text": "How about we hit up the business district first, then?\nI need you guys to understand that we've got regular,\nmonster-free food.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "だったら、\nまずは繁華街に行ってみる？\nあんたたちに、\n魔物以外の料理もあるって教えてあげなきゃよね。"
+    },
+    {
+      "name": "Anne",
+      "text": "Wow! Cool! This is all so interesting!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "へぇー！　\nふぅーん！　\nなるほどぉー！"
+    },
+    {
+      "name": "Grea",
+      "text": "You should watch where you're walking, Anne.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "アン、\nちゃんと前見て。"
+    },
+    {
+      "name": "Anne",
+      "text": "Aha! Sorry, sorry!\nEverything here is just so different, though!\nLook! We definitely don't have sweets like that!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あはっ！　\nごめんごめん！\nでもやっぱり、全然違うなー！\nほら！　\nこんなお菓子見たことない！"
+    },
+    {
+      "name": "Lou",
+      "text": "We sure don't! And I'm ready to launch them into my belly!\nMunch! Munch!\nI can't stop! I won't sto... *cough, cough*",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "食べたこともないですよ！　\nはむっ！　\nはむっ！\nルゥ！　\n食べるの止まらな……\nごっほごっほ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't just stuff it all down your throat like that!\nHere! Drink some water!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "喉につまらせるほど食べるんじゃないの！\nほらこれ、\nお水飲んで！"
+    },
+    {
+      "name": "Lou",
+      "text": "*gulp, gulp* *cough, cough* Ph-phew...\nThanks. I thought I was a goner there.\nBut now I've got room for more!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ごく、\nごく……\nげほっ、\nげほっ……\nた、\n助かったです。\nあやうく\n死ぬところだったです……\nでも\nこれでまた食べられるですぅ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "What did I [i]just[/i] tell you?!\nSlow it down, girl, or else you're gonna choke again!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "だから口につめこみすぎなのよ！\nまた同じ目に遭いたいの！？　\nもっとゆっくり味わいなさい！"
+    },
+    {
+      "name": "Grea",
+      "text": "Sorry about that.\nLou doesn't mean any harm,\nbut I guess she's annoying Karyl...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……ごめんね。\nルゥ、\n悪気はないんだけど。\n怒らせちゃってる……\nよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't worry. Karyl might sound angry,\nbut she's actually really kind and caring!\nIn fact, she's just worried for Lou's safety right now!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃんは一見怒ってるように見えますけど、\n実は面倒見の良い優しい子なんですよ！\n今だって、\nルゥちゃんを心配してあげてるんです！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Sh-shut it! Don't say that stuff about me!\nEspecially when I can hear you!\nNot that it's ever hard to with that stupid loud voice of yours!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うっ、\nうるさい！　\n優しいとか言うな！\n聞こえてるんだから！　\nそれでなくても\n声がデカいのよあんたは！"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh...\nSorry for getting the wrong idea, Karyl.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "そうだったんだ……\n誤解してごめんね、\nキャル。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You've got the wrong idea [i]now[/i], Grea!\nI'm not kind or caring!\nI never would've bothered with Lou if I hadn't happened to notice!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いや\n逆に誤解してるから！　\nあたしは\n全然優しくないし！\nルゥのことだって\nたまたま目に入っただけだし！"
+    },
+    {
+      "name": "Lou",
+      "text": "Urgh...\nI'm dying...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ぐえぇ……\n苦しいですぅ～"
+    },
+    {
+      "name": "Karyl",
+      "text": "Lou!\nYou did it again, didn't you?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ルゥ！　\nあんたまた喉につまらせてっ！！"
+    },
+    {
+      "name": "Anne",
+      "text": "Ahaha. Guess it's fine to let her take care of Lou.\nOh, Pecorine. What's that store over there?",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あははっ、\nルゥのことはキャルに任せておけば安心だね。\nあっ、\nペコリーヌ、\nあのお店は何？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's a general store.\nOne with lots of female customers, too.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "雑貨屋さんですね。\n女の子に人気のお店みたいですよ。"
+    },
+    {
+      "name": "Anne",
+      "text": "Huh. Let's go check it out!\nI bet we can find something that suits you, Grea!\nThen again, everything suits you!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "そうなんだ、\n行ってみようよ！\nグレアに似合うのきっとある！\nううん、\nグレアなら何でも似合う！"
+    },
+    {
+      "name": "Grea",
+      "text": "Come on, Anne...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……もう、\nアンったら。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You look quite happy, Miss Grea.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……グレアさま、\nうれしそうですね。"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "That expression on your face when you look at Miss Anne.\nIt's full of happiness.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "アンさまを見ているお顔が、\nとても幸せそうですよ。"
+    },
+    {
+      "name": "Grea",
+      "text": "I-I made it that obvious?\nThat's embarrassing...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "か、\n顔に出ちゃってた……？\n恥ずかしいな……"
+    },
+    {
+      "name": "Anne",
+      "text": "Phew! That sure was fun!\nLandosol's such an exciting place!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あー楽しかった！\nランドソル、堪能しちゃったー！"
+    },
+    {
+      "name": "Grea",
+      "text": "It really is a whole different experience from Rivenbrandt,\nfrom the sights to the products.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "売ってるものも景色も、\nミスタルシアとはちょっと違って……\n新鮮だったね。"
+    },
+    {
+      "name": "Lou",
+      "text": "Landosol's so cool! I love it!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ルゥ、\nランドソルのこと\nと～っても好きになったですよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hehe. I'm happy you feel that way.\nI'm glad we got to show you how nice Landosol is, too.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふふっ、\nわたしもアンさんたちに\nランドソルのいいところを知ってもらえて、\nすっごくうれしいです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's check out even more areas tomorrow!\nAs long as you're here, then you might as well see it all!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "明日はもっといろんな場所に行ってみましょうね！\nせっかくですから、\nめいっぱいランドソルを観光しちゃってください☆"
+    },
+    {
+      "name": "Narration",
+      "text": "A few days later...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数日後──"
+    },
+    {
+      "name": "Anne",
+      "text": "All right! We've got our tracer, plus we're all rested up!\nIt's time for some Gigas hunting!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "よし！　\n魔力探知機も借りられたし、\n体調も万全！\nギガース退治に出発しよう！"
+    },
+    {
+      "name": "Grea",
+      "text": "Yeah. But let's not forget about the magic crystals, either.\nWe need to gather them so we can get back to Rivenbrandt.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うん。\nミスタルシアへの転移魔法を完成させるためにも、\n魔石の欠片を全部集めないとね。"
+    },
+    {
+      "name": "Lou",
+      "text": "Wait... I'll need to finish my assignment if we go back, right?\nIn that case, I... I'm gonna stay here!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "でも……\nミスタルシアに帰ったら\n課題が待ってるですよね？\nルゥは……\nルゥは、\nいっそこのままでもっ……！！"
+    },
+    {
+      "name": "Anne",
+      "text": "Hm... Yeah, Landosol's a great place.\nBut you'll never be able to see all your friends again if you stay here.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うーん、\n確かにランドソルも楽しいところだけど……\nずっとここにいたら、\n学院の友だちと二度と会えなくなっちゃうよ？"
+    },
+    {
+      "name": "Lou",
+      "text": "What?! Th-that sounds awful!\nOkay, I'll work hard! Let's get those magic crystals!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "はっ！？　\nそ、\nそれはさみしいですぅ～！！\nルゥもがんばるです、\n魔石、\nいっぱい集めるです！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I take it we're all ready, then?\nIf so, then let the search begin!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みなさん、\n準備はいいですか？\nさぁ、\nギガースを探しに行きましょう！"
+    },
+    {
+      "name": "Narration",
+      "text": "And thus the party made their way back to Mount Gastros,\nready for another day of Gigas hunting and magic crystal gathering.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちはギガースを倒して魔石を集めるため、\n再びガストロス山へと登っていくのだった。"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "atlas_name": "AtlasCaravanEventAnim",
+  "sprites": [
+    {
+      "name": "caravan_balloon",
+      "x": 927,
+      "y": 936,
+      "width": 80,
+      "height": 88,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_balloon_chat",
+      "x": 679,
+      "y": 779,
+      "width": 183,
+      "height": 99,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_balloon_chat_triangle",
+      "x": 679,
+      "y": 886,
+      "width": 27,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_ef_flare",
+      "x": 0,
+      "y": 767,
+      "width": 259,
+      "height": 257,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        63,
+        63,
+        62,
+        64
+      ]
+    },
+    {
+      "name": "caravan_ef_lay",
+      "x": 533,
+      "y": 550,
+      "width": 81,
+      "height": 214,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_ef_radial",
+      "x": 0,
+      "y": 509,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_ef_rainbow_shpere",
+      "x": 781,
+      "y": 880,
+      "width": 144,
+      "height": 144,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_ef_shine",
+      "x": 261,
+      "y": 754,
+      "width": 270,
+      "height": 270,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_ef_smoke",
+      "x": 388,
+      "y": 642,
+      "width": 120,
+      "height": 110,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        12,
+        4,
+        6
+      ]
+    },
+    {
+      "name": "caravan_ef_yellow_sphere",
+      "x": 533,
+      "y": 766,
+      "width": 144,
+      "height": 144,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_emote_notice",
+      "x": 616,
+      "y": 551,
+      "width": 141,
+      "height": 103,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_emote_notice_edge",
+      "x": 864,
+      "y": 767,
+      "width": 149,
+      "height": 111,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        4,
+        2
+      ]
+    },
+    {
+      "name": "caravan_event_dice_L",
+      "x": 130,
+      "y": 338,
+      "width": 61,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_dice_R",
+      "x": 298,
+      "y": 433,
+      "width": 61,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_icon_dice1",
+      "x": 759,
+      "y": 535,
+      "width": 119,
+      "height": 119,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_icon_dice2",
+      "x": 880,
+      "y": 535,
+      "width": 119,
+      "height": 119,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_icon_magic1",
+      "x": 0,
+      "y": 379,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_icon_magic2",
+      "x": 258,
+      "y": 624,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_icon_magic3",
+      "x": 258,
+      "y": 494,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_icon_magic4",
+      "x": 388,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_line",
+      "x": 388,
+      "y": 480,
+      "width": 526,
+      "height": 30,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_ribbon",
+      "x": 533,
+      "y": 912,
+      "width": 246,
+      "height": 112,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_slice_bg",
+      "x": 130,
+      "y": 399,
+      "width": 107,
+      "height": 108,
+      "border": [
+        36,
+        36,
+        72,
+        72
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_event_text",
+      "x": 679,
+      "y": 711,
+      "width": 321,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_useDish_fork",
+      "x": 239,
+      "y": 380,
+      "width": 57,
+      "height": 112,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_useDish_spoon",
+      "x": 916,
+      "y": 421,
+      "width": 59,
+      "height": 112,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_useDish_text",
+      "x": 616,
+      "y": 656,
+      "width": 323,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_white",
+      "x": 708,
+      "y": 894,
+      "width": 16,
+      "height": 16,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

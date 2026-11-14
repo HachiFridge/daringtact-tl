@@ -1,0 +1,782 @@
+{
+  "title": "Part 2 Ch. 3 Ep. 14",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The Rage Legion has attacked Sarendia Orphanage. In dire straits, {0} finally awakened── resulting in Rei and Hiyori's transformation into their Princess Form!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サレンディア救護院を襲撃する【レイジ・レギオン】。\n絶体絶命の状況で、ついに{0}が目覚め──\nそしてレイとヒヨリは、\nプリンセスフォームへと変身した！"
+    },
+    {
+      "name": "Rei",
+      "text": "En garde, Azold!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "行くぞ、\nアゾールド！"
+    },
+    {
+      "name": "Azold",
+      "text": "My oh my.\nWhat frightening force...!",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "おーっとっと。\nいやはや、\nなんとも恐ろしい勢いですな……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Prepare yourself, Kariza-kun!\nEiiii!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "覚悟して、\nカリザくんっ！\nえええーいっ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "──Whoa!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──うおっ！？"
+    },
+    {
+      "name": "コッコロ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "All right!\nI got Kokkoro-chan back!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "よしっ！\nコッコロちゃんは、\n返してもらったよ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Keh!\nI wasn't gonna take hostages anyway!\nWho would even try something so lame?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ケッ！\n人質なんざ、\nハナから取るつもりねーよっ！\nンなダセェ真似、\n誰がするかってんだ！"
+    },
+    {
+      "name": "Omniforks",
+      "text": "*whirr* *whirr*",
+      "choice_data_list": [],
+      "orig_name": "万能人形たち",
+      "orig_text": "『ウィーン、ウィーン』"
+    },
+    {
+      "name": "Kurumi & Ayane",
+      "text": "Eek!",
+      "choice_data_list": [],
+      "orig_name": "クルミ・アヤネ",
+      "orig_text": "ひっ！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Wah...!\nBig brother's strengthening...♪",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "わぁっ……！\nお兄ちゃんの強化だぁ……♪"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'It's been a while~!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『なんだか久しぶりだぜ～！』"
+    },
+    {
+      "name": "Ayane",
+      "text": "Here goes!\nPukichi Full Swing!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "よぉーっし！\nぷうきちフルスイ～ング！"
+    },
+    {
+      "name": "Omnifork",
+      "text": "*whirr!?*",
+      "choice_data_list": [],
+      "orig_name": "万能人形",
+      "orig_text": "『ウィーン！？』"
+    },
+    {
+      "name": "Kurumi",
+      "text": "I...\nI think I might be able to help out a little...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "こ……\nこれなら\nちょっとくらい、\n役に立てるかも……！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Yeah!\nWe'll protect Mama Saren together!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "うん！\nママ・サレンのことは、\n私たちが守るよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hiyori Megaton Ruuush!!!\nUryaryarya~!!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ヒヨリ\nメガトン\nラーーッシュ！！！\nうりゃりゃりゃりゃ～っ！！！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Tch!\nEnolith!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ちっ！\nイーノリスッ！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "How's that?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "どうだぁっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What!?\nIt's already healed?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ええっ！？\nもう治っちゃったぁ！？"
+    },
+    {
+      "name": "Kariza",
+      "text": "!\nHaha, that's right!\nAzold's Fast Regen!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "！\nハハッ、\nそうだった！\nアゾールドの『即時再生』かっ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hah!\nHey, don't just stand there and take it, you damn monsters!\nGo and rip out that grating cat's tail and whiskers all at once!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "へへっ！\nオラッ、\n押されてんじゃねェぞクソ魔獣ども！\nウザ猫のヒゲもシッポも、\nまとめてブチ抜いてやれァ！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Augh!\nThe monsters are tough...\nBut this kid's pretty strong too...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あうっ！\n魔物たちもだけど……\nこの子も、\nとっても強いっ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hiyori...!?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ヒヨリ……！？"
+    },
+    {
+      "name": "Azold",
+      "text": "Ohohoho.\nYour friend seems to be in trouble.\nAre you certain you don't want to go and help her?",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "ほっほっほ。\nお友だちが苦戦しておりますぞ。\n助けに向かわなくてよろしいので？"
+    },
+    {
+      "name": "Rei",
+      "text": "There's no way I'd get away with turning my back on you now...\nPlus, defeating you should take care of that pesky healing magic!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "今、\n私がお前に背を向けるわけにはいかない……\nそれにお前を倒せば、\n厄介な回復魔法も解除されるはず！"
+    },
+    {
+      "name": "Azold",
+      "text": "Well put.\nIt seems that not just your blade, but your mind is sharp as well.\nWhether you'll be able to test your theory is another matter, however.",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "道理ですな。\n剣だけでなく、\n頭も切れるご様子。\n可能かどうかは別として、\nではありますが。"
+    },
+    {
+      "name": "Rei",
+      "text": "I'll make sure I see it through!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "必ず遂げてみせる！"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile: Pecorine, who had received communication magic from Kyaru, was rushing to the Sarendia Orphanage. By her side were the Knights of the Royal Palace, who are under Jun's command.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方──\nキャルから通信魔法を受けたペコリーヌは、\nジュンが率いる【王宮騎士団（NIGHTMARE）】と共に\nサレンディア救護院へと急いでいた。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Everyone, hurry uuup!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みなさん、\n早く早く～っ！"
+    },
+    {
+      "name": "Royal Palace Knight 1",
+      "text": "Please wait, Your Majesty!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士１",
+      "orig_text": "お待ちください\n陛下～！"
+    },
+    {
+      "name": "Jun",
+      "text": "Pick up the pace, soldiers!\nDon't start whining in such light armor!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "お前たち、\nもっと速く走れ！\nそんな軽い鎧で、\n音を上げるんじゃない！"
+    },
+    {
+      "name": "Royal Palace Knight 2",
+      "text": "My apologies, captain!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士２",
+      "orig_text": "す、\nすみません団長っ！"
+    },
+    {
+      "name": "Royal Knight 3",
+      "text": "It's amazing how the captain wears her armor even in her sleep.",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士３",
+      "orig_text": "やっぱり\n寝るときも鎧着てる団長は\nすげえやっ。"
+    },
+    {
+      "name": "Jun",
+      "text": "Don't bother with flattery!\nLess talking, more moving!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "世辞はやめてくれ！\n口よりも足を動かすんだ！"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士たち",
+      "orig_text": "はいっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Uuu, I'm glad to have soldiers from Nightmare helping me out.\nI understand they're worried about me, but...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う～っ、\n【王宮騎士団（NIGHTMARE）】の人たちが\n協力的なのはうれしいですし。\nわたしを心配してくれてるのもわかりますけど……"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "でもやっぱり、\n歯がゆいです……\n今は一秒でも早く、\n{0}くんたちを助けに行きたい……！　",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でもやっぱり、\n歯がゆいです……\n今は一秒でも早く、\n{0}くんたちを助けに行きたい……！　"
+    },
+    {
+      "name": "？？？",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Jun",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……っ\n！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Jun-san?\nWhy are you stopping?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ジュンさんっ？\nどうして立ち止まっちゃうんですかっ！？"
+    },
+    {
+      "name": "Jun",
+      "text": "──Excuse me, Your Majesty.\nThat man we just passed by.\nThat's...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "──失礼、\n陛下。\n今、すれ違った男。\nあれは……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That person...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あの人……？"
+    },
+    {
+      "name": "Jun",
+      "text": "Do you understand, Your Majesty?\nHe's no ordinary citizen...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "わかりますか陛下？\nただ者じゃない……！"
+    },
+    {
+      "name": "Jun",
+      "text": "You over there!\nStop right where you are!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "そこの男！\n止まれ！"
+    },
+    {
+      "name": "？？？",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……"
+    },
+    {
+      "name": "Royal Palace Knight 1",
+      "text": "Wait, you!\nCaptain Jun has demanded you halt, and you're ignoring her?!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士１",
+      "orig_text": "待てお前！\nジュン団長が呼び止めているというのに、\n無視するとは！"
+    },
+    {
+      "name": "？？？",
+      "text": "......\nCan I help you?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……？\n俺に、用か。"
+    },
+    {
+      "name": "Jun",
+      "text": "We are from Nightmare.\nPlease tell us your name and the guild you belong to.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "こちらは【王宮騎士団（NIGHTMARE）】だ。\n貴方の氏名と、\n所属するギルドをお聞かせ願いたい。"
+    },
+    {
+      "name": "？？？",
+      "text": "My name...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "名前……"
+    },
+    {
+      "name": "？？？",
+      "text": "I am Zane.\nI belong to the Rage Legion.\nI serve as it's guild master.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "俺は、\nゼーン。\n所属ギルドは、\n【レイジ・レギオン】。\nギルドマスターを務めている。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Rage Legion...!?\nAnd it's guild master?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "【レイジ・レギオン】……！？\nしかも、\nギルドマスターって……！"
+    },
+    {
+      "name": "Jun",
+      "text": "So you lead our adversaries...!\nI presume you also intend to overthrow this country?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "敵の首魁というわけか……！\nならば貴方も、\nこの国の転覆を狙うと？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That said, he's our enemy.\nI doubt he'll just tell us...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っていっても、\n敵なんですし。\n教えてくれるはずは……"
+    },
+    {
+      "name": "Zane",
+      "text": "My target is...the Seven Crowns.\nThe Kaiser Insight: Senri Mana.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "俺の狙いは……\n『七冠』。\n覇瞳皇帝、\n千里真那。"
+    },
+    {
+      "name": "Jun",
+      "text": "Kaiser Insight!?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "覇瞳皇帝！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "N-Now that you mention it...by going down this street, you'll reach the Royal Palace! Do you have a grudge against us?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "た、\n確かに……\nこの通りをまっすぐ行けば、\n王宮ですけど……！\nもしかして、\n何か恨みでも！？"
+    },
+    {
+      "name": "Zane",
+      "text": "It's nothing personal.\nAnyway...",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "個人的な因果は無い。\nが……"
+    },
+    {
+      "name": "Zane",
+      "text": "I answered your question.\nSorry, but I'm in a hurry.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "そちらの用件には応えた。\n悪いが、\n先を急ぐ。"
+    },
+    {
+      "name": "Jun",
+      "text": "Halt!\nYou're not dismissed──",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "止まれ！\nみすみす行かせは──"
+    },
+    {
+      "name": "Zane",
+      "text": "—!",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "──っ。"
+    },
+    {
+      "name": "Jun",
+      "text": "What!?\n──Augh!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "何っ！？\n──あぐっ！"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Captain!?",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士たち",
+      "orig_text": "団長ぉっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Jun-san!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ジュンさんっ！？"
+    },
+    {
+      "name": "Royal Palace Knight 2",
+      "text": "You bastard!\nI won't forgive you!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士２",
+      "orig_text": "貴様っ！\n許さんぞ！"
+    },
+    {
+      "name": "Royal Knight 3",
+      "text": "Guooooooh!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士３",
+      "orig_text": "うおおおおっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "E-Everyone, hold on!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "み、\nみなさん待って！"
+    },
+    {
+      "name": "ゼーン",
+      "text": "──",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "──"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Gyaaaaaah!!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士たち",
+      "orig_text": "ぎゃああ～っ！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Y-You guys!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "み、\nみなさんっ！"
+    },
+    {
+      "name": "Zane",
+      "text": "I'm not going to stop.\nI can't let Azold or his friend down after they played decoy for my sake.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "足を止めるつもりはない。\n囮役となったアゾールドたちに、\n申し訳が立たないからな。"
+    },
+    {
+      "name": "Jun",
+      "text": "Your... Majesty...\nRun...please...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "へ、\nいか……\nお逃げ……\nくださ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でもっ……！"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "キャルちゃんたちは、\n戦ってる真っ最中で……\nネネカさんも、今はご自分の隠れ家ですし。\n王宮に向かうこの男を止められる人が、\n誰もいないっ……！　",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃんたちは、\n戦ってる真っ最中で……\nネネカさんも、今はご自分の隠れ家ですし。\n王宮に向かうこの男を止められる人が、\n誰もいないっ……！　"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I'm sorry, Jun-san.\nRoyal Equipment: Full power!!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……すみません、\nジュンさん。\n王家の装備、\nフルパワーですっ！！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll stop you, Rage Legion!\nYaaaaah!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "行きますよ、\n【レイジ・レギオン】！\nやあああーっ！"
+    },
+    {
+      "name": "Zane",
+      "text": "......\nYou shouldn't ignore the words of a fallen comrade.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……\n倒れた臣下の言葉を、\n無碍にするものではない。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Whoa!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わわっ！？"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "……いったたたぁ～……\nこ、\n子どもみたいにあしらわれちゃいましたよっ？\nこのゼーンってひと──\nまだ全然、\n本気じゃないのに！　",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……いったたたぁ～……\nこ、\n子どもみたいにあしらわれちゃいましたよっ？\nこのゼーンってひと──\nまだ全然、\n本気じゃないのに！　"
+    },
+    {
+      "name": "Jun",
+      "text": "Y-Your Majesty!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "へ、\n陛下っ……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Not yet...!\nJun-san, and everyone else, too...\nI'll keep you all safe, I swear it...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……まだ、\nです……！\nジュンさんたちも、\nみなさんも……\nわたしが\n絶対、\n守りますからっ……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Huh?\nThis light...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……えっ？\nこの光……！"
+    },
+    {
+      "name": "Zane",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "もしかして、\n{0}くんが目覚めたんでしょうかっ？\n確かめに行きたいですけど、\n今はっ……！　",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかして、\n{0}くんが目覚めたんでしょうかっ？\n確かめに行きたいですけど、\n今はっ……！　"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll be borrowing your power, {0}!\nChange: Princess Form!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "力を借ります、\n{0}くん！\nチェンジ・\nプリンセスフォーム！"
+    },
+    {
+      "name": "Zane",
+      "text": "...So this is the “mysterious power” Kariza was talking about.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……それが、\nカリザの言っていた『謎の力』か。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes!\nWith this, I should be able to fight you!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nこれなら、\nあなたとも戦えるはずです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Super full power, full throttle!\nPrincess Strike!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "超全力全開！\nプリンセスストライク──！！"
+    },
+    {
+      "name": "Zane",
+      "text": "──Hmph!",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "──っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "There's more where that came from!\nI'm not gonna stop!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まだまだまだまだっ！\nどんどん行きますよ～っ！"
+    },
+    {
+      "name": "Zane",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I did it!\n...!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やった！\n……！？"
+    },
+    {
+      "name": "Jun",
+      "text": "Your Majesty!\nBehind you!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "陛下！　\n後ろにっ！"
+    },
+    {
+      "name": "Zane",
+      "text": "──Hah!",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "──はっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kyaaaaah!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "きゃあああっ！"
+    },
+    {
+      "name": "Jun",
+      "text": "Your Majesty!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "陛下ぁっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "U-Ugh...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う、\nうぅ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "H-He's too strong...\nIs this guy a monster or something...? *cough* *hack*!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "つ、\n強すぎます……\n化け物ですか、\nこのひと……\nごほっ、\nごほっ！"
+    },
+    {
+      "name": "Zane",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……"
+    },
+    {
+      "name": "Jun",
+      "text": "Ugh...!\nI won’t let you hurt Her Majesty any more than you already have...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "くっ……！\n陛下を、\nこれ以上傷つけさせはしない……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Jun...-san...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ジュン、\nさん……っ。"
+    },
+    {
+      "name": "Zane",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Huh...?\nH-He left...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……えっ……？\nい、\n行っちゃいました……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm...\nDid he just let us go...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えーっと……\n見逃して、\nくれたんでしょうか……？"
+    },
+    {
+      "name": "Jun",
+      "text": "No... I doubt it.\nHe said he was in a hurry.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "いえ……\n違います。\n彼は言っていました、\n「先を急ぐ」と……"
+    },
+    {
+      "name": "Jun",
+      "text": "Since we can't get in his way anymore, he moved on...\nThat's probably what's going on here...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "我々が彼を邪魔できないなら、\nそれで良いと……\nそういうこと、\nなのでしょう……"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……！"
+    }
+  ]
+}

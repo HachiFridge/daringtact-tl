@@ -1,0 +1,817 @@
+{
+  "title": "Magical Remodeling! Monster Countermeasure Seminar",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, after finishing a monster extermination in Gio Teogonia, the three members of [Forestier] visited Grandpa Popo.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ある日、ジオ・テオゴニアでの\n魔物退治を終えた【フォレスティエ】の３人は、\nポポじいさんのもとを訪れていた。"
+    },
+    {
+      "name": "Misato",
+      "text": "The monster extermination request was successfully completed.\nI've also set up traps to keep monsters away, so it should be safe for a while...♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "依頼されていた魔物退治、\n無事に終わりました。\n魔物避けの仕掛けも置いておいたので、\nしばらくは安全なはずです……♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Whew, you saved me! Now I can focus on developing my mecha!\nMuch appreciated! So, what would you like as a reward?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いや～、\n助かった！\nこれでメカの開発に専念できるようになったわい！\n感謝感謝じゃの！　\nうむ、\n礼は何が良いかのう？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That green kid over there seems to be an archer.\nFor a reward, how about a new super-classified bow or a power arm that can pull the string super strong... Oh yes! How about making your eyes into super scopes──!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "そっちの緑の子は弓使いのようじゃの。\nならば報酬は新型超弩級弩弓か、\n弦を超強く引けるパワーアームか……\nそうじゃ！　\nいっそのこと目ン玉を超スコープに──！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Ahya!? Wh-wh-wh, why are you coming towards me!?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ふひゃぁ！？　\nななな、\nなんで私に近寄ってくるんです！？"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my~. Though it looks really strong, Aoi-chan can't be remodeled.\nHowever... can you grant me one request?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら～。\nとっても強そうだけど、\nアオイちゃんは改造できませんよ。\nでも……\n一つ\nお願いを聞いてもらえませんか？"
+    },
+    {
+      "name": "Narration",
+      "text": "A few days ago...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数日前……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Miss Mitsato~! We've taken care of all the monsters here!\nAoi-chan helped too~!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ミサト先生～！　\nこっちの魔物は全部片づけたよーっ！\nアオイちゃんも一緒なのだ～！"
+    },
+    {
+      "name": "Misato",
+      "text": "Hatsune-chan, Aoi-chan, good work.\nWe're done here as well. Are you both uninjured?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ハツネちゃん、\nアオイちゃん、\nお疲れさま。\nこっちも終わったところよ。\n二人とも、\n怪我はないかしら？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Yes! I sniped perfectly from behind the snacks,\nso none of the residents saw us!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "はいっ！　\nお菓子の物陰からばっちり狙撃したので、\n住人のみなさんにも姿は見られていません！"
+    },
+    {
+      "name": "Misato",
+      "text": "Fufufu, just as expected of Aoi-chan.\nBut you don't have to hide from the residents, you know?\nAlso, Hatsune-chan, are you okay without a nap?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "うふふ、\nさすがアオイちゃんね。\nだけど、\n住人のみなさんからは隠れなくてもいいのよ？\nそれとハツネちゃん、\nお昼寝しなくてだいじょうぶかしら？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hatsune-chan napped a bit on a fluffy person's belly~☆\nIt felt so nice♪",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ハツネちゃんは、\nもっふもふのひとのおなかで\nちょっとだけ昼寝させてもらったのだー☆\n気持ちよかったぁ♪"
+    },
+    {
+      "name": "Hatsune",
+      "text": "However, when I asked Fluffy-san to nap together, they said they're watching over because they're scared of monsters...\nIt would be nice if we could take a relaxed nap together.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "だけどね、\nもふもふさんたちも一緒にお昼寝しよ☆　\nって誘ったら、\n魔物が怖いから見張ってるって言うんだよね……\n一緒にゆっくりお昼寝、\nできたらいいのになー"
+    },
+    {
+      "name": "Misato",
+      "text": "Everyone is scared of monsters. If we could teach them how to escape skillfully like we do with the children of the Elf Forest...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "みんな魔物さんが怖いのね。\nエルフの森の子どもたちにしてるみたいに、\n上手に逃げる方法を教えてあげられたら……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I see! It's a seminar to learn ways to protect oneself from monsters☆\nIt's like the camping seminar Aoi-chan did before. Maybe we can do it in this world too!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そっか！　\n魔物から身を守る方法を教わる、\n講習会だね☆\n前にアオイちゃんがやったキャンプ講習と同じだよね。\nこっちの世界でもできそうかも！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Nice idea, Miss Mitsato♪ Let's start preparing already!\nFor everyone's nap time, let's go~☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ミサト先生ナイスアイデア♪　\n早速準備しようよ！\nみんなのお昼寝タイムのために、\nれっつごー☆"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So, we consulted Lyrael-san and decided to host an event for the town's people.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ってことで\nライラエルさんに相談して、\n街のみんなのためにイベントを開くことになったんだー"
+    },
+    {
+      "name": "Misato",
+      "text": "I want to teach them various ways to defend themselves from monsters.\nThat should ease their anxiety.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "魔物さんから身を守れるよう、\nいろいろな方法を教えてあげたいんです。\nそうすれば、\n不安も和らぐと思いますから。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I see, you've thought it through.\nSo it's time to showcase my invention!\nAlright, I'll lend a hand!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "なるほど、\nうまいことを考えるのう。\nそこでワシの発明品の出番\nというわけじゃな！\nよし、\n一肌脱いでやるぞ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Thank you, Grandpa Popo.\nI would like Grandpa Popo to make a doll for acting as a monster──",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ありがとうございます、\nポポおじいさん。\nポポおじいさんには、\n魔物さん役のお人形を作──"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "This would be perfect!\nThe ultra-ultra hammer that blows monsters away to Gehenna with one hit!\nThe output is the largest ever!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "それならこいつがもってこいじゃな！\n魔物を一撃でゲヘナの彼方まで吹っ飛ばす、\n超ウルトラハンマーじゃ！\n出力は今までで最大級！！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Watch closely.\nWhen you do this here, then this...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いいか、\nよぉく見ておれ。\nここをこうして、\nこうするとじゃな……"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh dear... it exploded...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあらあら……\n爆発しちゃったわね……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Gahaha!\nIt didn't go as expected, but with an explosion like this, any enemy would be done for!\nHow is it? Isn't it quite the anti-monster weapon?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっは！\nちっと想定と違ったが、\nこの爆発ならどんな敵でもイチコロじゃわい！\nどうじゃ？　\n対魔物兵器としてなかなかのもんじゃろ？"
+    },
+    {
+      "name": "Aoi",
+      "text": "N-n-n-n-no!\nI want a dummy model for practicing escaping from monsters instead!\nAnd explosions are dangerous!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "そそそそうじゃなくて！\n魔物から逃げる練習をするための\n張りぼて人形を\nお願いしたいんです～っ！　\nそれに\n爆発とか危ないですから！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I thought it was a good chance to show off...\nCan't be helped. Still, I've promised to accept it once.\nRest assured, I'll properly prepare a dummy doll!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "せっかくのお披露目の機会だと思ったんじゃがな……\n仕方ないのう。\nとはいえ\n一度は引き受けることを約束した身。\n安心せいっ、\nちゃーんと張りぼて人形を用意してやるぞい！"
+    },
+    {
+      "name": "Misato",
+      "text": "Thank you, Grandpa Popo.\nThen let's start preparing the venue.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ありがとうございます、\nポポおじいさん。\nそれじゃあ\n私たちは会場の準備を始めましょう。"
+    },
+    {
+      "name": "Misato",
+      "text": "Let's have the children move to the bushes where the monster doll is hiding after talking to them in the middle of the square.\nI'll demonstrate, so Hatsune-chan, please lead them.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "広場の真ん中で子どもたちにお話をしてから、\n魔物さん人形が隠れてる茂みのほうに行ってもらいましょうか。\n私はお手本を見せるから、\nハツネちゃんに誘導をお願いするわね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Okay☆\nFrom here, Hatsune-chan will guide the children!\nAoi-chan, I want you to work with Grandpa Popo to move the monster doll and alert everyone that a monster has appeared!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "了解っ☆　\nここから先はハツネちゃんが子どもたちを誘導するね！\nアオイちゃんは、\nポポおじいさんと一緒に魔物人形を動かしつつ\nみんなに魔物が出たことを知らせる係をしてほしいな！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Pyai!? W-w-will I do it!? Wow, that's an important task...!\nI, the BB Squadron Aoi, will do my best with this duty...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ぴゃいっ！？　\nわわわ、\n私がですかっ！？\nあわわわ重要な仕事ですね……！\n不肖ＢＢ団のアオイ、\nそのお役目\nがんばって務めますっ……！"
+    },
+    {
+      "name": "Aoi",
+      "text": "But what should we do...\nUntil Grandpa Popo completes the monster, our preparation options are limited.\nHey, My Friend-kun.",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "とはいえ\n一体どうしたものでしょう……\nポポおじいさんが魔物を完成させるまでは\n準備といってもできることは限られてるし。\nね、\nマイフレンドくん。"
+    },
+    {
+      "name": "My Friend-kun",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "マイフレンドくん",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Aoi",
+      "text": "Maybe practice alerting everyone of danger by pretending My Friend-kun is a monster...\nI need to properly think of lines, or in the moment, my head might go blank and I won't be able to speak...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "マイフレンドくんを魔物に見立てて、\nみんなに危険を知らせる\n練習でもするとか……\nちゃんと台詞を考えておかないと\n頭がフットーして\nいざって時に声が出ないと困りますよね……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh?\nWhat is that small robot? Did you make it?\nWhat a wonderful sense of design! The dedication to the details from a simple material!\nAnd the radiating aura! The creator's enthusiasm is conveyed!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ほう？　\nなんじゃその小型ロボは。\nオマエが作ったのかの？\nなんと素晴らしい造形美じゃ。\n素朴な素材にこだわりのディテール！\n而してあふれ出すオーラ！　\n作り手の熱意が伝わってくるようじゃ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Let me take a closer look.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "どれ、\nもっとよく見せておくれ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Wait a minute, Pine Tree Boy!!\nOr rather, just wait a minute!\nWhat are you doing!? The sudden close distance and the double punch of abducting my friend is too much!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ちょっと待ったの松太郎！！　\nじゃなくて\nちょっと待ってください！\nいきなりなんなんですっ！？　\n唐突な至近距離と友達の誘拐の\nダブルパンチは\nさすがに酷ですったら！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh, sorry, did I surprise you?\nI was curious about that doll.\nIs it your friend?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "おお、\nすまんの、\n驚かせたか。\nその人形が気になってしまってのう。\nこれはオマエの友達なんじゃな？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Umm, yes, but...\nWhat makes it so interesting to you?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "えっと、\nそうですけど……\n何がそんなに気になったんですか？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "No, I was struck the moment I saw it!\nI felt that the creator of this doll holds something similar to me.\nHow delightful, to meet a comrade here...!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いやあ、\n一目見てビビッときたんじゃよ！\nこの人形の作り手には、\nワシと同じものが宿っているようじゃ、\nとな！\nうれしいのう、\nこんなところで同志に出会えるとはのう……！"
+    },
+    {
+      "name": "Aoi",
+      "text": "The same thing...\nIs it... the loneliness spirit...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "おなじもの……\n……ぼっち精神……\nですか……？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "No, it’s not that.\nIt’s the inventor's spirit of frontier who is dedicated to a goal regardless of the sacrifice...\nIt's the Frontier Spirit!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "違うわい。\nそうではなくて\n何を犠牲にしても目標に向かう\n発明家の魂……\nすなわち\nフロンティアスピリットじゃ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Misunderstanding!\nI don't have anything that grand inside me!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ご、\n誤解です！\n私にはそんなたいそうなものは宿ってないですっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Don't be so modest.\nIt’s just that you don’t understand yourself yet.\nSo... Would you like to power up that doll?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "謙遜しなさんな。\nまだオマエが自分自身を分かってないだけのことよ。\nして……\nその人形、\nパワーアップさせるつもりはないかの？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Power up...?\nNot really...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "パワーアップ……？\n特に……\nないですけど……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Are you sure?\nThink deeply.\nEven if you are unaware, you must be seeking new power at the bottom of your heart...\nYou and that robot doll too.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "本当にそうか？　\nよーく考えてみるんじゃ。\n自覚はなくとも、\n心の底では新たな力を求めているはずじゃ……\nオマエも、\nそのロボット人形自身も。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Eh...? Even My Friend-kun...?\nI-I didn't know at all, My Friend-kun...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "えっ……？　\nマ、\nマイフレンドくんもですか……？\nそうだったの、\nマイフレンドくん……\n私全然知らなかった……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Listen closely. You can hear it, right? Its voice.\nWanting to become more powerful,\nmore resilient, greater... It wants power!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "耳を澄ましてみるんじゃ。\n聞こえるじゃろう、\nそいつの声が。\nもっと強力に、\n強靭に、\n強大になりたい\nと……\nパゥワァーが欲しい！　\nと！"
+    },
+    {
+      "name": "Aoi",
+      "text": "P-Power...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ぱ、\nパゥァ……？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Your voice is too quiet!\nSpeak louder! Power!!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "声が小さいぞいっ！\nさあもっと大きい声で！　\nパゥワァー！！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "P... Power!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "っ……\nパゥワァー！！！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That's right, again!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "そうじゃ、\nもう一回！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Power!!!...\nT-This is what My Friend-kun wants...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "パゥワァー！！！\n……\nこ、\nこれが\nマイフレンドくんの望み……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I can grant that wish, you know?\nWould you trust it to me?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ワシならその願い、\nかなえてやれるぞ？\n預けてみる気はないかの。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Understood... I'll leave it to you. \nPlease make my friend's wish come true!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "分かりました……\nそれならお任せします。\n私の友達の願いを、\n叶えてあげてください！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Okay, leave it to me. With my invention,\nI'll transform your partner into the best form! \nThen together, let’s make the safety seminar a success!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "うむ、\n任せろ。\nワシの発明で、\nオマエの相棒を最高の姿に仕上げてやろう！\nそして、\n一緒に例の安全講習とやらを\n成功させようではないか！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "はい！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, on the day of the seminar. Residents of Gio Teogonia gathered at the plains near the town.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、講習会の当日。\n街近郊の平原にジオ・テオゴニアの住民たちが集まっていた。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Everyone, thank you for gathering today! \nIt's time for a fun safety seminar~!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "みんな、\n今日は集まってくれてありがとう！\n楽しい安全講習の時間だよ～！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Even if a monster appears, I'll teach you the skills to escape safely without panicking☆ \nListen to Miss Misato's talk and try practicing!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "魔物が出てきたとしても、\nあわてず騒がず安全に\n逃げる技を教えるよ☆\nミサト先生のお話を聞いて、\n練習してみよう！"
+    },
+    {
+      "name": "Misato",
+      "text": "The monsters might be confused seeing us too. \nIn such cases, shouting loudly might rather provoke them. \nSo...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "魔物さんも私たちを見て、\n戸惑っているかもしれないわ。\nそういう時は、\n大声を出したりするとかえって刺激してしまうの。\nだからね……"
+    },
+    {
+      "name": "Misato",
+      "text": "To not startle them, let’s move away quietly and slowly. \nWhen you get nervous and scared, say 'Ara ara~♪' in your heart. \nReady, go!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "びっくりさせないように、\n静かにゆっくり離れましょうね。\nドキドキして怖くなっちゃったときは、\nあらあら～♪　\nって\n心の中で唱えてみてね。\nさん\nはい♪"
+    },
+    {
+      "name": "Giant Man",
+      "text": "I wonder if that will calm me down. \nAra ara~... \nOh, I indeed feel a bit more relaxed!",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "そんなので落ち着けるかなあ。\nあらあら～……\nおっ、\n確かにちょっと余裕ができるかも！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Ara ara~...♪ \nIt's true! This way, I feel like I can escape from monsters quietly!",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "あらあら～……♪\nほんとだわ！　\nこれならそーっと、\n魔物から逃げられそう！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yes, yes! Even if a scary monster appears,\nif you move calmly, you'll be fine! \nBut when a more dangerous monster appears...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うんうん！\nこわーい魔物が出てきても、\n落ち着いて動けば大丈夫だからね！\nだけど、\nもっと危険な魔物が出てきた時は……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Aoi-chan, Grandpa Popo! \nPlease!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "アオイちゃん、\nポポおじいさん！\nよろしくっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Th-There's a monster, a monster...! \nEveryone, make sure not to meet its eyes and run away!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "まっ、\n魔\n物です、\n魔物ですよ……っ！\nみなさん、\n目を合わせないように逃げてくださーいっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Grandpa Popo, please!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ポポおじいさん、\nお願いしますっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Yes, finally time for the show. \nI've been waiting for this.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "うむ、\nようやっとお披露目じゃな。\n待ちくたびれたわい。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Behold the reborn magnificent figure born from my invention! \nIts name is──",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "見るがいい、\nワシの発明で生まれ変わった雄姿を！\n名付けて──"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Super Ultimate Destruction Weapon, Gigantic Ultra Super Ultimate Destroyer-kun Mark Final - Final Battle Edition!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "超絶究極破壊兵器、\nギガンティックウルトラスーパーアルティメット\nデストロイヤーくん\nマークファイナル・\n最終決戦仕様じゃ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Uwaaaahhhhhh!! My Friend-kun!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "うええええぇぇぇぇぇぇっ！？\nマイフレンドくーーーーん！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "S-something incredible showed up!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "な、\nなんかすごいの出てきたー！！！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my oh my... Quite a large monster doll, isn't it~",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあらあら～……\nずいぶん大きな魔物さん人形ね～"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Grandpa Popo truly made something amazing!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ポポおじいさん、\nほんとにすごいのを作ってくれたのだ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Ahh... This is... \nis this the power...? \nMy Friend-kun's dream...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あ、\nあああ……\nこれは……\nこれが……\nパゥワァ……？　\nマイフレンドくんの、\n夢……？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "How is it! \nMy latest masterpiece! \nIsn't it cool!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "どうじゃいっ！　\nワシの最新傑作は！\nかっこよかろうっ！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "I've never seen such a monster! \nIt's frightening...!",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "あんな魔物、\n見たことないよ！\nこ、\n怖い……！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "It's okay, calm down. \nI'm sure that’s just a dummy made by Grandpa Popo.",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "大丈夫よ、\n落ち着いて。\nきっとあれは\nポポじいさんが作った張りぼてよ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Alright, everyone. \nThe monster seems not to have noticed us, right? \nLet's quietly, quietly escape~ \nReady, go!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "さあ、\nみんな。\n魔物さんはこっちに気が付いてないみたいよ？\nそーっと\nそーっと、\n逃げましょうね～\nさんはい♪"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Ara ara~ \nY-yes... I'm not scared...!",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "あらあら～\nよ、\nよし……\n怖くないぞ……っ！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Ara ara~ \nThat's right, calmly and slowly, slowly...",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "あらあら～\nそうね、\n落ち着いてゆっくり、\nゆっくり……"
+    },
+    {
+      "name": "魔物",
+      "text": "──…………",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──…………"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yes, yes, it’s going well! \nWait... Huh? \nHow many monster dolls did Grandpa Popo make?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うんうん、\n順調だね！\nって……\nあれ？\nポポおじいさんの作った魔物人形って、\nいくつ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Of course, just one. \nYou think I could easily produce another masterpiece like this!?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "一体に決まっとろうが。\nこんな渾身の傑作、\nそうそう簡単に作れるわけがなかろう！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Does that mean this is a real monster...!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ってことは、\nこれは本物の魔物……\nってことー！？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Aaaaaa! Monsters are coming this way too!!",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "うわあああ！　\nこっちにも魔物が来た！！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Eh? Is this also not a doll?",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "えっ？　\nこれも人形じゃないの？"
+    },
+    {
+      "name": "Misato",
+      "text": "Even if they're real monsters, it's fine. \nLet's calmly escape without being seen. \nAra ara~...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "魔物さんが本物でも、\n大丈夫よ。\nさぁ、\n落ち着いて、\n見つからないように逃げましょうね。\nあらあら～……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ara ara~♪ \nYeah, everyone is evacuating smoothly☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あらあら～♪\nうん、\nみんな順調に避難できてるのだ☆"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Oh, no, there's a child who's slow to evacuate over there! \nWe need to help quickly...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……ダ、\nダメですっ、\nあそこに一人避難が遅れてる子が！\n早く助けに……！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Just hold on. \nThis is exactly when you need to stay calm. \nYou know? I have something prepared just for such occasions!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "まあ待て。\nそういう時こそ\n冷静沈着、\nというものじゃ。\nいいかの？\nこういうこともあろうかとっ！　\nちゃーんと\n準備してあるのじゃ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "When you press this button...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "このボタンを\nぽちっとするとじゃな……"
+    },
+    {
+      "name": "Destroyer-kun",
+      "text": "Gagagagaga!!!",
+      "choice_data_list": [],
+      "orig_name": "デストロイヤーくん",
+      "orig_text": "ガガガガガッ！！！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Wow... the monster just got blown away...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "わあ……\n魔物、\n消し飛んじゃった……"
+    },
+    {
+      "name": "Aoi",
+      "text": "Ah, ahhhhh... \nThis is... Power...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あわ、\nあわわわわ……\nこれが……\nパゥワァー……"
+    },
+    {
+      "name": "Giant Man",
+      "text": "That was super cool, this doll!! \nIs it your partner? \nIt's not playing the monster role, it's a hero!!",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "すげえかっこよかったな、\nこの人形！！\nあんたの仲間なのか？\n魔物役じゃなくて\n正義の味方だよな！！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Your friend is really strong. \nAmazing. \nSorry for calling it a dummy.",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "あなたのお友達、\nとっても強いのね。\nすごいわ。\n張りぼてなんて言って、\nごめんなさいね。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Y-yeah... \nthat’s good but... still, still...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "は、\nはひっ……\nそ、\nそれはよかったですけど……\nでも、\nでもっ……"
+    },
+    {
+      "name": "Aoi",
+      "text": "Uuuu... \nMy Friend-kun has changed so much...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ううぅ……\nマイフレンドくんが、\n変わり果てた姿に……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It’s okay, it’s okay♪ \nEven if the appearance changes, it doesn't change the fact that Aoi-chan's friend remains your friend!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "大丈夫大丈夫♪\n見た目が変わっても、\nアオイちゃんの友達なことには\n変わりないんだから！"
+    },
+    {
+      "name": "Aoi",
+      "text": "R-really...? \nBut what should I call him from now on...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "そ、\nそうでしょうか……\nだけど私は\nこれから彼のことを何と呼べば……"
+    },
+    {
+      "name": "Misato",
+      "text": "Super Ultimate Destruction Weapon,\nGigantic Ultra Super Ultimate Destroyer-kun... \nIs quite long...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "超絶究極破壊兵器、\nギガンティックウルトラスーパーアルティメット\nデストロイヤーくん……\nは、\nちょっと長いのよね……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "What are you saying? \nMy Friend-kun is My Friend-kun. \nNothing has changed.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "何を言う。\nマイフレンドくんはマイフレンドくんじゃ。\n何も変わってなどおらんぞ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh!? \nBut Grandpa Popo, you're the one who modified him so big!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "へっ！？　\nだだだって、\nあんな大きく改造したのはポポおじいさんじゃないですか！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Look closely. \nYou can see My Friend-kun in the core, right? \nI said I'd power it up, but I never said anything about modifying it.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "よぅく見てみろ。\nコア部分にマイフレンドくんがいるじゃろ。\nワシはパワーアップさせるとは言ったが、\n改造などとは\n一言も言っておらん。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "He did a great job as a pilot. Praise him as much as you want.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "立派にパイロットを務めてくれたんじゃ。\n存分にねぎらってやってくれ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Welcome back, My Friend-kuuuunnn!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "おかえり\nマイフレンドくうぅぅぅぅん！！！"
+    },
+    {
+      "name": "My Friend-kun",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "マイフレンドくん",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ah, well... And with that, everything is resolved, right!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えー\nっと……\nこれにて一件落着、\nだねっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Hmm... But as expected, in the critical moment,\nhaving just the escaped core fight is more romantic.\nNow let's modify My Friend-kun with a machine gun and a self-destruct mechanism...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ふむ……\nじゃがやはり、\nいざというときは\n脱出したコアだけで戦うのがロマンというものじゃのう。\nよぉーし\n今度こそ\nマイフレンドくんを改造して\n機関砲と自爆装置を……"
+    },
+    {
+      "name": "Aoi",
+      "text": "No! Absolutely not!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ダメですっ！　\nダメったら\nダメですーーー！！！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my. Calm down, Aoi-chan.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら。\n落ち着いて、\nアオイちゃん。"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, Aoi's scream echoed across the Gio Teogonia plaza on the day of the completed safety seminar.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "無事に安全講習を終えたジオ・テオゴニアの広場に、\nアオイの叫びが響き渡るのだった。"
+    }
+  ]
+}

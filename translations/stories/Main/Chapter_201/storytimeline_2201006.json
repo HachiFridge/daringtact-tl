@@ -1,0 +1,698 @@
+{
+  "title": "Part 3 Ch. 1 Ep. 6",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and his companions, who had entered the \"world's other side\" with a request from the Adventurer Beginners Guild, encountered their first person there...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "冒険初心者ギルド【アルターメイデン】の依頼を受け、\n彼女たちとともに『世界の裏側』に突入した{0}たち。\nそこで、最初に出会った人物は──"
+    },
+    {
+      "name": "Croce",
+      "text": "Hello~♪\nI'm Croce!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "こんにちはー♪\nわたし、\nクローチェっていいますっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "And you all are?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "みなさんはっ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hey there!☆\nI'm Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "オイッス☆\nわたし、\nペコリーヌです！"
+    },
+    {
+      "name": "Karyl",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Riri",
+      "text": "Thank you very much for your courtesy, Miss Croce. I am an Alter Maiden, my name is Riri.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ご丁寧に\nありがとうございます、\nクローチェ様。\nわたくしは\n【アルターメイデン】の、\nリリと申します。"
+    },
+    {
+      "name": "Quria",
+      "text": "I'm Quria from Alter Maidens too.\nNice to meet you♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "同じく、\nクリアです。\nよろしくお願いします♪"
+    },
+    {
+      "name": "Precia",
+      "text": "Precia.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "プレシア。\nです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm my Lord's attendent, Kokkoro. Thank you very much for assisting my Lord earlier, I truly appreciate it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまの従者の、\nコッコロと申します。\n先程は\n主さまをお助けいただいたようで、\n本当にありがとうございました。"
+    },
+    {
+      "name": "Croce",
+      "text": "No worries! It looks like you all are uninjured, so that's great. We were really surprised when you all fell from the sky!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "いえいえっ♪\nお怪我がないみたいで、\nなによりですっ。\nみなさん空から降ってきて、\nビックリしちゃいましたよ～！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We were quite surprised too. We never expected that the depths of the earth would lead to a place like this...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちも、\n大変驚きました。\nまさか、\n地の底が\nこのような場所に通じていたとは……"
+    },
+    {
+      "name": "Quria",
+      "text": "We were supposed to be heading downwards through the cave.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "洞窟の下のほうに向かっていたはずですもんね、\nわたしたち。"
+    },
+    {
+      "name": "Riri",
+      "text": "But along the way, we passed through a strange space-like area... and then suddenly found ourselves thrown into the sky.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "途中で、\n奇妙な道のような空間を通って……\nそして\n気が付けば、\n空中に投げ出されてしまっていて。"
+    },
+    {
+      "name": "Croce",
+      "text": "Oh, I see! That must have been tough.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "へ～っ、\nそうだったんですかぁ。\n大変だったんですねっ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You guys... even though we're in an unfamiliar place and meeting for the first time, you seem really relaxed...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ちょっとあんたたち。\n知らない場所で、\n初対面の相手だってのに気を抜きすぎでしょ──\nって\n言いたいとこだけど。"
+    },
+    {
+      "name": "クローチェ",
+      "text": "？？",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "？？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...It feels like there's no point in being wary...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……なんか、\n警戒してもムダっぽい感じがすごいわね……"
+    },
+    {
+      "name": "Quria",
+      "text": "Kyaru?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "キャルさん？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Um, Croce, was it? I just want to confirm, but you're not thinking of trying to drive us away, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "んっと、\nクローチェ\nだっけ？\nいちおー聞いとくけど、\nあんた別に、\nあたしたちを追い返そうとか考えてないわよね？"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh!?\nNo way~!\nYou guys wouldn't attack me or anything, right?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えっ！？\nそんなことしませんよ～っ！\nみなさんも、\nわたしを襲ったりとかなんてしないですよね？"
+    },
+    {
+      "name": "Precia",
+      "text": "Don't worry.\nWe won't harm you.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "だいじょぶ。\nおそわない。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yeah!\nWe just came here to find some delicious food!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nわたしたち、\nおいしいごはんを探しに来ただけですから！"
+    },
+    {
+      "name": "Riri",
+      "text": "Oh, is that so...?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "そ、\nそうだったのですか……？"
+    },
+    {
+      "name": "Croce",
+      "text": "I see!\nThat's a relief♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "なるほど！\nそれなら良かったですっ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "...This carefree attitude. It's like we've gained more Ahorine's, and it's giving me a headache...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……このお気楽っぷり。\nアホリーヌが増えたみたいで頭痛いわ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hah, so tired.\nI need a little break~",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はー\nどっ\nこいしょ。\nあたしちょっと休憩～"
+    },
+    {
+      "name": "Precia",
+      "text": "Me too.\nPata.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "わたしも。\nぱた。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Wait a moment, Miss Kyaru, Miss Precia. I think we had some medicine to enhance our recovery in our luggage...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "少々お待ちを\nキャルさま、\nプレシアさま。\n回復力を高めるおくすりが、\nたしか荷物の中にあったかと……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ugh, it tastes so bitter, I don't want to drink it... and it's expensive too. But I guess as a magic user running out of magic, I'm useless...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うぇ。\nそれニガいから飲みたくないのよねー\n高いし。\n……でも、\n魔力切れの魔法使いなんて役に立たないし……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Uh, bitter... Precia, are you having some too?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "は～\nマッズ。\n……プレシア、\nあんたも飲む？"
+    },
+    {
+      "name": "Precia",
+      "text": "...*shakes head*",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "（……ふるふる）"
+    },
+    {
+      "name": "Pecorine",
+      "text": "While we were coming here, there were so many monsters that Kyaru was about to run out of energy, but... now, it seems pretty peaceful around here...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ここまで来るあいだ、\n魔物がいっぱいで\nキャルちゃんがスッカラカンになっちゃうくらいでしたけど。\nでも、\nこのへんは平和みたいですし──"
+    },
+    {
+      "name": "Quria",
+      "text": "It was very fortunate that our first encounter was with someone like Croce. If you're okay with it, we'd like to be friends...♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "最初にお会いできたのが\nクローチェさんのような方で、\nとっても幸運でしたよね。\nよろしければぜひ、\nお友だちになりたいです……♪"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow~!\nDefinitely, let's do that, become friends~!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わぁ～っ！\nぜひぜひそうしましょうっ、\nなりましょうっ♪"
+    },
+    {
+      "name": "Quria",
+      "text": "Sounds good!\nSo, should we shake hands?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "よかったぁ♪\nふふっ、\nそれじゃあ\n握手なんてしてみます？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Or maybe a hug?\nKyaru really loves hugs~!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それともハグですかねっ？\nキャルちゃんはハグが大好きなんですよ～っ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh?! You'll be misunderstood, you idiotic Ahorine...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁっ！？\n誤解されるでしょーがアホリーヌっ……"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah, I'm sorry! My handshakes and hugs are a bit dangerous, you see... I have too much strength, or rather, I'm really bad at controlling it.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\nごめんなさいっ！\nわたしの握手やハグ、\nちょっとあぶないんですよ～っ。\n力が余りすぎっていうか、\n加減がすっごいヘタっぴなのでっ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Oh, is that so?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "えっ、\nそうなんですか？"
+    },
+    {
+      "name": "Croce",
+      "text": "Yes, it is. So, so... I'm sorry I can't give you a hug, Kyaru~!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "そうなんですっ。\nだからだから……\nハグしてあげられなくてすみません、\nキャルさん～っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Too bad, Kyaru...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "残念でしたね、\nキャルちゃん……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Why do I feel like I got rejected?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんであたしがフラれたみたいになってんのよーっ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...I've been quite curious since earlier. Miss Croce, your hands and your body...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……先程から、\n大変気になっていたのですが。\nクローチェさまの手やお身体は、\nその……"
+    },
+    {
+      "name": "Riri",
+      "text": "They're wearing very large gauntlets, aren't they? You must be quite strong.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "とても大きな籠手ですよね。\n力持ちとおっしゃるだけのことはあります。"
+    },
+    {
+      "name": "Quria",
+      "text": "Riri, not like that...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "リリちゃんっ、\nそうじゃなくって……"
+    },
+    {
+      "name": "Croce",
+      "text": "Oh, you mean about my body?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\nわたしの身体のことですかっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "Guess what? I'm a bit unusual, even in \"Gio Teogonia\" - I'm an Automaton!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "なんとなんとっ！\nわたしは『ジオ・テオゴニア』でもちょっと珍しい、\n機械人族なんですよ～っ！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Automaton?",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "機械人族っ？"
+    },
+    {
+      "name": "Kokkoro&Riri",
+      "text": "Gio Teogonia...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・リリ",
+      "orig_text": "ジオ・テオゴニア……？"
+    },
+    {
+      "name": "Croce",
+      "text": "Um, um?\nThere weren't any like me?\nIn your world... um, above the sky?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えっとえっとっ？\nわたしみたいなのはいなかったんですかねっ？\nみなさんの世界……\nえっと、\nお空の上には？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, we're not exactly in a sky world to begin with.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そーね。\nそもそも空の世界じゃないけどね、\nあたしらが来たのって。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes.\nOn the Astraia Continent, there were talking golems and such...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nアストライア大陸にも、\n喋るゴーレムなどはおりましたが……"
+    },
+    {
+      "name": "Croce",
+      "text": "Haha,\nbut I'm not a golem~",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あははっ。\nわたしはゴーレムじゃないですよ～っ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh? But, I might be somewhat similar in a way. I don't need food, I like serving my master, and I don't bleed...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……あれっ？　\nでも、\nちょっと近いところもあるかもしれません。\nごはんはいらないですし、\nご主人さまに仕えるのが好きで、\n血とかは出なくて……"
+    },
+    {
+      "name": "Croce",
+      "text": "Wait a sec?\nMaybe I'm indeed a golem after all!\nAhaha~",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あれあれっ？\nもしかしてわたしって、\nゴーレムみたいなものかもですねっ！\nあははっ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "\"Ahaha~,\" you are really...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あははって、\nあんた……"
+    },
+    {
+      "name": "Croce",
+      "text": "I'm sorry. I don't really get worried about things, and I don't get sad or angry much either.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "すみませんっ、\nわたしあんまり悩んだりしないタイプなのでっ。\nついでに悲しんだりとか怒ったりもあんまりなんですけどっ。"
+    },
+    {
+      "name": "Riri",
+      "text": "Composure... or perhaps, unperturbedness would be the word. I think it's a wonderful attitude to have.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "泰然自若……\nいえ、\n従容自若と言うのでしょうか。\n素晴らしい気構えだと思います。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "And... you mentioned \"Gio Teogonia.\" Is that the name of Miss Croce's country?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それに……\n『ジオ・テオゴニア』\nとおっしゃっておられましたが。\nそれがクローチェさまの国のお名前なのでしょうか？"
+    },
+    {
+      "name": "Croce",
+      "text": "That's right~ Or should I say it's more like the world of Gio Teogonia? By the way, this place is around the west side of Aparelle Highway in \"Gio Teogonia.\"",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "そうですよ～っ、\n国っていうか世界？　\nなんですかねっ？\nちなみにここは『ジオ・テオゴニア』の、\nアパレーユ街道の西側あたりですっ。"
+    },
+    {
+      "name": "Riri",
+      "text": "Gio Teogonia, huh? It seems like such a nice place, warm and picturesque... Very pleasant.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "『ジオ・テオゴニア』、\nですか。\n温暖で、\n風光明媚で……\nとても過ごしやすそうな、\n素敵な場所です。"
+    },
+    {
+      "name": "Quria",
+      "text": "At first glance, it looks like a leisurely tourist destination. My grandmother would have loved to come along...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ぱっと見だと、\nのんびりした観光地っていう感じですよね。\n……うちのおばあちゃんも、\nいっしょに来れたらよかったなぁ……"
+    },
+    {
+      "name": "Croce",
+      "text": "Ehehe, thank you very much~♪ It feels nice to have someone praise where I live!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えへへっ、\nありがとうございますっ♪\n自分の住んでるところを褒めてもらえると、\nうれしいですねっ！"
+    },
+    {
+      "name": "Precia",
+      "text": "So, Croce, easygoing?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "だから、\nクローチェも、\nのんびり？"
+    },
+    {
+      "name": "Croce",
+      "text": "What?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Is Miss Croce's relaxed personality influenced by the nature of Gio Teogonia?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "『ジオ・テオゴニア』の土地柄が、\nクローチェさまのおおらかな性格に\n影響を与える\nということでしょうか。"
+    },
+    {
+      "name": "Croce",
+      "text": "I see! That might be true!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "なるほどっ、\nそれはあるかもしれないですねっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah, but recently, I've been having a little bit of trouble.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\nでもでもっ。\n最近ちょっと、\n困っちゃってるかも？\nなことがあって──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What do you mean by that?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っていうと？"
+    },
+    {
+      "name": "プレシア",
+      "text": "…\nまもの。",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "…\nまもの。"
+    },
+    {
+      "name": "Croce",
+      "text": "What?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えっ？"
+    },
+    {
+      "name": "Quria",
+      "text": "Precia, which way are they coming from?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "プレシアちゃん、\nどっちからですかっ？"
+    },
+    {
+      "name": "Precia",
+      "text": "n──",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ん──"
+    },
+    {
+      "name": "Precia",
+      "text": "Above.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "上から。"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ugh! Why are these Astrum monsters here?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うえぇっ！？\nなによこいつら、\nアストルムの魔物じゃないのっ！！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "! It seems that there's a hole appearing in the sky that's different from the one we came through... and monsters are falling from it!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "！\n上空に、\nわたくしたちが通って来たものとは\n違う穴が出現している模様です……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "They're coming from there, right?\nWait...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そこから降って来ちゃってるわけですね！\nって……"
+    },
+    {
+      "name": "Croce",
+      "text": "Um, um!\nFor those new folks! Hello~!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えーっとっ。\n新しく来たみなさん、\nこんにちはーっ！"
+    },
+    {
+      "name": "Riri",
+      "text": "Miss Croce!\nThat is dangerous, don't approach the monsters so casually...!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "クローチェ様っ！？\n危険です、\n無警戒に魔物へ歩み寄っては……！"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh?\nAren't these people your friends?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あれっ？\nこの方たちは、\nみなさんのお友だちじゃないんですかっ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's no way that's true!\nYou're way too carefree, you know!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "んなわけあるかーっ！\nおおらかにもほどがあるでしょうがあんたっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Is that so?\nBut maybe if we talk, we can understand each other...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "そうなんですかっ？\nでもひょっとしたら、\n話せばわかるかもしれませんしっ──"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Hyaa!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ひゃあっ？！"
+    },
+    {
+      "name": "Quria",
+      "text": "Watch out!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あぶないっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Quria",
+      "text": "...Wait...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……って……"
+    },
+    {
+      "name": "Riri",
+      "text": "The monster that was about to attack Miss Croce was sent flying like a spinning top...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "クローチェ様を襲わんとした魔物が、\n弾かれた独楽のように飛んでいってしまいました……"
+    },
+    {
+      "name": "Croce",
+      "text": "I'm so sorry!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ごめんなさ～いっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "I can't help but say this, but... even so!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "って、\nつい言いたくなっちゃうんですけどっ。\nでもでもっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "If you guys are \"wild monsters,\" I'll take you down as Miss Lyrael's Chevalier!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あなたたちが「あばれる魔物さん」だったら、\nわたしがやっつけちゃいますよっ！\nライラエルさまの、\nシュヴァリエとしてっ！"
+    },
+    {
+      "name": "Monsters",
+      "text": "──Roooooooooooar!\n──Roooooooooooar!\n──Roooooooooooar!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！\n──グオオオオオッ！\n──グオオオオオッ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's no way one of them can handle this alone! Oh well...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あいつ一人じゃ多勢に無勢だわ！\nし\nょうがない……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru, are you okay?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\n大丈夫なのですかっ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I haven't recovered much, but I don't have a choice! I'll take them down right away! {0}!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんま回復してないけど、\nやるっきゃないでしょ！\n速攻でぶちのめすわ！\n{0}っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Riri, please protect {0}!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "リリちゃんたちは、\n{0}くんを守ってあげてください！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We'll assist you, Miss Croce!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちが助太刀いたします、\nクローチェさま！"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow, thank you all~! I'll do my best too~!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わぁっ、\nみなさんありがとうございますっ♪\nわたしもがんばりますよ～っ！"
+    }
+  ]
+}

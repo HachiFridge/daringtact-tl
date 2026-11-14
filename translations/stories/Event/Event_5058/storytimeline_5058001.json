@@ -1,0 +1,845 @@
+{
+  "title": "The Wavering Daily Life",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After having finished defeating the monsters,\nthe \"Gourmet Guild\" has returned to Landosol.\n{0} and the others once again have\nanother typical morning.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔物討伐を終え、ランドソルへと帰ってきた【美食殿】。\n{0}たちは再び、いつも通りの朝を迎える。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*yawn*...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふぁ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh, it's later than usual...\nIt seems I've overslept a bit.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おや、\nいつもより日が高い……\n少々寝過ごしてしまいましたか。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Perhaps I went overboard with defeating those\nmonsters yesterday, and I've built up a bit\nof fatigue...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "昨日は\n魔物討伐で張り切り過ぎて、\n疲れが溜まってしまったのでしょうか……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Now then, I should go wake up my Lord...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "さて、\n主さまを起こして差し上げないと……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord...!\nGood morning.\nI can't believe you've woken up before me...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……！\nおはようございます。\nわたくしが起こす前に\n起きていらっしゃるなんて……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm very sorry.\nIt's unbefitting of me as your guide to be oversleeping...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "申し訳ありません。\n主さまを導く従者たる者が、\n寝過ごしてしまうなんて……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I-I'd appreciate it if you woke me up,\ninstead of just looking at me...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そ、\nそういう時は眺めるのではなく、\n起こしていただけると、\nその……\nありがたいです……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You were watching me sleep...?\nH-How embarrassing...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "寝顔を見ていたのですか……？\nは、\n恥ずかしいです……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kokkoro! Kyaru! {0}!\nBreakfast is ready!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "コッコロちゃーん！　\nキャルちゃーん！\n{0}くーん！\n朝ごはんできましたよー！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Up early as usual I see, Miss Pecorine.\nNow then, my Lord. Shall we go?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペコリーヌさまは\nいつも早起きですね。\nでは主さま。\n参りましょうか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, good morning ♪ Kokkoro, {0}.\nFor breakfast,\nI tried frying the leftovers of the delicacy from yesterday☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ、\nおはようございます♪\nコッコロちゃん、{0}くん。\n今日のごはんは、\n昨日の珍味の残りを炒めてみました☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I look forward to eating it.\nMiss Pecorine, I apologize for leaving all of the preparations for breakfast to you.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それは楽しみでございますね。\nペコリーヌさま、\n朝食の準備を全てお任せしてしまい\n申し訳ありません。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't worry about something like that, Kokkoro.\nBeing able to eat with everyone is basically what I live for ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そんなこと気にしないでくださいコッコロちゃん。\nみんなでごはんを食べるのは、\nわたしの生き甲斐みたいなものですから☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?\nIs Kyaru still not here?\nMaybe she's still sleeping...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あれ？　\nキャルちゃんはまだですか？\nもしかして\nまだ寝てるんですかね……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Perhaps I should go wake her up...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくし、\n起こしてきましょうか……"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm awake...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "起きてるわよ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kyaru! Good morning ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃん！\nおはようございます☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Yeah, morning.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……うん、\nおはよー"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru... Are you not feeling well?\nUmm...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま……\n体調でも悪いのですか？\nその……"
+    },
+    {
+      "name": "Karyl",
+      "text": "What do you mean [i]weird[/i]!? Don't you mean I look exhausted!?\nWhy do you have to insult me right after I wake up!?\nI'll kill...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "顔が変ってなによ\n顔色が悪い、\nでしょ！\nなんで朝っぱらから軽めに悪口言われなきゃなんないのよ！\nぶっ殺……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Geez, don't make me yell...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……も～、\n大声出させないでよね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Are you really feeling alright, Kyaru?\nCan you eat breakfast...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "本当に大丈夫ですかキャルちゃん？\n朝ごはん、\n食べられますか……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I think I'll... pass.\nSorry for making you go through all the trouble...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと……\nやめとくわ。\n用意してもらって悪いけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's fine!\nI'll make you some easy-to-eat porridge to eat later! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "大丈夫ですよ！\nあとで食べやすいおかゆでも作って\n持っていきますね♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Thanks.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ありがと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Then Miss Kyaru, make sure you rest in your room.\nHere, please take my hand.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ではキャルさま、\n部屋の方でお休みいたしましょう。\nどうぞ、\nわたくしの手を。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Sorry about that, Korosuke.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "悪いわねー、\nコロ助。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm... Was it because of the delicacy from yesterday...?\nI made sure to remove the poison,\nand I made sure to taste test it too...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う～ん。\n昨日食べた珍味が悪かったんですかね……？\n毒抜きはしっかりしましたし、\n毒見もしたので\n大丈夫なはずなんですけど……"
+    },
+    {
+      "name": "Karyl",
+      "text": "No, it's not like it's my stomach that's hurting...\nIt's more like, since this morning, my body's magic's all...\nWell I guess you wouldn't get it if I explained it.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いや、\nお腹が痛いとかそういうのじゃないのよね……\n今朝からなんか体の中の魔力が……\nって言っても\n分かんないわよね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "And wait, I heard that, you said it was poisonous!?\nYou didn't mention this!\nAre you kidding me, Dumborine!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っていうか\nそれより聞き捨てならないんだけどっ、\nあいつ毒あったの！？　\nなんにも聞いてないわよ！？\nふざけんなこのアホリーヌー！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "M-Miss Kyaru!\nPlease don't struggle so much... You shouldn't push yourself...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャ、\nキャルさま！\n暴れないでくださいまし……\n無理をしてはいけません……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Ugh...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……うぅん……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "She fell asleep right away...\nMiss Kyaru seems to be in pain.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "すぐに眠ってしまわれましたが……\n苦しそうですね、\nキャルさま。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Before the doctor arrives,\nI'll try borrowing the spirit's power to use healing magic.\nIt'd be nice to be able to ease her pain, even a little.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お医者さまがいらっしゃる前に、\n精霊の力を借りて\n治療魔法を試しておきましょう。\n少しでも\nキャルさまのお体を楽にさせてあげられたらよいのですが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "コッコロ",
+      "text": "？　\n何でしょう、\n力が、\n上手く……\n精霊が、\n現れない……？　",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "？　\n何でしょう、\n力が、\n上手く……\n精霊が、\n現れない……？　"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Focus more...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "も\nっと、\n集中を……！"
+    },
+    {
+      "name": "Black Spirit",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "黒い精霊",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You... from yesterday!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あなたは、\n昨日の……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ugh, uhh...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うぅ、\nんんっ……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru!?\nYou're in even more pain than before...!\nWhy in the world...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま！？\nさっきよりも、苦しそうに……！\n一体、なぜ……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are you okay, Miss Kyaru!?\nMiss Kyaru...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "大丈夫でございますか、\nキャルさま！\nキャルさま……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "What...?\nYou're so loud...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "な、\nによ……？\nうるさいわねー……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru!\nHow are you...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま！\nお体の方は……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Who?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……誰？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh? ...You're...\nUhh, Korosuke... right?\nSorry, I'm kinda dazed right now.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あれ……\nあんた……\nううん、\nコロ助……\nよね。\nごめん、\nなんかボーっとしてたわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Maybe it's because I'm in such bad shape.\nI wasn't sure who you were there. I must really be out of it.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "体調不良のせいかしら。\nあんたの顔が分からないなんて、\n我ながらボケてるわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I-It's fine...More importantly,\nI was worried because of how much pain you were in...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "い、\nいえ……\nそれより、\n急に苦しみ始めたので、\nわたくし、\n心配で……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Geez, what a worrywart.\nDon't worry about it, I'll be fine, I'll be fine.\nI can just sleep this kind of thing off...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく\n心配性ねー\nそんな心配しなくても平気よ、\n平気。\n寝てたら治るわよ、\nこの程度……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Y-Yes...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "は、\nはい……"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm gonna sleep a bit more, so go ahead and have breakfast.\nI'm sure Pecorine's waiting for you.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "少し寝るから、\nあんたは朝ごはんを食べてきなさい。\nペコリーヌのやつ、\n絶対待ってるわよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...I understand.\nThen, I'll come back later to see how you're doing...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……分かりました。\nでは、\nまたあとで様子を見に来ますので……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Mhhm...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……んー"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I wonder if Miss Kyaru's going to be alright...?\nAnd what is this feeling? I feel uneasy about all of this...\nI feel as if something has started happening around me...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\n大丈夫でしょうか……\nそれに何でしょう、\nなにか胸騒ぎがいたします……\nわたくしの周りで\nなにかが起こっているような……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thank you for the meal☆\nNow that we're full, we'll be able to make it to lunch just fine ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ごちそうさまでした☆\nお腹いっぱい、\nこれでお昼ごはんまで元気いっぱいです♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Pecorine, my Lord.\nI was planning on going out to buy ingredients to help Miss Kyaru feel better...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペコリーヌさま、\n主さま。\nわたくしこれから、\nキャルさまに元気になっていただくため、\n食材の買い出しに行こうと思うのですが……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And I'll go too... Or that's what I'd like to say,\nbut I can't just leave Kyaru all by herself.\nCan I leave it up to you and Kokkoro?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "だったらわたしも一緒に～\nって言いたいところですけど、\nキャルちゃんを一人で残していくわけにはいきませんね。\nじゃあ\nコッコロちゃんとあなたにお任せしてもいいですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll make up for it by putting my all into cooking it.\nIt'll be so good, Kyaru will have hopped right out of bed ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "料理の方は、\nわたしが腕によりをかけて作りますので。\nキャルちゃんが飛び起きるくらい\nおいしいごはんを♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, we'll leave Miss Kyaru to you then.\nLet us go, my Lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\nキャルさまのことを\nお願いいたしますね。\nでは主さま、\n参りましょう。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hehe.\nI can't let you hold [i]all[/i] the heavy things.\nLet's split it half and half...♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふっ。\n主さまに\n重い荷物を全て持っていただくわけには参りません。\n半分ずつ\n分け合って持ちましょう……♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Let's start by going to the usual shop to\ngrab vegetables.\n",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "まずは\nいつものお店で、\nお野菜をそろえるといたしましょうか。"
+    },
+    {
+      "name": "Waiter 1",
+      "text": "Welcome!",
+      "choice_data_list": [],
+      "orig_name": "店員１",
+      "orig_text": "いらっしゃーい。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thank you, hello.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "どうも、\nこんにちは。"
+    },
+    {
+      "name": "Waiter 1",
+      "text": "Hm?\nAah, you're the usual mister.\nBringing in [i]another[/i] girl I've never seen before?",
+      "choice_data_list": [],
+      "orig_name": "店員１",
+      "orig_text": "ん？　\nああ、\nいつものお兄ちゃん。\nまた見たことないかわいらしい子を連れてるねぇ～"
+    },
+    {
+      "name": "コッコロ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Waiter 1",
+      "text": "Young lady, How old are you?\nIt's very admirable of you to help him with shopping.",
+      "choice_data_list": [],
+      "orig_name": "店員１",
+      "orig_text": "お嬢ちゃん、\nいくつ？\nお兄ちゃんと買い物なんて偉いねぇ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "U-Um...?\nAre you perhaps, referring to me...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\nあの……？\nわたくしに、\n言っているのでしょうか……？"
+    },
+    {
+      "name": "Waiter 1",
+      "text": "Yeah, that's right.\nIs something the matter...?",
+      "choice_data_list": [],
+      "orig_name": "店員１",
+      "orig_text": "ああ、\nそうだよ。\nどうかしたのかい……？"
+    },
+    {
+      "name": "Waiter 1",
+      "text": "Huh?\nNo, that can't be...\nAh! Yes... You're right...!",
+      "choice_data_list": [],
+      "orig_name": "店員１",
+      "orig_text": "は？\nいや、\nそんなはずは……\nあ！　\nそうだ……\n確かにそうだったね……！"
+    },
+    {
+      "name": "Waiter 1",
+      "text": "I'm sorry, miss.\nI usually don't forget the faces of my customers...\nWhatever you want today's on me, choose carefully now!",
+      "choice_data_list": [],
+      "orig_name": "店員１",
+      "orig_text": "ごめんよ\nお嬢ちゃん。\nお客さんの顔を忘れるわけないんだけどねぇ。\n今日はサービスするから、\nじっくり選んでっておくれ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Yes...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はい……"
+    },
+    {
+      "name": "Waiter 2",
+      "text": "Ooh, hey again, mister.\nThat your little sister there?",
+      "choice_data_list": [],
+      "orig_name": "店員２",
+      "orig_text": "──お、\n兄ちゃんか。\nそっちにいるのは妹さんかい？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "No, I'm...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "いえ、\nわたくしは……"
+    },
+    {
+      "name": "Waiter 2",
+      "text": "Ah... Aaah!\nThat's right, that's right, you're the usual young lady!\nI must've really spaced out there, I'm really sorry!",
+      "choice_data_list": [],
+      "orig_name": "店員２",
+      "orig_text": "あ……\nあー！\nそうだそうだ、\nいつものお嬢ちゃんだよな！\nボケちまってたか、\n申し訳ない！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This is just like before...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "これは、\n先ほどと同じ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Y-Yes... That's right...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そ、\nそうでございますね……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Um, my Lord...\nCould you go on without me and give the ingredients to Miss Pecorine?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あの、\n主さま……\n先ほど買ったこの材料を、\n先に\nペコリーヌさまに届けていただけますか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I, umm...\nWould like to walk around the town a bit more...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしは、\nその……\nもう少しだけ、\n街を回ってみたいので……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "No... I can go alone.\nWe can't have Miss Kyaru waking up without any food, after all.\nSo I'll leave that to you, my Lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "いえ……\nわたくし一人で大丈夫です。\n目覚めたキャルさまが\nお腹を空かせてはいけませんから、\nよろしくお願いしますね、\n主さま。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'll be back soon, so please don't worry.\nI'll be seeing you──",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "すぐに戻りますので、\nご安心ください。\nそれでは──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...What is this... feeling of uneasiness...?\nIt's as if something is happening right now...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……なんなのでしょう……\n胸騒ぎがします……\nなにかが起こりつつあるような……"
+    },
+    {
+      "name": "Cabman",
+      "text": "Sorry for saying something so rude, miss.\nHope to do business with you again!",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "──失礼なことを言って悪かったね、\nお嬢ちゃん。\nまたご贔屓にしてね！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Even the coachman I often use has forgotten\nabout me...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "よく使わせていただいている御者さまも、\nわたくしのことを忘れているようでした……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Just what in the world does this mean...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "一体、\nこれはどういうことなのでしょう……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ah, that's Miss Karin...!\nUm, Miss Karin! Could I have a moment of your time...!?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\nあれはカリンさま……！\nあのっ\nカリンさま、\n少しお時間よろしいでしょうか……！"
+    },
+    {
+      "name": "Karin",
+      "text": "Yes...?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "はい……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Um, the people of the town have been acting strangely...\nAnd it's difficult to really explain this properly, but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あの、\n街の人たちの様子がおかしくて……\nどう説明したらいいのか、\n難しいのですが……"
+    },
+    {
+      "name": "Karin",
+      "text": "Uhh...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "えっと……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...!\nCould it be, you too, Miss Karin...?\nIt's me, Kokkoro, of the \"Gourmet Guild!\"",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……！\nもしかして、\nカリンさまも……？\nわたくしです！　\n【美食殿】のコッコロです！"
+    },
+    {
+      "name": "Karin",
+      "text": "Of the \"Gourmet Guild...?\"",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "【美食殿】の……？"
+    },
+    {
+      "name": "Karin",
+      "text": "Are you a new guild member of theirs?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "新しい、\nギルドメンバーの方ですか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please, do not make such a joke...\nWe completed a request to eliminate monsters just yesterday...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そ、\nそのようなご冗談を……\n昨日も、\n魔物討伐の依頼を\n達成してきたばかりで……！"
+    },
+    {
+      "name": "Karin",
+      "text": "It's true I made a request to the \"Gourmet Guild,\" but...\nYou're... Yes... Kokkoro...?\nYes, you're Kokkoro, right...?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "確かに、\n昨日は【美食殿】の方たちに依頼はしましたが……\nあなたは、\nそう……\nコッコロ……さん。\nそう、\nコッコロさん、\nですよね……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, that's correct...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\nそうです……！"
+    },
+    {
+      "name": "Karin",
+      "text": "I-I'm very sorry.\nI can't believe I forgotten someone I've worked with so much...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "もっ、\n申し訳ありません。\nまさかあれだけお世話になっている方のお名前を\n忘れてしまうなんて……"
+    },
+    {
+      "name": "コッコロ",
+      "text": "忘れて……？　",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "忘れて……？　"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Everyone I've met up until has had the same\nreaction...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "今まで会ってきた人たちの反応も、\n同じようなものでした……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Could it be that... I'm being forgotten...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "まさか……\nわたくしが、\n忘れられて……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I-I'm sorry, Miss Karin!\nIf you'll excuse me then...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "すっ、\nすみません、\nカリンさま！\nそれではわたくし、\n失礼いたします……！"
+    },
+    {
+      "name": "Karin",
+      "text": "Ah, Kokkoro!",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "あっ、\nコッコロさん！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I don't know the reason why, but the memories\nof me are being forgotten by everyone in the\ncity...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "理由は分かりませんが、\n街の人たちから\nわたくしの記憶が消えかけている……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Does that mean, that includes Miss Pecorine, Miss Kyaru...\n...and even my Lord...!?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "だとしたら、\nペコリーヌさまやキャルさま、\n主さまも……！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I absolutely don't want...!\nAnything... but that...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そんなことは、\n絶対に……！\nそれだけは……\n嫌です……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*pant pant*...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はぁ、\nはぁ……！"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "おかゆ～♪\n猫舌キャルちゃんにはふ～ふ～して\n食べさせてあげないといけませんね☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おかゆ～♪\n猫舌キャルちゃんにはふ～ふ～して\n食べさせてあげないといけませんね☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Pecorine...\nShe's in the middle of cooking...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペコリーヌさま……\nお料理中、\nですね……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Um...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\nあの……"
+    },
+    {
+      "name": "コッコロ",
+      "text": "もし、\nペコリーヌさまが、\nわたくしのことを忘れていたら……？\nわたくしは……\nわたくしは……！　",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "もし、\nペコリーヌさまが、\nわたくしのことを忘れていたら……？\nわたくしは……\nわたくしは……！　"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Mi-Miss Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペ、\nペコリーヌさま！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, welcome back, Kokkoro ♪\nCan you try tasting the porridge?\nI think this'll bring Kyaru right back on her feet~",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ、\nお帰りなさい、\nコッコロちゃん♪\nちょっと\nおかゆの味見してみてもらえますか？\nこれならキャルちゃんも元気が出ると思うんですけど～"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wah wah!? What's wrong, hugging me all of a sudden, Kokkoro? This is dangerous while I'm cooking, you know?\nWell, of course I'm going to return the hug though ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わわっ！？\nどうしたんですかコッコロちゃん、\n急に抱きついてきたりして？\nお料理中は危ないですよ～？　\nまぁ、\nわたしも抱きついちゃいますけど♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thank goodness...\nI was, so afraid...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "よかった……\n本当に……\nわたくし、\n怖くて……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I'm not sure what happened, but it'll be fine.\nI'm here with you. Kyaru and {0} too.\nYou've got plenty of reassuring allies with you.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……何があったのかは分かりませんけど、\n大丈夫ですよ。\nわたしがついています。\nキャルちゃんも、\n{0}くんも、\nコッコロちゃんには心強い仲間がたくさんいます。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "So, you don't have to be so afraid...☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "だから、\nそんなに怖がらなくても大丈夫ですよ……☆"
+    },
+    {
+      "name": "コッコロ",
+      "text": "はい……っ！",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい……っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "As if to wash away that anxiety, Kokkoro\ncontinues to cling onto Pecorine's body.\n",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "コッコロは、不安な気持ちを打ち消すように、\nペコリーヌの体を抱きしめ続けるのであった。"
+    }
+  ]
+}

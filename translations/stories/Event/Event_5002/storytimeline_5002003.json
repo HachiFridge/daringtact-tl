@@ -1,0 +1,528 @@
+{
+  "title": "Go Go Misogi Explorers!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "On the day of the expedition, Misogi and {0}\nset out for the meeting point a little early\nand await Kyoka and Mimi's arrival.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "探検の当日、ミソギと{0}は、\n一足先に街道を訪れ、キョウカとミミを待っていた。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Urghh... I'm so nervous...\nWhat am I s'posed to say when Kyoka gets here?",
+      "choice_data_list": [
+        "Just act normal.",
+        "You don't have to say anything."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "うー、\n気まずいよ～\nキョウカが来たらどんな顔して話せばいいかなー"
+    },
+    {
+      "name": "Misogi",
+      "text": "That's the hard part!\nHonestly, mister, you're so dumb sometimes!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "それが難しいんだよ～！\n　にいちゃんはわかってないなー！"
+    },
+    {
+      "name": "Misogi",
+      "text": "I can't just stand there and say nothing!\nIf I go quiet, everyone's gonna feel extra awkward!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "そういうわけにはいかないよー！\nミソギが黙ったら本当に静かになっちゃうよー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...Hello, both of you.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……おまたせしました。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Wahhh! You surprised me!\nOh... Kyoka! Umm... Ahh... G-good morning?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わあっ！\n　びっくりしたー！\nあ、\nキョウカ！\n　あの、\nその……\nお、\nおはよう？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Y-yes... Good morning.\nGood morning to you too, {0}.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "う、\nうん……\nおはよう。\n{0}さんも、\nおはようございます。"
+    },
+    {
+      "name": "Kyoka & Misogi",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ミソギ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "S-so, do you have any ideas where we should explore?\n{0}!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ど、\nどこに探検に行くかは\n決まってるんですか！？\n{0}さん！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Y-yeah, good question! Where're we going, mister?",
+      "choice_data_list": [
+        "Let's decide when Mimi gets here."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "そ、\nそうだよにいちゃん！\n　ねえねえ、どこ行くの！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Oh? Has Mimi not arrived yet?\nIt's not like her to be late...Y-you don't think she got lost, do you?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あれ？\n　ミミはまだ来てないんですか？\n遅刻なんて珍しいですね……\nも、\nもしかしたら迷子になってるんじゃ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ehhhh?! That would be real bad! We should go find her!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ええー！\n　だとしたら大変だよ！\n　迎えに行かないと！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "L-let's try asking at her house first!\nShe might have just overslept!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "と、\nとりあえずミミの家まで行きましょう！\n寝坊してる可能性もありますし！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Mimi! Mimi! If you're in there, say something!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ミミー！\n　ミミ―！\n　いたら返事してー！"
+    },
+    {
+      "name": "Mimi",
+      "text": "*cough, cough* Hello...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "こほっこほっ……\nは～い。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Mimi! Wh-what's wrong?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミミ！\n　ど、\nどうしたの？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Oh... Hi, guys! Eheheh...\nActually, I've got a bit of a fever...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あ、\nみんな～、\nえへへ～……\nミミね、\nおねつでちゃったの……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whaaa?! A-are you OK?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えぇっ！？\n　だ、\n大丈夫！？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Uh-huh, I'm all ri— *cough, cough*\nAhhh... I'm sorry, guys... I don't think I can go exploring today...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うん、\nだいじょ、\nごほっごほ！\nあぅ……\nごめんねみんな、\nミミ\nきょうはおでかけできないんだ～"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That's fine, that's fine! You get some rest!\nI'm sorry—we didn't mean to disturb you!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "いいよ、いいよ、\nゆっくり休んで。\nごめんね、\nおしかけたりして？"
+    },
+    {
+      "name": "Mimi",
+      "text": "No no, actually, seeing all of you made me feel a little bit better!\nI'm so happy that you two seem to be friends again...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ううん、\nミミ、\nみんなのお顔がみられて\nちょっとげんきになったな～♪\nキョウカちゃんもミソギちゃんも、\nなかなおりしたみたいでよかった～♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Urk! A-about that...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "うっ！\n　そ、\nそれは……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Well then, I should get back to bed...\nSee you later, guys...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "じゃあミミ\nおふとんにもどるねー？\nみんな\nまたねー……"
+    },
+    {
+      "name": "Kyoka & Misogi",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ミソギ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Mimi looked like she was in pretty bad shape...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……ミミ、\nすっごくつらそうだった……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Yeah... She was putting on a brave face for us,\nbut she looked like she was hurting...\n...Arghhh! If only I had the power to heal illnesses!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "うん……\nミソギたちの前だから無理してたけど、\nしんどそうだった。\n……うわー！\n　ミソギたちに病気を治す力があればなー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I haven't learned any magic that can defeat bacteria... Oh! I know!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "私も、\nびょうげんきんを倒す魔法はできないし……\nあっ、そうだ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "One time, when I was looking through a textbook,\nI read about a herb that's good for fevers!\nIt makes your temperature go down, and you feel much better!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "前に\n教科書で見たことがあるんだけど、\n熱がひどい時に効く薬草があるんだって！\n飲めばすぐに熱も引いて、\n元気になるって書いてあった！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whoa, for real?!\nThen if we give her that herb, Mimi'll be okay again?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "なにそれー！\n　じゃあその薬草を飲めば、\nミミも元気になるってこと！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That's definitely what it said in the textbook!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "私の読んだ教科書には\nそう書いてあったよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "C'mon then! Let's go on an expedition!To find that herb!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "なら\n今日はそこに探検に行こうよ！\n　薬草を探しに！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "What?!\nBut... the place where the herb grows is home to monsters...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "え！？\n　でも\n薬草がある場所は\n魔物とかもいて――"
+    },
+    {
+      "name": "Misogi",
+      "text": "You ready for this, mister?!\nAll right! For our friend Mimi! Misogi Explorers, go go go!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃんも準備はおっけー？\nよーし、\nミミのため！\n　ミソギ探検隊、\nしゅっぱーつ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ahh... Misogi, wait!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あっ、\nちょっとミソギ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "The herb we want grows on the other side of this mountain.\nThere are monsters around, so let's be nice and—",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "薬草は\nこの山を抜けた場所に生えてるそうです。\n魔物も生息してるので\n慎重に――"
+    },
+    {
+      "name": "Misogi",
+      "text": "All right! Let's hurry!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ミソギ、\n先行くね！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That Misogi... Always rushing ahead!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギったら\nまた勝手に！"
+    },
+    {
+      "name": "Misogi",
+      "text": "I'm not rushing! You guys are just slow! Hurry it up already!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃんとキョウカ、\n足遅いんだもんっ！\n　待ってらんないよっ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "*sigh* This isn't going very well...\nAre we really going to be able to make up like this?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "はぁ……\nやっぱりまだ気まずいです……\nこんなんで\nきちんと仲直りできるんでしょうか……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi! Please slow down a little!\nAt this rate, you'll leave us behind!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギ、\nもう少しペースを落として！\nこのままだとはぐれちゃうよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "A... All right, all right!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わ、\nわかってるよ……！"
+    },
+    {
+      "name": "Misogi",
+      "text": "I knew it... Kyoka's still mad...\nShe's scarier than usual...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "やっぱりキョウカ、\nまだ怒ってる……\nいつもより怖いし……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "She keeps running off...\nShe must not want to be anywhere near me...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "こんなに急いで……\nやっぱり、\n私といたくないんだ……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Geez! Pull yourself together, mister!\nI'm cheering you on here, so try to keep up!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "もう！\n　にいちゃんしっかりーっ！\nミソギが応援してるんだから、\n早く来てよーっ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Now {0} is leaving me behind too...\nHonestly... this is all your fault for rushing, Misogi!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "{0}さんと距離が開いちゃった……\nもう、\nミソギがどんどん行っちゃうから……！"
+    },
+    {
+      "name": "Misogi",
+      "text": "What? I just want Mimi to get better soon!\nSo we gotta hurry up!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "だって、\n早くミミに元気になってほしいもん！\nだから早く行かなきゃ――！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GRRAAAAAGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whoaaa! What's that?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わーー！\n　なになにー！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A-a monster?! Misogi! Quickly, come over here—",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ま、\n魔物！？\n　ミソギ！\n　危ないからこっちに――！"
+    },
+    {
+      "name": "Monster 2",
+      "text": "GRRAAAAAGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A-another one?! Oh no...!\nBut {0} is still...\nS-stay back, monsters!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "も、\nもう一体！？\n　そんな……っ！\n　\n{0}さんはまだ……\nこ、\nこっちにこないでー！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Kyoka?! A-all right, I'll fight too! Yahhh!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "キョウカ！？\n　\nよ、\nよーし、\nミソギも！\n　やー！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GRRAAAAAGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Aaahhh! D-do you really have to roar all the time?!\nI need to work with Misogi and...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひうっ！\n　そ、\nそんなに吠えなくてもいいじゃないですか！\nここはミソギと連携を取って！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hey, Misogi! Stop dodging around everywhere!\nIt makes it hard to aim my magic!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ちょっと、ミソギ……！\n　ちょこまか動き過ぎ！\n魔法が当てにくいよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "What?! But the monster keeps attacking me!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "だって、\n次から次へと攻撃が来るんだもん！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Try to focus your attacks on one side!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "どっちに攻撃するか\nちゃんと決めて！"
+    },
+    {
+      "name": "Misogi",
+      "text": "That's easier said than— Wahh?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "そんなこと言われても……\nあっ！？"
+    },
+    {
+      "name": "Monster 2",
+      "text": "GRUOOAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Aghh! Owwww...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あうっ！\n　いったぁい……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi! Get back for a moment! I'll deal with this!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギ！\n　ここは下がってて！\n　私がなんとかするから！"
+    },
+    {
+      "name": "Misogi",
+      "text": "O-on your own...? Ahh! Mister!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "でも、一人じゃ……\nあ、\nにいちゃん！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "{0}! Th-thank you very much!\nPlease keep distracting the monster like that!\nThen I'll... Now! Haaahhh!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "{0}さん！　あ、ありがとうございます！\nそのまま魔物を引き付けてください！\n私も……\nいまだ！\n　\nえーいっ！"
+    },
+    {
+      "name": "Monster 2",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I did it! Now for the other one!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "やりました！\n　このままもう一体も！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GRUOOAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? It ran away? ...H-heck yeah! That's what you get\nwhen you mess with Kyoka and Mister {0}!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ふぇ？\n　逃げちゃった？\n　\n……ど、\nどうだー！\n　\nキョウカとにいちゃんにかかればこんなもんだー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi, you're injured right now, so stay still!\nHere, I'll fix you up, so show me where it hurts!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギ、\nケガしてるんだから、\n騒いじゃダメだよ！\nほら、\n手当てするから傷を見せて！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Owww! Urgh... Sorry...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "いちちっ！\n　うぅ、\nごめん……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Honestly... This is what happens when you rush off...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "まったく……\nいつも突っ走るんだから……"
+    },
+    {
+      "name": "Misogi",
+      "text": "...Umm... Uhh...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……あの……\nえっと……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "There. That should do it.\nThe herb we want should be at the end\nof a labyrinth that lies just ahead.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "よし、\nこれで大丈夫。\n　\n薬草は、\nこの先の迷宮を越えたところにあるはずだよ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "...R-right! Eheheh... OK then!\nLet's move, you guys! We're gonna grab that herb for sure!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……う、\nうん！\n　えへへ……\nよーし！\n行こうキョウカ、にいちゃん！\n　薬草目指してれっつごー！"
+    },
+    {
+      "name": "Narration",
+      "text": "In search of the herb that would help Mimi,\nthe Misogi Explorers forged ahead into the gloomy labyrinth.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "３人は薬草を求め、\n迷宮へと足を踏み入れるのであった。"
+    }
+  ]
+}

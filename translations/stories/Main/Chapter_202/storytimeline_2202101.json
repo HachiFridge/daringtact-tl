@@ -1,0 +1,670 @@
+{
+  "title": "Oshikura Princess!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Within the [Castle of Parfait] of [Gio Teogonia], the ones who came to have an audience with Princess Lyrael this time are ...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『ジオ・テオゴニア』の『キャッスル・オブ・パルフェ』。\nプリンセスであるライラエルのもとへ、謁見に来たのは──"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Welcome to [Gio Teogonia]. Please raise your heads, Knight and his companions.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ようこそ、\n『ジオ・テオゴニア』へ。\n頭を上げてください──\n異邦の騎士たちよ。"
+    },
+    {
+      "name": "Jun",
+      "text": "It is an honor to have an audience with you, Princess Lyrael. I have come to greet you in hopes of deepening the friendship between both worlds. My name is Jun.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "このたびは謁見の機を賜り、\n光栄に存じます。\nプリンセス・ライラエル。\n両世界の親交を深めんと、\nご挨拶に参じました。\nジュンと申します。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "You're the captain of the Royal Knights of Landosol, Jun... It's an honor to meet you as well. Thank you for coming here with Knight.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "あなたが\nランドソルの王宮騎士団長、\nジュン……\nこちらこそ\nお会いできて光栄です。\n騎士も\nご仲介、\nありがとうございます。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "It's nothing. Besides... Hehe. I'm happy to have such small guests today. Hello.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "いいえ。\nそれに……\nふふっ。\nこんなに小さなお客さまも来てくださり\nうれしいです。\nこんにちは。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ah! Umm......! Actually, I would like to express my sincere gratitude to you for......",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あ！　\nえとっ……！\nほんじつは、\nえっけんに\nどうせきさせていただきまして、\nまことに……"
+    },
+    {
+      "name": "Misogi＆Mimi",
+      "text": "Hellooo!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ＆ミミ",
+      "orig_text": "こんにちはー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "H-Hey, you two...?! We're dealing with a princess here, so we have to give her a formal greeting to not be rude...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ちょ、\nちょっと二人とも……！？\nお姫さま相手なんだから、\n失礼のないようにごあいさつしないと……！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Eh? Is 'hello' a rude greeting then?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "えー？　\n「こんにちは」って、\n失礼なごあいさつなのー？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? That's not what I meant...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "え？　\nそれはちょっと……\nわからないけど……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Hehehe...♪ Just like I heard from Knight beforehand, these are such cute guests. Children sure are energetic and lively. You can talk to me as you always do, you know?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ふふふっ……♪　\n事前に騎士から聞いていた通り、\nかわいらしいお客さまたちですね。\n子どもは元気が一番。\nいつも通りに\nお話ししてかまいませんよ？"
+    },
+    {
+      "name": "Misogi",
+      "text": "As we always do? Really? Princess, you're so kind!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "いつも通り？\nほんとー？　\nお姫さま、\nやっさしーいっ！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Yaaay♪ Then let's chat a lot today!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わーい♪　\nじゃあ今日は、\nたっくさんおしゃべりしよー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Geez! You two are being so carefree. Um... It's a pleasure to meet you... Princess Lyrael.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "もう！　\n二人とも、\n調子いいんだから。\nその……\nよろしくおねがいします……\nプリンセス・\nライラエルさま。"
+    },
+    {
+      "name": "Jun",
+      "text": "Hahaha. It was worth asking {0} to get a glimpse of a princess from another world, all three of you.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ははは。\n異世界のお姫様を一目でも見てみたいと\n{0}くんにお願いした甲斐があったね。\n３人とも。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Oh, so that's what you're here for? Hehehe... Let's not just talk, but also interact a lot then.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "まあ。\nそんなことを？\nふふふ……\n見るだけでなく、\nたくさん交流いたしましょう。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ah, that's right. Mimi, Kyouka, Misogi. Could you tell me what kind of games you all like to play? I'm interested in otherworldly culture, too.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "あぁ、\nそうです。\nミミ、\nキョウカ、\nミソギ。\nみなさまの好きな遊びを\n教えていただけませんか？\nわたしも\n異世界の文化に\n興味があります。"
+    },
+    {
+      "name": "Jun",
+      "text": "G-games they play...?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あ、\n遊び……\nですか？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh?! Are you sure? Then, maybe we can play hide-and-seek... Right! How about Oshikura Manju?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "え！？　\nいいのー？\nじゃあじゃあ、\nおにごっこ、\nかくれんぼ……\nそーだっ！\nおしくらまんじゅうはどーかな？"
+    },
+    {
+      "name": "Jun",
+      "text": "O-Oshikura Manju? Isn't that a little dangerous...?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "お、\nおしくらまんじゅう？\nちょっと危ないんじゃないかな……？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Dangerous...? What kind of game is that?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "危ない……？\n一体\nどのような遊びなのですか？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Let's see, we all going to stand in a circle, and then we lock arms with our backs against each other! If you get shoved and step outside of the circle you lose♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "えーとね、\nみんなでわっかのなかにはいってー\nうでをくんでー、\n背中でおしあうのっ！\nわっかのそとにでて、\n地面に足がついたひとが、\nまけなんだよ♪"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Oh... We're going to push each other's backs? That's a game that doesn't exist in this world. Let's give it a try.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "まあ……\n背中で押し合うのですか？\nそれは\nこちらの世界にない遊びです。\nぜひ\n試してみましょう。"
+    },
+    {
+      "name": "Jun",
+      "text": "L-Lyrael?! But...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ラ、\nライラエル様……！？\nしかしですね……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Of course, Knight and Jun will participate as well, won’t they? When it comes to games, 'The more the merrier' as they say.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "もちろん、\n騎士とジュンも\n参加していただけますね？\n遊びというものは、\n人数が多いほうが\n楽しいというものです。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Thank you very much. Let us begin.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ありがとうございます。\nでは、\n始めるといたしましょう。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Eheheh! Then if you jump out of this rope, you lose!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えへへっ！　\nじゃあ\nこのロープのわっかから飛び出したら負けだよー！"
+    },
+    {
+      "name": "Jun",
+      "text": "Hmm... All right. In that case, let's be careful when playing to avoid getting hurt.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "むぅ……\n分かった。\nそういうことなら、\nけがをしないように気を付けて遊ぼうね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "O-Oshikura Manju with a princess... I'm a little nervous...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "お、\nお姫さまとおしくらまんじゅうなんて……\nちょっと緊張しちゃいます……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Come on, come on, Kyouka-chan, you have to go inside and play with us too! okay, let's get started. Ready?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ほらほらー、\nキョウカちゃんもわっかのなかにはいって、\nうでをくもうね～！　\nはい、\nじゃあ始めるよー。\nせーのっ。"
+    },
+    {
+      "name": "３人",
+      "text": "おしくらまんじゅう、\n押っされて泣くなっ♪\n押っされて泣くなっ♪",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "おしくらまんじゅう、\n押っされて泣くなっ♪\n押っされて泣くなっ♪"
+    },
+    {
+      "name": "Mimi",
+      "text": "Wow! There's a lot of adults here, so it's really cramped! But I can't give up! Take this!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わ～！　\nおとなのひともおおぜいいるから、\nすっごくせまいねっ！\nでもまけないよー！　\nそーれっ！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Huh...!?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "っきゃ……！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hawah...! Princess Lyrael's wings... They're so fluffy and nice...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "はわっ……！　\nライラエルさまの羽……\nふわふわで気持ちいい……！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ahaha! It tickles so much, I feel like I'm going limp♪ But I won't lose! Eigh, I'll push you with my butt♪",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あははっ！　\nくすぐったくて、\n力が抜けちゃいそう～♪\nでも負けないよーっ！　\nえいっ、\nお尻で押しちゃうぞ～♪"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ara...!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "あらっ……！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "My... Oh my...! This is... Hah!?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "まあ……\nまあまあ……！\nこれは……\nっきゃ！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ah...! Princess Lyrael got pushed outside...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あっ……！　\nライラエルさまが、\nわっかの外に……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ehehe! If you hit the ground outside, you lose! Let's see, where's Lyrael Onee-chan? ...Huh?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えへへ！\n外の地面に足をついたら負けだよー！\nどれどれ、\nライラエルねえちゃんは～……\nあれ？"
+    },
+    {
+      "name": "ライラエル",
+      "text": "？",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Ah... She's floating...! Lyrael Onee-san is flying because she's an angel, isn't she?!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あ……\nういてるよ……！？\nライラエルおねえさん、\n天使だから飛んでるんだね～……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "H-Hey... What are the rules like in a situation like this?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ね、\nねえ……\nこういう場合は\nルールってどうなるの？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh?! Well, of course, if your feet touches the ground, you lose~... Umm... But Lyrael Onee-san is floating~... Hmmmmmm...!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "え！？　\nそ、\nそれはもちろん、\n地面に足がついたら負けだから～……\nええと……\nでもライラエルねえちゃん浮いてるし～……\nうーんうーん……！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Hehehe, everyone. You're so good...! I can't afford lose either. This time, I'll be on the offense... Eigh♪",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ふふふ、\nみなさま。\nお上手ですね……！\nわたしも\n負けていられません。\n今度はこちらから参ります……\nえいっ♪"
+    },
+    {
+      "name": "The Three",
+      "text": "Whoa!?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "わわっ！？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Mm...! What do you think? Am I... good at this Oshikura Manju...?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "んっ\n……！　\nどうです？\nわたし……\nうまくおしくらまんじゅう、\nできていますでしょうか……？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Wah! Wawah! Lyrael Onee-chan, you're pushing at me more and more?! Furthermore It feels so fluffy when I try to push you back... Wawawah?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わっ！　\nわわっ！　\nライラエルねえちゃん、\nどんどん押してくるぅ！？\nそれに、\n押し返してもふわふわしてて……\nわわわぁ！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ah...! Misogi went out...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あ……！　\nミソギ、\n外出ちゃった……！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hauuu......! Misogi lost!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "はうう……！　\nミソギの負けだ～！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ei...! Nn...! Oshikura Manju...!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "えいっ……！　\nんっ……！\nおしくらまんじゅう、\nです……！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Fwah?!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ふわぁっ！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "She pushed me out too?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "押し出されちゃいましたぁ～！？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Next, Knight...! I'm coming...! Eigh!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "次は、\n騎士も……！\nいきますよ……っ！　\nえいっ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ah! Lyrael Onee-chan is so strong! You even pushed Nii-chan out!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あっ！　\nライラエルねえちゃん、\n強～い！\nにいちゃんまで押し出しちゃったよー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "W-Wow...! All that's left is...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "す、\nすごい……！\nあと残っているのは……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Jun-onee-san! Good luck, you two!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ジュンおねえさんだねっ！\nがんばれ、\n二人ともー！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "It's a one-on-one fight... Jun!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "一騎打ちになりましたね……\nジュンっ！"
+    },
+    {
+      "name": "Jun",
+      "text": "Y-Yeah... You're right...! However...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "え、\nええ……\nそうですね……！　\nけど……"
+    },
+    {
+      "name": "Jun",
+      "text": "...What should I do? Honestly, thanks to the weight of my armor, she can't do much with just pushing at my back...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……どうしよう。\n正直、\n鎧の重さのおかげで\n背中で押される程度じゃどうということもないんだよね……"
+    },
+    {
+      "name": "Jun",
+      "text": "On the other hand, Miss Lyrael is floating, so I can't  beat her... Hmm... Maybe this battle...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "かといって\nライラエル様も浮いているから、\n負かすことはできないし……\nうーん……\nこの勝負、\nもしかして……"
+    },
+    {
+      "name": "ジュン",
+      "text": "いつまで経っても……\n決着がつかない……？　",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "いつまで経っても……\n決着がつかない……？　"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ugh...! You're good at this... Jun! Don't hold back. This is a serious fight...!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "くっ……！\nお上手ですね……\nジュン！\n手加減はなしですよ。\n真剣勝負です……！"
+    },
+    {
+      "name": "Jun",
+      "text": "Ugh... It would be rude to lose on purpose... But seriously, what should I do...?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "うぅ……\nわざと負けるのも失礼そうだな……\nでも本当に、\nどうしよう……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ei...! Ya...! Hng...!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "えいっ……！　\nやっ……！　\nんっ……！"
+    },
+    {
+      "name": "Jun",
+      "text": "Hng...! Geh! Ha...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ふっ……！　\nくっ……！　\nはっ……！"
+    },
+    {
+      "name": "Both",
+      "text": "Mmmmmmmm~!!",
+      "choice_data_list": [],
+      "orig_name": "２人",
+      "orig_text": "んんんんんんっ──！！"
+    },
+    {
+      "name": "ジュン",
+      "text": "はぁ……\nすばらしい攻めです、\nライラエル様……",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "はぁ……\nすばらしい攻めです、\nライラエル様……"
+    },
+    {
+      "name": "ライラエル",
+      "text": "はぁ……\nジュンも、\nなんという鉄壁の守り……！\nでも、\nもう……\nこれ以上は……！！",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "はぁ……\nジュンも、\nなんという鉄壁の守り……！\nでも、\nもう……\nこれ以上は……！！"
+    },
+    {
+      "name": "Both",
+      "text": "Haaah~...",
+      "choice_data_list": [],
+      "orig_name": "２人",
+      "orig_text": "はうぅ～……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? They both slumped to the ground~",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あれれ？　\n二人ともへたりこんじゃった～"
+    },
+    {
+      "name": "Mimi",
+      "text": "Looks like they're tired. Then let's call it a draw!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "つかれちゃったみたいだね。\nじゃあ\n引き分けってことで！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Hah, hah... That was a good match, Jun.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "はぁ、\nはぁ……\nいい勝負でしたね。\nジュン。"
+    },
+    {
+      "name": "Jun",
+      "text": "Yes. Your serious fighting style was admirable, Miss Lyrael.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "はい。\nライラエル様の真剣な戦いぶり、\nお見事でした。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Teehee... Hehe, hehehe...♪",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "くすっ……\nふふ、\nふふふっ……♪"
+    },
+    {
+      "name": "Jun",
+      "text": "Miss Lyrael?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ライラエル様？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ah, excuse me. As a princess, I don't get many opportunities to play. It's been a long time since I've had a serious game like this, and it was really fun...",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ああ、\n失礼しました。\n姫という立場上、\n遊ぶ機会もそうないもので。\nこうして真剣に遊ぶのは久しぶりで、\nとても楽しくて……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Hehe... Thank you, everyone. Let's play again sometime.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ふふっ……\nみなさま、\nありがとうございました。\nぜひまた\n遊びましょうね。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Okay♪ Let's play Oshikura Manju again next time♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うんっ♪　\nまたおしくらまんじゅう、\nしようね♪"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Yes, of course♪",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "はい、\nもちろん♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Oh... But Lyrael's floating. If she's not on the ground, we won't be able to compete in Oshikura Manju. Let's play a different game next time, okay?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あ……\nでもライラエルねえちゃん、浮いてるからな～\n地面に足ついてないと、\nおしくらまんじゅう、\n勝負にならないよ。\n今度は違う遊びにしよー？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Huh...!? That victory wasn't fair...?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "えっ……！？\n勝負に、\nならない……？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yes... I couldn't bring myself to say it when I was playing, but if your feet hit the ground outside, you'll lose. In Miss Lyrael's case however, you will never lose then...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "はい……\n遊んでいる時は言い出せなかったんですけど、\nわっかの外の地面に\n足がついたら負けですから。\nライラエルさまの場合、\n負けがないんです……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Th-That's...! You mean I've been cheating this whole time? How unsportsmanship I was...!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "そ、\nそんなっ……！\nわたしはずっと\n反則をしていたということですか？\nそれは\nなんという無礼を……！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "I'm terribly sorry. If that's the case... I'll put my feet on the ground next. Let's do it again now! A fair Oshikura Manju match!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "大変申し訳ありませんでした。\nそういうことでしたら……\n次は\n足をつけます。\n今からもう一度いたしましょう！　\n公正なる、\nおしくらまんじゅうを！"
+    },
+    {
+      "name": "Jun",
+      "text": "L-Lyrael...?! Are you planning on having a rematch?!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ラ、\nライラエル様……！？\n再戦するおつもりでいらっしゃるのですか！？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Of course. Claiming victory in defiance of the rules is an unbecoming act of a country's leader and representative...!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "もちろんです。\n規範に背いて勝ちをさらうなど、\n一国を背負う者として\nあるまじき行いですから……！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Yaaay! One more time! Mimi will do her best~♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わーい！　\nもう一回だー！\n次はミミ、\nもーっとがんばるよ～♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Misogi too! I'll be the number one this time!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ミソギも！　\n今度は一番になるんだからねー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "What?! Are you really going to do it again...? My butt hurts after pushing so many times...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ええっ！？　\nほんとにもう一回やるんですか……？\n何回もすると\nお尻痛くなっちゃうよぅ……"
+    },
+    {
+      "name": "Jun",
+      "text": "I-I'd like to step down, too... My body is fine, but if anything, It's a bit of a mental taxing...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "わ、\n私も遠慮しておきたいな……\n身体はともかく、\nどちらかというと、\n気苦労のほうが……"
+    },
+    {
+      "name": "Misogi",
+      "text": "No, no, it's a rematch, so let's all do it again!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ダメダメ、\n再戦なんだから、\nもう一回みんなでだよー！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Yeah, yeah♪ I'm sure it'll be fun~♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うんうん♪　\nきっとたのしいよ～♪"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Next time, please allow me to have a clean and proper Oshikura Manju match without any disrespect♪",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "次こそは、\nみなさまにご無礼のない\n清く正しい\nおしくらまんじゅうをさせてくださいね♪"
+    },
+    {
+      "name": "Jun＆Kyouka",
+      "text": "I-It's hard to refuse...!!",
+      "choice_data_list": [],
+      "orig_name": "ジュン＆キョウカ",
+      "orig_text": "こ、\n断りにくい……！！"
+    },
+    {
+      "name": "Narration",
+      "text": "It was supposed to be a simple audience in Gio Teogonia. But in the throne room, the game of Oshikura Manju continued on......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "謁見のつもりで訪れた『ジオ・テオゴニア』。\nその玉座の間で、おしくらまんじゅうは続くのだった……"
+    }
+  ]
+}

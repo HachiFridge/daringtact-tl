@@ -1,0 +1,852 @@
+{
+  "title": "Idols and Alchemy",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A few days after Nozomi and {0} started working at Alkes Alchemist Hall, Nozomi was serving her fans with a smile.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ノゾミと{0}がアルケス錬金堂で働き始めてから\n数日たったある日。\n今日もノゾミはファンのお客さんに対し、\n笑顔で接客をしていた。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Thank you for your purchase! Please continue to show your support to Alkes Alchemist Hall♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "お買い上げありがとうございました～！\n今後ともアルケス錬金堂をご贔屓に♪"
+    },
+    {
+      "name": "Customer",
+      "text": "Yeah, I'll surely be back, Nozomin. Next time I want you to make one for me! An alchemy item!",
+      "choice_data_list": [],
+      "orig_name": "客",
+      "orig_text": "うん、\nまた来るよノゾミン！\n今度は\nノゾミンに作ってもらいたいな。\n錬金アイテム！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ahaha, maybe if there's an opportunity to do so!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あはは、\n機会があれば！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……"
+    },
+    {
+      "name": "Narration",
+      "text": "Lunch break that day.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その日のお昼休憩。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...You know, Nozomi-san.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ノゾミさんはさ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "You can call me Nozomi without the \"-san\". Rui-chan, you and I are the same age after all!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ノゾミでいいよ？\nルイちゃんと私、\n同い年だし！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Nozomi-san. Why did you want to become an idol?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ノゾミさんは。\nなんでアイドルになりたいって思ったの？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Because I want to see the smiles of all my fans!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ファンのみんなの笑顔が見たいから！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...H-Hm! T-That feels like a lie with how fast you answered me!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……っ！\nそっ、\n即答なのがなんか嘘っぽいわ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Really? But it's how I really feel! So Lou-chan, why did you want to become an alchemist?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そうかなぁ。\nでもほんとの気持ちだよ！\nじゃあルイちゃんは、\nなんで錬金術師になりたいって思ったの？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Because I want to make people happy with alchemy.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "錬金術で人を幸せにしたいから。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Teehee. You answered right away, too.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "くすっ。\nそっちも即答じゃん。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "N-No, that's not it!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ち、\n違いますけどっ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Hey, aren't you tired of being a crowd-drawing panda by now? ...Not that it's any of my business.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……あのさ。\nそろそろ\n客寄せパンダも飽きてきたんじゃない？\n……知らないけど。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "By \"crowd-drawing panda\" do you mean how I serve customers at the counter? I'm not really getting tired of it, no... Why?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "客寄せパンダって\n接客のこと？\n別に飽きるとかないけど……\nなんで？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Why, she asks... You lack perception...! You can probably guess, right...?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "なんでって、\n察しが悪いわね……！\nだいたい分かるでしょ……？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I... I heard you talk over how you wanted to try doing alchemy. I-I won't force you to do it, but... Wait, pugyo?!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "れ……\n錬金術やってみないって聞いてるのよ。\nべ、\n別に無理にとは言わないけど……\nって、\nぷぎょっ！？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yeah! I want to try it! I'm so happy! I really like you, Lou-chan!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うんっ！　\nやってみたいっ！\nうれしい\nルイちゃん大好きっ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "L-Let go of me! It's too hot! I-I just want to push simple alchemy onto you so I can have an easier time, just so you know!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "は、\n離しなさいよ暑苦しいっ！\n簡単な錬金術程度なら\nあなたに押し付けて、\n楽してやろーってだけなんだからっ！！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Th-Then make sure to do this properly! I'll only show you the example once so pay attention!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "じゃ、\nじゃあ\nちゃんとやってよね！\nお手本なんて、\n一回だけしか見せてあげないんだからっ！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Ahaha. She'll show her just once she says! You're so kind, Lou-chan! ♪",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "あはは。\n一回は見せたげるんだ！\nルイちゃん優しいね♪"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I-I'm not kind or anything! Wait, the three of you were listening in the whole time?!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "そ、\nそんなことないし！\nってか\n３人、\nずっと聞いてたの！？"
+    },
+    {
+      "name": "Sono",
+      "text": "We didn't want to disturb you so it just ended like this. Right, {0}-kun?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "なんか邪魔しちゃ悪いなー\nと思って。\nね、{0}君。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Th-There's no way that's true! She's my rival in love! ...It's fine, I'll show you an example of alchemy!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "そ、\nそんな訳ないわ！　\n恋のライバルよ！\n……\nいいから、\n錬金術のお手本\n見せるわよ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Well then, let's start with the most basic of basics: how to make potions.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……じゃあ\nまずは\n基本中の基本。\nポーションの作り方よ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "First, dissolve the white aquatic plant and royal syrup in distilled water. Stir for about two minutes at 750℃, making sure not to separate the ingredient... Now here's the magic words! Repeat them and remember them!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "まずは、\n白水草とロイヤルシロップを蒸留水に溶け込ませて。\n750℃の温度で約二分、\n分離しないようにかき混ぜて──\n……\nよし\nここで魔法の合言葉！　\nあなたも復唱して覚えなさい！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Alchemy is... Hee hee...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "錬金術は……\nヒッヒ……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Alchemy... Hee hee...?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "錬金術は……\nヒッヒ……？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "The more I transmute...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "錬れば錬るほど……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "The more I transmute...?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "錬れば錬るほど……？"
+    },
+    {
+      "name": "Iroha",
+      "text": "Hey, hey, Sono-chan. Did Lou-chan always chant her magic words like that?",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ねーねーソノちゃん。\nいっつもルイちゃんあんな呪文唱えてたっけ？"
+    },
+    {
+      "name": "Sono",
+      "text": "She's trying to look cool.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "映えよ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Sh-Shut up...! This is where the real action begins! Here we go...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "う、\nうるさいわね……！\nここからが本番！　\nいくわよ～……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "\"Originaaal Transmutation\"!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "『基創錬成』！！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Yes, it’s done! A Louise Marie branded potion ready to go!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "はい、\n完成！\nルイズマリー印のポーションよ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Wow, that's amazing!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "わあ、\nすごい！"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "ううっ{0}くんが、\nキラキラした瞳で\n私のこと見てる……！\nこれってもう\n恋人に向けるまなざしじゃん……！！　",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ううっ{0}くんが、\nキラキラした瞳で\n私のこと見てる……！\nこれってもう\n恋人に向けるまなざしじゃん……！！　"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "もっといいとこ見せたい……っ！　",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "もっといいとこ見せたい……っ！　"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "H-... Hmph. This is so easy I don't really deserve any praise for it... even though I'll take them. Just for today, I suppose I have no choice but to show you a special alchemy trick.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ふ……\nふんっ、\nこんな簡単なので褒められてもね。\nしょうがないから\n今日だけ特別に、\nとってもすごい錬金術、\n披露しちゃおうかしら。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Schari.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……スチャリ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Wow! An alchemy recipe book?! It feels so stylish to see you doing alchemy with a book in your hand! Ah, that's so cool! ♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "わあっ！　\n錬金の調合書かな！？\n調合書片手に錬金術って\nまさにって感じだね！\nあー\nかっこいいなぁ♪"
+    },
+    {
+      "name": "Iroha",
+      "text": "Hey, hey, Sono-chan. Lou-chan's a genius, so she's got all the recipes already memorized in her head, so why did she take out the formula book anyway?",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ねーねーソノちゃん。\nルイちゃん天才だから\n全部レシピ頭に入ってるのに、\nなんで調合書取り出したの？"
+    },
+    {
+      "name": "Sono",
+      "text": "She's trying to look cool.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "映えよ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...C-Come on, let me show you! This is the essence of being an alchemist!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……さ、\nさあ～\n見せてあげる！\nこれが私の、\n錬金術師の神髄よっ！！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "\"Ah, hold me tight...\" Mitsuko pleads with her moist eyes, as Masao hugs her tightly in his thick arms...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……『「ああ、\n強く抱きしめて……」\n潤んだ瞳で訴えるミツコの体を、\nマサオはその太い腕でひしと抱きしめ』……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Yes, a hug... Hm?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "そう、\n抱きしめ…………\nん？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "GYAAAAAAAAAAAHHHHHHHHHHHHHH!?!?!!?!!?!?!?!?!?!?!?!?!?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ぎゃああああ～～～っ！？！？\n！？！？！？！？！？！？！？\n！？！？！？！？！？！？！？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "N-NOOOOOOOOO!! T-T-T-T-THIS IS JUST A WEIRD NOVEL I BOUGHT BY MISTAKE!! I WOULD NEVER READ SUCH A SHAMELESS BOOK IN MY LIFE!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ち、\n違うのぉぉぉっ！！\nここ、\nこれ\n間違って買っちゃっただけのへんてこな小説で！！\n私\nこんな破廉恥な本なんて読んだりしないんだから～～っ！！"
+    },
+    {
+      "name": "Sono",
+      "text": "Ahhh, I finally witnessed the birth of a dark background history...",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "あああ、\n黒歴史誕生の瞬間を\n見てしまった……"
+    },
+    {
+      "name": "Sono",
+      "text": "...But at times like these, the fact that I know you won't use your alchemy for your selfish desires is one of your good points, Lou-chan. I know how easy it'd be for you to make a potion that removes memories.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……でも\nこういう時、\n自分のために錬金術使わない所が\nルイちゃんのいい所だよね。\n記憶を消す薬なんて\n簡単に作れるだろうに。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "THAT'S A GIVEN... This is nothing! ...I just... accidentally recited an erotic novel in front of {0}-kun with a smug look on my face...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "当たり前よ……\nこの程度のことで！\n……\n{0}くんの前で間違えて、\nどや顔で\n官能小説朗読したくらいのことで……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "BWAAAAAAAA!!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ふえぇぇ～～～んっっ！！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Ahem. Time to pull myself together... Okay. Now that there's nothing going on, time for you to make a potion.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "コホン。\n気を取り直して……\nはい。\nじゃあなにもなかったところで、\n早速ポーション作ってみなさい。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yes, master!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "はい\n師匠っ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Well, first dissolve the white waterweed and royal syrup in distilled water... for two minutes at 750 degrees Celsius. Stir it so it doesn't separate, then say the magic words...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えと、\nまずは白水草とロイヤルシロップを\n蒸留水に溶け込ませて……\n750℃の温度で二分。\n分離しないようかき混ぜて、\n魔法の言葉。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "\"Original Transmutation\"!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "『基創錬成』！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bofun!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ボフンッ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Eeeehhh?! It's all black and foggy... *cough, cough*...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ええっ！？\n真っ黒に……\nゲホ、\nゲホッ……！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "No, how is this even a failure?! Potions are Create Rank 1! The very basics of the basics of the very basics! It's such simple alchemy that even a three-year-old could make this!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "いやこれ失敗する！？\nポーションは作成ランク１！　\n初歩の初歩の初歩！\n３歳児でも作れるお手軽錬金術よ！？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "W-Well, what a joke to say that even a three-year-old could make it! Let's do it again, then! Next up is... 'Original Transmutation'!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "さ、\n３歳児でも作れるなんて冗談きついな～！\nじゃもう一回！　\n次はちゃんと──\n『基創錬成』！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bofun!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ボフンッ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...*cough* Okay, once more! \"Original Transmutation\"!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……ゲホッ。\nよし、\n次こそ！\n『基創錬成』！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bofun!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ボフンッ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bofun!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ボフンッ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bofun!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ボフンッ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Ahaha, one more time!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……あははっ、\nもう一回！"
+    },
+    {
+      "name": "Alkes Alchemy Hall",
+      "text": "NO MORE!!!",
+      "choice_data_list": [],
+      "orig_name": "アルケス錬金堂",
+      "orig_text": "もうええわっ！！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Well, I wasted so many of their materials I better gather them up and then return to the shop with them. {0}-kun! I'm going to take off my mask so stay away!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "さて、\n素材無駄にしちゃったから集めて返さないと。\n{0}くーん。\nマスク外すから離れててねーっ！"
+    },
+    {
+      "name": "ノゾミ",
+      "text": "クン……\nよし！　\nこっちだ！",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "クン……\nよし！　\nこっちだ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yay! I got the white aquatic plant♪ I never thought my smell fetish would be useful for gathering materials♪ Let's keep collecting like this!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "やったっ！　\n白水草ゲット♪\nまさか匂いフェチが素材集めに役立つなんてね♪\nこの調子で集めちゃおう！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "All right, we've collected a lot♪ As for the rest... I think I'll practice some more here. It'll be fine if there's an explosion here, right? Look, Lou-chan lent me her portable alchemy pot!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "よーし、\nたくさん集められた♪　\n残りは……\nここで練習していこうかな。\nここなら爆発しても大丈夫でしょ？\nほらこれ、\nルイちゃんが携帯錬金釜貸してくれたの！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ehehe. So with that said, let's get this alchemy practice going! \"Original Transmutation\"!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えへへ。\nという訳で\n早速練習開始ー！\n『基創錬成』！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bofun!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ボフンッ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ugh... It's no good. No matter how many times I try, I can't succeed. I can't even make something as easy as a Create Rank 1 Potion.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うう……\nダメだ。\n何度やっても成功しないや。\n作成ランク１のポーションが作れないなんて……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Even if I continue practicing blindly like this, I can't see any vision of it going well...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "このまま闇雲に練習を続けても\n上手くいくビジョンが見えないよ……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I guess I really don't have any talent, just like Lou-chan said.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "やっぱり、ルイちゃんの言う通り\n私には才能がないのかな。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Singing and dancing...?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "歌とダンス……？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Come to think of it, when I first started aiming to be an idol, I was terrible at singing and dancing. To be fair, even now I'm still learning actually.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そういえば\nアイドルを目指しだした頃は、\n歌もダンスも全然へたっぴだったっけ。\nなんて、\n今もまだまだ勉強中だけどね。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Back then, just like now, I didn't feel like I was getting better no matter how many times I tried... I was depressed, thinking I'd never be able to become an idol.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あの頃も今と同じように、\n何度やっても上手くなれてる実感がなくて……\nアイドルになんてなれっこないって落ちこんでたな。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "But what changed me was... That's right. I realized that I wanted to make my customers smile.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "でも変われたのは……\nそう。\nお客さんを笑顔にしたいって気持ちに気付けたこと──"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I see, that's it...! {0}-kun, I...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そっか、\nそれだ……！\n{0}くん、\n私──"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……っ！？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Sorry, we'll continue this talk later! I can smell monsters over there... And also... the smell of blood...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ごめん、\n話は後っ！\nあっちから魔物の匂いがする……\nそれに。\n血の匂いも……！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Male",
+      "text": "Ugh... Dammit. In a place like this...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "うぐぅ……\nくっそ。\nこんなところで……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "{0}-kun, strengthen me! ...Haaaah!!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "{0}くん、強化をお願い！\n……はああーっ！！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "You there! Are you all right!? Are you hurt!? ...You need to be treated right away!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そこの方！\n大丈夫ですかっ！？\nケガは！？　\nすぐ手当しなくちゃ！"
+    },
+    {
+      "name": "Male",
+      "text": "Y-Yeah... Thank you for saving me... But... that monster bit my leg. It hurts so much...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "あ、\nああ……\n助けてくれてありがとう……\nだが……\nあの魔物に足を噛まれたんだ。\nひどく、\n痛んで……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "What should I do? Poison is coming out of the wound...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "どうしよう、\n傷口から毒が……"
+    },
+    {
+      "name": "Male",
+      "text": "Yeah, so... Even tough you went out of your way to save me, if there’s no antidote, and no healing magic... Unfortunately, it’s too late, I guess...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ああ、\nだから……\nせっかく助けてもらったけど、\n解毒薬はないし、\n治癒魔法も……\n残念ながら、\n手遅れ、\nかな……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "No way! An antidote... Can't we get it somewhere? Like running to the nearest store, or calling for someone... We have to save this person somehow!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そんな！　\n解毒薬……\nどこかで手に入れられない？\n一番近いお店まで走るとか、\n誰か呼んでくるとか……\nどうにかして、この人を助けなくちゃ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Yeah... That's right. I have to make it myself...! I don't know if I can really do it, but...! There's no other choice left for us to take!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……うん\n……そうだよね。\n私が作るしか……！　\n本当にできるかなんて、\n全然分からないけど……\nでも……！　\nやれるだけはやらなくちゃ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "As for the antidote page... Okay, it looks like I can easily get the required materials in this forest! But the problem is, the antidote creation rank is... 5. I can't even make a rank 1 potion...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "解毒薬のページは……\nよし、\n素材はこの森で簡単に手に入りそう！\n……\nでも\n問題は、\n解毒薬の作成ランクは……\n５。\nランク１のポーションも作れない私が……"
+    },
+    {
+      "name": "Male",
+      "text": "*pant pant*... I'm sorry for worrying you, just hearing your thoughts is enough... Please, don't push yourself...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "……っ、\nはあ、\nはあ……\nすまない、\nそう言ってくれるだけで十分だよ……\n頼む、\n無理はしないでくれ……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...! ...Please {0}, will you help me gather the materials? The characteristics are...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……っ！\n……お願い、\n素材を集めるの、\n手伝ってくれる？\n特徴はね……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Thank you...! Okay, now we have all the ingredients we need.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ありがとう……！\nうん、\nこれで材料は揃ったね。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Phew.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "──ふう。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We have only one serving of materials. If I fail, there'll be no next time. ...But I won't fail.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "素材は一個分だけ。\n失敗したら次はない。\nでも私は、\n失敗しない。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...I realized that my former terrible singing and dancing weren't for me, and I made a breakthrough.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "──へたっぴだった歌やダンスも、\n自分のためじゃないって気が付いて、\n突破した。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "My singing and dancing aren't for me. They're for the enjoyment of someone else... my fans.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "私の歌とダンスは、\n私のためのものじゃない。\n誰かの──\nファンのみんなを喜ばせるためのものなんだ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Alchemy is the same. It's not for me. I want to help this person.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "錬金術も同じだ。\n私のためじゃない。\n私はこの人を助けたいから。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I WILL NOT FAIL!! ORIGINAL TRANSMUTATION!!!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "私は失敗しない！！\n『基創錬成』ーーー！！！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...! I've made it...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……っ！\nできた……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I managed to do some alchemy! My rank 5 antidote is complete!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "できたよ錬金術！\nランク５の解毒薬、\n完成だ！"
+    },
+    {
+      "name": "Male",
+      "text": "...The swelling and pain have subsided. Thank you both so much...!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "……腫れと痛みが治まってきた。\n二人とも、\n本当にありがとう……！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yeah...! We did it, {0}-kun! ...And also...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うん……！\nやったよ、{0}くん！\n……\nそれに。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We did it, Lou-chan! You were watching over us from the shade of that tree, weren't you?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "やったよ、ルイちゃん！\nその木の陰で、\n見守ってくれてたんでしょ？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Eek?! H-How did you even find me out...?!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ひっ！？\nな、\nなんでバレたの……！？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ehehe. I catched a scent of your smell halfway through that ordeal, Lou-chan♪ Sniff, sniff...♪ You have a good smell♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えへへ。\n途中からルイちゃんの匂いがしたから♪\nクンクン……♪　\nいい匂い♪"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "EEEEKKK!? Indiscriminate smelling!? NO SHAMELESS ACTS, especially towards me!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ひいっ！？　\n見境なし！？\n私に破廉恥禁止よ！！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Hehe, you came because you were worried about me...! I'm so happy! Thank you, Lou-chan!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ふふっ、\n私のこと心配で来てくれたんだよね……！\nうれしいよ、\nありがとうルイちゃん！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "O-Of course that's not it! Why would I even worry about you?!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "そ、\nそんな訳ないでしょ？\nなんであなたのこと心配なんて……！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Kh! This isn't... I just happened to be in the mood to make one is all.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "っ！！\nこれは別に……\nたまたま、\n作りたい気分だっただけよ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Hmph. I worked so hard to make this antitode... And now it's all useless because of you.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……ふん。\nせっかく作った解毒薬。\nあなたのせいで使い道無くなっちゃったわ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...The alchemy just now was quite decent. Well, pretty good even. ...Nozomi.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……さっきの錬金術は\nほんのちょっとだけ。\nまあまあ良かったわよ。\n…………\nノゾミ。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "You finally called me Nozomi!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ノゾミって呼んでくれたっ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Like I said, don't hug me! EEEEKKK! AND DON'T SNIFF ME!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "だから抱きつかないでってば！\nひいっ！　\n匂い嗅がないで～！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Thus, Nozomi finally succeeded in alchemy. And little by little, she also built up a relationship of trust with Louise Marie.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして初めて錬金に成功したノゾミ。\nそして少しづつ、\nルイズマリーとの信頼も築いていったのだった。"
+    }
+  ]
+}

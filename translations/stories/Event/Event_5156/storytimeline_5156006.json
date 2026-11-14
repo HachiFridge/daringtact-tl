@@ -1,0 +1,845 @@
+{
+  "title": "Where the dice fall",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the others, saved by Yamato,\nattempt to escape from the Grogg Gang's hideout, but──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ヤマトによって助け出された{0}たちは\nグロゴ団のアジトからの逃走を試みるが──"
+    },
+    {
+      "name": "Wakana",
+      "text": "Sis!?\nYou said to run,\nHow are we supposed to run carrying these heavy bags──!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ね、\n姉さん！\n逃げるって言ったって、\nこんな重い袋を持ってどうやって──！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Fufun♪\nFubuki, it's time for that!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "フフン♪\nフブキ、\nあれの出番だよ！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Hohoho~♡\nRemote control, click.\nSwitch on. Come on♪",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "ほっほほ～い♡\nリモコン\nすちゃっ。\nすいっち\nおん。\nかも～ん♪"
+    },
+    {
+      "name": "Wakana",
+      "text": "W-what is that car?\nAn open car...!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "な、\nなんですかあのクルマは。\nオープンカー……！？"
+    },
+    {
+      "name": "Yamato",
+      "text": "It’s an escape car I had specially made as soon as we got here, in case our plan was discovered.\nIt looks shabby and has no weapons, but its speed is unmatched♪",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "作戦がバレた時のために、\nここへ来て真っ先に作らせておいた\n逃走専用車さ。\n見た目はショボくて武器もないが、\nスピードだけはダントツだよ♪"
+    },
+    {
+      "name": "Yamato",
+      "text": "Now, get in along with the treasure!\nThe spike monks can escape on their own!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "さぁ、\n財宝ごととっとと乗りな！\nトゲ坊主たちは自力で逃げれるね！"
+    },
+    {
+      "name": "Spikes",
+      "text": "Kyun!",
+      "choice_data_list": [],
+      "orig_name": "スパイクたち",
+      "orig_text": "キュン！"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "You guys!\n...Hmph! Hmph! Hmph!?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "テメェらぁぁぁ！\n……\nふんっ！　\nふんっ！　\nふん！？"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Hey!\nMy car, the engine won't start! What the hell's going on!?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "おい！\n俺のクルマ、\nエンジンがかからねぇぞ！　\nどーなってんだ！"
+    },
+    {
+      "name": "Member 1",
+      "text": "B-boss! It's stalled.\nDamn, Fubuki...\nShe only pretended to fix them, not a single one was repaired!",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "カ、\nカシラ！　\nこれ、\nエンストしたままです。\nくそっ、\nフブキのやつ……\n修理したフリだけで\n一台も修理してなかったみたいです！"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "What!?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "なぁにぃぃぃ！？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Kyahahaha~♪\nWithout cars~\nYou old guys can't do anything, can you~?",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "きゃっはは～♪\nクルマがないと～\nおじさんたち、\nな～んにもできないでちゅね～？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Hmm~, no, that's wrong~\nIt's not that you can't do, it's that you didn't do it~",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "……ん～、\nや、\nちがうね～\nできないんじゃなくて～\nしないんでちたね～"
+    },
+    {
+      "name": "Mud Joe",
+      "text": ".........!!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "………\n…っ！！"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "...Fubuki-chan...\nLet me ask you one thing.",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "……\nフブキちゃん……\n一つだけ、\n聞かせてくれ。"
+    },
+    {
+      "name": "Fubuki",
+      "text": "What is it?",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "あ～に～？"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "...There's love, isn't there...\nBehind those harsh words, there's love...",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "……\n愛が、\nあるんだろ……？\nその辛辣な言葉の裏には\n愛が……"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "It's teasing because of love, right?\nThat's what I thought!? Please say it's true, Fubuki-chan!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "なぁ、\n愛がゆえのイジリなんだろう？\n俺はそう思ってたよ！？\n頼むそうだと言ってくれ\nフブキちゃあぁぁん！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Love~?\nThere's no such thing.\nI dislike weak thieves like you old guys♪",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "アイ～？\nそんなんあるワケないじゃん。\nぼく、\nおじさんたちみたいな弱っちいドロボーはキライだし♪"
+    },
+    {
+      "name": "マッド・ジョー",
+      "text": "…………！！！！",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "…………！！！！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Let's scram!\nFubuki, full speed ahead!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "さぁ、\nずらかるよ！\nフブキ、\n全速力だ！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Aye, Yama-sis♡\n──Goodbye, old man.",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "あ～い\nヤマ姉♡\n──じゃね、\nおじさん。"
+    },
+    {
+      "name": "マッド・ジョー",
+      "text": "誰が……\n弱っちいだとぉぉぉ……！？\n…\n………\n──！",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "誰が……\n弱っちいだとぉぉぉ……！？\n…\n………\n──！"
+    },
+    {
+      "name": "Member 1",
+      "text": "B-boss!? No, don't press that button!\nFubuki said you could never return, if you do—",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "カ、\nカシラ！？\nダメです、\nそのボタンは！\n二度と戻れなくなるって、\nフブキが──"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Fine by me!\nI've no regrets for dying──\nI have to catch up with them somehow!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "上等だ！\nんなカラダに未練はねぇ──\n俺サマは奴らに、\n追いつかなくちゃならねえんだからなああぁッ！！"
+    },
+    {
+      "name": "Member 1",
+      "text": "──Ah!\nHe pressed... it...",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "──ああ！\n押しちゃっ……\nた……"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Nuuuuhhh...? ...! Ahhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "ぬうぅぅぅぅ……？\n……！　\nぁぁぁぁぁぁあああああ！"
+    },
+    {
+      "name": "Member 1",
+      "text": "H-hii...",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "ひっ、\nひい……！"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Wait... Haaaa!! Bandy Sisters!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "待てッ\nハァァァァァッ！！\nバンディ・\nシスタァァァァァズッ！！！"
+    },
+    {
+      "name": "Wakana",
+      "text": "E-eek!? Behind...!\nMr. Joe... He's merged with the car and chasing us!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "え、\nえええ！？　\n後ろ……！\nジョーさんが……\nクルマと一体化したジョーさんが追ってきますよ～！？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Geroro.\nDid you press the magic button?\nI said it was a bonus~",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "げろろ。\nまーじぼたん、\n押しちゃったの！？\nオマケっつったのに～"
+    },
+    {
+      "name": "Yamato",
+      "text": "By merging with the car, he's overcome his weakness permanently.\nEven as an enemy, I'll commend his resolve.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "クルマと一体化することで、\n弱点を永久に克服しやがったか。\nその覚悟、\n敵ながら褒めてやろうじゃないか。"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "I can move... swiftly now!\nAt last, my legs have become my own legs!\nKaaahhaa!!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "動ける……\nシュンビンに動けるぞ！\nついにアシが\n俺のアシになりやがった！\nカァッハァァァァァァ！！！！"
+    },
+    {
+      "name": "Wakana",
+      "text": "Aww... It feels like a huge power-up~",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "あわわわ……\nなんだかものすんごいパワーアップ感ですけど～！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Calm down. It might be troublesome head-on...\nBut with that big body, modified or not, we're way faster.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "落ち着きな。\n正面から戦えば厄介だが……\n向こうはあの図体だ。\nいくら改造したって\nスピードじゃこっちが\n断然有利なんだ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Huh?\nIt's not just Joe chasing?\nWhat does this mean?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……アアン？\n追ってくるのはジョーだけじゃない？\nどういうこったい。"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "There they are! Bandy Sisters!\nCapture them!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "いたぞ！　\n【バンディ・シスターズ】だ！\n捕獲しろー！"
+    },
+    {
+      "name": "Wakana",
+      "text": "That's... the Royal Knight Order (NIGHTMARE) members!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "あれは……\n【王宮騎士団（NIGHTMARE）】のみなさん！"
+    },
+    {
+      "name": "Wakana",
+      "text": "Hah!\nIt's because we ran away from our community service?\nThey followed us all the way here!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "はっ！\nわたしたちが、社会奉仕活動から逃げちゃったから？\nこんなところまで追いかけてきたんですかっ！？"
+    },
+    {
+      "name": "Yamato",
+      "text": "This area should be out of their jurisdiction.\nReally, talk about having too much free time.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ここは管轄外だろうが。\nったく、\nそろいもそろって暇人だねえ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "Oh well. Even those knights can’t catch up with us.\nFubuki! You know where the gate is, right?\nPut the pedal to the metal!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "まぁ、\nいい。\nヨロイどもにだって追いつかれる道理はないからね。\nフブキ！　\nゲートの場所はわかるね。\nアクセルを底の底まで踏み抜きな！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Aye aye, sir~♡",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "あいあいさ～♡"
+    },
+    {
+      "name": "Wakana",
+      "text": "Whoa! What a speed!\nMr. Joe and the soldiers, they're falling behind so fast...\nWe might actually get away...!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ひゃぁぁん！　\nす、\nすごいスピード！\nジョーさんも兵士さんたちも、\nあっという間にあんな後ろに……！\nこれ、\n逃げ切れちゃいますね……！"
+    },
+    {
+      "name": "ヤマト",
+      "text": "…………\n…………",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "…………\n…………"
+    },
+    {
+      "name": "Wakana",
+      "text": "Sis...? Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "……姉さん……？\nどうかしたんですか？"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Oh, no.\n...I'm just thinking, it's been a long journey to get here.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……ああいや。\n……考えてみりゃあ、\nここまでずいぶん長かったと思ってねぇ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "Each time we tried to get what we wanted...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "欲しいモンを手に入れようとする、\nそのたんびに……"
+    },
+    {
+      "name": "Yamato",
+      "text": "We were stopped...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "阻まれ……"
+    },
+    {
+      "name": "Yamato",
+      "text": "Thrown away...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "飛ばされ……"
+    },
+    {
+      "name": "Yamato",
+      "text": "Made into 'shooting stars' who knows how many times.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "何度も『お星さま』なんざにされて。"
+    },
+    {
+      "name": "Yamato",
+      "text": "Heh, and in the end, we were treated like expendable pawns.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ククッ、\n挙句の果てにゃあ、\n使いっパシリのトカゲのシッポ扱いさ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "...But this time, we'll win.\nAs long as the dice roll isn’t jinxed, that's how it's supposed to be!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……だが今度こそ、\nアタシたちが勝つんだ。\n賽の目がイカれてなきゃあ──\nそうなるはずなんだよっ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "──We must escape!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "──なんとしても逃げ切るよ！"
+    },
+    {
+      "name": "Fubuki & Wakana",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "フブキ・ワカナ",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……あん？"
+    },
+    {
+      "name": "Yamato",
+      "text": "..............Tch.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "………………\nチッ。"
+    },
+    {
+      "name": "Wakana",
+      "text": "Huh? ...Ah, does that mean...\nIt's because Landosol is a target of the Grogg Gang,\n──is that it...?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "え？　\n……\nあ、\nそれって……\nランドソルがグロゴ団の標的になってるから、\n──ってことですか……？"
+    },
+    {
+      "name": "Wakana",
+      "text": "Indeed...\nThe attack plan against Landosol hasn't disappeared...\nIf we leave Joe and the others, they'll surely come again soon...",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "たし……\nかに……\nランドソル襲撃計画が消えたわけじゃない……\nジョーさんたちを放置すれば、\nまた近いうちにきっと……"
+    },
+    {
+      "name": "Yamato",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Wakana",
+      "text": "In Landosol, this person's friends and...\npeople living peacefully, there are many of them, right...",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ランドソルには、\nこの人のお友だちや……\n平和に暮らしている人が、\nたくさんいるんです、\nよね……"
+    },
+    {
+      "name": "Wakana",
+      "text": "If the Grogg Gang attacks en masse,\nthose people will be in big trouble...!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "グロゴ団が大挙して襲撃してきたら、\nそのみなさんが大変なことに……！"
+    },
+    {
+      "name": "Yamato",
+      "text": "...So what.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……だから\nなんだい。"
+    },
+    {
+      "name": "ワカナ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Kid.\nSorry, but we’re not a guild that helps people.\nWe're different from the folks you usually hang out with.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……ボーヤ。\n悪いが、\nうちは人助けギルドじゃない。\nお前が普段ツルんでる連中とは違うんだ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "Hah. If you know that────\nHey!?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ケッ。\nわかってンなら────\nって、\nおい！？"
+    },
+    {
+      "name": "Wakana",
+      "text": "Wha!? That person just jumped off the car!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "きゃぁっ！？\nあの人、\nクルマから飛び降りた！？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Reckless!? Hey, big bro, what are you going to do?",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "命知らず！？\nえー\nお兄さーん、\nどーすんのー？"
+    },
+    {
+      "name": "Wakana",
+      "text": "Ah, she went back...! That person intends to fight Joe by herself!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ああ、\n戻ってっちゃった……！\nあの人、\n一人でジョーさんと戦うつもりです！"
+    },
+    {
+      "name": "Yamato",
+      "text": ".........!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "…………っ。"
+    },
+    {
+      "name": "Wakana",
+      "text": "Sis...!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "姉さん……！"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Where in the world is a thief who cares about other people's circumstances?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……他人の都合を考えるドロボーが、\nどこの世界にいるってんだい。"
+    },
+    {
+      "name": "Wakana",
+      "text": "Sis!!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "姉さん！！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Fubuki, fire up the booster. We're jumping through the gate.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "フブキ、\nブースターに点火だ。\nこのままゲートに飛び込むよ。"
+    },
+    {
+      "name": "Fubuki",
+      "text": "............Is that okay?",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "…………\nいいの？"
+    },
+    {
+      "name": "Yamato",
+      "text": "The youngest shouldn't be thinking unnecessary things!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "末っ子が余計なこと考えンじゃないよ！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "……Okay.",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "……ぅい。"
+    },
+    {
+      "name": "Yamato",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "…………"
+    },
+    {
+      "name": "ヤマト",
+      "text": "……大切な人だって？　",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……大切な人だって？　"
+    },
+    {
+      "name": "Yamato",
+      "text": "When you have something like that lodged in your heart...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ンなもんが胸ん中にいられると……"
+    },
+    {
+      "name": "ヤマト",
+      "text": "窮屈でしょうがないんだよ……！　",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "窮屈でしょうがないんだよ……！　"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方──"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Out of the way, eldest brother. I have no business with you.",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "どけ、\n長男。\nてめぇに用はねぇ。"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Who are you giving orders to? I said step aside! If you're going to interfere... Kaaahhhh!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "誰に向かって命令してる！\nどけっつってんだろうが！\n邪魔するんなら……\nカァッハァァァァァァ！！"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Nuuu? You dodged it? But now there's no place to escape. Take this─",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "ぬぅぅぅ？　\n避けたか！\nしかし今度は逃げ場はねぇ。\n食らいな──"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Bonnet Cannon!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "ボンネットキャノンッッッッ！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "────！！",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "────！！"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "............Huh? The flames were sliced? What...!?",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "…………ああ？\n炎が、\n切り裂かれた？　\nなんだ……！？"
+    },
+    {
+      "name": "Yamato",
+      "text": "What is this, what is this...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "なんだいなんだい……"
+    },
+    {
+      "name": "Yamato",
+      "text": "I came to see what kind of thing you got with your new ride, and huh, it's not as satisfying as the real thing.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "アシ、\n手に入れたっつうからどんなモンかと思って来てみたが、\nはんっ、\nやっぱりまがいモンじゃあ歯ごたえがないねぇ。"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Yamato! You scoundrel!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "ヤマト！　\nキッサマァァァ！！"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "I don't care about treasure anymore... I'm going to crush and scorch those who made a fool out of me...",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "もう財宝なんてどうでもいい……\n俺サマをコケにしまくったキサマらを、\n轢き潰し、\n焦がし尽くして……"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "As long as I can make you a stain under the feet of the Monstresses, Gio Gehenna, ahhhhh that's all I need!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "妖魔人たちの足の裏でいたぶられる、\nジオ・ゲヘナのシミにさえできりゃ、\nああああそれでいい！！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Hah, you seem quite angry.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ハッ、\n随分とお怒りのようだねぇ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "...But sorry to say, when it comes to being in a bad mood, I'm above you.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……しかし悪いが、\n不機嫌さでいやぁ、\nアタシのが上だよ。"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "ああ？"
+    },
+    {
+      "name": "Yamato",
+      "text": "A thief turning with escape at his feet, returning to take unnecessary crocodile balls,",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "泥棒が逃げ足翻して、\nとりたくもねぇワニのタマなんざ、\nとりに戻って来てンだからねぇ……！"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "...What are you saying!? Burn it to ashes!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "……なに言ってやがる！\n焦げ付けぇぇぇぇぇぇ！！"
+    },
+    {
+      "name": "Wakana & Fubuki",
+      "text": "—Sis, watch out!!” “—Yama-sis!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ・フブキ",
+      "orig_text": "「──姉さん危ない！！」\n「──ヤマ姉！」"
+    },
+    {
+      "name": "Yamato",
+      "text": "Haaaaaaa!!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ハァァァァァァァ！！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "────！！",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "────！！"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………"
+    },
+    {
+      "name": "ヤマト",
+      "text": "ハァッ……",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ハァッ……"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "...Haha♪ Serves you right—",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "……カッハー♪　\nざまぁ──"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "──!? Guhhhh!!!!",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "──っ！？\nグハァァァァァァ！！！！"
+    },
+    {
+      "name": "Hyper Dash Joe",
+      "text": "Gwah! Ugh...! No way... I, lost...",
+      "choice_data_list": [],
+      "orig_name": "ハイパー・ダッシュジョー",
+      "orig_text": "ぐぁふっ！　\nうぅっ……！\nウソだろ……\n俺サマが、\n負、\nけ……"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Huh. This shouldn't be happening.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……はん。\n一件落着……\nってワケにはいかないか。"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "Don't move! That's as far as you go!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "動くな！　\nそこまでだ！"
+    },
+    {
+      "name": "Wakana",
+      "text": "EEEK!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "きゃっ！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Hyah!",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "ひ\nゃぁん！"
+    },
+    {
+      "name": "Yamato",
+      "text": "............",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "…………ッ。"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "Jeez, ignoring the mercy of His Majesty. There's no room for leniency!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "ったく、\n陛下の御慈悲を無下にしやがって。\nもう情状酌量の余地はなしだぞ！"
+    },
+    {
+      "name": "Soldier 2",
+      "text": "The Bandy Sisters' Yamato, Wakana, Fubuki! And one hostage accompanying them—secured!",
+      "choice_data_list": [],
+      "orig_name": "兵士２",
+      "orig_text": "【バンディ・シスターズ】のヤマト、\nワカナ、\nフブキ！\nと、\n同行の人質一名──確保！"
+    },
+    {
+      "name": "Wakana",
+      "text": "Ah, that bag...!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "あ、\nその袋は……！"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "The contents are presumably stolen treasures. Already understood. --Confiscated!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "中身は盗品の財宝だろう。\n把握済みだ。\n──\n押収！"
+    },
+    {
+      "name": "Wakana",
+      "text": "Eeeeh...",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "えええ……"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Aaah...",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "あーあ……"
+    },
+    {
+      "name": "Yamato",
+      "text": "............Tch.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "…………ケッ。"
+    },
+    {
+      "name": "Narration",
+      "text": "All the treasures obtained from the Glogo Gang were confiscated—",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "グロゴ団からせしめた財宝は全て押収され──"
+    },
+    {
+      "name": "Narration",
+      "text": "The Bandy Sisters' victory vanished as ashes on the scorching earth.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【バンディ・シスターズ】の勝利は、\n灼熱の大地の上に、灰となって消えたのだった。"
+    }
+  ]
+}

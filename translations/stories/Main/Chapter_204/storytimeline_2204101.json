@@ -1,0 +1,887 @@
+{
+  "title": "Magical Girl and Mushroom Rebellion",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Tomo, Shizuru, and Quria had come to Gio Teogonia to slay the invading monsters, and they came to a forest in pursuit of them.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔物退治をするべくジオ・テオゴニアにやってきた\nトモとシズル、そしてクリアを加えた一行は、\n魔物を追って森に訪れていた。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "All right! ☆ Looks like we've cleaned most of the monsters around here♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "よ～しっ☆\nこのあたりの魔物は\nあらかたお掃除できたみたいだね♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "Yeah, it's gotten a lot more quiet now. I guess it's time to take breather.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "うん、\nだいぶ静かになったし。\nそろそろ一息つけそうだね。"
+    },
+    {
+      "name": "Quria",
+      "text": "Both of you were amazing at swordsmanship. You're so cool, I admire you♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "お二人とも、\nすごい剣さばきでした。\nかっこよくて憧れちゃいます♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "R-Really? It's a little embarrassing to hear you say that to my face.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "そ、\nそうかな？\n面と向かって言われると、\nちょっと照れくさいよ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Hehe, in that case, please be more embarrassed. Tomo-san's Mikuma style was so beautiful that I was captivated by it♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ふふ、\nそれならもっと照れてください。\nトモさんのミクマ流、\n見とれちゃうくらいにきれいでしたよ♪"
+    },
+    {
+      "name": "Quria",
+      "text": "And Shizuru-san's swordsmanship? Um... How should I put it? It was 'hearty'. Finishing the monster off with a headbutt at the end, I was so surprised!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "それに\nシズルさんの、\n剣技？　\nも……\nなんていうか、\nその、\n豪快で。\n最後は\n魔物に頭突きでトドメ！\nなんて、\nびっくりしちゃいました。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ufufu, it's the work of Onee-chan's power to protect and care for her brother♪\nGood girl like you doesn't need to imitate it~☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うふふ、\n弟くんを思う\nお姉ちゃんパワーのなせる業だよ♪\nよい子は\n真似しちゃダメだぞ～☆"
+    },
+    {
+      "name": "Quria",
+      "text": "Ahaha, I don't know if I can do it even if I want to... But if you don't mind, I'd like the two of you to teach me how to wield a sword later.\nI want to become stronger.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あはは、\n真似したくてもできるかどうか……\nでも、\nよければあとでお二人に\n剣の扱いを教わりたいです。\nわたし、\nもっと強くなりたいですから。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Of course. Once we're done eliminating the monsters, let's practice. This area is just spacious enough to swing a sword.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "もちろん。\n魔物退治が済んだら\n稽古でもしようか。\nこの辺なら、\n剣を振るのにもちょうどいい広さだし。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Still...this sure is a strange landscape. I've heard stories about it, but everything really is made of sweets...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "それにしても……\nおかしな風景だよね。\n話には聞いてたけど、\n本当に何もかもがお菓子でできてるんだ……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You're right~♪ Look, you two! These flower petals are made of candy~",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "だよね～♪　\nほら見て、\n二人とも！\nこのお花の花びら、\n飴でできてるよ～"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Hmm, this petal is apple flavor♪ And these ones are strawberry flavor? I'll have to bring some home as souvenirs for my little brother☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ん～、\nこれはリンゴ味♪　\nこっちの花びらは\nイチゴ味かな？\n弟くんへのお土産に持って帰ろっと☆"
+    },
+    {
+      "name": "Tomo",
+      "text": "Wow... It's like I'm in a story book. I want to explore more...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "すごいな……\nまるで絵本の中にいるみたい。\n探検、\nしてみたいな……"
+    },
+    {
+      "name": "Quria",
+      "text": "Hehe. So Tomo also likes story books and similar stuffs, not just swordsmanship.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ふふっ。\nトモさん、\n剣だけじゃなく\n絵本とかもお好きなんですね。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Eh!? No, that's not......I just thought that this is a really strange world......",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──えっ！？　\nいや、\nそんなことは……\n単に\nすごく不思議な世界だなって思っただけで……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ufufu, Quria-chan, do you know~? Tomo-chan is a really cool girl, but... she actually also has a thing for fairy tales~☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うふふ、\nクリアちゃん\n知ってるかな～？\nトモちゃんは、\nとーってもかっこいい女の子だけど……\n実はメルヘンなものに\n目がないんだよ～☆"
+    },
+    {
+      "name": "Tomo",
+      "text": "H-Hang on, Shizuru?! How did you know that...? No, that's just something common to have, just common things! It's not like I particularly dislike it or anything, but...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ちょ、\nちょっとシズルさん！？　\nなんでそれを知って……\nいや、\nそんなの人並みだよ、\n人並み！\n別に\n嫌いなわけじゃ、\nない、\nけど……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Tomo-chan just keep saying things like that~\nCan't you just be more honest and enjoy this fairy tale world? For example, this mushroom... *nom*♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "トモちゃんたら、\nそんなこと言って～\nもっと素直になって、\nこのメルヘン世界を楽しも？\n例えばこのキノコは……\nあむっ♪"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Mmm~! It's fluffy like marshmallows outside, and creamy inside~☆Tomo-chan, would you like some too~?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "んん～！　\n外はマシュマロみたいにふわっふわで、\n中はクリームみたいにトロっトロ☆\nトモちゃんも\nお一ついかが～？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Ugh... I don't need it! More importantly, let's split up and search for the remaining monsters!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "う……\nいらないってば！\nそれより、\n残りの魔物を手分けして探そう！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Got it! ☆ And while I'm at it, I'll go look for some sweets that Tomo-chan might like♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "合点しょーち☆\nついでにトモちゃんが好きそうなお菓子も探してくるね♪"
+    },
+    {
+      "name": "Quria",
+      "text": "I'll look for some too. Please look forward to it♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "わたしも探してみます。\n楽しみに待っていてくださいね♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "*sigh* Goodness. I can't believe I'm being teased so hard by these two... I'm so glad he's not here.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──はぁ、\nまったくもう。\nこの私がからかわれるだなんて……\nこの場に彼がいなくてよかったよ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "But that mushroom... It does look really delicious. Maybe I should try one too... No, just one bite...?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "でも、\nさっきのキノコ……\nたしかにおいしそうだったな。\n私も一つだけ……\nいや、\nひと口だけ食べてみようかな……？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Quria! There's one over there! Block its escape route!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──クリアちゃん！\n一匹そっちへ行ったよ！　\n退路を塞いで！"
+    },
+    {
+      "name": "Quria",
+      "text": "Kuh, he's fast...! But I won't let it through here! Yaaah!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "くっ、\n速い……！\nでも、\nここは通しません──\nやあぁっ！！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Quria",
+      "text": "...Only a scratch?! No, at this rate it'll get away~",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……っ、\n浅い！？\nダメ、\nこのままじゃ逃げられちゃう──"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Sorry to keep you waiting, Quria-chan～!\nTake this, Onee-chan Slash☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "クリアちゃん、\nお待たせ～！\n──食らえっ、\nお姉ちゃんスラーッシュ☆"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Good job, you two! Looks like that's the last one. Thank you for your hard work.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "二人とも、\nお見事！\nその一匹で最後みたい。\nお疲れさま。"
+    },
+    {
+      "name": "Quria",
+      "text": "Y-Yes.\nI'm sorry... I couldn't finish it off properly, and I almost let it get away.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "は、\nはい。\nごめんなさい……\nうまく仕留めきれなくて、\n危うく逃がしちゃうとこでした。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Really? Quria-chan blocked the monsters for Onee-chan so I thought you were a great help～",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そうなの？　\nクリアちゃんが通せんぼしててくれたから、\nお姉ちゃん的には\n大助かりだったんだけどな～"
+    },
+    {
+      "name": "Tomo",
+      "text": "...You're right. From what I heard, you seemed to be in a bit of hurry to step in. Is that why your strike wasn't clean?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "……\nたしかに。\n音を聞いてた限りだと、\nすこし踏み込みを焦った感じがしたね。\n手応えが浅かったんじゃない？"
+    },
+    {
+      "name": "Quria",
+      "text": "Yes. When I thought I had to stop the enemy, I went into a slight panic. What should I do at times like that...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はい。\n敵を止めなきゃって思ったら、\n焦っちゃって。\nこういう時って\nどうすればいいんでしょう……？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Hmm, it might sound a little abstract, but... I think the important thing is to believe.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "うーん、\nちょっと抽象的に聞こえるかもだけど……\n大事なのは、\n信じること、\nだと思う。"
+    },
+    {
+      "name": "Quria",
+      "text": "\"To believe\"...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "信じること……？"
+    },
+    {
+      "name": "Tomo",
+      "text": "If the enemy is right in front of you, naturally you will have to shift all your focus towards them. Maintaining your composure during battle will be very difficult then. However...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "敵が目と鼻の先にいれば、\n当然そちらに意識が向く。\n戦いの中で冷静さを保つことは、\nとても難しい。\nでも……"
+    },
+    {
+      "name": "Tomo",
+      "text": "As long as you believe in your own sword and your friends, you can maintain your vision and composure to observe your opponent.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "自分の剣を、\n仲間を信じていれば、\n相手を観察する視野も、\n冷静さも保つことができる。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Only when we can leave the rest to those we believe in, can we see what lies ahead. In the Mikuma style of swordsmanship, this is also known as to \"control and counterattack\".",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "信じるものに後を任せられてこそ、\n先が見えるんだ。\nミクマ流剣術では、\nそれを\n「後の先」を制する……\nなんて表現するね。"
+    },
+    {
+      "name": "Quria",
+      "text": "Believing in yourself and your friends... That's what a swordsman is supposed to do.\nYeah, It's not what I originally thought, but I think I got it♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "自分と仲間を信じて……\nそれが剣士の心得なんですね。\nうん、\nなんとなくですけど、\nわかった気がします♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "Hehe, give it a try if you get the chance. We'll be by your side when the time comes.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ふふ、\n機会があったら試してみて。\nそのときは、\n私たちがそばについてるから。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Yup yup, I'll always be by your side♪ Rest assured, lil' brother♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うんうん、\nずーっとそばにいてあげるよ♪\n安心してていいからね、\n弟くん♪"
+    },
+    {
+      "name": "Quria",
+      "text": "Yes, I'm counting on you... ...Huh, \"lil' brother\"?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はいっ、\nよろしくお願い……\n…………\nえ、\n弟くん？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Huh? Come to think of it, why is my lil' brother here~?! Could, it, be... Did you miss your Onee-chan? Come here, and I'll give you a biiig hug♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あれぇ？　\nそういえば、\nどうして弟くんがここにいるの～！？\nも・\nし・\nか・\nし・\nて……\nお姉ちゃんが恋しくなっちゃった？\nこっちおいで、\nいっぱいハグしてあげる♪"
+    },
+    {
+      "name": "Quria",
+      "text": "W-Wait, Shizuru... What's gotten into you all of a sudden?!\nAah! ...T-Tomo! Shizuru's acting weird...! Don't tell me she's hallucinating...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ちょ、\nちょっと、\nシズルさん……\n急にどうしたんですか！？\n……\nト、\nトモさん！　\nシズルさんの様子がおかしいです……！\nまさか、\nなにか幻覚を……？"
+    },
+    {
+      "name": "Tomo",
+      "text": "...Yeah, this isn't good. It's definitely the work of an Anti-Beast.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "……あぁ、\n大変だ。\n間違いなく、\nアンチビーストの仕業だよ。"
+    },
+    {
+      "name": "Quria",
+      "text": "...Huh? \"Anti-Beast\" ...? What's that supposed to mean─",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……はい？　\nあんちびーすと……？\nなんですか、\nそれ──"
+    },
+    {
+      "name": "Tomo",
+      "text": "Now that it's come to this, I have no choice but to use the Mikuma-style magic swordsmanship! You there, fret not! For I'll protect the peace of this world...!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "こうなったら、\nミクマ流魔法剣術を使わざるを得ない！\nそこの君、\n安心して！　\nこの世界の平和は……\n私が守ってみせる！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Shiny, Feathery, Glory! Magical Swords, Sharpness!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──シャイニー、\nフェザリー、\nグローリー！\nマジカルソード、\nシャープネス！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Magical Swordswoman Shiny ★Tomo! My sparkling swordsplay will cut down all evil!!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "魔法剣士……\nシャイニー★トモ！\n煌めく剣技で、\n悪を断つ！"
+    },
+    {
+      "name": "Quria",
+      "text": "...Eeh... I-I don't know what's going on anymore...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……えぇ……\nも、\nもう\nなにがなんだか……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Wow, there are two lil' brothers... And you've also become a Magical Girl too?! Hehehe, you look great in it, lil' brother♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "わあっ、\n弟くんが二人に……\nそれも魔法少女になってる！？\nうふふ、\nよく似合ってるよ、\n弟くん♪"
+    },
+    {
+      "name": "Quria",
+      "text": "P-Please calm down. Onii-san... Shizuru's \"lil' brother\" won't become two or a Magical Girl, will he?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "お、\n落ち着いてください。\nお兄さんは……\nシズルさんの弟くんは、\n二人になったり\n魔法少女になったりしないですよね？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Huh, really? I have other older sisters, and they're also Magical Girls now, you know? If my sisers could do it, even you could do it too lil' brother♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "えっ、\nそう？\nお姉ちゃんも増えたことあるし、\n魔法少女にもなったよ？\nお姉ちゃんができたんだから、\n弟くんにだってできるできるっ♪"
+    },
+    {
+      "name": "Quria",
+      "text": "Why are there even precedents?!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "なんで前例があるんですか！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ah, but... I feel like you're different from my usual lil' brother!\n...Of course, Onee-chan got it now~☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あっ、\nでも……\nいつもの弟くんと、\nなんか違う気がする！\nそうだ、\nお姉ちゃんわかっちゃったゾ～☆"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You changed shampoo didn't you? *sniff sniff*... A little milky? And smells sweet♪ Can I give it a taste test?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "シャンプー変えたでしょ♪\nすんすん……\nほんのりミルク系？　\n甘い香りがするねっ♪\nちょっと\n味見してみてもいい？"
+    },
+    {
+      "name": "Quria",
+      "text": "A-A \"taste test\"? Tomo, please save me...! At this rate, Shizuru will eat me up...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あ、\n味見？　\nトモさんっ、\n助けてくださいっ……！\nこのままじゃわたし、\nシズルさんに食べられて……！"
+    },
+    {
+      "name": "Tomo",
+      "text": "It's not what I'm here for! Right now, I am...Shiny ★Tomo! A magical swordswoman who slays Anti-Beasts!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "違うよ！　\n今の私は……\nシャイニー★トモ！\nアンチビーストを討つ、\n魔法剣士だ！"
+    },
+    {
+      "name": "Quria",
+      "text": "That's suffice for now! I'm being eaten by the Anti-beast here...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "じゃあもうそれでいいです！\nわたし、\nアンチビーストに食べられちゃいます……！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Wha... To think there's an Anti-Beast disguised as a human...! Leave it to me! I'll save you now!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "なっ……\n人の姿に化けるアンチビーストがいるなんて……！\n任せて！　\n今助けるから！"
+    },
+    {
+      "name": "Quria",
+      "text": "Ah. But, umm... She might be a good Anti-Beast, so please go easy on her─",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あっ。\nでも\nその……\nいいアンチビーストさんかもしれないので、\nお手柔らかにお願いしま──"
+    },
+    {
+      "name": "Tomo",
+      "text": "Shiny Blade!!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "シャイニーブレードっ！！"
+    },
+    {
+      "name": "Quria",
+      "text": "KYAAAAAAH!?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "きゃあぁっ！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "─Wow, amazing, amazing♪ That's my little brother for you. You've already mastered your special move... You have the makings of a Magical Girl♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "──わお、\nすごいすごい♪\nさっすが弟くん、\nもう必殺技を会得してるだなんて……\n魔法少女の素質\nありだね♪"
+    },
+    {
+      "name": "Quria",
+      "text": "Wh-What should I do...? I tried to provoke them in the spur of the moment, but... At this rate, they'll get hurt─",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ど、\nどうしよう……\n咄嗟にけしかけちゃったけど……\nこのままだと、\n二人がケガしちゃうんじゃ──"
+    },
+    {
+      "name": "Tomo",
+      "text": "─As long as you believe in your own sword and your friends..., you can maintain your vision and composure to observe your opponent─",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──自分の剣を、\n仲間を信じていれば……\n相手を観察する視野も、\n冷静さも保つことができる──"
+    },
+    {
+      "name": "Quria",
+      "text": "I-I have to believe them for now......? Like Tomo said, I have to keep my composure first......!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "──い、\n一旦信じてみるしか……？\nトモさんの言う通り、\nまずは冷静さを保たないと……！"
+    },
+    {
+      "name": "Tomo",
+      "text": "How about this!? Shiny Blade, Dual Strike!!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──これならどう！？\nシャイニーブレード、\n二連撃っ！！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...Hmm? What's with this feeling...? This swift, circular sword movement... It's not right! Are you really my brother?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……う～ん？　\nなんだろ、\nこの感覚……\n剣にまろやかさが……\n足りないんだよねっ！\nあなた、\n本当に弟くん？"
+    },
+    {
+      "name": "Tomo",
+      "text": "What a sharp blow... How formidable. But Magical Girls don’t give up! They won’t succumb to any predicament!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "なんて鋭い一撃……\n手ごわいね。\nでも、\n魔法少女は諦めない！　\nどんな窮地でも屈さない！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You look and sound like lil' brother, but... I can't help it. Time to get serious and see for myself.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "見た目も声も弟くんだけど……\n仕方ないなぁ。\nちょっと本気で、\n確かめさせてもらうねっ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Woah, she's fast...!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "なっ、\n速っ……！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...*kiss*☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……\nちゅっ☆"
+    },
+    {
+      "name": "Tomo & Quria",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "トモ・クリア",
+      "orig_text": "えっ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "This taste, this feeling... It's clearly different lil' brother's. Onee-chan gets it now!\nUfufu, this is a fake☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "この味、\nこの感触……\n明らかに弟くんと違う。\nお姉ちゃんわかっちゃった！\nうふふ、\nこれは\nニセモノだねっ☆"
+    },
+    {
+      "name": "Tomo",
+      "text": "*Gasp*!! Hyaaaaah─!?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──っっっ！！　\nひゃあぁぁぁ──っ！？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Shi-Shizuru-sa... J-J-J-Just now...! Wh-why..., my cheeks, k-kis...!?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "シ、\nシズルさっ……\nいいい、\n今……！\nなっ、\nなんで……\nほっぺに、\nキ、\nキッ……っ！？"
+    },
+    {
+      "name": "クリア",
+      "text": "トモさん今、\nシズルさんって言った……\nよね？\nキスされたショックで正気に戻ったのかな？\nなら\nシズルさんの方は……？　",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "トモさん今、\nシズルさんって言った……\nよね？\nキスされたショックで正気に戻ったのかな？\nなら\nシズルさんの方は……？　"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Hehe, trying to imitate lil' brother won't work on Onee-chan! Huh? Then...are you my 'real' lil' brother?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ふふ、\n弟くんに成りすまそうなんて、\nお姉ちゃんには通じません！\nあれ？　\nそれじゃ──\nあなたが本物の弟くん、\nかな？"
+    },
+    {
+      "name": "Quria",
+      "text": "You've got the wrong person! ...But it doesn't look like she'll listen. Now that it's come to this, I have no choice but to run away...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "人違いですっ！　\n……って言っても、\n聞いてくれそうにないし。\nこうなったらもう、\n逃げるしかっ……"
+    },
+    {
+      "name": "Quria",
+      "text": "If it's in the air, she shouldn't be able to follow me. Let's just keep going until Shizuru comes back to her senses...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "空中なら、\n追って来れないはずっ。\nシズルさんが正気に戻るまで、\nやり過ごそうっ……！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "If you're running away, does that mean you're a fake too? In that case, Onee-chan will have to punish you. Come out... Onee-chan Wing☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "逃げるってことは、\nあなたもニセモノなのかな？\nなら、\nお姉ちゃんがこらしめてあげないとね。\nいくよ……\nお姉ちゃんウィング☆"
+    },
+    {
+      "name": "Quria",
+      "text": "Heeeeeh?!! How is she flying?!! Wait, this can't be happening... Hyaaaaah!!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "えええぇぇっ！！？\nそれどうやって飛んでるんですか！！？\n待って、\nこんなのありえな……\nきゃあああぁぁぁっ！！"
+    },
+    {
+      "name": "Tomo",
+      "text": "...*deep sigh*, uuugh... How did this happen...?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "……はあぁぁぁ、\nうぅ……\nどうしてこんなことに……"
+    },
+    {
+      "name": "Quria",
+      "text": "Those mushrooms seem to have the side effect of showing you pleasant dreams ...So you don't need to worry too much about it Tomo...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あのキノコには、\n楽しい夢を見せる作用があったみたいですね。\n……なのでトモさん、\nそんなに気に病まなくても……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Ahaha, so it's because of the mushrooms huh... Come to think of it, Jun once told me before to \"be careful with wild mushrooms\"...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あはは、\nキノコのせいかぁ……\nそういえば\n前にジュンさんが、\n「野生のキノコには気を付けて」\nって言ってたっけ……"
+    },
+    {
+      "name": "Tomo",
+      "text": "And yet, after that boastful speech... To have hallucinations and lose track of what's going on, to the point of ending up in such an embarrassing state─",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "それなのに、\nあれだけ大口を叩いておいて……\n幻覚で前後不覚になったあげく、\nあんな恥ずかしい姿まで──"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Onee-chan wanted to see Tomo-chan's embarrassing side, too~\nWhat in the world just happened though? I only remember having more lil' brother and them becoming Magical Girls...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "トモちゃんの恥ずかしいとこ、\nお姉ちゃんも見たかったな～\nいったいなにがあったの？　\n弟くんが増えたり、\n魔法少女になったりしたのは覚えてるんだけど……"
+    },
+    {
+      "name": "Quria",
+      "text": "That's ... more or less correct?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "だいたい\nそれで合ってますよ……？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Really? Then why is Tomo-chan so depressed~?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そうなの？　\nじゃあ\nトモちゃんはなにをそんなに落ち込んでるんだろ～？"
+    },
+    {
+      "name": "Quria",
+      "text": "I think about half of the reason is because Shizuru-san suddenly kissed her...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "半分くらいは\nシズルさんに\nいきなりキスされたせいだと思いますけど……"
+    },
+    {
+      "name": "Quria",
+      "text": "...S-See, Shizuru said the same thing. We don't mind at all. Right, Tomo...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……ほ、\nほら、\nシズルさんもこう言ってることですし。\nわたしたちはちっとも気にしてませんから。\nねっ、\nトモさん……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Even if you say that, it still bothers me... Shizuru-san's, umm... thanks to that, I was able to come back to my senses, so it couldn't be helped, but... well...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "そう言われても、\n私は気にするよ……\nシズルさんの\nあれは、\nその……\nおかげで正気に戻れたし、\n仕方ないって割り切るけど……\nその……"
+    },
+    {
+      "name": "Quria",
+      "text": "Are you... worried about \"being Magical Girls\"?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "気にしてるのは、\n魔法少女のこと……\nですか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "U-Umm, well, I actually like those kinds of stories, and I often imagine myself becoming a Magical Girl.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "え、\nえっとさ。\n私って\n実は\nああいうお話が好きで、\n自分が\n本当に魔法少女になったら\nとか、\nよく想像してたんだ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "It’s embarrassing, but this is the only way to put it... I can’t really say that I’ve legitimately become a \"Magical Swordswoman\"...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "恥ずかしいけど、\nこう言うしかないよね……\n本当に魔法剣士になったことがあるとまでは\nさすがに言えないし……"
+    },
+    {
+      "name": "Quria",
+      "text": "Tomo-san...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "トモさん……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Here I am trying to teach you about swordsmanship in a refined manner, yet you saw me in such a pathetic state... You must be disappointed. I'm sorry, Quria.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "剣のことを偉そうに教えてたのに、\n情けないところを見られて……\n幻滅させちゃったよね。\nご\nめん、\nクリアちゃん。"
+    },
+    {
+      "name": "Quria",
+      "text": "Hmm, I was a bi confused, but... If anything, I'm glad to know...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "うーん、\n戸惑いはしましたけど……\nそっちはむしろ、\nわたしとしては\n知れてうれしかったというか……"
+    },
+    {
+      "name": "Quria",
+      "text": "No, even if I say that, it just sounds like a consolation. In that case─Tomo, could you take a look?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "いえ、\nこう言っても気休めにしか聞こえませんよね。\nなら──\nトモさん。\nちょっと見ていてもらえますか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Huh? Quria-chan, what are you...?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "えっ、\nクリアちゃん、\nなにを……？"
+    },
+    {
+      "name": "Quria",
+      "text": "*deep breath... Funny! Cutie! Clearly! Magical Shield Thornful!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "すぅー……\nファニー！　\nキューティ！　\nクリアリィ！\nマジカルシールド・\nソーンフル！"
+    },
+    {
+      "name": "Quria",
+      "text": "Magic Fallen Winged Knight ★ Quria, protecting you with my shield of courage!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "魔法翼騎\nフォールン★クリア、\n盾と勇気で守ります！"
+    },
+    {
+      "name": "Quria",
+      "text": "...J-Just kidding... When I saw Tomo, I thought about trying it too. It's actually a little embarrassing to actually do it however. Ahaha...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……な、\nなーんて……\nトモさんを見て、\nわたしも考えてみたんですけど。\n実際にやると、\nたしかに\nちょっと恥ずかしいですね。\nあはは……"
+    },
+    {
+      "name": "Tomo",
+      "text": "U-Umm... Could it be that Quria likes it too...? \"Magical Girls\", I mean...?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "え、\nえっと……\nもしかして\nクリアちゃんも……\n好きだったり、\nするの……？\n魔法少女とか……"
+    },
+    {
+      "name": "Quria",
+      "text": "Yes♪ I love it just like everyone else♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はい♪\n普通に大好きですよ♪"
+    },
+    {
+      "name": "Quria",
+      "text": "...Well, the power I possess to fight isn't the sparkling kind that people admire however─",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……まあ、\nわたしが持っている戦うための力は、\n人から憧れられるような、\nキラキラしたものじゃないですけど──"
+    },
+    {
+      "name": "Quria",
+      "text": "But when I thought about how it looks like a \"Magical Girl transformation\", I thought I might be able to be a little more positive about fighting in that form. ...If anything, I'd say I look more like a villain...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "でも、\n魔法少女の変身みたいなものだって考えたら、\nあの姿で戦うことにも、\nほんのすこし前向きになれるかもって。\n……どちらかというと、\n悪役っぽい格好ですけど……"
+    },
+    {
+      "name": "Quria",
+      "text": "S-So please don’t be embarrassed Tomo. Both 'Tomo the Swordswoman' and 'Tomo the Magical Girl' ... are my aspirations.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "だ、\nだから、\nトモさんも恥ずかしがらないでください。\n剣士のトモさんも、\n魔法少女のトモさんも……\nわたしにとっては\n憧れなんですから。"
+    },
+    {
+      "name": "Tomo",
+      "text": "...I see. If you can say that much, then I shouldn't be embarrassed about it, right? Mmm.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "……\nそっか。\nそこまで言ってもらえるなら、\n私が恥ずかしがってちゃダメ、\nだよね。\nうん。"
+    },
+    {
+      "name": "Tomo",
+      "text": "I'm sorry. It's pathetic for me to keep dwelling on it. For the sake of Quria, who believes in me, I need to hold my head high.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ごめん。\nこんなふうにくよくよしてるほうが情けなかった。\n信じてくれるクリアちゃんのためにも、\nちゃんと胸を張ることにするよ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Yes♪ Please teach me more about swordsmanship again next time, Tomo♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はいっ♪\n剣についても\nまた教えてくださいね、\nトモさん♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "Yeah of course!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "うん、\nもちろん！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "I don't really get it, but I'm glad Tomoo-chan seems to have cheered up~♪ Onee-chan's going to give her a big nudge so she can cheer up even more~♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "よくわかんないけど、\nトモちゃん元気出たみたいでよかった～♪\nもーっと元気が出るように、\nお姉ちゃんがナデナデしたげるね♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "Eek... Shi-Shizuru-san, you're not allowed to get near me for now! I'm going to get chills from the sensations earlier coming back to me!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ひぇっ……\nシ、\nシズルさんはしばらく接近禁止っ！\n感触がよみがえってきて\nゾワゾワするからっ！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Well～ When you say I'm prohibited from doing something... that makes it even more tempting instead~♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "え～、\n禁止だとかダメだとかって言われると……\n逆にやってみたくなっちゃうな～♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "A-Alright, let's have a discussion first! I'll allow some leeway depending on what you're wanting to do with me! ...S-so please, stay away from me!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "わ、\nわかった、\nまずは話し合おう！　\n内容次第では譲歩するから！\n……だ、\nだから、\n近づかないでってば～！"
+    },
+    {
+      "name": "Quria",
+      "text": "Ahaha... I'm glad to see those two are doing well.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あはは……\nお二人とも\n元気そうでなによりです。"
+    },
+    {
+      "name": "Quria",
+      "text": "...It seems that the mushroom has no side effects other than giving a pleasant dream. For a moment, I was wondering what would happen though...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……楽しい夢を見る以外の副作用は\nなかったみたいですね、\nあのキノコ。\n一時はどうなることかと思いましたけど……"
+    },
+    {
+      "name": "Quria",
+      "text": "But if it's that delicious and the side effects are just dreams.. I wish I could have taken a bite... I'm curious to see what I'd dream of...\nJust kidding!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "でも、\nそんなにおいしくて\n副作用が夢だけなら……\nひと口、\n食べてみたかったなぁ……\nわたしなら\nどんなものが見えるのか\n気になるし……\nなーんて。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Q-Quria-chan! Stop Shizuru! I can't handle her Onee-chan Power right now! Please do something Quria-chan...!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──ク、\nクリアちゃんっ！　\nシズルさんを止めてっ！\n今の私には\nお姉ちゃんパワーを受け止めきれない！\nクリアちゃんのほうでなんとか……！"
+    },
+    {
+      "name": "Quria",
+      "text": "Ah, yes! I'm coming! I don't know if I'll be able to handle it though...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あっ、\nはい！　\n今、\n行きます！\nわたしで\n受け止めきれるかはわかりませんけど……"
+    },
+    {
+      "name": "Narration",
+      "text": "Glancing at the mushrooms growing in the shade of the trees...Quria managed to calm Shizuru, who was chasing Tomo around, and then they headed back to the city.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "木陰に生えたキノコをちらりと見やりながら……\nクリアはトモを追いかけ回すシズルをなだめ、街へと戻ったのだった。"
+    }
+  ]
+}

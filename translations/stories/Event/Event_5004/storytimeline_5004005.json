@@ -1,0 +1,432 @@
+{
+  "title": "The Sunken Ruins",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "With their plan laid out,\nthe crew arrive at the sunken ruins\nthanks to Karyl's magic.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その後。\nキャルの魔法によって水中を高速移動し、\n{0}たちは海底の遺跡に辿りついていた。"
+    },
+    {
+      "name": "Narration",
+      "text": "They're met with a swarm of monsters almost immediately,\nhowever, hampering their progress significantly.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "だが即座に魔物の群れに取り囲まれ、なかなか前へ進めずにいた。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You're in charge of getting us to where we need to go, Suzume.\nI'll focus on wiping out any monsters along the way.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "とりあえず、\n道案内はスズメってやつに任せるわ。\nあたしは、\n出現する魔物の対応に専念する。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Okay. Leave it to me!\nI'll use magic to get a grasp of the layout here,\nas well as Kokkoro's whereabouts.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい、\n先導はお任せください。\n探査魔法をかけて\nコッコロちゃんの居場所と、\n遺跡の内部構造なんかを解析しつづけてます。"
+    },
+    {
+      "name": "Suzume",
+      "text": "This place is basically a labyrinth, but our path should be straightforward\nso long as I have a clear picture of where to go.\nThen I can take us on the quickest route to her.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "だいぶ複雑な迷路みたいですけど、\n順路などが把握できれば迷いません。\n最短コースで、\nコッコロちゃんのもとまで辿りつけると思います。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Don't worry about traps, either.\nThe search magic will pick up their location, too.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "罠なども\n探査魔法によって、\nあらかじめ場所を確かめているので\n避けられます。"
+    },
+    {
+      "name": "Suzume",
+      "text": "There's little I can do about monsters, though.\nI'll have my hands full with this spell,\nso it's up to you all to deal with them.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "でも\n出現する魔物なんかは、\n皆さんに取り除いてもらう必要がありますよ。\n私は\n探査魔法だけで手一杯なので、\n皆さんだけが頼りです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "By which you mean, it's up to me.\nUrgh... Normally it'd be fine to just let Pecorine run into\nthe swarm and go wild, but that won't work right now.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "皆さんってか、\n主にあたしよね。\nう～……\nいつもなら\n魔物の群れのなかにペコリーヌを放りこんどけば、\n勝手に片付けてくれるのに。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "S-sorry.\nI'm just dead weight this time, aren't I?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ご、\nごめんなさい。\nわたし、\n今回は足手まといですね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Right you are, girl.\nMost useful thing you can do right now is\nstay close to us and not let yourself get hurt.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そ～ね、\nこの役立たずが……\nうろちょろされても目障りだし、\nせめて怪我とかしないように引っこんでなさいよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Awww... She's even more brutal than usual today.\nBut I guess she just has a lot on her plate right now.\nI'll just hang back and make sure not to get in her way.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うう。\nキャルちゃんがいつにも増して刺々しい～、\nこちらを気遣う余裕もない感じですね。\nほんと、\nせめて邪魔にならないように下がっていましょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This is normally {0}'s position\nwhenever we're in battle, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……一歩下がったこの位置って、\nいつもの{0}くんの定位置ですよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "He's always been standing back,\nwatching us anxiously as we fight...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くんはいつも、\n戦うわたしたちを\n後ろのほうから……\nやきもきしながら眺めてたんですよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Right now I feel so powerless. So isolated.\nYou've been dealing with that all this time, haven't you?",
+      "choice_data_list": [
+        "Is something wrong?"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "この無力感と、\n疎外感を……\nあなたは、\nいつも感じてたんですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh. Sorry for staring.\nI just... finally understood what it's like\nto be in your shoes. That got me a bit down.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ、\nごめんなさいじっと見ちゃって……\n何だか{0}くんに共感して、\nしんみりしちゃいました。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Not being able to help the people dear to you\nwhen they're in danger feels awful, doesn't it?",
+      "choice_data_list": [
+        "It does, yeah."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "大事なひとたちが危険に晒されてるのに、\n何もできないのは\n歯痒いですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I figured as much.\nHee hee... I feel closer to you today\nthan I ever have, {0}.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい。\nふふふ～……\n今日はいろんな意味で、\n{0}くんを近くに感じちゃいますね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey!\nQuit the flirting and get your butts over here!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "お～い！\nちちくりあってないで、\nこっちに来なさい！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wowzers. What's got you so flustered, Karyl?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わおっ、\nどうしました……\nキャルちゃん？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Take a look.\nYou see that massive door up ahead?\nThere's an even bigger cave beyond it. That's where Koro is, apparently.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "見なさいよ。\nあたしたちが向かってる先、\n奥のほうに巨大な扉があるでしょ。\nあの扉の奥は大空洞になってて、\nそこにコロ助のやつがいるみたい。"
+    },
+    {
+      "name": "Suzume",
+      "text": "She is, yes.\nI'm picking up life signals ahead. She's still alive and well.\nIf only we could get to her right this instant...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい。\nまだ生命反応もあります、\n生きてますよコッコロちゃん……\nあぁ、\n早く助けてあげたいです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "That'd be ideal. But this door's going to be a problem.\nIt seems like it can be unlocked through magic,\nbut I have no idea what sort of process is needed.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うん。\nでもこの扉、\nかなり厄介な代物らしくてね。\n何らかの魔法で解錠して開けるっぽいんだけど、\nその方法がよくわかんないのよね。"
+    },
+    {
+      "name": "Suzume",
+      "text": "I've tried analyzing as much as I can,\nbut I can't quite decrypt the magic circuits behind it...\nThere seems to be some sort of protection to prevent that.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "そうなんです。\nいろいろ調べたんですけど、\nいまいち扉に施された魔術回路が解析できなくて……\n何らかの手段で、\n解析などができないように保護されてるみたいです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "What's our plan of action, then?\nKoro might be alive,\nbut we have no idea what's going on beyond here.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どうする？\nまだコロ助は生きてるとはいえ、\nどういう状況に置かれてるかわかんないし……"
+    },
+    {
+      "name": "Karyl",
+      "text": "There really is no time to waste.\nWe need to get past this thing and save her, ASAP.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こんなところで足踏みしてらんないから、\n一刻も早く扉の奥へ突入して助けだしたいんだけど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "If anything, we might be able to brute force it if\n{0} powers me up and I unleash\nmy strongest destruction spell.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}が強化してくれたら、\n強引に扉をブチ破ることも可能かもしれないわ。\n破壊魔法とかを乱打して、\n無理やり扉に穴を空けて突入するっていう。"
+    },
+    {
+      "name": "Karyl",
+      "text": "But that's only assuming we don't have any other options.\nDo you guys have a hunch on how we should approach this?\nI'd rather not be too careless here.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "他に方法がないなら、\nそうすべきだとは思うけど……\nあんたたち、\n他にこの扉を開ける方法とか思いつかない？\nスマートに扉を開けられるなら、\nそれがいちばんだしさ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "H-hm...\nAny ideas, {0}?",
+      "choice_data_list": [
+        "Let's brute force it.",
+        "Let's think of another way."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う、\nう～ん……\nどうしましょう、\n{0}くん？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Got it. Brute forcing it is.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……オッケー、\n乱暴な方法でいくのね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Power me up as much as possible, {0}.\nI worked my butt off to learn this spell, so keep\nyour eyes peeled! It's gonna be a real spectacle!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "じゃあ{0}、\nあたしを最大限に強化してよ。\nがんばって勉強して努力して覚えた強力な破壊魔法を、\nどっさり大盤振る舞いしてやるわ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Focus everything on her, {0}!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "{0}さん、\nキャルさんだけを集中して強化してください！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Pecorine seems far too weak to do anything right now,\nwhile I'm simply no good with offensive magic...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ペコリーヌさんは弱体化してるみたいですし、\n私は\n攻撃魔法はあんまり得意ではないので……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Anything you spend on us will just go to waste, I'm afraid.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "{0}さんの\n仲間を強化する能力を、\nキャルさんだけに集中させて……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Meanwhile, Karyl can use every ounce of her energy\nto blast a hole through the door with that spell.\nSimple, but also our most powerful course of action.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "キャルさんが\n持てるちからのぜんぶを振り絞って、\n破壊魔法を叩きこむという作戦です。\nそれがたぶん、\n今の私たちにだせる最大出力ですよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "A solid plan if I've ever heard one!\nI'm gonna be reeling afterwards,\nbut now isn't the time to be complaining!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それ採用！\nあたしの負担が尋常じゃなくなるけど、\n四の五の言ってらんないしね！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Gimme all you've got, {0}!\nI'll blast this thing to pieces!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}、\nあたしを全力で強化しなさい！\nこんな程度の障害は、\nあたしが華麗に突破してやるわ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Now THAT's what I'm talking about!\nI can feel his power swelling through me.\nEvery cell in my body's going wild! I can do this...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "よぉし、\nきたきたきた！\n{0}のちからが染みてくるっ、\n全身の細胞が暴れ出しちゃってる！\n　\nこれならいける……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ahaha! ☆\nYou think you've got what it takes to stand in my way?\nHell no you don't! Eat THIS!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あははは☆\nあたしの邪魔をするものは、\nぜぇんぶ吹き飛ばしてやるわ！\nおっ\nりゃあああ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Yesss! Blew a hole clean through it!\nRush in, troops!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "よぉし、\nでっかい穴が空いたわ！\n突入するわよ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm... Fair enough. Brute forcing it might work,\nbut there's no point if I end up depleting my magic reserves here.\nIdeally we'd find a way that involves as little work as possible.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふむ、\nそ～ね……\n扉を開けるために魔力とかを使いきって、\n力尽きたら本末転倒だし。\n普通に、\n労力をかけずに扉を開けられるならそれが最善だわ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Is that even possible with a door this big...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でも、\nどうやってこんな扉を……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hey. Take a look at that pond over there.\nThere's a lever or something at the bottom, isn't there?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ねぇねぇ、\nあっちの空間に\n溜め池みたいなのがあるの見えます？\nあの水底に、\nレバーっぽいものが設置されてますよね？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh...\nHow'd you even notice something that far away?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えっ……\nそこそこ距離があるのに、\nよく見えるわねペコリーヌ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe. My eyesight's as good as a hawk's!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ～、\n視力は良いほうなんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That aside.\nBoth this door and that lever have\nsimilar jewels embedded in them.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ともあれ。\n扉とレバーに、\n同じ色の宝玉みたいなのが嵌まってますし……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If they're connected in some shape or form,\nthen pulling the lever could make the door open. Maybe?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あのレバーを押すなり引くなりすれば、\n扉が開く～\nみたいな感じなのでは？"
+    },
+    {
+      "name": "Karyl",
+      "text": "That seems pretty likely, yeah.\nThere's plenty of other ruins with those kinds of weird gimmicks.\nDunno why, though. Seems like it'd just make life a pain.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あぁ、\nその可能性はあるわね。\nそういう仕掛けって、\nなぜかあちこちの遺跡に散見するのよ。\n生活するうえでは不便でしかない、\nパズル的な謎のギミックがさ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I doubt people lived their lives in these sorts of ruins.\nI'd guess they were more like graves,\nor somewhere to store valuable treasure and the like.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "こういう遺跡って、\n生活の場ではなかったのでは？\nお墓とか\n宝物庫みたいなものだったんでしょう、\nたぶん。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "More importantly, though.\nDo you mind if I handle the lever?\nI wanna make up for being useless this whole time!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それよりも……\nあのレバー、\nわたしが動かしてきても良いですか？\nここまであんまり役に立てなかったので、\nそのぶん働きたいです！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm... Well, it [i]is[/i] underwater,\nand I'm no good at swimming. So yeah, go for it.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん。\nそ～ね、\nレバーは水中にあるっぽいし……\nあたし泳ぎには自信ないから、\nあんたに任せるわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Just be careful, though.\nThere could be monsters lurking in there.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "でも\n気をつけなさいよ、\n水中にも魔物がいるかもしれないし。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Got it!\nOff I go!\nOne, two, three! Dive! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nじゃあ行ってきます……\nいち\nにい\nさん、\nどぼ～んっ☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Nice!\nThe water's even clearer than I expected.\nNow then, where's that lever... Over here?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "よぉし。\n思ったよりも澄んだ水です、\n周りがよく見えますね。\nえぇっと、\nレバーは……\nこっちでしたっけ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yup! There it is!\nNow I just need to pull it.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おっ、\n発見！\nこのレバーを、\n引けばいいんでしょうか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hnnnggghhh!\nUrgh... It's so heavy...\nI really am a weakling without my Royal Equipment.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふんぬぬぬ……！\nううっ、\n『王家の装備』がないから\n腕力もなくなってますね！\n重くて、レバーが動かせない！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But I can't falter here! Not when Kokkoro's in danger!\nTimes like this are when I need to shine! And if it's for my\nprecious Gourmet Guild, then I'll do everything it takes!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でも！\n　コッコロちゃんが大ピンチなんです、\nここで根性を見せなくて\nいつ見せますか！\nいつも幸せな時間をくれる、\n【美食殿】のみんなのために！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Come on, me!\nPull that lever like your life depends on it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ファイト～、\nわたし！\n息のつづくかぎり、\nレバーを引きます！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh?\nYesss, she did it!\nThat lever really was the key!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……おっ？\nやったぁっ、\n扉が開いていくわよ！\nやっぱりレバーを動かすのが正解だったんだわ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Awesome stuff, Pecorine!\nNow get yourself out of there! It's time to storm in!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "お手柄よペコリーヌ！\nさっさと水から上がってきなさいっ、\n扉の向こうへ突入するわよ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Okay!\nWe need to hurry, too!\nHer life signals are getting weaker and weaker!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい！\n急ぎましょう、\nコッコロちゃんの生命反応がどんどん弱まってます……！"
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "title": "To the Deep Garden",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and his companions ventured into the area known as the \"Deep Garden\" on the outskirts of Geo Niflhell...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・ニヴルヘルの辺境にある『深い庭』のエリアに\n足を踏み入れた{0}たちだが……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "EEEK...?! J-Just now... did something move over there?! I feel like that big mushroom is looking at me too... It's all so creepy... Ah, the length of the chain, again...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひぃ……！？　\nい、\n今、\n何か動きませんでしたか……！？\n大きなキノコも\nこっちを見ているような気がするし……\n全部不気味です……\nあ、\nまた鎖の長さが……"
+    },
+    {
+      "name": "Grace",
+      "text": "Young lady Kyouka, everything's going to be fine. We have Lului from the \"Deep Garden\" here with us. You have nothing to fear.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "キョウカお嬢様、\n大丈夫ですよ。\nこちらには、\n『深い庭』出身のルルィがついています。\nご安心ください。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Yesh. Leave guidingsh to me from here on outsh. Please watch yoursh step and follow mesh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "はい。\nここから先の案内はお任せくだしゃい。\n足元に気を付けて、\nあたちについてきてくだしゃいね。"
+    },
+    {
+      "name": "Rurui",
+      "text": "By the waysh, in the \"Deep Garden\" this is knownsh as the \"Forest of Sporesh\". It also servesh as a buffersh zone with Geo Niflhell, with whomsh we are currently in a ceasefiresh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ちなみに、\nここは『深い庭』の\n『胞子の森』でしゅ。\n休戦中にある\nジオ・ニヴルヘルとの緩衝地帯でもあるんでしゅよ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Nowsh, take a looksh to the right. It'sh a large sea anemonesh. Be carefulsh not to get too close, or it will grabsh you with its tentaclesh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "しょれでは\n右手をごらんくだしゃい。\n大きなイソギンチャクでしゅ。\n近づきしゅぎると触手で掴まれましゅから、\n気をつけてくだしゃい。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh...? Tentacles...? Wait, those aren't mushrooms...? Even though it's called the \"Forest of Spores\"...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "え……\n触手……？　\nというか、\nあれキノコじゃないんだ……\n胞子の森って、\n名前なのに……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Those sea anemonesh also serve to capture invadersh from enemy countriesh. When the headsh of the ones they've eatensh end up lined upsh, they form a mushroom-likesh figure, hence the namesh \"Forest of Sporesh\".",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あのイソギンチャクは、\n敵国の侵入者を捕らえる働きもあるんでしゅ。\n捕食される侵入者たちの頭がたくさん並んだ時の様子が、\nキノコのように見えることから\n『胞子の森』\nと呼ばれていましゅよ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Terrifying. Sounds like one of those names that becomes scary only once you understand its meaning.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "こわっ。\n何ですか、\nその意味がわかると怖い話、\nみたいな名前。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Ah, I'm very shorry! I didn't meansh to scare you. But, you have to be carefulsh or you'll get eatensh. Even with my octopush tentaclesh, it's extremely difficult for me to escapesh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あ、\nしゅみません。\n怖がらせるつもりはなかったんでしゅ。\nでも、\n気をつけないと捕食されちゃいましゅので。\nタコ足があるあたちでも抜け出すのは、\n至難の業なんでしゅ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "EEEEEKKK...! I knew it, I can't do this! I want to go home... Ah, once again, the length of the chain is...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひぃぃ……！　\nやっぱり、\nむりですよ……！\nもう帰りたいです……\nあっ、\nまた鎖の長さが……"
+    },
+    {
+      "name": "Grace",
+      "text": "That's a great suggestion, Master Knight. Alright, everyone together... \"I met you, and I go on with you~\"",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ナイス提案です、\n騎士氏。\nはい、\nじゃあみんなで。\n「君と出逢い、\n君と往く～」"
+    },
+    {
+      "name": "Kyouka Lului",
+      "text": "Beyond the Happy Ending~",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ルルィ",
+      "orig_text": "「\nハッピーエンドのその先で～」"
+    },
+    {
+      "name": "Grace",
+      "text": "Sh...! Quiet down!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "しっ、\n静かに……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Grace-san, you're the one who started singing! ...Wait, that's...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "グレイスさんが歌い出したんじゃないですか！\n……って、\nあれは──"
+    },
+    {
+      "name": "ダークエルフの男",
+      "text": "はぁ……！\nくそっ、\nしつこい……！",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "はぁ……！\nくそっ、\nしつこい……！"
+    },
+    {
+      "name": "Duran",
+      "text": "Give... up... already! Otherwise, my hips... will... KHHHAAGGGHHH!!!",
+      "choice_data_list": [],
+      "orig_name": "デュラン",
+      "orig_text": "いい加減\n諦めてくだされ！\nでなければ、\nわしの腰がっ……"
+    },
+    {
+      "name": "Violet",
+      "text": "GRANDPA?! Get a hold of yourself. We cannot let that ruffian escape unscathed!",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "爺や！？　\nしっかりしてください。\nここで、彼を逃がすわけにはいきませんわ。"
+    },
+    {
+      "name": "Grace",
+      "text": "There's that dark elf man too. He hasn't noticed us yet while running to our position. ...Young lady Kyouka, let's go with Plan A.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ダークエルフの男もいますね。\nまだ私たちに気づいていません。\nこちらに走ってきます。\n……\nキョウカお嬢様、\nプランＡでいきましょう。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "EH?! What's \"Plan A\" now?! This is the first time I've heard of it!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ、\nプランＡって何ですか！？\n初めて聞きましたよ！？"
+    },
+    {
+      "name": "Grace",
+      "text": "It's a strategy to hook the chain around that dark elf man's leg so we can capture him. Ready and... now!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "鎖を足にひっかけて、\nダークエルフの男を捕まえる作戦です。\nせーのっ……\n今ですっ！"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Whoa...!? Bweh... W-What now...?!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "うわぁっ……！？\nぶへぇ……\nな、\nなんだ……！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I-I miraculously made it in time...! Please tell me in advance next time!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "き、\n奇跡的に間に合った……！\n次からは、\n前もって言ってください！"
+    },
+    {
+      "name": "ヴァイオレット",
+      "text": "はぁ……\nグレイス！？　\nそれに、\n騎士様たちも……\n皆様も、\nダークエルフの情報にたどり着いたのですね。",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "はぁ……\nグレイス！？　\nそれに、\n騎士様たちも……\n皆様も、\nダークエルフの情報にたどり着いたのですね。"
+    },
+    {
+      "name": "Grace",
+      "text": ".........Yes. Apologies for the trouble that I have caused you, my Princess and Grandfather.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "…………はい。\n姫とおじい様には、\nお手間を取らせてしまいました。"
+    },
+    {
+      "name": "Violet",
+      "text": "Nothing of the sort. I am simply glad you, Lord Knight and everyone else are safe.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "そんなことはありませんよ。\nグレイスと\n騎士様たちがご無事で\n何よりですわ。"
+    },
+    {
+      "name": "Grace",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "ヴァイオレット",
+      "text": "…………グレイス？　",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "…………グレイス？　"
+    },
+    {
+      "name": "Grace",
+      "text": "...Now, dark elf. Time for you to squeak up about this villainess we're looking for.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……さあ、ダークエルフ。\n『令嬢』について、\n知っていることを教えてもらいましょうか。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "W-What could you be talking about...? Who's this villainess now? There's no way I'd know!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "な、\nなんのことかな……？\n令嬢って誰だ？　\n知らないな。"
+    },
+    {
+      "name": "Grace",
+      "text": "...Well then, Lului. Please proceed with Plan Z. From here on out, you cannot witness this, milady. I will cover your eyes. Master Knight, handle her ears.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……では、ルルィ。\nプランＺをお願い。\nここから先は、\nキョウカお嬢様は見ちゃダメです。\n私がお嬢様の目を覆います。\n騎士氏は耳を。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? Why won't you show me what's going to happen? What is Plan Z all about?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ、\nどうして私には見せてくれないんですか？\nプランＺは、\n何をするんですか……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Alrightsh, here we gosh...! Suction cupsh fully extendedsh, tentaclesh at full power... \"Full Body Massage Octopus Leg Dance - Gentlesh\"! *Ticklesh, ticklesh, ticklesh*~",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "それじゃあいきましゅよ……！\n吸盤全開・\n触手フルパワー……\n『全身もみほぐちタコ足乱舞・\n柔』！\nこちょこちょこちょ～"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Pfft, ahahaha...! Ugh, ah. I can't breathe...! Stop it, it hurts, ahahahahaha...! Mmmph, something's coming! MY BODY'S GOING CRAZY...!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "ぷっ、\nあはははははっ……！　\nふぐっ、\nい。\n息ができないっ……！\nやめろ、\nくるし、\nあはははははっ……！\nんふぅ、\n何かくる！　\n体がおかしくなっち\nゃうぅ……！"
+    },
+    {
+      "name": "Duran",
+      "text": "W-What is this spectacle? I cannot bear to look at it...",
+      "choice_data_list": [],
+      "orig_name": "デュラン",
+      "orig_text": "な、\nなんだコレは……\n見るに堪えませんぞ……"
+    },
+    {
+      "name": "Rurui",
+      "text": "That was my octopush leg massagesh and tentacle specialsh service course. Dark Elf-shan, are you readysh to talksh?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "あたちのタコ足マッサージ・\n触手大サービスコースでしゅ。\nダークエルフしゃん、\nお話ちする気にはなりまちたか？"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Fine! I surrender! Stop it, I'll tell you everything...! I'm going to talk...!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "わかったぁっ！　\nわかりましたぁ！\nやめてぇ、\n全部いうからぁ……！　\nしゃべりますぅ……！"
+    },
+    {
+      "name": "Grace",
+      "text": "Lului, that's enough. Thank you. Young lady Kyouka, everything's fine now.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ルルィ、\nもういいわ。\nありがとう。\nキョウカお嬢様、\nもう大丈夫ですよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "W-What just happened...? That dark elf man... doesn't he seem different from before...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "な、\n何があったんですか……？\nダークエルフの人、\nさっきと様子が違うような……？"
+    },
+    {
+      "name": "ダークエルフの男",
+      "text": "はぁ……\nま、\nまずぅ。\nグレイスたちが手にした鎖はぁ、\n主従契約を強制的に結ぶ呪いの鎖ぃ。\nネクロマンシーと『深い庭』の呪いが\n合わさって生成されたものですぅ。",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "はぁ……\nま、\nまずぅ。\nグレイスたちが手にした鎖はぁ、\n主従契約を強制的に結ぶ呪いの鎖ぃ。\nネクロマンシーと『深い庭』の呪いが\n合わさって生成されたものですぅ。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "The plan was... to control Princess Violet with those chains. To cause a disturbance at the intercultural exchange event... and take advantage of the resulting chaos. However, that plan also ended in failure, thanks to Grace's actions...",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "その鎖でぇ、\nヴァイオレット姫を支配する予定でしたぁ。\n異文化交流会で騒ぎを起こしぃ、\nその混乱に乗じて行う計画でしたぁ。\nそれも、\nグレイスたちのせいでぇ、\n失敗に終わりましたがぁ……"
+    },
+    {
+      "name": "Violet",
+      "text": "So... your original target... was me? What did you intend to do by using that chain on me?",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "では……\n本来の狙いは、\nわたくし……？\nわたくしを支配して、\n何をするつもりだったのですか？"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "By using your position as this world's Princess I planned to have you spread the word about how wonderful our beautiful villainess is to Geo Niflhell, no... to ALL the worlds! And that's because, well... I'm her huge FAN!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "お姫様の立場を利用してぇ、\nジオ・ニヴルヘルにぃ、\nいや世界中にぃ。\n麗しいお嬢様の\n素晴らしさを広く伝えるんですよぉ。\nだって、\n私はぁ。\nお嬢様の熱烈な\nファンですからぁ。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Milady is a high-born noble lady. She is a descendant of the \"Great Old Ones\", who are stirring from their slumber in this world. The more faith she gathers, the stronger she becomes...",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "お嬢様はぁ、\n位の高い、\nご令嬢様なんですよぉ。\nこの世界で微睡みから覚めつつある\n『旧支配者』の眷属様なんですよぉ。\n信仰心が集まれば集まるほど\n強くなるんで\nすぅ……"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Also, Princess Violet... you have the power of the \"Ancient Priestess\" or something like that? Milady said it might be an obstacle... or perhaps something she could make use of.",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "あとヴァイオレット姫には、\n『太古の巫女』の力が\nあるとかないとかぁ？\nそれが邪魔だとか\n利用できるかもとか、\nへんなことも言ってましたぁ。"
+    },
+    {
+      "name": "Grace",
+      "text": "\"Great Old Ones\", \"Ancient Priestess\"...? ...Anyway, long story short, you were in cahoots with that villainess. Now, tell us where she is.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "『旧支配者』、\n『太古の巫女』……？\n……\nとにかく、\nあの令嬢とグルだったんですね。\nさあ、\n奴の居場所を教えてください。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Hehe. Right over there.",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "ふふぅ。\nすぐそこですよぉ。"
+    },
+    {
+      "name": "Everyone",
+      "text": "Uu?!\" \"Kyaa?!\" \"Ujyuu!?\" \"Guaaa!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "「うっ！？」『きゃあ！？』\n「うじゅっ！？」「ぐあぁ！？」"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Guuhhh... Eh?! The sea anemone!? W-What should we do? They caught us......",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うぅ……\nえっ、\nイソギンチャク……！？\nど、\nどうしよう。\n捕まえられちゃった……"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "HAHAHAHA! The tables have turned! I knew it, milady! You skillfully manipulated the sea anemones!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "ははは、\n形勢逆転だなぁ！\n流石ですぅ、\nお嬢様ぁ！　\nイソギンチャクを操ったんですねぇ！"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "Serves you right. Breezy Right Thigh, Breezy Left Thigh... you two are getting in the way of my plan, so we shall get rid of you here and now. Oh ho ho ho ho.",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "いいざまね。\nミギィ・スースー、\nヒダリ・スースー\n計画に邪魔なあなたたちは、\n今ここで始末することにしますわ。\nおーっほっほっほっほ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "N-No way...?! Are we going to be turned into part of the \"Forest of Spores\"...?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そっ、\nそんなっ……！？\nこのまま、\n『胞子の森』の一部になっちゃうんですか……！？"
+    },
+    {
+      "name": "Grace",
+      "text": "This is bad! The \"SusPerv Value\" is... UGH~",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "まずい、\nへんふ値が……\nうっ──"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "DIE! BREEZY SISTERS!!!",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "死ねぇ！\nスースー姉妹！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hold it right there, you third-rate villainess! Here and now, I--",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "お待ちなさい、\nそこの三流令嬢！\n今からあなたに──"
+    },
+    {
+      "name": "Kyoka",
+      "text": "CHALLENGE YOU TO A VILLAINESS BATTLE!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "──令嬢バトルを申し込みますわっ！"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "A-A VILLAINESS BATTLE, YOU SAY...?!",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "なっ、\n令嬢バトルですって……！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A villainess battle is a power struggle to determine who here is the true villainess. The losing side will be forced to submit to the winning villainess's entourage. And refusing to participate in an official match is a breach of etiquette that will disqualify you from being a lady.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "令嬢バトルは、\nどちらが真に令嬢かを競うマウント合戦。\n負けた令嬢は、\n勝った令嬢の取り巻きに下ることになります。\nそして、\n令嬢バトルを断ることは\n令嬢失格に値するマナー違反ですわ。"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "Hmph, forget thinking I would fall for such a cheap provocation. HOWEVER...! I cannot ignore that you would even IMPLY I am unfit to be a true lady!",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "ふっ、\nそんな安い挑発に乗るわけがないでしょう。\nですが……\n令嬢失格と言われて無視するわけにはいきませんわね！"
+    },
+    {
+      "name": "Violet",
+      "text": "She is so taken by that provocation that she cannot even notice her own contradiction... Still, I wonder if Lady Kyouka and Grace are going to be fine...? It seems they were timely saved by their descent to temporary madness...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "矛盾に気づけないほど挑発に乗っていますわ……\nしかし、\nキョウカ様とグレイスは大丈夫なのでしょうか……\n結果として、\n一時的狂気に助けられてしまう形になりましたが……"
+    },
+    {
+      "name": "Rurui",
+      "text": "The chainsh is getting shortersh and shortersh, so this situations ish highly dangeroush...! Anyway, for the time beingsh, I'll try to escapesh using my tentaclesh...!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "鎖もどんどん短くなってましゅし、\n危ないかもしれましぇん……！\nとにかく、\nタコ足を使って脱出できるようにあがきましゅ……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "First turn is an introduction. I am Lady Kyouka. I have decided entirely of my own volition to renovate my humble hometown, the Elven Forest, into the majestic \"Kyouka's Fortress\" in the near future. Oh ho ho ho!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ファーストターンは自己紹介でしてよ。\nわたくしは令嬢キョウカ。\n出身地の『エルフの森』は\nわたくしの独断で、\n近々\n『キョウカの要塞』へ\nリフォームする予定ですの。\nおーっほっほ。"
+    },
+    {
+      "name": "Grace",
+      "text": "AND THEN! Here's Young lady's Kyouka's trusted bunny familiar, Grace-pyon! Skilled at scaring off bell peppers for the sake of protecting milady, pyon♪ Now, it's your turn, pyon!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "そして、\nキョウカお嬢様の使い魔ウサギのグレイスだぴょん！\nお嬢様を守るために身につけた、\nピーマンよけが得意だぴょん♪\nさあ、\nそっちのターンだぴょん。"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "You two... weren't you called \"Breezy Right Thigh\" and \"Breezy Left Thigh\"? Was I mistaken? Well, whatever.",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "あなたたち、\nミギィ・スースーとヒダリ・スースーではなかったの……？\nわたくしの勘違い？　\nまぁ、\nいいわ。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "I am... a descendant of the \"Our Ladies of Sorrow\", daughters of the \"Great Old Ones\"! I am far too noble to even be a part of your existence.",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "わたくしは、\n旧支配者の娘である嘆きの聖母たち……\nの眷属でしてよ！\n高貴過ぎるわたくしは、\nそもそもあなたたちとは\n次元が違いますの。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "As proof, I have traveled from the \"Dreamlands\" through dreams and manifested in this vessel, thus appearing in this lower-dimensional world. See? Higher-dimensional in all aspects, am I not?! Oh ho ho ho!",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "その証拠にわたくしは、\n『ドリームランド』から夢をつたって、\nこの依り代に受肉することで、\nこの低次元の世界に顕現していますのよ。\nどう、\n高次元でしょう？　\nおほほほほ！"
+    },
+    {
+      "name": "Violet",
+      "text": "So she is a descendant of the \"Our Ladies of Sorrow\", I see... That said, I feel like I have heard of that name before...? Lului, have you heard of them?",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "嘆きの聖母たち……\nの眷属なのですね……\nしかし、\nどこか聞き覚えがあるような……？\nルルィはご存じですか？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Hmmm... I-I don't know eithersh... I've never seen anyonesh like that in the Deep Gardensh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ふ\nぬぬ～……\nあ、\nあたちも知らないでしゅね……\n『深い庭』で、\nあんな人は見たことないでしゅ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Kh...! Claiming to be higher-dimensional, what an incredibly condescending stance... \nUsing \"different planes of existence\" as leverage... I did not expect that kind of flex..",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "くっ、\n高次元を名乗るなんて、\nものすごい上から目線……\n次元が違うとは、\n予想外のマウントですわ……"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "HAHAHAHAHA, INDEED! Isn't she amazing! And I'm the Lady's number one fan! A DARK ELF MAN!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "ははははははは、\nそうだろう。\nすごいだろう！\nそして俺はお嬢様のファン一号、\nダークエルフの男だ！"
+    },
+    {
+      "name": "Grace",
+      "text": "With that introduction, your rank has dropped dramatically. The first turn ends up being one point for each which means it's a draw!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "今の紹介で、\n一気に位が落ちたぴょん。\nファーストターンは一対一で、\n引き分けぴょん。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "WHA?! Could it be... this was a team battle?",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "なっ！？\nまさか、\nチーム戦だったの……？"
+    },
+    {
+      "name": "Duran",
+      "text": "...Feels like whoever talks the loudest wins? I cannot grasp what the grading criteria is... or rather, is it even okay for Grace to act as the judge...?",
+      "choice_data_list": [],
+      "orig_name": "デュラン",
+      "orig_text": "……言ったもの勝ちのような？\n採点基準もよくわかりませんし、\nグレイスが審判を兼ねてよいのか……？"
+    },
+    {
+      "name": "Violet",
+      "text": "It is indeed out of reason, but we should just watch quietly for now. It shall buy us time to escape while providing useful information about the enemy.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "無茶苦茶ですが、\n今は静かに見守りましょう。\nこのまま脱出の時間を稼ぎながら、\n敵の情報も引き出すのです。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Now, it is high time for the second turn! We shall compete using our entourages as the theme.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "では、\nセカンドターンですわ。\n取り巻きたちをテーマにマウント合戦をしますわよ。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "Heh... This time, I am sure to win. That dark elf is not my sole follower, you know. My numbers are increasing even now.",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "ふっ……\n今度は、\nわたくしの勝ちね。\nわたくしの信者は\nこのダークエルフだけではなくてよ。\n今この時も、\n数は増えていますの。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "Let me prove it at once. Assist me, my believers... Come to my side at once!",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "証明してあげましょう。\nほら、\n信者たちよ。\nこっちへいらっしゃい。"
+    },
+    {
+      "name": "Zombies Without Reason",
+      "text": "UGAGAAAAAAA!",
+      "choice_data_list": [],
+      "orig_name": "理性のないゾンビたち",
+      "orig_text": "ウガガァァ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ugh, a horde of suspicious perverts...!? Furthermore, they are all drooling... disgusting...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うっ、\nへんたいふしんしゃさんの大群……！？\nヨダレを垂らした、\nへんたいさんたちですわ……"
+    },
+    {
+      "name": "Rurui",
+      "text": "HNGGGHHHHHHHH...! No, that's wrongsh! Those are zombiesh. ...Wait, no waysh. The missing zombiesh that Mr. Knife Lickersh spoke of are following hersh?!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ふぬぬぬぬ～……\n違いましゅ、\nゾンビでしゅよ。\n……って、\nましゃか。\nナイフペロリーヌ氏が言っていた消えたゾンビは、\nこの令嬢のところに……？"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "As it happens, I was planning to take my followers to take over Landosol after this. I will even turn those suspicious perverts that appear in the Spring into my believers.",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "実はこの後、\n信者たちを連れてランドソルへ向かう予定でしてね。\n春に湧いて出るというへんふしどもも、\n信者にしてやりますの。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "As a descendant of the Great Old Ones, our lady can control those who possess a low sanity. For example... the anemones and brainless zombies that are holding you captive. And also those weirdos that you claimed appear in Landosol... PROBABLY!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "眷属であられるお嬢様は、\n正気度が低い者を支配できるのさ。\n例えば、\nお前たちを捕えているイソギンチャクや\n脳が腐ったゾンビたち。\nそして……\nランドソルで春に湧くとされるへんふしたちも、\n恐らくだ！"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "Oh ho ho ho. I can expand my followers without even needing to use Violet. Thanks to that valuable information, I will gain even more power!",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "おーっほっほっほ。\nヴァイオレットなど利用しなくても、\n信者拡大はできますわ。\nこれで、\nわたくしは更なる力を手に入れるのですわ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I-In terms of sheer numbers, we are not lacking either! The number of thieving cats targeting my Prince is enough to disrupt a world's ecosystem.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "か、\n数ではこちらも負けておりませんわ。\nわたくしの殿下を狙う\n泥棒ネコの数は\n世界の生態系が狂うほどですのよ。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "Hmph... Thieving cats cannot possibly count as part of an entourage. It seems that in this second turn I have won by a large margin, getting a bonus of 1 million points.  This villainess battle is as good as mine.",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "ふ……\n泥棒ネコは取り巻きにカウントできませんわね。\nセカンドターンは圧倒的な数の差で、\nボーナス100万ポイントゲット。\nどうやら令嬢バトルは、\nわたくしの勝ちのようね。"
+    },
+    {
+      "name": "Our Ladies of Sorrow Descendant",
+      "text": "However, you insolent fools are better suited to becoming nutrients for those anemones than to be part of my entourage. Follower number one, will you lead me to the \"Gate\"? Oh ho ho ho!",
+      "choice_data_list": [],
+      "orig_name": "嘆きの聖母たちの眷属",
+      "orig_text": "ですが、\n生意気なあなたたちは\nわたくしの取り巻きに下るよりも、\nイソギンチャクの養分になるのがお似合いですわね。\n信者一号、\nゲートへ案内してくださる？　\nおーっほっほっほ！"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Y-Yes. This way.",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "は、\nはい。\nこちらでございます。"
+    },
+    {
+      "name": "Zombies Without Reason",
+      "text": "Ugaa...!",
+      "choice_data_list": [],
+      "orig_name": "理性のないゾンビたち",
+      "orig_text": "ウガァ……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "WHA?! At this rate, my Prince and Landosol will both be hers! Hold it right there...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "なっ、\nこのままでは\n殿下とわたくしのものになるランドソルが。\nお待ちなさい……！"
+    },
+    {
+      "name": "Zombies Without Reason",
+      "text": "Ugagaaa...? Ugaa...",
+      "choice_data_list": [],
+      "orig_name": "理性のないゾンビたち",
+      "orig_text": "ウガガァァ……？\nウガガァ……"
+    },
+    {
+      "name": "ヴァイオレット",
+      "text": "一瞬、\nゾンビたちがキョウカ様の命令を……？\nもしかして、\nネクロマンシーの力が……？　",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "一瞬、\nゾンビたちがキョウカ様の命令を……？\nもしかして、\nネクロマンシーの力が……？　"
+    },
+    {
+      "name": "Grace",
+      "text": "So they just ran away, pyon? In other words... you must've won, milady! Yoo hoo, pyon♪",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "あいつら、\n逃げちゃったぴょん？\nつまり、\nお嬢様の勝ちだぴょん、\nやったぴょん♪"
+    },
+    {
+      "name": "Rurui",
+      "text": "HNGGGHHHHHH... *slurp*! I finally gotsh free from theresh!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ふぬぬぬぬ～っ……\nうじゅっ！\nやっと、抜け出せまちた！"
+    },
+    {
+      "name": "Rurui",
+      "text": "I'll help you allsh right awaysh~! Using my anemone-mopsh~ *Slurpsh slurpsh slurpsh*~",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "今、\nみなしゃんもたしゅけましゅよ～\nモップのイソギンチャクで、\nうじゅじゅじゅじゅじゅ～"
+    },
+    {
+      "name": "Kyoka",
+      "text": "You have done well, Lului-san. I shall make you my second familiar after Grace!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "でかしましたわ、\nルルィさん。\nあなたはグレイスに次ぐ\nわたくしの使い魔にしてあげますわ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wait, the chain is starting to shine...?! What is going on here?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "って、\n鎖が輝き始めたのですけど……！？\nなにごとですの……！？"
+    },
+    {
+      "name": "Butler",
+      "text": "Good day, ladies and gentlemen. Thank you very much for joining us today at the tea party hosted by Young lady Kyouka.",
+      "choice_data_list": [],
+      "orig_name": "執事",
+      "orig_text": "ごきげんよう、\n紳士淑女の皆様。\n本日は、\nキョウカお嬢様主催のお茶会に\nご参加いただき\nありがとうございます。"
+    },
+    {
+      "name": "Villainess",
+      "text": "My Prince, good day. I have been looking forward to this party.",
+      "choice_data_list": [],
+      "orig_name": "悪役令嬢",
+      "orig_text": "殿下、\nごきげんよう。\nこの日を楽しみにしていましたわ。"
+    },
+    {
+      "name": "Narration",
+      "text": "The magical chain, having reached its maximum \"SusPerv Value\" began to emit a mysterious glow. When {0} and the others came to... they found themselves enjoying an elegant tea party in an unfamiliar garden...?",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "へんふ値の限界を迎え、\n謎の発光を始めた魔力の鎖。\n気が付くと{0}たちは、\n見慣れぬ庭園で貴族らしくお茶会を楽しんでいた……？"
+    }
+  ]
+}

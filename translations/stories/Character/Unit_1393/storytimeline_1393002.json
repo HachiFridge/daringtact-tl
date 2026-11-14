@@ -1,0 +1,733 @@
+{
+  "title": "Maho(Garupan) Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having completed her training under Princess\nMaho in Centaurus, Maho was now leading the\nRoyal Knights of NIGHTMARE in field exercises\nalongside {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "セントールスで、\nマホ姫による修行を終えたマホ。\n現在は{0}とともに、\n王宮騎士団の兵士たちを率いて演習を行っていた。"
+    },
+    {
+      "name": "Maho",
+      "text": "According to the map, our destination is\nstill some way off. Still... for an outsider\nlike me to be leading soldiers in a drill...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "地図によると\n目的地はまだ先のようだな。\nしかし、\nわたしのような部外者に、\n兵士を率いての演習など……"
+    },
+    {
+      "name": "Maho",
+      "text": "The Knight Commander of the Royal Knights of\nNIGHTMARE is quite an unusual person. ...No.\nJun-san really is remarkable.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】の団長という方は\n奇特な方だ。\n……いや\nジュンさんは本当にすごいのだが。"
+    },
+    {
+      "name": "Maho",
+      "text": "Even though it's framed as a drill... the\nreal objective is to investigate the hideout\nof a band of thugs. Even in this seemingly\npeaceful world, monsters and villains are\nrampant.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "演習と言いつつ、\n本来の目的は\nならず者の根城の調査か。\n平和そうに見えるこの世界にも、\n魔物や悪党どもが蔓延っている。"
+    },
+    {
+      "name": "Maho",
+      "text": "Ensuring the safety of the residents is\nprobably not an easy task.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "住人たちの安全を守る、\nというのは\n簡単ではないのだろうな。"
+    },
+    {
+      "name": "Maho",
+      "text": "Compared to modern Japan where I currently\nlive, you could say that anywhere is\ndangerous... but if there's anything I can do\nto help, I'd like to.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "わたしが今住んでいる現代の日本に比べれば、\nどこも危険だとも言えるが……\n力になれるものなら、\n助力はしたい。"
+    },
+    {
+      "name": "Maho",
+      "text": "A patrol mission against a criminal\norganization that even the Royal Knights of\nNIGHTMARE are having trouble dealing with...\nWhy entrust me with something this important?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】が手を焼くほどの\n犯罪組織の哨戒任務……\nそんな重要な仕事を、\nなぜわたしに？"
+    },
+    {
+      "name": "Jun",
+      "text": "You possess ample individual strength. Your\nfighting style has also become more stable\nafter your lessons with Maho-san.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "君は、\n個人としての強さは十分に備えている。\nマホさんとのレッスンを経て、\n戦い方だって安定した。"
+    },
+    {
+      "name": "Jun",
+      "text": "My next challenge for you is to hone your\nskills as a leader. That's why I thought this\nassignment would be just right.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "人の上に立つ指揮官としての研鑽を積むこと、\nこれが次の課題だね。\nとなれば、\n今回お願いする任務が丁度よいかと思ったんだ。"
+    },
+    {
+      "name": "Maho",
+      "text": "That may be so, but... To you, I'm an\noutsider, aren't I?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "それは、\nそうですが……\nあなた方にしてみたら、\nわたしはよそ者では？"
+    },
+    {
+      "name": "Jun",
+      "text": "I won't deny that. However, you see...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "否定はしない。\nでもね──"
+    },
+    {
+      "name": "Knights",
+      "text": "Commander? Thinking about something?",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "隊長？\n考え事ですか？"
+    },
+    {
+      "name": "Maho",
+      "text": "Ah, no. Sorry. What is it? Something's wrong?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あ、\nいや。\nすまない。\nどうした、\n何か異常か？"
+    },
+    {
+      "name": "Knights",
+      "text": "No, that's not what I meant. I was just\nthinking it's such a quiet and peaceful\nplace.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "いえ、\nそういうわけじゃないんですけど。\n静かで\n平和なとこだな～って思いましてね。"
+    },
+    {
+      "name": "Knights",
+      "text": "There are no people, not even monsters. Wild\nanimals... maybe just birds? Kinda reminds me\nof going on picnics as a kid.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "人の姿どころか\n魔物だっていない。\n野生の動物も……\n鳥くらい\nですかね？\nなんか\nガキの頃にピクニックに行った時のこととか\n思い出しそうですよ。"
+    },
+    {
+      "name": "Maho",
+      "text": "I agree that it's too quiet. But we can't let\nour guards down.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "静かすぎるのは同感だ。\nだが\n油断は感心しない。"
+    },
+    {
+      "name": "Knights",
+      "text": "My apologies! That said... everyone is\ngetting a little tired.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "失礼しました！\nですが……\n皆少し疲れてきています。"
+    },
+    {
+      "name": "Maho",
+      "text": "True. I agree that monotonous marching wears\ndown concentration. There's a water source\nnearby, so it'll be a good spot to rest.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "確かにな。\n単調な行軍が集中力を削ぐ、\nという点については異論ない。\n水場も近い、\n休息をとるには丁度いいだろう。"
+    },
+    {
+      "name": "Knights",
+      "text": "Yay! Thank you very much, Commander Maho!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "やったぁ！\nありがとうございます、\nマホ隊長！"
+    },
+    {
+      "name": "Maho",
+      "text": "Act quietly even if there are no enemies in\nsight! ...Hmm? Did you hear a child's voice\njust now?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "敵影がなくても静かに行動しろ！\n……ん？　\n今\n子どもの声が聞こえなかったか？"
+    },
+    {
+      "name": "Maho",
+      "text": "Let's go look. If I'm the only one who heard\nit, no one else will notice. {0},\nplease come with me.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "探しに行くぞ。\nわたしにしか聞こえないのであれば\n誰も気づかんだろう。\n{0}、\n同行を頼む。"
+    },
+    {
+      "name": "Maho",
+      "text": "Soldiers of the Royal Knights, stand by here!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "王宮騎士団の兵士は\nこの場で待機せよ！"
+    },
+    {
+      "name": "Knights",
+      "text": "Ha.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "はっ。"
+    },
+    {
+      "name": "Maho",
+      "text": "If I'm not mistaken, it was coming from this\ndirection...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "確か、\nこの方角からだったはず……"
+    },
+    {
+      "name": "Boy",
+      "text": "*hic*, *sniff*... *sniffle*...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ひっく、\nぐず、\nぐす……っ。\nふええぇ……"
+    },
+    {
+      "name": "Maho",
+      "text": "Kid. What are you doing in such a place?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "君、\nこんなところで\n何をしているんだ？"
+    },
+    {
+      "name": "Boy",
+      "text": "Fueh...! Onee-chan, and Onii-chan... Who are\nyou...?",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ふえっ……\nおねえちゃん、\nと、\nおにいちゃん……\nだれ……？"
+    },
+    {
+      "name": "Maho",
+      "text": "I'm Maho of the Royal Knights of NIGHTMARE.\nWe're passing through on a training exercise.\nAre you lost? There shouldn't be any villages\naround here...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "わたしは\n【王宮騎士団（NIGHTMARE）】のマホ。\n訓練中にここを通りがかったんだ。\n迷子か？　\nこの近くに村はなかったはずだが……"
+    },
+    {
+      "name": "Boy",
+      "text": "...No. I think my house is much further away.\nI was playing with my older brother and\nsister when we got caught and put in a\ncarriage...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "……ううん。\n家はもっと遠いところだと思う。\nお兄ちゃんとお姉ちゃんと遊んでたら、\n捕\nまって、\n馬車に乗せられて……"
+    },
+    {
+      "name": "Maho",
+      "text": "You've been kidnapped? ...A child this\nsmall...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "攫われたんだな？\n……こんなに小さい子どもが……"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah, I was the only one who managed to\nescape. I was lucky the ropes loosened...\nBut, my siblings...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん、\n僕だけ一人、\n逃げてきたんだ。\n運よく縄が緩んだから……\nだけど、\nお兄ちゃんたちは……っ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Don't worry. Your siblings, I... We, will\ndefinitely help them.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "大丈夫だ。\n君のきょうだいは、\nわたしが──\nわたしたちが、\n必ず助ける。"
+    },
+    {
+      "name": "Maho",
+      "text": "...I'd heard they were nothing more than\nthugs... but seeing this with my own eyes...\nit's abhorrent.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……ならず者、とは聞いていたが。\n……こう目の当たりにすると、\nおぞましいな。"
+    },
+    {
+      "name": "Knights",
+      "text": "EEHH?! You're going to launch a surprise\nattack with this patrol unit...?",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "ええっ！\n奇襲を仕掛けるって、\nこの哨戒部隊でですか……！？"
+    },
+    {
+      "name": "Maho",
+      "text": "Don't shout. Keep your voice down. If the\nsentries notice us, we're done. I know our\nforces aren't at full strength. But more\nimportantly...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "大声を出すな。\n見張りにでも気づかれたら厄介だ。\n戦力が万全でないのは分かっている。\nだが、\nそれよりも……"
+    },
+    {
+      "name": "Boy",
+      "text": "Please! My older brother and sister have been\ncaptured. I want to help them...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "お願いします！\nお兄ちゃんとお姉ちゃんが捕まってるんだ。\n助けてあげたい……"
+    },
+    {
+      "name": "Maho",
+      "text": "...Is \"doing nothing\" really an option, when\nlives are on the line right in front of us?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……目の前の人命を救わないという選択肢があるか？"
+    },
+    {
+      "name": "Knights",
+      "text": "No, ma'am! But, Commander... are you going to\ntake this kid with us? It's dangerous, so\nwouldn't it be better to assign an escort and\nsend him home...?",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "いえ、\nありません！\n……ですが隊長、\nその子も連れて行くんですか？\n危険ですし、\n護衛をつけて家に帰してあげた方が……"
+    },
+    {
+      "name": "Maho",
+      "text": "Precisely because it's dangerous, I'm\nbringing him. He volunteered to guide us.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "危険だからこそ、\n連れて行く。\nこの子は道案内を申し出てくれた。"
+    },
+    {
+      "name": "Maho",
+      "text": "The enemy should be using this area as their\nterritory. Splitting our forces into a\nsurprise attack unit and a retreat unit with\nthis child would only make things more\ndangerous.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "敵はこの一帯を縄張りとしているはずだ。\n奇襲を仕掛ける隊と、\nこの子を連れて撤退する隊に\n人員を分散させてしまっては、\nかえって危険だろう。"
+    },
+    {
+      "name": "Maho",
+      "text": "Now then... if a child this young can muster\nthe courage to act, we have no excuse to\nhesitate. Everyone, are you ready?!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "さて、\n年端もいかない子どもが勇気を出したのだから、\n我々が覚悟を決めない理由は無いはずだ。\n総員、\n準備はいいな！"
+    },
+    {
+      "name": "Knights",
+      "text": "Y-Yes, ma'am!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "はっ、\nはい！"
+    },
+    {
+      "name": "Maho",
+      "text": "Kid. We'll protect you. So please show us the\nway.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "少年、\n君のことはわたしたちが必ず守る。\nだから、\n道案内はしっかり頼んだぞ。"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah, leave it to me! I'm a knight too, now!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん、\nまかせて！\n今は僕も隊員の一人だからね！"
+    },
+    {
+      "name": "Knights",
+      "text": "So this is... the villains' hideout...? The\nadvantage of the terrain is clearly on their\nside.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "ここが……\n悪党どもの根城……？\n地の利は明らかにあっちさんですね。"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah, but it's rocky, with plenty of cover.\nThey won't be able to form proper ranks like\non open ground.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ、\nだが岩場で遮蔽物が多い。\n平地のような陣形は組めないと考えていいだろう。"
+    },
+    {
+      "name": "Maho",
+      "text": "There were only one or two roads leading to\ntheir hideout. Defensively, they'll be forced\ninto narrow chokepoints.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "アジトへつながる道は一本、\nないし二本。\n守りを考えれば\n狭路になるのは必定だ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Guards... just as expected. Stay in their\nblind spots as much as possible.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "見張りは……\nやはりいるな。\nなるべく死角を通るように。"
+    },
+    {
+      "name": "Maho",
+      "text": "...We strike the stronghold, then flank the\nbandits once they scatter.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……\n根城を叩いたうえで\n散逸した賊を挟撃する。"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah, I'm sure you will. According to Kokoro,\nyou have a special power that enhances the\nabilities of your allies, right?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ、\nそうだな。\nコッコロの話によると、\nあなたは味方の能力を引き上げる\n特別な力を持っているんだったな？"
+    },
+    {
+      "name": "Maho",
+      "text": "We don't have enough fighting power right\nnow. That ability of yours... I'd like to\nrely on it to the fullest.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "今の我々は\n戦力が十分ではない。\nその能力、\n存分に頼らせてもらいたい。"
+    },
+    {
+      "name": "Maho",
+      "text": "And then... you stay with this child. You're\nthe most caring person for children in this\nsquad, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "それから……\nあなたは、\nこの子についていてあげてくれ。\nこの隊の中で、\n一番の子ども想いだろう？"
+    },
+    {
+      "name": "Knights",
+      "text": "Huh? H-How did you know?!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "えっ、\nなんで分かったんすか！？"
+    },
+    {
+      "name": "Maho",
+      "text": "Your earlier suggestion... it was based on\nprioritizing the safety of this kid.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "子どもの安全を一番に考えていたからな。\n先ほどの進言は。"
+    },
+    {
+      "name": "Boy",
+      "text": "Onii-chan! I'm in your care!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "お兄ちゃん！　\nよろしくね！"
+    },
+    {
+      "name": "Knights",
+      "text": "Yeah, leave it to me!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "ああ、\n任せとけ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Then, those two will evacuate to a distance\nwhere they could still be seen by the enemy\nbut avoid being attacked.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "では二人は、\n連中から視認できるが攻撃は避けられる\nぎりぎりの距離に退避。"
+    },
+    {
+      "name": "Maho",
+      "text": "They might come to reclaim this child,\nknowing the circumstances. And besides... no.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "事情を知っている獲物として、\nこの子を奪還しにくるかもしれないからな。\nそれに……\nいや。"
+    },
+    {
+      "name": "Maho",
+      "text": "Furthermore, please let me know if you notice\nanything unusual.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そのうえで、\n何か異常があれば\n伝えてくれ。"
+    },
+    {
+      "name": "Maho",
+      "text": "...Phew. Charge, charge, and then charge\nagain... Though, it's not that simple here...\nHowever.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……ふう。\n突撃、\n突撃、\nまた突撃……\nとは\nいかないものだな……\nしかし。"
+    },
+    {
+      "name": "Knights",
+      "text": "Whoa! Commander, we're being attacked!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "うわあっ！？\n隊長、\n攻撃です！"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "Hear me, you foolish Royal Knights! Hand over\nthat brat! He's our prey!",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "王宮騎士団のバカ野郎ども！\nそこの坊主をよこせ！　\nそいつはオレらの獲物だ！"
+    },
+    {
+      "name": "Maho",
+      "text": "...A catapult, huh? And arrows following up.\nThey don't seem to be planning on missing.\nCalm down. All hands, battle stations!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……\n投石器か。\nそれに矢の追撃。\n外すつもりはなさそうだな。\n落ち着け。\n総員、\n戦闘配置！"
+    },
+    {
+      "name": "Knights",
+      "text": "HA!!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "はっ！！"
+    },
+    {
+      "name": "Maho",
+      "text": "FIRE!!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "──撃てっ！！"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "Whoa! What's going on?! With that many\npeople, what a well-coordinated attack...!",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "どわあっ！　\nなんだなんだ！？\nあんな人数で、\nなんて統制の取れた攻撃してきやがる…！"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "AH, HEY!! Don't you guys just scatter around\non your own!! Damn it, if that's how it is...",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "あっ、\nおい！！\nお前ら勝手に散らばるんじゃねえ！！\nくっそ、\nこうなったら……"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "I'll use those kids as shields...!!",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "ガキどもを盾にしてやる……！！"
+    },
+    {
+      "name": "Maho",
+      "text": "!!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "──っ！！"
+    },
+    {
+      "name": "Knights",
+      "text": "That bastard!! Commander, at this rate, these\nchildren will...!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "あの野郎っ！！\n隊長、\nこのままじゃ子どもたちが……！"
+    },
+    {
+      "name": "Boy's Brother",
+      "text": "WAAAAAAAH! H-HELP!",
+      "choice_data_list": [],
+      "orig_name": "男の子の兄",
+      "orig_text": "うわああんっ、\nたす、\nたすけてえぇ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Big brother! Big sister!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "お兄ちゃん！　\nお姉ちゃん！"
+    },
+    {
+      "name": "Maho",
+      "text": "...I knew it in my head. The reality of this\nworld is that a peaceful everyday life is by\nno means something to be taken for granted...\nBut seeing it firsthand like this makes me\nsick.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……頭では分かっていた。\n平和な日常が決して当たり前ではない、\nこの世界の現実……\nだがこうして目の当たりにすると、\n虫唾が走るものだな。"
+    },
+    {
+      "name": "Maho",
+      "text": "I'm an outsider, I'm not a resident of this\nworld, so... I don't know what I can do.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "この世界の住人ではないわたしに何ができるのか、\nそんなことはわからない。"
+    },
+    {
+      "name": "Maho",
+      "text": "However, if the lives of ordinary people are\nbeing threatened...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ただ、\n日々の生活を、\n普通の人々が脅かされているというなら。"
+    },
+    {
+      "name": "Maho",
+      "text": "At the very least...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "せめて──"
+    },
+    {
+      "name": "マホ",
+      "text": "せめて、\n圧倒的な力を見せつけて、\n制圧すべきだ……！　",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "せめて、\n圧倒的な力を見せつけて、\n制圧すべきだ……！　"
+    },
+    {
+      "name": "Maho",
+      "text": "Stay away from those kids.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "その子に近づくな。"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "...! W-What's this...? My body won't move...!\nIt feels like I'm being glared at by a wild\nbeast...",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "………っ！\nな、\nなんだ……？　\n身体が、\n動かねえ……っ！\nまるで、\n猛獣に睨まれてるみてえな気分だ……"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "Uwaaaaah!! W-What's that?! That girl...!\nThere's something huge behind her!",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "うわあああ！！　\nな、\nなんだあれ！　\nあの娘……っ。\n背後になんかでかいものがっ！"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "An iron... MONSTER...?!",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "鉄の……\n魔物……っ！？"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah. I'm grateful.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ。\n感謝する。"
+    },
+    {
+      "name": "Maho",
+      "text": "...GO! BLITZKRIEG!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……征けっ！\n『ブリッツクリーク』！！"
+    },
+    {
+      "name": "Thugs Boss",
+      "text": "WAAAAAAAAAAHHHHHHHH!!!",
+      "choice_data_list": [],
+      "orig_name": "ならず者の親分",
+      "orig_text": "うわああああああ！！！"
+    },
+    {
+      "name": "Boy's Brother",
+      "text": "Onii-chan... did you and the others come to\nsave us?!",
+      "choice_data_list": [],
+      "orig_name": "男の子の兄",
+      "orig_text": "お兄ちゃんたち、\n助けに来てくれたの！？"
+    },
+    {
+      "name": "Knights",
+      "text": "Yeah, your brave little brother brought us\nhere.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "ああ、\n君たちの勇敢な弟が、\nここまで連れてきてくれたんだよ。"
+    },
+    {
+      "name": "Boy's Sister",
+      "text": "...! So he's safe! I'm so glad!!!",
+      "choice_data_list": [],
+      "orig_name": "男の子の姉",
+      "orig_text": "……！！\n無事だったのね！\nよかったあ～～～！"
+    },
+    {
+      "name": "Young Soldier 1",
+      "text": "Alright!! Let's charge in! Cut off their\nretreat! Don't let any of the leftovers\nescape!",
+      "choice_data_list": [],
+      "orig_name": "若い兵士１",
+      "orig_text": "よし！！\n俺らも突撃だ！　\n退路を断て！　\n残党を逃がすな！"
+    },
+    {
+      "name": "Young Soldier 2",
+      "text": "SECURE THE TARGETS!!",
+      "choice_data_list": [],
+      "orig_name": "若い兵士２",
+      "orig_text": "全員確保！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Thus, Maho and the others successfully raided\nthe bandits' hideout and rescued the\nchildren.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、\n無事にならず者のアジトを叩き、\n子どもたちを救出したマホたち。"
+    },
+    {
+      "name": "Boy",
+      "text": "Ah, I can see it! That's our village!\nHeeeeeeey!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あっ、\n見えてきた！　\nあそこが僕たちの村だよ！\nおーい！"
+    },
+    {
+      "name": "Maho",
+      "text": "Hey, don't act up while you're on his\nshoulders. ...But, yeah. I'm glad you all\nmade it back safely.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "こら、\n肩車の上で暴れるんじゃない。\n……でも、\nそうだな。\nみんなで無事に帰ってこれてよかった。"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah! Thank you, Onee-chan, Onii-chan! You\ntwo were so cool!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん！　\nありがとう、\nお姉ちゃん、\nお兄ちゃん！\n二人ともめちゃくちゃかっこよかったよ！"
+    },
+    {
+      "name": "Boy",
+      "text": "So, you know, when I grow up, I want to be\nlike you, Onee-chan! I want to use a super\nbow and arrow to shoot down bad guys like you\ndid! Bam!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "それでねえ、\n僕、\n大人になったらお姉ちゃんみたいになりたい！\nすっごい弓矢で、\n悪者をばーんっ！　\nてやっつけるんだ！"
+    },
+    {
+      "name": "Knights",
+      "text": "Heard him, Commander?",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "言われてますよ、\n隊長？"
+    },
+    {
+      "name": "Maho",
+      "text": "Yes, I'm sure you can do it. When that time\ncomes, I'd like you to join the Royal Knights\nof NIGHTMARE. Brave young people are always\nwelcome.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうだな。\nきっとなれるだろう。\nその時は──\n王宮騎士団に入団してほしい。\n勇敢な若者は、\n何時だって大歓迎だろうから。"
+    },
+    {
+      "name": "Maho",
+      "text": "That may be so, but... To you, I'm an\noutsider, aren't I?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "それはそうですが……\nあなた方にしてみたら、\nわたしはよそ者では？"
+    },
+    {
+      "name": "Jun",
+      "text": "I won't deny that. However, you see... you're\npart of this world now. And I want you to use\nthat strength for its people.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "否定はしない。\nでもね──\n──君は、\n今はこの世界の一員だ。\nその力を、\n人々のために使ってほしいんだ。"
+    },
+    {
+      "name": "Knights",
+      "text": "I'd like to ask for your help too! Our\nCommander's overworked as it is!! We really\nneed more hands!!",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "俺からもお願いします！　\n団長も働きすぎでして！！\n人手不足を\n何とかしたいんです！！"
+    },
+    {
+      "name": "Maho",
+      "text": "...Right. I'm sure she'd be happy to see you\njoin. Hehe.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……そうだな。\nきっと喜ぶ。\nふふっ。"
+    },
+    {
+      "name": "Boy",
+      "text": "Aaah, that's not fair! Why are only the\nadults laughing?!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あーっ、\nずるい！\n大人だけでなんで笑ってるんだよー！？"
+    },
+    {
+      "name": "Maho",
+      "text": "To this world of Astrum, which welcomed us,\noutsiders that we are, if I can be of any\nhelp at all...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ともすれば\n闖入者でしかないわたしたちを受け入れてくれた、\nこのアストルムに。\n少しでも役に立てるのなら──"
+    },
+    {
+      "name": "Maho",
+      "text": "As long as I'm here, I'll give it my all.\nBecause this, too... is my path of Tankery.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ここにいる限り、\nわたしは力を尽くそう。\nそれが、きっと。\nわたしの戦車道だ。"
+    },
+    {
+      "name": "Narration",
+      "text": "Laughter echoed along the sun-drenched road\nto the village. The drill had come to a\nsuccessful close.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "日差しの降り注ぐ村への道に、\n一行の笑い声が響き渡る。\n演習は成功裏に幕を下ろすことになったのだった。"
+    }
+  ]
+}

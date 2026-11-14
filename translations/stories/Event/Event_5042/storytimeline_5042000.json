@@ -1,0 +1,824 @@
+{
+  "title": "Rino and the Curious Book",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Landosol's shopping district is bustling with activity as usual. In the middle of it, Rino is looking a little upset.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "賑わうランドソルの繁華街。\nそこには、どこか元気がないリノの姿があった。"
+    },
+    {
+      "name": "Rino",
+      "text": "*sigh* Seems like the town is busy as usual today...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……はあ。\n今日も町は賑わっていますね……"
+    },
+    {
+      "name": "Rino",
+      "text": "In comparison, my heart is a deserted recital. Everyone around me is singing and dancing with gusto...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "それに比べて私の心は、\n閑古鳥のリサイタルです。\nみんなノリノリで歌って踊ってますよ……"
+    },
+    {
+      "name": "Rino",
+      "text": "Designer training school... I failed again...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "デザイナー養成学校……\nまた、\n落ちちゃいましたしね……"
+    },
+    {
+      "name": "Rino",
+      "text": "To think I tried so hard too... Maybe I didn't put in enough effort...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "一生懸命頑張ったのに……\n努力が\n足りなかったのかな……"
+    },
+    {
+      "name": "Rino",
+      "text": "Huh... Onii-chan...? A-Ah! W-What a coincidence to meet you in a place like this!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "え……\nお兄ちゃん……？\nあ、\nああ、\nこんなところで会うなんて奇遇ですね～！"
+    },
+    {
+      "name": "リノ",
+      "text": "いけないいけない。\nお兄ちゃんの前では、\n妹は常に元気でないと……！　",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "いけないいけない。\nお兄ちゃんの前では、\n妹は常に元気でないと……！　"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Oh, if I recall, you're... Rino-chan! Long time no see!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あ、\nたしか\nリノちゃんだよね！\n久しぶり～！"
+    },
+    {
+      "name": "Rino",
+      "text": "You're... Hiyori-san! Long time no see, indeed~",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あなたは……\nヒヨリさん！\nお久しぶりです～"
+    },
+    {
+      "name": "Ayumi",
+      "text": "U-Umm... P-Pleased to meet you! My name is Ayumi-sh! Ugh... I bit my tongue again...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "え、\nえと、\nは、\n初めまして！\n私の名前は\nアユミっていいましゅ！\nうう……\nまた噛んじゃったぁ……"
+    },
+    {
+      "name": "Rino",
+      "text": "Um, nice to meet you. Ayumi-san, right? My name is Rino.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "えっと、\n初めまして。\nアユミさん……\nですね。\n私、\nリノといいます。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I-I actually know you, Rino-san. I've seen you around a few times.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "わ、\n私、\n実はリノさんのこと知ってるんです。\n何度かお見かけしたことがあって。"
+    },
+    {
+      "name": "Rino",
+      "text": "Huh? Really?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "え？　\nそうなんですか？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Yes. You're like Senpai's imouto, and sometimes you look at Senpai from afar with a troubled look... Also, you usually take walks with Senpai together with another long-haired Onee-san.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "はい。\n先輩の妹さんみたいな人で、\nたまに先輩を遠くから見ていたり……\nあと、\n髪の長いお姉さんと一緒に\n先輩と歩いていたりしてますよね。"
+    },
+    {
+      "name": "Rino",
+      "text": "Ah, yes...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ、\nはい……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Furthermore, I believe that you've met Senpai here a few days ago, correct?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "数日前も\nこのあたりで、\n先輩と会われてましたよね？"
+    },
+    {
+      "name": "Rino",
+      "text": "I-I think I recall as much... Um, how did you know that...?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "た、\n確か、\nそう\nだったような……\nえっと、\nどうしてそれを……？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Oh, th-th-that's...! I-I was just looking at Senpai from afar! Then Rino-san came over, and...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あ、\nそそ、それは……！\nせ、\n先輩を遠くから\nずっと眺めていただけなんです！\nそしたらリノさんがやって来て、\nそれで……！"
+    },
+    {
+      "name": "Rino",
+      "text": "Watching from afar, you say... A-Ayumi-san, don't tell me that you're Onii-chan's stalker...?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "遠くからずっと眺めていて、\nって……\nア、\nアユミさんって、\nもしかしてストーカーさんってやつですか……？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Y-You've got that wrong! I'm just a normal person who likes to watch over Senpai is all!!!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ち、\n違います～！\n私は先輩を見ているのが好きなだけの\n普通の人ですから～！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Rino-chan. When it comes to Ayumi-san, I'm sure that she's no stalker, she must be... an amazing ninja!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "リノちゃん。\nアユミちゃんはストーカーじゃなくて、\nきっと\nすっごいニンジャさんなだけだよ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "That's ALSO wrong, though!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "それも違います～！"
+    },
+    {
+      "name": "Rino",
+      "text": "A-Ahaha... Hah.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ、\nあはは……\nはぁ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Huh...?! N-No, it's nothing! Onii-chan, you can be such a worrywart~!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "え……！\nい、\nいや、\nなんでもないですよ！\nいやだなぁ、\nお兄ちゃんてば～！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Oh, look at the hour already... Rino-san. We were going to help Senpai with his shopping today. Would you like to come with us?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あ、\nもうこんな時間……\nリノさん。\nこれから先輩の買い物を\nお手伝いしに行くんですが、\n一緒に行きませんか？"
+    },
+    {
+      "name": "Rino",
+      "text": "Huh? You want me to...?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "え、\n私も……？"
+    },
+    {
+      "name": "Rino",
+      "text": "...That's perfect for a change of pace. I don't want to think about clothes for a while.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……気分転換には\nちょうどいいかな。\nしばらく服のこと……\n考えたくないですし。"
+    },
+    {
+      "name": "Rino",
+      "text": "Sure. Then... I'll go with you, thanks.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はい。\nじゃあ、\n私も一緒に行かせてもらいますね。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yay!! Then, with all of us here... let's gooo!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "やった～！！\nじゃあ、\nみんなで一緒に\nれっつごー！"
+    },
+    {
+      "name": "Store Manager",
+      "text": "...Ah, quite a lot of orders you have there. I'll just go check the stock at the warehouse. It'll take a while, so you can come back later.",
+      "choice_data_list": [],
+      "orig_name": "店長",
+      "orig_text": "──\nこれで注文は全部だな。\nちょいと、倉庫で在庫を確認してくるわ。\n時間かかりそうだから、\n後でまた来てもいいぜ。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "S-Seems like we've got a bit of free time...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ちょ、\nちょっとだけ時間が空いちゃいましたね……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What should we do? Maybe go eat somewhere?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "どうする？\nどこかでご飯でも食べよっか？"
+    },
+    {
+      "name": "Rino",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rino",
+      "text": "It's no good... No matter what, I can't seem to clear my mind. This is a problem...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "だめですね……\nどうしても、\n気持ちが晴れません。\n困ったな……"
+    },
+    {
+      "name": "Inori",
+      "text": "I'm tired of looking for that thing already! Besides, there's no way a worn-out item shop like this would have a book like that!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "もう\n探すの飽きたです～！\nだいたい、\nこんなオンボロ道具屋に、\nそんな本あるわけないです！"
+    },
+    {
+      "name": "Homare",
+      "text": "That's some naive thinking coming from you, Inori-chan. It's in seemingly ordinary places like these that unordinary objects tend to be found, you know?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それは考えが甘いよイノリちゃ～ん。\nこういう一見普通のところにこそ、\nあったりするんだよ～？"
+    },
+    {
+      "name": "Inori",
+      "text": "If that's your life's philosophy at work, then go look for it yourself. This kind of mundane work isn't suitable for someone like me!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そんなに言うんだったら自分で探しやがれです。\nこういう地味な作業はあたしには向いてないですよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Inori",
+      "text": "Geh! S-Stop trying to intimidate me by not saying a word! Ah~ Fine, I get it already! I'll look for it with you! I will!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "む、\n無言で威圧してくるのはやめるです！\nあ～分かった、\n分かったですよ！\n探す！　\n探しますから！！"
+    },
+    {
+      "name": "Rino",
+      "text": "A horn and a tail... Could they be... dragonfolk?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あの角に尻尾……\nもしかして、\nドラゴン族？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Amazing! This might be the first time I've ever seen one of the dragonfolk up close!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "すっごーい！\nあたし、\nドラゴン族をこんなに近くで見たの\n初めてかも！"
+    },
+    {
+      "name": "Homare",
+      "text": "Oh my? What a coincidence to meet you here♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あれ～？　\nこんなところで奇遇だね～♪"
+    },
+    {
+      "name": "Inori",
+      "text": "If it isn't Onii-san. ...Don't tell me, are you lazying around again?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "お兄さんじゃないですか。\n……もしかして\n暇人だったりしやがります？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "To think you have acquaintances among the rare dragonfolk race too... As expected of Kishi-kun♪",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ドラゴン族にも知り合いがいるなんて、\nさすが騎士くんだね♪"
+    },
+    {
+      "name": "Homare",
+      "text": "I believe this is our first time meeting~♪ My name's Homare. Nice to meetcha~♪ And this girl here is...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そちらの人たちは初めましてだね～♪\n私の名前は\nホマレっていいま～す。\nよろしくね～♪\nそれで、\nこっちの子は………"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmph, as if I'd have a name to give out to some strangers.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふんっ、\n見ず知らずの連中に名乗る名なんてねぇです。"
+    },
+    {
+      "name": "Homare",
+      "text": "I don't really approve of you having bad manners like that, you know～? ...No dinner... \nFollowed by a hundred butt spankings... maybe while you're sleeping...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そういうお行儀が悪いのは感心しないなあ～？\n……\n晩ご飯抜き……\nお尻を百叩き……\n寝ているところに……"
+    },
+    {
+      "name": "Inori",
+      "text": "I-Inori! I'm Inori!! Come on, now that I've introduced myself, stop saying those cursed words alltogether!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "イ、\nイノリ！　\nイノリなのです！！\nほら、\n名乗ったんだから、\nその呪いの言葉を今すぐやめるのです！！"
+    },
+    {
+      "name": "Rino",
+      "text": "Ahaha... Ah, my name is Rino.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あはは……\nあ、\n私はリノっていいます。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I'm Hiyori!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あたしはヒヨリだよっ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Rino-chan and Hiyori-chan... I see.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "リノちゃんにヒヨリちゃん……\nね。"
+    },
+    {
+      "name": "Homare",
+      "text": "...Hmm, hmm, huh? Somehow... you two have quite an interesting presence around you~♪ Maybe it's because of someone you two both know...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……ふむふむ、\nへぇ～？\n二人ともなんだか\n面白い気配を感じるね～♪\nもしかして、\n二人の知り合いに……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "U-Umm... A-And I'm Ayumi! P-Pleased to meet you! ...I was able to say it properly this time♪",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あ、あの……\nわ、\n私は\nアユミっていいますぅ！\nよ、\nよろしくお願いします！\n……今度はちゃんと言えたぁ♪"
+    },
+    {
+      "name": "Inori Homare",
+      "text": "Huh...!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ・ホマレ",
+      "orig_text": "え……っ！？"
+    },
+    {
+      "name": "ヒヨリ",
+      "text": "ドラゴン族でも気配に気付かないなんて……\nやっぱりアユミちゃんはすごいなぁ♪　",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ドラゴン族でも気配に気付かないなんて……\nやっぱりアユミちゃんはすごいなぁ♪　"
+    },
+    {
+      "name": "Homare",
+      "text": "P-Pleased to meet you... Rino-chan, Hiyori and... Ayumi...chan?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "よ、\nよろしくね～\nリノちゃん、\nヒヨリちゃんに……\nアユミ、\nちゃん？"
+    },
+    {
+      "name": "Inori",
+      "text": "...Th-There was no sign of her before now, she was able to completely blend with the scenery even to her... She's definitely no ordinary person...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……け、\n気配が無かったうえに、\n風景と完全に一体化してやがったですよ……\nあれは絶対只者じゃないです……！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "So, what were you two doing here?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "それで、\nお二人は何をしてたんですか？"
+    },
+    {
+      "name": "Inori",
+      "text": "Ahhn? Why should we give away such confidential information so easi--...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "は～？　\nなんであたしたちがそんな機密情報を\nほいほいと教えないといけな──"
+    },
+    {
+      "name": "Inori",
+      "text": "PIIII?! D-Don't just grab my tail out of nowhere?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴぃ！？\nし、\n尻尾をつかむのはなしですよ！？"
+    },
+    {
+      "name": "Homare",
+      "text": "I heard this item shop deals in old literature, so I came here thinking that maybe there might be something written about us dragonfolk.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "この道具屋は\n古い文献を取り扱ってるって聞いたから～\nもしかしたら\nドラゴンについて書かれたものが\nあるかもって思って来てみたんだよ～♪"
+    },
+    {
+      "name": "Inori",
+      "text": "But, there doesn't seem to be any sign of something like that... Not to add how those old books just don't seem to end... I'M ALREADY TIRED, DAMMIT!!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "でも、\nそんなの全然見当たらないですよ……\nしかも思ったより数があるし、\nもう疲れたですよ～！！"
+    },
+    {
+      "name": "Homare",
+      "text": "Really? You're a lifesaver♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ほんとに～？\n助かるよ～♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "If Kishi-kun's going to help you, then count me in, too!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くんが手伝うなら、\n私も手伝うよ！"
+    },
+    {
+      "name": "Rino",
+      "text": "Oh, in that case, me too...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ、\nでしたら私も……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I-I'll do my best too-sh! Auuu... I bit my tongue again...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "わ、\n私も頑張りましゅ！\nあうぅぅ……\nまた噛んだぁ……"
+    },
+    {
+      "name": "Homare",
+      "text": "Well, since you're all so eagerly, I guess I'm in your hands♪ To be specific, we're looking for a book with dragon-related words or pictures in the title or on the cover... It would be helpful if you could also take a quick look inside♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "じゃあ、\nせっかくだから\nお願いしちゃおっかな♪\nとりあえず、\nタイトルと表紙に\nドラゴン関係の文言や絵がある本……\n後は\n軽く中も見てもらえると助かるかな～♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Alright, leave it to us! Come on, Ayumi-chan, let's race to see who can find this book faster!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "よ～し、\n任せて！\nさあアユミちゃん、\nどっちが早く見つけられるか\n競争だよ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "H-Hiyori-san! P-Please wait for meeee...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ヒ、\nヒヨリさん、\n待ってくださ～い！"
+    },
+    {
+      "name": "Rino",
+      "text": "Well then, we should also start to look around.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "それじゃあ、\n私たちも探しましょうか。"
+    },
+    {
+      "name": "Rino",
+      "text": "...This book is \"How to Use Magical Tools Even a Monkey Can Understand\", not what we're looking for. As for this book... what's this about?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……この本は\n『サルでも分かる魔法具の使い方』\nだから違いますね。\nそれにこれは……\nなんの本かな？"
+    },
+    {
+      "name": "Inori",
+      "text": "...Hm? \"Airships are The Epitome of Romance\". That one seems to be all about some kind of machinery, there's no need for you to bother with it.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……\n『飛空艇は浪漫の塊』\nですね。\nその段は全部機械関連だから、\n調べなくていいですよ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Thank you very much, Inori-chan.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "ありがとうございます。\nイノリちゃん。"
+    },
+    {
+      "name": "Rino",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Inori",
+      "text": "...What are you staring at me for? Are us dragonfolk really that rare to you?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……なにじろじろ見てやがるです？\nドラゴン族がそんなに珍しいですか？"
+    },
+    {
+      "name": "Rino",
+      "text": "Y-Yes, that's part of it, of course, but...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "は、\nはい、\nそれはもちろんそうなんですけど……"
+    },
+    {
+      "name": "Inori",
+      "text": "...Is this girl another onlooker just curious because my dragonfolk race happens to be rare? I'm getting sick of this already.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……こいつもドラゴン族が珍しいからって、\n野次馬根性丸出しのやつですか。\nいい加減、\n飽き飽きです。"
+    },
+    {
+      "name": "Rino",
+      "text": "Um...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あの……"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmph, just so you know, I have no intention of telling you anything about any dragonfolk related secrets-...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふんっ、\n言っとくですけど、\nドラゴン族の秘密について何もしゃべる気は……"
+    },
+    {
+      "name": "Rino",
+      "text": "That pattern on your arm... Inori-chan, I find you very stylish.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "その\n腕の文様……\nイノリちゃんっておしゃれですね。"
+    },
+    {
+      "name": "Inori",
+      "text": "...Fweh?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……ふえ！？"
+    },
+    {
+      "name": "Rino",
+      "text": "Ah, sorry... I ended up starting a chat... Let's get back to work.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ、すいません、\nおしゃべりしちゃって……\n作業に戻りますね。"
+    },
+    {
+      "name": "Inori",
+      "text": "This girl... She's more interested in me as a person than me being part of the dragonfolk... What a weirdo.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……こいつ、\nドラゴン族のことより、\nあたしのことに興味を持つなんて……\n変なやつなのです。"
+    },
+    {
+      "name": "Rino",
+      "text": "Hmm, there seems to be no book about dragons anywhere... This one isn't it, that one neither... Huh? This one is... a fairy tale?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "う～ん、\nドラゴンについて書かれた本が無いですね……\nあっちの本は違うし、\nこの本も……\nえ？\nこれって……\n童話？"
+    },
+    {
+      "name": "Rino",
+      "text": "Wow... The girl on the cover is so cute...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "わぁ……\n表紙の女の子、\nとってもかわいい……"
+    },
+    {
+      "name": "Rino",
+      "text": "The mysterious world depicted in the background is also very nice... Hehe, the rabbit holding the clock and the transparent cat are also interesting...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "背景に描かれている不思議な世界もとっても素敵……\nふふっ、\n時計を持った兎も、\n姿が透けた猫とかも面白い……"
+    },
+    {
+      "name": "Rino",
+      "text": "But, as expected... to me the number one star here is that main character girl! The clothes she's wearing are really cute.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "でもやっぱり一番は、\nこの主人公の子かな。\n着てる服がとってもかわいいし。"
+    },
+    {
+      "name": "Rino",
+      "text": "...Wait. No matter what I think or do, my eyes are just drawn to the same thing. Here goes my intent to not think about clothes for a while...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……って。\nどうしたって、\n目がこっちに行っちゃいますね。\nしばらく服のこと、\n考えたくなかったのに……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Rino-chan, did you actually find it?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "リノちゃん、\n見つけたの？"
+    },
+    {
+      "name": "Rino",
+      "text": "A-Ah... No, I guess I just found a book I'm personally interested in.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ……\nいえ、\nちょっと気になる本があって。"
+    },
+    {
+      "name": "イノリ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehehe. I wonder what's on your mind, Inori-chan? Don't tell me... you want to join in with them?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ、\nどうしたのかなイノリちゃん。\nあの子たちばっかり見て、\nもしかして、\n気になってるのかな～？"
+    },
+    {
+      "name": "Inori",
+      "text": "A-Ahhhn?! A-As if I'd be interested in anyone else or anything like that!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "は、\nはぁ！？\nべべ、\n別に\nあんなの全然興味なんてないですよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Well, certainly... it's true that we don't have many girls in our gang~ I guess you'd be curious about having some girls-only talk, after all~ But-I-Also-Wonder... are you perhaps curious about Rino-chan's situation?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "まあたしかに、\nうちは女の子少ないからね～\nやっぱり、\n女子トークってやつが気になっちゃう～？\nそ・\nれ・\nと・\nも～\nリノちゃんのことが気になるのかな～？"
+    },
+    {
+      "name": "Inori",
+      "text": "I-I'm not bothered by her troubled attitude or anything like that! Umm... S-She just seems to be slacking off after being told to work, so I'm merely worried about her work etiquette is all!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぜ、\n全然気にならないです！\nその……\nて、\n手伝うとか言っておいて\nサボってるから、\n注意してやろうと思っただけです！"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe, in that case, let me accompany you to present those worries of yours to her~ I'd like to see how you make new friends first-hand, Inori-chan~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ、\nだったら私も一緒に行こうかな～\nイノリちゃんが、\nちゃんと友達を作れるように見ておきたいし～♪"
+    },
+    {
+      "name": "Inori",
+      "text": "A-As I've been telling you, I'm not trying to make friends here! Ah geez! Don't follow me!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そ、\nそんなんじゃないって言ってるですよ！\nあ～もう、\nついてくんなです！"
+    },
+    {
+      "name": "Rino",
+      "text": "The clothes of the main character in this picture book were so cute that I... just couldn't resist. Anyway, I'll take a peek inside...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "この絵本の\n主人公の服が\nとってもかわいかったので、\nつい。\nとりあえず、\n中もチェックしてみますね。"
+    },
+    {
+      "name": "Rino",
+      "text": "Let's see, I wonder what kind of story it is... Huh?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "えーっと、\nどんなお話しなのかな……\nえっ？"
+    },
+    {
+      "name": "Rino",
+      "text": "The book... is glowing?!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "本が……\n光ってる！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Rino-chan, could this be...?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "リノちゃん、\nこれって……！？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Wh-What is that book?! What in the world...?!!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "な、\nなんですかこれ！？\nいったいなにが……！！？？"
+    },
+    {
+      "name": "Rino",
+      "text": "I-I don't know!! It suddenly started glowing...!!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "わ、\n分かりません！！\n急に光り出して……！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "The light's getting stronger and brighter! I-It's so bright...!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "光が\nどんどん強くなってるよ！\nま、\nまぶしい……！！"
+    },
+    {
+      "name": "Rino",
+      "text": "O-Onii-chan! What should I do...?!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お、\nお兄ちゃん！\n私どうすれば……！"
+    },
+    {
+      "name": "Rino",
+      "text": "Y-You're right! If I just close the book... Eh, it won't close?!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "そ、\nそうですね！\n本を閉じれば……\nえ、\n閉まらない！？"
+    },
+    {
+      "name": "Inori",
+      "text": "You guys! How long are you going to slack o-...? Teh! Wh-What's going on?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おまえたち！　\nいつまでサボってやが……\nって、\nな、\n何事ですか～！？"
+    },
+    {
+      "name": "Homare",
+      "text": "This seems to be... pretty amazing, huh?♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "これは……\nなかなかすごいことになってるね～♪"
+    },
+    {
+      "name": "Rino and the others",
+      "text": "UWAAAAAAHHHHH!!",
+      "choice_data_list": [],
+      "orig_name": "リノたち",
+      "orig_text": "わああああああ～～！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Oh...! Onii-san and the others are all gone! At this rate, we'll also be... B-Boss! Can't we do something?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ああ、\nお兄さんたちが消えちゃいましたよ！？\nこ、\nこのままじゃ、\nあたしたちも……\nボ、\nボス～！　\nなんとかならないですか！"
+    },
+    {
+      "name": "Homare",
+      "text": "You're looking for a solution to this situation, huh...? Indeed, there's one thing I can do, I guess?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "この状況を打破する解決策、\nかぁ……\nうん、\n一つだけあるよ～？"
+    },
+    {
+      "name": "Inori",
+      "text": "Oh, as expected, you are really reliable at times like these! So, what's the plan...?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おお、\nさすがこういうときだけは頼りになるです！\nそれで、\nどうすれば……！"
+    },
+    {
+      "name": "Homare",
+      "text": "...Maybe we should just give up and let this light envelop us too? That sounds like a fun solution to me~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……あきらめて\nこの光に包まれてみよっか？\nなんだか面白そうだし～♪"
+    },
+    {
+      "name": "Inori",
+      "text": "That... THAT'S NOT A SOLUTION! YOU CURSED HEDONOSTIC WOMAAAAAAAAN!!!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "それ、\n解決策とかじゃないですから！\nこの\n享楽主義女ぁぁ～！！"
+    },
+    {
+      "name": "Store Manager",
+      "text": "...Hey, I finished checking my inventory. I managed to get enough for your order... Huh?",
+      "choice_data_list": [],
+      "orig_name": "店長",
+      "orig_text": "──お～い、\n在庫調べてきてやったぞ。\nなんとか注文分には足りて……\nありゃ？"
+    },
+    {
+      "name": "Store Manager",
+      "text": "...No one's here. Did they go out to eat? Well, they'll be back eventually.",
+      "choice_data_list": [],
+      "orig_name": "店長",
+      "orig_text": "……誰も居ねえ。\n飯でも食いに行ったのかね？\nま、\nそのうち戻ってくんだろ。"
+    },
+    {
+      "name": "Narration",
+      "text": "The item shop was enveloped in silence. No one knew where Rino and the others had disappeared to.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "静寂に包まれる道具屋。\nリノたちがどこへ消えたかなど、誰も知る由もなかった。"
+    }
+  ]
+}

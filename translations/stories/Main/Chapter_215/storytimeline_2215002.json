@@ -1,0 +1,943 @@
+{
+  "title": "Part 3 Ch. 15 Ep. 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Meanwhile -- the Gourmet Guild continued their investigation of Elpis Island, seeking clues to the whereabouts of the missing {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方──\n行方不明の{0}の手がかりを求め\nエルピス島の調査をしていた【美食殿】。"
+    },
+    {
+      "name": "Narration",
+      "text": "However, they were assaulted by a horde of powerful monsters that erupted from beneath the island. Worse still, Quria was abducted by Alshat, leaving the group with no choice but to retreat to their campsite...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "だが、\n島の地下から湧き出した強力な魔物の群れの襲撃を受け\nさらにはクリアがアルシャトに拉致されてしまい、\n一行はやむを得ずキャンプ地にまで引き返していた……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Dawn has already broken. I wonder if Lady Riri and Lady Precia will be fine...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……もう、\n夜が明けてしまいましたね。\nリリさまとプレシアさまは……\n大丈夫でしょうか。"
+    },
+    {
+      "name": "Karyl",
+      "text": "When we received a call that the missing Quria had been found in Gio Gehenna... They rushed out in a panic. It might have been a trap, so perhaps we should have tried to stop them more forcefully...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "行方不明のクリアが、\nジオ・ゲヘナで見つかった\nって連絡が来て……\nあいつら、\n慌てて飛び出していったけど。\n罠だったかもだし、\nやっぱもっと、\n強引に止めるべきだったかしら……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "According to reports from the royal palace, black dragons have appeared in Gio Teogonia and Gio Nivlhel, causing a great commotion. The monsterfolk of Gio Gehenna are all strong, but I'm still worried.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "王宮からの連絡だと、\nジオ・テオゴニアや\nジオ・ニヴルヘルにも\n黒いドラゴンが出て、\n大騒ぎになってるって話だし。\nジオ・ゲヘナの妖魔人たちは\n強い人ばかりだけど、\n心配よね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "But...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……でも……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Indeed, Lady Sheffy. Had we learned of my Lord's whereabouts, we would surely have acted the same way. That does not mean we are unconcerned for Lady Quria, of course...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はい、\nシェフィさま。\nわたくしたちも、\n主さまの行方が分かったとなれば、\nきっと同じように\nしたでしょう。\nもちろん、\nクリアさまのことは\nとても心配ですが……"
+    },
+    {
+      "name": "Karyl",
+      "text": "A lead on {0}'s disappearance... If this is our only one, then we can't all afford to leave this place.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "消えた{0}の手がかり。\n他にないってんなら、\n全員でここを離れるわけにはいかないわよね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "An island has surfaced into the sky from the underground of the \"Eye\" of Elpis Island. As to how to get in~... Breaking through the storm and the dragons surrounding it is a little~...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "エルピス島の『眼』の地下から浮上した、\n空の島。\nどうやって乗り込めばいいのかな～\n嵐とドラゴンたちを突破して──……"
+    },
+    {
+      "name": "The Three",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, umm... Is it time to eat yet☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ、\nえーと。\nごはんですか？☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Hey, you. Right now, you know what you're supposed to be doing... Right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ちょっとあんたっ。\n今は、\nアレがソレだから。\nね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahaha, I know, I know~ Please stop glaring at me already~",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あはは、\n分かってますって～\nもう、\nにらまないでくださいよ～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh no, it's bad☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やばいですね☆"
+    },
+    {
+      "name": "The Three",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We have a long road ahead of us, so, umm... well, we need to make sure we are well-fed so we can deal with any situation that may arise.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "前途多難ではありますが……\nその。\nどんな事態が起きても\n万全に対処できるよう、\n腹ごしらえをしなくてはなりませんね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...You're right, Kokkoro-san. I'll help you prepare the food.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……そうね、\nコッコロさん。\n食事の用意、\n手伝うわ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll also heeelp☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしも手伝いまーす☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "You should go to sleep as I already said! ...Hah, my head hurts...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんたは寝ときなさい\nっての！\n……はぁ、\n頭いたぁ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? Are you okay, Kyaru-chan? Onee-... No, do you want to suck on my ears? Just to mix things up♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっ？　\n大丈夫\nキャルちゃん？\nおねえ──\nじゃなくて、\nペコ吸いする？\nいつもと逆に♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "I WON'T DO THAT! Anyway, you, try to be a little more~",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "し\nないわよっ！\nてかあんた、\nもうちょっと──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, too bad~",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ。\n残念──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...It seems we've got some monsters coming☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──魔物\nきてますよ☆"
+    },
+    {
+      "name": "Monsters",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "シェフィ・コッコロ",
+      "text": "！！",
+      "choice_data_list": [],
+      "orig_name": "シェフィ・コッコロ",
+      "orig_text": "！！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "These guys... they're from yesterday! Did they go out of their way to follow us!? We put a lot of distance between us...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "こいつら、\n昨日の……！\nわざわざ追ってきたの！？\nかなり引き離したのに……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...! And that is not all... we have been surrounded!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "っ……！\nそれだけではありません。\n囲まれてしまっているようです……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "They weren't this coordinated yesterday, were they? Could it be that someone's manipulating them...?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "昨日は\nこんな頭のいい動き、\nしてなかったわよね。\nもしかして、\n操られてるっ……！？"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Dear person hiding behind that tree over there. Why don't you come out?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そこの樹の陰に、隠れてるひと。\n出てきたらどうですか？"
+    },
+    {
+      "name": "Freya",
+      "text": "...Eustiana. Impossible... I never imagined you would see through me.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……ユースティアナ。\nまさか、\nお前に見破られるとは。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Even with presence-concealment magic, your killing intent was still leaking out☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "気配遮断の魔法使ってても、\n殺気が漏れちゃってましたよ☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Toh... Leaving that aside, what can I do for you~?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っと、\nそれはともかく。\n何かご用ですか～？"
+    },
+    {
+      "name": "Freya",
+      "text": "I only ever have one purpose when it comes to you. ...I came here to kill you.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "用向きは、ひとつきり。\n……お前を、\n殺しに来た。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Kh! So because Pecorine's not at her best, you think she's an easy mark!? Without {0} around, she can't even be properly strengthened either...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っ……！\nペコリーヌの調子が悪いから、\n狙い目だっての！？\n{0}がいなけりゃ、\n強化もかけらんないし……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm? Strategically speaking, it makes sense... but still. It's kind of dull. Not very exciting☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふぅ～ん？\n作戦としては、\n妥当だけど──\nですけど。\n面白みがなくて\nイマイチですね☆"
+    },
+    {
+      "name": "Freya",
+      "text": "...Say whatever you want, Eustiana.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……どうとでも、言うがいい。\nユースティアナ──"
+    },
+    {
+      "name": "Freya",
+      "text": "Unless I kill you, I cannot move forward. Just seeing your face. Just knowing you are still breathing fills me with rage.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "お前を殺さなくては、\n私は前に進めない。\nお前の顔を見るだけで。\nお前がまだ息をしていると思うだけで、\n怒りがこみ上げる。"
+    },
+    {
+      "name": "Freya",
+      "text": "Such emotions have no place within me. Therefore... from reality. From this game world. I will erase you without leaving so much as a fragment!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "こんな感情は、\n私には不要だ。\nだから──\n現実からも。\nゲームの世界からも。\n欠片も残さず、\n消してやる！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wow☆ I'm being hated soooo much~",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わぁ☆\nすっごい恨まれちゃってます～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I don't know much about it, but... the reason you hate me so much is... because you're a clone carrying the blood of the Astraean's royal family, correct?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたし、\nあまり詳しくないですけど。\nその恨みの理由って──\nあなたが\nアストライア王家の遺伝子を持つクローンだから、\nとかですか？"
+    },
+    {
+      "name": "Freya",
+      "text": "......!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……っ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The Astraean royal family has struggled with infertility for generations. There are even rumors that \"my father\" once considered transitioning the kingdom to a democracy.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "アストライア王家は、\n代々子どもができにくくて。\nかつての『わたしのお父さま』は、\n民主制への移行も考えていたなんて\nウワサがありますけれど──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A revolution succeeding in this day and age probably means the royal family had already begun relinquishing real authority. So the royalists and nobles figured, better to make clones than let power slip away~",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "このご時世に革命なんてのが成立しちゃったのは、\n王家が徐々に、\n実権を手放しつつあったからでしょうし。\n王党派や貴族たちとしては、\nクローンを造ってでも\n権力の移行を阻止したかったんでしょうね～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But then -- Eustiana von Astraea was born. \"Me\". And just like that, the whole royal-clone mess got shoved into the closet as an inconvenient secret☆ Tehe-pero♪ Something like that~?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まぁ、\nユースティアナ・フォン・アストライア──\n『わたし』が生まれたことで、\n王家のクローン人間なんて\n厄ネタは\nお払い箱になっちゃった☆　\nてへぺろ♪　\nみたいな～？"
+    },
+    {
+      "name": "３人",
+      "text": "……！！",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "……！！"
+    },
+    {
+      "name": "Freya",
+      "text": "...That is...",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……\nその、程度──"
+    },
+    {
+      "name": "Freya",
+      "text": "You know only a tiny fragment of the truth. Kindly refrain from acting as though you understand it all.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "真実の、\nほんの一かけらくらいしかしらないくせに。\nしたり顔をしないでもらえますか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huuuuh? Then... what's the whole \"truth\" here?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "へぇ～？\nじゃあ、\n真実\nって\nどんな？"
+    },
+    {
+      "name": "Freya",
+      "text": "...The reason the royalists created \"us\". It was for something far more foolish, idealistic, and utterly trivial. For \"Astraea's\"--...",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……王党派が、\n『私たち』を造った理由。\nそれはもっと、愚かで、\n夢見がちで、\nくだらないことのため。\n『アストライア』の──"
+    },
+    {
+      "name": "Freya",
+      "text": "...Hm? How can this be? We are standing face to face, speaking of matters that should touch my deepest ire~",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……？\nなぜだ？\nこうして面と向かって、\n私の逆鱗に触れるような話をしているのに──"
+    },
+    {
+      "name": "Freya",
+      "text": "Yet my emotions do not stir. The surging rage I once felt deep in my gut does not rise. Toward this... \"Eustiana\", at least...",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "感情が、\n掻き立てられない。\n以前のように、\n腹の底から怒りが押し寄せたりしてこない。\nこの、\n『ユースティアナ』に対しては──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Astraea's~...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "アストライアの～？"
+    },
+    {
+      "name": "Freya",
+      "text": "...No. This is as far as I will speak.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……いいや。\nお喋りはここまでだ。"
+    },
+    {
+      "name": "Freya",
+      "text": "...Now, die.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "──死ぬがいい。"
+    },
+    {
+      "name": "Monsters",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "Pecorine?",
+      "text": "*sigh* You really are such a boring person~☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ？",
+      "orig_text": "はぁ。\nほんと、\nつまらないヒトですね～☆"
+    },
+    {
+      "name": "Pecorine?",
+      "text": "With that attitude -- even if I'm a \"former\", I don't really want to think of you as one of that girl's Princess Knights, you know~?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ？",
+      "orig_text": "そんなんじゃ──\n『元』とはいえ。\n同じひとのプリンセスナイト仲間、\nなんて思いたくないな～？"
+    },
+    {
+      "name": "フレイヤ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Homare",
+      "text": "\"Exploit Flame\"~!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "『エクスプロイトフレイム』～！"
+    },
+    {
+      "name": "Monsters",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Freya",
+      "text": "As I thought, it was a magical disguise... And of all people, for it to be Tohno Homare...! But...!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "やはり魔法による偽装──\nよりにもよって、\n遠野帆稀か……！\nだが──"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehehe... It's nice to meet you, Vee-chan's current Princess Knight♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ……\nはじめましてだね♪\n『今の』\nヴィーちゃんのプリンセスナイトさん♪"
+    },
+    {
+      "name": "Freya",
+      "text": "...How perplexing. To not only lie in wait, but to transform into Eustiana... It is as if you knew I was coming.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……不可解ですね。\nただ待ち伏せするだけでなく、\nユースティアナに姿を変えるとは──\nまるで、\n私が来るのをわかっていたかのような。"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe... You know, I've been looking into Elpis Island a lot",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ……\n私ね～？\nこのエルピス島のこと、\n何度も調べてたんだ～"
+    },
+    {
+      "name": "Tomo",
+      "text": "Perhaps your guild, Dragon's Nest, is searching for dragons and ruins related to them...?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "もしかして、\nあなたたちのギルド\n【ドラゴンズネスト】は\nドラゴンと\nそれにまつわる遺跡を探しに……？"
+    },
+    {
+      "name": "Homare",
+      "text": "It's not like we want to do anything to Landosol just because of dragons. What's wrong is everything -- geography, history, common sense, memories, this entire world included...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "別に\nドラゴンをみつけて\nランドソルをどうこう\nっていうんじゃないの。\n間違ってるのは、\n地理や歴史、\n常識や記憶、\nこの世界を含めた全部──"
+    },
+    {
+      "name": "Homare",
+      "text": "As I am now, I can't even investigate the true secret of this island... But that girl must be up to something. I have to prepare as best I can...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "今の私じゃあ、\nこの島の本当の秘密を調べることすらできないけど……\nあの人なら、\n絶対何か仕掛けてるはずだもの。\nできる準備はしておかないとね……"
+    },
+    {
+      "name": "Homare",
+      "text": "I managed to find out that something was sleeping at the northern end of the island, near the dragon's head. Think of my surprise to see that when Vee-chan logged in something like that appeared!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "島の北端──\n竜の頭のあたりに、\n何かが眠ってることまでは\n突き止めたんだけど。\nヴィーちゃんがログインしたと思ったら\nそこからあんなのが出てくるんだもん。"
+    },
+    {
+      "name": "ホマレ",
+      "text": "そりゃあ、\n慌ててエルピス島まで飛んでくるよね～\nそしたらシェフィちゃんたちが魔物と戦ってるのが『視え』て～\n助けるよね～",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そりゃあ、\n慌ててエルピス島まで飛んでくるよね～\nそしたらシェフィちゃんたちが魔物と戦ってるのが『視え』て～\n助けるよね～"
+    },
+    {
+      "name": "Shefy & Kyaru",
+      "text": "\"Ice Flash\"! \"Shadow Bullet\"!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ・キャル",
+      "orig_text": "『氷閃』！\n『シャドウバレット』！"
+    },
+    {
+      "name": "Freya",
+      "text": "Ugh!!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "っっ！！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Honestly, I was planning to go look for Homare-san myself, so it helped that she came to us.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "本当は、\nこっちからホマレさんのこと捜すつもりだったんだけど。\n見つけてもらえて、\n助かったわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Homare knew you were one of Vision Empress's subordinates. And we knew you were obsessed with Pecorine -- so we figured if someone waited beneath your base wearing her face, you'd come running~♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ホマレのやつは、\nあんたが幻境竜后の手下ってコト知ってて。\nあたしらは、\nあんたがペコリーヌにお熱\nって知ってたから──\nペコリーヌの顔で根城の下に張り付いてりゃ、\n来ると思ったのよね～♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord and Lady Quria... where did you take them? Answer us at once. We do not have time to spare. Depending on your response... a spanking may not be enough.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまやクリアさまを、\nどちらにやったのですか。\n答えてくださいませ。\nわたくしたちには余裕がありません。\n場合によっては、\n尻叩きでは済みませんよ。"
+    },
+    {
+      "name": "Homare",
+      "text": "Wow, Kokkoro-chan, you're so scaaaary♪ That sounds like how a gang would handle it~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "わぁ、\nコッコロちゃんってば\nこわ～い♪\nギャングの尋問みた～い♪"
+    },
+    {
+      "name": "Freya",
+      "text": "*gasp*",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "っ──"
+    },
+    {
+      "name": "Freya",
+      "text": "...Kh?! I cannot use my magic circle?!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "！？\n空間跳躍の魔法陣が、\n使えないっ──？"
+    },
+    {
+      "name": "Homare",
+      "text": "Ah☆ Sorry~? I set up a barrier beforehand to prevent any kind of teleportation~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あっ☆\nごめんね～？\nあらかじめ結界仕込んじゃいました、\n転移妨害用の～♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Very clever of you, Homare-san...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "さすがホマレさんね……！"
+    },
+    {
+      "name": "Freya",
+      "text": "Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "くっ……！"
+    },
+    {
+      "name": "Homare",
+      "text": "Even I~? If you've laid a hand on {0}-kun... I might not feel like holding back at all~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "私としても～？\n{0}くんに手を出されたら\nちょっと加減したくなくなっちゃうけど──"
+    },
+    {
+      "name": "Homare",
+      "text": "But, well? As far as I'm concerned, I don't mind if we were to just \"talk\", you know. After all, she's... you know.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "でも、\nまぁ？\n私としては、\nあなたが『お喋り』するのは、\nゆ～\nっくりでもいいよ？\nだって……\nねぇ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Homare...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ホマレさまっ……？"
+    },
+    {
+      "name": "Freya",
+      "text": "...I see. So that is what you are after. Then, all the more reason not to talk.",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……成程。\n貴方の狙いは、『それ』ですか。\nならば、\nなおさら喋るわけにはいきませんね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmph...! Don't be so stubborn! You're cornered!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "フンッ……！\n強情張るじゃないの、\n追い詰められてるクセにっ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It's four against one. I won't give you time to write some weird spell...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "４対１だもの。\nおかしな魔法を書くヒマなんて、\nあげないわよ……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's a lot I want to payback you for. I'll shock you until you want to talk!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんたにはいろいろ借りがあるし。\n喋りたくなるまで、\n電撃ビリビリしてやるわ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "TAKE THI... iisssss...!!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "喰らいなさ──……\nいっ！！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "My magic... disappeared?! Why?! And this presence...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔法が、\n消えた！？　\nなんで！？\nそれに\nこの気配──……っ"
+    },
+    {
+      "name": "ホマレ",
+      "text": "……♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……♪"
+    },
+    {
+      "name": "？？？",
+      "text": "PAUSE──",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "PAUSE──"
+    },
+    {
+      "name": "The Three",
+      "text": "Wow...♪\" \"!!!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "「わぁ……♪」\n「！！！」"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Just kidding. If this were a fighting game, that would be extremely bad manners. To interfere when someone is in a pinch.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "なんて。\n対戦ゲームでなら、\nマナー違反ですね。\nピンチのときに横やりを入れるのは。"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "...Right, Houki-chan?",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "──ねぇ、\nホウキちゃん？"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe~...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ──"
+    },
+    {
+      "name": "Homare",
+      "text": "In Strategy Games it's an everyday occurrence, you know? After defeating her minions, the boss presents herself... Right, Vee-chan♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "SLGでなら、よくあることだよ？\nザコを倒した後の、\nボスの増援はね。\n……ヴィーちゃん♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Vee... chan?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ヴィー、\nちゃん……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...That appearance. It is as if Lady Minerva had become one of the dragonfolk...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あのお姿。\nまるで、\nミネルヴァさまが、\nドラゴン族になったかのような──"
+    },
+    {
+      "name": "Karyl",
+      "text": "And this pressure... It's just like Her Majesty's... Could it be that she is...!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それにまるで、\n陛下みたいな、\nこの\n圧っ……\nもしかしなくても、\nこいつがっ……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "You're... Vision Empress!?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あなたが、\n『幻境竜后』っ……！？"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "A pleasure to meet you. Members of the Gourmet Guild. Freyja has been in your care, I see.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "はじめまして。\n【美食殿】のみなさん。\nフレイヤが、\n世話になりましたね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "This is the last of the Seven Crowns... Freyja's master...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こいつが、\n最後の七冠っ……\nフレイヤの、\n仕える相手──"
+    },
+    {
+      "name": "Karyl",
+      "text": "Or rather! Homare, do you know her?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ってか！\nホマレ、\nあんたこいつと、\n知り合いなのっ？"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Oh my? Have you not introduced yourself properly, Houki-chan? Did you not disclose that you were my previous Princess Knight?",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "あら？\n紹介してくれていなかったのですか、\nホウキちゃん。\nあなたのかつての職業は、\n私のプリンセスナイトだったということを。"
+    },
+    {
+      "name": "Homare",
+      "text": "Well... that was a really, reaaaally, long time ago. I thought it'd be fine if I skipped that part.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "まぁ、\n昔\nむか～\nしのコトだし？\nいっかなー\nって。"
+    },
+    {
+      "name": "Homare",
+      "text": "...But. With you having logged in, Vee-chan, I wanted to talk you atleast once.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "──でも。\nヴィーちゃんがログインしたなら、\nいっぺんお話しはしておきたかったんだよね～"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Homare-san, could it be? By holding Freyja down, did you want to make Vision Empress present herself like this...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……ホマレさん、\nもしかして。\nフレイヤの身柄を押さえることで、\n幻境竜后が出てくるように仕向けたの……？"
+    },
+    {
+      "name": "Freya",
+      "text": "...I knew it...!",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "……やはり……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Putting that aside... ANSWER ME! Do you know where {0} is?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "んなことよりも──\n答えなさい！\n{0}の行方、\nあんた知ってるんじゃないの！？"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Such an attitude toward someone you have never met before... How rude. Come to think of it, Kaiser Insight was also a frightening person who was difficult to reason with.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "初対面の相手にその態度……\n不躾ですね。\n思えば覇瞳皇帝も、\n話の通じない、\n恐ろしい人物でした。"
+    },
+    {
+      "name": "Karyl",
+      "text": "What was that?! Are you trying to say I'm similar to Her Majesty?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なによ！？\nあたしが、\n陛下と似てるとか言いたいの……！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "As if... praise will earn you nothing, you know...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そんな、\nほっ、\n褒めてもなんもでないわよ\nあんたっ……"
+    },
+    {
+      "name": "Kokkoro & Sheffy",
+      "text": "Lady Kyaru...\" \"Kyaru...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・シェフィ",
+      "orig_text": "「キャルさま……」\n「キャル……」"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "You all want to ask me a question. And I want to talk to Houki-chan -- Homare. In that case...",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "あなたたちは、\n私に質問をしたい。\n私は、\nホウキちゃん──\nホマレと話をしたい。\nならば。"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Shall we call for a temporary truce here? An intermission.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "ここは、\n一時休戦としませんか？\nインターミッションです。"
+    },
+    {
+      "name": "Homare",
+      "text": "Of course, I'd be okay with that♪ Sheffy-chan, how about you girls?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "私はもちろんOKだよ♪\nシェフィちゃんたちも、\nそれでいいかな？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "............Yes.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "…………ええ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "To be honest... If we were to fight head-on, we'd be the ones in danger.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぶっちゃけたとこ。\n正面きって戦うってなったら、\nやばいのはあたしたちのほうだもんね。"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Then... let us take this somewhere else.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "なら、\n場所を変えましょう。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...A \"Gate\"? And so easily made...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……『門』？\nこんなにあっさりと……\nっ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Is this... a communication spell? Just for me? This timing... who could it be?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "これは──\n通信魔法？\nわたくしだけに？\nこのタイミングで、\nどなたから……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kokkoro-san?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "コッコロさん？"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Fear not, this is no trap. Now... if you would?",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "大丈夫、\n罠ではありませんよ。\nさぁ、\nどうぞ？"
+    },
+    {
+      "name": "Homare",
+      "text": "I really think it'll all be okay~ She's not the type to lie~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ホントに大丈夫だと思うよ～？\nウソつけるタイプの子じゃないから～"
+    },
+    {
+      "name": "フレイヤ",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "フレイヤ",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Um, Lady Kyaru...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あの、\nキャルさま──……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Aaah, Korosuke. You go back to the royal palace and report to Dumborine. There's no reason for us all to go together.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……\nコロ助。\nあんたは\n『王宮戻って』、\n『アホリーヌに報告』頼むわ。\n全員で行かなきゃいけない理由もないしね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Yes. Thank you very much. Lady Homare might be with you, but this is like jumping into a dragon's mouth. Please be careful, you two~",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はい。\nありがとうございます。\nホマレさまがいらっしゃるとはいえ、\n竜の口に飛び込むようなもの。\nどうかお気をつけくださいませ、\nお二人とも──"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Yes, you too Kokkoro-san~",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ええ、\nコッコロさんも──"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "What is this place...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ここって……？"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Although it is on a much smaller scale, the principle is the same as the Underworlds. It is a closed environment, separated from all other spaces. Here, we shall suffer no interruptions.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "ごく小規模ではありますが、\n原理としては裏世界と同じ。\n他のあらゆる空間から、\n切り離された閉鎖環境です。\nここならば、\n邪魔は入りません。"
+    },
+    {
+      "name": "Vision Empress",
+      "text": "Then... let us have some tea, everyone.",
+      "choice_data_list": [],
+      "orig_name": "幻境竜后",
+      "orig_text": "では──\nお茶にしましょうか。\nみなさん。"
+    }
+  ]
+}

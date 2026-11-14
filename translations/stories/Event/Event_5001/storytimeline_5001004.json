@@ -1,0 +1,511 @@
+{
+  "title": "Evil Unsealed",
+  "text_block_list": [
+    {
+      "name": "Shiori",
+      "text": "Hatsune...!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お姉ちゃん──！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh no! Shiorin's in danger!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリンが危ない！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Shiorin! H-huh?! I'm sure I heard her calling for me...\nShiorin! Where are you?! Hm? Isn't this the picture book I gave her?",
+      "choice_data_list": [
+        "Hatsune?",
+        "What're you doing here?"
+      ],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリーン！　\nあ、あれ！？　\nたしかに声が聞こえたのに……\nシオリンどこー！？　\nあっ、\nこれ……\n私があげた魔物図鑑？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh, {0}!\nYou haven't seen Shiorin, have you?!\nI'm pretty sure she's in danger!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あ、{0}くん！\nシオリンは！？　シオリンはどこ！？\n危ない目にあってるかもしれないの！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh, {0}!\nI heard Shiorin calling for help, so I teleported myself over!\nYou haven't seen her anywhere, have you?!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あ、{0}くん！\nシオリンの助けを呼ぶ声が聞こえて、\n超能力で飛んで来たの！\nねぇ、シオリンはどこにいるの！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Argh! Why didn't I get here faster?!",
+      "choice_data_list": [
+        "She has to be nearby."
+      ],
+      "orig_name": "ハツネ",
+      "orig_text": "私が、\n私がもっと早く来てれば……！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, you're right. I should focus on finding her for now.\nShiorin... Shiorin! Where are you?!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん……\nそうだよね。\n泣いてないで探さないとダメだよね……\nシオリン……\nシオリーン！　\nどこにいるのー！？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Yahhh! Hah!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "──やっ！　\nはぁ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "That's her!\nShe's over there!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリンの声！\nあっちの方からだった！"
+    },
+    {
+      "name": "Monsters",
+      "text": "GRUOOAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Hah!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はっ！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "I did it! Now to—",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "よし！　\n倒した──！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GRRAAAAAGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Wha—?! I-I was sure I defeated it! How did it recover?!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "なっ！？　\nか、\n回復したの！？　\nどうして！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "...rin! Shiorin!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "……リーン！　\nシオリーン！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Hatsun—",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "おねえちゃ──"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh, Shiorin! I'm so glad you're safe!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリーン！　\n無事で良かったぁ～！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Mmghh... I-I don't think now's the time for hugs...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "むぎゅ……\nお姉ちゃん、\n今はそんな場合じゃ……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh! Right, monsters!\nDon't worry, I'll blast them all away!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "はっ！　\nそうだった！\nでも大丈夫だよ！　\nお姉ちゃんが魔法でやっつけちゃうから！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Sha-shing! ☆ Bow to the queen!\nTaaake that!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "きらーんっ☆　\nハツネちゃんにおまかせだよ！\nえーいっ！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GROOOAAARGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "What the—?! Wh-why's it all fine and dandy?!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ええ！？　\nな、\nなんで倒せないのー！"
+    },
+    {
+      "name": "Shiori",
+      "text": "My arrows couldn't defeat it, either...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "矢の傷も\nすぐに回復しちゃって……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Since when were there monsters like this?!\nWh-where did it even come from?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そんな魔物聞いたことないよー！　\nど、\nどこから現れたんだろう。"
+    },
+    {
+      "name": "Shiori",
+      "text": "It's hard to believe, but it spawned from inside that picture book...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "それが……\nあの図鑑の中から急に現れて……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "For realsies?! What's the deal here?!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あの本から！？　\nどういうこと！？"
+    },
+    {
+      "name": "Shiori",
+      "text": "There has to be a clue within the book itself,\nbut I was so focused on escaping that I left it behind...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "きっと本になにか手がかりがあると思うんだけど、\n魔物から逃げるのに夢中で置いてきちゃった……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Okay! Then we'll head back and ge—\nActually, no! I can't leave you behind!",
+      "choice_data_list": [
+        "I'll stay with her."
+      ],
+      "orig_name": "ハツネ",
+      "orig_text": "よーし、\nそれなら私たちが本を取りに……\nああ、\nでもシオリンを置いてはいけないし！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "{0}! Thanks!\nDon't worry, I'll be back in a flash!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "{0}くん！　ありがとう！\nシオリン、\nすぐに戻ってくるからね！"
+    },
+    {
+      "name": "Shiori",
+      "text": "I'm sorry for getting you involved in this, {0}.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "すみません\n{0}さん、巻き込んでしまって。"
+    },
+    {
+      "name": "Shiori",
+      "text": "We need to hold the fort until she gets back!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お姉ちゃんが戻ってくるまで、\nお願いします！"
+    },
+    {
+      "name": "Monsters",
+      "text": "GROOOAAARGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "*huff, puff* I'm pretty sure it was around here...\nThere it is!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "はぁ、\nはぁ……\nたしか、\nこの辺に……\nあった！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Urgh, I let it get away...\nB-but there should be some hints in this book!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うー、\n行っちゃった……\nで、\nでもこの図鑑に手がかりがあるはず！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Wait, these are ancient runes! I can't read those!\nI'm surprised Shi— Oh, yeah! Shiorin'll be able to read them!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "……こ、\nこれ古代語！？　\n読めないよ～！\nシオリンよく読め……\nそうだ！　\nシオリンなら！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I gotta hurry back! Let's see, is there anything else...\nOh! The bookmark's here, too! Now let's get going!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "急いで戻らないと！　\nえっと、\n本と……\nブックマークも落ちてる！\n待っててねシオリン、{0}くん！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Shiorin! {0}!\nSorry for the wait!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリーン！　\n{0}くーん！　お待たせー！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Hatsune! Did you find any clues?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お姉ちゃん！　\n何か分かった？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I wish I could say yes, but I can't read what's written in it...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ごめんねシオリン、\n私じゃ本に書いてある古代語が読めなくて……"
+    },
+    {
+      "name": "Shiori",
+      "text": "No, that's fine. Just bringing it back is a big help.\nThere [i]has[/i] to be some hint about\nhow to seal them away in here...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ううん、\n持ってきてくれてありがとう、\nお姉ちゃん。\nこの本のどこかに\n魔物を封じ込める方法が……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Did you ever notice anything\nalong those lines when reading it beforehand?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "シオリンが今まで読んでて、\nそれっぽいことは書いてあった？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Not that I remember, at the very lea— Wait.\nI only ever got partway through it, so maybe it's towards the end...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "私の記憶だとそんな記述は……\n待って。\nまだ最後まで読めてないから、\nもしかしたら後ろのページに……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Here it is! \\\"The seal on this book is maintained through the\npower of its bookmark.Do not allow them to be separated, lest\nthe dreadful monsters sealed within roam the land anew.\\\"",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あった！　\n……この図鑑は\n生きた魔物を魔法で封じ込めたもの……\n……ブックマークは魔物を封じる鍵で、\n本から離すと魔法が弱まって、\nやがて図鑑から魔物が解き放たれる……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So the bookmark itself is the key?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "鍵？　\nブックマークが？"
+    },
+    {
+      "name": "Shiori",
+      "text": "So it seems... I liked the design a lot,\nso I've been using it for other books as well.\nThat must have weakened the seal.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "うん……\nそのブックマーク、\n気に入って他の本にも使ったりしてたから、\n魔法が弱まったんだと思う。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Never expected it to be that important...\nDoes it mention how to re-seal them?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そんなに重要なものだったんだ……\nそれで？　\nもう一度封じ込める方法は？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Let me see... Oh, I think this is it?\n\\\"Should the seal be lifted and any monsters escape,\nthey must come into contact with the bookmark to be re-sealed.\\\"",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ちょっと待ってね……\nあ、\nこれ……\nかな。\n魔物を再度封印するには、\nブックマークを魔物に\n接触させなければならない……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Now I get it.\nThe bookmark itself initiates the sealing process!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "そっか、\nこのブックマークは封印魔法の術式そのものなんだ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So we just gotta hit 'em with it!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ\nこのブックマークを魔物に当てれば！"
+    },
+    {
+      "name": "Shiori",
+      "text": "That should re-seal them, yes!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "もう一度、\n封印できる……！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Woo! You're the best, Shiorin!",
+      "choice_data_list": [
+        "I-I'm kind of dying over here..."
+      ],
+      "orig_name": "ハツネ",
+      "orig_text": "やったー！　\nすごい、\nすごいよシオリン！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Whoa! Sh-Shiorin!\n{0}'s in trouble!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "わー！　\nシ、\nシオリン！　\n{0}くんが！"
+    },
+    {
+      "name": "Shiori",
+      "text": "{0}, get down!\nI'll fire an arrow with the bookmark attached to it!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "{0}さん、\n伏せてください！\nブックマークを矢につけて放ちます！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Hahhh!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はぁぁぁ！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "It worked! Now to seal the other one!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "封印……\n成功……\nあと一体！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Leave the bookmark to me!\nHey, Shiorin! Magical Pass!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "矢の回収は私にまかせて！　\nへいシオリン！　\nマジカルパス！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Thanks, Hatsune!\nIn... Out... Yah!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ありがとう、\nお姉ちゃん！\n……\nすー、\nはー……\nやぁ！"
+    },
+    {
+      "name": "Monster 2",
+      "text": "GRRRUOOOOGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Phew... That's the worst of it over, I think.\nThree of them spawned in total,\nso we still need to find the last one.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ふぅ……\nピンチは脱した、\nかな……\n本から出た魔物は３体。\nもう一体を探さないと。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Huh. You saw that bird monster as well?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "え？　\nシオリンもあの鳥の魔物を見たの？"
+    },
+    {
+      "name": "Shiori",
+      "text": "A bird monster?\nI didn't see anything like that...\nWhere did you see it?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "鳥の魔物？　\nううん、\n私の前に現れたのは違うけど……\nどういうこと？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "It popped out when I went to go grab the book,\nbut I ended up letting it esca—",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "さっき本を取りに行ったとき、\n鳥の魔物が出てきたんだけど、\nその魔物もどっかに逃げちゃっ……"
+    },
+    {
+      "name": "Shiori",
+      "text": "H-Hatsune?!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お、\nお姉ちゃん！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Mmm... Sorry, troops...\nTiredness came knocking after using my superpowers so much...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ふにゅ……\nごめんねシオリン、{0}くん……\n超能力の使い過ぎで……\n眠気が……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Keep Shiorin... safe for me, {0}... Zzz...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "{0}くん……\nシオリンを……\nお願い……\nスヤ……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Rest well, Hatsune.\nAs for us, we should chase after the remaining monster.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お姉ちゃん……\nゆっくり休んでね。\n{0}さん、\n逃げた魔物を追いましょう。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Look here, {0}.\nTwo blank pages means two monsters that need to be re-sealed.\nThe one that I saw, plus the Ziz. That's the one Hatsune saw.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "見てください……\n図鑑にはまだ二体の空白がある……\nこっちは私が見た魔物で、\nお姉ちゃんが見たのは……\nジズですね。"
+    },
+    {
+      "name": "Shiori",
+      "text": "The Ziz seems incredibly strong on its own,\nbut the one I let escape is a vicious carnivore.\nWe need to seal them before anything terrible happens.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "とても手強い魔物です……\n私が逃がしてしまった魔物も、\n凶暴な肉食獣で……\n早急に封印しましょう。"
+    },
+    {
+      "name": "Narration",
+      "text": "With a passed out Hatsune on his back,\n{0} followed Shiori in her search for the remaining monsters.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}は眠ったハツネを背負い、\nシオリと共に魔物の封印へ向かうのだった。"
+    }
+  ]
+}

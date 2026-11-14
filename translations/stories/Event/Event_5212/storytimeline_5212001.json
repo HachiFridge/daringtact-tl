@@ -1,0 +1,649 @@
+{
+  "title": "Onii-chan Search",
+  "text_block_list": [
+    {
+      "name": "Shizuru",
+      "text": "So... she still left this place as is, huh. Thank you, Master. Here we can talk without anyone hearing us.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……ここ、\nまだ残してくれてたんだ。\nマスターに感謝、\nだね。\nここなら\n誰にも聞かれないで話ができるよ。"
+    },
+    {
+      "name": "Narration",
+      "text": "Shizuru and Rino searched for a place where they could talk in peace and came to a safe house that had once been used by their guild, Labyrinth.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "シズルとリノは落ち着いて話せる場所を探し、\nかつて【ラビリンス】が使っていたセーフハウスにやってきた。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yes. It's certainly a place full of memories for us...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はい。\n……確かに、\n私たちの思い出の場所ですけど……"
+    },
+    {
+      "name": "Rino",
+      "text": "So, is it true that Onii-chan went missing? What that informant was saying, umm... Can we believe her?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "それで、\nお兄ちゃんが行方不明になったって\n本当なんですか？\nあの情報屋さんが言ってることって、\nその。\n……信じてもいいんですか？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Yeah, I think everything she said is true. She's a skilled informant. I've asked her to help me for both missions and personal work, you know.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うん、\n本当だと思う。\nあの人、\n情報屋としての腕は確かだよ。\n今までも、\n任務でも個人的にもお仕事依頼してるし、\nね。"
+    },
+    {
+      "name": "Rino",
+      "text": "Personal... like that \"Little Brother Report\"?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "『弟くん報告書』\nでしたっけ？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Would you like to read it? It's a full-length volume of little brother being watched from dawn to dusk♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "読んでみる？\n弟くんの\n朝から夜まで、\nボリューム満点の見守り記録だよ♪"
+    },
+    {
+      "name": "Rino",
+      "text": "Hmm... I skimmed through it, but there doesn't seem to be anything particularly suspicious inside. Seems like the usual Onii-chan's everyday life we know. But then he suddenly disappeared. And not because of a request or anything like that...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "ん～……\nざっと読みましたけど、\n特に不審な点はなさそうです。\nお兄ちゃんのいつも通りの日常って感じで。\nでも、\n急にいなくなっちゃったんですよね。\n依頼とかじゃなく……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "That's right... What really bothers me is that it isn't just him. We've also heard that other townspeople have vanished. Do you have any idea, Rino-chan?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そうだね……\n気になるのは、\n弟くんだけじゃなくて\n『街の人も消えてる』\nって話。\nリノちゃん、\n心当たりがあったりする？"
+    },
+    {
+      "name": "Rino",
+      "text": "Hmm... other than the fact that there haven't been many people around lately... ...Ah! Come to think of it...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "うーん……\n街の人気が少ないってこと以外に、\nですよね？\n……あ！　\nそういえば……"
+    },
+    {
+      "name": "Rino",
+      "text": "In the shopping district, fabric bolts are completely sold out everywhere, and they can't get in touch with the Togoku suppliers.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "繁華街で反物がどこも品切れで、\nトーゴクの仕入れ商人さんと連絡がつかないって話が。"
+    },
+    {
+      "name": "Rino",
+      "text": "At the time, I thought that maybe monsters had disrupted the trade route or something... Thinking back on it now, stores in general might've been less stocked than usual. Not that I'm sure it's connect to what happened to Onii-chan...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "その時は\n街道に魔物が出たのかもって思ってたんですけど……\n今思えば、\nお店もいつもより品薄だったかもしれません。\nお兄ちゃんの話とつながりがあるか、\nまでは\nちょっと。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "It certainly doesn't sound like it connects with my little brother's disappearance. The information we have at hand isn't enough to make up a guess...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "確かに、\n弟くんとの接点はなさそうだね。\n推測するにも\n手元の情報じゃ足りない……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Hm. Okay, then how about we split up and investigate? I'll handle asking his other friends. Maybe someone has seen him.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うん。\nなら、\nここは手分けして調べてみようか。\n私は\n弟くんの周りを調査してみるね。\n誰かが弟くんのこと、\n見かけてるかもしれない。"
+    },
+    {
+      "name": "Rino",
+      "text": "Then! I'll handle poking around this merchant business! I'm off!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "じゃあ、\n私はその商人さんのこと、\n調べてみます！\nいってきまーす！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...Wait, Rino-chan. Let's try not to draw attention. It would be bad if we started questioning people on a large scale and caused a commotion.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……待って、\nリノちゃん。\nなるべく、\n目立たないようにしよう。\n大掛かりに聞き込みをしちゃって、\n騒ぎになるとよくないから。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yes! As a former member of a secret society... I'll be very careful!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はいっ！　\n元秘密結社の一員として……\n気を付けます！"
+    },
+    {
+      "name": "Clothing Shop Woman",
+      "text": "Sorry, I don't know anything in particular... In truth, it's also bothering me a little. He's not the type of person to just disappear without contacting me, so I hope it's not something dangerous...",
+      "choice_data_list": [],
+      "orig_name": "道具屋の女性",
+      "orig_text": "ごめんなさい、\n特に何も知らなくて……\nうちも困ってるんですよ。\n連絡もなしにいなくなるような人じゃないし、\n物騒なことじゃないといいけど……"
+    },
+    {
+      "name": "Rino",
+      "text": "No, thank you for giving me time with your busy schedule. I'll let you know if I learn anything.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "いえ、\nお忙しいところありがとうございました。\nもし何か分かったらお知らせしますね。"
+    },
+    {
+      "name": "Rino",
+      "text": "...As expected, keeping a low profile makes it really hard to gather information...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……やっぱり目立たないようにしてると、\n情報はなかなか集まらないなぁ……"
+    },
+    {
+      "name": "Rino",
+      "text": "I wonder if Big Sis had better luck than I did...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃんの方は\n何か見つかったかな……"
+    },
+    {
+      "name": "Narration",
+      "text": "And so Shizuru and Rino searched all over Landosol for clues, but...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そうしてシズルとリノはランドソルの各地で情報を探したが──"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Rino-chan, how did it go? ...Nothing on my end. Big Sis is so worried... where could my little brother have gone...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "リノちゃん、\nどうだった？　\n……こっちは何にも。\nお姉ちゃんがこんなに心配してるのに……\n弟くんったら\nどこに行っちゃったんだろう。"
+    },
+    {
+      "name": "Rino",
+      "text": "Ugh, same for the Lil'Sis here. I couldn't find any trace of the merchants... and nothing about Onii-chan either.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "うぅ、\n妹も同じです。\n商人さんの行方もやっぱり分からなくて……\nお兄ちゃんのことも、\n見つけられなかったです。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "However... I did learn one thing: people are going missing. They just end up disappearing without warning. Since none of the missing cases seem related, it hasn't turned into a huge uproar yet.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ただ、\nいなくなってる人がいるのは分かったんだ。\nなんの前触れもなく、\n誰かがいなくなってるんだって。\nそれぞれに関連性がないから、\nまだ大事にはなってないみたいだけど。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "But... it's simply not normal for there to be no clues like this!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "でも、\nこんなになんの手がかりもないなんてこと、\n普通じゃありえないよね。"
+    },
+    {
+      "name": "Rino",
+      "text": "Big Sis... there's one thing bothering me.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……お姉ちゃん、\n一つ気になったんですけど。"
+    },
+    {
+      "name": "Rino",
+      "text": "We've been dealing with abnormal situations for so long as members of Labyrinth... there aren't many people who'd know more about this kind of thing than us, right? So if even WE are completely stuck, then...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "【ラビリンス】で活動してきた私たちより、\n異常事態に詳しい人なんて\nそうはいないはず、\nですよね？\nその私たちが手詰まりってことは……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Yeah... this might be something completely outside our field of understanding. There have been no similar cases in any of our past missions...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うん、\n私たちじゃ\n分からない領域かも。\n過去のどんな任務にも、\n似ているケースはなかったし……"
+    },
+    {
+      "name": "Rino",
+      "text": "And right after the guild disbanded, too. I can't believe something like this would happen now...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "ギルドが解散したばかりなのに。\nこんな事になるなんて……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Right when I decided to personally protect my little brother... What am I supposed to do if he's nowhere to be found?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "弟くんを守るって決めたばかりなのに……\nその弟くんが居ないなんて\nどうしよう。"
+    },
+    {
+      "name": "Rino",
+      "text": "Both Big Sis and I are at a loss on what to do... But in times like these...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "私とお姉ちゃんだけじゃ手詰まりの状況……\nだけど、\nこういう時は──"
+    },
+    {
+      "name": "Rino",
+      "text": "When it comes to someone who'd really understand something like this... there's only one person who comes to mind, right?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "こういう事情に詳しそうな人といえば……\nですよね。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Yeah. I'm pretty sure we're thinking of the same person.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うん、\nたぶん\n同じ人を思い浮かべてる。"
+    },
+    {
+      "name": "Shizuru & Rino",
+      "text": "...Let's go to Master.\" \"...Let's head to Master's place!",
+      "choice_data_list": [],
+      "orig_name": "シズル・リノ",
+      "orig_text": "「\n……マスターのところに行こう。」\n「……マスターのところに行きましょう。」"
+    },
+    {
+      "name": "Rino",
+      "text": "I'm glad that she hasn't changed the secret passage to our hideout yet!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "アジトへの隠し通路、\nまだ変わってなくてよかったですね！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Master! Please answer if you're there? ...She's not around. The hideout's security magic was also activated.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "マスター、\nいたら\n返事してー？　\n……\nいないか。\nアジトのセキュリティ魔法、\n起動モードになってたし。"
+    },
+    {
+      "name": "Rino",
+      "text": "What should we do, Big Sis? Not that we expected any different, but the person we wanted to rely upon isn't around...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "どうしましょう、\nお姉ちゃん。\nアテにしてた人が、\n想像通り\nというかやっぱりいませんでしたけど……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Let's start by looking over those documents. Perhaps there are similar cases that we just don't know about. Let's put them all on the table and look through one by one.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "まずは\n資料を当たろっか。\n私たちが知らないだけで、\n似たような事例があるのかも。\n資料を全部テーブルに出して、\n片っ端から見ていこう。"
+    },
+    {
+      "name": "Rino",
+      "text": "...Master used to do exactly this, didn't she? Spreading all the documents out and then holding her head like this. It's just the two of us now... but I'll still give it everything I've got!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……マスターもよく、\nこうやって資料並べて頭抱えてましたよね。\n今は私たちだけだけど……\n頑張りますよ～っ！"
+    },
+    {
+      "name": "Rino",
+      "text": "Big Sis, look at this! It looks like Master's research notebook. The desk also seems to have seen recent use...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃん、\nこれ！\nマスターの研究ノートみたいです。\n机も\n最近まで使われてたみたい……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You're right. No dust to be found here. Let's see... Oh, there's a bunch of blueprints and notes all around.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "本当だ、\nここだけ\n埃がないね。\nど\nれどれ──\nあ、\n設計図もメモもごっそりまとめて残ってる。"
+    },
+    {
+      "name": "Rino",
+      "text": "Unlike the other documents, this one is new... Did something happen?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "他の書類と違って、\nこれだけ新しい……\n何かあったんでしょうか？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Hmm, hmm. Space... phase distortion... all kinds of complicated terminology...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ふむふむ。\n空間とか位相とか、\n難しい用語ばっかりだね……"
+    },
+    {
+      "name": "シズル",
+      "text": "しかも\nページびっしりに難しい計算式……\n書いてあるのは……\n精霊……\n属性……\nあとは……\n黎明、\n界……？　",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "しかも\nページびっしりに難しい計算式……\n書いてあるのは……\n精霊……\n属性……\nあとは……\n黎明、\n界……？　"
+    },
+    {
+      "name": "Rino",
+      "text": "B-Big sis... BIG SIS!!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お、\nお姉ちゃん。\nお姉ちゃんっ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Sorry, Rino-chan. Big Sis is trying to focus a little...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ごめん、\nリノちゃん。\nお姉ちゃん、\nちょっと集中させてほしいな……"
+    },
+    {
+      "name": "Rino",
+      "text": "BIG SISSSS! NO TIME FOR THAT! BEHIND... BEHIND YOU!!!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃんっ！　\nそれどころじゃないです！\nう、\nうしっ、\n後ろっ！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Behind?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うしろ？"
+    },
+    {
+      "name": "Rino",
+      "text": "B-Big sis... what's that?!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お、\nお姉ちゃん、\nあれ……\nなんですか！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "What is this...? Space is distorted and twisted... and cracks are running through it...?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "なに、\nこれ……\n空間がグニャグニャに歪んで……\n亀裂が走ってる……？"
+    },
+    {
+      "name": "Rino",
+      "text": "N-No way, you have to be kidding... I'm being pulled in with an incredible force...! Like a black hole! Huh? Hey, isn't there something glowing in the middle there!?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "う、\nうそ……\nすごい力で引き込まれます……！\nブラックホールみたいにっ！\n──あれ、\nあの真ん中、\nなんか光ってません！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "The space splits open, and a hole of light appears in the center... Could this be... THE DAWN REALM--...?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "空間が裂けて、\n中央に光の穴……\n……これって、\n黎明界の────？"
+    },
+    {
+      "name": "Shizuru & Rino",
+      "text": "KYAAAAAAAHHHHHH!!!",
+      "choice_data_list": [],
+      "orig_name": "シズル・リノ",
+      "orig_text": "きゃあああああああああっ！！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Rino-chan, are you okay!? Are you nearby!!?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "リノちゃん、\n無事っ！？\n近くにいるっ！！？"
+    },
+    {
+      "name": "Rino",
+      "text": "Yes, but... Ugugugugu......!! I was swept away with such force...!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はいっ、\nでも……\nうぐぐぐ\nぐ……！！\nすごい力で、\n流されて……っ！"
+    },
+    {
+      "name": "Rino",
+      "text": "N-No way... My vision... everything suddenly turned white...?!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "う、\nうそ……\n視界が一気に、\n真っ白に──っ！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "RINO-CHAN, DON'T LEAVE ME!!!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "リノちゃん、\n離れないで！！"
+    },
+    {
+      "name": "Rino",
+      "text": "GUHEH!!!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "ぐへっ！！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Rino-chan, are you okay?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "リノちゃん、\n大丈夫？"
+    },
+    {
+      "name": "Rino",
+      "text": "Owowowow... I hurt my butt a little, but otherwise I'm fine. But still, where are we...?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "いたたた……\nちょっとお尻を打ちましたけど、\n平気ですっ。\nそれにしても、\nここは……？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...Judging from what just happened, I believe this is the Dawn Realm... This unique atmosphere... I feel like I remember it.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……\nさっきの状況から考えると、\n黎明界だと思う……\nこの独特の空気……\n覚えがあるもの。"
+    },
+    {
+      "name": "Rino",
+      "text": "The Dawn Realm...? The one we were investigating under Master's orders?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "黎明界って……\nマスターの指示で私たちが調べてた、\nあの？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Yeah. I've always thought it was a strange place, but I never expected to be suddenly transported there like this... I'm surprised.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うん。\n前々から不思議な場所だとは思ってたけど、\nまさか、\nこうやっていきなり飛ばされるなんて……\nびっくりだよ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Onee-chan! Right there in the bushes! Something's there!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "！\nお姉ちゃん！　\nそっちの茂みに何か居ますっ！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...My Big Sis sensors haven't picked up anything. It can't be my little brother... Who's there?! Show yourself!!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……\nお姉ちゃんセンサーに反応はなし。\n弟くんじゃないね……\nそこにいるのは誰かなっ！"
+    },
+    {
+      "name": "Information Broker Woman",
+      "text": "Oh my, I was wondering who fell in... Shizuru-san and Rino-san. Are you all right?",
+      "choice_data_list": [],
+      "orig_name": "情報屋の女性",
+      "orig_text": "あら、\n誰が落ちてきたのかと思えば……\nシズルさんにリノさん。\n大丈夫？"
+    },
+    {
+      "name": "Rino",
+      "text": "You're the informant from before! Did you also end up here?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あなたはいつぞやの情報屋さん！\nここに落ちてきてたんですか？"
+    },
+    {
+      "name": "Information Broker Woman",
+      "text": "Yes, the same way you two have. As for the details... Let's take this to a place where we can relax.",
+      "choice_data_list": [],
+      "orig_name": "情報屋の女性",
+      "orig_text": "ええ、\nあなたたちと同じよ。\n詳しい話は……\n落ち着ける場所で\nゆっくりしましょう。"
+    },
+    {
+      "name": "Information Broker Woman",
+      "text": "A temporary camp has been set up nearby. Come with me.",
+      "choice_data_list": [],
+      "orig_name": "情報屋の女性",
+      "orig_text": "近くに\n仮のキャンプがあるの。\n一緒に来て。"
+    },
+    {
+      "name": "Rino",
+      "text": "Big Sis, is it fine to just follow and trust this lady?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃん、\nこの人についていって大丈夫ですか？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "It'll be okay. This person has helped me many times. Besides, if anything were to happen, I'd protect you, Rino-chan♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "大丈夫。\nこの人には何度も助けてもらっているから。\nそれに、\nもしもの時は\n私がリノちゃんを守るよ♪"
+    },
+    {
+      "name": "Information Broker Woman",
+      "text": "Hehehe... I'm used to people being wary of me. But don't worry... We all were saved by \"him\".",
+      "choice_data_list": [],
+      "orig_name": "情報屋の女性",
+      "orig_text": "ふふ、\n警戒されるのは慣れっこよ。\nでも\n安心していいわ。\n──私たちも\n『彼』に助けられたの。"
+    },
+    {
+      "name": "Rino",
+      "text": "\"Him\"...?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "『彼』……？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "...So this is the camp... There are more people here than I expected. Could it be that everyone here was...?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "……\nここが\nキャンプ……\n思ったより人が多いね。\nもしかして、\nここにいる全員……？"
+    },
+    {
+      "name": "Information Broker Woman",
+      "text": "They're all people who fell into this place. And the one you're looking for... Look. Over there.",
+      "choice_data_list": [],
+      "orig_name": "情報屋の女性",
+      "orig_text": "皆この場所に落っこちてきた人たちよ。\nそれに、\nあなたたちの捜し物も……\nほら\nそこに。"
+    },
+    {
+      "name": "Shizuru & Rino",
+      "text": "Little brother!\" \"Onii-chan!",
+      "choice_data_list": [],
+      "orig_name": "シズル・リノ",
+      "orig_text": "「弟くんっ！」\n「お兄ちゃんっ！」"
+    },
+    {
+      "name": "Rino",
+      "text": "Onii-chan...you're safe...! This isn't a dream, is it? You're no fake, look-alike or an illusion, right?!?!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お兄ちゃん……\n無事だったんですねっ……！\n夢じゃないですよね？\n偽物とか\n幻影とか\nそっくりさんじゃないですよね？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Honestly...! Do you have any idea how worried I was?! Rino-chan and I searched everywhere for you!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もう……！　\nどれだけ心配したと思ってるの……！\n弟くんのこと、\nリノちゃんと一生懸命捜したんだから。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "When I heard that you suddenly disappeared, and we were unable to find any clues at all... I was really worried.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "急にいなくなったって聞いて、\n手がかりを探しても全然見つからなくて……\n本当に\n不安だったの。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "But we finally found you... I'm so glad... I really am...! I can't believe you made your Big Sis worry so much... Never do that again, you hear!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "でも、\n見つけられてよかった……\n本当によかったよ……！\nお姉ちゃんをこんなに心配させるなんて……\nもう、\n絶対ダメだからね！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "No... As long as you're safe. That's all Big Sis needs to know.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ううん……\n無事でさえいてくれたら。\nお姉ちゃんは、\nそれだけでいいよ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yeah... Onii-chan, now the three of us are together again!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "うん……\nお兄ちゃん、\nこれでまた３人一緒ですよ！"
+    },
+    {
+      "name": "Rino",
+      "text": "...Ahaha, I'm tearing up a little. You know what they say, \"Salt makes everything better\", right?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……あはは、\nちょっと涙が出ちゃいました。\n『塩あれば便利』、\nって言いますもんね。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "That's not the one -- you mean \"If there's a bond, even a thousand miles won't keep you apart\". But... hehe, same goes for me...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "それを言うなら\n『縁あれば千里』\nだね。\nでも……\nふふ、\n私も\nちょっとだけ……"
+    },
+    {
+      "name": "Rino",
+      "text": "Huh...? Onii-chan, don't you smell something really good? Like... you were in the middle of cooking?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あれ……\nお兄ちゃん、\nなんかすごくいい匂いがしません？\nお料理の最中みたいな……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You're right, this smell is my delicious little brother's soup...♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "本当だ、\n弟くんの引くお出汁の匂いだね……♪"
+    },
+    {
+      "name": "Rino",
+      "text": "Big Sis, you could tell that much by the smell?! Ah... E-Ehehe... I'm starting to get hungry.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃん、\nそこまで分かるんですか！？\nあっ……\nえ、\nえへへ……\n私、\nなんかお腹空いてきちゃいました。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Come to think of it... We haven't eaten anything. We've been running all over the place since this morning, so... I should've grabbed some of Master's field rations from the hideout.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そういえば……\n私たち何にも食べてないね。\n朝からあちこち走り回ってたから……\nアジトでマスターの戦闘糧食、\nもらってくればよかった。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yay! It's been so long since we got to eat your cooking!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "やった～！\nお兄ちゃんの手料理、\n久しぶりです！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Thank you, little brother♪ Hehe... then why don't we all sit down and eat together first? Today's the perfect day to celebrate our reunion♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ありがとう、\n弟くん♪\nふふ……\nじゃあ、\nまずはみんなでごはんにしようか。\n今日は最高の再会記念日なんだから♪"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, after an emotional reunion, the three of them sat around the table and began sorting out their situation...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして感動の再会を果たした３人は、\n食卓を囲みながら、\n現状を整理し始めるのだった──"
+    }
+  ]
+}

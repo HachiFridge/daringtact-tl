@@ -1,0 +1,789 @@
+{
+  "title": "多対一の真価",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "魔物に襲われた新兵を救出するため、\n{0}、エリコ、マコトは\n鬱蒼とした森へとやってきた……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔物に襲われた新兵を救出するため、\n{0}、エリコ、マコトは\n鬱蒼とした森へとやってきた……"
+    },
+    {
+      "name": "マコト",
+      "text": "はぁ……！\nこのへんか！？　\n悲鳴が聞こえたっていうのは……",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "はぁ……！\nこのへんか！？　\n悲鳴が聞こえたっていうのは……"
+    },
+    {
+      "name": "フレディ",
+      "text": "はぁ……\n教、\n官？",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "はぁ……\n教、\n官？"
+    },
+    {
+      "name": "ソフィ",
+      "text": "！　\nフレディ！\nよかった……\n無事だったのね！",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "！　\nフレディ！\nよかった……\n無事だったのね！"
+    },
+    {
+      "name": "エリコ",
+      "text": "……\n傷は浅そうですわね。\n無事ですか？",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……\n傷は浅そうですわね。\n無事ですか？"
+    },
+    {
+      "name": "フレディ",
+      "text": "エ、\nエリコ教官っ……！\nす、\nすみません、\n僕……",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "エ、\nエリコ教官っ……！\nす、\nすみません、\n僕……"
+    },
+    {
+      "name": "エリコ",
+      "text": "言い訳は後になさい。\nそれよりも\n無事かと聞いているのです。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "言い訳は後になさい。\nそれよりも\n無事かと聞いているのです。"
+    },
+    {
+      "name": "フレディ",
+      "text": "は、\nはい……！\nジョーとルークの助けもあって、\nどうにか魔物を振り切って……",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "は、\nはい……！\nジョーとルークの助けもあって、\nどうにか魔物を振り切って……"
+    },
+    {
+      "name": "フレディ",
+      "text": "二人が魔物を引き寄せてくれてるんです。\n助けを呼んで必ず戻るって……\nここまで走ってきました。\nこっちです！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "二人が魔物を引き寄せてくれてるんです。\n助けを呼んで必ず戻るって……\nここまで走ってきました。\nこっちです！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "ジョー",
+      "text": "Uwaaaa!?",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "うわぁあっ！？"
+    },
+    {
+      "name": "ルーク",
+      "text": "大丈夫か、ジョー！",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "大丈夫か、ジョー！"
+    },
+    {
+      "name": "ジョー",
+      "text": "あ、\nああ……\nけど、\nそろそろ逃げるのもきついなっ……\nいい加減追いつかれるぜ……！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "あ、\nああ……\nけど、\nそろそろ逃げるのもきついなっ……\nいい加減追いつかれるぜ……！"
+    },
+    {
+      "name": "ルーク",
+      "text": "ああ……！　\nこっちも\n体力の\n限界だ……！\n次に突進を受けたらっ──",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "ああ……！　\nこっちも\n体力の\n限界だ……！\n次に突進を受けたらっ──"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "ジョー＆ルーク",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "ジョー＆ルーク",
+      "orig_text": "っ\n！！"
+    },
+    {
+      "name": "エリコ",
+      "text": "左右に避けなさいっ！",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "左右に避けなさいっ！"
+    },
+    {
+      "name": "ジョー",
+      "text": "エリコ教官っ！？　\nは、\nはいっ！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "エリコ教官っ！？　\nは、\nはいっ！"
+    },
+    {
+      "name": "エリコ",
+      "text": "そう、\nそれでよいのです……！\nあとは私がッ──！",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "そう、\nそれでよいのです……！\nあとは私がッ──！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "ルーク",
+      "text": "エ、\nエリコ\n教官っ……？　\nこの煙は……",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "エ、\nエリコ\n教官っ……？　\nこの煙は……"
+    },
+    {
+      "name": "エリコ",
+      "text": "しっ！　\n魔物の視力を奪う薬です。\n声を上げたら気づかれますから、\n静かに……！\n今のうちに退避行動に移りなさい。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "しっ！　\n魔物の視力を奪う薬です。\n声を上げたら気づかれますから、\n静かに……！\n今のうちに退避行動に移りなさい。"
+    },
+    {
+      "name": "マコト",
+      "text": "はぁ～っ！\n何とか逃げおおせたなっ！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "はぁ～っ！\n何とか逃げおおせたなっ！"
+    },
+    {
+      "name": "ジョー",
+      "text": "どうなるかと思ったぁ～！\nエリコ教官さすがです～っ！！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "どうなるかと思ったぁ～！\nエリコ教官さすがです～っ！！"
+    },
+    {
+      "name": "エリコ",
+      "text": "大声を出さないでください。\nあの魔物、\nそれなりに耳もよさそうでした。\n騒ぐとまた見つかりますわよ？",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "大声を出さないでください。\nあの魔物、\nそれなりに耳もよさそうでした。\n騒ぐとまた見つかりますわよ？"
+    },
+    {
+      "name": "ジョー",
+      "text": "うげえ、\nそれは勘弁……！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "うげえ、\nそれは勘弁……！"
+    },
+    {
+      "name": "マコト",
+      "text": "だ、\nだな……\nそれで？　\nエリコ、\nどうする？\n今のこと、\n報告するか？",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "だ、\nだな……\nそれで？　\nエリコ、\nどうする？\n今のこと、\n報告するか？"
+    },
+    {
+      "name": "マコト",
+      "text": "まだこの騒動は気づかれてねえようだし、\n内緒にしとくって手もあるぞ。",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "まだこの騒動は気づかれてねえようだし、\n内緒にしとくって手もあるぞ。"
+    },
+    {
+      "name": "エリコ",
+      "text": "そうですわね……\nどちらでも構いませんわ。\n結果はすでに出ているようですから。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "そうですわね……\nどちらでも構いませんわ。\n結果はすでに出ているようですから。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "他の班の新兵１",
+      "text": "もう10匹狩ったぜっ！\n俺が一位じゃねえか～？",
+      "choice_data_list": [],
+      "orig_name": "他の班の新兵１",
+      "orig_text": "もう10匹狩ったぜっ！\n俺が一位じゃねえか～？"
+    },
+    {
+      "name": "他の班の新兵２",
+      "text": "何の！　\n俺は12匹だっ！\n勲章は俺がいただきだぜっ！",
+      "choice_data_list": [],
+      "orig_name": "他の班の新兵２",
+      "orig_text": "何の！　\n俺は12匹だっ！\n勲章は俺がいただきだぜっ！"
+    },
+    {
+      "name": "マコト",
+      "text": "……ああ、\nなるほどな。\nそうだなぁ……\nすっかり差がついちまったみてえだ。",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……ああ、\nなるほどな。\nそうだなぁ……\nすっかり差がついちまったみてえだ。"
+    },
+    {
+      "name": "フレディ",
+      "text": "う\nぅ……\nすみません、\nエリコ教官。\nそれに、\nみんな……",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "う\nぅ……\nすみません、\nエリコ教官。\nそれに、\nみんな……"
+    },
+    {
+      "name": "エリコ",
+      "text": "謝っても事実は変わりません。\n今は命が助かったことを喜びなさい。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "謝っても事実は変わりません。\n今は命が助かったことを喜びなさい。"
+    },
+    {
+      "name": "教官",
+      "text": "諸君っ！　\nよくやった、\nこの周辺の魔物は一掃されたようだ。\n初手柄である！　\n勝ちどきをあげよっ！！",
+      "choice_data_list": [],
+      "orig_name": "教官",
+      "orig_text": "諸君っ！　\nよくやった、\nこの周辺の魔物は一掃されたようだ。\n初手柄である！　\n勝ちどきをあげよっ！！"
+    },
+    {
+      "name": "新兵たち",
+      "text": "おおおおおっ！！！！",
+      "choice_data_list": [],
+      "orig_name": "新兵たち",
+      "orig_text": "おおおおおっ！！！！"
+    },
+    {
+      "name": "マコト",
+      "text": "あーあ……\n終わっちまったな。\nどうやら表彰は他の班のやつらだ。",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あーあ……\n終わっちまったな。\nどうやら表彰は他の班のやつらだ。"
+    },
+    {
+      "name": "エリコ",
+      "text": "……\nまずいですわ。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……\nまずいですわ。"
+    },
+    {
+      "name": "マコト",
+      "text": "へ？　\n何がだよ？",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "へ？　\n何がだよ？"
+    },
+    {
+      "name": "エリコ",
+      "text": "先ほども話したでしょう？\nあの魔物……\n耳がいい。\n今、あんなに大きな声をあげたら……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "先ほども話したでしょう？\nあの魔物……\n耳がいい。\n今、あんなに大きな声をあげたら……"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "WHA-...!?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なっ！？"
+    },
+    {
+      "name": "エリコ",
+      "text": "やはり、\n声に反応しています。\n勝ちどきのした方へ向かうでしょう。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "やはり、\n声に反応しています。\n勝ちどきのした方へ向かうでしょう。"
+    },
+    {
+      "name": "ソフィ",
+      "text": "そ、\nそんなぁ……！？",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "そ、\nそんなぁ……！？"
+    },
+    {
+      "name": "ルーク",
+      "text": "教官、\nどうしましょうか……？\nこのまま他の班の連中に突っ込んだら、\n大惨事です……！",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "教官、\nどうしましょうか……？\nこのまま他の班の連中に突っ込んだら、\n大惨事です……！"
+    },
+    {
+      "name": "エリコ",
+      "text": "ええ。\nそれに、\n新兵たちを突破したら\n近隣の村にも危険が及ぶでしょうね……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ええ。\nそれに、\n新兵たちを突破したら\n近隣の村にも危険が及ぶでしょうね……"
+    },
+    {
+      "name": "マコト",
+      "text": "そ、\nそれはやばいぜっ！？　\nどうにかしねえと！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そ、\nそれはやばいぜっ！？　\nどうにかしねえと！"
+    },
+    {
+      "name": "エリコ",
+      "text": "……\n違う場所へ誘い出しましょう。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……\n違う場所へ誘い出しましょう。"
+    },
+    {
+      "name": "フレディ",
+      "text": "え？　\nエリコ教官……\nそれってつまり……",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "え？　\nエリコ教官……\nそれってつまり……"
+    },
+    {
+      "name": "エリコ",
+      "text": "はい。\n私たちで倒すのですわ。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "はい。\n私たちで倒すのですわ。"
+    },
+    {
+      "name": "ソフィ",
+      "text": "わ、\n私たちが、\nあんな魔物を\n倒すぅ？\n教官たちがいるとはいえ、\nさすがに難しいんじゃ……？",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "わ、\n私たちが、\nあんな魔物を\n倒すぅ？\n教官たちがいるとはいえ、\nさすがに難しいんじゃ……？"
+    },
+    {
+      "name": "エリコ",
+      "text": "ええ、\nあのような魔物、\n私一人ではおそらく太刀打ちできません。\nしかし……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ええ、\nあのような魔物、\n私一人ではおそらく太刀打ちできません。\nしかし……"
+    },
+    {
+      "name": "エリコ",
+      "text": "戦闘の基本は\n多対一……\nなのでしょう？",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "戦闘の基本は\n多対一……\nなのでしょう？"
+    },
+    {
+      "name": "マコト",
+      "text": "！　\nおまえ……！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "！　\nおまえ……！"
+    },
+    {
+      "name": "マコト",
+      "text": "……へへ。\n分かってきたじゃんかっ！\nそうだ、\nあっちは一頭きり。\nこっちはこれだけの人数だ！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……へへ。\n分かってきたじゃんかっ！\nそうだ、\nあっちは一頭きり。\nこっちはこれだけの人数だ！"
+    },
+    {
+      "name": "マコト",
+      "text": "やってやろうぜっ……！\nさっそく作戦を考えようっ！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "やってやろうぜっ……！\nさっそく作戦を考えようっ！"
+    },
+    {
+      "name": "エリコ",
+      "text": "それなら一つ、\n策がありますわ。\n私の後方には\n急こう配の下り坂があります。\nそして相手は、\n目が見えない……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "それなら一つ、\n策がありますわ。\n私の後方には\n急こう配の下り坂があります。\nそして相手は、\n目が見えない……"
+    },
+    {
+      "name": "エリコ",
+      "text": "ですから総員、\n下り坂に伏せて身を隠すのです。\nそして伏せた地点まで、\n囮役が奴をおびき寄せます。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ですから総員、\n下り坂に伏せて身を隠すのです。\nそして伏せた地点まで、\n囮役が奴をおびき寄せます。"
+    },
+    {
+      "name": "エリコ",
+      "text": "急こう配に気づかず体勢を崩したところを、\n一斉攻撃……\nいかがです？",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "急こう配に気づかず体勢を崩したところを、\n一斉攻撃……\nいかがです？"
+    },
+    {
+      "name": "マコト",
+      "text": "ああ、\nいいと思うぜ。\nけど……\n囮役は誰が──",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ、\nいいと思うぜ。\nけど……\n囮役は誰が──"
+    },
+    {
+      "name": "フレディ",
+      "text": "……\n僕に、\nやらせてください。",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "……\n僕に、\nやらせてください。"
+    },
+    {
+      "name": "ソフィ",
+      "text": "えっ……\nフレディ！？\n嘘でしょ、\n怪我してるのに……",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "えっ……\nフレディ！？\n嘘でしょ、\n怪我してるのに……"
+    },
+    {
+      "name": "フレディ",
+      "text": "大丈夫、\nさっきは君たちが助けてくれた。\n今度は僕が頑張らなくちゃ。\nそれに、\nあいつが怒ったのは\n僕が縄張りに入ったからだ。\n挽回のチャンスをください……\n教官っ！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "大丈夫、\nさっきは君たちが助けてくれた。\n今度は僕が頑張らなくちゃ。\nそれに、\nあいつが怒ったのは\n僕が縄張りに入ったからだ。\n挽回のチャンスをください……\n教官っ！"
+    },
+    {
+      "name": "エリコ",
+      "text": "……\nわかりました。\nこれが最後の、\n走り込み訓練ですわ。\n全力でお駆けなさい。\nサボりは……\n厳禁ですわよ？",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……\nわかりました。\nこれが最後の、\n走り込み訓練ですわ。\n全力でお駆けなさい。\nサボりは……\n厳禁ですわよ？"
+    },
+    {
+      "name": "フレディ",
+      "text": "はいっ！　\nイエスっ！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "はいっ！　\nイエスっ！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "フレディ",
+      "text": "おい！　\n魔物ーっ！　\nこっちだー！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "おい！　\n魔物ーっ！　\nこっちだー！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "フレディ",
+      "text": "さあ来いっ！　\n僕がおまえの縄張りを荒らした張本人だぞ！\nお、\n追っかけてこなくていいのかっ！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "さあ来いっ！　\n僕がおまえの縄張りを荒らした張本人だぞ！\nお、\n追っかけてこなくていいのかっ！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "フレディ",
+      "text": "ひいっ！？　\n来たぁっ！\nって、\nビビってる場合じゃない……！　\nこっちだっ！！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "ひいっ！？　\n来たぁっ！\nって、\nビビってる場合じゃない……！　\nこっちだっ！！"
+    },
+    {
+      "name": "ジョー",
+      "text": "フレディの奴、\n大丈夫、\nだよな……",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "フレディの奴、\n大丈夫、\nだよな……"
+    },
+    {
+      "name": "エリコ",
+      "text": "……当然でしょう。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……当然でしょう。"
+    },
+    {
+      "name": "エリコ",
+      "text": "私は彼の走りをずっと見てきました。\n徐々にですが、\n速くなって……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "私は彼の走りをずっと見てきました。\n徐々にですが、\n速くなって……"
+    },
+    {
+      "name": "エリコ",
+      "text": "……そう。\nだから大丈夫です。\n必ずやここまで逃げ切ってみせるでしょう。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……そう。\nだから大丈夫です。\n必ずやここまで逃げ切ってみせるでしょう。"
+    },
+    {
+      "name": "フレディ",
+      "text": "Hah...!",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "はぁ……！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "フレディ",
+      "text": "Hah...!",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "はぁ……！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "フレディ",
+      "text": "みんなっ──！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "みんなっ──！"
+    },
+    {
+      "name": "フレディ",
+      "text": "今だあああああっ！！",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "今だあああああっ！！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "マコト",
+      "text": "！　\n急こう配で、体勢を崩した……！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "！　\n急こう配で、体勢を崩した……！"
+    },
+    {
+      "name": "エリコ",
+      "text": "突撃ですわっ！　\nみなさん！",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "突撃ですわっ！　\nみなさん！"
+    },
+    {
+      "name": "ジョーたち",
+      "text": "たああああああああっ！",
+      "choice_data_list": [],
+      "orig_name": "ジョーたち",
+      "orig_text": "たああああああああっ！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "ジョー",
+      "text": "や、\nやったぜっ！　\n一撃当たったぁっ！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "や、\nやったぜっ！　\n一撃当たったぁっ！"
+    },
+    {
+      "name": "ルーク",
+      "text": "お、\n俺もだっ！　\n足をやったっ！",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "お、\n俺もだっ！　\n足をやったっ！"
+    },
+    {
+      "name": "ソフィ",
+      "text": "わ、\n私もっ……！\n手の先だけど……！",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "わ、\n私もっ……！\n手の先だけど……！"
+    },
+    {
+      "name": "マコト",
+      "text": "よくやった！　\n次はあたしの番だ……！\n{0}、\n強化を頼むっ！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "よくやった！　\n次はあたしの番だ……！\n{0}、\n強化を頼むっ！"
+    },
+    {
+      "name": "マコト",
+      "text": "へへっ、\nきたきたぁ！\nいっくぜえええええっ！！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "へへっ、\nきたきたぁ！\nいっくぜえええええっ！！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "ルーク",
+      "text": "す、\nすごい……！\n胴に一撃っ……！",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "す、\nすごい……！\n胴に一撃っ……！"
+    },
+    {
+      "name": "ジョー",
+      "text": "豪快だなぁ……\nさすがマコト教官っ！\n相手もぶっ倒れそうだ……！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "豪快だなぁ……\nさすがマコト教官っ！\n相手もぶっ倒れそうだ……！"
+    },
+    {
+      "name": "マコト",
+      "text": "へへっ……！　\nエリコ……\n頼むぜ！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "へへっ……！　\nエリコ……\n頼むぜ！"
+    },
+    {
+      "name": "エリコ",
+      "text": "もちろんですわ……\n参りましょう、\nあなた様！",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "もちろんですわ……\n参りましょう、\nあなた様！"
+    },
+    {
+      "name": "エリコ",
+      "text": "クスクスクス……♪\nこの力、\n絶対に負ける気がしませんわね。",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "クスクスクス……♪\nこの力、\n絶対に負ける気がしませんわね。"
+    },
+    {
+      "name": "エリコ",
+      "text": "参りますわよ……！\nはあああああああっ！！",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "参りますわよ……！\nはあああああああっ！！"
+    },
+    {
+      "name": "Monster of the Northern Forest",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "北の森の魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "マコト",
+      "text": "はぁ……！\nどうやら倒した、\nみたいだな……！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "はぁ……！\nどうやら倒した、\nみたいだな……！"
+    },
+    {
+      "name": "エリコ",
+      "text": "ええっ……！\n息の根を、\n止めましたわっ……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ええっ……！\n息の根を、\n止めましたわっ……"
+    },
+    {
+      "name": "ジョー",
+      "text": "マ、\nマジか……\n本当に、\nこんなつえー魔物をやっつけちまった……！",
+      "choice_data_list": [],
+      "orig_name": "ジョー",
+      "orig_text": "マ、\nマジか……\n本当に、\nこんなつえー魔物をやっつけちまった……！"
+    },
+    {
+      "name": "ルーク",
+      "text": "おいおい、\n俺たちは一太刀浴びせただけだろう？\n大体は\nマコト教官とエリコ教官が……",
+      "choice_data_list": [],
+      "orig_name": "ルーク",
+      "orig_text": "おいおい、\n俺たちは一太刀浴びせただけだろう？\n大体は\nマコト教官とエリコ教官が……"
+    },
+    {
+      "name": "ソフィ",
+      "text": "で、\nでも油断は誘えたわっ！\n私たちの頑張りも\n多少はね？\nけど一番は……\nフレディ！",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "で、\nでも油断は誘えたわっ！\n私たちの頑張りも\n多少はね？\nけど一番は……\nフレディ！"
+    },
+    {
+      "name": "フレディ",
+      "text": "はぁ……\nやった、\nね……\nみんなぁ……",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "はぁ……\nやった、\nね……\nみんなぁ……"
+    },
+    {
+      "name": "フレディ",
+      "text": "……がくっ。",
+      "choice_data_list": [],
+      "orig_name": "フレディ",
+      "orig_text": "……がくっ。"
+    },
+    {
+      "name": "ソフィ",
+      "text": "ああっ！？　\nフレディ……\nまったくもー！\n一番頑張ったってのに、\n格好つかないんだからぁ！",
+      "choice_data_list": [],
+      "orig_name": "ソフィ",
+      "orig_text": "ああっ！？　\nフレディ……\nまったくもー！\n一番頑張ったってのに、\n格好つかないんだからぁ！"
+    },
+    {
+      "name": "マコト",
+      "text": "あははっ！　\nま、\nこいつらしいっちゃらしいなっ！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あははっ！　\nま、\nこいつらしいっちゃらしいなっ！"
+    },
+    {
+      "name": "エリコ",
+      "text": "まったく……\n締まりませんわねえ……",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "まったく……\n締まりませんわねえ……"
+    },
+    {
+      "name": "エリコ",
+      "text": "……クス。\nクスクスクスクスっ♪",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……クス。\nクスクスクスクスっ♪"
+    },
+    {
+      "name": "ナレーション",
+      "text": "夕暮れの丘の上、{0}たちは\n討伐した魔物を前にようやくほっと一息つき、\n顔を見合わせ笑いあうのだった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "夕暮れの丘の上、{0}たちは\n討伐した魔物を前にようやくほっと一息つき、\n顔を見合わせ笑いあうのだった。"
+    }
+  ]
+}

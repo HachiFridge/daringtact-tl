@@ -1,0 +1,575 @@
+{
+  "atlas_name": "AtlasLabyrinthSkip",
+  "sprites": [
+    {
+      "name": "labyrinth_bg_blur_1",
+      "x": 0,
+      "y": 548,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_bg_blur_2",
+      "x": 312,
+      "y": 768,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_bg_blur_3",
+      "x": 570,
+      "y": 768,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_0",
+      "x": 430,
+      "y": 652,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_1",
+      "x": 928,
+      "y": 837,
+      "width": 37,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_2",
+      "x": 828,
+      "y": 843,
+      "width": 48,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_3",
+      "x": 958,
+      "y": 900,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_4",
+      "x": 958,
+      "y": 963,
+      "width": 53,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_5",
+      "x": 642,
+      "y": 653,
+      "width": 49,
+      "height": 60,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_6",
+      "x": 536,
+      "y": 652,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_7",
+      "x": 878,
+      "y": 844,
+      "width": 48,
+      "height": 60,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_8",
+      "x": 483,
+      "y": 652,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_count_9",
+      "x": 589,
+      "y": 652,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_clear_text",
+      "x": 417,
+      "y": 535,
+      "width": 229,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_backFog",
+      "x": 0,
+      "y": 461,
+      "width": 415,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_backLight",
+      "x": 258,
+      "y": 596,
+      "width": 170,
+      "height": 170,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count",
+      "x": 430,
+      "y": 715,
+      "width": 256,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_0",
+      "x": 430,
+      "y": 598,
+      "width": 44,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_1",
+      "x": 923,
+      "y": 783,
+      "width": 33,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_2",
+      "x": 828,
+      "y": 789,
+      "width": 42,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_3",
+      "x": 567,
+      "y": 598,
+      "width": 43,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_4",
+      "x": 642,
+      "y": 599,
+      "width": 45,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_5",
+      "x": 967,
+      "y": 847,
+      "width": 42,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_6",
+      "x": 878,
+      "y": 790,
+      "width": 43,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_7",
+      "x": 967,
+      "y": 794,
+      "width": 42,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_8",
+      "x": 476,
+      "y": 598,
+      "width": 44,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_count_9",
+      "x": 522,
+      "y": 598,
+      "width": 43,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_counter",
+      "x": 688,
+      "y": 717,
+      "width": 49,
+      "height": 49,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_flash",
+      "x": 0,
+      "y": 806,
+      "width": 310,
+      "height": 218,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "labyrinth_skip_white",
+      "x": 828,
+      "y": 906,
+      "width": 128,
+      "height": 118,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        10,
+        0,
+        0
+      ]
+    }
+  ]
+}

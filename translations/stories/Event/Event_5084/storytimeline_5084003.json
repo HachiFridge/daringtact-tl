@@ -1,0 +1,1419 @@
+{
+  "title": "Trying to Keep Hold of Bonds",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Kyaru and the others try various things to no avail,\n{0} continues to sleep for several days.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "キャルたちが様々な手を尽くすも効果はなく、\n{0}が目覚めないまま、数日が過ぎた。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Heeey!\n{0}, you in there?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お～い！\n{0}、いるか～？"
+    },
+    {
+      "name": "Maho",
+      "text": "My Prince, it's time for our early morning patrol!\nYou promised, didn't you?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "王子はん、\n早朝パトロールの時間ですよ～♪\n約束してはりましたやろ～？"
+    },
+    {
+      "name": "Kaori",
+      "text": "It's too bad Kasumi can't be here because of her detective work.\nIt would've been fun to all go together♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "カスミが探偵の仕事でいないのは残念だね～\nみんな揃って行けば\n楽しかったのにね～♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ah... Sorry, everyone from Caon.\nTruth is, right now, he's...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あ……\nごめんなさい、\n【自警団（カォン）】のみなさん。\n実は、\n彼は今──"
+    },
+    {
+      "name": "Makoto",
+      "text": "He hasn't woken up at all? Seriously...?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ずっと起きてないって、\nマジかよ……"
+    },
+    {
+      "name": "Maho",
+      "text": "And the doctor says he's fine... How worrisome.\nI know! I'll try my magic! Mirakuru Mahorin-",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "お医者さんは\n大丈夫や言うとっても、\n心配やわぁ。\nそや！　\nうちの魔法を試してみまひょ。\nみ\nらくるまほりん──"
+    },
+    {
+      "name": "Makoto",
+      "text": "Aaah, stop it, Princess!\nWhat're you gonna do if it explodes again!?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "──だぁぁやめろ姫さん！\nいつもみたいに爆発したらどうすんだよ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Mhhm, you don't know what caused it?\nI hope everything turns out okay... Mhhm... Ah! I've got it!\nI'll spend the whole day doing my awakening dance right beside-",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "う～ん、\n原因が分からないんさ～？\nなんくるないといいんだけどね～……\nん～……\nあ！\n　そうさ～！　\n今日一日、\n私がそばで目覚めのダンスを……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Enough of that too! I'm worried about the guy,\nbut that's no excuse to skip out on patrol.\n...Kaori, Princess, we should get going.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "それもいいっての！\nこいつのことは心配だけどよ、\nそれを理由にパトロールを\nさぼるわけにはいかねぇだろ。\n……カオリ、\n姫さん、\nそろそろ行くぞ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I'm sorry you came all this way.\nWe'll contact you once he wakes up...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "わざわざ来てもらったのにごめんなさい。\n起きたら連絡しますので……"
+    },
+    {
+      "name": "Maho",
+      "text": "Yes, please do.\nI'll come back to check up on him from time to time.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ええ、\nよろしく頼みます。\nうちもちょいちょい、\n様子を見に来ますさかい。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hidesai!\nHeya! You in there?*",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ヒデサイー！\nちょっすー！　\nいるー？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Hey, you know there's a test coming up!?\nIf you don't show up, my grade's gonna drop!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ちょっとアンタ、\nもうすぐテストよ！？\nアンタがいないと点数下がっちゃうじゃない！"
+    },
+    {
+      "name": "Io",
+      "text": "He's never taken a day off without notifying me before.\nCould he be becoming a delinquent...?\nDid I not teach him correctly...?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "今まで黙ってお休みすることなんてなかったのに。\nもしかして\n不良になっちゃったのかしら……\n私の教え方が悪かったから……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "No. my Lord has not become a delinquent.\nI deeply apologize to all of you for coming all this way\nfrom Lucent Academy, but my Lord is currently...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "いえ。\n主さまは不良にはなっていません。\n【ルーセント学院】のみなさま、\nわざわざお越しいただいて\n申し訳ありませんが、\n主さまは今──"
+    },
+    {
+      "name": "Io",
+      "text": "Eh!? He hasn't woken up...!?\nIs he okay...?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "えー！？　\n眠ったままだなんて……！\n大丈夫なのかしら……？"
+    },
+    {
+      "name": "Misaki",
+      "text": "That's such a waste...\nHe studied everyday,\nand now he's gonna end up forgetting it all.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "勿体ないわね……\nせっかく毎日勉強してたのに、\nこんなんじゃ覚えたことも忘れちゃうわよ。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "No but, couldn't this actually be a chance?\nYou ever heard of \"Sleap Learning\"?\n",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "いやでも、\n逆にチャンスかも？\nスイミンガクシューって聞いたことない？"
+    },
+    {
+      "name": "Misaki",
+      "text": "I feel like I've heard of it.\nYou just whisper into someone's ear in their sleep, right?\nThings that'll make you smart.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "なんか聞いたことあるかも。\n寝てるときに\n耳元で囁けばいいのよね？\n頭がよくなるようなことを。"
+    },
+    {
+      "name": "Io",
+      "text": "Things that'll make you smart...\nI'll give it a shot...Sensei!",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "頭がよくなるようなこと……\n先生、\nやってみるわ……！"
+    },
+    {
+      "name": "イオ",
+      "text": "君はえらい……♪　\n君はかしこい……♪　\n君はとってもいい子……♪\n君はかしこい……♪　\n君はとってもいい子……♪\n君はかしこい……♪　\n君はとってもいい子……♪",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "君はえらい……♪　\n君はかしこい……♪　\n君はとってもいい子……♪\n君はかしこい……♪　\n君はとってもいい子……♪\n君はかしこい……♪　\n君はとってもいい子……♪"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Ah, I'll do it too!\nYou're a genius! You're totally sick! You're Hidesai!\nYou're a genius! You're totally sick! You're Hidesai!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "あ、\nうちもやるやる！\nヒデサイは天才！　\nヒデサイはおにヤバ！　\nヒデサイはヒデサイ！\nヒデサイは天才！　\nヒデサイはおにヤバ！　\nヒデサイはヒデサイ！"
+    },
+    {
+      "name": "ミサキ",
+      "text": "アタシは大人のレディ！　\n忘れるんじゃないわよ！",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "アタシは大人のレディ！　\n忘れるんじゃないわよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Well now.\nIs this what sleep learning looked like...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はて。\n睡眠学習とは\nこういったものだったでしょうか……？"
+    },
+    {
+      "name": "Male",
+      "text": "Heeey, mister!\nI want your help doing a delivery!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "おーい兄ちゃん！\n配達を頼みたいんだけどよ──"
+    },
+    {
+      "name": "Girl",
+      "text": "Umm, is that mister here?\nHe promised he'd come help me look for my lost wallet...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あの～、\nお兄ちゃんいますか？\nこの前、\n落とした財布を一緒に捜してもらって……"
+    },
+    {
+      "name": "Woman",
+      "text": "Excuse me! I heard there was a kind boy who would help out\nwith whatever troubles I had!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "ごめんくださーい。\nここに困ったことはなんでも手伝ってくれるっていう、\n親切な男の子がいるって聞いたんですけど～"
+    },
+    {
+      "name": "Thug",
+      "text": "Yo, yo!\nHe got in the way of our black market business the other day!\nGet that kid out here!",
+      "choice_data_list": [],
+      "orig_name": "ごろつき",
+      "orig_text": "よぉよぉ！\nこの間はよくも俺たちの裏取引を邪魔してくれたなぁ！\nあの兄ちゃんを出せや──！"
+    },
+    {
+      "name": "Karyl",
+      "text": "──What is this!? What's with this guy!? How cramped is his schedule!?\nWhy does someone show up everyday!?\nHow does he spend his days!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "──なんなの！？\nなんなのよこいつ！　\nどんだけスケジュール過密なの！？\nなんで毎日誰かが来るの！？　\n何をして過ごしてるの！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "This is possible...?\nTo be this busy everyday...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "可能なの……？\nこんなに忙しい毎日が……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It is my Lord after all...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまですので……"
+    },
+    {
+      "name": "Karyl",
+      "text": "When you put it that way, I have no words.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そう言われるとぐうの音も出ないわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Still... I feel sorry for them.\nThey've come to visit my Lord, only to all end up disappointed.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "しかし……\n心苦しいですね。\n主さまを訪ねていらした方々、\n一様にがっかりしておいででした。"
+    },
+    {
+      "name": "Karyl",
+      "text": "We can't do much about it.\nThey'll just have to bear it until he wakes up.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "仕方ないわよ。\nあいつが起きるまで、\n我慢してもらうしかないわ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Miss Sheffy, is something the matter?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……\nシェフィさま、\nどうかなさいましたか？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "We should handle this ourselves.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "私たちでやりましょう。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "え？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...I had a thought.\nI don't want... to hurt the trust and bonds...\nthat he's forged until now.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……思ったの。\nこの人が今まで築いてきた信頼とか、\n紡いできた絆に……\n傷をつけたくないって。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "When he wakes up...\nI want him to go about his day just as he did before.\nThat's why...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "彼が目を覚ました時。\nまたいつものように、\n過ごしてもらえるようにしたいって。\nだから……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Sheffy, you...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "シェフィ、\nあんた……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Yes.\nThat's exactly right.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……ええ。\nその通りでございますね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Let us protect what my Lord has built up until now.\nUntil my Lord awakens... and by our own hands.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまが\nこの世界で築き上げてきたものを、\nお守りしましょう。\n主さまが目覚めるまで……\nわたくしたちの手で。"
+    },
+    {
+      "name": "Karyl",
+      "text": "*sigh*\n...Guess we've got to.\nIn exchange, when he wakes up, we'll have him work to the bone.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁ……\n仕方ないわね。\nその代わり、\nこいつが起きたら、\nあとでた～っぷり\nこき使ってあげるんだから。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Thanks, you two.\nThen, I'll go meet up with Kaon for their patrol.\nAfterwards, I think I'll head over to his delivery job.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ありがとう、\n二人とも。\nじゃあ、\n私は\n【自警団（カォン）】の人たちのパトロールに合流するわ。\nそのまま、\n配達のアルバイトもやろうかしら。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "In that case, I'll...\nI will make my way towards Lucent Academy, the school my Lord commutes to.\nSharing what I've learned with my Lord is my duty, after all.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "では、\nわたくしは……\n主さまが通っていらっしゃる\nルーセント学院に\n向かわせていただきます。\n学んだことを主さまにお伝えするのは、\nわたくしの役目でございますし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Then, I'll...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "じゃあ、\nあたしは……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This is my Lord we're speaking of, he has likely made other\narrangements as well. I believe it would be best for Miss Kyaru\nto wait here to handle any other people who may arrive...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまのことですから、\n恐らく\n他のお約束もされているはず。\nキャルさまにはここでお待ちいただいて、\n新たに訪ねてこられた方に\n対応していただければと思うのですが……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Makes sense, got it.\nThen I'll watch over the place for now.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……なるほど、\n分かったわ。\nじゃああたしはお留守番ってことで。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Which means, if no one shows up, I get to keep lazing around, right?\nThere's no way I was doing that delivery work or going to school,\nso I've got the most relaxing job! heheheh.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "つまり誰も来なければ、\nそのままのんびりしてていいってことよね？\n正直配達の仕事とか学校の授業とかまっぴらだし、\n一番楽な役回りじゃないの\nこれって、\nふふふ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kyaru...\nWe can tell what you're thinking from your face, ears, and tail.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "キャル……\n考えてることが表情と耳と尻尾から漏れてるわよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "!?\nN-N-No it isn't!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っ！？\nそそ、\nそんなことないわよ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Now then, let us all do a wonderful job in my\nLord's stead...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それでは、\nわたくしたち３人で、\n主さまの代わりを\n見事務めあげてみせましょう……！"
+    },
+    {
+      "name": "Both",
+      "text": "Yeah, yeah.\nYes!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "はいっ！\nはいはい。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Patrolling the town...\nI've gotta do a good job, for his sake...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "街のパトロール……\nあの人のためにも、\n上手くやらないと……！"
+    },
+    {
+      "name": "Maho",
+      "text": "There's no need to be so uptight, Sheffy-han.\nEveryone'll be afraid of you if you walk around with such a stern face.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そう硬くならんでもええですよ、\nシェフィはん。\n厳しい顔した人が\n街を歩いとったら、\nみんな怖がってまうからな。"
+    },
+    {
+      "name": "Kaori",
+      "text": "That's right♪ It's just right for singing and dancing as we go around♪\nHe had lots of fun doing it like this too♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "そうさ～♪\nこ\nんなふうに、\n歌って踊りながら見回りするくらいが\nちょうどいいよ～♪\n彼もいつも、\nこんなふうに楽しそうだったよ～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey, Kaori, quit it alre-",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おいこらカオリ、\nいい加減なこと──"
+    },
+    {
+      "name": "Sheffy",
+      "text": "He did too...? Really...?\nHow's this...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "彼も……\nそうなの……？\nこ\n、\nこんな感じ……？"
+    },
+    {
+      "name": "Makoto",
+      "text": "......You're a real serious one......",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……真面目なやつだな……"
+    },
+    {
+      "name": "Maho",
+      "text": "My, you have quite the beautiful step♪ It's different\nfrom Kaori-han's fun feeling and more of a beautiful one.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あら、\nシェフィはん\nステップがきれいどすな～♪\nカオリはんの楽しい感じとは違って、\nきれ～な感じやわぁ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Thanks.\nIt feels like my body just sort of moves on its own.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……ありがとう。\nなんか、\n体が勝手に動く感じなのよね。"
+    },
+    {
+      "name": "Kaori",
+      "text": "That's good, that's good♪\nLeaving your body to the rhythm is at the core of a dance♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "いいさいいさ～♪\nリズムに身を任せるのが\nダンスの極意よ～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "Things have gotten more lively thanks to Sheffy-han.\nMaybe I'll dance too...♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "シェフィはんのおかげで\n賑やかになってきましたなぁ。\nうちも踊ってみまひょ……♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "...What kind of patrol is this?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……なんだこのパトロール。"
+    },
+    {
+      "name": "Io",
+      "text": "Okay, for this question... Kokkoro-chan!\nKnow the answer?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "はい、\nこの問題は～\nコッコロちゃん！\n分かるかしら？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "The answer for that is...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そちらの答えは──"
+    },
+    {
+      "name": "Io",
+      "text": "Yup, correct.\nThe formulas up to it were perfect too, I've got nothing more to say!",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "──うん、\n正解よ。\n途中の式も完璧だったし、\n言うことなし♪"
+    },
+    {
+      "name": "Suzuna",
+      "text": "She got that calculation right...?\nKorocchi, you some kind of genius?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "あんな計算分かるとか……\nコロっち、\nマジ天才だったりする？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Wh-What, after that?\nEven I could solve that!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "なっ、\nなによあのくらい！\nアタシにだって解けるわよ！"
+    },
+    {
+      "name": "Io",
+      "text": "My, then the next question is for you,\nMitsuki-chan, could you solve this for us?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "あら、\nじゃあ次の問題はミサキちゃん、\n解いてもらえるかしら？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Eh!?\nTh-That's, uhh....",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "えっ！？\nそ、\nそれは、\nその～"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Misaki.\nIf you'll allow, could I solve that one with you?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ミサキさま。\nよろしければ、\nわたくしも一緒に解かせていただいてもよろしいですか？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Eh?\nAh, yeah...\n...Thanks.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "えっ？　\nあ、\nうん……\n……ありがと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hehe.\nIt feels nice somehow...\nto take a class with someone my age.*",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふっ。\n同じ年頃の方と授業……\nなんだか、\nよいものですね。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Aah, not fair, Misakicchi!\nHey, hey, Korocchi! Here's something I don't know too!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "あー\nミサキっちずる～い！\nねぇねぇコロっち！\nうちも分からないとこあるんだけど～！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes. Let us try until we solve it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nこちらを解き次第、\n参りますね。"
+    },
+    {
+      "name": "Io",
+      "text": "Hey, Suzuna-chan? You can ask me too you\nknow...?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "ねぇスズナちゃん？\n私に聞いてくれてもいいのよ……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I wonder if Korosuke and Sheffy are doing alright?\nWell, I doubt there'll be any trouble with those two.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "コロ助もシェフィもうまくやってるかしら。\nまぁ、\nあの二人なら問題ないでしょうけど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It's nice just lazing around, but I've got\nnothing to do...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "のんびりするのはいいんだけど、\nそれはそれで暇よね～"
+    },
+    {
+      "name": "Karyl",
+      "text": "It'd be nice if some light work came by-",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "軽めの仕事くらいなら来てくれても──"
+    },
+    {
+      "name": "？？？",
+      "text": "Excuse me!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ごめんくださーい！"
+    },
+    {
+      "name": "Karyl",
+      "text": "And the work comes the second I mention it...!\nYeah! I'm coming!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんて言ってたらほんとに来ちゃったじゃない！\nはーい、\n今出るわよー"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Um, sorry. Is {0}-san here?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あの、\nすみません。\n{0}さん、\nいますか？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Onii-chan promised to play with us in the afternoon today,\nbut he didn't show up.",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "今日、\n午後からおにいちゃんと遊ぶ約束をしてたんだけど、\n時間になっても来ないの。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Nii-chan shows up late, but he would never break a promise.\nKyouka's been worried this whole time,\nwondering if something happened to him.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃん、\n遅刻はするけど絶対に約束は守るからさ。\nなにかあったのかも～\nって、\nキョウカがずっと心配してるんだよね～"
+    },
+    {
+      "name": "Kyoka",
+      "text": "M-Misogi!\nI didn't say all of that...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミッ、\nミソギ！\n私は別に、\nそこまでは……"
+    },
+    {
+      "name": "Karyl",
+      "text": "He... promised to play with kids...\nUhh, right now, he's...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あいつ……\nこんな子どもと遊ぶ約束を……\nえっと、\nあいつは今……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...If I tell them everything,\nthey'll get really worried.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……全部話すと、\n余計に心配させちゃうわね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Some important business suddenly came up. So,\nsorry, but he can't really go playing with\nyou guys right now.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あいつはちょっと急用が入ってね。\nあんたたちには悪いけど、\n遊びに行ける状況じゃないの。"
+    },
+    {
+      "name": "Mimi",
+      "text": "I see~ You have something important to do, huh.\nBut it's a shame, we all promised to play tag together today~",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "そっか～、\n大事な用事があるんだね。\nでも残念、\n今日はみんなで鬼ごっこしようって\n約束してたのに～"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Ah...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……あ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...I had a thought.\nI don't want... to hurt the trust and bonds...\nthat he's forged until now.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……思ったの。\nこの人が今まで築いてきた信頼とか、\n紡いできた絆に……\n傷をつけたくないって。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...H-Hold on.\nI just happen to be free, so I'll play with you all today!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ま、\n待ちなさい。\nちょうどあたしも暇してたから、\n今日は\nあたしが遊んであげるわ！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Eh!? You will, miss!?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "えっ！？\nおねえちゃんが！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Are you sure? Aren't you busy...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "いいんですか？\nお忙しいんじゃ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Heh, kids shouldn't be worrying so much.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふっ、\nガキんちょが余計な心配してんじゃないわよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm honestly pretty bad with kids, but...\nThis is way better than delivering and class.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "子どもの相手とか、\n正直苦手だけど……\n配達とか授業とかより\n全然マシよね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Just watch me! I'll show you kids the\ndifference between you and an adult!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "見てなさい！　\nここはひとつ、\nガキんちょどもに大人の実力ってやつを見せつけてやるわ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hiii!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "──ひぃぃ～～～～っ！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ah! The miss fell again-♪",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あ、\nねえちゃんまた落ちたー♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wh-What do you mean I \"fell again\"!?\nWhat's with these pitfalls! And those explosions!\nWhy're there traps set everywhere!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ま、\nまた落ちたじゃないわよ！？\nなんなのよこの落とし穴！　\nさっきの爆弾も！\nどうしてそこら中に罠が仕掛けられてんの！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Eh? This is always how we play tag with Nii-chan.\nWe haven't played in a while, so I went all out though!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっ？\nにいちゃんと鬼ごっこするときはいつもこうだよ？\n今日は久しぶりだったから、\n張り切っちゃったけどね♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "No way...!? He does this... all the time...!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うそでしょ……！？\nこれを……\nいつも……！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "G-Gotcha...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "──つ、\nつかまえたっ……！"
+    },
+    {
+      "name": "Mimi",
+      "text": "You got me!\nI'll be it next!♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "つかまっちゃった～、\n次はミミが鬼だね～♪"
+    },
+    {
+      "name": "キャル",
+      "text": "ハァ……\nやっと、\n捕まえたわ……",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ハァ……\nやっと、\n捕まえたわ……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Oookay♪ I'm gonna count now!\nOne, two, three──",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "よ～\nっし♪\nじゃあ数えるね♪\nい～ち、\nに～い、\nさ～ん──"
+    },
+    {
+      "name": "Karyl",
+      "text": "*pant pant*...\nIt's kind of cheap,\nbut let's hide on the roof of some building...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ハァ、\nハァ……\nちょっと卑怯だけど、\n建物の屋上にでも隠れて休みましょ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Heheh. Don't underestimate the wisdom of an\nadult.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふふっ。\n大人の知恵を舐めるんじゃないわよ。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Aah!\nI found Kyaru♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あ～！\nキャルおねえちゃん\n見っけ～♪"
+    },
+    {
+      "name": "Petit Griffon",
+      "text": "Pupupup, Kyurukyu~♪",
+      "choice_data_list": [],
+      "orig_name": "プチグリフォン",
+      "orig_text": "ぷぷぷっぷ、\nきゅるきゅる～♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Eh!? Why!?\nAnd you're allowed to ride on a monster!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えっ！？　\nなんで！？\nていうか、\n魔物に乗るってアリなの！？"
+    },
+    {
+      "name": "Mimi",
+      "text": "It's always fun for Onii-chan though?\nGo! Puchi-Griffon-san♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "おにいちゃんはいつも楽しそうだよ？\nいっけ～！\nプチグリフォンさ～ん♪"
+    },
+    {
+      "name": "Petit Griffon",
+      "text": "Pupupup, Kyurukyu~♪",
+      "choice_data_list": [],
+      "orig_name": "プチグリフォン",
+      "orig_text": "ぷぷぷっぷ、\nきゅるきゅる～♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "What's with this game of tag!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何なのよこの鬼ごっこは～～～～～～～！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Thank you very much for today, Kyaru-san.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "今日はありがとうございました、\nキャルさん。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Miss, thanks!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "おねえちゃん、\nありがと～♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Let's play again, miss!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ねえちゃん、\nまたやろうね～！"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Heheh.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ふふっ。"
+    },
+    {
+      "name": "キャル",
+      "text": "絶対いやよ？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "絶対いやよ？　"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Um...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あの……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Umm...\nHm? What's wrong?\nThe others left already.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん？　\nどうしたの？\n二人とも、\nもう帰っちゃったわよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "{0}-san... Is he really okay?\nBefore we came today, I heard a rumor in town...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "{0}さん……\n本当に大丈夫ですか？\n今日、\n来る前に\n街であの人の噂を聞いて……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... you heard...\nSorry for lying about him having being busy.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ……\n聞いてたのね……\nごめん、\n用があるなんて\n嘘ついたりして。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh. So that's why you were so worried.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そっか。\nだからずっと心配してたのね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It's fine, I'll make sure he gets better.\nYou'll be able to play with him again real soon.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "大丈夫、\n絶対にあたしがあいつを元気にするから。\nすぐにまた、\nあいつと一緒に遊べるわよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Really?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "本当ですかっ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Heheh.\nLots of people really are troubled without him in town,\nbut I didn't think be so popular with a little kid like this.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふふっ。\nこの街にはあいつがいないと困る人がいっぱいいるみたいだけど、\nこんなちっこいのにまで大人気なんてね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Eeeh!? No, I'm not like that...!\nThat guy's a suspicious creep, if I don't keep watch...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ええっ！？\nいえ、\n私はそういうのじゃありませんし……！\nあの人はへんたいふしんしゃさんだから、\nちゃんと見てないと……"
+    },
+    {
+      "name": "キャル",
+      "text": "あいつ、\nこの子に何したの……？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あいつ、\nこの子に何したの……？　"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, right... It's about time we told Pecorine about this all.\nFeels like we haven't met in a while too.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そういえば……\nそろそろ、\nペコリーヌにも話しといたほうがいいわよね。\nしばらく会ってない気がするし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I know she's got work as a princess, but if we don't tell her,\n\"And you left me out of it!?\"\nis probably how'd she make a big fuss.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "プリンセスとしての仕事があるとはいえ、\n教えなかったら\n「わたしだけノケモノですか～！？」\nなんて、\n大暴れしそうだわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Huh?\nPecorine... Her Highness can't see anyone? Why?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……は？\nペコリーヌ……\n陛下に会えない？　\nどうしてよ？"
+    },
+    {
+      "name": "Jun",
+      "text": "Her Highness is in the middle of important official business.\nShe has no time to meet an audience.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "陛下はただ今、\n重要な公務の最中でね。\n謁見できるほどの暇もないんだ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I don't have time for this...\nWe've got a big problem on our end! He's...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "暇がないって……\nこっちは今ね、\n大変なことになってんの！\nあいつが……！"
+    },
+    {
+      "name": "Jun",
+      "text": "He hasn't awaken, I've heard.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "彼が眠ったまま目覚めない、\nらしいね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Word really does travel fast.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……さすが情報が早いじゃない。"
+    },
+    {
+      "name": "Jun",
+      "text": "He's involved in the lives of many people.\nI'd hear any rumors, regardless of choice.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "彼は色々な人物と関わりがあるからね。\n気にしていなくても、\n噂は耳に入ってくるよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "And even then, I can't meet with Pecorine?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それでもペコリーヌと会えないってわけ？"
+    },
+    {
+      "name": "Jun",
+      "text": "...Yes.\nYou have my deepest apologies.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……ああ。\n本当に申し訳ないと思うけどね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Alright, fine then.\nSorry to bother you when you're busy.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そう、\n分かったわ。\nお忙しいところ邪魔して悪かったわね。"
+    },
+    {
+      "name": "Jun",
+      "text": "...Could I ask something on a personal level?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……個人的に、\n一つ聞いていいかい？"
+    },
+    {
+      "name": "Karyl",
+      "text": "What's this?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なによ？"
+    },
+    {
+      "name": "Jun",
+      "text": "How is the boy?\nDo you think you can... wake him?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "彼……\n少年の具合はどうかな。\n目覚めさせることは……\nできそうかい？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Right now, we don't know.\nBut we can't leave things as-is.\n...Lots of people seemed worried after all.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "今んとこは分かんないわ。\nでも\nこのままにはしておかない。\n……いろんな人が、\n心配してるみたいだしね。"
+    },
+    {
+      "name": "Jun",
+      "text": "Haha...\nTake care of him.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "はは……\n彼のこと、\nお願いするよ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Jun-san.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ジュンさん。"
+    },
+    {
+      "name": "Jun",
+      "text": "Aah, Tomo-chan, Matsuri-chan.\nIs something the matter?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ああ、\nトモちゃん、\nマツリちゃん。\nどうかしたかい？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Was it really okay...\nto not tell her about her Highness?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "陛下のこと……\n彼女に伝えなくていいんですか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yeah! They're allies in the same guild...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そうッスよ、\n同じギルドの仲間なんスから……"
+    },
+    {
+      "name": "Jun",
+      "text": "That, Eustiana von Astraea has not awaken?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "──ユースティアナ・フォン・アストライア陛下が\n目を覚まさない、\nと？"
+    },
+    {
+      "name": "Jun",
+      "text": "Of course, I also wanted to tell her, on a sentimental level.\nBut, her Highness is this country's princess.\nThe fact she's hasn't awoken is information that mustn't be so carelessly spread.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "もちろん私も、\n心情的には伝えてあげたいところだけどね。\nただ、\n陛下はこの国の王女。\n倒れて目を覚まさないなどと、\n迂闊な情報は流せないよ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Yes, that's true...\nOnly a part of those related to the royal castle, and us Nightmare know about this.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "やっぱりそう、\nですよね……\nこのことを知ってるのって、\nまだ一部の王宮関係者と、\n私たち\n【王宮騎士団（NIGHTMARE）】くらいなんですよね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "But... but...!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "でも、\nでもッス～……"
+    },
+    {
+      "name": "Jun",
+      "text": "I understand how the two of you feel.\nBut I'm not saying this just to be mean.\nI'm sorry, but... could you two bear it for just a little longer?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "トモちゃんとマツリちゃんの気持ちはよく分かるよ。\nただこれは\n意地悪で言ってるわけじゃない。\nすまないけど、\nもう少しだけ我慢してもらえるかな。"
+    },
+    {
+      "name": "Jun",
+      "text": "If word spreads that something's happen to\nher Highness, it'll then become... a question\nof who to doubt. In order to avoid causing\nher too much worry, I'd like to watch the\nsituation a bit longer.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "陛下の身に何かあった、\nなどという話が広まれば、\n疑われるのは誰か……\nという話でもある。\n彼女に余計な心労をかけないためにも、\nもう少し状況を見たい。"
+    },
+    {
+      "name": "Tomo",
+      "text": "I understand, Jun-san.\n...But, it's fine if I go to see {0}-san personally, right?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "分かりました、\nジュンさん。\n……でも、\n個人的に\n{0}さんのお見舞いに行くくらいは、\n大丈夫ですよね？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ah! I wanna go too!\nHe's done a lot for me!\nAn ally of justice's helpful for times just like this!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あっ！　\n自分も行きたいッス～！\nあのひとには\nいろいろお世話になってるッスから！\n正義の味方は、\nこういう時に力になるものッス！"
+    },
+    {
+      "name": "Jun",
+      "text": "Yes, of course that'd be fine.\nI'd be happy if you send my regards as well.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ああ、\nもちろん構わないよ。\n私の分まで、\nよろしく言っておいてもらえるとうれしい。"
+    },
+    {
+      "name": "Both",
+      "text": "Understood!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "了解！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Geez, what was up with that...?\nAnd then there's Pecorine. I don't know what that urgent business is about, but...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく、\nなんだってのよ……\nペコリーヌもペコリーヌよね。\n緊急の用だか何だか知らないけどさ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "If you know something's happened to him, throw that castle work aside and come running back already.\n...Well, I guess Pecorine can't just do that.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こいつに何か起きてること知ってるんだったら、\n王族の仕事なんてほっぽり出して駆けつけてきなさいよ。\n……まぁ、\nそれができるペコリーヌじゃないか。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You're awake!?\n...No, just sleep talk again.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っ、\n起きたの！？\n……いや、\nまた寝言か。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Are you worried about someone even in your\ndreams? You really are a softie...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "夢の中でも誰かを心配してるわけ？\nほんと、\nお人好しね～……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Are you worried about someone in your dream?\nReally, what a softhearted guy...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "おかげで最近は\nあたしまでお人好しになっちゃってる気がするわよ。\n……あんたのせいよ、\n絶対。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Really... How do we wake you?\nDoctors, magic tools, precious medicine, a wonderous magic trick,\nwe tried so much, and it all failed.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ほんと……\nどうやったら起きるのよ。\n医者も魔道具も\n貴重な薬も不思議なおまじないも、\nいろいろ試したけど、\n全部ダメじゃない。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Come to think of it... I think I read of a\nway to wake a sleeping person in a book\nonce...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……そういえば……\n眠ってるやつを起こす方法、\nなんかの本で読んだことあった気がするわね……"
+    },
+    {
+      "name": "Karyl",
+      "text": "With the kiss of your destined partner...\nyou awaken... or something.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "運命の人のキスで……\n目が覚める、\nなんてね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ahaha, that's just absurd.\nIf he'd wake up with that, we wouldn't be struggling here.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あはは、\nバカバカしいわよね。\nそんなことで目が覚めるんなら、\n苦労はしないってのよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Really, just absurd...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ほんと、\nバカバカしいわ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Back then, we didn't... do it properly.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "前の時は、\nちゃんと……\nできなかったのよね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Maybe now... we could...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "今なら……\nできたり、\nして。"
+    },
+    {
+      "name": "キャル",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My heart is racing...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ドキドキでございます……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Uwah... Uwah...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うわぁ、\nうわぁ～……"
+    },
+    {
+      "name": "Karyl",
+      "text": "!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "～～～～～～～～～～～～～～～～～～～～～\n～っ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "What are you two doing!?\nQuit snooping around and tell me if you're there!\nAnd don't just watch! I'll kill you...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なッッッッッ、\nにやってんのよあんたらぁっ！？\nこっそり見てんじゃないわよいるならいるって言いなさいよ！\nっていうか\n見てんじゃないわよぶっ殺すわよ……！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please pay us no mind, Miss Kyaru.\nI understand that you're acting with my Lord in mind and are trying a fairy tale's method that often shows up in stories.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お気になさらないでください\nキャルさま。\nキャルさまが主さまのためを思い、\n物語などでよく見られる\nメルヘンチックな解決法を試そうとしていたのは\n理解しています。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thinking back, Miss Nebbia often mentioned it\nas well. \"If a cute girl kisses you, your\nheart would beat so fast you'd have to wake\nup\" As such, I decided to warmly watch\nover...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "思えばネビアさまも\nよく言っておられました。\n「かわいい子に\nぶちゅ\nっとされたら\nドキドキして目が覚める」\nと。\nですのでわたくし、\n温かく見守っていようかと……"
+    },
+    {
+      "name": "シェフィ",
+      "text": "うわぁ、\n～……",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うわぁ、\n～……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Could you not warmly watch over what someone's trying to do!?\nAnd Sheffy! You've just been going \"uwah\" this entire time!\nWhat's with that reaction!? If you're gonna laugh, just do it!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "人のやろうとしたこと温かく見守らないでくれない！？\nってかシェフィ！　\nあんたさっきからうわぁしか言ってないのよ！\nなんのリアクションなの！？　\n笑うなら笑いなさいよ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru, there's no need to be embarrassed.\nBy all means, please continue.\nAfterwards, perhaps I too could give it a try.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\n恥ずかしがる必要はございません。\nどうぞ、\n続きをなさってください。\nなんでしたら、\nわたくしも次に試してみようかと。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm not doing it!\nAnd I wasn't going to do it in the first place!\nIt was just a joke!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "やんないわよ！？\nっていうか\n初めからしようとしてなかったし！\nただの冗談だし！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ah♪\nKyakkya♪ Mama♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うわぁ……\nあ～♪\nきゃっきゃっ♪　\nまま～♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This isn't good,\nSheffy-chan's returned to a baby due to the heavy shock...!\nI'm the one who wants to become a baby here!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "大変です、\nあまりの衝撃に\nシェフィさまが赤ちゃんに……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm the one who wants to be a baby!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "赤ちゃんになりたいのはこっちよーっ！"
+    },
+    {
+      "name": "キャル",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord... Did you just...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……\n今、\nなんと……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "He said he'd come back to Landosol, right?\nMaybe he really is in a world of dreams...!?\nAnd he... can't come back...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ランドソルに帰るって言ったわよね。\nやっぱりこいつ、\n夢の世界にいるの……！？\nしかも……\n帰れなくなってる……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "If so, I wonder why hasn't Lady Ameth said anything...?\nPerhaps... Something has happened to Lady Ameth...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "だとすると、\nなぜアメスさまは\n何も仰ってくださらないのでしょう……\nもしや……\nアメスさまの身にも何かが……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I don't know what's going on,\nbut now's not the time to be relaxing anymore.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何が起きてるんだか知らないけど、\nもうのんびり待ってる場合じゃなくなったわね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Let's... force this sleepyhead awake!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "このねぼすけ……\nあたしたちでたたき起こすわよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Dau-♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "だぅー♪"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} continues to sleep,\nas the heart of Kyaru and the others become one.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "眠り続ける{0}のそばで、\nキャルたちは心を一つにするのであった。"
+    },
+    {
+      "name": "Karin",
+      "text": "Umm, sorry. I know you're all fired up, but\nI'd like to request for monster\nelimination...",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "あのー、\nすみません。\n盛り上がってるところ申し訳ないのですが、\n魔物討伐の依頼がしたいんですけど～……"
+    },
+    {
+      "name": "Karyl",
+      "text": "You've got bad timing!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "タイミングが悪い！"
+    },
+    {
+      "name": "Karin",
+      "text": "E-Eeh?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "えっ、\nええっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hehe.\nFirst filling in for my Lord, and now work for the Gourmet Guild.\nIt seems we're going to continue being busy.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふっ。\n主さまの代わりのお役目に、\n【美食殿】のお仕事に。\nどうやら、\nまだまだ忙しくなりそうですね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "*sigh*\nThen we'll just do it all!\nMonster elimination, protecting kids, throw it all at us!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁ～\nこうなったら全部やってやるわよ！\n魔物の討伐依頼でも\n子どものお守りでも、\nなんでもきやがりなさい！"
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "title": "Dragons Tag Match",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The blazing jungle of Gio Gehenna.\nThere was a group searching for the dragons...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "灼熱のジオ・ゲヘナのジャングル。\nその中にドラゴン族を探す一団があった……"
+    },
+    {
+      "name": "Lind",
+      "text": "Gio Gehenna really is hot...!\nAnd there's the smell of burnt pies all over the place...! I wonder\nif there are any cotton candy flowers or chocolate rocky mountains?",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "やっぱり、\nジオ・ゲヘナは暑いですね……！\nそれに、\nパイが焦げたような匂いがあちこちから……！\nわたあめのお花とか、\nチョコレートの岩山とかはないんでしょうか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hey, Lindo,\nif you go too far ahead, you'll get lost, you know?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おい、\nリンドー\nあんまり先に行くと迷子になっちまうぞー？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Sis, you're looking around too much.\nYou're going out of your way to be a guide,\nso you should just follow Kokkoro-san.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "姉貴、\nキョロキョロしすぎ。\nせっかくガイドしてもらってるんだから\n大人しくコッコロさんの後についていけばいいのに。"
+    },
+    {
+      "name": "Lind",
+      "text": "B-But...!\nI still don't know anything about Gio Gehenna...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "だ、\nだって……！\nジオ・ゲヘナのこと、\nまだ全然知らないし……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As embarrassing as it may be to admit,\nI don't have a regional guidebook, but...\nI know the general direction.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お恥ずかしながら、\nわたくしも土地鑑があるわけではございませんが……\nおおよその方角を知る術は\n心得てございます。"
+    },
+    {
+      "name": "Kaya",
+      "text": "I'm counting on you. After all, the guys in the living quarters told me\nearlier that 'there was a guy with wings and horns like ours'.\nI can only guess which direction it's coming from.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "頼りにしてるぜ。\nなにせ、\nさっき居住区の連中が教えてくれた──\n『オレたちみたいな羽と角のヤツがいた』\nって手がかりは。\nどっちの方角かってくらいしかないんだからさ。"
+    },
+    {
+      "name": "Lind",
+      "text": "If that person really is a dragon,\nwe'll have to see if they can join Kaya's guild.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "その人が\nもし本当にドラゴン族だったら\nカヤさんたちのギルドに入ってもらえるかどうか\n確認をしないといけませんね。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Yeah.\nProtecting the dragons is part of Dragonsnest's activities, after all.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ああ。\nドラゴン族の保護も\n【ドラゴンズネスト】の活動だからな。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...If the information is true...\nThen there's a possibility that it's Miss Sheffy...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……情報が真実であれば……\nその方が\nシェフィさまである可能性も……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kaya",
+      "text": "Still... Ahhh,\nI should've gotten into a fight!\nWith the people in the living quarters!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "それにしても……\nあー\nやっぱケンカしとけばよかったな～！\n居住区の連中とさぁ～！"
+    },
+    {
+      "name": "Lind",
+      "text": "K-Kaya?\nYou're saying such dangerous things again...!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "カ、\nカヤさんっ？\nまたそんな物騒なことを言って……！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "But the truth is, if I told you,\nI think you'd be able to accept it.\nEveryone here seems pretty hot-blooded.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "でも実際。\n言ったら割と受け入れられたと思いますよ。\nこっちの人たち、\nみんな血の気が多そうなんで。"
+    },
+    {
+      "name": "Kaya",
+      "text": "You're right!\n...Can I come back for a bit?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "だよな！\n……オレ、\nちょっと戻ってもいい？"
+    },
+    {
+      "name": "Lind",
+      "text": "It's no use!\nWe're here to accompany Miss Lyrael!\nWe mustn't start a fight! Absolutely not!!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ダーメーでーす～！\n私たちはライラエルさまのお供として来てるんですから！\n揉め事を起こすのはいけませんっ！　\n絶対に！！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "No, kaya-san is different from your companion.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "いやカヤさんはお供とは違うでしょ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kaya, I understand how you feel, however...\nIf something happens, my Lord will be worried.\nPlease wait a moment.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "カヤさま。\nお気持ちは分かりますが……\nもしものことがあれば、\n主さまも心配されます。\nどうか我慢なさってくださいませ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Haha, I know. Just kidding, just kidding!\nEven I'm not bad enough to play pranks on someone else's territory.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "はは、\n分かってるよ。\n冗談冗談！\nいくらオレでも、\nヨソの縄張りでヤンチャするほどヤボじゃないって。"
+    },
+    {
+      "name": "Lind",
+      "text": "She didn't look like she was joking at all...\nAnyway, we're looking for the dragons right now!\nLet's do our best to find some clues for Inori, too!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "とても冗談を言ってるようには見えませんでしたけど……\nとにかく、\n今はドラゴン族探しです！\nイノリさんの分も、\nがんばって手がかりを見つけましょう！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ah, Miss Lind.\nPlease don't go too far ahead...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ああっ、\nリンドさまっ。\nあまり先に進まないでくださいませ……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Lindo's really fired up.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……リンドのやつ、\nやけに張りきってんなぁ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I'm on cloud nine, probably.\nI've never had a chance to leave Gio Teogonia.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "浮かれてるんですよ、\n多分。\nジオ・テオゴニアを離れる機会なんか\n全然ありませんでしたからね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...By the way, Kaya.\nWhy isn't Inori-san here this time?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ところでカヤさん。\nどうしてイノリさんは\n今回来てないんですか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ah, she said she was busy with work.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あー\nなんか仕事が忙しいって言ってたな。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "What's the truth?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "本当のところは？"
+    },
+    {
+      "name": "Kaya",
+      "text": "I heard that this world is dangerous,\nso I can't come here without having someone take a good look at it.\nI even pushed the tools for taking pictures onto you.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "こっちの世界がヤバいって聞いたから\n誰かにちゃんと下見させないと安心して来られない、\nってとこかな。\nご丁寧に写真撮る用の道具まで押しつけてきたよ。"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方その頃……"
+    },
+    {
+      "name": "Grea",
+      "text": "Umm, the living quarters are...\nThis way, right?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっと、\n居住区は……\n確かこっちの方だった……\nよね。"
+    },
+    {
+      "name": "Grea",
+      "text": "I can't believe I got sent flying again...\nAnd this time, it's just me.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "まさか、\nまた飛ばされちゃうなんて……\nしかも今度は私一人。"
+    },
+    {
+      "name": "Grea",
+      "text": "It's not like I don't know this place at all, but...\nIt's still a little depressing.\nI need to see Pecorine and the others as soon as possible.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "全く知らない場所ってわけじゃないけど。\nやっぱり……\nちょっと心細いな。\n早くペコリーヌたちに会わなくちゃ。"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Grea",
+      "text": "Monsters?!\nThat's big, too...!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "魔物っ！？\nそれも大きい……！"
+    },
+    {
+      "name": "Grea",
+      "text": "There's no one around...\nYeah, there's nobody around.\nIn that case...!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "周りに人は……\nうん、\n誰もいない。\n──だったらっ！"
+    },
+    {
+      "name": "Grea",
+      "text": "I'll drive you away right away...!\nWith this dragon's fire!\nHaaaaahhh!!!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "すぐに追い返してあげる……！\nこの竜の炎で！\nはあああああっ！！！"
+    },
+    {
+      "name": "The monsters’ cries",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物たちの鳴き声",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Lind",
+      "text": "Th-That was a cry...!\nCould it be a monster?\nIt doesn't look like it's that far away...!!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "い、\n今の鳴き声……！\nもしかして\n魔物ですかっ？\nそんなに離れてないみたいですけど……！！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Isn't it over there?\nGio Gehenna burns pretty much everywhere,\nbut it feels like it's the only place that's burning up.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……あっちじゃない？\nジオ・ゲヘナって割とどこでも燃えてるけど\nなんかあそこだけ『燃え盛ってる』って感じだし。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Whoa, whoa, the economy's pretty good!\nThis smells like a fight... Heheh! All right, let's go check it out!\nThis is information gathering, too!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おーおー\n随分と景気がいいじゃねぇか！\nこれはケンカの匂いがすんなぁ……\nへへっ！\nよしっ、\n行ってみようぜ！　\nこれも情報収集だ！"
+    },
+    {
+      "name": "Lind",
+      "text": "Gathering information...?!\nTh-There might be monsters running amok!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "情報収集って……！\nま、\n魔物が暴れてるかもしれないんですよっ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "If you don't hurry, she'll leave you behind.\nSee you later",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "早くしないと置いてかれるよ、\n姉貴。\nお先ー"
+    },
+    {
+      "name": "Lind",
+      "text": "Wurm? Wait, Wurm!\nDon't leave me behind!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ヴルムっ？\n待ってヴルムっ！\n置いてかないで～っ！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Dragon-Inferno!!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ドラグインフェルノ！！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Monster 2",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Grea",
+      "text": "...!\nThey're still coming?!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "っ！\nまだ向かってくるの……！？"
+    },
+    {
+      "name": "Grea",
+      "text": "What sturdy monsters...!\nIt looks like I'll need to hold back a little more if I want them\nto understand the difference in power between us...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "なんて頑丈な魔物たち……！\n力の差を分かってもらうには\nもう少し手加減しないほうがよさそうだね……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oooh!\nThat's some flashy stuff!\n...Wait, he's...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おおー！\n派手にやってんなぁ！\n……って、\nアイツは……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...The wings on her back and her tail.\nHer features are just like ours.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……背中の羽に尻尾。\n特徴はあたしらとそっくりですね。"
+    },
+    {
+      "name": "Lind",
+      "text": "So that's the dragon we're looking for?!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "それじゃあ、\nあの人が……\n私たちの探していたドラゴン族！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Oh?\nThat figure from behind, could it be...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……おや。\nあの後ろ姿は、\nもしや……"
+    },
+    {
+      "name": "Grea",
+      "text": "...Huh?\nWhen did someone...?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nえっ？\n人が……\nいつの間にっ？"
+    },
+    {
+      "name": "Grea",
+      "text": "Wait, huh?\nIs that...\nKokkoro!?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "って、\nあれ？\nあそこにいるのって……\nコッコロ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Grea! I knew it...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "グレアさま！\nやはり……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huh, so you knew her?\nIf you knew a dragonkin,\nyou should have told me sooner.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へー、\n知り合いだったのか？\nドラゴン族の知り合いがいたんなら、\nもっと早く教えてくれよな。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Still...\nShe's moving pretty well, isn't she?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "しっかし……\nなかなかいい動きしてんなぁ、\nアイツ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I don't know much about fighting,\nbut up against two monsters of that size.\nThey must be strong?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "戦いのことはよくわからないですけど。\nあの大きさの魔物を二体も相手にしてますし。\n強いんじゃないですか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "You're right! Which means...\nThe monsters are a bit of a nuisance to fight. Alright, Kokkoro.\nCan you hold onto this for me?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "やっぱそうだよな！\nとなると……\nケンカするには、\nちょーっと魔物が邪魔だな。\nよし、\nコッコロ。\nコレ、\n預かっててくれるか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "It's a photo item I silently borrowed from the boss room.\nYou can take it, but don't break it.\nAlright, let's go!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ボスの部屋から黙って借りてきた写真用のアイテムだ。\n撮ってもいいけど壊さないように頼むぜ。\nんじゃ、\nいってくる！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Understood.\nGood luck, Kaya!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "かしこまりました。\nカヤさま、\nご武運を！"
+    },
+    {
+      "name": "Lind & Wurm",
+      "text": "Good luck!\nGood luck...",
+      "choice_data_list": [],
+      "orig_name": "リンド・ヴルム",
+      "orig_text": "ご武運を！\nご武運をー"
+    },
+    {
+      "name": "Grea",
+      "text": "Anyway...!\nWe need to make sure we don't attack Kokkoro and the others!\nKeep your eyes peeled!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "とにかく……！\nコッコロたちの方に攻撃がいかないようにしないと！\nもっと注意をひいて──"
+    },
+    {
+      "name": "Monster 2",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Grea",
+      "text": "!?\nOh cra~",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "っ！？\nしまっ──"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hey!!!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "オラァ！！！"
+    },
+    {
+      "name": "Monster 2",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Heheh!\nYou're way too focused on the “audience” part, dragonkin buddy!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へへっ！\n『観客』のことを意識しすぎだぜ、\nドラゴン族のお仲間さん！"
+    },
+    {
+      "name": "Grea",
+      "text": "Wh-Who are you...?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ、\nあなたは……？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Kaya!\nIsn't that...Grea?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "カヤだ！\nそっちは……\nグレア、\nだったか？"
+    },
+    {
+      "name": "Grea",
+      "text": "Yeah.\nThanks for saving me, Kaya.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うん。\n助けてくれてありがとう、\nカヤ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Don't worry about it.\nI'll lend you a hand, Grea!\nNow it's two-on-two, fair, right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "気にすんな。\n手を貸すぜ、\nグレア！\nこれで二対二、\nフェアってもんだろ？"
+    },
+    {
+      "name": "Grea",
+      "text": "...Yeah.\nPlease!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nうん。\nお願い！"
+    },
+    {
+      "name": "Kaya & Grea",
+      "text": "Oraaaahhhh!!! Haaaannnnnnn!!!",
+      "choice_data_list": [],
+      "orig_name": "カヤ・グレア",
+      "orig_text": "おらぁあああああ！！！\nはぁああああああ！！！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Haha!\nNice enthusiasm!\nNot bad, Grea!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ははっ！\nいい熱気だ！\nやるじゃねぇか、\nグレア！"
+    },
+    {
+      "name": "Grea",
+      "text": "Kaya, too!\n...But be careful not to get burned!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "カヤも！\n……\nでも、\n火傷しないように気をつけてねっ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "That's what I'm saying!\nOkay, raise the heat!\nLet's fight over the burns!!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "言うじゃねぇか！\nんじゃ、\nガンガン熱上げて！\n火傷のし合いっこといこうぜぇ！！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Wow, they're in perfect sync for an instant.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "へー\n即席の割に、\n息合ってますね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, both of you did splendidly.\nIt might be a good idea to capture this moment in a photo.\nNow, if you'll excuse me... *snap*.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\nお二人ともお見事です。\nこれは\n写真に残しておいた方がよろしいかもしれませんね。\nで\nは失礼して……\nぱしゃり。"
+    },
+    {
+      "name": "Lind",
+      "text": "Haaaah...!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "はぁぁぁ……！"
+    },
+    {
+      "name": "Lind",
+      "text": "W-Wow...!\nThis is how dragons fight!\nMy heart is pounding...!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "す、\nすごい……！\nこれがドラゴン族の戦い方っ！\nなんだか……\n胸がドキドキするっ……！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "No, you're getting too excited, Sis.\nYou're throwing away too much shame on your journey.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "いやテンション上がりすぎでしょ、\n姉貴。\n旅の恥はかき捨てすぎるって。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Kokkoro.\nCould you take a picture of my sister too?\nTwo or three.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……コッコロさん。\nちょっと姉貴も撮っておいてもらえます？\n２、３枚。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "......Understood.\nPlease leave it to me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……かしこまりました。\nお\n任せくださいませ。"
+    },
+    {
+      "name": "Lind",
+      "text": "Fuooohhhh...!!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ふぉおおお……！！"
+    },
+    {
+      "name": "Narration",
+      "text": "After fighting alongside Kaya and Grea to ward off the monsters...\nThe party was once again discussing their backgrounds.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カヤとグレアの共闘により魔物を退けた後……\n一行は改めて互いの素性について話し合っていた。"
+    },
+    {
+      "name": "Grea",
+      "text": "...And so...\nI don’t think I’m a dragonkin like everyone else.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……というわけだから……\n多分、\n私は\nみんなと同じドラゴン族じゃないと思う。"
+    },
+    {
+      "name": "Lind",
+      "text": "It's true that this is the first time I've heard of dragons or demons.\nI haven't even heard of them in Gio Teogonia,\nwhere there are many races.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "確かに\n竜族というのも\n妖魔人というのも初耳です。\nたくさんの種族がいるジオ・テオゴニアでも\n聞いたことがありません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Still, I was taken aback.\nTo see you here in Gio Gehenna with Miss Grea.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それにしても驚きました。\nジオ・ゲヘナの地で\nグレアさまとお会いできるだなんて。"
+    },
+    {
+      "name": "Grea",
+      "text": "Me too. But thanks to that, I'm relieved.\nI was a little lonely when I was alone.\n...Before, I was fine being alone.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "私も。\nでも、\nおかげで安心した。\n一人きりで、\nちょっと寂しかったから。\n……\n前までは、\n独りぼっちなんて平気だったのにね。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Still, there's more and more things I don't get.\nA time-limited teleportation device in a world like Mysteria...\nWhat the hell's going on?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "しっかし、\n分かんないことがますます増えちまったなぁ。\nミスタルシアとかいう世界に\n時間制限付きの転移装置……\n一体何がどうなってんだ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ahh... If only the boss were here at a time like this.\nHe'd give me the usual explanation with a knowing look on her face.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あ～……\nこんなときにボスがいればなぁ。\nいつもの訳知り顔で、\n解説のひとつでもしてくれるんだけど。"
+    },
+    {
+      "name": "Grea",
+      "text": "Boss?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ボス？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "By the way, what kind of person is the boss of Kaya and the others\nyou're always talking about?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "そういえば。\nいつも言ってるカヤさんたちのボス？\nって、\nどんな人なんですか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Yeah, to put it simply... this is bad.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そうだな、\n一言で言えば……\nヤバい。"
+    },
+    {
+      "name": "The Three",
+      "text": "Crap?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "ヤバい？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "They are a person with unfathomable knowledge and strength.\nCurrently... They are absent for certain reasons.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "底知れない知識と\n強さをお持ちの方です。\n今は……\nわけあってご不在になられていますが。"
+    },
+    {
+      "name": "Lind",
+      "text": "I-I don't really get what's going on, but...\nThey seems like an amazing person.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "な、\nなんだかよくわからないけど……\nすごそうな方なんですね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "It might be a good idea to meet them at least once.\nI don't think she'll be bored.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "一度くらいなら、\n会ってみてもいいかもですね。\n退屈しなさそう。"
+    },
+    {
+      "name": "Kaya",
+      "text": "I won't get bored. Next time the boss comes back,\nI'll introduce you to her. And Grea too, of course!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "退屈はしねぇな。\n今度ボスが帰ってきたら紹介するぜ。\nもちろん\nグレアもな！"
+    },
+    {
+      "name": "Grea",
+      "text": "Haha. I'll be looking forward to it.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ふふ、\n楽しみにしておくね。"
+    },
+    {
+      "name": "Kaya",
+      "text": "All right!\nNow that we’ve taken a breather, let’s keep looking for the dragons!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "よし！\n一息ついたし、\nドラゴン族探しを続けるか！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please leave the photography to me.\nI will make sure to capture everyone's gallant figures in the records.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "写真撮影はお任せください。\nみなさまの雄姿、\nわたくしが\nしっかり記録に収めさせていただきます。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Let's go, too, Grea.\nThere's still time before we go home, right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "グレアもいこうぜ。\nまだ帰るまで時間はあるんだろ？"
+    },
+    {
+      "name": "Grea",
+      "text": "Are you sure?\nThank you.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "いいの？\nありがとう。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Kaya...\nAre you sure you don't want to fight with Grea?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "カヤさん。\n……グレアさんとケンカしなくて\nいいんですか？"
+    },
+    {
+      "name": "Grea",
+      "text": "A-A fight?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ケ、\nケンカっ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, forget it. The monster elimination just made me feel better.\n...Well, if Grea wants to do it, I'll gladly do it",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あー\nもういいや。\nなんかさっきの魔物退治でスッキリしちまった。\n……まあ、\nグレアがやりたいってんなら\n喜んでやるぜ？"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh?\nI don't like it, but... normal.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "え？\nイヤだけど……\n普通に。"
+    },
+    {
+      "name": "Lind",
+      "text": "...That was amazing, Kaya and Grea.\nBoth your power and magic...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "…………\nすごかったなぁ、\nさっきのカヤさんとグレアさん。\n力も魔法も……"
+    },
+    {
+      "name": "Lind",
+      "text": "...I wish...\nI had the power to fight for Miss Lyrael and everyone else...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "……私にも……\nライラエルさまや\nみんなのために戦う力があったらいいのに……"
+    },
+    {
+      "name": "Lind",
+      "text": "I wonder how I can get the flames out of my hand...\nShould I make it hot? Rub my hands together... Rub, rub, rub?",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "どうしたら、\n手から炎が出せたりするんだろう……\n熱くすればいいのかな。\n両手をこすり合わせて……\nすりすりすりすりす──\nり？"
+    },
+    {
+      "name": "？？？",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Lind",
+      "text": "Is that...a child of a monster?\nIt kind of looks like a dragon...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あれは……\n魔物の子ども？\nなんだかドラゴンみたいに見えるけど……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Miss Sister, thank you for everything you've done for me.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "お姉さまー\n今までお世話になりましたー"
+    },
+    {
+      "name": "Lind",
+      "text": "Eh, speaking formally?!\nW-Wait, right here and now~",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "えっ、\n敬語っ！？\nま、\n待って今\nここに──"
+    },
+    {
+      "name": "Lind",
+      "text": "Huh?\nShe's gone...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あれ？\nいなくなってる……"
+    },
+    {
+      "name": "Lind",
+      "text": "Hmm...\nWell, whatever. Everyone, please wait!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "うーん……\nまあ、\nいいか。\nみなさーん、\n待ってくださ～いっ！"
+    },
+    {
+      "name": "？？？",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    }
+  ]
+}

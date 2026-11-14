@@ -1,0 +1,915 @@
+{
+  "title": "With Three Different Moms",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "記憶を失った{0}を預かったエミリアたち。\n立派なママになることを決意した彼女たちだったが……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "記憶を失った{0}を預かったエミリアたち。\n立派なママになることを決意した彼女たちだったが……"
+    },
+    {
+      "name": "Rem",
+      "text": "Wait just a second! If you keep running like that, you'll trip!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "待ってくださいっ。\nそんなに走ると転んでしまいます！"
+    },
+    {
+      "name": "Ram",
+      "text": "I'm relieved that he hasn't forgotten how to walk, but it is a bit of an hassle for him to run around that quickly.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "歩き方まで忘れていなくて安心したけど、\nちょろちょろと動き回られるのも困りものね。"
+    },
+    {
+      "name": "Ram",
+      "text": "This is because you won't listen to Rem's advice. Still, it's good that you didn't cry or scream.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "レムの忠告を聞かないからよ。\nとはいえ泣きわめいたりしないのはいいことね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hehe. He always looked like quite the calm and collected boy, so I never would've imagined he'd be this mischievous as a kid.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ふふっ。\nいつもは大人しい男の子だったけど、\n子どもの時はこんなにやんちゃさんだったのね。"
+    },
+    {
+      "name": "Puck",
+      "text": "Even though he has no memories, his body is appropriate for his age. His strength has not dimished one bit, it's too much.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "記憶がないとは言っても\n体は年齢相応だからね。\n力が有り余ってるんじゃないかな。"
+    },
+    {
+      "name": "Rem",
+      "text": "I'm worried about you being so energetic, you might get hurt... Please don't stray too far from Rem and the others. Also, please do not follow anyone suspicious.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "元気すぎてけがしないか心配です……\nあまりレムたちから離れないようにしてください。\nそれと、\n怪しい人について行ったりしないでくださいね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "He-ey. You have to listen to what your Mamas say, ok-ay?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "こーら。\nちゃんとママたちの言うことを聞かなきゃ\nめっ、\nよ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Thank you very much, Lady Emilia. Even so... it seems to be quite hard to get children to listen to you.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "エミリア様、\nありがとうございます。\nそれにしても……\n子どもに言うことを聞いてもらうのは難しいですね。"
+    },
+    {
+      "name": "Rem",
+      "text": "I wish I could grab a child's heart in an instant just like Subaru-kun.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "スバルくんみたいに\n子どもの心を一瞬で掴めたらいいのですが。"
+    },
+    {
+      "name": "Ram",
+      "text": "Barusu is just a child himself, Rem. If you want to take someone as a reference, look to someone like Saren.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "バルスは自分も子どもなだけよ、\nレム。\n参考にするならサレンあたりにしておきなさい。"
+    },
+    {
+      "name": "Emilia",
+      "text": "True enough, everyone at the Sarendia Orphanage looks up to Saren by calling her Mama. Sometimes she even acts like a real mother.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "確かにサレンさんは\n【サレンディア救護院】のみんなから\nママ・サレンってすごーく慕われているわ。\n時々、\n本当のお母さんみたいだし。"
+    },
+    {
+      "name": "Rem",
+      "text": "Indeed, Lady Saren would be more suited to being called Mama Saren.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "確かに、\nサレン様はママ・サレンと呼ぶのがぴったりです。"
+    },
+    {
+      "name": "Ram",
+      "text": "It seems she doesn't really mind being called Mama Saren either.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "本人もママ・サレンと呼ばれることを本当は嫌がっていないようだわ。"
+    },
+    {
+      "name": "Puck",
+      "text": "Mama Saren has quite the nice ring to it, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "語感もいいよね\nママ・サレン。"
+    },
+    {
+      "name": "Saren",
+      "text": "...Could you please stop calling me Mama Saren in public?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "──人前で\nママ・サレンって連呼するのやめてくれない？"
+    },
+    {
+      "name": "Emilia and the others",
+      "text": "(Both) Mama Saren!",
+      "choice_data_list": [],
+      "orig_name": "エミリアたち",
+      "orig_text": "ママ・サレン！"
+    },
+    {
+      "name": "Saren",
+      "text": "DON'T JUST YELL IT IN UNISON?!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "声を揃えないで！？"
+    },
+    {
+      "name": "Saren",
+      "text": "Geez, what's with the lot of you...? I heard you were going to the beach, but to think I'd even run into you like this.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "もう、\nなんなのよあんたたち……\n海に行くとは聞いてたけど、\nまさか会えるとは思わなかったわ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Saren, so you came to the beach too, huh? Are you with Suzume and the others?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "サレンさんも\n海に来てたのね。\nもしかして\nスズメちゃんたちも一緒に？"
+    },
+    {
+      "name": "Saren",
+      "text": "Heh, no, everyone at the Sarendia Orphanage is back home watching the house. It might not be very convincing, given how I am dressed right now, but I'm here for work. It's just a little business deal.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "いえ、\n【サレンディア救護院】のみんなはお留守番よ。\nこんな格好だから説得力はないかもしれないけど、\n一応仕事で来てるのよ。\nちょっとした商談ね。"
+    },
+    {
+      "name": "Saren",
+      "text": "More importantly... As for that boy over there, is it...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "それより……\nもしかして、\nそっちにいるのって……"
+    },
+    {
+      "name": "Saren",
+      "text": "WHO ARE YOU CALLING MAMA?! What if people misunderstand?! I didn't give birth to a baby this big!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "誰がママか！　\n誤解されたらどうするの！\nこんなおっきな子どもは\n産んでないわよ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Um, Lady Saren? This might be a little cumbersome to explain, but...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "あの、\nサレン様。\n少々、説明が難しいのですが……"
+    },
+    {
+      "name": "Saren",
+      "text": "Ahh, now I understand. You've lost your memory again, right? That happens all the time with him.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あ～、\n今ので分かったわ。\n記憶喪失なんでしょ？　\nよくあることよ。"
+    },
+    {
+      "name": "Ram",
+      "text": "To think that amnesia could be treated as a common occurence here...",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "記憶喪失って、そんなに日常的なものなのかしら……"
+    },
+    {
+      "name": "Rem",
+      "text": "Well, Lady Pecorine and the others seemed used to it too...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ペコリーヌ様たちも慣れている様子でしたが……"
+    },
+    {
+      "name": "Puck",
+      "text": "Sure is scary, this other world.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "怖いね\n異世界。"
+    },
+    {
+      "name": "Saren",
+      "text": "And so? What happened to cause him a memory loss this time?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "それで、\n今度は何があって記憶喪失になっちゃったわけ？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Umm, well it's due to a monster called the white whale and...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "えっと、\nシロクジラっていう──"
+    },
+    {
+      "name": "Saren",
+      "text": "...I see. A monster that steals memories... Now this is getting more troublesome.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "──なるほど。\n記憶を奪う魔物……\n厄介なことになってるわね。"
+    },
+    {
+      "name": "Saren",
+      "text": "I'll join in to help look for that monster too. Although, that'll be after I've finished some troublesome business negotiations...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こっちでも気を付けておくわ。\nとはいえ、\n面倒な商談を片付けてからになっちゃうけど……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Thank you, Saren. ...Oh, right. May I ask you something? Saren, what do you do when you want to be heard and listened to by an overenergetic child?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ありがとうサレンさん。\n……\nそうだ。\nひとつ聞いてもいいかしら？　\nサレンさんって、\n元気すぎる子どもにお話を聞いてもらいたい時って\nどうしてるの？"
+    },
+    {
+      "name": "Saren",
+      "text": "Let's see... I think it's important to see things from the child's perspective as much as possible, play with them, and gain empathy. From what I recall, Subaru was good at that.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうね……\nできる限り子どもと同じ目線に立って、\n一緒に遊んだりして、\n共感を得ることかしら。\nスバルが上手だったわよ。"
+    },
+    {
+      "name": "Ram",
+      "text": "Surprisingly, it seems Barusu was actually the answer.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "まさかのバルスが答えだったわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "I knew it, you really are amazing, Subaru-kun.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "やっぱりスバルくんはすごいです。"
+    },
+    {
+      "name": "Saren",
+      "text": "Having said that, right... you've come all the way to the beach, so instead of focusing on taking care of the white whale right now, I think it's best for you to just relax and enjoy yourself.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "だからそうね……\nせっかく海に来てるわけだし、\nシロクジラとかお世話とか\n一直線にならず、\n肩ひじ張らずに\n楽しんだらいいと思うわよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Okay, got it. Thank you, Mama Saren.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "わかったわ。\nありがとう\nママ・サレン。"
+    },
+    {
+      "name": "Saren",
+      "text": "Geez, that again... Well, I'm glad I was able to help.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "もう、\nまた……\nまぁ、\n役に立てたならよかったわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "You are truly amazing, Lady Saren. It's not enough to just try to get them to listen to you from an adult's perspective.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "さすがはサレン様です。\n大人の目線で言うことを聞かせようとするだけではいけないのですね。"
+    },
+    {
+      "name": "Rem",
+      "text": "So, first of all, let's have as much fun as we can!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "というわけで、\nまずはめいっぱい遊びましょう！"
+    },
+    {
+      "name": "Emilia",
+      "text": "...By the way, what do you think we should be playing? Do you think meowmeow-nyanyan works out?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……\nところで、\n遊ぶって何をしたらいいのかしら？\nにゃんにゃかにゃかにゃんでもいい？"
+    },
+    {
+      "name": "Puck",
+      "text": "Lia, I think that game is too big of a hurdle for anyone here. While we're here, why not go play at the beach?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "リア。\nにゃんにゃかにゃかにゃんをみんなでやるのは難しいかも。\nせっかくだし、\n海で遊んだ方がいいんじゃないかな？"
+    },
+    {
+      "name": "Rem",
+      "text": "However, Rem and the others still don't fully understand how to enjoy the beach. If only Subaru-kun was here at a time like this...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ですが、\nレムたちはまだ海の楽しみ方を把握しきれていません。\nこんな時\nスバルくんがいてくれたら……"
+    },
+    {
+      "name": "Ram",
+      "text": "There's no point in thinking about a man who isn't even here. If there's something you don't understand, you just have to ask.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "いない男のことなんて考えても仕方がないわ。\n分からないのであれば聞けばいいだけよ。"
+    },
+    {
+      "name": "Ram",
+      "text": "There's a kid over there, so let's ask her. May I ask for a second of your time?",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "ちょうどそこに子どもがいるから、\n聞いてみましょう。\nちょっといいかしら。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...Yes?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "──はい？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh my, those ears. So you're the same as Kokkoro-chan...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あら、\nその耳。\nあなたもコッコロちゃんと同じ……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wh-what's going on? You're suddenly staring at me like that...! Could it be you're all suspicious per-...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "な、\nなんですか、\n急にまじまじ見つめてきて……！\nもしかして、\nふしんしゃ……"
+    },
+    {
+      "name": "Puck",
+      "text": "I'm sorry to spring this on you out of nowhere. We're not suspicious and this girl's my daughter. She's just as cute as me, right?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "いきなりごめんね～\n不審者じゃなくて\nこの子はボクの娘なんだ。\nボクに負けず劣らず\n愛くるしいでしょ？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Y-Yes... Daughter...? A fluffy talking cat is flying in the sky with a life jacket... so cute...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "は、\nはい……\n娘……？\nモフモフした喋る猫が、\n浮き輪つけて空を飛んでる……\nかわいい……"
+    },
+    {
+      "name": "Puck",
+      "text": "You've got a good eye! As an apology for startling you, would you like to enjoy my fluffyness?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "お目が高いね！\nびっくりさせちゃったお詫びの印に、\nボクのモフモフを堪能してみる？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I'm a little curious... Bbut I was taught at school that I shouldn't follow or listen to strangers, so I'll refrain.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ちょっと気になる……\nけど、\n知らない人についていっちゃいけないって、\n学校で教わってるので遠慮しておきます。"
+    },
+    {
+      "name": "Puck",
+      "text": "Then is a stranger cat okay?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "知らない猫ならオーケー？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "No, I'd still refrain.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ダメだと思います。"
+    },
+    {
+      "name": "Ram",
+      "text": "What a strong and polite kid.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "しっかりした子どもね。"
+    },
+    {
+      "name": "Rem",
+      "text": "She's no match for my Sister, but she's more reliable than Rem was when she was little.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "姉様には敵いませんが、\n幼い頃のレムよりしっかりしてますね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Who are these people...? Is something troubling them? But they’re strangers, I don't know them... I’m a little scared.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "この人たち、\nなんなんだろう……？\n何か困ってるのかな？　\nでも、\n知らない人だし……\nちょっと怖いかも。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "If only Lorik were here at a time like this... Huh? Now that I look closely, that's...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "こんな時、\nあの人がいてくれたら……\nあれ？\nよく見たらそこにいるのって──"
+    },
+    {
+      "name": "Emilia and the others",
+      "text": "Mama?!",
+      "choice_data_list": [],
+      "orig_name": "エミリアたち",
+      "orig_text": "ママ！？"
+    },
+    {
+      "name": "Ram",
+      "text": "I wonder what on earth is even going on in this world.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "いったいこの世界はどうなっているのかしら。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Don't give me that \"Mama\"! You really are a suspicious creep!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ママじゃありません！\nやっぱりあなたは\nへんたいふしんしゃさんですね！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wait, huh? Now that I think of it, why are you acting like a baby again?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "って、\nあれ？\nそういえばどうしてまた赤ちゃんみたいになっちゃってるんですか？"
+    },
+    {
+      "name": "Rem",
+      "text": "It seems that you and this man are previous acquaintances. Rem will explain the situation to you~",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "どうやら、\nこの方の知り合いのようですね。\nレムが事情を説明いたします──"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Um, so, you were attacked by a white whale and lost your memory? Umm... That must have been tough.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "その、\nシロクジラに襲われて\n記憶喪失になっちゃったんですか。\nえっと……\n大変でしたね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "But that doesn’t mean you should go around calling everyone \"Mama\" like that. If you do that, you won’t be able to become a respectable adult, you know?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "だからって、\n誰でもママなんて呼んじゃダメじゃないですか。\nそんなことしてると、\n立派な大人になれませんよ？"
+    },
+    {
+      "name": "Ram",
+      "text": "It's pretty brutal to see an older man being lectured by such a small child.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "明らかに年上の男が\n小さな子どもに説教されている光景はなかなかに壮絶ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Kyouka-chan, even though you're so small, you've got an amazing strength. She's got quite the different vibe from Saren.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "キョウカちゃん、\nあんなに小さいのにとってもしっかりしてるわ。\nサレンさんとはまた違った感じね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Umm, Emilia. You wanted to know how to play at the beach, right? In that case, maybe I could play with you...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっと、\nエミリアさん。\n海でどうやって遊ぶか、\nでしたよね？\nそれだったら、\n私も一緒に遊んでもいいですか……？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Are you sure? It'd be great if you could teach all of us all sorts of ways to play at the beach. Also, I'd like to hear more about how to discipline children. Kyouka-chan, you're so mature for your age.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "いいの？　\nいろんな海の遊び方を教えてくれると助かるわ。\nそれに、\n子どもを躾ける時のお話の仕方とかも聞きたいわ。\nキョウカちゃん、\nすごーく大人っぽいもの。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? You think... that I'm mature? I-Is that so... Ehehe.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ？　\n私、\n大人っぽいですか？\nそ、\nそうかな……\nえへへ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Heehee. It seems you're finally acting a little bit more like your own age just now.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ふふ。\n年相応なところもあるみたいですね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...See you around, Kyouka!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──またね、\nキョウカちゃーん！"
+    },
+    {
+      "name": "Rem",
+      "text": "Playing at the beach sure was fun. Rem liked that beach volleyball game.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "海での遊び、\n楽しかったですね。\nレムはあのビーチバレーというものが気に入りました。"
+    },
+    {
+      "name": "Ram",
+      "text": "The beach ball was sent flying by Lady Emilia's blow. Ram liked the water walking spell that Kyouka used.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "ビーチボールがエミリア様の一撃ではじけ飛んでいたわね。\nラムは、\nキョウカが使っていた水上歩行の魔法が気にいったわ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I had a lot of fun building sand castles. I built one for Kyoka too, but she didn't seem very happy about it...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "私は\n砂のお城を作るのがすごーく楽しかったわ。\nキョウカちゃんにもつくってあげたのに、\n何だか\nあんまり喜んでくれなかったけど……"
+    },
+    {
+      "name": "Puck",
+      "text": "Lia, your work was so original that it ended up becoming a problem. But it looks like she was still satisfied.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "リアの作品が独創的すぎて困ってたね～\nでも、\nどうやらこの子は満足してくれたみたいだよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Heh, thank goodness. ...I feel like that by playing together I'm gradually connecting to you even as we speak. So, what should we play next?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "良かった。\n一緒に遊んで、\n少しずつこの子と心が通じ合ってきた気がするわ。\nそれじゃあ次は\n何をして遊ぼうかしら。"
+    },
+    {
+      "name": "Ram",
+      "text": "Lady Emilia. Babysitting him is fine and all, but I think it's about time we got started on our original objective as well.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "エミリア様。\n子守もいいですが、\n本来の目的の方にもそろそろ着手した方が良いかと。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ah... That's right. Thank you, Ram. We need to make sure to find that white whale.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あっ……\nそうだったわ。\nありがとう、\nラム。\nシロクジラを探さなきゃ。"
+    },
+    {
+      "name": "？？？",
+      "text": "Just now... did you say \"white whale\"?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "いま、\nシロクジラと言いましたか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Huh? I indeed have...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "えっ？　\nそうだけど……"
+    },
+    {
+      "name": "Neneka",
+      "text": "A little... please tell me a little more about it. Exactly when did you hear about it, where did you see it and why you're looking for it, that is.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "少し、\n話を聞かせてもらえませんか。\nどこでその話を聞き、\n見つけて\n何をしようとしているのか。"
+    },
+    {
+      "name": "Ram",
+      "text": "Rem, be on your guard.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "レム、\n用心して。"
+    },
+    {
+      "name": "Rem",
+      "text": "Y-Yes...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "は、\nはい……！"
+    },
+    {
+      "name": "Neneka",
+      "text": "Oh my, you're giving me a very menacing look. I thought this was the first time we've met.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "おや、\n随分と剣呑とした目を向けますね。\n私と貴方は初対面だと思いましたが。"
+    },
+    {
+      "name": "Ram",
+      "text": "You suddenly approached us from nowhere... That's suspicious. I wonder what you're after.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "急に近付いてきて……\nうさんくさいわ。\n何が目的かしら。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ram! Don't just go badmouthing someone we just met an-...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ラム！　\n初めて会う人をいきなり悪く言っちゃ──"
+    },
+    {
+      "name": "Neneka",
+      "text": "I see. So by just relying on a hunch you determined I was evil. It seems you're more than just a mere maid.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "なるほど。\n直感で私を悪しと判断したわけですか。\nどうやらただのメイドではなさそうです。"
+    },
+    {
+      "name": "Neneka",
+      "text": "However, I do believe I also have a good eye for people. You guys are... I see. I have no choice but to make a judgment that you are mysterious.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ただ\nこちらとしても\n人を見る目はあるつもりです。\n貴方がたは……\nそう。\n得体が知れない、\nといった判断を下さざるを得ませんね。"
+    },
+    {
+      "name": "Ram Neneka",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ラム・ネネカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ram Neneka",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ラム・ネネカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Emilia",
+      "text": "By chance, are you also one of this boy's Mamas?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "もしかしてあなたも\nこの子のママなの？"
+    },
+    {
+      "name": "Neneka",
+      "text": "I'm not his Mama.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ママではありません。"
+    },
+    {
+      "name": "Rem",
+      "text": "However, he seems to be quite fond of you...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ですが、\n随分懐かれていらっしゃいます……"
+    },
+    {
+      "name": "Neneka",
+      "text": "I said I'm not his Mama. ...Hah. I've been glancing at you out of the corner of my eye, but you... you've lost your memories again, huh.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ママではありません。\n……\nはぁ。\nチラチラと視界の隅に入ってはいましたが、\n貴方という人は……\nまた記憶を失っていますね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "And since you're looking for a white whale... now I understand. Pecorine... You people are the Gourmets friends, am I right?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "そしてシロクジラを探している……\nそういうことですか。\nペコリーヌ……\n【美食殿】の方々の仲間、\nというわけですね。"
+    },
+    {
+      "name": "Puck",
+      "text": "Seems like things resolved themselves then.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "自己解決しちゃったみたい。"
+    },
+    {
+      "name": "Rem",
+      "text": "That girl seems like a wise person, Sister.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "聡明なお方のようですね、\n姉様。"
+    },
+    {
+      "name": "Ram",
+      "text": "That's right. But nowhere as good as Ram, tough.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そうね。\nラムには及ばないでしょうけど。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Not that it really matters, but you all... If you're in charge of him now, please give him a proper education.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "どうでもいいですが、\n貴方がた。\n預かっているのなら、\n彼にちゃんと学びを与えてください。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Just because his memories have been stolen, that doesn't mean you can leave him in such a state until they return. ...Please watch.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "記憶を奪われたからといって、\n戻るまでそのままにしておくというのは\nいただけません。\n……\n見ていてください。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Please go ahead and repeat this: Neneka.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "どうぞ、\n復唱してください。\nネネカ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Yes, the way you open your mouth is not wrong. Now, let us do it slowly, one by one. Ne-Ne-Ka... repeat.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ええ、\n口の開き方は間違っていません。\nでは、\n今度は一つずつ区切って、\nゆっくりと。\nネ\nネ\nカ、\nです。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ah... He was able to say it properly as asked...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ……\nちゃんと呼べたわ……！"
+    },
+    {
+      "name": "Neneka",
+      "text": "Just like this. If you bother to teach him properly, he will remember things. It's a good idea to build a way to communicate with him.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "こういった具合に。\nしっかりと教えれば、\nちゃんと覚えてくれます。\n意思疎通程度はできるようにしておくといいでしょう。"
+    },
+    {
+      "name": "Ram",
+      "text": "What a great Mama.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "立派なママだこと。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I'm not his Mama. Oh, and let me tell you another thing, since I'm already here.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ママではありません。\nああ、\nそれともう一つ\nお伝えしておきます。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I hear you're looking for the white whale, but if you focus too much on that...",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "シロクジラを探しているそうですが、\nそれだけに集中しすぎると──"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Only suffering awaits you.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "──痛い目を見ますよ。"
+    },
+    {
+      "name": "Rem",
+      "text": "That is... what do you mean...?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "それは、\nどういう……？"
+    },
+    {
+      "name": "Neneka",
+      "text": "I have no intention of getting too involved in this matter. I'll be off now, please excuse me.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "私はこの件に深入りするつもりはありませんので。\nお先に失礼しますね。"
+    },
+    {
+      "name": "Ram",
+      "text": "You can't just drop something that meaningful and expect we'd just let you run away...",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "意味深なことだけ言って逃げようたってそうは──"
+    },
+    {
+      "name": "Puck",
+      "text": "...It seems like there's a problem that needs to be taken care of before we can go after her and inquire further. Be on guard, Lia.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "……彼女を追うより\n先に片付けなきゃいけない問題が出てきたみたい。\nリア、\n警戒して。"
+    },
+    {
+      "name": "Small Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "小型の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Those things... they're the ones who attacked Subaru-kun...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "これは、\nスバルくんを襲った……！"
+    },
+    {
+      "name": "Ram",
+      "text": "Those are the small monsters controlled by the white whale. Be careful, Rem, don't let your memories be stolen.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "シロクジラの操る魔物ね。\n気をつけなさいレム、\n記憶を奪われないように。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ram, Rem. Please try not to get too close!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ラム、\nレム。\nなるべく近づかないようにね！"
+    },
+    {
+      "name": "Both",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "はい！"
+    },
+    {
+      "name": "Both",
+      "text": "Hura~! Huma~!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "「フーラ──！」\n「ヒューマ──！」"
+    },
+    {
+      "name": "Emilia",
+      "text": "I won't let a single one escape!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "一匹も逃がさないわ──！"
+    },
+    {
+      "name": "Rem",
+      "text": "...Was this one the last, I take it?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "──\nこれで終わり、\nでしょうか？"
+    },
+    {
+      "name": "Ram",
+      "text": "It's a hassle to have to keep an excessive distance. But if any of us gets hit, our memory will be taken away and we'll end up just like him, so it can't be helped...",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "過剰に距離を取らざるをえないのは面倒ね。\n当たると記憶を奪われてあの有様だから、\n仕方ないけれど。"
+    },
+    {
+      "name": "エミリア",
+      "text": "みんな、大丈夫よね？\nラム、\nレム、\nパック、\n{0}──",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "みんな、大丈夫よね？\nラム、\nレム、\nパック、\n{0}──"
+    },
+    {
+      "name": "エミリア",
+      "text": "……えっ？　\n{0}は？",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……えっ？　\n{0}は？"
+    },
+    {
+      "name": "Rem",
+      "text": "Umm, wasn't he right behind Sister during that battle...?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ええと、\n戦闘中、\n姉様の後ろにいませんでしたか……？"
+    },
+    {
+      "name": "Ram",
+      "text": "Really? I felt like he was closer to Lady Emilia.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そう？　\nエミリア様の近くにいた気がしたけれど。"
+    },
+    {
+      "name": "Puck",
+      "text": "He shouldn't have come our way tough...",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "こっちには来てないはずだけど……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Did we just... lose him?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "もしかして……\n迷子？"
+    },
+    {
+      "name": "ナレーション",
+      "text": "様々な出会いを経て、母性を学んでいたエミリアたち。\n異世界の出会いを重ねる中、\n突如として{0}が姿を消してしまうのであった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "様々な出会いを経て、母性を学んでいたエミリアたち。\n異世界の出会いを重ねる中、\n突如として{0}が姿を消してしまうのであった。"
+    }
+  ]
+}

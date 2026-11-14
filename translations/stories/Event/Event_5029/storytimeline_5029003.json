@@ -1,0 +1,512 @@
+{
+  "title": "Attack on Santa",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "It's the holiday season, and the townscape is painted pure white in snow.\nChristina, Illya, and Nozomi continue\nspreading cheer (?) throughout Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "町並みが純白に染まるクリスマス。\nクリスティーナ、イリヤ、ノゾミの活躍（？）は、\nランドソル中に広まりつつあった。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmmm... I wanna play a huge prank.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "う～ん、\nでっかいイタズラしたいな～"
+    },
+    {
+      "name": "Misogi",
+      "text": "I'm already bored of pitfall traps and trick boxes.\nMister {0} always falls for my tricks,\nbut it's the holidays, so I wanna to do something fancy.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "でも落とし穴もビックリ箱も飽きちゃったし、\nにいちゃんは何でも引っかかってくれるけど、\nせっかくのクリスマスだから、\nもっと派手なのがいいな～"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? Something just fell from the sky.\nWhat the heck is it...? It's round and black. Could it be... a bomb?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ん～？　\n空から何か落っこちてきた？\n何だろ～\nこれ……\n黒くて丸くて、\nもしかして……\n爆弾？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Wow! Awesome!I've never seen one so big!\nWoohoo! Even Mister {0} will be surprised by this!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "すごい！　\nすごいよ！　\nこんなに大きいの初めて見た！\nやったぁ！　\nこれならにいちゃんもビックリしてくれるよね！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "*sigh*... The holidays are almost over...\nI'll have to put away the holiday tree and all its decorations...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "はぁ……\nもうすぐクリスマスが終わっちゃう……\n飾り付けたクリスマスツリーも片付けちゃうんだ……"
+    },
+    {
+      "name": "Kurumi",
+      "text": "It's a little sad...\nIf only we could have a huge tree outside, we'd always be able to enjoy it.",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "何だかちょっと寂しいなぁ……\n外に、\nおっきなツリーがあったら\nずっと楽しめるのにぃ……"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Huh?! Whaaaat?!\nThere's a massive tree growing outside...\nAnd it's twisting around...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "ふえっ！？　\nふえぇぇぇっ！？\n外に、\nおっきな木が、生えて……\nグネグネ動いてるぅ……！？"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Is it really a tree? It's moving... I'm scared!\nWhat is it? What should I do?\nWaaah! Mama Saren!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "これってツリー？　\nでも、\n動いてるし……\n怖いぃ……！\n何これぇ？　\nどうしたらいいんだろ、\nえーん、\nママ・サレーン！"
+    },
+    {
+      "name": "Boy",
+      "text": "What did you ask Santa for?",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "サンタさんに何をお願いした？"
+    },
+    {
+      "name": "Girl",
+      "text": "I wished to travel! How about you?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "私はね、\n旅行かな！　\nお兄ちゃんは？"
+    },
+    {
+      "name": "Boy",
+      "text": "I asked for a huuuge airship!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "僕は\nでっかい飛空艇！"
+    },
+    {
+      "name": "Girl",
+      "text": "Ah! Then we can go traveling on the airship!\nHehe. I hope Santa pays us a visit!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あ！　\nじゃあ、その飛空艇で\n旅行に行こうよ！\nふふっ、\nサンタさん\n来てくれるといいね！"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うんっ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey, have you heard, Kaori?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おい、\n聞いたかよカオリ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "What's that? *munch, munch*",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "何さ～？　\nもぐもぐ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "They say that all over Landosol, strange things have been happening.\nLike weird things falling from the sky, or something.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ランドソルのそこかしこで、\n変なことが起きてんだってよ。\n何か変なもんが空から落ちてくるとかなんとか。"
+    },
+    {
+      "name": "Kaori",
+      "text": "From the sky?\nAh! Do you think it's Santa Claus?\n*munch, munch* *munch, munch*",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "空から～？\nあ！　\nもしかして\nサンタさんじゃないさ～？\nもぐもぐ。\nもぐもぐ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh yeah, it's that time of the season today.\nBy the way, what have you been munching on all this time? We're on patrol, you know.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ、\n今日はクリスマスだもんなぁ。\nってか、\nおまえさっきから何食べてんだよ？　\n見回り中だぞ？"
+    },
+    {
+      "name": "Kaori",
+      "text": "This? It fell from the sky earlier!\nRight when I was feeling hungry. Perfect timing. ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "これ～？　\nさっき空から落っこちて来たんさ～！\nお腹空いてたから\nちょうどよかったよ～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "From the sky... For real?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "空から……\nマジかよ。"
+    },
+    {
+      "name": "Akino",
+      "text": "You over there, people of Caon!\nMight I ask a favor?!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "そこの【自警団（カォン）】の方々！\nちょっとよろしいですの！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "What is it?! What's wrong?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "何だ、\nどうした！？"
+    },
+    {
+      "name": "Akino",
+      "text": "Larceny! There are thieves in this town!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "窃盗ですわ！　\n泥棒ですわよ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Oh no, that's crazy! *munch, munch!*\nWhat was stolen? *gulp!*",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "それは大変さ～っ！　\nもぐもぐ！\n何を\n盗られたのーっ？　\nごっくん！"
+    },
+    {
+      "name": "Akino",
+      "text": "An airship!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "飛空艇\nですわ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……は？"
+    },
+    {
+      "name": "Akino",
+      "text": "During a test flight of the airship I recently purchased,\nI was assailed by thieves...!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "新しく購入した飛空艇の試験飛行をしていたら、\n賊に襲われて……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Airships... can be stolen...?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "飛空艇って……\n盗めるもんなのか……？"
+    },
+    {
+      "name": "Akino",
+      "text": "Somehow some reindeer got onboard, and it was all over so quickly!\nAnyway, I want you to retrieve it for me!\nThere's no doubt that the criminal who orchestrated the hijacking was...",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "何やらトナカイが乗ってきて\nあっという間でしたわ！\nとにかく、\n取り返してくださいまし！\nトナカイを指揮していた犯人は間違いなく──"
+    },
+    {
+      "name": "Akino",
+      "text": "Santa Claus!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "サンタクロースでしたわ！"
+    },
+    {
+      "name": "Makoto & Kaori",
+      "text": "...Santa Claus?",
+      "choice_data_list": [],
+      "orig_name": "マコト・カオリ",
+      "orig_text": "……サンタクロース？"
+    },
+    {
+      "name": "Christina",
+      "text": "Hahaha.\nAll fine, smooth, and dandy. I'm starting to think\nthat I was Santa Claus all along... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あはは☆\n順調、\n快調、\n好調すぎて\n初めから自分がサンタクロース\nだったんじゃないかと思えてくる……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "It certainly has been an entertaining trial!\nThe joyous countenances of the townsfolk are not an unpleasant sight.\nThe qualities of a ruler residing in me are quite frightening... ♪",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "やってみると楽しいものじゃのう！\n民草どもの喜びの顔も悪くないわ。\n自身に宿る支配者の資質が\n怖いくらいじゃ……♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ummm... Is this really all right...?\nWe [i]are[/i] giving people the things they want, but...",
+      "choice_data_list": [
+        "Santa Claus is fun.",
+        "Santa Claus is scary."
+      ],
+      "orig_name": "ノゾミ",
+      "orig_text": "えっと……\n本当にこれでいいのかな……？\n欲しがってるものをあげてはいるんだけど……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...I see.\nWell, if you're having fun... then I guess it's no problem, right?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……そ、\nそっか。\n{0}くんが楽しいなら……\nこれでいいのかも？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Wait. You have amnesia, don't you?\nYou don't really know how Santa Claus is supposed to act...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あれ？　\nでも{0}くんって記憶喪失だったよね？\nサンタクロースのこと、\nよく知らないんじゃ……"
+    },
+    {
+      "name": "Illya",
+      "text": "Yes. With the amount of joy that I have dispensed,\nharboring fear is a given.\nAfter all, fear and joy are but two sides of the same coin.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ。\n配った喜びの数だけ、\n恐れを抱くのも無理はなかろう。\n喜びと恐怖は\n表裏一体じゃからな。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I don't think it's that complicated...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そんな難しいお話ではないと思うんですけど……"
+    },
+    {
+      "name": "Christina",
+      "text": "We're simply not smiling brightly enough.\nAll we need is to conduct business while laughing at the top of our lungs!\nAhahahahah! ☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "笑顔が足りないのさ。\nもっと高らかに\n笑いながらいこうではないか！\nあはははは……☆"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I don't think it's that simple either...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そんな簡単なお話でもないと思うんですけど……"
+    },
+    {
+      "name": "Christina",
+      "text": "At any rate, just look at the masses dancing with delight.\nIt's a absolute given that I will become Santa... ☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "何にせよ、\nこれだけ人を狂喜乱舞させたのだ。\nワタシがサンタになるのは間違いない……☆"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Illya",
+      "text": "What are you blathering about, Christina?\nDid you not hear all the jubilant screams from the recipients of my gifts?\nSuch joy is proof that [i]I[/i] have what it takes to be Santa.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "何を言うておるクリスティーナ。\nわらわのプレゼントを受け取った者たちの悲鳴を聞いたじゃろ？\nあの喜びよう、\nわらわにサンタの才があるからに違いあるまい。"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I-if those two become Santa Claus,\nLandosol is in for a really bad time!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あ、\nあの二人をサンタクロースにしちゃったら、\nランドソルが大変なことになっちゃう気がする……！"
+    },
+    {
+      "name": "Akino",
+      "text": "Aha! Found you!\nThose gaudy costumes—you're definitely the hijackers!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あ、\n見つけましたわよ！\nあの派手な衣装、\nさっきの賊ですわ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "It really is Santa Claus!\nThanks for the goya veggies earlier!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "ほんとにサンタクロースさー！？\nさっきはゴーヤーっぽいものありがとうねー！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Now's not the time for thanks!\nHey, you four over there! I need a word!\nHuh? Haven't I seen those guys before...?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お礼言ってる場合か！\nおいそこのおまえら！　\n話を聞かせてもらおうか！\nん？　\nあいつら、\nどっかで見たような……？"
+    },
+    {
+      "name": "Christina",
+      "text": "Uh-oh, this is bad. ☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おっとこれはまずい☆"
+    },
+    {
+      "name": "Illya",
+      "text": "Tch. They've found us!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ちっ、\n見つかってしもうたか！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Hey, you two!\nDon't you think your reactions make you seem like criminals?!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "二人とも、\n反応が犯罪者みたいじゃありませんっ……！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Reindeer, engage!\nBuy us some time... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ゆけいトナカイ！\n時間を稼ぐのだ……♪"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "Broogh?\n(Us?!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "ブオッ？\n（俺たちが！？）"
+    },
+    {
+      "name": "Illya",
+      "text": "We're depending on you, reindeer!\nFight unto death!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "頼んだぞ\nトナカイよ！\n殿を死守せよ！"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "Brooogh?!\n(You're kidding?!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "ブオォォッ！？\n（嘘でしょっ！？）"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I'm so sorry, Mr. Reindeer!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ごめんね、\nトナカイさんっ！"
+    },
+    {
+      "name": "Elite Reindeer 3",
+      "text": "...Brooooough!\n(...This is it!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ３",
+      "orig_text": "ッ……\nブオオオオオオ！\n（っ……あぁもうヤケだ！）"
+    },
+    {
+      "name": "Makoto",
+      "text": "What the—?! Reindeer?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "何だこいつら！？\nトナカイ！？"
+    },
+    {
+      "name": "Kaori",
+      "text": "If you insist on getting in the way,\nI'll just have to teach you to be a little more obedient!\nHyaaa! ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "邪魔をするなら\nちょっぴり大人しくしてもらうさ～！\nてぇ～い♪"
+    },
+    {
+      "name": "Elite Reindeer 3",
+      "text": "Broough!\n(Wha—?!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ３",
+      "orig_text": "ブオッ！\n（なんのっ！）"
+    },
+    {
+      "name": "Kaori",
+      "text": "It blocked my attack?!\nNice antler work!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "受け止められたさ～！？\n見事な角捌きだね～！"
+    },
+    {
+      "name": "Akino",
+      "text": "Ah! The bandits are getting away!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あ、\n賊が逃げてしまいますわっ……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "What's up with these reindeer?!\nThey're far too strong...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ちっ、\nこのトナカイ何なんだよ！？\n強すぎだろ……！？"
+    },
+    {
+      "name": "Akino",
+      "text": "Santa Claus, hold it right there!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "サンタクロース、\nお待ちなさーいっ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Who in their right mind would stop mid-flight because they were told to?\nNot Santa, that's for certain... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "待てと言われて待つサンタなどいない……っ♪"
+    },
+    {
+      "name": "Illya",
+      "text": "If it is presents you desire, then you can wait patiently at home\nlike everybody else!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "プレゼントが欲しくば、\n家の中で震えて待つがよい！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We're honestly trying to become Santa, aren't we?\nBecause I'm not so sure anymore!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "私たち、\n本当にサンタクロースを目指してるんだよねっ？\n自信がなくなってきた～っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "The band of Santas running around Landosol\nwere greeted by an endless stream of happy (?) voices\nwherever they went.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソルを駆けまわるサンタクロースたち。\nその行く先々では、喜び（？）の声が絶えないのであった。"
+    },
+    {
+      "name": "Elite Reindeer 3",
+      "text": "Br-brooough.\n(Ow, ouch...)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ３",
+      "orig_text": "ブオ、\nブオ。\n（いてて……）"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "Brrrroooough!\n(Why are we forced to fight?!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "ブーオー！\n（何で俺たちが戦わされるんだよー！）"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "Broough, broough, broooooough!\n(This [i]definitely[/i] isn't a reindeer's job!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "ブォ、\nブオ、\nブオオッオオ。\n（こんなのトナカイの仕事じゃなーい！）"
+    }
+  ]
+}

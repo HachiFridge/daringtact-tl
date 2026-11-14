@@ -1,0 +1,888 @@
+{
+  "title": "Rem Episode 4",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, in the early afternoon...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──それは、ある日の昼下がり。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "By the way, Rem, what do you usually do in your free time?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ところで、\nレムさんって普段は何してらっしゃるんですか？"
+    },
+    {
+      "name": "Rem",
+      "text": "In my free time?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "普段、\nですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes, exactly!\nLately, you've been keeping our guildhouse\nas spick-and-span as spick-and-span can be, right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ですです。\nほら、\nこうして【美食殿】のギルドハウスを\n綺麗に掃除してくださってることも多いじゃないですか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We really appreciate it,\nbut we also feel kind of bad making you do all that work...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "とってもありがたい反面、\nなんだかお仕事させてしまっているな～\nって。"
+    },
+    {
+      "name": "Rem",
+      "text": "Oh, please don't worry about that.\nI do it because I like to.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そんな風に思われないでください。\nこれはレムが好きでしていることですから。"
+    },
+    {
+      "name": "Rem",
+      "text": "All the cleaning and cooking at the Orphanage,\nand cleaning this guildhouse too. It's what I enjoy doing.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "救護院での掃除や洗濯、\n食事の準備、\nこのギルドハウスの清掃も、\nレムのやりたいことです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, I see, I see~!\nEven still, though, we can't let you do all this for nothing.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "なるほどなるほど～\nとはいえ、\n甘えっぱなしなのも問題ですよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hmm... If only we had some way\nto repay you or take your mind off things...",
+      "choice_data_list": [
+        "She could do Gourmet Guild stuff with us?"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う～ん、\n何か恩返しとか、\n気分転換になる、\nいい案はありませんかね～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ooh! That's a nice idea! I like it!\nIt'll be tons of fun!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おお、\nそれいいですね、\n名案です！\n最高じゃないですか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hey Rem, hey Rem,\nhow do you feel about delicious delicacies~?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "レムさん、\n美味しいもの、\nご興味ありませんか～？"
+    },
+    {
+      "name": "Rem",
+      "text": "Delicious food?\nI suppose I like it as much as anyone...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "美味しいものですか？\nもちろん、\n嫌いではありませんが……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Our mission in the Gourmet Guild\nis to feast on all the wonderful flavors the world has to offer!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたち【美食殿】の活動は、\nこの世の美味しいものを美味しく食べ尽くすことなんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Why don't you come along for a change?\nI was actually just about to go and get some ingredients!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "よければ、\n一緒に活動してみませんか？\n実はこのあと、\n食材集めにいくところなんですよ～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "How crazy is that? Doesn't it make your heart dance?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やばいですね、\n胸がトキメキますね！"
+    },
+    {
+      "name": "Rem",
+      "text": "Oh, I see. Gathering ingredients...\nAre you sure I wouldn't be in the way if I went along?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "なるほど、\n食材集めですか……\nレムがご一緒しても、\nお邪魔ではありませんか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Not a chance in the world!\nActually, good food's always tastier the more people you share it with!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そんなことありませんよ～\nむしろ、\n美味しいものは大勢で食べた方が美味しいですから☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You're with me on that, right, {0}?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くんも、\nそう思いますよね！"
+    },
+    {
+      "name": "Rem",
+      "text": "Even Master {0}...?\nVery well, then. I will take you up on your offer.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "{0}様も……\nわかりました。\nでは、\nご厚意に甘えます。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Excellent!\nWell then, let's us get going, shall we~?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やりました！\nじゃあ、さっそく、\n食材集めに向かいましょ～！"
+    },
+    {
+      "name": "Rem",
+      "text": "So, ah...\nI was happy to come along with you, but...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "それで、\n喜んでついてきたはいいのですが……"
+    },
+    {
+      "name": "Rem",
+      "text": "Um, Miss Pecorine? Why are we out here in the mountains?\nWeren't we going to buy ingredients?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "あの、\nペコリーヌ様？\n何故、\n山の中なんです？　\n繁華街で買い物なのでは？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, but that's where you're wrong, my dear Rem!\nOur target today is a legendary fruit that grows on this mountain!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それがですね、\n違うんですよ、\nレムさん！\nわたしたちは今日、\nこの山の伝説の果物狙いなんです！"
+    },
+    {
+      "name": "Rem",
+      "text": "L-legendary, you say?!\nThat sounds like a very ambitious objective indeed.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "で、\n伝説ですか……！\nそれはとても\n大きな獲物を狙ってきたんですね。"
+    },
+    {
+      "name": "Rem",
+      "text": "I must apologize for agreeing to come along on this trip so lightly.\nI am a failure as a Gourmet Guild member...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そうとも知らず、\nレムは\nかなり気軽な気持ちできてしまいました。\nこれでは\n【美食殿】失格なのでは……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, no, it's totally fine!\nAll people are equal in the face of delicious food!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえいえ、\n大丈夫ですよ☆\n美味しいご飯の前では\n人はみんな平等ですから！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "In fact, I'd never heard of this legendary fruit before, either.\nBut {0} heard some rumors about it\nfrom a group of adventurers in the city!",
+      "choice_data_list": [
+        "They say the taste sends you straight to heaven.",
+        "They say it sells for an unbelievable price."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "実は、\nわたしも伝説の果物は\n初耳だったんです。\nでも、\n街で{0}くんが\n冒険者の皆さんが噂してるのを聞いたらしいんですよ～"
+    },
+    {
+      "name": "Rem",
+      "text": "Well, that does sound enticing!\nI would love to have the chance to taste it!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "それはすごいお話ですね……！\n確かに、\n一度味わってみたいです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Sell it?! As if we'd consider that!\nOur mission is to find it and taste it for ourselves!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "売るなんてとんでもありませんよ！\nわたしたちで見つけて、\n美味しくいただきましょう！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm planning to use the legend\nas an ingredient in the most amazing dessert!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "その伝説の果物を使って、\n美味しい美味しいスイーツを作りたいんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What if it really sends us to heaven? That would be crazy!\nBut doesn't it sound super exciting, too?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ほっぺたが落ちたらどうしましょう、\nやばいですね。\nでも、\nわくわくしてこないですか？"
+    },
+    {
+      "name": "Rem",
+      "text": "Um... To be honest, my heart's starting to race a little!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "……ええと、\n正直、\nわくわくしてきました。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Right?!\nExcitement and sustenance all in one!\nThat's why I love our Gourmet Guild! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ですよね！\nわくわくして、\nお腹も満たせる！\nわたし、\n【美食殿】が大好きです♪"
+    },
+    {
+      "name": "Rem",
+      "text": "Hee hee... Very well, then.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "……ふふっ、\nわかりました。"
+    },
+    {
+      "name": "Rem",
+      "text": "For today, I too will be a fellow member of the Gourmet Guild.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "では、\nレムも今日は\nギルド\n【美食殿】の一員です。"
+    },
+    {
+      "name": "Rem",
+      "text": "Let us find this legendary fruit\nand sate our hunger for excitement and nutrition alike!",
+      "choice_data_list": [
+        "Legendary fruit, here we come!"
+      ],
+      "orig_name": "レム",
+      "orig_text": "その伝説の果物を見つけて、\nこのわくわくと\nお腹を満たしましょう！"
+    },
+    {
+      "name": "Rem & Pecorine",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "レム・ペコリーヌ",
+      "orig_text": "おーっ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Still, I must say these mountain trails are very uneven.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "それにしても、\n山の中ですから\n足下が悪いですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "True enough!\nWe'd all better be extra careful not to trip and fall.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですね～\n転んだりしないように\n気を付けないといけません。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If we get injured now,\nit'll spoil our ability to enjoy the feast ahead of us!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ケガなんてしちゃうと、\nせっかく美味しいものを見つけても\nガッカリですからね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, I'll be careful.\n...Hm? Where's Master {0}?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\n気を付けます。\n……\nあれ、\n{0}様は？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ummm... Huh~?\nI thought he was right next to us just now...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ととと、\nあれれ？\nさっきまで隣にいたはずなんですけどね～？"
+    },
+    {
+      "name": "Rem",
+      "text": "You don't think he might have slipped down one of these slopes...?",
+      "choice_data_list": [
+        "I found it!!!"
+      ],
+      "orig_name": "レム",
+      "orig_text": "まさか、\nうっかり\n滑り落ちてしまわれたのでは……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, I guess there was nothing to worry about.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "って、\n取り越し苦労だったみたいですね～"
+    },
+    {
+      "name": "Rem",
+      "text": "So it seems.\nI'm glad he wasn't hurt...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "みたいです。\nでも、\n無事でよかった……"
+    },
+    {
+      "name": "Rem & Pecorine",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "レム・ペコリーヌ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Rem & Pecorine",
+      "text": "Huh?! You found the fruit?!",
+      "choice_data_list": [],
+      "orig_name": "レム・ペコリーヌ",
+      "orig_text": "え！？　\n見つけた！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Amazing work, {0}!\nI knew we could count on you!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん、さすがです！\n見つけてくれるって信じてました！"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, I am impressed as well!\nSure enough, I see in {0}'s hand\na most unfamiliar-looking fruit...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\nレムも感服しました！\n確かに、\n{0}様の手に\n見慣れない果物のようなものが……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes, it looks... kind of like a tentacle?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "果物のような……\n触手っぽくないですか？"
+    },
+    {
+      "name": "Rem",
+      "text": "It does look very much like that.",
+      "choice_data_list": [
+        "What's up, you two?"
+      ],
+      "orig_name": "レム",
+      "orig_text": "触手っぽく、\n見えますね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That might turn out to be\na slightly awkward question to answer, but...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "どうかしたかと言われると、\nとても言いづらい感じなんですが～"
+    },
+    {
+      "name": "Rem",
+      "text": "Master {0}!\nThere's a monster behind you!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "{0}様！\n後ろに\n魔物の姿が！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ!"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wooooow!\nThat's a big ol' monster all right!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わひゃーっ！\nすんごいでっかい魔物ですね！"
+    },
+    {
+      "name": "Rem",
+      "text": "Master {0}, quickly, this way!\nThe two of us will protect you!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "{0}様、早く後ろに！\nここはレムとペコリーヌ様とで！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Rem!\nI'll charge at the monster,\nso can you time your attack to match?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "レムさん！\nわたしが突っ込みますから、\n合わせてガツンとお願いします！"
+    },
+    {
+      "name": "Rem",
+      "text": "You'll charge in ahead, I follow, and then we...?\nAll right, understood!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ペコリーヌ様が飛び込んで、\n合わせて、\nそれで……\nわかりました！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ!"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hup! Hahh! Yahh!\nWhoa-oa-oa... You're pretty strong for a monster...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "よっ！　\nやっ！　\nとうっ！\nととと、\nかなり手強いっぽいですが～！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But if you only look at me,\nyou won't see what's coming at you from behind!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしばかり注目していると、\n後ろからガツンとお見舞いされちゃいますよ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Hup! Haaaahhhhh...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "は、\nぁぁぁぁ──っ！！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ!"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And then I follow through with an attack of my own!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そして、\nわたしも合わせて一撃、\nです！"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Rem",
+      "text": "W-we managed to beat it!\nBut I can't believe the legendary fruit was really a monster...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "な、\n何とか倒せましたね。\nですが、\n伝説の果物ではなく\n魔物なんて。"
+    },
+    {
+      "name": "Rem",
+      "text": "I suppose legends aren't that easy to find in real life...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "やっぱり、\n伝説はそう簡単には手に入らないんでしょうか……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't let it get you down, Rem!\nA seeker of delicious food\nhas to be prepared to face a few disappointments!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "落ち込まないでください、\nレムさん！\n美食を追い求めていたら、\nこんな風に空振りすることだってありますよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Maybe we didn't find a legendary fruit.\nBut we still found ourselves a tasty ingredient for dinner!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "確かに伝説の果物は逃しました。\nでも、\n代わりに晩御飯の材料が手に入りましたからね☆"
+    },
+    {
+      "name": "Rem",
+      "text": "Hm? H-huh...?!\nA tasty ingredient? You mean this monster itself?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "え、\nえ？\n晩御飯の材料って、\nこの\n魔物のことですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes! Monsters can be tastier than you'd think!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい、\n魔物、\n結構いけるんですよ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Besides, what we kill, we should eat.\nLiving at the top of the food chain, I feel like that's our duty, in a way.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それに、\n奪った命はいただかないと。\nそれは他の生き物を食べて生きる、\nそういうわたしたちの\n義務かな～\nなんて。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Is that weird?",
+      "choice_data_list": [
+        "Not at all."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "変ですかね？"
+    },
+    {
+      "name": "Rem",
+      "text": "...No, it's not strange at all!\nIt's a wonderful philosophy. I'm moved by your passion!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "……\nはい、\nレムもそう思います。\nとても立派な考えかと。\nレムは感服しました！"
+    },
+    {
+      "name": "Rem",
+      "text": "Very well, then.\nPlease allow me to handle tonight's cooking.\nI promise I will prepare a true gourmet feast!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "わかりました。\nせめて、\n今晩の料理はレムにお任せください。\n必ずや、\nご満足いただける美食にしてみせます！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ooh~! Sounds crazy! I can't wait!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "お～、\nやばいです。\n楽しみですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well then, we can't keep Kokkoro and Karyl waiting.\nLet's head back to the guildhouse! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "じゃあ、\nコッコロちゃんとキャルちゃんも待っていますし、\nギルドハウスに戻りましょ～♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "You said you were after a legendary fruit,\nso I was expecting some kind of delicious dessert...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "伝説の果物を探しにいくって聞いて、\nてっきり美味しいスイーツが食べられると思ってたのに……"
+    },
+    {
+      "name": "Karyl",
+      "text": "So why the actual heck\ndid you bring back a great big monster instead?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんで、\nあんたたちは\n魔物担いで帰ってきたりするのよ～っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm super sorry, Karyl! I was hoping to satisfy your insatiable cravings\nwith a delicious bowl of heavenly sweetness, too...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ごめんなさい、キャルちゃん。\nわたしも、\n食いしん坊のキャルちゃんに\n美味しいスイーツを作ってあげたかったんですが……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Who're you calling insatiable?!\nAnd coming from the Glutton Queen herself!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "誰が食いしん坊か！\nあんたに言われたくないわよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "M-Miss Karyl, don't be like that. Let us just be thankful\nthat my lord, Miss Pecorine and Miss Rem returned safely...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キ、\nキャルさま、\nそう仰らずに。\n主さまやペコリーヌさま、\nレムさまも無事に帰ってきてくださったことですし……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, of course that's good, but...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それはもちろんそうだけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Calm down a little, Karyl!\nRem's cooking up a feast for us in the kitchen.\nI'm sure it's going to taste amazing!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "落ち着いてください、キャルちゃん。\n今、レムさんが厨房で料理の真っ最中です。\nきっと美味しい料理が出てきますってば～"
+    },
+    {
+      "name": "Karyl",
+      "text": "Urgh... Lately, thanks to all of your influence,\nI'm almost getting used to eating monsters, and that scares me...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うう……\n最近、\nついついあんたたちに染まって、\n魔物を食べる抵抗がなくなってきてる自分が怖いわ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "What? \\\"Spoken like a true Gourmet Guild member\\\"?\nOh, shut up!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なに？\nさすが【美食殿】の一員だね？　\nうるさいわね！"
+    },
+    {
+      "name": "Rem",
+      "text": "Thank you for your patience!\nEveryone, the meal is fully prepared,\nso please come in and take your seats!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "お待たせしました！\n皆様、\n料理の準備が整いましたので、\nお席の方によろしくお願いします！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ooh, it's the moment of truth!\nWhat kind of food will it be? My heart's all aflutter!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おっと、\n運命の瞬間ですね～\nどんな料理が出てくるのか、\n胸がドキドキします！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Rem's monster cuisine... I must take notes myself.\nMy lord, please take a seat beside me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "レムさまの魔物料理、\n勉強させていただかなくては。\n主さま、\nどうぞ\nわたくしのお隣の席へ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Time to face the music, I guess...\nGotta be prepared for the worst kind of horrors...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "年貢の納め時ってわけね……\nどんなゲテモノが出てきても\n耐えなくちゃ……"
+    },
+    {
+      "name": "Rem",
+      "text": "My apologies once more for the extended wait.\nWell then, I will begin by serving today's appetizers.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "大変お待たせしてしまい、\n申し訳ありませんでした。\nではさっそく、\n前菜の方から\n並べさせていただきますね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "N-no matter what it looks like...\nWait, huh? This food looks... pretty normal!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ど、\nどんな料理がきたとしても……\nって、\nあれ？　\n見た目、全然まともじゃない？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Rather than normal,\nI would say it appears positively delectable.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "まともどころか、\n香り高くて、\n見た目も素晴らしい出来です。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huhhh?! This is too amazing!\nI don't think I've ever seen a monster dish that looks like this!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ええ～、\nすごいじゃないですか！\nわたし、\nこんなちゃんとした魔物料理\n初めてかもです！"
+    },
+    {
+      "name": "Karyl",
+      "text": "H-hold your horses!\nWe can't make any judgments till we taste it!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ま、\n待ちなさいっての！\nまだ食べてみるまでわかんないじゃないっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's right... The moment when hope turns to despair\nis always the most painful of all...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そうよ、\n希望が絶望に転じる瞬間、\nそれが一番人を傷つけるのよ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Karyl, what could have driven you to such insights...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\nいったい何がキャルさまをそこまで……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Gahhh... Fine, I'll eat it!\nIt's do or die!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ええい、\n食べてみるわよっ！\nいざ、\n実食！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Mmph! *munch munch*...\nUh-huh... Yeah... Hmm... *munch munch*...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぱくっ！　\nもぐもぐ……\nうん、\nうんうん……\nふむ、\nもぐもぐ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "H-how is the food, Miss Karyl?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ど、\nどうでしょうか、\nキャルさま。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Karyl? Is it all right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃん、\nどうですか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Rem, this food...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "レム、\nあんた……"
+    },
+    {
+      "name": "Rem",
+      "text": "Y-yes, Miss Karyl?\nWas the meal not to your liking? If so, I...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "は、\nはい、\nキャル様。\nお口に\n合いませんでしたか？　\nでしたら……"
+    },
+    {
+      "name": "Karyl",
+      "text": "This food... How could you make it so delicious?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんた、\nすごく美味しいじゃないのよぉぉぉ……！"
+    },
+    {
+      "name": "Rem",
+      "text": "Wahh?!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "きゃっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I mean, it's monster meat, right?!\nAnd yet the appearance, the taste, it's all perfect!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔物よ？　\n魔物なのよ？\nなのに、\n見た目も味も美味しいとか、\nすごいじゃない！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh my. Resounding acclaim from Miss Karyl!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なんと、\nキャルさま絶賛です。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Mmmm~!\nIt's true, this is super good! How crazy is that?! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ん～っ！\n本当、\nすっごい美味しいです、\nやばいですね♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No wonder it satisfied even our Karyl's insatiable cravings! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "これは、\n食いしん坊のキャルちゃんも\n納得の美食ですね♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Sure, I'm insatiable!\nI don't care what you call me right now!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "食いしん坊でいい！\n食いしん坊扱いでもいいから！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ohhh, Rem...\nYou should stay in this world forever!\nThen you can join the Gourmet Guild for good!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "もう、\nレム……\nあんた、ずっとこっちにいなさいよ！\nそれで、\n【美食殿】のご飯を作ってなさいよ～！"
+    },
+    {
+      "name": "Rem",
+      "text": "Miss Karyl...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "キャル様……"
+    },
+    {
+      "name": "Rem",
+      "text": "I am most humbled by your praise.\nAs a maid, nothing could make me happier!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そう言っていただけて\n嬉しいです。\nまさしく、\nメイド冥利に尽きます。"
+    },
+    {
+      "name": "Rem",
+      "text": "And yet, the fact remains that I must return home.\nUntil I do, I will strive to satisfy you as best I can.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ですが、\nレムもいずれは帰らなくてはならない身。\nそれまでの間、\nできるだけお付き合いしますから。"
+    },
+    {
+      "name": "Rem",
+      "text": "So please, try to make do with that.\n...But I truly am delighted by your offer.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ですから、\nそれでお許しください。\n……誘っていただけて、\n嬉しかったです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Urghhh...\nWhy do you have to be such a good girl?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うう～\nなんであんたそんないい子なのよ～っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I knew it was a good idea inviting Rem to our guild!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やっぱり、\nレムさんを【美食殿】に誘って正解でしたね☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, this is most delicious.\nMiss Rem, you will have to show me how you made it in detail.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\n大変美味しいです。\nレムさま、\n今度、\n作り方を教えてくださいね。"
+    },
+    {
+      "name": "Rem",
+      "text": "But of course!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "もちろんです！"
+    },
+    {
+      "name": "Rem",
+      "text": "Master {0}, how are you finding it?\nI hope it's to your tastes.",
+      "choice_data_list": [
+        "It's sending me straight to heaven."
+      ],
+      "orig_name": "レム",
+      "orig_text": "{0}様も、\nお味はどうでしょうか？　\nお口に\n合いましたか？"
+    },
+    {
+      "name": "Rem",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "──！"
+    },
+    {
+      "name": "Rem",
+      "text": "Well, thank you, from the bottom of my heart!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "それはそれは、\nありがとうございます♪"
+    },
+    {
+      "name": "Rem",
+      "text": "I look forward to spending a little longer\nas a member of the Gourmet Guild! ♪",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "今後もしばらく、\n【美食殿】の皆様、\nよろしくお願いいたします♪"
+    }
+  ]
+}

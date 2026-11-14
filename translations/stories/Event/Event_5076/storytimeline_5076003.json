@@ -1,0 +1,663 @@
+{
+  "title": "Great Resonance of the Waves",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The bustling streets of Landosol, with the Halloween Festival just around the corner. The preparations for the festival are also progressing, and the scent of sweets fills the city.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ハロウィンフェスティバルが目前に迫ったランドソルの繁華街。\n祭りの準備も進み、スイーツの匂いが街を包んでいた。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Ah~ Cotton Candy-chan I'm waiting for you~!\nI'll give you sweets, so won't you come to everyone's place~?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "あは～、\nわたあめちゃん待つさ～！\nスイーツあげるから、\nみんなのところに来ない～？"
+    },
+    {
+      "name": "Cotton candy-chan",
+      "text": "Woof woof!",
+      "choice_data_list": [],
+      "orig_name": "わたあめちゃん",
+      "orig_text": "わんわんっ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "The number of Cotton Candy-chan's are increasing day by day... They are coming more and more from the spirit world, lured by the sweet smell. This is endless.",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "わたあめちゃんの数が\n日に日に増えていマスね……\n甘い匂いに誘われて、\n霊界から\nどんどん来ているんでショウ。\nこれでは、\nキリがありまセン。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "For now, we've managed to catch them somehow, but if they increase more, won't it be quite tough? \n",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "今んとこは、\nなんとか捕まえられてるけど、\nもっと増えてったら、\nけっこーしんどくね？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "If there are any more of them, even we won't be able to catch them all... and then, we'll end up eating all the sweets before the Halloween Festival, you know!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "これ以上増えたら、\nうちらでも捕まえきれないしー\nそしたら、\nハロウィンフェスまでにスイーツ全部食べられちゃうじゃん！"
+    },
+    {
+      "name": "Kaori",
+      "text": "That's right~\nI hope the professor's research progresses quickly...",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "そうだね～\n早く博士の研究が\n進むといいんだけど……"
+    },
+    {
+      "name": "？？？",
+      "text": "Hey, {0}! Long time no see, huh?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おい、\n{0}！　\n久しぶりだなー！"
+    },
+    {
+      "name": "Kaori",
+      "text": "A newbie monster appeared, huh~!?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "新手の妖魔が出たさ～！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "My aim is to be like the Shogun!\nI Ninon, will definitely counterattack and show them!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "狙いはショーグンのようデス！\nこのニノンが、\n必ずや返り討ちにしてみせまショウ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "It's better to catch more than just Cotton Candy-chan, you know! Everyone, let's go~!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "わたあめちゃん以外も捕まえたほうがいいもんね！\nみんな、\nいっくよ～！"
+    },
+    {
+      "name": "？？？",
+      "text": "Wait, wait a minute! Calm down, will you?\n{0}, say something too, please!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ちょ、\nちょっと待て！　\n落ち着けって！\n{0}もなんか言ってくれよ！"
+    },
+    {
+      "name": "？？？",
+      "text": "It's me, it's me! \nThere's no way you forgot, right?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "オイラだよ、\nオイラ！\nまさか\n忘れたなんて言わないよな？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Trying to approach someone by pretending to be an acquaintance, what a villainous tactic!\nI'll capture you right here!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "知り合いをかたって近づこうとするなんて、\n悪党の手口デスね！\nここで\nお縄にしてやるデス！"
+    },
+    {
+      "name": "？？？",
+      "text": "Hey, enough with the bad jokes!\nI'll be defeated by these guys for sure!\nIt's Jack! It's quite something to forget a face like mine!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おい、\n悪い冗談はよせって！　\nこいつらに倒されちゃうだろ！\nジャックだよ！　\nこの顔を忘れるなんて相当だぞ！"
+    },
+    {
+      "name": "Jack",
+      "text": "I'm so glad! You remembered! \nIt's been a while, so I was a little worried!",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "よかったー！　\n覚えててくれたか！\n久しぶりだから、\nちょっと不安だったぞ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hidesai, you know this person?\nYour circle of friends is wide, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ヒデサイ、\nこのよーまと知り合いだったんだ？\n友達の輪、\n広くね？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Ahaha, you've got such a Halloween-like face!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "あは～、\nなんかハロウィンそのものって感じの顔してるさ～！"
+    },
+    {
+      "name": "Jack",
+      "text": "I am Jack! The spirit of Halloween, yo!\n{0} and I are acquainted, ya know...\nNice to meet you again!",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "オイラは、\nジャック！　\nハロウィンの精霊さ！\n{0}とは、\nちょっとした知り合いでさ……\n改めて\nよろしくな！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Nice to meet you too~! \nWe are the Halloween Savers~!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "こちらこそよろしくさ～！\n私たちは、\nハロウィンセイバーズだよ～！"
+    },
+    {
+      "name": "Kaori",
+      "text": "So, you're saying you're a Halloween spirit... Jack, did you come to the real world to have some fun~?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "ハロウィンの精霊ってことは……\nジャックは現実界に遊びに来たの～？"
+    },
+    {
+      "name": "Jack",
+      "text": "Normally, that would be the case, but... \nThis year is different. I've come to save this real world.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "普段ならそうだけど……\n今年はそれだけじゃない。\nこの現実界を救いに来たんだ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "What does it mean to save someone~?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "救うって、\nどういうことさ～？"
+    },
+    {
+      "name": "Jack",
+      "text": "Actually... A certain monster escaped from the spirit world. \nI've been chasing after it and came to the real world a little while ago.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "実はな……\n霊界から、\nとある妖魔が逃げ出してさ。\nオイラはそいつを追って、\n少し前から現実界に来てたんだ。"
+    },
+    {
+      "name": "Jack",
+      "text": "That thing is a super-class spirit, and it is very dangerous if we leave it unchecked. We need to find it quickly and send it back to the spirit world.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "そいつは、\n超特級クラスの妖魔で、\n野放しにしていたら危険なんだ。\n早く見つけ出して、\n霊界に送り返さなくちゃいけない。"
+    },
+    {
+      "name": "Jack",
+      "text": "If that thing were to go berserk, Halloween...\nNo, the real world would be thrown into chaos.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "もしそいつが暴れでもしたら、\nハロウィンは……\nいや、\n現実界はめちゃくちゃになってしまう。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Seriously...?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "マジ……？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Kaori, if what Jack said is true...\nDoes that mean the professor is correct...?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "カオリさん、\nジャックさんの話が本当なら……\n博士は\n正しいということデスか……？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Oh no~ It's an unexpected surprise~!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "大変さ～、\nまさかのまさかだよ～！"
+    },
+    {
+      "name": "Jack",
+      "text": "We're almost there until Halloween, right?\nHas anything unusual happened?",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "ハロウィン当日まで\nもうちょっとだろ？\n何か\n変わったことは起きてないか？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Something different... hmm, I can't really think of anything in particular~ If I had to say,\nit would be that there are a lot more of these kids in town~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "変わったこと……\nん～～、\nこれといって特にはないかな～？\n強いて言えば、\nこの子が街にいーっぱい増えたことくらいだよ〜"
+    },
+    {
+      "name": "Cotton candy-chan",
+      "text": "Woof!",
+      "choice_data_list": [],
+      "orig_name": "わたあめちゃん",
+      "orig_text": "わんっ！"
+    },
+    {
+      "name": "Jack",
+      "text": "Hm...? What's with that dog? \n...Is it a spirit?",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "ん……？　\nなんだその犬。\n……妖魔か？"
+    },
+    {
+      "name": "Kaori",
+      "text": "It's Cotton Candy-chan~!\nWe're the ones who caught her~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "わたあめちゃんだよ～！\n私たちが捕まえてるんさ〜"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hah! Is there a possibility that this Cotton Candy-chan girl is the monster Jack is looking for!?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ハっ！　\nこのわたあめちゃんが、\nジャックさんの探している妖魔の可能性はありまセンか！？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Oh no!\nWe caught it without knowing how dangerous it was!? \nI wish you had told us beforehand!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "やばばば！　\n超あぶないって知らずに、\nうちら捕まえてたとか！？\n先に教えておいてほしいんですけど！"
+    },
+    {
+      "name": "Jack",
+      "text": "Don't worry. That's not true.\nThis... Cotton candy-chan.\nIts spiritual power is surprisingly low.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "安心しろ。\nそれはない。\nこの……\nわたあめちゃん、\nか。\nこいつの霊力は\n驚くほど低い。"
+    },
+    {
+      "name": "Jack",
+      "text": "Even I, when I look at it, mistake it for just a dog.\nSo you can relax!",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "オイラが見ても、\nただの犬かと間違えるほどだ。\nだから安心していいぞ！"
+    },
+    {
+      "name": "Jack",
+      "text": "What I'm looking for is a towering giant that races through the darkness of the spirit world... Its bristling fur is like a raging flame... Its sharp, gleaming fangs crush everything... and then...",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "オイラが探してるのは、\n山のような巨体で霊界の闇を駆け……\n逆立つ毛並みは\n燃え盛る炎のようで……\n鋭く光った牙は\n全てを噛み砕き……\nそれから……"
+    },
+    {
+      "name": "Jack",
+      "text": "Ugh, it's too terrifying to even speak about it...",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "ううっ、\n語るにも恐ろしくてこれ以上は……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hmm... I still don't quite understand the professor's research. \nI wonder if it's accurate or if it's off...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "うーん……\nやっぱり\n博士の研究は\nよく分かりまセンね。\n当たってるのか、\n外れてるのか……"
+    },
+    {
+      "name": "Jack",
+      "text": "{0}, are you also trying to save the world?",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "{0}、お前も世界を救おうとしているんだな？"
+    },
+    {
+      "name": "Jack",
+      "text": "Our goals may be different, but let's cooperate.\nIf you see a dangerous spirit, please let me know.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "狙いは違うかもしれないが、\nここはお互いに協力しよう。\nもし、\nヤバそうな妖魔を見かけたら\n知らせてくれ。"
+    },
+    {
+      "name": "Jack",
+      "text": "Listen up. Don't go provoking them, alright? They're a spirit with spiritual power that rivals the top two in the spirit world.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "いいか？　\nくれぐれも刺激するんじゃないぞ。\n相手は霊界でも\n１、２を争う霊力を持つ妖魔だ。"
+    },
+    {
+      "name": "Jack",
+      "text": "No matter how many humans gather together,\nthere is no chance of winning...\nThe ending is being devoured and becoming nourishment.",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "人間が束になったところで、\n勝ち目はないからな……\n食われて糧になるのがオチだ。"
+    },
+    {
+      "name": "Jack",
+      "text": "Ah! I will do whatever it takes to save the real world!\nI have to participate in the annual party every year, you know!",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "ああ！　\nなんとしてでも\n現実界を救ってみせるよ！\nオイラは毎年恒例のパーティーに参加しなくちゃいけないからさ！"
+    },
+    {
+      "name": "Jack",
+      "text": "Well then, see you later!",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "それじゃあ、\nまたな！"
+    },
+    {
+      "name": "Doctor",
+      "text": "...I see! Such a visitor from the spirit world!",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "……そうか！　\n霊界からそんな来訪者が！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Despite the fact that the real world seems to be in a dire situation, you seem strangely happy...?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "現実界が大変なことになりそうだというのに、\nなんだかうれしそうデスね……？"
+    },
+    {
+      "name": "Doctor",
+      "text": "Isn't it obvious!\nIt seems to be evidence that my research is not wrong!",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "当たり前じゃないか！\n私の研究が間違っていないという証拠になりそうだからね！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "But, it seems really dangerous, you know?\nIt might actually exist, you know...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "でも、\nマジでやばいっぽいよ？\nだいやくさい、\nほんとにあるかもしんないね……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hey hey hey. Doctor, are you thinking about what will happen when that time comes?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ねねね。\n博士って、\nそーなった時のことって\nなんか考えてんの？"
+    },
+    {
+      "name": "Doctor",
+      "text": "No, nothing at all.",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "いや、\n何も。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "え？"
+    },
+    {
+      "name": "Doctor",
+      "text": "My goal is to prove the existence of the Great Disaster that comes from the spirit world. It is not about saving the world.",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "私の目的は、\n霊界より来る大厄災の存在を証明すること。\n世界を救うことではない。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Seriously?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "マジ？"
+    },
+    {
+      "name": "Doctor",
+      "text": "Ah, I specialize in the field of crisis prediction, so \n countermeasures are outside my area of expertise. Based on my research, other scholars will come up with something.",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "ああ。\n私は危機予測の分野専門であって、\nその対策は専門外だからな。\n私の研究をもとに、\n他の学者がなにか考えるだろう。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "I don't really understand,\nbut there's a ridiculous sense of randomness...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "なんかよくわかんないけど、\nテキトー感ハンパないんですけど……"
+    },
+    {
+      "name": "Doctor",
+      "text": "I definitely want to investigate that spirit called Jack!\nThe next time you meet,\nmake sure to capture him and bring him here!",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "そのジャックという精霊もぜひとも調べてみたいな！\n次に会った時は、\n必ず捕獲してここへ連れてきてくれ！"
+    },
+    {
+      "name": "Doctor",
+      "text": "Well, that's true...",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "それはそうと……"
+    },
+    {
+      "name": "わたあめちゃんたち",
+      "text": "わんわんっ！　",
+      "choice_data_list": [],
+      "orig_name": "わたあめちゃんたち",
+      "orig_text": "わんわんっ！　"
+    },
+    {
+      "name": "Doctor",
+      "text": "Today, I have so many dogs... the cost of their food...",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "今日もこんなに犬を……\n餌代が……"
+    },
+    {
+      "name": "Kaori",
+      "text": "Don't worry~!\nI brought some Sata Andagi for you!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "安心するさ～！\nサーターアンダギー持ってきたからね～！"
+    },
+    {
+      "name": "Doctor",
+      "text": "I-I appreciate it...\nI never thought you would come back with this many...",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "た、\n助かるよ……\nまさかこんなに回収してくるだなんて思ってなかったからね……"
+    },
+    {
+      "name": "Doctor",
+      "text": "Halloween is finally approaching, and it seems that the number of appearances has also increased. Let's see if there's any connection between the monsters that Jack is looking for and investigate...",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "ハロウィンもいよいよ近づき、\n出現数も増したというわけだね。\nジャックの探している妖魔と関連がないか、\n調べてみよう……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hehe, She's completely warmed up to Kaori now. \nThe sight of her licking your face is just too adorable!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ふふ、\nもうすっかり\nカオリさんに懐いていマスね。\n顔を舐めている姿が、\nなんとも愛くるしいデス！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Ahaha~ It's a little ticklish, but it's proof that you're at ease~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "あは～、\nちょっとくすぐったいけど、\n安心してくれてる証拠さ～"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Somehow, it's like I'm already keeping it as a pet, or rather, \nit's starting to look more and more like a family!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "なんかもう飼ってるみたいっていうか、\nだんだん家族みたいに見えてきたんですけど！"
+    },
+    {
+      "name": "Kaori",
+      "text": "That's right~. Seeing everyone happily eating sweets together, it reminded me of my family back in my hometown~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "そうだね～。\nみんなで仲良くお菓子食べてるところを見て、\n私も故郷の家族を思い出したよ～"
+    },
+    {
+      "name": "Kaori",
+      "text": "Well, we used to spend our time leisurely, lounging around like this, eating Sata Andagi together and stuff~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "よくこうやって、\nのんびりゴロゴロしながら、\nサーターアンダギーとかを一緒に食べて\n過ごしたんだよね～"
+    },
+    {
+      "name": "Kaori",
+      "text": "What kind of place is the hometown of Cotton Candy-chan and her friends~?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "わたあめちゃんたちの故郷は\nどんなところさ～？"
+    },
+    {
+      "name": "わたあめちゃん",
+      "text": "わんっ！　",
+      "choice_data_list": [],
+      "orig_name": "わたあめちゃん",
+      "orig_text": "わんっ！　"
+    },
+    {
+      "name": "Kaori",
+      "text": "Ahaha, I guess you can't give an answer~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "あは～、\nそりゃ返事はできないか～"
+    },
+    {
+      "name": "Kaori",
+      "text": "Even if you may not understand the words...\nBut, our feelings can still connect, right~?\nSo, I'll tell you about my hometown~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "言葉は分からないかもしれないけど……\nでも、\n気持ちは通じるでしょ〜？\nだから、\n私の故郷のことを\n話してあげるね〜"
+    },
+    {
+      "name": "Kaori",
+      "text": "The place where I was born and raised,\nit was surrounded by a truly beautiful sea...",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "私が生まれ育ったところはね、\nそれはそれは、\nでーじきれいな海に囲まれてて……"
+    },
+    {
+      "name": "？？？",
+      "text": "Woohoooooooooon!!!!!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ウオオオオオオオオォォォォォォン！！！！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Wh-what, kind of voice is that!?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "な、\nなんの鳴き声さー！？"
+    },
+    {
+      "name": "Doctor",
+      "text": "Oh no, this is bad!! \nI have detected an incredibly powerful energy\nunlike anything before!!",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "た、\n大変だ！！\n今までにない強いエネルギーを観測したよ！！"
+    },
+    {
+      "name": "Doctor",
+      "text": "The source of the outbreak... is unknown? \nSo it's too strong to determine!?",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "発生源は……\n不明？\n強すぎてわからないということか！？"
+    },
+    {
+      "name": "Doctor",
+      "text": "I'll need to analyze it in more detail before I can say anything for certain, but the scope of the impact... no, it's probably the entire Astraea continent.",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "詳しく分析してみないとなんとも言えないが、\n影響範囲はランドソル……\nいや、\nきっと\nアストライア大陸全土だろう。"
+    },
+    {
+      "name": "Doctor",
+      "text": "Hmm...",
+      "choice_data_list": [],
+      "orig_name": "博士",
+      "orig_text": "むむむ……"
+    },
+    {
+      "name": "Jack",
+      "text": "Is that... No way!?",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "今のは……\nまさか！？"
+    },
+    {
+      "name": "Jack",
+      "text": "It's terrible! We need to hurry",
+      "choice_data_list": [],
+      "orig_name": "ジャック",
+      "orig_text": "大変だっ！　\n急がなきゃっ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Could it be the cry of the monster that Jack is looking for...?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "もしかして、\nジャックが探してる妖魔の鳴き声とか……？"
+    },
+    {
+      "name": "Ninon",
+      "text": "It sounded just like the snoring of a bullfrog. \nKwabarakuwabara...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "まるで\nガマガエルのいびきのようでシタ。\nクワバラクワバラ……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "I was super shocked, you know! \nIsn't it seriously dangerous? I mean, with a voice like that, there's no way we can defeat them!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "超ビビったんですけどー！\nマジやばくない？　\nあんな声出すよーまなんか倒せっこないし！"
+    },
+    {
+      "name": "Cotton candy friends",
+      "text": "Woooaaahhhh!!",
+      "choice_data_list": [],
+      "orig_name": "わたあめちゃんたち",
+      "orig_text": "わおおーーーーん！！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Don't worry, stay calm~?\nThere's nothing to be afraid of, so relax and feel at ease~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "大丈夫だよ、\n落ち着くさ～？\n怖くないから\n安心してね～"
+    },
+    {
+      "name": "Cotton candy friends",
+      "text": "Wowwwwwwwwwwwwwww!!",
+      "choice_data_list": [],
+      "orig_name": "わたあめちゃんたち",
+      "orig_text": "わおおおおーーーーーーん！！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Howling...? Could it be that it's reacting to the loud voice from earlier~? Besides, it seems to be whimpering a little sadly~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "遠吠え……？　\nもしかして、\nさっきのおっきな声に反応したのかな〜？\nそれに、\nなんだかちょっと\n寂しそうに鳴いてるさ〜"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Is that so?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "そなの？"
+    },
+    {
+      "name": "Kaori",
+      "text": "I have this feeling, you know~ \nIt's been a while since I came to this world, \nMaybe I'm starting to miss my hometown~",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "なんだかそんな感じがするんだよね～\nこの世に来てからしばらく経ってるし、\n故郷が恋しくなってるのかもしれないさ～"
+    },
+    {
+      "name": "Kaori",
+      "text": "I wonder how much longer Cotton Candy-chan will be here~? \nI want to gather everyone and send her back to her hometown quickly~...",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "わたあめちゃんは\nあとどれくらいいるんだろうね～？\nみんな集めて、\n早く故郷に帰してあげたいさ～……"
+    },
+    {
+      "name": "Narration",
+      "text": "On the night when a mysterious scream resounded, \nthe howling of Cotton Candy-chan and the others continued until dawn.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "謎の叫び声が轟いた晩、\nわたあめちゃんたちの遠吠えは、明け方まで続くのだった。"
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "title": "Distortion",
+  "text_block_list": [
+    {
+      "name": "歪んだ音寵の精霊",
+      "text": "──！！！",
+      "choice_data_list": [],
+      "orig_name": "歪んだ音寵の精霊",
+      "orig_text": "──！！！"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} receives a warning from Ameth through their shared dream, but immediately after that, word spreads that the spirits surrounding the Elven Village had gone crazy.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アメスから、\n夢を通して警告を受け取った{0}。\nしかしその直後、\n里の周囲で精霊たちが暴走しているとの報せを受ける。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Hey... What's with this?! There's an incredible amount of spirits wildly flying around!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ちょっ……\nなんですかこれ！\nとんでもない量の精霊が飛び交ってますけど！？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Ah! That little one...! How could this happen... No, I have to stop it...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！\nあの子……！　\nどうして、\nこんなことに……\nだめ、\n止めなくちゃ……"
+    },
+    {
+      "name": "Chika",
+      "text": "The one in the middle is... the spirit that was interfering with Ranpha-san? But why...?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "真ん中にいるのは……\nランファさんに干渉していた精霊？\nでも、\nどうして……？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "The spirit's bugged...? From what I can see, it's not just that one, other spirits seem to be acting strange as well...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "精霊のバグ……？\n見る限り、\nあの子だけじゃなくて\nほかの精霊もおかしくなってるみたいだけど……"
+    },
+    {
+      "name": "Ameth",
+      "text": "About that, leave the explanations to me.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そのあたりに関しては、\nあたしが説明するわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Ameth!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "アメスさま！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Kokkoro-taaan...♪ No, wait, there's no time for that right now... Seeing those bugged spirits in action myself is quite scary... I wish I'd realized what was going on sooner.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "コッコロたぁんっ……♪　\nって、\n今はそうじゃなくて……\n精霊たち、\n実際見てみるとほんとやばいわね……\nもう少し早く気付ければよかったわ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hey, what do you mean by \"bugged\"? What's happening to the spirits?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ねぇ、\nバグって一体なんなの？\n精霊たちに\n何が起きてるの？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Right... In order to talk about that, I first need to talk about the world state as it currently is, and also about the spirits themselves.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そうね……\nその話をするためには、\nまず今の世界についてと\n精霊そのものについても\n話さなきゃいけないわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "First, let's review. You already understand the reason why Astrum is currently unstable, right?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "まずおさらいよ。\n今のアストルムが不安定\nっていうのは、\nもう理解してるわよね？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Right. The reason why I couldn't move to save Sheffy-chan even though I wanted to is because of that.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そ。\nシェフィちゃんを助けたくてもいろいろ言えなかったのも、\n元はと言えば\nここが原因よね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Geez! It's because there's no longer an Administrator. Because of that, you've been having your fair share of troubles in the Underworlds.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "もう！\n管理者がいなくなったからよ。\nそのせいで、\n裏世界でもいろいろ苦労してるでしょ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "A world without an administrator is extremely fragile. The only reason it's holding itself together is thanks to everyone's \"Collective Illusion\"... One wrong step and the whole thing could crumble.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "管理者がいない世界は、\nすごく脆いわ。\nみんなの\n『共同幻想』でなんとか成り立ってる状態……\n一歩間違えれば、\n土台から崩れかねない。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Maybe it's because the core parts of the world are in such a state, but lately, even the way this world works has been gradually affected. The current spirit bug is among those cases.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "根っこがそんな状態だからか、\n最近は\nこの世界の仕組みにも\n徐々に影響が出てきててね。\n今回の精霊のバグも、\nその内の一つよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "In the first place, spirits are a part of the system behind this world. They're naturally created as part of the environment.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そもそも精霊ってのは\nこの世界のシステムに含まれてて、\n環境の一部として、\n自然に生み出されるものなの。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Except for a few powerful spirits, they basically act according to a simple algorithm written for them. Well, you can think of them as being similar to wild animals.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "精霊の行動は、\n一部の力のある子を除いて、\n基本的に\n簡単なアルゴリズムに従って動いてる。\nまぁ、\nこの辺は\n野生動物みたいなもの\nって考えてくれればいいわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "But recently, it seems that a new individual has been born that is not only unstable, but also prone to erratic behavior. That's the spirit at the center of the rampage.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも最近、\n動作が安定しないうえに\nイレギュラーな行動をしやすい個体が生まれたみたいでね。\nそれがあの、\n暴走の中心にいる精霊\nってわけ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "The reason for this sudden rampage was probably due to some kind of error that occurred in that spirit. As a result of its strange behavior, that same error spread to other spirits.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "今回の暴走は恐らく、\nあの精霊に何かしらのエラーが発生したのがきっかけね。\n動作がおかしくなった結果、\nエラーが他の精霊に伝播してしまったの。"
+    },
+    {
+      "name": "Ameth",
+      "text": "That's right. If the error continues to spread to other spirits... eventually, all the spirits in Astrum may go haywire. In the end, the natural environment that the spirits are a systematic part of in will also be messed up.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そうね。\nエラーが他の精霊にも広がり続けて……\n最終的には、\nアストルム中の精霊が\nおかしくなっちゃうかもしれないわ。\nそしたら、\n精霊が関わってる自然環境もめちゃくちゃになるわね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "No way...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そんな……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "...But, something's been bothering me... You know, I just told you that spirits operate on simple algorithms, right?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……でも、\nどうも引っかかるのよね……\nほら、\nさっき精霊は\n簡単なアルゴリズムで動いてる\nって言ったでしょ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Normal spirits are pretty simple beings, therefore... they shouldn't be able to do anything reckless that would drag their peers into an error in the first place...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "普通の精霊って\nけっこう単純な存在だから、\n本来、\n周りを巻き込んで\nエラーを起こすような無茶な行動は\nそもそもできないはずなんだけど……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "That'd be... my fault...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしの……\nせい\nだわ……"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさん？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I was the one... who told it to stop back then...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしが……\nあのとき、\nやめてって\n言った\nから……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Can you tell me more about that?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それ、\n詳しく聞かせてくれる？"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Ameth",
+      "text": "While you were resisting this mysterious voice you heard, an unknown power suddenly came into play... I see...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "謎の声\nってやつに抵抗してたら\n急に謎の力が発動して……\nそう……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Considering the situation, what happened back there is what triggered all of this. You indirectly asked it to process the data of the Lost, which is something that a normal spirit clearly cannot handle.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "状況からして、\nそこがきっかけの可能性は高いわね。\nロストしたデータに関する処理なんて、\n本来精霊なんかが対処できるレベルじゃないもの。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Besides, if that spirit was interfering with your chanting technique... it wouldn't be strange if it mistook the words \"stop\" for an arbitrary instruction from you.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それに、\nその精霊が唱喚術に干渉してた\nっていうなら……\n「やめて」って言葉を、\n横から勝手に指示と誤認しても\nおかしくないわ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Th-Then, I knew it... it really is my fault... I'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "じゃ、\nじゃあ……\nやっぱり、\nわたしのせい、\nなのね……\nごめん、\nなさい……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "If only I had properly told you what happened yesterday... Then this wouldn't have happened...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしが\n昨日、\n起きたことを\nちゃんと\n伝えてたら……\nそうしたら、\nこんなことには──"
+    },
+    {
+      "name": "Chika",
+      "text": "You're wrong on that, Ranpha-san.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "それは違いますよ、\nランファさん。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "That's right. It's true that you should've told us about that voice, and that this is a result of what you said, Ranpha-san.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "そうですよ。\n声のことを言ってもらいたかったのは確かですし、\nこうなったきっかけは\nランファさんにありますけど。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "But, isn't this an outcome that's impossible to predict? I mean, no one knew until now that spirits were acting strange, right?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "でもこれって、\n正直予測できなくないですか？\nだって精霊がおかしくなってるなんて、\n今まで誰も知らなかったんですよ？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Besides, Ranpha-san... you didn't say \"stop\" because you wanted this to happen, right? In that case, I don't think we have any reason to blame you.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それに、\nランファさんは精霊に止めてほしくて\n「やめて」って言ったわけじゃないんでしょう？\nなら、\n私たちが責めるのは違うと思うわ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Also... I know all too well the fear of something terrible happening to you without you even realizing why.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あと……\n自分が原因で\n知らないうちに大変なことになる怖さは、\n私もよく知ってるから。"
+    },
+    {
+      "name": "Ameth",
+      "text": "That spirit is at the center of this rampage.  You need to stop it somehow, even if it means knocking it unconscious. If you do that, the other spirits should calm down.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "暴走の中心にいる、\nあの精霊。\nあれを気絶させてもなんでもいいから、\nどうにかして止めることね。\nそうすれば、\n他の精霊も落ち着くはずよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "But we'd better hurry. The Elven Village has more spirits than other areas. If they all start to bug out, not only will the natural environment be destroyed... even this very field we're standing on might get deleted.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも急いだほうがいいわね。\nエルフの里は、\n他の地域に比べて精霊が多いのよ。\nそれが全部バグったら、\n自然どころか……\nフィールドが\nぶっ壊れるかも。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Wha! When did the scale of events get that drastic?!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ちょっ！\nそんな大ごとになっちゃうんですか！？"
+    },
+    {
+      "name": "Chika",
+      "text": "...I'll go and hold the spirits back. Everyone, will you lend me a hand?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……\n私が精霊たちを足止めします。\nみなさん、\n手を貸してくれますか？"
+    },
+    {
+      "name": "Kokkoro & Sheffy",
+      "text": "Yes!\" \"Yes!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・シェフィ",
+      "orig_text": "「はい！」\n「ええ！」"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Kishi-san, you too! I'm counting on your help here!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "騎士さんもお手伝いお願いしますね！"
+    },
+    {
+      "name": "Ameth",
+      "text": "As for me, sorry, but I'm going to go back to the Tower for now and keep an eye on things in real time to see if anything else pops up. I'll let you know right away if there's any changes!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あたしは悪いけど、\n一旦塔に戻って\n他におかしいとこが出ないか\nリアルタイムで追っかけとくわ。\n何かあったらすぐ伝えるから！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I have to... help them too... But...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしも、\n手伝わなきゃ……\n……\nでも……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Ranpha? Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ランファさま？\nどうかなさったのですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...! I-I'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！\nご、\nごめんなさい……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I get it... I know that I have to do what I can...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わかってるの……\nできることを\nしなきゃ、\nって……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "But I...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "でも、\nわたし……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I still can't sing properly... So if I were to go to... try to save that little one... and then failed...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "まだ\nちゃんと歌えない……\nそれなのに、\n助けようとして……\n失敗\nしちゃったら……"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "W-Wait...! There's a lot of people over there...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ま、\n待って……！\nそっちは、\nひとが\nたくさん……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ahh, My Lord is hanging in the air by the vines of a plant...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ああっ、\n主さまが\n植物のツルで宙づりに……！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I-I'm sorry...! ...Things weren't supposed to go like this...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ご、\nごめんなさい……！\n……\nこんなはずじゃ、\nなかった\nのに……"
+    },
+    {
+      "name": "ランファ",
+      "text": "…っ。",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…っ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Lady Ranpha. \"Failure is the mother of success\", that's always true.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……ランファさま。\n『失敗は成功の母』、\nでございますよ。"
+    },
+    {
+      "name": "ランファ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I've told you this before in the past, but... What we should do now is not to get depressed or stop.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "前にも言ったことではございますが……\n今すべきことは、\n落ち込んだり、\n立ち止まることではございません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "In this same village, I once felt a similar sense of responsibility to the one you're feeling now. Since something terrible had happened, I felt that I had to do something about it with my own strength...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしもこの里で、\nかつて同じように責任を感じました。\n大変なことになった以上、\n自分の力でなんとかせねばと……\nそう思ったこともございます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "However, thanks to everyone's help, I learned that I mustn't be pessimistic and try to push everything on myself. I must never feel alone.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ですが、\nみなさまに助けていただき\n知ったのです。\n自分一人で悲観してはならない。\n決してわたくしは\n一人ではないと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "So with that in mind, trust your teammates and do what you can. Only by doing so can you change the situation or erase your regrets.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "であれば\n仲間を信じて、\n自分にできることをする。\nそうすることでしか、\n事態を変えたり、\n後悔を晴らすことなどできません。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Kokkoro-chan... {0}-kun...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "コッコロ\nちゃん……\n{0}くん……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Once again... I've been taught something by her... Thank you too, {0}-kun.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "また……\n教えられてしまったわ。\n{0}くんも……\nありがとう。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'll go and... help Chika-chan. I might still be just a mere novice, but... as a fellow Song Summoner...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたし……\nチカちゃんを\n手伝うわ。\nまだ\n半人前\nだけど……\n同じ、\n唱喚士として……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "If that's your intent, I will excuse myself for now. ...I'll leave taking care of My Lord to you, just this once.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "であれば\nわたくしは一旦失礼します。\n……主さまのことも、\n特別に今だけはお任せしますね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...! Yes... Um... I'm counting on you, {0}-kun...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！　\nはい……\n{0}くん、\nよろしく\nね……？"
+    },
+    {
+      "name": "Narration",
+      "text": "With the support of Kokkoro and {0}, Ranpha decides to face the rampaging spirits. Together with him, she rushes off to join Chika and the others in their fight.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランファはコッコロと{0}の後押しにより、\n暴走する精霊と相対する決意を固める。\nそしてチカたちの戦いに合流すべく駆け出すのだった。"
+    }
+  ]
+}

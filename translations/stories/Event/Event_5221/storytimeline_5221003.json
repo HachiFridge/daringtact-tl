@@ -1,0 +1,908 @@
+{
+  "title": "The Sea, the Sky, and Gold Ship",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "While Almond Eye was screaming in the scorching heat of the magma...\nDaring Tact and Lucky Lilac had arrived at their respective destinations.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アーモンドアイがマグマの熱に悲鳴を上げていた頃……\nデアリングタクトとラッキーライラックは\nそれぞれの目的地に到着していた。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "So this is Oma...!\nSuch a splendid port town, yet...\nIt seems hardly any ships are out at sea...",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "ここがオーマ……！\n立派な港町ですが……\n船が\nほとんど海に出てないような……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Indeed. It usually is a much more livelier place, but...\nApparently, the Goltunnus has made it impossible for the fishermen to go out to sea.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\n普段はもっと活気があるのですが……\n今はゴルトゥンヌスのせいで、\n漁に出られずにいるそうです。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Unforgivable...\nAs I feared, I simply cannot ignore this matter.\nThank you so much for your help, Ruka-san!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "そんなことが……\nやはり放っておけませんね。\nルカさんも、\nご協力いただき\n本当にありがとうございます！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Don't mention it.\nI've been keeping an eye on the state of the sea lately myself.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "気にしなくていいよ。\nここ最近の海の様子は、\nアタシも気になってたからね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "So, to get to the point... this \"Goltunnus\" is in this ocean, right?\nI figured as much from the name~",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "で、\nさっそくなんだけど\nその『ゴルトゥンヌス』ってのは\n海にいるんだね？\n名前からしてそんな気はするけど──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes. According to the information provided, the \"Goltunnus\" bears a strong resemblance to the Great Tunnus we know.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nいただいた情報によると、\nゴルトゥンヌスは\nグレートトゥンヌスによく似た姿をしているそうです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Its behavior and habits also seem to be largely the same.\nOne major difference is to be found: it is considerably faster...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "その生態も\nおおむね近しいようなのですが\n一点だけ、\n速さにおいては\n大幅に強化されているようで……"
+    },
+    {
+      "name": "Ruka",
+      "text": "I see... Well, given that it's similar to that monster with an increased speed to boot, this won't be a walk in the park.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なるほどねぇ……\nまぁ\nアイツと似てる上にスピードアップしてるってんじゃ、\n簡単にはいかないだろうね。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Not an easy catch, huh...\nIs the Tunnus such a difficult fish to handle?",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "簡単にはいかない……\nトゥンヌスとは、\nそれほどに扱いが難しい魚\nなのでしょうか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Well, you could say that...\nFor starters, it's usually caught one at a time with a fishing rod.\nEven getting the hook into one is quite a challenge.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "まぁそうだね……\nそもそも\nアイツは一本釣りが基本だからね。\n針をかけるのだって一苦労だ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "On top of that, if it's faster, that implies having a fair amount of muscle, right?\nIn other words, it's going to put up quite a fight when we try to reel it in.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "そのうえ──\n速いってことは、\n筋力もあるだろ？\nつまり、\n釣ろうとすると\n相応に暴れるってことさ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Catching something like that will put our own strength and stamina to the test.\nAnd since fishing involves a fair amount of luck, too, we'd better be prepared for a long battle.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "そんな生き物を釣るには、\nこっちも筋力とスタミナが試される。\nましてや釣りは運も絡むときた。\n長期戦は覚悟しなくちゃね。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "I see...\nNo, even so, that should pose no issue.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "そうなのですね……\nいえ、\nですが、\n問題ありません。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "For this day, I have prepared a plan together with Kokkoro-san...\nBesides, I am quite used to waiting. Let us catch it quick, for the sake of all the local fishermen!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "この日に備え、\nコッコロさんと策も用意してきましたし……\n私も、\n待つのは慣れていますから。\n漁師のみなさんのためにも、\n早く捕まえましょう！"
+    },
+    {
+      "name": "Narration",
+      "text": "On the other hand, Lucky Lilac had arrived in Oedo...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方、\nオーエドへやってきたラッキーライラックたちは──"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "So \"Oedo\" because it takes after the \"Edo\" period, huh...\nI see.\nI suppose that's easy enough to understand, in its own way.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "大江戸風やからオーエド……\nなるほどなぁ。\nこれはこれで、\nわかりやすいんやろか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, I'll take 30 of these dumplings, thanks!\nSome mitarashi, some with sweet bean paste, and then...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ、\nそのお団子30本ください！\nみたらしと、\nあんこと、\nそれから……"
+    },
+    {
+      "name": "Stall Lady",
+      "text": "Oh my, you're going to eat that much?\nYou're making this Auntie so happy! Here!\nHave another 30 on the house!",
+      "choice_data_list": [],
+      "orig_name": "露店のおばさん",
+      "orig_text": "あら、\nそんなに食べてくれるの？　\nおばさんうれしいわぁ～！\nはい！　\nおまけにもう30本！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe, thank you very much♪\nLala-san, have some!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへっ、\nありがとうございます♪\nララさんもどうぞ！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thank ya very much...\nWait, Pecorine-san?\nYou've been buyin' heaps of dango for a while now, are these part of your strategy against the \"Golziz\", I reckon?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ありがとうございます……\nって、\nペコリーヌさん？\nさっきから山のように団子買うてはりますけど、\nそれも\n『ゴルジズ』対策に使われるんです？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, no, these are all mere nutritional supplements for us☆\nLala-san, don't hesitate to eat up yourself!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえいえ、\nこれは栄養補給ですよ☆\nララさんも遠慮せず、\nたくさん食べてください！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Heh... 'kay, guess I'll take one.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "…………\nほな、\n一本だけいただきますね。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "No seriously, the hell's wrong with her stomach!\nThat's WAY too many extra dumplings!\n...Oh crap, I was about to retort towards someone I'm indebted towards...!",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "いや胃どないなっとんねん！　\nおまけの団子も多すぎやろ！\n……\nってあかん、\n世話になってるひとにツッコんでまうとこやった……"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "耐えるんや、\nうち……！\n花形として、\n忍耐強く……\nそれはどこに行っても変わらん。\n今こそ\nしゃんとせんと！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "耐えるんや、\nうち……！\n花形として、\n忍耐強く……\nそれはどこに行っても変わらん。\n今こそ\nしゃんとせんと！　"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah, right. Where's the person who's helpin' us... Kuuka-san?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ってそうや。\nお手伝いしてくれはる人……\nクウカさんはどこに──"
+    },
+    {
+      "name": "Kuuka",
+      "text": "AAAAAAAHHHHhhhhh...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "あ～～～\nれ～～～っ！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Kuuka-san?! What's the matter?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "クウカさん！？\nどないしたんです──"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Aaah, you mustn't! If you pull on my obi like that...\nI'll be left in such an indecent state for all the passersby to see...\nAnd then {0}-san will look down on me with such disdain♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ああっ、\nいけませんっ！　\nそんなに帯を引っ張ったら……\nクウカのあられもない姿が\n通行人にさらされて……っ\n{0}さんに\nさげすまれてしまいま\nすぅ～～っ♪"
+    },
+    {
+      "name": "Passing Dog Owner",
+      "text": "Hey, Pochi! Don't pull on a person's sash!\nBad! Bad, I said!",
+      "choice_data_list": [],
+      "orig_name": "通りすがりの飼い主",
+      "orig_text": "こらポチ！　\n人様の帯を引っ張るんじゃありません！\nペッしなさい！　\nペッ！"
+    },
+    {
+      "name": "Pochi",
+      "text": "Woof, woof! Woof!",
+      "choice_data_list": [],
+      "orig_name": "ポチ",
+      "orig_text": "ワンワンッ！\n　ワフッ！"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Can we really pull this off with this group?\nWill I even be able to hold my retorts in check...",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "このメンバーで、\nほんまにやれるんやろか。\nうちはツッコミ、\n我慢しきれるんやろか……"
+    },
+    {
+      "name": "Narration",
+      "text": "While Lucky Lilac felt a lingering sense of unease regarding her capture operation, out on the seas off Oma...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ラッキーライラックが捕獲作戦に一抹の不安を覚えていた頃、\nオーマの海上では──"
+    },
+    {
+      "name": "Ruka",
+      "text": "...I can see the fish's shadow, but the fishing rod hasn't budged an inch.\nLooks like the fellow's being awfully cautious.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……魚影は見えるのに\n釣竿はピクリともしない。\nやっこさんもなかなか慎重とみえる。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Indeed.\nIt is as if it's gauging our next move.\nIs this species of fish always this clever?",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "ええ。\nまるで\nこちらの出方を窺っているよう……\nこの魚は、\n普段から\nこんなに賢いのですか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "They're usually a little easier to hook.\nMaybe it's being influenced by that Chibi Golshi.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "普段はもう少しかかりやすいんだけどね。\nもしかしたら、\nちびゴルシの影響かもしれない。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "I see...\nIn that case, getting impatient now would be playing right into its fins.\nStay calm, take your time, and wait for the right moment... By doing that, an opportunity is bound to arise.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "なるほど……\nであれば、\nここで焦れては\n相手の思う壺ですね。\n焦らずじっくり、\n機を伺う──\nそうすれば、\n必ずチャンスは来ます。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Oh, you know your stuff.\nYou don't seem to be seasick either, do you have some experience with this?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お、\n分かってるね。\n船酔いもしないみたいだし、\nさては\n経験者かい？"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Oh, no, not at all...\nMy hometown has a thriving fishing industry, so I just happened to learn a bit about it myself.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "いえ、\nそんな……\n私の地元は\n漁業が盛んでしたので、\n私も\nいくらか教わっていただけです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Tact is also very skilled at river fishing.\nJust the other day, she caught a delicious fish with firm, well-textured flesh.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "タクトさまは\n川釣りも大変お上手なのですよ。\n先日も\nよく身の締まった、\nおいしい魚を釣り上げられました。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Eeeh, is that so?\nI'd love to go river fishing together after this is dealt with.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "へぇ、\nそうなのかい！\nこりゃ一段落したら、\n一緒に川釣りといきたいね。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "I would be delighted myself!\nActually, I've been curious about what kind of fish can be caught around here...\nOh! My fishing rod...!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "ぜひお願いしたいです！\n実は私、\nこのあたりでどんな魚が釣れるのか\n気になっていて──\nっ、\n竿が……！"
+    },
+    {
+      "name": "Goltunnus",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "This shadow... Gotcha!\nHold on tight, don't let it drag you in!\nQuick, get the net~",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "この影……\nかかったね！\nしっかり持って、\n引きずり込まれないようにするんだよ！\n今すぐ網を──"
+    },
+    {
+      "name": "Goltunnus",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "It already got the needle loose...!?\nNo good, it's gonna run away~",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "もう針を外した……！？\nダメだ、\n逃げちまう──"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Kokkoro-san!\nNow's our chance! Begin the plan... that magic!\nCast it on the Goltunnus and me!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "コッコロさん！\n今です、\nあの策を──\nあの魔法を、\nゴルトゥンヌスと私に！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Mm! I see... Understood! O'Spirit~",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "！　\nなるほど……\n承知しました！\n精霊よ──"
+    },
+    {
+      "name": "Goltunnus",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "ゴルトゥンヌス",
+      "text": "…………！？",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "…………！？"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "...Surprised you were unable to run away?\nI mean, a fish unable to return into water is an unexpected sight, is it not?\nThe same goes for me, walking on water is like a dream come true.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "──逃げられなくて、\nびっくりしましたか？\nまさか\n魚が水に入れないなんて、\n思わないですよね。\n私も同じです。\n水の上を歩けるなんて\n思いませんでした。"
+    },
+    {
+      "name": "ゴルトゥンヌス",
+      "text": "…………！",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "…………！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "What Kokkoro-san just casted on us was \"Waterwalking Magic\", something Kyaru-san and the others prepared for us, in anticipation of a situation like this.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "今コッコロさんが使ったのは、\n『水上を歩ける魔法』──\nこのような時に備え、\nキャルさんたちに\n準備していただいたものです。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Now, we stand on the same playing field.\nAll that exists between us is the relationship between the hunter and the hunted.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "これで、\n私たちは同じ土俵の上。\n間にあるのはただ、\n『追うもの』と\n『追われるもの』の関係のみ──"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Let this match begin!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "いざ──\n勝負です！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Kuuka-san? That plan of yours...\nAre you serious about it?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "クウカさん？\nその作戦……\n本気ですか？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Of course I am! Kuuka will become bait for the \"Golziz\"!\nThis kimono really stands out, and... if I go flying through the sky via cannon, it's bound to take notice of me♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "もちろんです！　\nクウカが\nゴルジズの餌になりますよ～\nこの着物、\nとっても目立ちますし……\n大砲で空に飛べば\n絶対に気が付きます♪"
+    },
+    {
+      "name": "Kuuka",
+      "text": "And then, the Golziz will open its mouth wide and chomp right into Kuuka...\nGufufu♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "そして\nゴルジズは\n大きな口を開けて\nクウカをガブリと……\nぐふふっ♪"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "No, I mean, using you as bait...\nAin't that dangerous?\nI've already prepared a spell for walkin' through the air; surely it'd be better for me to just search it from there.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "いや餌って……\nさすがに、\nそれは危険やないですか？\n空を走る魔法も用意しましたし、\nうちが\n空の上で探せばええはずです。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "To begin with, our plan was... \"We chase down the monsters, attach a \"coordinate-fixing tag\" to their backs, and then use magic to teleport them near the members of the \"Gourmet Guild\" so they can be captured\", right?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "第一、\nうちらの作戦はこうでしたよね？\n『うちらが魔物を追いかけ、\n背中に「座標を固定するタグ」をつけたら、\n魔法で【美食殿】のみなさんの近くに転移させ、\n確保する』……"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "So, I think it'd be easier if we did the chasin'.\nNo need for you to take such risks, Kuuka-san~",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "こういうことなら、\nうちが追いかけたほうが後も簡単やと思います。\nクウカさんはそんな無茶せんでも──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kuuka-san, that's a nice idea☆\nBait is definitely the best way to lure out monsters!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "クウカさん、\nナイスアイデアです☆\n魔物をおびき出すには\n餌が一番ですよね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Monsters these days are quite the gourmets, so finding bait for them is actually a real challenge!\nBut with you here Kuuka-san, there's nothing to worry about☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "最近の魔物はけっこうグルメなので\n餌を探すのも大変なんですよねぇ。\nその点、\nクウカさんなら安心です☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well then, let's get you loaded into the cannon right away...\nHere goes...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それじゃ早速、\nクウカさんを大砲に詰めて……\nよい、\nしょっ……！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Aaah, Pecorine-san you... to shove me into the cannon just like that!\nYou're every bit as much of a sadist as {0}-san!\nIt's starting to become addictive~♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ああっ\nペコリーヌさんたら\nそんな\nぐいぐいと押し込むなんて……！\n{0}さんに劣らぬドＳっぷり！\n癖になっちゃいますぅ～～♪"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "No, hold on, wai-...",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "いや、\nちょ、\n待っ──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ready to fireeee!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "発射よーい！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Kuuka... IS BLAZING OOOOFFFF!!!!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "クウカ、\n跳びま～～～す！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Kuuka-san?! Wha...\nShe flew off...!",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "クウカさんっ！？\n待っ……\n行ってしもた……！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Don't be pullin' my leg now...\nAin't that impossible?\nLike, ain't no way the Golziz would just appear so conveniently~",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "んなアホな……\nさすがに無理やろ？\nそもそも、そんな都合よくゴルジズが飛び出してくるわけ──"
+    },
+    {
+      "name": "Golziz",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "ゴルジズ",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Ahhn♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "あふんっ♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A huge success☆\nLala-san!\nLet's chase after that bird!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "大成功です☆\nララさん！　\nゴルジズを追いかけましょう！"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "………………"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "あかん……\nあかんわ……！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "あかん……\nあかんわ……！　"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "前から思っとったけど、\nこの人たち……\n一見筋が通ってるように見えて、\n全く通ってへん！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "前から思っとったけど、\nこの人たち……\n一見筋が通ってるように見えて、\n全く通ってへん！　"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "大砲で飛ぶって何！？\nどう考えても危ないやん！　\nペコリーヌさんもなんで止めへんの！？\nうちがおかしいんか！？　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "大砲で飛ぶって何！？\nどう考えても危ないやん！　\nペコリーヌさんもなんで止めへんの！？\nうちがおかしいんか！？　"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "大体この世界もこの世界や！\nオーエドってなんやねんそのネーミング！\nファンタジーなのに雑すぎるやろ！　\n世界観どないなっとんねん！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "大体この世界もこの世界や！\nオーエドってなんやねんそのネーミング！\nファンタジーなのに雑すぎるやろ！　\n世界観どないなっとんねん！　"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "ほんま……\nなんもかんも、\n分からんことばっかりや……\nけど……\nけど！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ほんま……\nなんもかんも、\n分からんことばっかりや……\nけど……\nけど！　"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Now that I've come this far...\nNO CHOICE BUT TO DO THIS!!!",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "こ\nうなったら──\nやるしかないやろ！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "YAAAAAAAAAH!!!!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "やああああああっ！"
+    },
+    {
+      "name": "ゴルトゥンヌス",
+      "text": "──！！",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "──！！"
+    },
+    {
+      "name": "デアリングタクト",
+      "text": "特訓の成果で、\n魔法や魔物には慣れてきたけれど。\nでも、\n波は不規則で……\n足元が、\n安定しない……！　",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "特訓の成果で、\n魔法や魔物には慣れてきたけれど。\nでも、\n波は不規則で……\n足元が、\n安定しない……！　"
+    },
+    {
+      "name": "デアリングタクト",
+      "text": "やっぱり、\n水の上を走るなんて\n無謀だった？\nコッコロさんたちに任せた方が良かった？　",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "やっぱり、\n水の上を走るなんて\n無謀だった？\nコッコロさんたちに任せた方が良かった？　"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "...No. That could not possibly be true.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "──いいえ。\nそんなこと、\nないわ。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Out in nature, conditions are always changing.\nThe weather can suddenly turn, or a path can become impassable...\nAnd every time, I have faced those challenges and adapted.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "自然の中じゃ、\n条件が変わるのは日常茶飯事。\n急に天気が変わったり、\n道が使えなくなったり……\nその度に、\n私は向き合って対応してきた。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Nature has always been by my side.\nAnd so, this time, too...\nNothing has changed.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "いつだって、\n自然は私のそばにあった。\nだから、\n今回も──\n何も、\n変わらない。"
+    },
+    {
+      "name": "デアリングタクト",
+      "text": "目の前の獲物を、\n仕留めるだけ！　",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "目の前の獲物を、\n仕留めるだけ！　"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "AAAAAAAHHHHHHHH!!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "はぁああああああああっ！！"
+    },
+    {
+      "name": "ゴルトゥンヌス",
+      "text": "──！！",
+      "choice_data_list": [],
+      "orig_name": "ゴルトゥンヌス",
+      "orig_text": "──！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "っ……！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Up here in the sky, the wind patterns shift.\nEven knowin' that, it's still a real struggle...",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "空の上やと、\n風の流れも変わる。\nわかっててもきっついわ……"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "However... if it was Ai-san... That girl'd have pulled it off, as she always does, no matter the situation.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "でも──\nアイさんなら。\nあの人なら、\nこんなときでも\n絶対成功させる。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "No matter how many times she failed or how many times she fell, she'd keep believin' in herself, over and over... and she'd always come out on top in the end.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "何十回失敗しても、\n何百回倒れても。\n自分を信じて、\n信じて──\n最後は\n絶対勝つ。"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "なら、\nうちは？　\nこんなことで諦めるんか？\nそんなわけないやろ！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "なら、\nうちは？　\nこんなことで諦めるんか？\nそんなわけないやろ！　"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "うちはアイさんにも、\n誰にも負けへん。\n花形として、\n誰よりも咲き誇るんや！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "うちはアイさんにも、\n誰にも負けへん。\n花形として、\n誰よりも咲き誇るんや！　"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "HAAAAAAAAAAH!!!",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "はああああああっ！"
+    },
+    {
+      "name": "Lala Tact",
+      "text": "AAAAAAHHHHHHHHHHHHH!!",
+      "choice_data_list": [],
+      "orig_name": "ララ・タクト",
+      "orig_text": "ああああああああっ！！"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "First, we will give chase and close the distance to their backs! And then...",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "まずは私たちが追いかけて、\n背中に近づく！\nそして──"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "座標を固定するタグを、\n取り付ければ……！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "座標を固定するタグを、\n取り付ければ……！　"
+    },
+    {
+      "name": "Lala Tact",
+      "text": "Now!!\"\n\"Now!!",
+      "choice_data_list": [],
+      "orig_name": "ララ・タクト",
+      "orig_text": "「今や！！」\n「今です！！」"
+    },
+    {
+      "name": "ゴルジズ＆ゴルトゥンヌス",
+      "text": "──！？！？",
+      "choice_data_list": [],
+      "orig_name": "ゴルジズ＆ゴルトゥンヌス",
+      "orig_text": "──！？！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Teleport transfer successful...!\nLady Tact, leave the rest to me!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "空間転移成功……！\nタクトさま、\nあとはお任せください！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I won't let Lala-san's running go to waste!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ララさんの走りを、\n無駄にはしません！"
+    },
+    {
+      "name": "Pecorine & Kokkoro",
+      "text": "Princess Strikeeee~!!\"\n\"Bonds of Verdant Breeze~!!!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ・コッコロ",
+      "orig_text": "「プリンセスストライク──！！」\n「緑翠の絆風──！！」"
+    },
+    {
+      "name": "Golziz & Goltunnus",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "ゴルジズ＆ゴルトゥンヌス",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "デアリングタクト",
+      "text": "はぁ……\nあの、\nゴルシ先輩は……？",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "はぁ……\nあの、\nゴルシ先輩は……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Rest assured, Lady Tact.\nShe has been safely secured.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ええ、\nタクトさま。\nゴルシさまは無事\n確保いたしました。"
+    },
+    {
+      "name": "Ruka",
+      "text": "To think I'd see you run over the ocean itself.\nYou did well.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "まさか海の上を走るなんてね。\nよく頑張ったよ。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Oh no, not at all!\nAll I could do was chase after it...\nYour efforts were more important.",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "いえ、\nそんな！\n私は\n追いかけるところまでしかできませんでしたから……\nこれもみなさんのお陰です。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Well now, let us take a breather and head back to Landosol!",
+      "choice_data_list": [],
+      "orig_name": "デアリングタクト",
+      "orig_text": "では、\n一息ついたら\nランドソルへ戻りましょう！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thanks for the food! Amph... Mmm~♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いっただっきまーす！\nあむっ……\nん～～♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This Golziz... Whoops, I mean Ziz.\nIt's so plump and full of flavor I cannot stop eating!\nHow crazy is that☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "このゴルジズ……\nもといジズ、\n身がぷりぷりで味も沁みて\nお箸が止まりません！　\nやばいですね☆"
+    },
+    {
+      "name": "Chibi Gold Ship -Sky-",
+      "text": "Hey, Manager! Bring some more!\nWhat do you mean, \"what\"?!\nWater obviously, water!",
+      "choice_data_list": [],
+      "orig_name": "ちびゴルシ・空",
+      "orig_text": "おい店長！　\nもっと持って来い！\n何をって水だよ！　\n水！"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "………………"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "あかん、\nツッコミが足りん……！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "あかん、\nツッコミが足りん……！　"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "それさっきまで戦ってた魔物やろ？\nちびゴルシさんはなんで普通におるん？\nやっぱりうちがおかしいんか……！？　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "それさっきまで戦ってた魔物やろ？\nちびゴルシさんはなんで普通におるん？\nやっぱりうちがおかしいんか……！？　"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Um, Kuuka-san? Is eating monsters a normal thing around here?",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "……\nあの、\nクウカさん？\nここって\n魔物を食べるのは普通なんやろか。"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Not at all?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "違いますよ？"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "違うんかーい！　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "違うんかーい！　"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Lala-san, you should try some yourself!\nYou only had one skewer of dumplings earlier, so you must be hungry, right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ララさんも食べてください！\nさっきもお団子\n一本だけしか食べてないですし、\nお腹空いてますよね？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Well, um...\nI truly appreciate the sentiment, but... as for monster meat, well...\nIt ain't really for me, I reckon...",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "いや、\nその……\nお気持ちは大変うれしいですけど、\nうち、\n魔物の肉はちょっと……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Eeeh?! But that'd be such a waste~!\nCome on, how about some fried chicken? There's also some chicken hot pot, you know?\nOh, maybe you'd prefer a shish kebab? It's superb!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ええっ！　\nそんなのもったいないですよ～！\nほらほら、\n唐揚げはどうですか？　\n水炊きもありますよ？\nあっ、\nシシカバブのほうがいいですか？　\n絶品ですよ！"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "多い多い多い！\nこの量……\nまるでオグリさんみたいやないの！？\nペコリーヌさん、\nなんぼなんでも大食いすぎんか！？　",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "多い多い多い！\nこの量……\nまるでオグリさんみたいやないの！？\nペコリーヌさん、\nなんぼなんでも大食いすぎんか！？　"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hah... But, well...\nCan't hate it before testin' it.",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "はぁ……\nけどまぁ、\n食わず嫌いはあかんな。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Okay, I'll have some. ...Amph...",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "ほな、\n遠慮なくいただきます。\n……\n……\nあむっ…………"
+    },
+    {
+      "name": "ラッキーライラック",
+      "text": "……\nうそ。\n美味しい…………",
+      "choice_data_list": [],
+      "orig_name": "ラッキーライラック",
+      "orig_text": "……\nうそ。\n美味しい…………"
+    },
+    {
+      "name": "Narration",
+      "text": "With the Chibi Golshis safely rescued, Lucky Lilac and Daring Tact had completed their mission. All that remained was Wrathgolshi, the one assigned to Almond Eye.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "無事ちびゴルシを救出したラッキーライラックとデアリングタクト。\n残るはアーモンドアイが担当するラースゴルシだけとなった。"
+    }
+  ]
+}

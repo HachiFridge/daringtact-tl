@@ -1,0 +1,593 @@
+{
+  "title": "Part 4 Ch. 1 Ep. 6",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Just as {0} and the others find themselves in a tight spot after Aglaia goes down, \"Nakayoshi X\" drops from the sky as a killstreak reward. Will this giant humanoid robot prove to be the key to turning the tide?",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アグライアがダウンし、\nピンチに陥る{0}の前に\nキルストリーク報酬として空から降ってきた『なかよしX』。\n果たして、\nこの巨大人型ロボットが逆転の兆しとなるのか。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Nakayoshi X... that's the robot developed by the Mercurius Foundation, right?\nI heard it had exploded, though...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "なかよしXって、\nたしか【メルクリウス財団】が開発したロボットよね？\n爆発したって聞いてたけど……"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "Chat function activated. Responding.\nI am a separate instance of Nakayoshi X summoned via killstreak...\nIn other words, I am Nakayoshi [rub:ECS]X[/rub].",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "おしゃべり機能、\n起動。\n回答します。\n私は、\nキルストリークによって召喚された\n別個体のなかよしX……\nつまり、\nなかよし\n[rub:バツ]X[/rub]\nです。"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "If Akino's rival, Saren, desires my presence, then dropping from the sky to appear before her is a sign of friendship.\nEven if others might call it out of place.",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "アキノのライバルであるサレンが望むのであれば、\nたとえ場違いと言われても、\n空から降って現れるのが\n友情の証です。"
+    },
+    {
+      "name": "Saren",
+      "text": "I didn't ask for this, nor did I ever imagine it...\nAnd besides, you're a different individual.\nCome to think of it, I wonder if Akino-san is alright...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "望んでいなかったし、\n考えもしなかったんだけど……\nそれに\n別個体だし。\nというか、\nアキノさんは大丈夫かしら……"
+    },
+    {
+      "name": "Rukbat",
+      "text": "More enemies changes nothing.\nI'll destroy you. Fire.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "増えたなら、\n消す。\nファイア。"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "Cheruuun! I won't let anyone lay a finger on Saren and her merry band of friends.",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "ちぇるーーーん！\nサレンと愉快な仲間たちに\n手出しはさせません。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "My bullets were deflected...",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "弾を相殺した……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Nakayoshi X is insanely strong! This is your chance to counterattack!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "なかよしXめちゃくちゃ強いじゃない！\nこれは\n反撃のチャンスよ！"
+    },
+    {
+      "name": "Chiron",
+      "text": "Analysis complete. Rukbat, stay alert.\nNakayoshi X is equipped with a mode-changing function.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "分析完了。\nルクバト、\n警戒を。\nなかよしXは、\nモードチェンジ機能を備えています。"
+    },
+    {
+      "name": "ルクバト",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Saren",
+      "text": "In other words, it has an enhanced form! Alright, I'm going to press the attack!\nNakayoshi X, time for a mode change!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "つまり、\n強化形態ってことね！　\nよし、\n一気に畳みかけるわよ！\nなかよしX、\nモードチェンジやっちゃって！"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "Understood. Switching to verbal attack mode. Target: Rukbat.",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "了解しました。\n口撃モードへチェンジ。\n目標ルクバト。"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "A cool, mysterious sniper? Hardly! You're just a has-been playing the warm-up act at your own peak. You can't even [rub:Be Honest]open up[/rub] about yourself. The moment you open your mouth, your flaws are exposed and your true colors show. Hiding behind your [rub:Scope]gun[/rub], you're a voyeuristic camper! One of the \"Four Heavenly Kings\" of peeping, yet the weakest of the bunch. A pathetic scope jockey.",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "クールでミステリアスなスナイパー？　\n今がピークのミス前座。\n[rub:オープン]自己開示[/rub]できないただの口下手。\n口を開けばバレる粗、\n馬脚ボロボロ。\n[rub:サイト]照準器[/rub]の裏に引きこもる、\n覗き趣味の四天王、\n最弱ポジのスコープ野郎。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "So this is... its mode change? How pathetic.\nYou're completely off the mark. Taunting me won't work.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "…………これが、\nモードチェンジ？\nくだらない。\n全く的外れね。\n私に煽りプレイは通じない。"
+    },
+    {
+      "name": "Chiron",
+      "text": "Heart rate rising. Rukbat, I recommend taking a deep breath.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "心拍数上昇。\nルクバト、\n深呼吸を推奨します。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "...Chiron, disengage the vital monitor.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "…………キロン、\n生体モニターを解除。"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "Verbal bullet: direct hit. Taunt resistance limit exceeded.\nSilenced by a bullseye. Response mode: offline.\nDon't cry now, you scrub camper.",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "言葉の弾丸クリーンヒット、\n煽り耐性リミットオーバー\n図星で沈黙、\n応答オフ。\n泣くんじゃないぞ、\n芋スナイパー"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Die.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "死ね。"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "Cheruuun! Resistance is futile.\nBy the way, is that horse of yours actually okay? And are you going to run from the truth, too?",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "ちぇるーーーん！　\n無駄な抵抗。\nというか、\nその馬耳\n色々とだいじょうぶっすか？　\nお前も走るのか？"
+    },
+    {
+      "name": "Chiron",
+      "text": "I don't quite understand that question.\nRukbat, I am going to counterattack Nakayoshi X.\nAnalyzing Nakayoshi X's language patterns, its \"verbal bullets\"...",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "その質問、\nよくわかりません。\nルクバト、\n私がなかよしXに反撃します。\nなかよしXの言語パターン、\n言葉の弾丸を分析……"
+    },
+    {
+      "name": "Chiron",
+      "text": "Language learning complete~ Cheerun♪\nCheru-cheru, che-cheru-pa, cheraru-re, cheru-ru-ru-ru-ru-ru-ru\nError occurred; restart required.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "言語学習完了──\nちぇるーん♪\nちぇるちぇる、\nちぇちぇるぱ、\nちぇらるれ、\nちぇるるるるるるる──\nエラー発生、\n再起動が必要です。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Chiron broke...?! Kh...!\nEngage forced reboot.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "キロンが壊れた……？\nっ、\n強制再起動。"
+    },
+    {
+      "name": "Saren",
+      "text": "It's not the mode change I was hoping for, but anyway...\nNakayoshi X is really pushing her back!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "期待してたモードチェンジじゃないけど、\nとにかく、\nなかよしXが押してるわ！"
+    },
+    {
+      "name": "Ameth",
+      "text": "The results are better than expected! Let's get within effective range while we still can!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "予想以上の成果ね！\n今のうちに、\n有効射程範囲に入りましょう！"
+    },
+    {
+      "name": "Rukbat",
+      "text": "As if I'd let you.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "させない。"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "Cheruuun! Futile resistance, Part 2.\nI won't let anyone lay a finger on Saren and her merry band.\nNakayoshi X: friends forever.",
+      "choice_data_list": [],
+      "orig_name": "なかよしX",
+      "orig_text": "ちぇるーん！　\n無駄な抵抗パート２。\nサレンと愉快な仲間たちに手出しはさせません。\nなかよしX、\nともだち◎。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Kh. You're getting on my nerves.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "くっ、\n癇に障る。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Ugh... I feel so pathetic that I can't fight alongside everyone else...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "うぅ……\n一緒に戦えない自分が\n情けないです……"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Unfortunately, I'm in a \"downed state\" so I can't move...\n...But I'm not giving up yet.\nI'll keep thinking about how to win...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "残念ながら、\n『ダウン状態』で動けません……\n……ですが、\nまだ諦めません。\nどうすれば、\n勝てるのか……\nわたしも、\n考え続けます……"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Self-consciousness is unnecessary.\nFocus on pulling the trigger...",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "……自意識は不要。\n撃ち抜くことに集中する……"
+    },
+    {
+      "name": "アグライア",
+      "text": "…………？",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "…………？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Is Rukbat's aim wavering...?\nCould impatience or hesitation be her weak point...?",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "ルクバトのエイムが\nブレている……？\n焦りや迷いが、\n彼女のウィークポイントでは……"
+    },
+    {
+      "name": "Kokoro",
+      "text": "If true... then there is one tactic which might just be the key to achieve victory.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『……もし、\nそれが本当なら──\nあの戦術が、\n攻略の糸口となるかもしれません』"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Yes, that is correct. If we can exploit her weakness, it should provide a breakthrough.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『はい、\nその通りでございます。\n弱点を突ければ、\n突破口となるはずです』"
+    },
+    {
+      "name": "Ameth",
+      "text": "...!? Got it, activating Killstreak...! Wait, nothing's happening...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "！？　\n分かったわ、\nキルストリーク発動……！\nいや、\n何も起きないわね……"
+    },
+    {
+      "name": "Saren",
+      "text": "Ameth-san, focus! We have to land a hit on Rukbat!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "アメスさん、\n集中！\nルクバトに弾をヒットさせないと！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Unfortunately, it seems like your Killstreak points have ran out...\nMy Lord, let us employ a tactic that exploits the enemy's weaknesses...!",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『残念ながら、\nキルストリークのポイントは空のようです……\n主さま、\nここは敵の弱点を突く戦術を活かしましょう……！』"
+    },
+    {
+      "name": "Kokoro",
+      "text": "If we can get within effective range using a surprise attack, we might disrupt Rukbat's concentration and, by extension, throw off her aim... That might give us a chance to win.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『サプライズアタックで\n有効射程範囲に入ることができれば、\nルクバトの集中を、\nひいては照準を乱し……\n勝てる可能性を見出せるかもしれません』"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I still have one card up my sleeve...\nIf only I could somehow make use of it...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "こちらには、\nまだ伏せたままの手札が……\nそれを、\nどうにか活かすことができれば……"
+    },
+    {
+      "name": "Kokoro",
+      "text": "In other words, if we can just get the system to register it as a \"gun attack\", your power might also prove effective, Lady Aglaia.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『つまり、\nシステム側に\n「銃攻撃である」と判定させることさえできれば\nアグライアさまの力も、\n有効打となる可能性がありますよ』"
+    },
+    {
+      "name": "Aglaia",
+      "text": "T-That's right... As one of the Administrators and the Great Spirit of Light, perhaps I could reinterpret my own power and reconstruct it...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "そ、\nそうです……\n管理者の一人であり、\n光の大精霊であるわたしなら\n自分の力を再解釈し、\n構築することもできるのでは……"
+    },
+    {
+      "name": "Chiron",
+      "text": "Rebooting complete. Let us win this game and claim the [rub:Spirit of Light]prize[/rub].",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "再起動が完了しました。\nゲームを終わらせて、\n[rub:プライズ]光の精[/rub]を手にしましょう。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Mode Change: Ult - \"Centaurus\".",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "モードチェンジ・\nUlt──\n『ケンタウロス』。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Huh? She disappeared?! Where did they go?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "えっ、\n消えた！？\nどこに行ったの！？"
+    },
+    {
+      "name": "Saren",
+      "text": "Ameth-san, up there!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "アメスさん、\n上──"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Fire.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "ファイア。"
+    },
+    {
+      "name": "Saren Ameth",
+      "text": "KYAAAAAH!?",
+      "choice_data_list": [],
+      "orig_name": "サレン・アメス",
+      "orig_text": "きゃああ！？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "No way... Both of them at once...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "そんなっ……\n二人まで……"
+    },
+    {
+      "name": "Chiron",
+      "text": "A critical error has occurred...\nShutting down.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "重大なエラーが発生……\nシャットダウンします。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "Chiron...\nWe're retreating.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "キロン……\n帰還する。"
+    },
+    {
+      "name": "Euros",
+      "text": "Kyaa!? W-What's going on...?",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "きゃあ！？\nど、\nどうなってるの……？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "My Lord, it appears you have won the game and rescued Lady Euros.\n...Oh. It is a pleasure to meet you; I am Kokoro Natsume.\nThank you for your help all this time.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『主さまたちがゲームに勝利し、\nエウロスさまを取り戻したのですよ。\n……あ。\nはじめまして、\nわたくし\n棗こころと申します。\nいつもお世話になっております』"
+    },
+    {
+      "name": "Euros",
+      "text": "Ah, so you're Kokkoro-chan, right?\nI've heard so much about you from the little wind spirits and Ameth-chan.\nIt's a pleasure to meet you, I'm Euros. I've been wanting to talk to you for the longest time✿",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "あっ、\nあなたがコッコロちゃんね！？\n風の小精霊とか\nアメスちゃんから話はよく聞いているわ～\nどうもはじめまして、\nエウロスよ。\nずっと話してみたかったの✿"
+    },
+    {
+      "name": "Kokoro",
+      "text": "I, too, would very much like to speak with you, Lady Euros...\nBut my apologies, there is something I must ask of you first...",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『わたくしも\nエウロスさまと、\nぜひお話しさせていただきたいです。\n……ですが\n申し訳ありません、\n先にお願いがありまして……』"
+    },
+    {
+      "name": "Euros",
+      "text": "A-All right. For the time being, let me stop those tornadoes...!",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "わ、\nわかったわ。\nとにかく、\nこの竜巻を止めなきゃね……！"
+    },
+    {
+      "name": "Euros",
+      "text": "...O'Breath of wind. Let your violent heaving cease.\nCome, let us return to a tranquil calm.",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "……風の息吹よ。\n激しい呼吸は、\nもうおしまい。\nさあ、\n静かな凪へと還りましょう。"
+    },
+    {
+      "name": "Euros",
+      "text": "Let me hear it... \"[rub:Breeze]Whisper of the Wind[/rub]\".",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "──聴かせて、\n“[rub:ブリーズ]風の囁き[/rub]”。"
+    },
+    {
+      "name": "Euros",
+      "text": "Nooo!? My skirt is flipping up!",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "いやぁー！？\nスカートがめくれちゃう！"
+    },
+    {
+      "name": "Everyone",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Aglaia",
+      "text": "W-Well, Big Sister Euros has the power to summon winds of good fortune...\nAnd I believe this is one of its manifestations, commonly known as a \"lucky pervert moment\"...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "エ、\nエウロスお姉ちゃんは、\n幸運の風を呼び込む力を持っていて……\nこれはその一つ、\nラッキースケベと言われるものだと思います……"
+    },
+    {
+      "name": "Saren",
+      "text": "Whose perspective is this \"good fortune\" from, anyway?\n...More importantly right now... I need healing... please...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "誰目線での幸運なのよ……\nというか、\n今はそれよりも……\n回復、\nお願い……"
+    },
+    {
+      "name": "Euros",
+      "text": "Oh no! Everyone, get a hold of yourself!",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "大変！？\nみんな、\nしっかりして！"
+    },
+    {
+      "name": "Saren",
+      "text": "That was a huge help. Thank you for healing me, Euros-san.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "助かりました。\n回復\nありがとうございます、\nエウロスさん。"
+    },
+    {
+      "name": "Euros",
+      "text": "No, I should be the one thanking you. You actually rescued me✿\nStill, I'm impressed you managed to defeat Rukbat-san.",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "ううん。\nこちらこそありがとう。\n助かったわ～✿\nでも、\nよくルクバトさんを倒せたわね。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "...Even though I'm inexperienced, I tried to think of various ways we could win...\nFirst, I launched a surprise attack at the last possible moment, making Rukbat panic and throwing off her aim.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "……不慣れながら、\nいろいろと考えてみて……\nまず\n焦りでルクバトのエイムがブレるように、\n土壇場でサプライズアタックを仕掛けたのです。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Thanks to Lord Knight's power, everyone had been granted a \"Last Stand\", allowing us to fire our weapons right where we were, even while in a downed state.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "騎士さまの力で、\nみなさまに『ラストスタンド』を付与していただき\nダウン状態であっても、\nその場での射撃を可能にしてもらいました。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Lord Knight carried me in his arms as we moved...\nAnd I don't think I could have gotten that close without the covering fire from Lady Saren and Lady Ameth.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "騎士さまに抱えていただいて、\n移動して……\nあと、\nサレンさまとアメスさまの援護射撃もなければ、\nあそこまで接近できなかったと思います。"
+    },
+    {
+      "name": "Saren",
+      "text": "I would've liked to hit her with something a bit more intense, though...\nBut since you guys made the call, I feel a sense of relief.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "もうちょっと強烈なやつ、\n当ててやりたかったけどね……\nそこはあんたたちが決めてくれたから、\nスッとしたわ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Yes... I'm glad I was able to trick the system into recognizing it as a \"gun attack\".\nFor that final strike, I reinterpreted my power of light.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はい……\n『銃攻撃』として、\nシステム側を騙せてよかったです。\n最後の攻撃は、\n自分の光の力を再解釈しました。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I mimicked a gun with my hand and emulated the process from charging to firing. I redefined the beam not as spirit magic, but as a high-energy [rub:Magic Beam]laser beam[/rub].",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "手を銃に模して、\n充填から発射のプロセスをエミュレートしたのです。\n光線を精霊魔法ではなく、\n高エネルギー[rub:レーザー]光線銃[/rub]として\n再定義しました。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Not as an [rub:Luminous]\"Arrow of Light\"[/rub] but as a [rub:Luminous]\"Bullet of Light\"[/rub].",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "“[rub:ルミナス]光の矢[/rub]”ではなく、\n“[rub:ルミナス]光の銃弾[/rub]”として。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Even if I couldn't directly interfere with the system rules themselves, I reasoned that I could use my power of light to reconstruct things in a way that aligned with the FPS mechanics.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "ルール自体にシステム干渉はできなかったとしても、\n自分の光の力であれば、\nFPSに沿う形に再構築できると考えたのです。"
+    },
+    {
+      "name": "Euros",
+      "text": "I see... That was an amazing last-minute battle... Everyone, you're amazing~✿",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "なるほど……\nすごいギリギリの戦いだったのね……\nみんな、\nすごいわ～✿"
+    },
+    {
+      "name": "Euros",
+      "text": "And... Aglaia.\nYou really did your best.\nYou've grown up so much...",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "それに……\nアグライア。\n本当によく、\nがんばったわね。\nすっかり大きくなっちゃって……"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Oh, not at all!\nI owe it all to Lord Knight!\nAfter all, he's helped me every step of the way...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "いえいえ！\nこれも全て、\n騎士さまたちのおかげなのです。\nここまで、\n助けられてばかりでしたから……"
+    },
+    {
+      "name": "Saren",
+      "text": "Indeed. It was your desire to save your Big Sister that gave us the persistence to keep going.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうよ。\nアグライアの\n「お姉ちゃんを助けたい」って気持ちがあったから、\nあたしたちも\n粘ってがんばれたのよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yup. Even I was surprised...\nFiring a [rub:Luminous]\"Bullet of Light\"[/rub] at point-blank range just to make absolutely sure it wouldn't miss was a clever idea.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええ。\n[rub:ルミナス]光の銃弾[/rub]を絶対外さないように、\nゼロ距離射撃するだなんて、\nあたしだって驚いたもの。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You minimized the risk of losing as much as possible, and then you went through with it.\nYou were able to do that because your feelings for your Big Sister were so unwavering.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "負けるリスクを極力減らした上で、\nそれを実行してみせたのよ。\nアグライアに真っすぐな想いがあったから、\nできたことでしょ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Y-You think so...? Hehe, thank you.\nI'm glad I didn't give up and kept thinking about it.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "そ、\nそうですかね……\nえへへ、\nありがとうございます。\n諦めずに、\n考え続けてよかったです。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "\"With this, we have successfully retrieved Lady Euros.\nNow only one problem remains, how do we solve the problem [rub:Reality]\"over here\"[/rub]?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『これで、\nエウロスさまは取り戻せましたね。\nあとは、\n[rub:こちら]現実[/rub]の問題をどう解決するかです……』"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Right... Big Sister Euros. The world of reality is in trouble.\nThey say the infrastructure has been hijacked and that natural disasters might even occur...\nDid you happen to hear any information while you were being held captive?",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はい……\nエウロスお姉ちゃん。\n現実世界が大変なんです。\nインフラがジャックされて、\n天変地異も起こるかもしれないって……\n捕まっているあいだに、\n何か情報を聞いてたりしないですか？"
+    },
+    {
+      "name": "Euros",
+      "text": "Yes, I've heard some good stuff♪ We're in luck✿ With a little effort, we might just be able to solve this ourselves!",
+      "choice_data_list": [],
+      "orig_name": "エウロス",
+      "orig_text": "ええ、\n聞いているわよ♪\n幸運にもね✿\nうまくすれば\n私たちの力で、\n解決できるかもしれないわ！"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} and his companions triumphed over Rukbat and Chiron. With the time limit fast approaching, they pinned their hopes on the information held by Euros.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ルクバトとキロンに打ち勝った{0}たち。\nタイムリミットが迫る中、\nエウロスが持つ情報に懸けるのだった。"
+    }
+  ]
+}

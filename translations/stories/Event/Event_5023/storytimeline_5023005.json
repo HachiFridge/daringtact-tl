@@ -1,0 +1,632 @@
+{
+  "title": "Mandragora Hunters",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After school, Aoi gathers {0} and the others\nfor an emergency meeting in a classroom.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "放課後、アオイの呼びかけによって、\n{0}たちは教室に集まっていた。"
+    },
+    {
+      "name": "Aoi",
+      "text": "I-I'm sorry for calling you all on such short notice!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あ、\n集まっていただいてすみません、\n皆さん。"
+    },
+    {
+      "name": "Chloe",
+      "text": "No biggie, really.\nWe're used to it by now.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "いいけど、\nべつに。\nてか、もう慣れたし。"
+    },
+    {
+      "name": "Chieru",
+      "text": "The five of us are like, basically \\\"the squad\\\" at this point, huh?\nThe usual suspects. The trouble bubble.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "なんかもうこの五人、\nすっかり「いつメン」ってカンジですもんね。\nいつもの面子、\n通称掃き溜め。"
+    },
+    {
+      "name": "Yuni",
+      "text": "A distinguished team deserving of the name of the Yuni-ettes.\nI couldn't be more proud.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ユニちゃんズという名に\n恥じぬ活動をしていると思うよ。\n実に誇り高い。"
+    },
+    {
+      "name": "Aoi",
+      "text": "So, um... listen.\nThere's... something terrible happening in this academy!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "それで……\nその、\n実は、\n大変なことが起きてまして。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Like our guild name getting savagely mangled?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ギルド名が勝手に変えられてるとか？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Like our guild name getting hijacked by cringe?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ギルド名からセンスが奪われてるとか？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Endure it... I must endure it...\nFacing resistance and ridicule is the burden of all visionaries...!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "耐えろ、\n耐えるんだぼく。\nいつだって先駆者というものは\nぞんざいに扱われるもの……！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Um... It's actually about the plant\nour teacher mentioned just after my presentation...",
+      "choice_data_list": [
+        "The huge, humanoid-looking one?"
+      ],
+      "orig_name": "アオイ",
+      "orig_text": "その……\nさっき特別講座の後に、\n先生が仰っていた、\n植物……\nなんですけど。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Yes. I'm not, um... quite sure how to say this, but...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "はい。\n実はその……\n大変申し上げにくいのですが……"
+    },
+    {
+      "name": "Aoi",
+      "text": "I think it might be the Mandragora I brought when I arrived!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "それ、\n私が持ってきた\nマンドラゴラかもしれないんです。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm. I see—this explains a lot.\nThe draining of the academy's pond water\nmust also have been this Mandragora's doing.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ。\nなるほど\n得心がいった。\n学内の池の水が干上がっていたというのは、\nそのマンドラゴラの仕業のようだね。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh... Actually, now that you mention it,\nsome of my friends said they'd seen a big, hulking thing around!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あー\nそういえばチエルも友達から、\nなんか変なのが歩いてる\nとかって聞いたかもですー"
+    },
+    {
+      "name": "Chloe",
+      "text": "A Mandragora from the Elven Forest, huh.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "エルフの森の\nマンドラゴラ……\nか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "No... From young Aoi's description,\nI'd wager that this is a Toxic Mandragora—quite the distinct breed.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いや、\nアオイ君の証言から類推するに、\nそいつはきっと\nオオドクマンドラゴラと呼ばれる亜種だろう。"
+    },
+    {
+      "name": "Yuni",
+      "text": "I presume you mistook it yourself for an ordinary Mandragora?\nWell, I can't blame you.\nEven in the Elven Forest, this species is exceptionally rare.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "一般的なマンドラゴラと誤認して\n持ちこんでしまったのだね？\nまあ、\n仕方あるまいよ。\nエルフの森においてさえ\n大変な希少種らしいからな。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Wow, Yuni, you're amazing!\nThere aren't many people who know about our native plants...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ユニさんすごいです！\nエルフの森の植物なんて、\nなかなか知ってる人いないのに……！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Please, my dear Aoi, these are fundamental basics.\nDear me, ha ha ha!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "こんなものは基礎知識、\n常識的範疇だよ。\nいやいや\nはっ\nはっ\nは。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Wow, what a smug expression!\nSomeone's seeking praise and attention!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "得意げですねユニ先輩。\nもっと褒めろって顔してますよこれ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "A Toxic Mandragora...",
+      "choice_data_list": [
+        "Something up?"
+      ],
+      "orig_name": "クロエ",
+      "orig_text": "オオドクマンドラゴラ……"
+    },
+    {
+      "name": "Chloe",
+      "text": "Huh?\nOh... no, I was just like, uh, remembering something?\nDon't worry, I'm good now.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "あ？\nあーっと、\nちょい考え事ってか……\n思い出し中？\nでももう大丈夫。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Yeah. Let's capture that thing.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "よし、\nソイツ捕まえよう。"
+    },
+    {
+      "name": "Chieru & Yuni",
+      "text": "Huh?!",
+      "choice_data_list": [],
+      "orig_name": "チエル・ユニ",
+      "orig_text": "は！？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Y-you'll really help me recapture it?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "て、\n手伝っていただけるんですか……！？"
+    },
+    {
+      "name": "Chloe",
+      "text": "I mean, isn't that why you called us here?\nIt's fine. I know I'm up for it.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てか、\n今日うちら呼んだのそういうことっしょ？\nいいよ、\n捕まえるよ全然。"
+    },
+    {
+      "name": "Aoi",
+      "text": "O-oh, Chloe...! I can't thank you enough!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ク、\nクロエさん……\n私、\nうれしいです……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Whoa, whoa, whoa! What's gotten into you, Chloe?!\nIsn't this usually where you'd be all\n\\\"Nope in, nope out, nope it all about\\\"?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ちょちょちょ、\nどうしちゃったんですかクロエ先輩！？\nいつもなら\nめどい、\nめんどい、\nめんどいんとか言ってるところでしょ！？"
+    },
+    {
+      "name": "Chloe",
+      "text": "What's that hokey phrasing?\nI've literally never said that.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "何その三段活用。\nそんなこと言わんし。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Could it be you're feeling unwell, perchance?\nPlease, feel free to retire to your room...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "もしや\n具合でも悪かったのかね？\nそれは悪いことをしてしまった……"
+    },
+    {
+      "name": "Chloe",
+      "text": "One positive statement, and this is what I get?\nWhat do you take me for. Pff...",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "うちが前向き発言すると\nここまで言われんだ。\nわりかし心外。\nぷー……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Sooo~?\nWhat was it that you suddenly remembered?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "それで？\nクロエ先輩はいきなり\n何を思いだしたんです？"
+    },
+    {
+      "name": "Chloe",
+      "text": "...Well, I guess I can come clean.\nSee, I used to work at... wait, no, [i]visit[/i] this weird store,\nand I heard something there once.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "……まぁいいか、\n言っても。\nや、\n前にうちが働いてた……\nじゃ\nなくて\n行った\nヘンな店で、\nちょっと聞いたことあんだけど。"
+    },
+    {
+      "name": "Chloe",
+      "text": "The Toxic Mandragora.\nPriced on the black market at...",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "オオドクマンドラゴラ。\n裏市場でのその\n流通価格は──"
+    },
+    {
+      "name": "Chieru & Yuni",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "チエル・ユニ",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "Aoi",
+      "text": "U-um, hello? What are you three whispering about?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "み、\n皆さん……\nこそこそと何を？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Aoi! Have no fear!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "アオイ君、\n安心したまえ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "へっ！？"
+    },
+    {
+      "name": "Chieru",
+      "text": "We'll fix this up in a chelleroonie!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ちぇるっと解決してあげちゃう。"
+    },
+    {
+      "name": "Aoi",
+      "text": "U-um...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "はっ、\nはい……？"
+    },
+    {
+      "name": "Chloe",
+      "text": "We're on it.\nThat Mandragora of yours is as good as caught.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "任せなよ。\nマンドラゴラはうちらが\n絶対に捕まえてみせる。"
+    },
+    {
+      "name": "Chieru, Yuni & Chloe",
+      "text": "On our honor as the Friendship Club!",
+      "choice_data_list": [],
+      "orig_name": "チエル・ユニ・クロエ",
+      "orig_text": "なかよし部の名に懸けて！"
+    },
+    {
+      "name": "Aoi",
+      "text": "You guys...! I can't believe you'd do all this for me!\nI'll work hard too, on the honor of the BB Brigade!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "皆さん、\n私なんかのためにありがとうございます……！\n私もBB団として、\n精いっぱい頑張りますね……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "So, we just searched the whole school building,\nand now here we are on the school grounds.\nYuni, don't you have any trivia that could help us here?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "んで、\n校舎の中探し尽くしちゃったわけですけど。\n流れで外に出てきちゃったわけですけど。\nユニ先輩、\nなんかもっと豆知識ないんですかー？"
+    },
+    {
+      "name": "Yuni",
+      "text": "I wouldn't consider any of my knowledge trivial, young Chieru.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ぼくの知識を豆サイズにしないでもらえるかなチエル君。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Still, let's see. The Toxic Mandragora draws sustenance\nfrom airborne magical energy, and when fully grown, not only its roots\nbut also its flowers and fruits are poisonous.",
+      "choice_data_list": [
+        "Sounds dangerous."
+      ],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ、\nそうだな……\nオオドクマンドラゴラは\n空気中の魔力を栄養源とするのだが、\n成長しきった個体は、\n根のみならず\n実や花にまで毒を持つらしい。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Indeed.\nHowever, that poison itself is highly valued in many fields.\nThe bitterest medicines are often the best, as the saying goes.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "然り。\nだが、\nその毒こそが\n様々な分野において重宝されるのだよ。\n苦みこそが良薬の条件、\nとはよく言ったものさ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "And the thing grows at turbo speed outside the forest, right?\nIf we don't find it soon, that's gonna spell trouble...\nIt's even got enough smarts to hide itself, like bugs and fish.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てかそいつ、\nエルフの森以外だと成長速度オニらしいじゃん。\nなーんか早いトコ見つけないと面倒ぃーことになりそ……\n生意気に虫とか魚みたく、\n隠れるって知恵があるらしいし。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm? These details weren't in the texts I read...\nMost intriguing... Is this knowledge passed down among elves?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ？　\nそれは書物には載っていなかったな。\n興味深い……\nエルフの間に伝わる口伝かね？"
+    },
+    {
+      "name": "Chloe",
+      "text": "I think I heard a couple other things about 'em, too...\nWhat was it again? I shoulda taken that job more seriously.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "他にもなーんか聞いたことあるような気がすンだけど。\nなんだっけなー、\n適当にバイトすんじゃなかったなー"
+    },
+    {
+      "name": "Chieru",
+      "text": "Um, Chloe? Part time work's against school rules...\nWell, I'll pretend I didn't hear anything.\nI'm a sweetie pie who knows how to keep secrets!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "……クロエ先輩、\nこの学校バイト禁止ですよ？\nまぁ、\n聞かなかったフリしますけど。\nチエルは空気の読める愛され系女子ですから。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Still, a plant with the intelligence to conceal itself...\nWe may have quite some trouble finding it.\nIf only we had some other way to investigate...",
+      "choice_data_list": [
+        "Let's try asking other plants.",
+        "Let's try asking the animals."
+      ],
+      "orig_name": "ユニ",
+      "orig_text": "しかし、\n植物だてらに身を隠す習性まであるとはな……\nそうなると捜索活動も難航しそうだ。\n何か打開策はないものか……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Um...? Have you finally lost it completely, {0}?\nIs talking to flowers your hobby? Do you hug trees too?\nShould we take you to a head doctor?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい？　\nいきなり何言いだしてんですか先輩。\nお花とお話しできちゃう系ですか。\nゆめかわ系ですか。\nちょっとどうかと思いませんか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm. Has young {0} found a flair for fairytale fancy?\nA ploy to accentuate his childish charms...? So be it.\nCome, leap into my motherly bosom. Let me shower you with affection.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "む。\n突然後輩がメルヒェンなことを言い出したね。\n穢れを知らぬ幼児アピールだろうか……\n致し方なし、\nほら、\nぼくの胸に飛び込んでくるといい。\n撫でてあげよう。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Of course!\nWhy didn't I think of that myself?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "そうだ！\nその手がありましたね、\n{0}さん！"
+    },
+    {
+      "name": "Chloe",
+      "text": "Ohhh... Good call.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "なーる……\nそれな。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ah, yes... I [i]have[/i] heard that the elves who protect the forest...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "そうか、\nそういえば森を守るエルフは……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Huh? What the heck's the deal now? You guys?\nDon't leave me standing here like the odd cutie out!\nDo I need to cry? Are you heartless goons who'd make a girl cry?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい？　\nなになに何です、\nみんなして。\nチエルのけ者にするなんていい度胸じゃないですか。\n泣きますよ？　\n乙女の涙に勝てると思わないことですね！"
+    },
+    {
+      "name": "Aoi",
+      "text": "The truth is, I can talk to all kinds of plants and animals!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "私、\n植物や動物とお話しができるんです！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Huh? For reals?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "へ？　\nまじ？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Yes!\nWait here a moment! I'll ask them right away!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "はい！\n待っててください！　\n今聞いてきますね！"
+    },
+    {
+      "name": "Aoi",
+      "text": "I didn't know the academy even had a building like this...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……聖テレサ女学院に、\nこんなところが……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Uerghh... What's this atmosphere? Like some kind of ruin or dungeon...\nHey, Aoi~? Is your stray Mandragora really in a place like this?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ふえぇ、\n何この雰囲気……\nほとんど廃屋、\n通称ダンジョン。\nアオイちゃーん？　\n逃げたマンドラゴラ、\n本当にこんなトコいるのぉー？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Y-yes. The flowers behind the school\nsaid they'd seen it sneaking inside...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "は、\nはい。\n校舎裏にいたお花さんが、\nこの旧校舎に入っていくのを見たって……"
+    },
+    {
+      "name": "Chloe",
+      "text": "Even so... Searching this big old place'll be a massive pain.\nYuni, this building's your turf.\nTell me you've got some handy tips right about now.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "つってもなァー……\nこの広い中、\n漠然と探すのはダル過ぎ。\nユニ先輩、\n旧校舎のヌシじゃん。\nなんか、\nここ関係のお役立ちトピックとかないんすか。"
+    },
+    {
+      "name": "Yuni",
+      "text": "No... While it's true that the Ivory Tower I call home does lie nearby,\nI'm afraid I have little call to venture into the old schoolhouse proper.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いや、\n確かにぼくの居城たる『象牙の塔』は\n旧校舎側にあるがね。\n他の棟には\n生憎ほとんど立ち入ったことがないのだよ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Right, you're a true shut-in, aren't you?\nFor all your \\\"magic of youth\\\" talk, you never go outside if you can help it.\nSo of course you'd be no use when we need you! Don't sweat it! ♪",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ああ、\nユニ先輩キホン引きこもりですもんね。\n青春したいとか言ってて\n積極的に外へ出るわけでもないし、\n肝心なときに使えなくても仕方ないですよ。\nどんまいっ♪"
+    },
+    {
+      "name": "Yuni",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Chloe",
+      "text": "Chieru, there's snark, and then there's verbal manslaughter.\nThe light's gone out of the poor girl's eyes...",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "チエル。\n言葉の刃が鋭すぎんよ。\nユニ先輩、\n目から光が消えちゃったじゃん。"
+    },
+    {
+      "name": "Yuni",
+      "text": "...N-no, wait!\nMy vast knowledge can still be of use here!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "……い、\nいや、\n待て。\nぼくの情報量を見くびってもらっては困る。"
+    },
+    {
+      "name": "Yuni",
+      "text": "As a chronic note-taker, I have records of all the minor chitchat\never made by this school's faculty!\nPerhaps I can uncover some leads! Give me one moment!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "メモ魔のぼくは、\nこれまで教員たちが口にした\n些細な徒然もいちいち記録している。\n何か手掛かりがあるやもしれぬ、\nしばし待つのだ。"
+    },
+    {
+      "name": "???",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Ah!\nDid you all hear that?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……！\n皆さん、\n聞こえましたか！？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Uh, I didn't hear anything?\nWhat now, Aoi, you going for a spooky trail experience?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "や、\n何も聞こえないけど。\nなにアオイちゃん、\n肝試ししたくなっちゃった？"
+    },
+    {
+      "name": "Chieru",
+      "text": "I'm game! Let's make our own spooky trail!\nSadly I'm way too cute to play a ghost or monster,\nbut if you put Chloe in a shadowy corner, she won't even need—",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "いいよ？　\nやろっか、\n肝試し？\nチエルは可愛すぎちゃってお化け役とか無理だけど、\nクロエ先輩だったら真顔で暗がり立たせとくだけで──"
+    },
+    {
+      "name": "Aoi",
+      "text": "N-no, ah...\nI just thought I heard a voice from behind this door...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "い、\nいえ……\nその、\nこの扉の奥から、\n声が……"
+    },
+    {
+      "name": "Chieru",
+      "text": "So in the... \\\"Main Auditorium\\\"? That's what this sign says.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あの先は……\n大講堂？　\nって書いてありますね。"
+    },
+    {
+      "name": "Yuni",
+      "text": "The old schoolhouse's main hall?\nHrm. I have heard the school matriarch speak of the place...\nThis area has long been sealed off due to severe structural decline.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "旧校舎の大講堂、\nだと？\nはて、\n学院のマザーたちから聞いたことがあるが……\nその区画は\n老朽化が甚だしく、\n永らく封鎖されているはずだ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "So if you really did hear a voice from inside...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "にも関わらず声がした、\nということは──"
+    },
+    {
+      "name": "Chloe",
+      "text": "Must be... bingo?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "大当たり、\nってヤツ？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Isn't this getting chellerific, {0}?!",
+      "choice_data_list": [
+        "Let's take a peek inside."
+      ],
+      "orig_name": "チエル",
+      "orig_text": "こいつぁ、\nちぇるって来ましたね！\n{0}先輩！"
+    },
+    {
+      "name": "Mandragora",
+      "text": "GRRRUUOOOOGHH!",
+      "choice_data_list": [],
+      "orig_name": "マンドラゴラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm...\nRejoice, my compatriots. We've found our target.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ……\n喜べ諸君、\n目標発見だ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Looks like it!\nBut I've got one little question...",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ですねー\nでもですよ、\nせんぱーい。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Pff... How do we catch [i]that[/i].",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ぷー……\nどーすんのこれ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Wh-wh-wh...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "な、\nなな……"
+    },
+    {
+      "name": "Aoi",
+      "text": "When did it get so ridiculously enormous?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "なんでこんなに大きくなってるんですか―っ！？"
+    },
+    {
+      "name": "Narration",
+      "text": "Aoi and the others were shocked to see\nthat the Mandragora had grown beyond all their expectations.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "発見したマンドラゴラの大きさに、\n驚きを隠せないアオイたちだった。"
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "title": "Welcome dream!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "This is \"Grand Dream Park\" - once the largest entertainment facility in Gio Teogonia,\nhas been taken over by monsters and transformed into a grotesque sight.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ここは『グランドリームパーク』──\nかつてジオ・テオゴニア最大の娯楽施設だったが、\n魔物に乗っ取られ、見るも無残な姿に変貌していた。"
+    },
+    {
+      "name": "Narration",
+      "text": "Thanks to the efforts of {0} and the others, we were successful in eliminating the monsters, but the amusement park was left in ruins in the aftermath of the battle. The once lively atmosphere remains distant--",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちの尽力で魔物の排除には成功したものの、\n戦いの余波で遊園地は壊滅状態。\nかつての賑わいは遠いまま──"
+    },
+    {
+      "name": "？？？",
+      "text": "Heave ho, heave ho...\nHeave ho, heave ho, Here we go...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "よいしょっ、\nこらしょっ……\nよいしょっ、\nこらしょっ……"
+    },
+    {
+      "name": "Narration",
+      "text": "──She seemed to be a crab.\nBut there was a girl working hard to remove the rubble.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──かに思われたが。\nそこには一人、瓦礫の撤去に汗する少女がいた。"
+    },
+    {
+      "name": "クルル",
+      "text": "よいしょっ、\nこらしょっ……\nこらしょっ……",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "よいしょっ、\nこらしょっ……\nこらしょっ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ugh... it hurts...\nMy whole body is cracking and creaking from muscle pain~.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "う～っ……\nいたた～……\n筋肉痛で\n全身ばきばきのぐっきぐきです～っ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "...But I have to do my best.\nAt first, it felt overwhelming,\nbut finally, I can see it...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……でもでも、\n頑張らなくっちゃ。\n初めは途方もなく感じちゃったけど、\nついについに\n見えてきたんですからっ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "On the day of the renewal opening of \"Grand Dream Park\"...... Ahh!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "『グランドリームパーク』の、\nリニューアルオープンの日……\nひぎゃっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh no, there's debris even here...\nWe still have a long way to go...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "いたた～\nこんなところにも瓦礫が……\nまだまだ先は長いですっ……"
+    },
+    {
+      "name": "Croce",
+      "text": "Are you okay, Kururu-chan!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "大丈夫ですかーっ、\nクルルちゃーんっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh, Croce-san!\nThank you for worrying about me!\nI'm totally fine!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あ、\nクローチェさーん！\nご心配いただき\nありがとうございますっ！\nわたしは全然大丈夫──"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh my! That's a huge amount of debris all at once!?\nAs expected of the mechanical tribe.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "って、\nわわっ！　\n一度にそんな大量の瓦礫を～っ！？\nさすが機械人族さんですっ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Sure thing! Knight-san and I will handle this together!\nPlease stay away because Kururu-chan is in danger!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ですねっ！　\nここはわたしとナイトさんでやっておきますっ！\nクルルちゃんは危ないので\n離れていてくださいねっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Please let me do it too!\nI can't possibly let you two work while I rest!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "そんなっ、\nわたしにもやらせてくださいっ！\nお二人に働かせて自分は休んでるなんて、\n絶対絶対できませんですっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "I'm still... very unreliable.\nBut I am the manager of \"Grand Dream Park,\" so, you know!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わたし\nこれでも……\nすっごく頼りないですけどっ。\n一応一応、\n『グランドリームパーク』の支配人ですのでっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Alright! I'll carry the next debris.\nReady, set, go...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "よしっ！　\n次の瓦礫を運びますですっ。\nせ～のっ。\nよっこらしょ……\nっと！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "What the...?!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ひぎぃぃぃ～～っ！？"
+    },
+    {
+      "name": "Croce",
+      "text": "Kururu-chan!?\nThere's a strange sound coming from my waist!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "クルルちゃんっ！？\n腰からなんか変な音しましたよっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "......Ugh. I'm pathetic....\nI'm weak, clumsy, stupid, and slow,\nI'm a hopeless, bumbling rabbit....",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……ううぅ。\n情けないですぅ……\nわたしは非力でおっちょこちょいでバカでのろまな、\nダメダメポンコツうさぎですますっ……"
+    },
+    {
+      "name": "Croce",
+      "text": "That's right, Kururu-chan! \nI'm just not very good at physical work!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "そうですよクルルちゃんっ！\n力仕事がちょっと苦手なだけですっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Kururu-chan has something that only Kururu-chan can do!\n",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "クルルちゃんには、\nクルルちゃんにしかできないことがありますよっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "What can only I do...\nWhat is that?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わたしにしかできないこと……\nそれって\nなんですますかっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "What could it be!?!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……\nなんでしょうねっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Whoa!?\nSomething only I can do...\nSomething only I can do...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわわっ！？\nわたしにしかできないこと……\nわたしにしかできないこと……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh, I see!\nThe thing only I can do is... this!\n...Here we go!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あっ、\nわかりましたっ！！\nわたしにしかできないことは……\nこれですっ！\n……よいしょっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes!\nThis is the morning's gratitude for removing the debris, and this is for lunch♪\nAnd this one is for the upcoming renewal opening celebration♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいっ！\nこっちは瓦礫撤去の朝の分のお礼でー、\nこっちは昼の分っ♪\nそしてこっちは、\nもうすぐリニューアルオープン記念です♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Please don't hesitate to take as much as you like♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "どぞどぞ\nご遠慮なくっ♪\nこれがわたしにしかできないことですからっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Whaaat?! Why won't you accept it~?!\nPlease don't hold back~~!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ほえぇっ！？　\nなんで受け取ってくれないんです～っ！？\n遠慮しないでくださ～～いっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "っ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "I don't need it either!\nHelping with the recovery is at the command of Lady Lailael!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わたしもいりませんっ！\n復興のお手伝いは\nライラエルさまのご命令ですのでっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh... are you two gods?!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "お……\nお二人は\n神様なんですかっ！？"
+    },
+    {
+      "name": "Croce",
+      "text": "No! I am a machine tribe!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "いいえっ！　\n機械人族ですっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Hahaha, Croche.\nI'm glad to have made a friend.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっは、\nクローチェ。\n友達ができてよかったのぅ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Oh, Grandpa Popo!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\nポポおじいさんっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Popo, thank you for your hard work! Yesterday, thank you for the meeting about the new attraction! ...Um, today...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ポポおじいさま、\nお疲れさまですますっ！\n昨日は新アトラクションの打合せ\nありがとうございましたっ！\n……えーと、\n今日はー……？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh, is that so?\nYesterday, did you hear a lot about a world called Randsol from Kururu and Kozou?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ああ、\nそれなんじゃが。\n昨日\nクルルや小僧に\nランドソルとかいう世界の話を\nたくさんしてもらったじゃろ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Once I heard that, I couldn't stop overflowing with ideas for the new attraction!\nI immediately went to create the blueprint!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "それを聞いたら、\n新アトラクションのアイデアが溢れて止まらんでな！\n早速\n設計図作ってきたぞいっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "What!?! And all of a sudden yesterday, and three portions at that!?! \nIs Popo Grandpa a god!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ええっ！？　\n昨日の今日で、\nしかも３つ分もっ！？\nポポおじいさまは\n神様なんですかーっ！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Hahaha, we are the Kobold tribe. We're a bit of a genius!\nCome on, young man, I'll show you something special!\nIs there anything that catches your eye?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっは、\nコボルト族じゃ。\nちっとばかし\n天才じゃがの！\nほらほら\n小僧も特別に見せてやろう！\nどれか気になるのはあるか？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hmm, hmm! Modifying the giant tribe of Gio Teogonia with the motif of Ambrose Magic Academy! Riding on the back of a giant with a broom-shaped coaster, an exciting attraction... is what it is♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ふむふむっ！　\nアンブローズ魔法学園をモチーフに、\nジオ・テオゴニアの\n巨人族を魔改造！　\n巨人さんの背中を、\n箒型のコースターで疾走する、\nエキサイティングなアトラクション……\nですって♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Whoa! Could it be that, they've customized the go-kart with Lord Lirael!? Race against each other in a speed competition attraction, with lots of obstacles on the track! The ultimate item is Lord Lirael's lightning strike!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわわっ！　\n恐れ多くも、\nライラエルさまとゴーカートを魔改造っ！？\nレース形式でスピードを競うアトラクションで、\nコース上にはたくさんの\nお邪魔アイテム！　\n最強アイテムはライラエルさまの落雷ですますっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow! Volgano-san and the cat café's magical transformation!\nSharing a spinning coffee cup with either a cat or Volgano...?\nA thrilling and exciting attraction...♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わわっ！　\nヴォルガーノさんと猫カフェの魔改造！\nくるくる回るコーヒーカップに相席するのは、\n猫かヴォルガーノか……？\nハラハラドキドキのアトラクション……\nですって♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow... all the others are wonderful too♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わぁっ……\n他のも全部素敵ですますっ♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Hahaha, I'm glad you liked it!\n...Now, which one should I make?\nThe cost is also quite significant, so think carefully--",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっは、\n気に入ってくれたようでなにより！\n……さて、\nそれじゃあどれを作るかの？\n費用もそれなりに掛かるからじっくり悩んで──"
+    },
+    {
+      "name": "Kururu",
+      "text": "I'll make them all ♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "全部作りますっ♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "What!!?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "なぬっ！！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "...Wow, what decisiveness.\nI like that spirit! \nIf Kururu is motivated, then I'll lend a hand too!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "……い、\nいやはや、\nなんという決断力。\nその心意気、\n気に入ったぞい！\nクルルがやる気なら\nワシも一肌脱いでやるっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh! A boy without dreams!\nIf you think about it later... Huh?\nWhat's wrong, Kururu...?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "かーっ！　\n夢のない小僧じゃ！\nそんなもん後から考えりゃ……\nん？\nどうしたクルル……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hmmmmmm...\nHmmmmmmmmmmm...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "むむむ～～～っ……\nむむむむむ～～\n～っっっ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "……Yes!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……はいっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow! Jewelry is born from Kururu-chan's chest......!?\nIs this some kind of magic trick!?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わわわっ！？　\nクルルちゃんのお胸から宝石が生まれてっ……！？\nこれって\n手品かなにかですかーっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "No, there are no seeds or traps! I'm a gem rabbit, so I can use the magic of \"producing jewels\"!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "いえいえっ、\n種も仕掛けもございませんですっ！\nわたしは宝石兎なので、\n『宝石を生み出す魔法』が使えちゃうんです！"
+    },
+    {
+      "name": "Kururu",
+      "text": "I-I'm sorry for surprising you!\nCome to think of it, I've only shown you the power of using magical gems, haven't I, Hero-san?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわわっ、\n驚かせちゃってすみませんですっ！\nそういえばヒーローさんには、\n魔宝石を使う力しかお見せしてなかったですもんね。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Actually, I was able to use this power too♪ Ehehe!\n...I got carried away being all high and mighty, I apologize for getting so formal~!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "実はこんな力も使えちゃったんです♪　\nえっへんっ！\n……とか偉そうでした調子に乗りましたすみませんですます～っ！！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Well, I was surprised...I had heard that the power source of the lights and sound system in this park uses the power of magic gems, but to have this much power! Kururu, can you endlessly produce that power!?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いやはや\n驚いた……\nこのパークの明かりや音響などの動力源は、\n魔宝石の力を使うとは聞いていたが、\nこんな力まで！\nクルル、\nそれは際限なく生み出せるもんなのか！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes, I will! Now, one more thing.\nMmmmmm~!!!\n...Yes!! ...Phew.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいですっ！　\nではもう一つ。\nむむむ～～～っっ……！！\n……\nはいっ！！　\n……ふぅ。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh! It's just like alchemy, isn't it...!\nWith this, I can create as many attractions as I want!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "おおおっ！　\nさながら錬金術じゃな……！\nこれならいくらでもアトラクションを作ってやれるわいっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes, yes!!\nDon't worry about the funds!!\nPlease create a wonderful attraction~!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいですはいです！！\n資金のことはお気になさらず！！\n素敵なアトラクションを作ってくださいです～～っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Like this, armed with the \"infinite financial power\" created by Kururu,\nthe construction proceeded at a rapid pace. And a few months later--",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてクルルの生み出す『無限の資金力』を武器に、\n急ピッチで工事は進んだ。\nそして数か月後──"
+    },
+    {
+      "name": "Kururu",
+      "text": "...Finally!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……ついにっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Finally, finally!!\nFinally, finally, finally, finally......\nHaahaa......cough!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ついについにっ！！\nついについについについに……\nはぁはぁ……\nごほんっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Finally--!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "つ・\nい・\nに～～\n～っ！！"
+    },
+    {
+      "name": "Staff",
+      "text": "It's the reopening of \"Grand Dream Park.\"",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "『グランドリームパーク』の\nリニューアルオープンです。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Eh!? I've been told~!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ふえぇっ！？　\n言われちゃいましたぁ～っ！？"
+    },
+    {
+      "name": "Staff",
+      "text": "The manager seemed to be choking.\nI'm sorry for speaking out of turn as a hired janitor.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "支配人の息が詰まりそうでしたので。\n雇われ清掃員の分際で\nすみません。"
+    },
+    {
+      "name": "Kururu",
+      "text": "No, no, staff-san!\nI look forward to working with you from today!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "い、\nいえいえっ！　\nスタッフさんっ！\n今日からよろしくお願いしますですっ！"
+    },
+    {
+      "name": "Staff",
+      "text": "Yes, let's do our best.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "ええ、\n頑張りましょう。"
+    },
+    {
+      "name": "Croce",
+      "text": "Kururu-chan!\nA customer has arrived right away!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "クルルちゃんっ！\n早速お客さんが来ましたよーっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Mother: Yes, that's right!\nY-y-y-you...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はは、\nはいですっ！\nよ……\nよよよ……っ！！"
+    },
+    {
+      "name": "Staff",
+      "text": "Welcome to \"Grand Dream Park\".",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "ようこそ\n『グランドリームパーク』へ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Are you still using \"desu\" at the end of your sentences?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "またですます～っ！！？"
+    },
+    {
+      "name": "Ayane",
+      "text": "Hey!\nHey brother, I'm here~♪",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "お～い！\nお兄ちゃ～ん、\n来ったよ～♪"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Wow... It's a very cute amusement park♪",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "わぁ……\nとってもかわいい遊園地ですぅ♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Wow! What is this place? It looks like so much fun...\nNot really... Ahem, it smells like a big business deal here!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おおー！　\nなんですかここ\nすっごくたのしそ……\nじゃなくて……\nオホン、\n大きなシノギの匂いがしやがるですよ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Food court.\nAttack.\nGood.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ふーどこーと。\nせめる。\nよ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow, thank you for coming!\nEveryone, please have lots of fun today♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わーっ、\n来てくださってありがとうございますーっ！\nみなさん\n今日はたーっくさん楽しんでくださいねー♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow, we finally opened!\nOh, a customer!\nHow is it? Are you having fun?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はあ～、\nついにオープンしちゃいましたねー♪\nあっ、お客さんです♪\nどうですかー、\n楽しんでくださってますでしょうか～？"
+    },
+    {
+      "name": "Customer",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "お客さん",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kururu",
+      "text": "Huh... sigh... Huh, there's only an exit to go back that way...?\nAnd they just went home like that!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "え……\n溜息……\nあれ？\nそちらにはお帰りの出口しかありませんよー……？\nって、\nそのまま帰っちゃいましたですっ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Well, please wait... It's not just that person,\nbut many other people are leaving too!?\nW-What does this mean...!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ま、\n待ってください……\nあの方だけじゃなく、\n他にも大勢の方がお帰りに！？\nど、\nどういうことでしょう……っ！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ayane, Kurumi!\nHow about 'Grand Dream Park'!?\nAre you enjoying yourselves!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "アヤネちゃん、\nクルミちゃん！\n『グランドリームパーク』はいかがでしょう！？\n楽しんでくださってますかっ！？"
+    },
+    {
+      "name": "Ayane & Kurumi",
+      "text": "Um, let's see...",
+      "choice_data_list": [],
+      "orig_name": "アヤネ・クルミ",
+      "orig_text": "……ええっと……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Could it be that... even Momo is not enjoying herself...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "も、\nももも、\nもしかして……\n楽しくない……\nですます……？"
+    },
+    {
+      "name": "Ayane",
+      "text": "No, no way!\nThat's not true!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "う、\nううん！\nそんなことないよっ！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Yes...!\nI can feel Kururu-san's desire\nto entertain the guests from all over the park...\n",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "は……\nはい……！\nクルルさんが\nお客さんを楽しませたいって気持ち、\nパーク中から感じますぅ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "I would be happy if you say that...!\nI researched all the fun things in the world,\nand packed them all in... that's why.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "そう言ってくださるとうれしいです……っ！\nわたし\n世界中の楽しいことをいろいろ研究して、\nそれを全部詰め込んだんです……\nだから。"
+    },
+    {
+      "name": "Staff",
+      "text": "──So, are you...\ncramming too much stuff into what you want to do?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "──だから、\nやりたいことを詰め込み過ぎて\nごちゃごちゃしているかと。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh my goodness!\nW-What do you mean by that!?\nIf we gather only enjoyable things, it should become a fantastic place...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はわわっ！？\nそ……\nそれって\nどういうことですますかっ！？\n楽しいことだけを集めたら、\n絶対素敵な場所になるはずなのに……"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Kururu-san. I feel like I understand it a little bit.\nI thought about various things to make the customers enjoy it,\nbut if I include everything, the stage will become messy...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "クルルさん。\n私、\nちょっとだけわかる気がしますぅ。\nお客さんに楽しんでもらいたくて\nいろいろ考えたもの、\n全部入れると、\n舞台もごちゃごちゃになっちゃうから……"
+    },
+    {
+      "name": "Kururu",
+      "text": "But, but, amusement parks are a place where everyone should have fun...\nI want to turn everything fun into attractions!\nIs that not allowed?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "でもでも、\n遊園地はみんなに楽しんでもらいたい場所ですっ……\n楽しいものはぜーんぶっ！　\nアトラクションにしたいです！\nそれじゃダメってことなんでしょうか？"
+    },
+    {
+      "name": "Kurumi",
+      "text": "No, that's not it!\nIt's because I really want everyone to have fun!\nBut it's not good to cram things together...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "ううん、\nそうじゃないですよぅ！\nみんなに楽しんでもらいたいのは\nとっても大切な気持ちだから！\nだけど、\nごちゃごちゃに詰めこんだらダメなんですぅ……"
+    },
+    {
+      "name": "Staff",
+      "text": "That's right.\nIt's like packing ramen and cake in the same bowl.\nOr putting konpeito in curry, and somen in pudding.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "その通り。\nラーメンとケーキを、\n同じどんぶりに詰め込んでるようなものです。\nあるいは\nカレーに金平糖、\nプリンにそうめん。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Eek! It doesn't look delicious at all~! \nBut I want everyone to enjoy the amusement park like a box of gems.\nI want them all to go home feeling happy... What should I do...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ひええっ！　\nおいしくなさそうです～～っ！\nだけど\n遊園地は宝石箱みたいに、\nいろんな楽しさを味わってほしいです。\nみんなに幸せな気持ちで帰ってもらいたい……\nそれには\nどうしたら……？"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Of course♪ Spicy dishes and sweet cakes,\nit's fine to enjoy them on separate plates, you know♪",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "それはもちろん♪　\n辛いお料理と\n甘いケーキ、\nそれぞれ別々のお皿で楽しんでもらえばいいんですぅ♪"
+    },
+    {
+      "name": "Ayane",
+      "text": "I see! You have such a good point, Kurumi!\nThat's why it's called \"Grand Dream Park\" full course♪",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "なるほどね！　\nいいこと言うじゃない、\nさすがクルミ！\nそれを\n『グランドリームパーク』っていうフルコースにするわけね♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "So, but how can we do that?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "で、\nでもそんなことどうやって？"
+    },
+    {
+      "name": "Pukichi",
+      "text": "It's something to think about from now on!\nHey, Miss Kurumi, Ayane!\nBoy, you have an idea who the advisor is, right?",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『そいつはこれから考えるのさ！\nなあ、\nクルミの嬢ちゃん、\nアヤネ！\n坊ちゃんも、\nアドバイザーに心あたり、\nあるだろ？』"
+    },
+    {
+      "name": "Pukichi",
+      "text": "If it's about fairy tales, there's no one who can beat me, right?\nSurely about the amusement park,\nI'll help you out perfectly understanding!",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『メルヘンのことなら右に出るものはいねーぜ？\nきっと遊園地のこと、\nばっちり理解して手伝ってくれるさ！』"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow...?\nWho could it be...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ほぇ……？\n誰でしょう……？"
+    },
+    {
+      "name": "Narration",
+      "text": "A few days later...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それから数日後──"
+    },
+    {
+      "name": "Maho",
+      "text": "Wow, Kai Rashi amusement park, huh ♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "へぇ～、\nかいらし遊園地やねぇ♪\n王子はんと遊園地デートやなんて\nうれしいわぁ～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "...No, a date is just a joke♪\nIt's written all over your face that you have a favor to ask of me.\nShouldn't you tell me soon?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……いややわ、\nデートなんて\nほんの冗談どす♪\n何か頼み事があるって\n顔に書いてありますえ。\nそろそろ教えてくれへんやろか？"
+    },
+    {
+      "name": "Maho",
+      "text": "Wait a minute, Prince... There's a shadow running towards us with incredible speed from over there...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ちょっと待って、\n王子はん……\nなんか向こうから、\nすごい勢いで走って来る\n影があるんやけど……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wowww!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ははぁ～～～っ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh my, as soon as you come, you're bowing down.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あらあら\n来るなり土下座て。\nどないしはったん？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Nice to meet you for the first time!\nMy name is Kururu, the manager of \"Grand Dream Park\"!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "お初にお目にかかりますっ！\nわたしは\n『グランドリームパーク』の支配人\nクルルと申しますですっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Nice to meet you, I am Kururu ♪ Can you raise your head? It's hard to talk like this~",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ここの遊園地の支配人さん？　\n初めまして、\nクルルはん♪\n頭上げてもらえますやろか。\nお話ししにくいわ～"
+    },
+    {
+      "name": "Kururu",
+      "text": "No, no, please stay as you are, Savior-sama!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "いえいえ\nこのままで救世主様っ！"
+    },
+    {
+      "name": "Maho",
+      "text": "... Savior...?\nWho could that be...?\nUm, are you talking about the prince...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……救世主……\nはん？\nって、\n誰のことやろ……？\nあの、\n王子はん……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hero-san...!\nPlease, save this amusement park with your power!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ヒーローさんにお聞きしました……！\nどうかどうか、\nどうか\nあなた様のお力で、\nこの遊園地をお救いくださいませませですっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "God, Buddha, Savior...and...\nPrincess of the Kingdom of Mahomaho!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "神様、\n仏様、\n救世主様……\nそして……\n『マホマホ王国』のプリンセスっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Princess Maho~~~~!!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "マホ姫様～～\n～っ！！！"
+    },
+    {
+      "name": "Maho",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "…………へ？"
+    },
+    {
+      "name": "Narration",
+      "text": "At the challenging start of \"Grand Dream Park,\" the savior brought by {0} was a girl named Maho, who was unmatched when it came to fairy tales.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "前途多難なスタートを切った『グランドリームパーク』に、\n{0}が連れてきた救世主は、\nメルヘンと言えば右に出る者はいない少女、マホだった。"
+    },
+    {
+      "name": "Narration",
+      "text": "Will Maho really accept Kururu's offer?\nAnd what awaits at the destination of \"Grand Dream Park\"?",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "果たしてマホはクルルの申し出を受けるのか？\nそして『グランドリームパーク』の行く先には何が待ち受けるのか？"
+    },
+    {
+      "name": "Narration",
+      "text": "This is the story of a certain amusement park's recovery.\n──And.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "これは、とある遊園地が復興を遂げるまでの物語。\n──そして。"
+    },
+    {
+      "name": "Precia",
+      "text": "...First of all.\nShaved ice, please.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……まずは。\nかき氷、\nせいは。"
+    },
+    {
+      "name": "Narration",
+      "text": "The tale of a certain girl's conquest of all the food courts.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "とある少女のフードコート全制覇の物語。"
+    }
+  ]
+}

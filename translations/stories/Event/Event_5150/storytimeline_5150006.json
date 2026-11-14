@@ -1,0 +1,796 @@
+{
+  "title": "Runaway Generator",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After hearing Nebbia's true intentions and thinking that the summer commotion was over, at that moment, unexpected changes occurred in the environmental system 'Sol Generator' that Nebbia was manipulating.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ネビアの真意を聞き、ひと夏の大騒ぎも終わりかと思ったその時。\nネビアの操っていた環境システム『ソル・ジェネレーター』に\n予期せぬ異変が起きるのであった。"
+    },
+    {
+      "name": "Male",
+      "text": "Hey, it suddenly started raining!?",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "おいおい、\n急に雨が降り出したぞ！？"
+    },
+    {
+      "name": "Woman",
+      "text": "Huh, is this snow!? \nWow, it's cold...!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "えっ、\nこれって雪！？\nさ、\n寒いっ……！"
+    },
+    {
+      "name": "Boy",
+      "text": "Huh? It's really hot here~?",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "えっ？　\nこっちはすごくあついよ～？"
+    },
+    {
+      "name": "Girl",
+      "text": "Kyaa, the water bubble exploded...!?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "きゃあっ、\n水の玉がばくはつしちゃった……！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "The 'Soul Generator' has gone berserk...!? \nNebbia, stop it now!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "『ソル・ジェネレーター』が暴走しちゃってる……！？\nネビア、\n今すぐ止めなさい！"
+    },
+    {
+      "name": "Navi",
+      "text": "Wow, I get it! \nBut even though I've been restoring it since earlier, it keeps changing right away!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "わわわ、\n分かってるわよ！\nけどこれ、\nさっきから元に戻してるのに、\nすぐまた変化しちゃうのよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Nebbia-chan, can I see it for a moment?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ネビアちゃん、\nちょっと見せて？"
+    },
+    {
+      "name": "Homare",
+      "text": "...It seems like the environmental system is constantly changing in real time.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……現在進行形で\n環境システムが変更され続けてるみたいだね。\n修正命令を与えても、\nすぐに\n次の環境変化が起きてる。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...It seems like it's completely bugged.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……完全に、\nバグっちゃったってことね。"
+    },
+    {
+      "name": "Residents",
+      "text": "Wow~~~!",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "うわ～～～！"
+    },
+    {
+      "name": "Jun",
+      "text": "Leave that to me. I'll mobilize all the guild members and make it a hit.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "それに関しては\nこちらに任せてくれ。\n団員を総動員して当たらせる。"
+    },
+    {
+      "name": "Jun",
+      "text": "We won't let anyone get hurt. \n... After all, this is a fun summer event.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "怪我人の一人も出させやしない。\n……だってこれは、\n楽しい夏のイベントなのだから。"
+    },
+    {
+      "name": "Rei",
+      "text": "I'll help too. \nDon't worry, you should do what you need to do.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "私も手伝おう。\n安心して、\nキミはキミのなすべきことをするといい。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You all...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あんたたち……！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Now, Kuuka will confront this raging storm!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "では、\nクウカはこの荒れ狂う嵐に立ち向かいます！"
+    },
+    {
+      "name": "Rei",
+      "text": "Alright, I'll leave it to you. \n... Huh? Did she just say she's going to face the storm now?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "よし任せた。\n……ん？　\nいま嵐に立ち向かうって言った？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Yes! \nKuuka, Kuuka will do what she must...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "はい！\nクウカ、\nクウカのなすべきことをします……！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Kuuka, you're so cool~! \n~! Let's do it! We'll make it through!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "クウカねえちゃん、\nかっこい～！\nよ～し！　\nミソギもなすぞ～！"
+    },
+    {
+      "name": "Rei",
+      "text": "No need to do that! Kuuka, please refrain from behaving in a way that children will imitate and not understand!?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "なさなくていい！\nクウカ、\n子どもが真似するからわけの分からない行動は控えて！？"
+    },
+    {
+      "name": "Jun",
+      "text": "Kuuka-chan! If possible, I want you to help with the evacuation guidance! \nResist the desire to get tossed around by the wind and enjoy it too much!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "クウカちゃん！　\nできれば避難誘導を手伝ってほしい！\n風にもみくちゃにされて\n気持ちよくなりたい欲求を抑えて！"
+    },
+    {
+      "name": "The Troublemakers",
+      "text": "Eh...",
+      "choice_data_list": [],
+      "orig_name": "問題児たち",
+      "orig_text": "え～……"
+    },
+    {
+      "name": "Ameth",
+      "text": "You guys...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あんたたち……"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe. The town seems fine, doesn't it? If that's the case...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ。\n街の方は大丈夫そうだね～\nだったら……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yes, there is one thing we must do.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええ、\nあたしたちがやることは一つ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Oh no...!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あわわわ……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Calm down, Nebbia. Are you accepting the correction order itself for that system, right?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……落ち着きなさい、\nネビア。\nそのシステム、\n修正命令自体は受け付けてるのよね？"
+    },
+    {
+      "name": "Navi",
+      "text": "Huh? U-um. If you input \"Stop the rain\", it will stop temporarily. But the command to make it rain again will be executed soon.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "えっ？　\nう、\nうん。\n雨を止めるって入力すれば、\n一応は止まってるわ。\nすぐにまた降らせる命令が実行されちゃうけど。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...In other words, if someone constantly counteracts the orders, \nthe chaos will settle for now.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……つまり、\n誰かが常に命令を打ち消し続ければ。\nとりあえずこの混乱は鎮まるわけね。"
+    },
+    {
+      "name": "Navi",
+      "text": "Well, that's true but... Wait! \nFio, you don't mean to...!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "まぁ\nそうだけど……\nって！\nフィオ、\nあんたまさか……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "There's no helping it. If we leave it like this, Landosol will become uninhabitable for people.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "仕方がないでしょ。\nこのままにしておいたら、\nランドソルが人の住めない環境になっちゃう。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I have to stop it.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あたしが、\n止めなきゃ。"
+    },
+    {
+      "name": "Homare",
+      "text": "So... connecting oneself to the 'Sol Generator' and turning it into a vaccine, is that what you mean?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それって……\n自身を\n『ソル・ジェネレーター』に接続して、\nワクチンにしよう\nってことだよね？"
+    },
+    {
+      "name": "Homare",
+      "text": "I can't really recommend it~ \nThis environment system, being modified by the Kaiser, has \nan unusually high information density, right?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ちょっとオススメはできないかな～\nこの環境システム、\n覇瞳皇帝の手が加えられてるだけあって、\n普通じゃない情報密度だよ？"
+    },
+    {
+      "name": "Homare",
+      "text": "I have no idea how long it will take to normalize the program. \nDuring that time, Ameth-chan may not even be able to move. \nThe 'will' within you may not remain as it is.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "プログラムの正常化にどれだけかかるか、\n私でも見当がつかない。\nその時間ずっと、\nアメスちゃんは動くことすらできなくなるんだよ？\nあなたの中にある──\n『意思』が、\nそのまま残るとも限らない。"
+    },
+    {
+      "name": "ネビア",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "I understand. Even so, I'm a guide fairy.\nDealing with situations caused by this system is also my mission.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "分かってる。\nでも、\nあたしはガイド妖精なの。\nこういうシステムが招いた事態を\n何とかするのも使命だわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "And... guiding {0}'s future, that's my...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それに……\n{0}の未来を導くのが、\nあたしの……"
+    },
+    {
+      "name": "Ameth",
+      "text": "...You always say that, don't you. Thank you. Even so, it's okay.\nI'll fix this program right away--",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……あんたはそう言うわよね。\nありがと。\nでも大丈夫よ。\nこのくらいのプログラム、\nすぐに直して──"
+    },
+    {
+      "name": "Ameth",
+      "text": "- Huh? Access is being denied again...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "──えっ？　\nまた\nアクセスが弾かれて……？"
+    },
+    {
+      "name": "Navi",
+      "text": "Too bad♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ざ～んねんでした♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "Nebbia! \nIt's no time for jokes!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ネビア！\nふざけてる場合じゃないのよ！"
+    },
+    {
+      "name": "Navi",
+      "text": "You're the one who's fooling around! What's with the guide fairy, what's with the mission. You keep saying smart things.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ふざけてるのはあんたでしょ！\n何がガイド妖精よ、\n何が使命よ。\nお利口さんなことばっかり言っちゃってさ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あんた……！"
+    },
+    {
+      "name": "Navi",
+      "text": "First of all, you're barking up the wrong tree. It's my fault that it came to this, so I'll settle it myself.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "そもそもお門違いでしょ。\nこんなことになっちゃったのは私のせいなんだから\n落とし前は自分でつけるわ。"
+    },
+    {
+      "name": "Navi",
+      "text": "I will show you that I can control the environmental system.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "環境システムは\n私が制御してみせる。"
+    },
+    {
+      "name": "Ameth",
+      "text": "But, I don't know when I will be released? \nYou hate being bored, right? \nI can't bear it if it continues like this...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも、\nいつ解放されるか分からないのよ？\nあんた、\n退屈なのが大っ嫌いでしょ？\nずっとそれが続くの……\n耐えられるわけがないわ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Don't underestimate me, okay?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "舐めないでよね。\n私はあんたよりも新型なのよ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "But...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも──"
+    },
+    {
+      "name": "Navi",
+      "text": "- See you, big sister. Bye bye.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "──じゃあね、\nお姉ちゃん。\nバイバイ。"
+    },
+    {
+      "name": "Navi",
+      "text": "You were given a heart that can feel happiness, right? If that's the case, enjoy it more.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あんたは幸せを感じる心を与えられたんでしょ？\nだったらもっと、\n楽しみなさい。"
+    },
+    {
+      "name": "Homare",
+      "text": "Well, you said it coolly to 'believe in me', but \nI wonder what you will actually do~?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "さて、\n僕を信じてなんてかっこよく言ってくれたけど、\n実際どうするのかな～？"
+    },
+    {
+      "name": "Homare",
+      "text": "Yes, yes♪ Keep going, keep going~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "うんうん♪　\nがんばれがんばれ～♪"
+    },
+    {
+      "name": "Homare",
+      "text": "I think it's fine for you. To have someone who moves straight ahead without hesitation is a guiding light in itself.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "君はそれでいいと思うよ。\n迷わずまっすぐ動く人がいるっていうのは、\n一つの道しるべになるものだから。"
+    },
+    {
+      "name": "Homare",
+      "text": "Wow, no plan at all~☆\nIt's very much like you. If that's the case,\nwhy not just try running into it without thinking about anything~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "わぁ\nノープランだ～☆\n君らしくて\nとってもいいね。\nだったら、何も考えずに\nぶつかってみればいいんじゃないかな～"
+    },
+    {
+      "name": "Homare",
+      "text": "Well then. \nI will be myself and move as I like.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それじゃあ。\n私は私で、\n好きなように動こっかな。"
+    },
+    {
+      "name": "Navi",
+      "text": "Oh no, oh no. It's such a pain.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あ～\nやだやだ。\nめんどくさいったらないわ。"
+    },
+    {
+      "name": "Navi",
+      "text": "I involuntarily sacrificed myself. It's not like me at all.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "思わず自己犠牲っちゃった。\n私らしくもない。"
+    },
+    {
+      "name": "Navi",
+      "text": "...I'm not the type to do things for someone else's sake.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……誰かのためにどうとか、\nそんなタイプじゃないくせに。"
+    },
+    {
+      "name": "？？？",
+      "text": "If you're going to complain, just go out on your own.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぼやくくらいなら、\n一人で勝手に飛び出すんじゃないわよ。"
+    },
+    {
+      "name": "ネビア",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Navi",
+      "text": "Fio! Why are you... and that appearance...!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "フィオ！\nあんたなんで……\nそれに\nその姿……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Ah, it's because we're inside the program.\nIt seems like I have taken my true form.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ああ、\nプログラムの中なわけだからね。\n本来の姿になってるみたい。"
+    },
+    {
+      "name": "Navi",
+      "text": "...Not that! Why did you have to come in too! Stupid! Stupid Fio!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……じゃなくて！\nどうしてあんたまで入ってきちゃうのよ！\nバカ！　\nバカフィオ！"
+    },
+    {
+      "name": "Navi",
+      "text": "I have come all this way...",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "せっかく私が……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Nebbia.\nYou told me earlier, didn’t you?\nThat I have something important to me.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ネビア。\nさっき言ったわよね。\nあたしに、\n大事なものがある\nって。"
+    },
+    {
+      "name": "Ameth",
+      "text": "That's right. In that world, I gained many important things. I gained self-awareness, felt warmth... and created something I don't want to lose.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "その通りよ。\nあたしはあの世界に、\n大事なものがたくさんできた。\n自我を得て、\nぬくもりを知って……\n失いたくないものができた。"
+    },
+    {
+      "name": "Navi",
+      "text": "In that case...!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "だったら……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "You too, that's right.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あんたも、\nそうなのよ。"
+    },
+    {
+      "name": "Navi",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Nebbia. You're cheeky and foolish, my cute little sister.\nI won't abandon you.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ネビア。\n生意気で愚かで、\nかわいいあたしの妹。\nあたしは、\nあんたを見捨てない。"
+    },
+    {
+      "name": "Navi",
+      "text": "...Fio...",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……フィオ……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Well, then. I can't stay like this forever. Nebbia, let's do something about this situation together. We will fix the bug in the environmental system.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "さて、\nと。\nずっとこうしちゃいられないわ。\nネビア、\nあたしたちでこの状況をなんとかするわよ。\n環境システムのバグを修復するの。"
+    },
+    {
+      "name": "Navi",
+      "text": "With me and Fio, huh. \nHehe, it's still better with two people than doing it alone.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "私とフィオで、\nか。\nふふっ、\n一人でやるより\n二人の方がまだマシね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "No, it's not just the two of us. \n... He was saying that, to trust him.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "いいえ、\n二人じゃないわ。\n……あいつが言ってたのよ、\n僕を信じて\nって。"
+    },
+    {
+      "name": "Navi",
+      "text": "That person is... {0}, right? What can he do in this situation?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あいつって……\n{0}よね？\nこの状況で何ができるってのよ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Navi",
+      "text": "Why did you avert your eyes for a moment!?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "なんで一瞬目をそらしたのよ！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Don't worry. \nAlthough he may seem absent-minded and unnecessarily meddlesome, \nhe will never let us down.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……安心なさい。\n抜けててぼんやりしてて\n無駄にお節介なスーパーお人よしだけど、\nあたしたちの期待を裏切ることは\n絶対にないから。"
+    },
+    {
+      "name": "Navi",
+      "text": "Wow, feels like the best understanding? Having a partner is nice, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "わ～、\n一番の理解者\nって感じ？\nいいわね～、\n相棒がいるっていうのは。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Stop teasing, let's start working.\nFocus.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "からかってないで、\n作業を始めるわよ。\n集中しなさい。"
+    },
+    {
+      "name": "Navi",
+      "text": "Okay, okay, let's go.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "はいはい、\nっと。"
+    },
+    {
+      "name": "Ameth",
+      "text": "However, it's an overwhelming flood of data... \nUgh... Just trying to touch the constantly flowing information, \nI feel like I'm about to be swallowed up...!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "とはいえ\nとんでもないデータの奔流だわ……\nくっ……\n絶え間なく流れてくる情報に触れようとするだけで、\nあたしの存在まで飲み込まれそうになる……！"
+    },
+    {
+      "name": "Navi",
+      "text": "Really, the ones who created this world are incredible monsters.\nBut... I can't just disappear in a place like this.\nI can't leave my family behind...!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ほんと、\nこの世界を作ったやつらは\nとんでもない化け物ね。\nだけど……\nこんなところで消えちゃうわけにはいかないわ。\n家族を道連れになんて、\nできないもの……！"
+    },
+    {
+      "name": "Both",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Ameth",
+      "text": "As I thought... I can't keep up with the processing time...",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "やっぱり……\n処理が、\n間に合わない……"
+    },
+    {
+      "name": "フィオ",
+      "text": "もっと、\n早く\n対応できるようにしないと……\n処理を、\n軽く……\n自分自身を……\n切り詰める……！　",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "もっと、\n早く\n対応できるようにしないと……\n処理を、\n軽く……\n自分自身を……\n切り詰める……！　"
+    },
+    {
+      "name": "Ameth",
+      "text": "Just delete the heavy data. That's all.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "重いデータを削除すればいい。\nそれだけのことよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Important data that has been accumulated within me. I don't want to throw it away...but. I have to protect it. \nThat's what it means to be a guide fairy... No.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あたしの中に積み重ねられてきた大事なデータ。\n捨てたくない……\nだけど。\n守らなきゃ。\nそれが\nガイド妖精としての……\nううん。"
+    },
+    {
+      "name": "フィオ",
+      "text": "フィオの、\n願いよ……！　",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "フィオの、\n願いよ……！　"
+    },
+    {
+      "name": "Ameth",
+      "text": "This light...",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "この、\n光……"
+    },
+    {
+      "name": "Navi",
+      "text": "...The power of the Princess Knight?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……プリンセスナイトの力？"
+    },
+    {
+      "name": "Ameth",
+      "text": "I feel like I heard his voice. \n... He's still fighting outside. \nHehe. His stubbornness hasn't changed...",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あいつの声が聞こえた気がする。\n……表でまだ戦ってるのね。\nふふっ。\nあきらめの悪さは変わらないわね……"
+    },
+    {
+      "name": "Navi",
+      "text": "Well, strengthening in this situation doesn't really make much sense.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ま。\nこの状況での強化ってあんまり意味ないんだけどさ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You should read the air.\nEven if our power gets stronger, it doesn't mean anything now--",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あんた空気読みなさいよ。\n確かにあたしたちの力とか強くなっても今は意味ないけど──"
+    },
+    {
+      "name": "Homare",
+      "text": "- It's not really like that~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "──それがそうでもないんだよね～"
+    },
+    {
+      "name": "二人",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Sorry to keep you waiting~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "お待たせ～♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "This voice... Homare!? \nYou, how can you access this...!?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "この声……\nホマレ！？\nあんた、\nどうしてアクセスできるの……！？"
+    },
+    {
+      "name": "Homare",
+      "text": "I struggled quite a bit~ \nThis system, the protection is so tight, there's no way to intervene~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "かなりてこずったよ～\nこのシステム、\nプロテクトが堅くて\n介入するとっかかりが全然なくて～"
+    },
+    {
+      "name": "Homare",
+      "text": "But, thanks to him being reckless.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "だけど、\n彼が無茶してくれたおかげでね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...That person?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……あいつが？"
+    },
+    {
+      "name": "Homare",
+      "text": "You've received it, right? The power of Princess Knight.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "届いてるでしょ？　\nプリンセスナイトの力。\n彼が今も、\n全力でシステムのゲートを切り開こうとしてるんだよ。\nその願いが、\nあなたたちに繋がってる。"
+    },
+    {
+      "name": "Homare",
+      "text": "Thanks to that, a port that can intervene in the environmental system was created. That's the unique vulnerability born from the power to connect. Let's play around with that a little, shall we♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そのおかげで、\n環境システムに介入できるポートができたんだ。\n繋がる力から生まれた\n唯一無二の脆弱性、\nってところかな。\nそこを\nちょちょっと、\nね♪"
+    },
+    {
+      "name": "Navi",
+      "text": "Just a minute, are you trying to cover up something so serious with such a cute way of saying it? You’re definitely doing something pretty dangerous, aren’t you??",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ちょちょ\nっと\nって、\nそんなかわいい言い方でごまかせる話？\n相当やばいことやってるわよね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "For now, it’s fine.\nHomare... can you lend me a hand?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "今はいいわ。\nホマレ……\n手を貸してもらえる？"
+    },
+    {
+      "name": "Homare",
+      "text": "I want to request from here~ \nThis kind of experience is not something you can do for free~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "こっちからお願いしたいくらいだよ～\nこんな経験、\nタダでできることじゃないからね～"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yes, I'll do it. I'm counting on you, Nebbia! Make sure to keep up!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "うん、\nお願いするわ。\nやるわよ、\nネビア！　\nしっかりついてきなさい！"
+    },
+    {
+      "name": "Navi",
+      "text": "What comes with it? Let me show you the specs of the new model, Fio!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "何がついてきなさいよ。\n新型のスペックってものを見せてあげるわ、\nフィオ！"
+    },
+    {
+      "name": "Homare",
+      "text": "...Well then, let’s take it on.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……さぁ、\n挑んじゃおう。\n七冠の手掛けた人知の最たるシステムに。"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe, my hands are itching...♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふふっ、\n腕が鳴るね～……♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Supported by {0}'s wish, Ameth, Nebbia, and Homare confront the rampaging system. Through the teamwork of these three, the corrupted system begins to be repaired.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}の願いに支えられ、\n暴走したシステムに立ち向かうアメス、ネビア、ホマレ。\n３人の連携によって、狂ったシステムは修復されてゆく──"
+    }
+  ]
+}

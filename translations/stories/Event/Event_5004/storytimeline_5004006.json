@@ -1,0 +1,675 @@
+{
+  "title": "Operation Gourmet Guild",
+  "text_block_list": [
+    {
+      "name": "Karyl",
+      "text": "The Gourmet Guild is on the scene!\nHere to kick butt and save our friend!\nKoro! Let us know if you're okay!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "おっらあ！\nコロ助～、\n助けにきたわよ！\nまだ生きてるなら返事して！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wait, huh?\nWhere... where in the heck are we?\nHow did we suddenly go from that cave to being outside?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "って、\nうひゃっ？\n何これ……\nどこ、\nここ？\nさっきまで海底の遺跡にいたのに、\n何で急に屋外に？"
+    },
+    {
+      "name": "Suzume",
+      "text": "M-maybe the door had a trap placed on it?\nOne that teleported us elsewhere after going through it...\nThat said, the cave itself is still right behind us.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "と、\n扉に転送魔法でも仕掛けられてて、\n他の場所に瞬間移動しちゃったんでしょうか……\nでも、\n振り返れば\nさっきまで私たちがいた海底の遺跡が見えますね？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Now that's weird. Have two separate spaces been stitched\ntogether or something...? That shouldn't even be possible!\nArgh! What's the deal here?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "おかしな感じね、\n異なる空間が継ぎ接ぎされてる……？\nこんな現象、聞いたことないわ！\nいったい何なのよ今回はっ、\n何もかも意味わかんない！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Please calm down, Karyl.\nWe need to look for Kokkoro, first and foremost.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "落ちついてください、\nキャルちゃん……\n何はさておき、\nコッコロちゃんを捜さないと。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Y-you're right.\nWe can blow this joint the second we save her.\nFiguring out the details can come later.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そ、\nそ～ね。\nさっさとあいつを助けだせば、\nこんな得体の知れない場所からはおさらばできるわ。\n考えたり調べたりするのは、\n後回しでいいのよ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Oh! The search spell is reacting to Kokkoro!\nBased on these readings, she's just beyond here...\nTowards the horizon!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あっ、\n探査魔法に反応がありました！\nコッコロちゃんはたぶん、\n向こうのほう……\n水平線のほうにいます！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Wait. She's getting close— Uwahhh?!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "いや、\nどんどん近づいてきて……\nうひゃあああ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...?!\nSomething huge just burst out of the water!\nA monster?! I've never seen one like this before!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……！？\n　水中から何か出てきたっ、\nかなりの大物よ！\n何あれっ、\n見たことない魔物だわ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Uh-oh. It looks really strong, too...\nOh! Look at its tentacle thingies!\nKokkoro's all wrapped in one of them!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うわぁ、\nおっきくて強そう……\nあっ！\nあの魔物が生やしてる触手みたいなのに、\nコッコロちゃんが絡まってますよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh crap, you're right!\nKoro! Are you okay?! Can you hear us?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うわっ、\nほんとね！\nコロ助～っ、\n大丈夫？\n　意識はあるのっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "U-urgh...\nDid you... all come to save me?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ん、\nうう……\n皆さん、\n助けにきてくださったのですね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thank goodness...\nGetting dragged to the ocean floor was terrifying.\nI was convinced that my life would end in this beast's stomach.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "良かった……\n怖かったです。\nわたくし\n急に水底に引きずりこまれて、\nこのまま\n魔物の餌になってしまうものと\n悲観しておりました。"
+    },
+    {
+      "name": "Karyl",
+      "text": "No chance, kiddo!\nThe Gourmet Guild does the eating,\nnot the other way around!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "餌になんかさせるもんか！\nあたしたちは【美食殿】っ、\n基本的に食べる側よ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't worry, we'll get you right ou— Whoa?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いま助けるからねっ、\nコロ助……\nんひゃあ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Watch out!\nSheesh, it's flailing those tentacles all over the place!\nHow crazy is that?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "危ない！\nうわぁあ、\n魔物がやたらめったら触手で殴りかかってきましたよ！\nやばいですね……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Seems like they pack a punch, too.\nJust look at what they've done to the beach!\nWe'll be flat as a pancake if we get hit by them!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "かなりの威力っぽいです、\n砂浜がおおきく抉れてる……！\nあんなの直撃したら、\nぺっちゃんこになっちゃいますよ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "E-eeek?!\nSomeone, please help!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "わわっ、\nひゃああっ……！？\nお助けくださ～い！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh no! Suzume!\nShe got caught by the tentacles!\nThis thing must be a lot smarter than it let on!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁっ、\nスズメさん！\n触手が足に絡みついて……\n思いっきりぶん殴るだけじゃなくて、\nけっこう繊細な動きもできるっぽいですね！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Quit praising it and get your butt in gear!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "呑気に感心してる場合かっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "{0},\nslice off the tentacles that're grabbing her!\nIt's game over if she gets dragged into the ocea— Waugh?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}、\nあんたの剣で触手を切ってスズメってやつを助けだして！\n海に引きずりこまれたら、\n酸欠でアウトよ……\nひあぁっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh god, oh god! They're all over me now!\n{0}! Quit staring and do something about this!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "やだやだやだっ、\nあたしにも触手が！\nこら{0}っ、\n見てないで助けなさいよ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Aaaghhh!\nThey're all slimy! Nope, nope, nope!\nI'm done with this! Done!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぎゃあああ！\nぬるぬるしてる～っ、\n気持ち悪い気持ち悪いっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wowzers. This sure escalated quickly...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うわぁ、\n大変なことになっちゃってますね……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Whoa, uh-oh! Now they're coming after me!\nHelp! Someone help! I'm no good with tentacles!\nIs this my punishment for all the seafood I've savored?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わ、\nっとと？\n　\nひえぇっ、\n今度はわたしが狙われてます！\n怖い怖い怖いっ、\n触手怖い！\nい、いつも魚介類を食べている仕返しでしょうか～！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm so sorry! Please forgive me for my transgressions!\nBut seafood is just too delicious to resist!\nI won't waste a single bit of what I eat, so please spare me!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ごめんなさいごめんなさい！\nでも美味しいんですもん、\nお魚とか！\nせめて美味しくいただきますので、\n堪忍してくださ～い！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I can't bear to watch this any longer.\nNot when they're all in danger...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あぁっ、\nいけません……\n皆さまが大ピンチでございます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I have to do something...\nMy spear still remains firmly in my hands, fortunately.\nUsing it may be a struggle like this, however.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "何とかしないと……\n幸い、\nなぜかわたくしの槍は\n奪われていないようでございます。\n触手に絡みつかれて、\nあまり身動きがとれませんけど。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I need to find a way to escape these tentacles.\nThen I can save them and slay this monster.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "どうにか、\n縛めから脱出して……\nこの魔物を仕留めて、\n皆さまを助けないと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm almost certain that they came here to rescue me.\nThat's just the sort of people they are.\nI couldn't bear to see them get hurt because of that.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "皆さまは、\nたぶんわたくしを救出しにきてくださったのですよね。\nお優しい方々ですから……\nそんな皆さまが、\n深刻な怪我でもしたら申し訳がありません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Urgh...\nI need to move. If I can at least strike its weak spot...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ぐうっ……\n何とか動いて、\n槍を魔物の急所に突き刺しましょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kokkoro, no! Don't do anything rash!\nYou'll be putting yourself in danger again\nif you end up angering it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁっ、\n無茶ですよコッコロちゃん！\n迂闊な動きをしたら、\n魔物が機嫌を損ねてコッコロちゃんに危害を加えるかも……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Those tentacles are way more powerful than they seem, too.\nI don't even want to imagine this,\nbut they're strong enough to rip you apart limb from limb.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "この触手、\nかなりのパワーがあるみたいですし。\n最悪の場合……\nコッコロちゃんが、\n腕とか足とか引きちぎられて八つ裂きにされちゃいます。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wh-what should I do?\nIs there even anything I [i]can[/i] do...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ど、\nどうしましょう？\nあぁっ、\nわたしに何かできることは……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I hate this...!\nWhy am I so useless without my Royal Equipment?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしの役立たず……！\n『王家の装備』がないと、\n何もできないんでしょうか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Grrr...! This thing's really ticking me off now.\nGet your damn tentacles off me already, you freaky squid!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぐうう～、\nこんのぉ！\nいつまで、あたしの身体を弄んでんのよ……\n魚介類のくせに！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Whoa!\nDon't start unloading magic on it! It's too dangerous!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "わっひゃあ！？\n危ないっ、\n攻撃魔法を使っちゃ駄目ですよキャルさん！"
+    },
+    {
+      "name": "Suzume",
+      "text": "This is essentially a hostage situation!\nOne wrong step and you might hit Kokkoro!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "コッコロちゃんが、\n敵に人質にとられてるかたちです！\nまちがってコッコロちゃんに当たりでもしたら……！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Urgh. You're right.\nSorry, I kind of lost my temper.\nKoro! You okay?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ううっ、\nそうね？\nごめん、\n頭に血がのぼってたわ！\nコロ助～っ、\n怪我はない！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Y-yes, I'm fine!\nDon't worry about me!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "は、\nはい！\nわたくしは無事でございます！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*cough, cough*\nOh no. Those spells fried the monster up a little.\nNow there's a positively delicious smell in the air.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "けほけほっ……\nううっ、\n魔物の表面が焦げて\n美味しそうなにおいがいたします。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hm...\nIf only Miss Pecorine had access to her Royal Equipment...\nNo doubt she would devour it swiftly if she was in top condition.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "う～む、\n『王家の装備』さえあれば……\nペコリーヌさまがこのような魔物など、\n丸ごと美味しく召し上がってくださるのでしょうけど。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh... Kokkoro! Look to your right!\nKaryl's attack made the monster's skin start peeling,\nbut look at what's sparkling underneath!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "んん？\n　コッコロちゃんっ、\n右手のあたりを見てください！\n焦げて剥離した魔物の皮下脂肪の奥に、\nキラキラ輝くものがありますよね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's my tiara!\nOne part of the Royal Equipment!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それ、\nわたしのティアラです！\n『王家の装備』のいちぶ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Huh? Oh! You're right!\nIt's as dazzling as always, too.\nBut why is it here, of all places?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふぇっ？\n　あっ、\nたしかに！\nこれは透明で美しい、\nペコリーヌさまのティアラ！\nなぜ、このような場所に……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I dunno myself,\nbut try and toss it over to me if you can!\nI'll be able to join the fray if I have that on!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わかんないですけどっ、\nそれを取ってわたしのほうに投げてください！\nティアラだけでも装備できれば、\nわたしも戦えます！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "O-okay!\nRegaining even a sliver of your regular strength\nshould render this monster powerless, correct?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "は、\nはい！\nペコリーヌさまが\n本来のちからをいちぶでも取り戻せば、\nこのような魔物などは\nどうとでもなりますよねっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Very well! I trust in you!\nAnd I'm almost certain I can reach it...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくし、\n信じております！\n手を伸ばせば、\nどうにか届くかもしれません……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Eeek?!\nI-it started tightening its grip...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "んぎゃっ！？\nひいっ、\n急に触手の締めつけが強く……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kokkoro?!\nOh no, oh no! It's gonna crush her!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "コッコロちゃん！？\nあぁ大変っ、\nあのままじゃ死んじゃいます……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hm...?\nHave you got something in mind, {0}?\nM-maybe a way to get us out of this sticky situation?!",
+      "choice_data_list": [
+        "Do as I say!"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……ん？\n{0}くん、何か言いたげですね！\nこ、\nこの状況をどうにかする妙案でも思いついたんですか！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "O-okay, got it!\nWow, though! You're more assertive than usual today!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "は、\nはい！\n　わかりました！\nひゃああ、\n何かいつになく強気ですね……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Then again.\nSomething tells me he's always been like this.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ううん。\n{0}くんは、\nもともとこういう子だったような気がします。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Always doing his best for everyone else's sake.\nComing up with plans, making sure we all fight efficiently.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みんなのために最善を尽くして……\n作戦を練りあげて、\n最適な指示をしてくれるような。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm not sure [i]why[/i] I feel that way, though.\nBut that doesn't matter.\nNot when he's this full of vigor!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "何で、\nそんな感じがするんでしょう……？\nよくわかんないですけど、\n{0}くんがかつてなく活き活きしてますね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And he's as cool as ever!\nIf there's anyone I can entrust my life to, it's him.\nSo I will. It's all up to him!",
+      "choice_data_list": [
+        "Karyl!"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "かっこいいですよ！\n信じて身を委ねてみますっ、\nわたしたちの命運を\n{0}くんに託しますね！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm? What is it, knight boy?\nGot some super plan to get us through this?\nSpit it out if so!",
+      "choice_data_list": [
+        "Use your magic to send Peco flying!"
+      ],
+      "orig_name": "キャル",
+      "orig_text": "んん？\n　何よっ、\n言いたいことでもあるわけ？\nこの状況をどうにかする秘策でも思いついたなら、\n乗ってやるから何でも言いなさいよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What?!\nThat's [i]not[/i] what I expected you to say, {0}!\nI'll be fine, right? I can trust you, can't I?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えええっ？\n何を言い始めるんですか、{0}く～ん！\n大丈夫ですかっ、\nほんとに信じてもいいんですよね！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Magic?\nOhh, you mean the spell I used to get us to the ruins?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔法？\nあぁ、\n海底の遺跡まで移動するときに使ったやつね？"
+    },
+    {
+      "name": "Karyl",
+      "text": "So basically, you want me to envelop her in an air bubble,\nthen shoot her off at high speed?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ペコリーヌを\n魔法でつくった空気の皮膜で覆って、\n推進力を与えて高速移動させるってわけ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, she's the only that hasn't been tentacle'd,\nso it makes sense to go with her. But just to be sure here...\nYou want me to send her right at that thing, correct?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "今、\n触手に絡みつかれてないのはペコリーヌだけだもんね？\n自由に動けるのは……\nそんなペコリーヌを、\n魔法で敵のところまで送ってやればいいってこと？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm...\nWell, whatever.\nThough I'm almost all out of magical energy at this point.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん～……\nまぁ、良いわ\n。\nあたしは魔力、\nほとんど残ってないんだけど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'll give you every last drop, so you better be grateful!\nGet ready, Pecorine! The rest is up to you!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "最後のちからを振り絞ってやるわっ、\n感謝しなさいよね！\nいくわよペコリーヌ～、\nあとはあんたに任せたから！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "O-okay!\nWhat should I do after this, though?\nYou know I'm powerless without my Royal Equipment.",
+      "choice_data_list": [
+        "Not if you have your tiara, right?"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "は、\nはい～！\n　\nでも\n敵のところまで送り届けてもらっても、\nそこから何をどうしたらいいんでしょう？\nわたし、\n『王家の装備』がないとほぼ無力ですよ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ohh! Now I get where you're going with this!\nYou see where the tiara's poking out, Karyl?\nTake aim and send me flying over there!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ、\nそうですね！\n　それが狙いですか！\nじゃあキャルちゃん……\nわたしを、\nティアラが露出してるところに向かって飛ばしてください！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Cool. Just make sure you don't bite your tongue!\nOff. You. GO!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うんっ、\n舌を噛まないように気をつけなさいよ！\nいっ\nけぇぇえええ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "W-whoooaaa?!\nOh wow, oh wow! I really am flying!\nIt's absolutely terrifying! But also thrilling!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うっ、\nわっ……\nひゃあああ！？\nすごいっ、\nわたし空を飛んでます～！\n怖い怖い怖いっ、\nでもちょっと楽しい～☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Urgh... This spell's normally meant to be used underwater,\nso the spellcasting process is entirely different now.\nThat's making it hard to maintain the trajectory...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぐっ……\n本来は水中を移動するための魔法だから、\n空中だと魔術式を再構築しながらになって\n制御が難しいわね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "But I'm not just any old mage.\nI'm the one and only Karyl! I can do this!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "でも、\nそんぐらいできなきゃキャルさまじゃないわ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Eeek?!\nHelp, help! I'm going all over the place!\nBe a bit more gentle, Karyl!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ひえぇっ！？\n右に左に揺れまくりですっ、\n怖い怖い怖い！\nキャルちゃ～ん、\nもっと丁寧にお願いします！"
+    },
+    {
+      "name": "Karyl",
+      "text": "You better believe I'm being gentle, girl!\nMore importantly, be careful!\nThere's no way that thing won't retaliate against you!",
+      "choice_data_list": [
+        "Suzume! Keep its attacks at bay!"
+      ],
+      "orig_name": "キャル",
+      "orig_text": "やってるわよっ、\nこれ以上なく丁寧にね！\nそれより気をつけなさいっ、\n魔物があんたの動きを放置するわけがないわ！\n　迎撃してくる……！"
+    },
+    {
+      "name": "Suzume",
+      "text": "O-okay!\nIs that all you need me to do?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あっ、\nふぁいっ！\nそれが私の役目ですね？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Please stay still for me, Pecorine!\nI'll keep you safe from the incoming tentacles!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "動かないでください、\nペコリーヌさん！\n群がってくる触手なんかは、\n私が薙ぎ払うなり防ぐなりしますから！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Haaah!\nCome on, me! This is the one time you can't mess up...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "えぇい！\nドジらずに成功してっ、\n私の魔法……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Aaahhh!\nThere's magic going off all around me!\nHow did I get myself into a crazy situation like this?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ひゃあああ！？\n周りで魔法が花火みたいに炸裂してます！\n何かむちゃくちゃですよ～っ、\n今これどういう状況ですか！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Shut it, dingus!\nQuit moaning and do your part!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "るっさい！\n喚いてないで、\nやるべきことをキッチリやりなさい！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, crap!\nIt's started going wild! The tiara's gonna fall!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……あっ、\nやばっ！？\n魔物が暴れてるっ、\nティアラが落っこちそう！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No way! Wh-what should I do?\nCan I stretch out and reach it before then...?\nNope! I'm just a bit too far away!",
+      "choice_data_list": [
+        "Kokkoro!"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ええっ！？\n　ど、\nどうしましょう？\n手を伸ばして、落ちる前にティアラを……\nあぁ無理っ、\n微妙に届かなさそうです！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Fear not, my lord.\nYour intentions are clear as day to me,\nso waste not your words.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\n主さま。\n仔細に命じてくださらなくても、\nわたくしは主さまのお望みを\nつぶさに理解できます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*huff* *puff*\nFocus, Kokkoro. Carry out my lord's will with utmost precision.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "すう、\nはああ……\n集中して、\n主さまのご命令を完璧に遂行しましょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Touchdown!\nAaand chow time! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "魔物に接触！\nそして、\nいただきま～す☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "*munch, munch*\nWooo! Roasted to perfection!\nHow crazy is that?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もぐもぐもぐ！\nうわぁあい、\n程良く焼けてて美味しいです！\nやばいですね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll gobble up the tentacles that are restraining Kokkoro first!\nShe'll probably be sent flying,\nso cast a spell to make sure she lands safely!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まずは、コッコロちゃんに絡みついてる触手を完食しちゃいます！\nコッコロちゃんが宙に投げ出されると思いますので、\n魔法で安全に回収してください！"
+    },
+    {
+      "name": "Suzume",
+      "text": "R-roger!\nThere's a lasso spell I use for organizing luggage and the like.\nHyah! I'll use that to reel Kokkoro in!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "りょっ、\n了解です！\n荷物の整理とかに使う投げ縄の魔法を巻き付けて……\nえぇいっ、\nコッコロちゃんをこちらに手繰り寄せますね！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Whoa! Thank you!\nCan I entrust the monster to you, Pecorine?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わわっ、\nお世話をかけます！\n魔物の退治は、\nペコリーヌさまにお任せしますね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You betcha!\nThis main course has been a long time coming!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nメインディッシュをいただいちゃいます！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll gobble part of it up, restore my energy, then finish it off!\nOr, actually... I can probably just eat the entire thing!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "たくさん食べてエネルギーを補給して、\n魔物をやっつけちゃいます！\nううん……\n普通にこのぐらいの量なら、\n頭の天辺から触手の先まで食べ切れちゃうかも？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe. ♪ I'm glad it's so big.\nThis'll be a bottomless feast!\nSeafood is the best! Get in my belly!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ～♪\n　巨大な魔物なので、\n食べても食べてもご馳走がなくなりませんね！\nビバ海の幸っ、\nぜんぶ丸ごとわたしの胃袋に収めちゃいますよ～！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "*munch, munch*\nMmm! It's so good! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もぐもぐもぐっ、\nンま～い☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahhh, now this is what it's all about. A good meal after\novercoming adversity. That's the Gourmet Guild life!\nOr, well... The perpetually peckish Pecorine life. ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁ生き返りますっ、\nやっぱり美味しいものを食べてこその【美食殿】！\nううん、\nお腹ペコペコのペコリーヌちゃんですね♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ahaha... I almost feel bad for that thing.\nImagine getting eaten alive...\nSurvival of the fittest and all that, I guess.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あはは、\n魔物に同情するわ～……\n生きたまま貪り食われることになるなんてさ。\nでもまぁ、\n弱肉強食が大自然の掟よね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I feel for it too, but you put it best.\nMiss Pecorine! Please leave some for us, too!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\n可哀想でございますが、\n適者生存でしょう。\nペコリーヌさま～\nわたくしたちが食べるぶんは\n残してくださいまし。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "With the monster defeated, we can fill our stomachs.\nAnd once we're out of this place, we can resume our exciting holiday. ♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "魔物を倒し、\n腹ごしらえをしてから……\n安全に脱出し、\n楽しい海水浴のつづきをいたしましょう♪"
+    }
+  ]
+}

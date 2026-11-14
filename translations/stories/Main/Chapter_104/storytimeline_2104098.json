@@ -1,0 +1,999 @@
+{
+  "title": "Interlude 3",
+  "text_block_list": [
+    {
+      "name": "Pecorine",
+      "text": "...Huh? What's that sound?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あれっ？\n何の音ですか？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It looks like it's coming from that necklace on the desk...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "机の上の、\nその首飾りからみたいだけど……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, this... It's a communication magic necklace.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ああこれ……\n『通信魔法のネックレス』だわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It was the magic item Lady Labyrista had made...was it not? If I recall correctly, Miss Kyaru helped out as well.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ラビリスタさまがお作りになられた、\n魔法の品……\nでしたか。\n確か、\nキャルさまもお手伝いしたという。"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's right, one thing. Basically... With this necklace on, even those who aren't good at magic can use communication magic...or so it should be.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そう、\nいちおーね。\n要するに……\nこのネックレスをつければ、\n魔法が苦手なやつでも通信魔法を使えるようになる……\nはずなの。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wow, that's amazing!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "へぇ～っ、\nすごいですね！"
+    },
+    {
+      "name": "Karyl",
+      "text": "In exchange, the person you can talk to has to wear a pair of necklaces, and there's a time limit.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そのかわり、\n話せる相手は対になるネックレスをつけてなきゃダメだし、\n時間にも制限あるけどね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "And right now, the Twinkle Wish have a pair of them, so... It's a call from them, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "で、\n今はその対になるほうを\n【トゥインクルウィッシュ】が持ってってるから……\nあいつらからの連絡でしょ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "So, did you find the Sol Orb?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それでは、\n『ソルオーブ』が見つかったのでしょうか。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Hey, don't you have to answer? Kyaru.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……ねぇ、\n応答しなくていいの？\nキャル。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I-I'll pass. Come on, {0}, get out.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、\nあたしはパス。\nほら{0}、出なさいよっ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Take your time, my Lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ごゆっくり、\n主さま。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We're still preparing for the welcoming party for Sheffy! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたちは、\nシェフィちゃん歓迎パーティーの用意を続けてますので♪"
+    },
+    {
+      "name": "Narration",
+      "text": "- A few days ago...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "―数日前―"
+    },
+    {
+      "name": "The Three",
+      "text": "Yaaaaay!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "えええーいっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Ah, Sol Orb! It's coming out!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "──あっ、\n『ソルオーブ』！\n出てきたぁ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "Phew... Looks like these monsters really were the big bosses around here.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ふぅっ……\nやはり、\nこの魔物が辺り一帯の大ボスだったみたいだね。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That's the sixth one! According to Yume's prophecy, there were twelve Sol Orbs, so... maybe it's just a turnaround?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "これで、６個目だねっ！\n夢のお告げだと、\nたしかソルオーブは\n12個あったはずだから……\nちょうど折り返しかな？"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah... It's still only half...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん。\n……まだ、\n半分かぁ……"
+    },
+    {
+      "name": "Yui",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui-chan?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃん？"
+    },
+    {
+      "name": "Rei",
+      "text": "...I wonder if she's worried about {0}.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……{0}のことが、\n気になるのかな。"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah... While we're doing this, the people of the Rage Legion might attack you again...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん……\nこうしているあいだにも、\n【レイジ・レギオン】の人たちが、\nまた騎士クンを襲ってくるかもしれないし……"
+    },
+    {
+      "name": "Rei",
+      "text": "I know you're worried, but...you prepared a lot of things for us before we left. It's a one-way trip, but if we're just going home, we should be able to use magic for an instant.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "気がかりなのはわかるけど……\n旅立つ前にいろいろと用意はしてもらったし。\n片道だけど、\n帰還するだけなら魔法で一瞬のはずだよ。"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-You're right...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "そ、\nそうだよね……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "For now, let's focus on gathering Sol Orbs. That's one of the Twinkle Wish's goals.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ひとまずは、\nソルオーブ集めに専念しよう？\nそれがあたしたち\n【トゥインクルウィッシュ】の、\n目的のひとつなんだもん。"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah. You're right. We need to climb the top of The Tower of Sol to find out...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん。\nそうだね。\nソルの塔の一番上に登って、\n確かめるためにも……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Rei",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "ヒヨリ",
+      "text": "レイさ～ん……！\nなんだか、\n胸が痛いよぉ～っ！　",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさ～ん……！\nなんだか、\n胸が痛いよぉ～っ！　"
+    },
+    {
+      "name": "レイ",
+      "text": "私もだよ、\nヒヨリ。\nでも……\nまだユイに、\n『別の世界の話』は伏せておくって……\nそう決めただろう？　",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "私もだよ、\nヒヨリ。\nでも……\nまだユイに、\n『別の世界の話』は伏せておくって……\nそう決めただろう？　"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Y-Yeah... When Kishi-kun started talking about how there might be another world... I was surprised that Rei suddenly covered Yui-chan's ears, but...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "う、\nうん……\nこないだ騎士くんが、\n『別の世界があるかもしれない』\nって話をはじめたとき……\nレイさんがいきなり\nユイちゃんの耳を塞いだのは、\nビックリしたけど……"
+    },
+    {
+      "name": "Rei",
+      "text": "I-I couldn't help it then... My body moved. For some reason, I had a really bad feeling, and Ameth's words suddenly came back to me...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あ、\nあのときはつい……\n身体が動いてしまって。\nなぜだか、\nすごく嫌な予感がしたのと、\nフィオの言葉が、\n急に思い出されて……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Normally, when I show her a dream, I'm careful so that I can only recall happy memories. I absolutely mustn't let her regain her forbidden memories.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "普段、夢を見せる際にも丁寧に、\n幸せな思い出だけを回想できるように気を遣ってるのよ。\n絶対に、\nあの子の『禁断の記憶』だけは取り戻させちゃいけない。"
+    },
+    {
+      "name": "Ameth",
+      "text": "That kind girl will probably break.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "優しいあの子は、\nたぶん壊れちゃうから。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Those words... I remember them too, but... I wonder what Yui-chan's forbidden memories are...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "その言葉……\nあたしも思い出したけど。\n……ユイちゃんの、\n『禁断の記憶』って……\nいったいなんなのかな……"
+    },
+    {
+      "name": "Rei",
+      "text": "...I don't know. But... I can't shake the feeling that I'm deeply involved with this other world...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……わからない。\nでも……\n『別の世界』とやらと、\n深くかかわっている気がしてならないんだ……"
+    },
+    {
+      "name": "Yui",
+      "text": "...? Let's see...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "…………？\nえーっと……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Ugh... But Rei-san... Hiding something from Yui-chan...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……うー……\nでも、\nレイさん……\nユイちゃんに、\n隠し事するなんて……"
+    },
+    {
+      "name": "Rei",
+      "text": "Yeah... That's why I talked to {0} about it and promised, didn't I? I said I'd keep quiet until I found proof that “reality” really existed...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ……\nだから、\n{0}とも相談して、\n約束しただろう？　\n黙っておくのは、\n『現実』というものが\n本当に存在するという証拠を掴めるまで……\nって。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah... That's right. It still doesn't feel real to me, Rei-san, and Kishi-kun...whether there really is a “other world” or not...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん……\nそうだったね。\n『別の世界』……\n『現実』なんてものが本当にあるのかどうか、\nあたしもレイさんも、\n騎士くんも……\nまだ実感、ないもんね……"
+    },
+    {
+      "name": "Yui",
+      "text": "H-Hey... What's wrong with you two? You've been acting strange lately...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ね、\nねぇ……二人とも、\nどうしたの？\nなんだか最近、\n様子がおかしいような……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...I-I'm sorry. I'll tell you when I'm ready...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……ご、\nごめんね。\n準備ができたら、\nちゃんとお話しするから……"
+    },
+    {
+      "name": "Rei",
+      "text": "I want you to believe in us for a little while. Please...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "少しの間は、\n私たちのことを信じてほしい。\n頼むよ……"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Anyway, we need to gather Sol Orbs as soon as possible.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "とにかく今は、\n少しでも早く……\nソルオーブを集めなくっちゃね。"
+    },
+    {
+      "name": "Yui",
+      "text": "But... six more, huh? Looks like it'll take a while.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "でも……\nあと６個かぁ。\n時間がかかりそうだね。"
+    },
+    {
+      "name": "Rei",
+      "text": "Yeah. Hopefully, she'll be able to help us out...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ。\nこの先で接触する『彼女』に……\nすんなりと、\n協力してもらえるといいんだが。"
+    },
+    {
+      "name": "Narration",
+      "text": "The next day, right around the time that {0} and the others were having their last homeroom at Lucent Academy",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──そして、翌日。\n{0}たちが\nルーセント学院で最後のHRをしていた、ちょうどその頃──"
+    },
+    {
+      "name": "Christina",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Christina",
+      "text": "............hmm?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……\n……んん？"
+    },
+    {
+      "name": "The Three",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh? Oh my, oh my?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おや？\nおやおやおや？"
+    },
+    {
+      "name": "Christina",
+      "text": "I thought someone was lying in wait, but... You guys are Twinkle Wish, aren't you? I haven't seen you since the battle with His Majesty.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "誰かが待ち伏せしている、\nと思ったら……\nオマエたちは、たしか\n【トゥインクルウィッシュ】\nだったか？\n陛下との戦いのとき以来だな。"
+    },
+    {
+      "name": "Christina",
+      "text": "Did you come here to test your skills against me? Perfect, you're welcome♪ I was so bored and bored that I almost died.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "もしや、\nワタシ相手に腕試しでもしに来たか？\n丁度いい、\n大歓迎だ♪\n退屈で退屈で、\n死にそうなところだったんだよ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I-It's not like that!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そ、\nそんなんじゃないよ！"
+    },
+    {
+      "name": "Christina",
+      "text": "...Hmph. Then what, do you want an autograph or something? Or are you an idol applicant? I'm not looking for new recruits right now.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……フン。\nじゃあなんだ、\nサインでも欲しいのか？\nそれともアイドル志願者か。\n今は新人募集はしていないんだがな。"
+    },
+    {
+      "name": "Yui",
+      "text": "What?! I-Idols?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ええっ！？\nア、\nアイドルっ！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That's not it either! We're...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "それも違うよっ！\nあたしたちは……！"
+    },
+    {
+      "name": "Rei",
+      "text": "I have a request for you. 'Regina Geas'... Christina.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あなたに頼みがあって来た。\n『誓約女君』……\nクリスティーナ。"
+    },
+    {
+      "name": "Christina",
+      "text": "I see, I see. I refuse.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そうかそうか──\n断る。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "She turned me down?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "断られちゃったぁ！？"
+    },
+    {
+      "name": "Yui",
+      "text": "I haven't said anything yet...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "まだ何も言ってないのに……"
+    },
+    {
+      "name": "Christina",
+      "text": "Christina is usually generous, mild-mannered, and merciful. But right now, she has a very bad place for bugs.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "普段は寛大で温厚で慈悲深いクリスティーナさんだがな。\n今は虫の居所がとても悪いんだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "In the first place, how did you guys figure out my current location? It was supposed to be a wandering trip.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だいたいオマエたち、\nどうやってワタシの現在地を突き止めた？\nあてどもない放浪の旅のつもりだったんだがな。"
+    },
+    {
+      "name": "Rei",
+      "text": "The [Carmina] Tsumugi you produce is a friend of mine. I asked her to tell me where she went.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あなたのプロデュースしている\n【カルミナ】のツムギは、\n私の友だちでね。\n頼み込んで、\n行先を教えてもらったんだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "What's with that? Isn't that a bit of a stretch? Not an idol chase, but a producer chase?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なんだそれは。\nあべこべじゃないか？\nアイドルの追っかけではなく、\nプロデューサーの追っかけとは。"
+    },
+    {
+      "name": "Christina",
+      "text": "But either way, it was a waste of time. As I said earlier, I don't know where the bugs are",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だが、\nどちらにせよ無駄足だったな。\nさっきも言ったとおり、\n今のワタシは虫の居所が──"
+    },
+    {
+      "name": "Yui",
+      "text": "The reason why Kristina-san doesn't like bugs right now is because......the Kaiser Insight is gone.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "──今のクリスティーナさんの、\n虫の居所が悪い理由って。\n覇瞳皇帝さんが\nいなくなっちゃったから……\nなんですよね。"
+    },
+    {
+      "name": "Rei",
+      "text": "Rumor has it that the reason you ran away from the Knights of the Royal Palace in the first place was because of the absence of the Kaiser Insight...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そもそも、\nあなたが【王宮騎士団（NIGHTMARE）】を出奔したのは\n覇瞳皇帝の不在が原因というウワサだが……"
+    },
+    {
+      "name": "Christina",
+      "text": "Of course. I don't hate Pecorine, but... just because I've regained my throne doesn't mean I'm obligated to bow my head to her.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "当然だろう。\nペコリーヌのことがキライなわけではないが……\n玉座を取り戻したからといって、\nこのワタシがヤツに、\n頭を垂れる義理などありはしない。"
+    },
+    {
+      "name": "Christina",
+      "text": "That's how it is. I thought there wasn't anything I could enjoy in this world without Her Majesty, so I went on a journey, but...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そんなわけでだ。\n陛下のいなくなったこの世界に、\nワタシを愉しませるものが\nなにかひとつでもないかと思って、\n旅なんぞしてみたが……"
+    },
+    {
+      "name": "Christina",
+      "text": "So far, it's almost as if I can't. ...An overwhelming, arrogant, lonely person like him... Even if I search all the way to the end of the world, I'm sure I won't find him.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "いまのところ、\nまるでダメだな。\n……あの方のように\n圧倒的で、\n傲慢で、\nいびつで、\n孤独な人間は……\n世界の果てまで探しても、\nきっと見つからないのだろうよ。"
+    },
+    {
+      "name": "Yui",
+      "text": "So... don't you think about rescuing the Kaiser Insight?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "じゃあ……\nクリスティーナさんは、\n覇瞳皇帝さんを助け出そうとか、\n考えたりはしないんですか？"
+    },
+    {
+      "name": "Christina",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Christina",
+      "text": "...Her Majesty was defeated by Pecorine and the others. Not me. Pecorine, {0}, and your friends.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……陛下は、\nペコリーヌたちに敗れた。\nワタシではなく。\nペコリーヌと、\n{0}と、\n仲間であるオマエたちにな。"
+    },
+    {
+      "name": "Christina",
+      "text": "And the loser obeys the winner. That's the absolute law of the world.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そして、\n敗者は勝者に従うものだ。\nそれが世界の絶対法則だ。"
+    },
+    {
+      "name": "Christina",
+      "text": "I don't want to bend that law. It's not like I'm making an oath, though.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ワタシは、\nその法則を捻じ曲げたくはないんだよ。\n『誓約』しているわけではないがな。"
+    },
+    {
+      "name": "Christina",
+      "text": "Yes, of course. If Pecorine wants to take Her Majesty's life...then we'll have to change the subject again. That naive little girl won't be able to execute her.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ああ、もちろん。\n陛下の命を、\nペコリーヌが奪おうというなら……\nそのときは、\nまた話が変わってくるが。\nあの甘っちょろい小娘に、\n処刑などできはしないだろうさ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Then... let's defeat Pecorine and take back the Kaiser Insight! Or something like that?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "じゃあじゃあ……\nペコさんを倒して、\n覇瞳皇帝さんを取り返そう！　\nとかは？"
+    },
+    {
+      "name": "Christina",
+      "text": "That's not cheap. Think about it carefully. If I defeat Pecorine, then...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それは安直にもほどがあろうよ。\nよく考えてみろ。\nもしワタシがペコリーヌを倒してしまえば、\nそのときは……"
+    },
+    {
+      "name": "Christina",
+      "text": "I, Princess Christina, will become the king of the land of The Landosol, you know?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "このワタシが、\nプリンセス・クリスティーナに。\nランドソルという国の、\n王になってしまうんだぞ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "R-Really...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そ、\nそうなの……？"
+    },
+    {
+      "name": "Christina",
+      "text": "That’s right. Her Majesty took the position of princess by force, and Pecorine took it back by force. If I defeat Pecorine, I’ll be the princess.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そうだとも。\n陛下は力ずくでプリンセスの座を奪い、\nペコリーヌは力ずくで陛下を倒し、\nそれを取り返した。\nならば\nワタシがペコリーヌを倒したら、\n今度はワタシがプリンセスだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "I-Is that how it works...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そ、\nそういうものか……？"
+    },
+    {
+      "name": "Christina",
+      "text": "It'd be one thing if it were a group of powerful soldiers or singing and dancing girls, but... Standing on top of countless men and women of all ages and ages, bearing the duty of having to lead them, there's a limit to how unsuitable I am. I'm so sorry.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "強壮な兵隊や、\n歌って踊る少女たちの集団ならともかく……\n数えきれんほどの老若男女の上に立ち、\n導かねばならん義務を負うなど、\nワタシ向きでないにもほどがある。\nまっぴらごめんだよ。"
+    },
+    {
+      "name": "Christina",
+      "text": "That's how it is. Right now, I have no other choice but to wander around this world with the possibility of encountering something pleasant. It's a bad bet, geez.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そんなわけで、\nだ。\n今のワタシは\n愉快なコトに出会える可能性に賭けて\nこの世界をさすらう以外、\n他にないわけさ。\n分の悪い賭けだよ、\nまったく。"
+    },
+    {
+      "name": "Christina",
+      "text": "...Yeah, I'm bored... Fighting with Her Majesty, fighting for my life... It really was fun... Once I've tasted that joy, I can't be satisfied with normal pleasure...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……ああ、\n退屈だ……\n陛下と鍔迫り合い、\n命の獲り合い……\n本当に愉快だった……\nあの愉悦を一度味わってしまったら、\n並みの快楽では満足できん……"
+    },
+    {
+      "name": "Rei",
+      "text": "...I have a general understanding of your situation. Now then, let us negotiate, Regina Geas.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……そちらの事情は、\n概ね把握した。\nでは交渉だ、\n誓約女君。"
+    },
+    {
+      "name": "Christina",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……あん？"
+    },
+    {
+      "name": "Rei",
+      "text": "If you're willing to help us gather Sol Orbs... I'll let Kaiser Insight go for just one day. Whether it's fighting, drinking tea, or fishing... Do whatever you want.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あなたが我々の、\nソルオーブ集めを手伝ってくれるなら……\n覇瞳皇帝を、\n一日だけ釈放させよう。\n戦いでも、\n茶飲み話でも、\n魚釣りでも……\n好きなことをするといい。"
+    },
+    {
+      "name": "Christina",
+      "text": "............What? Have my ears gone haywire? I heard that a girl who wasn't related to the royal palace was going to let Her Majesty go.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "………………なんだ。\nワタシの耳がおかしくなったか？\n王宮の関係者でもない娘が、\n陛下を釈放させると聞こえたが。"
+    },
+    {
+      "name": "Yui",
+      "text": "Don't mishear us, Christina. We're cooperating with Pecorine right now.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "聞き間違えじゃありませんよ、\nクリスティーナさん。\nわたしたちは今、\nペコリーヌちゃんと協力しあってるんです。"
+    },
+    {
+      "name": "Rei",
+      "text": "It's only a temporary release, after all. If worse comes to worst, we'll all take control of the Kaiser Insight once more.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "釈放といっても、\n一時的なものだし。\nいざとなれば我々総出で、\n再び覇瞳皇帝を押さえ込む。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "We’re even more powered up than before! Neneka and Labyrista are lending us their strength, too!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あたしたちも、\n前よりパワーアップしてるしね！\nネネカさんとか、\nラビリスタさんとかも力を貸してくれてるし！"
+    },
+    {
+      "name": "Christina",
+      "text": "Neneka, Labyrista... Hmph. They sent you, huh? I see...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ネネカ、\nラビリスタ……\nはん。\n奴らの差し金か。\n成程成程……"
+    },
+    {
+      "name": "Rei",
+      "text": "...What do you think, Regina Geas? Are you willing to accept our request?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……どうかな、\n誓約女君。\n我々の依頼、\n聞く気になってくれただろうか？"
+    },
+    {
+      "name": "クリスティーナ",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Christina",
+      "text": "Get ready, young lady.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "構えろよ、\nお嬢ちゃん。"
+    },
+    {
+      "name": "Rei",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……っ！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Miss Rei!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさんっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Negotiations are breaking down...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "交渉、\n決裂かっ……！"
+    },
+    {
+      "name": "Christina",
+      "text": "Don't panic. In fact, be happy ☆ One step forward.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "慌てるんじゃあない。\nむしろ喜べ☆\n一歩前進だよ。"
+    },
+    {
+      "name": "Christina",
+      "text": "I'll have you guys fight me. You've made quite a big speech. I need you to show me the power to back it up.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "オマエたちには、\nワタシと戦ってもらう。\nずいぶんな大言壮語をぬかしたんだ。\nそれを裏打ちするだけの力、\n見せてもらわなくてはな。"
+    },
+    {
+      "name": "Yui",
+      "text": "What...?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ええっ……！？"
+    },
+    {
+      "name": "Christina",
+      "text": "If there's anything I can do for you, I'll put both my feet on the negotiating table!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "このワタシに、\n一太刀浴びせるコトができたら──\n交渉のテーブルに、\n両足を掛けてやろうとも！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That's what you said! You really just want to fight, don't you!?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "とか言ってー！\nホントは戦いたいだけなんじゃないのっ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Hahaha♪ Don't worry, I won't kill you! Then again...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "はははっ♪\n安心しろ、\n殺しはしないさ！\nもっとも──"
+    },
+    {
+      "name": "Christina",
+      "text": "If you're too weak, that's not the end of it!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "オマエたちが弱すぎたのなら、\nその限りではないがな！"
+    },
+    {
+      "name": "Christina",
+      "text": "Hey, hey, is this it? It's been a while since I've exercised properly, so I couldn't help it",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おいおい、\nこんなものか？\n久々のまともな運動だったせいで、\nつい力が──"
+    },
+    {
+      "name": "Rei",
+      "text": "Tah!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "──たっ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh? You recovered quickly. Very well. Let me have more fun☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほう？\n立ち直りが早いな。\nいいぞ。\nもっと愉しませてくれ☆"
+    },
+    {
+      "name": "Rei",
+      "text": "Yui!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ユイ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うん！"
+    },
+    {
+      "name": "Yui",
+      "text": "O Spirit of Light! Illuminate us to the utmost limit!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "光の精よ！\n我らを照らせ、\n極限まで──！"
+    },
+    {
+      "name": "Christina",
+      "text": "!? Blindness!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "──っ！？\n目くらましか！"
+    },
+    {
+      "name": "Yui",
+      "text": "Hiyori!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ヒヨリちゃん！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yaaaaah!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "やあああっ！"
+    },
+    {
+      "name": "Christina",
+      "text": "You're naive! I try to cover my eyes, but my absolute defense is...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "甘いぞ！\n目を塞ごうが、\nワタシの絶対防御は──……"
+    },
+    {
+      "name": "Christina",
+      "text": "...Yeah?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……うん？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ehehe♪ Chris-san's coin, it hurts!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えへへ♪\nクリスさんのコイン、\nいっただきーっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Rei! Perth!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさんっ！\nパース！"
+    },
+    {
+      "name": "Rei",
+      "text": "Nice pass, hiyori.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ナイスパス、\nヒヨリ。"
+    },
+    {
+      "name": "Rei",
+      "text": "Now then, Christina. The coin you just caught... Is it two sides of the same coin?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "さて、クリスティーナ。\nいまキャッチしたあなたのコイン……\n裏か、\n表か？"
+    },
+    {
+      "name": "Christina",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Christina",
+      "text": "Behind the scenes.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "裏だ。"
+    },
+    {
+      "name": "Rei",
+      "text": "...Unfortunately. It's outside.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……残念。\n表だ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ehehe. We won the bet♪",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えっへへ。\n賭けはあたしたちの勝ちだね♪"
+    },
+    {
+      "name": "Christina",
+      "text": "...Hoh. You think that's why you took one from me? Unfortunately...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……ほぅ。\nオマエたち、\nそれでワタシから一本取ったつもりかね。\n残念だが──"
+    },
+    {
+      "name": "Christina",
+      "text": "That's not it! NUMBERS AVALON!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そんなものではなっ！\n──『乱数聖域』！"
+    },
+    {
+      "name": "The Three",
+      "text": "Waaaaah!?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "わあああっ！？"
+    },
+    {
+      "name": "Rei",
+      "text": "...Ugh... The Seven Crowns...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……くっ……\nさすがに、\n七冠か……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "You really are strong, very strong!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "やっぱり強いね、\nとっても！"
+    },
+    {
+      "name": "Christina",
+      "text": "...Hmph.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……フン。"
+    },
+    {
+      "name": "Christina",
+      "text": "...So? Can you tell me more about your demands, Twinkle Wish?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……それで？\nオマエたちの要求を、\nくわしく聞かせてもらおうか。\n【トゥインクルウィッシュ】。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Huh? You're going to listen to me?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えっ？\nお話、\n聞いてくれるの？"
+    },
+    {
+      "name": "Christina",
+      "text": "I'll listen to what you have to say. Even without that boy, you've grown enough to give me a run for my money, so I'd like to pay my respects.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "聞くだけ聞いてやろうとも。\nあの少年抜きでも、\nこのワタシに一矢報いるほど成長した\nオマエたちに、\n敬意を表して……\nな。"
+    },
+    {
+      "name": "Christina",
+      "text": "...Hm? I'm the one who said it, but what's that supposed to mean?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……うん？\n自分で言っておいてなんだが、\nなんだそれは。"
+    },
+    {
+      "name": "Christina",
+      "text": "It's like I've fought you guys in the past, led by {0}. ...Did I get too bored to cook?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "まるで過去に、\n{0}率いるオマエたちと\n戦ったことがあるみたいじゃないか。\n……退屈しすぎて、\nワタシも焼きが回ったか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "U-Umm... This should be the first time I've fought Chris, right...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "え、\nえーっと……\nクリスさんと戦ったのって、\nこれが初めてなはずだよね……？"
+    },
+    {
+      "name": "Both",
+      "text": "Hmm...?\"\"Hmm?",
+      "choice_data_list": [],
+      "orig_name": "２人",
+      "orig_text": "「ふーむ……？」\n「うーん……？」"
+    }
+  ]
+}

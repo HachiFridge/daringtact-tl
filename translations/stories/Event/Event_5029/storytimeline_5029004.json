@@ -1,0 +1,742 @@
+{
+  "title": "White Snow, White Steam",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After leaving the reindeer to deal with their pursuers,\nthe three Santa candidates get away from town.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "追っ手をトナカイたちに任せた３人のサンタ候補たちは、\n町から少し離れた場所へとやってきていた。"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmmm. Elizabeth Park, was it?\nIt's certainly been a while.\nWhen was the last time...? Well, it doesn't really matter.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ふむ。\n【牧場（エリザベスパーク）】だったか？\nここを訪れるのは久しぶりだな。\n前はいつだったか……\nまぁそんなことはどうでもいいことか。"
+    },
+    {
+      "name": "Illya",
+      "text": "It appears to be rather dilapidated...\nAre there actually people living here?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "何やら随分と荒れておるのう……？\nこんなところに人がおるのか？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "No, I don't think that's the case...\nBut what on earth happened here?\nThe fences and stuff are all falling apart.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "いえ、\nそんなことはないと思いますけど……\nでも\n本当にどうしたんだろう？　\n柵とかボロボロ……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Hey now, what's all this racket...?\nY'all are gonna make me have a cow at this rate.",
+      "choice_data_list": [
+        "Mahiru?"
+      ],
+      "orig_name": "マヒル",
+      "orig_text": "も～\nなんなんだべ～……\n思わず牛みたいな鳴き声あげちまうよ～"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Hm? {0}?\nSorry, I can't think of nothin' funny right now.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ん？　\n{0}だべか？\nごめんよぉ\nオラ、\n今ちょっと面白いボケも出てこねぇべ～"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I'm havin' a bad day.\nEven though it's the festive season and all, it's been udder chaos...\nA real crappy holiday... so I just can't laugh.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "今日は厄日だべよ～\nクリスマスだってのに、\n苦しんでばかり……\nこれがほんとのクルシミマス、\nって……\n笑えねぇべ……"
+    },
+    {
+      "name": "Illya",
+      "text": "Yet you jest much more than one would expect.\nTell us, cow girl, what in the blazes happened here?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "思ったより余裕があるようじゃの。\nそれで牛の小娘、\nここで何があったのじゃ？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "What's with all the Santas?\nAn ensemble garbed in the same ensemble.\nComediennes...? No, street performers?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "何だべ、\nアンタら？\n揃いも揃ってサンタの服着て。\n漫才師……\nいや、\n大道芸人だべか？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ummm... Yeah, something like that.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えっと……\nそんな感じ、\nかな？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Well, if you'll hear me out, I'll talk.\n...Today's just been one disaster after another.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "まぁ、\n聞いてもらえるならお話しすっべ。\n……今日は災難続きなんだべよ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "First off, I made a whole load o' puddin'\nto sell as a new product at Elizabeth Park.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "まず、\n牧場で新しく売り出そうと思って\nプリンをいっぱい作ってたんだべ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "But just as I finished up, a reindeer came outta nowhere \nand just swiped it all away!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そしたら何か、\nトナカイがすごい勢いでやってきて、\nそのプリンを全部持って行っちまったんだよ～"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Producer...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……プロデューサー……"
+    },
+    {
+      "name": "Illya",
+      "text": "...Christina....",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……クリスティーナ……"
+    },
+    {
+      "name": "Christina",
+      "text": "Don't point those fiery daggers in my direction.\nI'll get third-degree burns... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "熱い眼差しをこちらに向けないでくれ。\n火傷してしまいそうだ……♪"
+    },
+    {
+      "name": "Mahiru",
+      "text": "An' that ain't the half of it! I was out shovelin' snow\nwhen a torrent of crazy magic came rainin' down outta nowhere!\nNow the fences I just fixed are all smashed up again!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "それだけじゃないべ！\n表で雪かきしてたら、\n何かとんでもねぇ魔法さ降ってくるし！\n直したばかりだった柵が\nこの有様だべ！"
+    },
+    {
+      "name": "Christina",
+      "text": "...Hey, Illya Ornstein.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……おい、\nイリヤ・オーンスタイン。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...That was Matsuri's...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……それってマツリちゃんの……"
+    },
+    {
+      "name": "Illya",
+      "text": "It was me?! The fault was mine?!\nUrghhh...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわか！？　\nわらわのせいなのか！？\nううむ……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Because of that, I ain't got nothin' to sell,\nand I gotta pitchfork out for repairs!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "おかげでうちは売る商品がなくなって、\n牧場の修繕費まで必要なんだべさ～！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "At this rate, we ain't gonna make it through the winter!\nUrghhh, I feel so bad for the residents of Elizabeth Park!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "これじゃあこの冬さ越せないべ～！\nうぅ、\nごめんよぉ\n牧場のみんな～！"
+    },
+    {
+      "name": "All",
+      "text": "......",
+      "choice_data_list": [
+        "Let's give her a present."
+      ],
+      "orig_name": "3人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Nozomi",
+      "text": "A present...!\nYeah, let's do that, {0}!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "プレゼント……！\nそう、\nそうだよねっ！　{0}くん！"
+    },
+    {
+      "name": "Illya",
+      "text": "We are Santa Claus... candidates after all!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわたちは\nサンタクロース……\n候補じゃったな！"
+    },
+    {
+      "name": "Christina",
+      "text": "The boy is right.\nTo those lamenting their misfortune, are we not duty bound to consign good luck...? ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "坊やの言う通りだ。\n不運を嘆く者にこそ\n幸運を配ろうじゃないか……♪"
+    },
+    {
+      "name": "Christina",
+      "text": "In other words, we must restore Elizabeth Park, correct?\nManagement happens to be a specialty of mine. ☆\nI have an idea.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "要するに\nこの牧場を再興させればよいのだろう？\n経営ならお安い御用☆\nワタシに考えがある。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hold your reindeer, Christina.\nI too have a glimmer of an idea.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "待つがよいクリスティーナ。\nわらわも閃いたのじゃ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "It's gonna be okay, right...?\nWhose idea do you think will be better, {0}?",
+      "choice_data_list": [
+        "I want to see Christina's idea.",
+        "I want to see Illya's idea."
+      ],
+      "orig_name": "ノゾミ",
+      "orig_text": "だ、\n大丈夫かな……？\n{0}くんはどっちの案がいいと思う？"
+    },
+    {
+      "name": "Christina",
+      "text": "Very well.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "良かろう。"
+    },
+    {
+      "name": "Christina",
+      "text": "Those around me seem to believe that I can only live on the battlefield.\nBut I'll have you know, I am also a shrewd businesswoman.\nConsulting is easier than wielding a sword.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "周りはワタシを血生臭い鉄火場でしか生きられんと\n思っているようだが、\n実は事業経営なんかもやっていてね。\nコンサルタントなら剣を振るより易い。"
+    },
+    {
+      "name": "Christina",
+      "text": "Mahiru, was it? You are the manager, correct?\nYour pudding idea was right on the mark.\nHaving a specialty is the basis of all commerce.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "マヒルとか言ったな？　\n経営者はオマエでいいんだな？\nプリンという着眼点は良い。\n名物を作ろうとするのは経営の基本だ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Ah, thank ya...?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "はぁ、\nありがとうだべ……？"
+    },
+    {
+      "name": "Christina",
+      "text": "However, it is not acceptable for pudding to be the only product you sell.\nEven if your customer pulling power increases, it will only be temporary.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だが売りがプリンだけというのはいただけん。\n集客力が一時的に上がっても\nそれでは長続きしない。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Aha... I think I get what you're sayin'.\nSo whaddya reckon I should do...?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ほうほう……\nなんとなく分かるんだけど、\n結局どうしたらいいんだべか……？"
+    },
+    {
+      "name": "Christina",
+      "text": "If you wish to sell food, \nthen seize control of the stomachs of each and every customer.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "食を売るなら、\n客の胃をすべて掌握しろ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Christina",
+      "text": "Commandeer their culinary cravings,\nand hold them captive until they are fully satiated.\nThat's how to do business... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ここを訪れた客の胃を完全に掴み、\n満腹になるまで帰さない。\nそういう商売をするのさ……♪"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Th-that's a fantastic idea...!\nHow should I go about it?!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "な、\n何だかすごそうだべ……！\nどうしたらいいんだべさ……！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmmm...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "うむ──"
+    },
+    {
+      "name": "Christina",
+      "text": "Establish a steakhouse here!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "──ここにステーキハウスを作る！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Mahiru",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Christina",
+      "text": "Fortunately, it seems you have... good quality ingredients here.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "幸いにもここには……\n良質な素材が揃っているようだしな。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Th-there ain't no way!\nEveryone on the ranch is like one big, happy family!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ダっ、\nダメだべよ！？\n牧場にいる子らは\n家族みてぇなもんだべ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Rest assured.\nI shall guarantee the taste.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "安心しろ。\n味はワタシが保証しよう。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "That ain't what I mean!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そういうことじゃねぇべ～～～～～！"
+    },
+    {
+      "name": "Illya",
+      "text": "Very good, very good.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そうじゃろそうじゃろ。"
+    },
+    {
+      "name": "Illya",
+      "text": "From the looks of it, despite this ranch being large, there are few animals.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "見たところ\nこの牧場、\n広いわりに動物が少ないと見える。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Sure, I'd love a large ranch with lotsa animals,\nbut we just ain't got enough manpower, so carin' for 'em all'd be pretty tough.\nAny more chores, an' Rinrin, Shioshio, an' Limalima are sure to keel over.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "動物たくさんの大牧場にもあこがれるけども、\n人手があまりいねぇから\n世話しきれないっべよ。\nリンリンやシオシオ、\nリマリマの負担は\nこれ以上増やせないっべ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Yes. I can tell you lack servants simply by looking.\nHowever, it must not be so.\nPeople tend to shy away from deserted, rueful places such as this.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ。\n人手不足なのは見れば分かる。\nじゃが\nそれではいかん。\n閑散とした場所に\n人間は近寄らんからのう。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hence, my gift to you.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "というわけで、\nわらわからプレゼントじゃ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Huh...?\nSomethin' feels kinda weird... The wind is pickin' up...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ん……？\n何か\n妙な気配が……\n風がざわざわしてきたべ……？"
+    },
+    {
+      "name": "Illya",
+      "text": "Now that I am in my original form,\nI can put my underlings to work at will!\nCome now, my servants!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "元の姿に戻っておる今、\n配下たちを使役することも意のままよ！\nさぁ来るがよい！　\n我が配下たち！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Wh-what's goin' on?!\nHoly cow! Th-there's bats comin' from all over the place!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "な、\n何だべ～！？\nこりゃたまげたべや、\nそ、\nそこら中から蝙蝠が！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Heheheh! What say you? Adorable, are they not?!\nThey are numerous and easy to handle.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふっふっふ。\nどうじゃ\nかわいかろう！\nこやつらは手もかからぬし、\n数も多いからの！"
+    },
+    {
+      "name": "Illya",
+      "text": "With them, Elizabeth Park will become livelier,\nand visitors are sure to come in droves.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "これで牧場も賑やかになって、\n人がたくさんやってくるというわけじゃ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "There ain't no way that's happenin'!\nThe ranch turned so black so fast,\nI oughtta be callin' it Elizabeth Dark!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そんなわけねぇべ！？\n牧場があっという間に黒く染まって、\n墨汁をこぼしたみたいだべや～！"
+    },
+    {
+      "name": "Illya",
+      "text": "You managed to make a joke out of that...?\nYou truly are adept...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "牧場と墨汁をかけておるのか……\nやりおるわい……！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Oh, really?!\nI gotta write that down— Wait, no!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "あ、\nほんとだべ！\nメモしとかねぇと……\nじゃなくて！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Look!\nThe animals are all kickin' up a fuss!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "見るべ！\nうちの動物たちも怯えちまってるべよ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Hrk. Urgh... It appears bats were the wrong call...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "う、\nぬう……\n蝙蝠はダメじゃったか……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Hurry and get 'em outta here!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "早く帰らせるべ～～～～～！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "*sigh...* We ain't survivin' this winter after all...\nWe're all gonna freeze in this frigid weather...!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "はぁ……\nやっぱり冬は越せねぇべ……\n寒空の下、\nオラたちは凍えて過ごすんだべ～……！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Don't give up... There must be a way!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "諦めちゃ……\nダメだよっ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We're bound to think of something!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "私たちがっ、\n何とかっ、\nしてみせるからっ！"
+    },
+    {
+      "name": "Illya",
+      "text": "...Hm?\nNozomi, what have you been doing all this time?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……む？\nノゾミよ、\nさっきから何をやっておるのじゃ？"
+    },
+    {
+      "name": "Christina",
+      "text": "From over here,\nit looks as though you're excavating random holes in the ground...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ワタシには、\nピッケルを持って適当な地面を掘っているように見えるぞ……？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Elizabeth Park is really big, and the scenery is beautiful!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "この牧場っ、\n広くてっ、\n景色もっ、\nきれいだからっ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "So I thought it would be nice if there was a hot spring or something here!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "こういう場所に、\n温泉とか、\nあったら、\nなぁって！"
+    },
+    {
+      "name": "Illya",
+      "text": "I-I see...\nI believe I grasp the concept...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "な、\nなるほど……\n考えは分かったがのう……"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahah. ☆ To think up such an idea and put it into action\nis no less than what I would expect from the Carmina idol\nwho can make even crying children laugh.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あっはは☆\nそれを思いついて実行に移すとは、\nさすがは泣く子も笑う\n【カルミナ】のアイドル。"
+    },
+    {
+      "name": "Christina",
+      "text": "However, although I admire your slow-and-steady attitude,\nmerely digging like that will get you nowhere.\nGouging out a hot spring by hand is unrealistic in the first place.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だがな、\n雨垂れ石を穿つの精神は買うが、\nそのまま掘り続けても埒があかんぞ？\nそもそも人の手で掘るのは現実的ではないからな。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "But still!\nI'm...!\nA Santa Claus... candidate!",
+      "choice_data_list": [
+        "A miracle is bound to happen."
+      ],
+      "orig_name": "ノゾミ",
+      "orig_text": "それでも！\n私はっ！\nサンタクロース──\n候補ですからっ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I know, right?!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うんっ！　\nそうだよね……！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Y'all would... do this much for Elizabeth Park...?!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "アンタら……\n牧場のために、\nここまで……！"
+    },
+    {
+      "name": "Illya",
+      "text": "...Now I understand.\nThis is one of those fabled holiday miracles.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……なるほどのう。\nクリスマスの奇跡というやつか。"
+    },
+    {
+      "name": "Christina",
+      "text": "Why is it that I now find myself believing...? ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なぜだろうな？\n信じてみたくなったよ……♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Producer, Illya!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "プロデューサー、\nイリヤさん！"
+    },
+    {
+      "name": "Christina",
+      "text": "Illya Ornstein.\nDo you think you have it in you?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "イリヤ・オーンスタイン。\nいけるか？"
+    },
+    {
+      "name": "Illya",
+      "text": "'Tis but a trifle.\nOn the contrary, holding back is the struggle.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "容易い容易い。\n手加減の方が難しいくらいじゃ。"
+    },
+    {
+      "name": "Christina",
+      "text": "Everyone, vacate the area.\nDo not blame me if you get caught up in it.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "全員ここから離れていろ。\n巻き込まれても恨むなよ？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "C-caught up in what...?!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "な、\n何が始まるんだべ……！？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Mahiru, you too...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "マヒルさん、\nキミもこっちに……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Here I go—Vermilion Bite!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ゆくぞ──\nヴァーミリオンバイト！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Amazing! She exposed the bedrock in an instant!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "すごい！　\n地面が一気に抉れて……！"
+    },
+    {
+      "name": "Christina",
+      "text": "Now it's my turn to let off a little steam... ☆\nNumbers Avalon!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さぁて出てこい、\n鬼でも蛇でも、温泉でも……☆\n──乱数聖域！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "A hot spring...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "出た……"
+    },
+    {
+      "name": "Christina",
+      "text": "A hot spring.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "出たな。"
+    },
+    {
+      "name": "Illya",
+      "text": "'Tis a hot spring.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "出たのう。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I-it's like a dream...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ゆ、\n夢みたいだべ……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I can't believe it! A real hot spring!\nThis'll be the centerpiece of Elizabeth Park!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "すごいべ！　\n温泉だべ！\nこれなら、\n【牧場（エリザベスパーク）】の大きな目玉になるべよ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I'm sorry for callin' y'all street performers!\nY'all are the real thing!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "大道芸人だなんて言って悪かったべ！\nアンタらは本物のサンタクロースだべさ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Eheh. Glad you feel that way!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ふふ。\n良かったですね！"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "Brooough...?\n(What are they up to this time...?)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "ブオオオ……？\n（今度は何やってるの……？）"
+    },
+    {
+      "name": "Illya",
+      "text": "Hm? Oh, the reindeer—they have finally returned!\nWhat impeccable timing!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ん？　\nおぉ\nトナカイたち、\nようやく戻ったか！\n実にいいタイミングではないか！"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "B-brooough?\n(I've got a bad feeling about this.)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "……ブ、\nブオ？\n（……い、嫌な予感）"
+    },
+    {
+      "name": "Christina",
+      "text": "We're about to commence constructing a hot spring here,\nso you'll be gathering the materials for us.\nWe'll build a grand tourist destination to my liking... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "今からここに温泉を作るから、\n材料を集めてきてくれ。\nワタシ好みの豪勢な観光名所にしてやるさ……♪"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "Broooooooooough?!\n(Hot spriiiiiiiiiing?!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "ブオオーーーーーーーーーーーーーーーーーッ！？\n（温泉ーーーーーーーーーーーーーーーーーっ！？）"
+    },
+    {
+      "name": "Narration",
+      "text": "And so came to be Elizabeth Park's newest attraction—\nthe hot spring.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして【牧場（エリザベスパーク）】に、\n温泉という新たな観光名所が誕生したのであった。"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "Brooough, brooough!\n(I can't take it anymore! I've had it up to my neck... no, my antlers, with you!\nWhat do you think we are?!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "ブオオオウ、\nブオウ！\n（もう限界だ！　今度こそ頭に……いや角に来た！\n俺たちトナカイを何だと思ってるんだ！）"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "Brooough, brooough!\n(Damn holiday! Year after year we have to run around all over the place!\nI want to make them understand how we feel!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "ブオオオ、\nブオオオオ！\n（何がクリスマスだ、毎年毎年駆け回らされて、\nあいつらに俺たちの気持ちを味わわせてやりたいよ！）"
+    },
+    {
+      "name": "Elite Reindeer 3",
+      "text": "...Brrgh, brooough.\n(...I think I have an idea.)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ３",
+      "orig_text": "……ブブゥ、\nブオンオ。\n（……それなら、いい考えがある）"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Feels like I've seen these reindeer before...\nWhere was it now...?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "このトナカイたち、\n何かどっかで見た気がするべ……\nどこでだったかなぁ……？"
+    }
+  ]
+}

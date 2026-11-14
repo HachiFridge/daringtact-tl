@@ -1,0 +1,530 @@
+{
+  "title": "Guildhouse Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A while has passed since the second floor\nof the guildhouse was unsealed.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ギルドハウスの二階が開放されてから、\nしばらくの時間が経過した。"
+    },
+    {
+      "name": "Narration",
+      "text": "Worried about the sealed third floor,\nthe Gourmet Guild members obtain permission from Karin\nand makes their way upstairs to investigate.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "封印されたままの三階が、\nどうしても気になったギルド【美食殿】の面々は……\nカリンの許可を取って、その調査をすることになった。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hnnngggh!\nRoyal Equipment, full power!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふんぬぬぬぬぬぬ！\n『王家の装備』、\n出力全開……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "We're counting on you.\nI've removed the magic seal,\nbut it's physically barricaded as well.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "頼むわよ～\n魔法的な封印はあたしが解除したけど、\n物理的にも\nがっちり封鎖されてるのよね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "We'll just have to force it open.\nThank goodness we have someone with superhuman strength. ♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "強引にこじ開けるしかないわ、\n身内に怪力キャラがいて良かった♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Do your best,\nMiss Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ファイトでございます、\nペコリーヌさま！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord is also cheering you on while waving a tiny flag. ♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまも、\nちっちゃい旗を振り振りしながら\n応援しておりますよ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "I don't see what good {0}'s cheering is going to do.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}が応援したからって、\n何になるっていうのよ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, right.\nHe's got some mysterious ability to enhance\nother people's powers. Was that it?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "って、\nあぁそっか。\nそいつには仲間のちからを増幅させる、\n怪しげな能力があるんだっけ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Indeed.\nMy lord has also gained experience\nand is gradually learning to wield his power better.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\n主さまも経験を積み、\nそのちからを\n上手に活用できるようになりつつあるのです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well done, my lord!\nYou're doing amazing, my lord! ♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お上手です、\n主さま！\nたいへんお達者です、\n主さま……♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Koro, why are you in such unusually high spirits?\nCome on, both of you, keep your guard up.\nWe don't know what might come jumping out at us.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なぜか\nコロ助のテンションがいつもより高いわ……\nいちおう身構えておきなさいよ、\n何が飛びだしてくるか分かんないんだからね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Understood.\nMy lord, please stand back a little.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "心得ております。\n主さま、\nもうすこしお下がりください。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You too, Miss Karin.\nYou lack any true combat ability, correct?\nIf a monster appears, you're in danger of falling prey.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "カリンさまも……\n戦闘力はほぼ皆無なのでしょう、\n魔物などが出現したら\n餌食になってしまいますよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "Okay!\nAre you sure you guys can handle this?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "はぁい。\n本当に大丈夫ですか、\n皆さん？"
+    },
+    {
+      "name": "Karin",
+      "text": "If it's too much for you, \nI could ask one of the stronger guilds I manage\nto do the investigation.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "難しいようでしたら……\n私の担当する\n他のもっと強大なギルドに、\n調査を依頼することも可能ですからね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, no, it's fine!\nWe'd feel guilty about involving others.\nThis a problem inside our own guildhouse, after all.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえいえ～\n余所さまにご迷惑をおかけするのも申し訳ないです、\n自分のところの\nギルドハウスの問題ですから。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Besides, we may not look like it,\nbut we're actually pretty competent.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それにわたしたちは、\nこう見えてけっこう有能なんですよ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I believe that if we combine our strengths,\nnothing is impossible for the Gourmet Guild. ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ギルド【美食殿】のちからを結集すれば、\n不可能なことは何もない～\nって信じてます☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Stop yapping on\nand concentrate, Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "無駄口を叩かずに、\n集中しなさいよ\nペコリーヌ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Also, you know,we even haven't confirmed\nit's a monster that's sealed off on the third floor.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っていうかさ。\n封鎖されてる三階に\n危険な魔物が巣くってる、\nって\n確定したわけじゃないでしょ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "On the off chance that there's hidden treasure...\nWe'd be foolish to involve other guilds.\nThey'd get their hands on our valuable profit.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "万が一、\n金銀財宝でも隠されてるとしたら……\n他のギルドを関わらせるのは愚策だわ、\nせっかくの儲けを\n他人にもってかれちゃうじゃない。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You're surprisingly greedy, Miss Karyl.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "意外とがめついですよね、\nキャルさま。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I wasn't born with a silver spoon in my mouth,\nunlike a \\\"certain someone.\\\"",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "小市民なのよ。\nどっかの誰かさんとちがってさ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Yes! The door to the third floor just splintered!\nKeep it up, Pecorine! Tear that door apart! ♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……おっ、\n三階に繋がる扉に亀裂が走ったわ！\n良い調子よペコリーヌ、\n勢いよくブチ破っちゃいなさいっ♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Mmmm?\nUsing my Royal Equipment at full power\nis making me super hungry!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うう～？\n『王家の装備』をフルパワーで使ってるせいで、\nだいぶ腹ペコです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If it's a monster in there, I don't think I can handle it. ♪\nI'll have to leave it to all of you.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "魔物が出てきても、\n対処できないかも～\nその場合は、\n皆さんにお任せしますね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, that might do it!\nThe crack is getting bigger.\nThere's a gap wide enough for a person to fit through!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おっ、\nいけそう！\n扉の亀裂がどんどん広がって、\n人間が通れそうな隙間ができましたよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "On the count of three, let's charge in!\nOne, two, three! Let's go! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いちにのさんで突入しましょう！\nにいの\nさあん、\n……れっつごう☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Uergh?\n*cough, cough* What's this?\nThere's a weird smell!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "むぐっ……？\nけほんけほんっ、\n何これ？\n変なにおい！"
+    },
+    {
+      "name": "Karyl",
+      "text": "*cough, cough*\nFeels like there's strange magic in here.\nI'm putting up a barrier, so get behind me!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "けほけほ！\n変な魔力を含んでる気がするわっ、\n障壁を張るから\nいったんあたしの後ろに待避して！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmm. A thick, vapor-like air...\nor should I say mist.\nIt has a rather poisonous color to it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ、\n水蒸気を含んだ濃厚な空気……\nいいえ霧と呼ぶべきですね、\n毒々しい色をしております。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It may be harmful, so I suggest we try not to inhale it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "有害かもしれませんので、\nなるべく吸いこまないほうが宜しいかと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Mmm...\nAs the third floor appears to have been completely sealed,\nperhaps it's merely the buildup of stagnant air pouring out?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "う～む……\n三階は完全に密封されていたようですし、\n溜まっていた淀んだ空気が\n噴出してきたのでしょうか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm...\nBut this doesn't seem like just any old contaminated air.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん～……？\nただの汚染された空気、\nって感じでもないわよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It contains a crazy amount of magic...\nIt's basically a visible curse.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "尋常じゃない量の魔力が含まれてる……\nほとんど、\n目に見える「呪い」ね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'll analyze its structure and get rid of it.\nLet's retreat for now.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "構造を解析して除去するから、\nいったん撤退しましょ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "It looks like it's a non-directional cluster of magic,\nbut anyone lacking endurance will be affected on contact.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "指向性のない魔力のかたまりっぽいけど、\n耐性がない人間だと\n触っただけで体調を悪くするわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Wait, hold on.\nWhere's Pecorine?\nJust where did that silly girl go?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……って、\nあれ？\nペコリーヌは？\nどこ行った、\nあいつ～っ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "That idiot! Don't tell me...\nDid she go mindlessly charging into the mist?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あの馬鹿！\n何も考えずに、\n霧のなかに突入しちゃったわけ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "She needs to take better care of herself and be more careful!\nWhy is she always like this?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "もっと自分を大事にして慎重に行動しなさいよっ、\nいつもいつも！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Complaining won't get us anywhere, Miss Karyl.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "文句を言っても始まりませんよ、\nキャルさま。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Pecorine will be out of stamina\nafter using her Royal Equipment. She may not be capable\nof defending herself.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペコリーヌさまは、\n『王家の装備』を多用したせいで\n体力が底を突いているはず。\n自分の身を、\n守れない可能性がございます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We must rescue Miss Pecorine, while ensuring\nwe do not fall victim ourselves.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ミイラ取りが\nミイラにならぬよう気をつけつつ、\nペコリーヌさまを\n救出しに参りましょう。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We are her guildmates, after all.\nWe cannot leave her to die.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "同じギルドの仲間でございます、\n見殺しにはできませんからね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord, Miss Karin,\nyou should remain here just to be safe.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまとカリンさまは、\n念のためここに待機していてくださいまし。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "If we do not return,\nthat is when we will truly need rescuing by the other guilds.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちが戻らなかったら、\nそれこそ\n他のギルドに救援を頼んでいただけると幸いです。"
+    },
+    {
+      "name": "Karin",
+      "text": "A-are you sure you guys will be okay?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "だ、\n大丈夫なんですか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, you need not worry.\nWe have overcome such hardship countless times in the past.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\nご心配なく。\nこの程度の苦難は、\nこれまで何度も\n乗り越えてまいりましたので。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh? You wish to join us, my lord?\nYou believe you may be able to help somehow?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……おや、\n主さまも同伴されるのですか？\n何か、\n手伝えることがあるかもしれないから？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hehe.\nVery well. Let us hold hands as we go.\nPlease do not leave my side.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふ。\nでは\nお手々を繋いで参りましょう、\nわたくしの傍から離れないでくださいまし。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh? Miss Karyl?\nWe appear to have also lost sight of Miss Karyl.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あら、\nキャルさま？\nいつの間にか、\nキャルさまの姿も消え失せておりますね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Did she frantically rush into the mist\nout of sheer worry for Miss Pecorine?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペコリーヌさまを心配するあまり、\n焦って先に霧のなかへ突入してしまったのでしょうか。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hehe.\nOf course.\nThose two really do get along well.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふ。\nあのお二人は、\nたいへん仲良しでいらっしゃいますからね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord?\nDid you say something perchance?\nMy apologies, could you please repeat that?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……主さま？\nすみません、\n何か仰いましたか？\n申し訳ありません、\nもういちどお願いいたします。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord, your voice is quite soft,\nand it appears this strange mist is muddling my senses...\nI couldn't quite catch what you said.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまはお声がちいさいですし、\nどうも\nこの怪しげな霧が\nこちらの感覚を乱すようで……\nいまいち、\n聞き取れませんでした。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Agh.\nWe seem to have become engulfed in the mist.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "うっ……\nいつの間にか、\n周りが霧で包まれておりますね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I can hardly see anything,\nand my ears and nose also feel numb somehow.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ほとんど視界がゼロでございます、\n何となく\n耳も鼻も\n麻痺しているような？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "All my senses are dull, or rather,\nI feel as if I am in a dream.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "五感が曖昧になっているというか、\n夢でも見ているような心地ですね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This truly is an odd mist...\nWhat exactly is this, I wonder?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "本当に、\n奇妙な霧……\nいったい何なのでしょうね、\nこれは？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Pecorine?\nMiss Karyl?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ペコリーヌさま～？\nキャルさま～？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Where are you?\nPlease, answer!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "どこにおられるのですか、\nお返事をしてくださいまし！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well... We are indoors, after all.\nBoth of them ought to be nearby,\nbut I can't feel their presence at all.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "う～む、\nあくまでも屋内です。\nお二人とも近くにいるはずなのですけど、\nぜんぜん気配を感じ取れませんね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Mmnhhh...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "—?! Miss Pecorine!\nYou were closer than I expected.\nIt would help if you could at least reply!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……！？　\nペコリーヌさま！\n意外と近くにいらっしゃったのですね、\nお返事ぐらいしていただけると助かります！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...east.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……ちそ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes?\nI am sorry, what did you say?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい？\nすみません、\n何と仰いましたか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yaaayyy!\nIt's a feast! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うわぁああい！\nご馳走だぁあああ……☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "What do you mean?!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "どういうことでしょう！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "*giggle, giggle*\nToday's dinner is roast meat! ♪\nWait, or should I let you simmer and turn you into stew?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへ、\nえへへ……\n今日のご飯はお肉の丸焼き～\nううん\nコトコト煮込んでシチューにしましょうか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What a tough choice. ♪\nEheheheh... ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "迷っちゃいますね～\nえへへへへへへ♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "H-huh?!\nWait, Miss Pecorine?\nWhy are you trying to slash me?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "えっ、\nえっ？\nうひっ、\nペコリーヌさま！？\nどうして、\nわたくしに斬りかかってくるのでしょう？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll chop you and grill you nice and crisp. ♪\nThen I'll season you with spices!\nAnd, for the secret ingredient—plenty of honey! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "切り刻んで、\nこんがり焼いて～♪\nスパイスで味付けをしましょう！\n隠し味に、\nたっぷりの蜂蜜～……☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "F-for some reason, she is coming up with ways to cook me!\nNo, stop...! Help!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "な、\nなぜか\nわたくしの調理法を考えていらっしゃる！？\nやめっ……\nひっ、\n危ない！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Calm down, Miss Pecorine!\nShe is clearly not in her right mind!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "暴れないでください、\nペコリーヌさま！\nあきらかに正気ではございませんね！？"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "title": "Assailant in the Dark",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "As their expedition continues, many members of the crew\ngrow weary of attending to the same tasks day in and day out,\nand a sense of lethargy begins to hang in the air of the firelit camp.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "開拓が進む中、何日間も同じ作業の繰り返しに飽きた者たちが現れ、\n篝火に照らされたキャンプには疲労と倦怠感が蔓延しはじめていた。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Good work out there today! Didja find anything?\nI wish I could've gone with you, but the investi...\nuh, I mean, my chores have gotta take priority!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "今日もお仕事お疲れ様ッス！　\n何か見つかったッスか？\n自分も一緒に行きたいッスけど\n調査の任務……\nじゃなくて\n雑用が多くて\nついていけないッスよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...! That lady looking this way is a dragongirl too, right?\nEveryone calls her \\\"boss,\\\" so she's gotta be the guildmaster.\nOne of the gangsters told me her actual name is \"Homare.\"",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "っ！　\nこっちを見てるあの人も\nドラゴン族ッスよね？\nボス、\nって呼ばれてたし\nギルドマスターさんのはずッス。\nギャングの人に聞いたッスけど、\nホマレさん、\nって名前らしいッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Uergh. She doesn't [i]look[/i] like old Christina,\nbut she gives me the same vibe...\nSomehow she seems way more dangerous than the other two.",
+      "choice_data_list": [
+        "You think?",
+        "You might be right."
+      ],
+      "orig_name": "マツリ",
+      "orig_text": "うう、\nクリスティーナおばさんとは全然違うのに、\n似たような感じがするッス……\nなんか\n他の二人と違って\nヤバい感じがするッスよ……"
+    },
+    {
+      "name": "Inori",
+      "text": "She's got such blatant hidden depths, it's just way too creepy.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "底が知れないというか、\n不気味すぎですよアレは。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yeah. And that smile... It never reaches her eyes!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ッス……\nそれにあの人、\n絶対笑ってないッスよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "How's anyone supposed to have a clue what she's thinking?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ほんと何考えてるかぜーんぜん分からないです……"
+    },
+    {
+      "name": "Inori",
+      "text": "Oh, absolutely.\nYou should hear the things she's put me through...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "まったくですよ……\nどれだけひどい目に遭わされたか……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Th-that bad, huh...?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そ、\nそんなにッスか……"
+    },
+    {
+      "name": "Inori",
+      "text": "Even with her eyes closed, her gaze could kill.\nTrust me, you don't want to see her open them...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "目をつぶってるのにあの迫力です。\n見開いたらあんなもんじゃねえですよ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Wait—waghhhh?! Wh-why are you here?!\nDon't just slip into our private conversation!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "って、ふわわっ！？　\nな、\nなにやってるッス！\n会話に自然に交ざらないでほしいッス！"
+    },
+    {
+      "name": "Inori",
+      "text": "H-hah! As if a brat like you could keep secrets from me!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "へ、\nへんっ！　\nガキンチョが隠し事なんて十年早いです！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hold up... Is she beckoning in our direction?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……なんか\nこっちに手招きしてるッス……"
+    },
+    {
+      "name": "Inori",
+      "text": "Pyeughh?!\nI-I'm sure it must be you she's calling for...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴうぅっ！？\nあ、\nあれはきっと\nおまえを呼んでるですよ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Her lips are moving too.\nLemme see. \\\"I... o... i…\\\" \\\"I... no... ri…\\\"?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "口うごかしてるッスね。\nええと……\nいーおーいー、\nいーのーりー……？"
+    },
+    {
+      "name": "Inori",
+      "text": "N-no, look again.\nI think she's saying \\\"Ma... tsu... ri.\\\"\nI'm sure of it... It's the only explanation!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ち、\nちがうです……\nあれは\nマーツーリー\nですよ……\nきっとそうです……\nそうにちがいないです……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Doesn't look like it to me...\nOh, now she's raised her fingers. Is she doing a countdown?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ちがうと思うッスけどねえー\nあ、\nなんか指を立てて……\n数をカウントしてるッスか？"
+    },
+    {
+      "name": "Inori",
+      "text": "Pyeughhh...!\nUrkk... Wh-why? How did it come to this?!\nTh-this is... It's all your fault, you hear?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴゃうぅぅ……！\nうう……\nなんで、\nどうしてこんなことに……\nおまえの！　\nおまえのせいですよーー！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I think you brought it on yourself.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "明らかに自業自得ッス……"
+    },
+    {
+      "name": "Inori",
+      "text": "Y-you'll regret this someday!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "お、\nおぼえてろですーーー！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Even while protesting, she actually ran over to see the boss...\nSeems like... a tough life in that guild.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ああ言いながら\n結局ボスさんのところに行っちゃったッスね……\nなんか……\nこっちのギルドって大変ッス……"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "The hell'd you just say?!",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "なんだとてめぇ！"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "Ehhh?! You try'na pick a fight?!",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "あぁん！　\nけんか売ってんのかぁ！？"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "You better believe it!",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "上等だオラァ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "N-now they're infighting too?!\nTough isn't the half of it...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "こ、\n今度はけんかッスか！？\nほんとに大変ッスよぉ……"
+    },
+    {
+      "name": "Kaya",
+      "text": "*sigh*... Now listen, you two. What's all this about?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "はぁ……\nキミたちさ、\nいったいなにやってんの。"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "Wha... Kaya?",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "なっ、\nカヤさん？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, phew. I'm sure Kaya'll be able to put a stop to this!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "よかった……\nカヤさんならきっと\nけんかを止めてくれるッス！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Who was it?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "どっち？"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "L-look, he's the one in the wrong...",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "いや、\n悪いのはアイツで……"
+    },
+    {
+      "name": "Kaya",
+      "text": "I don't care who's wrong. Which one of you started the fight?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "その辺はどうでもいいよ。\n先にケンカ売ったのはどっち？"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "It was him! He came up and started accusing me of stealing stuff!",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "こいつですよ！　\nこいつが\n俺が盗んだだのと言いがかり付けてきて！"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "If you didn't steal it, who the hell did?!",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "おめえが盗った以外にありえねえんだよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hmm... All right, got it! Listen.\nYou picked a fight with him, so I'll take you up on it.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ふむ……\nよし分かった！　\nいいか？\nキミがコイツに売ったケンカ、\nそれはオレが買う。"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "Huh? Wait, but...",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "えっ、\nいや\nそれは……"
+    },
+    {
+      "name": "Kaya",
+      "text": "And you accepted his fight, so I'll accept it from you.\nThat way everyone's even. We clear?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "んで、\nキミが買ったケンカを、\n今度はオレに売る。\nこれで差し引き０。\nオッケー？"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "W-well, I guess that does... make sense...?",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "ま、\nまあ\n確かにそうなる\nかな……？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Then there's no need for you to fight each other. Right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "じゃあキミらがケンカする必要はなくなった。\nいい？"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "Uhhh, sure...",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "へぇ、\nまあ……"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "If you say so, Kaya...",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "カヤさんがそう言うなら……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Amazing! She stopped the fight in seconds flat!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "すごいッス！　\nあっというまにけんかを止めたッス！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Great! You can both come at me together, then.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "よーし、\nじゃあ二人まとめてでいいぜ。"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "はい？"
+    },
+    {
+      "name": "Kaya",
+      "text": "The fights you two picked both belong to me now, see?\nSo obviously this ain't over until we've settled 'em, is it?!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "キミら二人のケンカ、\nオレが売って、\n買ったよな……？\nだったらさあ、\nその分キッチリ\n精算しなきゃなんねえだろうが……！"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "Wha...?! Wait—!",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "ちょ……\nまっ……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "The boss said anyone who beats me in a fight\ngets promoted on the spot, didn't she?\nAnd I'm letting you take me two-on-one! So let's see your best shot!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ボスも\nオレにタイマンで勝てたら幹部昇進\nって言っただろ？\n二人同時でいいって言ってんだ！　\nほら、\nかかってこいよ！！"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "Arghhh... If that's how it's gonna be...!",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "くそぉ……\nそういうことなら！"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "W-we've got no choice! Yaarghh!",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "い、\nいくしかねえ！！　\nオラァ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "That's more like it! Just what I like to see!\nI've been itching for a fight, so try to keep me entertained! Yaahhh!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "いいぜいいぜ！　\nそうこなくっちゃなぁっ！！\n久々のケンカだ、\nちったぁ楽しませろよテメェら！　\nオラァァッ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ahhhh... Somehow it ended up worse than it started.\nI thought Kaya was nice, but she can be super scary...",
+      "choice_data_list": [
+        "I thought this would happen..."
+      ],
+      "orig_name": "マツリ",
+      "orig_text": "あわわ……\nなんか余計にひどいことになってるッスよ。\n優しい人かと思ったのに\nめちゃくちゃ怖いッス……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I-if you saw it coming, couldn't you try to stop her?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "わ、\n分かってたなら止めてほしいッスよぉ～～！！"
+    },
+    {
+      "name": "Tomo",
+      "text": "All of this commotion is perfect for investigating.\nMatsuri's with him, so she should be safe for the moment...\nAha! Found them. That's Inori and Homare...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "これくらい騒々しい方が\n調査しやすくて助かるね。\nマツリちゃんには\nあの人がついてるから大丈夫だろうし……\nおっと、\n見つけた。\nイノリさんとホマレさんだ……"
+    },
+    {
+      "name": "Homare",
+      "text": "Oh, Inori~? Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "イノリちゃ～ん？　\nどうかした？"
+    },
+    {
+      "name": "Inori",
+      "text": "Wh-wh-wh-wh-why would things be wrong?\nI mean, it was that brat Matsuri who said those things, not me...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "な、\nななななんでもないですよ？\nというかあれは\nあのマツリってガキンチョが言ってたことで……！"
+    },
+    {
+      "name": "Homare",
+      "text": "Hmm? Said what, exactly?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "うん？　\n何の話？"
+    },
+    {
+      "name": "Inori",
+      "text": "Huh? You're not mad 'cause of the stuff we were saying about you?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "え？　\nボスの陰口が聞こえて\n怒ってたんじゃないんです？"
+    },
+    {
+      "name": "Homare",
+      "text": "Ahaha. I wouldn't call you over here just for that!\nNow, before you tell me all about that conversation in detail...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あはは、\nそんなことでわざわざ呼んだわけじゃないよ？\n……まあ、\nその話は\nまたあとでゆっくり聞かせてもらうとして～"
+    },
+    {
+      "name": "Inori",
+      "text": "Eurghh! Oh noooo! I dug my own grave!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ひい！　\nしまったぁ！　\n墓穴をほったです！"
+    },
+    {
+      "name": "Homare",
+      "text": "Inori... You're sensitive to these things, so I want your opinion.\nSince we set up camp here, have you felt like we're being watched?\nThis little one... Largo has been ever so restless the whole time.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "イノリちゃんは\n結構こういうの鋭いと思うから\n聞くんだけどー……\nここにキャンプを張ってから、\n誰かに見られてる気がしない？\nこの子……\nラーゴもずっと、\n落ち着きがないんだよね～"
+    },
+    {
+      "name": "Largo",
+      "text": "Growrrr!",
+      "choice_data_list": [],
+      "orig_name": "ラーゴ",
+      "orig_text": "ギャオッ！"
+    },
+    {
+      "name": "Tomo",
+      "text": "They've noticed my eyes on them...? ",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "私の監視が気付かれてる……？　"
+    },
+    {
+      "name": "Inori",
+      "text": "Umm... I don't really know.\nAre you sure it's not just wild animals?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "うーん、\nよく分かんないですね。\n野生動物とかじゃないです？"
+    },
+    {
+      "name": "Homare",
+      "text": "I'd like to think I'm imagining things...\nBut let's be careful, just in case.\nIt could be someone sneaky enough to fool even you!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "私の気のせいだったらいいんだけど……\n一応、\n気を付けておいてね。\nイノリちゃんでも気付かないくらいの\n相手かもしれないし☆"
+    },
+    {
+      "name": "Inori",
+      "text": "D-don't say scary things like that!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "こ、\n怖いこと言うなですよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Well then, let's leave it at that for today.\nTry not to oversleep tomorrow morning. Nighty-night~! ☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それじゃ今日は\nこれくらいにしておきましょうか。\n明日の調査に寝過ごさないようにね。\nおやすみ～☆"
+    },
+    {
+      "name": "Inori",
+      "text": "She said her spiel and ran off...\n*sigh* Guess I'd better head to bed.\nLet me just find Kaya-P first...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "言うだけ言って行っちゃったですよ。\nはあ、\nもう今日は寝るしかないです。\nそうと決まればカヤぴぃを探して……"
+    },
+    {
+      "name": "Tomo",
+      "text": "I'm glad our cover doesn't seem to be blown, at least...\nBut Homare's words are concerning.\nIs there a third party keeping watch on all of us...? ",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "こっちのことが気付かれたわけじゃあなくてよかったけど……\nホマレさんの言ってたことも気になるな。\n私たち以外にも\n誰かが監視している……？　"
+    },
+    {
+      "name": "Inori",
+      "text": "Hyeeughh?! Think you can bump into [i]me,[/i] do you?!\nTry looking where you're—",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ひゃううぅ！？　\nなにぶつかってきてんですか！\nよそ見してんじゃ……"
+    },
+    {
+      "name": "???",
+      "text": "Mrghhh?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "もご？"
+    },
+    {
+      "name": "Inori",
+      "text": "Wh-wh-wh... What the heck is thiiiiiis?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "な、\nな……\nなんじゃこりゃあ～\nです～！！！"
+    },
+    {
+      "name": "Tomo",
+      "text": "What's that?! ",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あれは！？　"
+    },
+    {
+      "name": "???",
+      "text": "MGRUOOOHHH!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぐおもももー！？"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "The heck?!",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "なんだあ！？"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "I-it's a fire!",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "か、\n火事だぁ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "A fire?! We're in the middle of a fight!\nThis isn't the time for fires!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "火事だぁ？　\n今はケンカ中だぞ！\nそれどころじゃねえだろうが！"
+    },
+    {
+      "name": "Gangster 1",
+      "text": "I-I think the fire is more urgent!",
+      "choice_data_list": [],
+      "orig_name": "ギャング１",
+      "orig_text": "そ、\nそれどころじゃあるッスよ！"
+    },
+    {
+      "name": "Gangster 2",
+      "text": "H-hey... What's that freaky shadow...?",
+      "choice_data_list": [],
+      "orig_name": "ギャング２",
+      "orig_text": "お、\nおい……\nなんだよ、\nあの影……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Quit getting distracted! Can't you try to face me like men?!\nUgh, what exactly is...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "よそ見してんじゃねえ！　\nケンカの途中だって言ってんだろ！！\nったく\nいったいなにが……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Wahhh?! Wh-what's going on?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ひゃあ？　\nな、\nなんなんスか！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Whoa there. You OK, Matsuri?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おっと、\n大丈夫かマツリ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Eek...?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ヒッ……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ahhh... Guess that scene was a bit much for a kid.\nSorry, I didn't mean to scare ya...",
+      "choice_data_list": [
+        "Forget that! Look behind you!"
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "あー……\n子供には刺激強すぎたかもしれないな。\n悪いな、\n怖がらせちまって……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, for the... What now?\nWait. Whoa, whoa, whoa...!\nCould this actually be...?!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "なんだよ……\nさっきから\nって、\nオイオイオイオイ……\nコイツは、\nまさか……"
+    },
+    {
+      "name": "Narration",
+      "text": "The silhouette that faced them before the firelight\nlooked exactly like that of a winged dragon.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "炎の照りかえしにより映しだされたシルエットは\n羽根を広げた竜の姿そのものだった。"
+    },
+    {
+      "name": "Homare",
+      "text": "The~re you are! ☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……見～\nつけ\nた☆"
+    }
+  ]
+}

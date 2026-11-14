@@ -1,0 +1,943 @@
+{
+  "title": "Interlude 11",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the others had finished their fierce battle with Misora. In response, Labyrista spoke to them with communication magic.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミソラとの激闘を終えた{0}たち。\n彼らに対し、ラビリスタが通信魔法で話しかけてきた。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Anyway. I want to discuss a lot of complicated matters with you guys, so I'd be happy if you guys could extend your reach to Elizabeth Park.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……ってわけでね。\nいろいろ込み入った相談がしたいから、\nちょっと少年たちには\nエリザベスパークにまで足を延ばしてもらえたらうれしいなって。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I'll warp the space by changing the object to create an underground tunnel. If you go through there, the enemy won't notice, and it'll be a shortcut. It's not as good as RajiRaji's spacial leap, but....",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "アタシがオブジェクト変更で空間をゆがめて、\n地下道を作るから。\nそこを通れば\n敵にはバレないし、\nショートカットになるよ。\nラジラジの空間跳躍ほどじゃないけどね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Well then, I'll be waiting for you-",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "それじゃ、\n待ってるよー"
+    },
+    {
+      "name": "Rei",
+      "text": "...Labyrista, huh? It's hard to grasp, but strangely enough, I feel like I can trust her... I don't think I've ever talked to her properly.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ラビリスタ、\nか。\n掴みどころがないのに、\n不思議と\n信頼して良いと思える……\nきちんと話したことはないはずなのにね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "She said she wanted to talk to us about something. If she's going out of her way to contact us, it must be really important...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "相談があるって言ってたけど。\nあいつがわざわざ前フリするってことは、\nよっぽど大事な話っぽいわね……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "In any case, there is no choice but to head there. If we stay here forever, we may be attacked again... My Lord, Miss Sheffy, and the others need rest.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "いずれにせよ、\n向かわないという選択肢はありません。\nここにいつまでもいては、\nまた襲撃を受けるかもしれませんし……\n主さまやシェフィさまたちには、\n休息が必要です。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I'll carry Yui-chan while she's unconscious! Lets take turns Kishi-kun!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "気絶しちゃってるユイちゃんは、\nあたしがおんぶしていくね！\n騎士くんと交代で！"
+    },
+    {
+      "name": "Monika",
+      "text": "...You guys.... We were caught up in the middle of it, so we can't say we have a full grasp of the situation...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……貴公。\n我々は\n途中から巻き込まれたかたちで、\n全容を把握しているとはとても言えないが……"
+    },
+    {
+      "name": "Monika",
+      "text": "You're all in the middle of something terrible, aren't you? The same as when you fought Kaiser Insight, or even worse.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "貴公らは、\n何か\nとんでもない事態の渦中にあるのだな？\nあの\n覇瞳皇帝と戦ったときと同じか、\nそれ以上の。"
+    },
+    {
+      "name": "Monika",
+      "text": "...I see. I'd love to help, but... To do that, we need to gather the full strength of the Weissflugel Landosol branch.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……そうか。\nぜひとも力になってやりたいが……\nそのためにはまず、\n【ヴァイスフリューゲル　ランドソル支部】の\n総力を結集せねばならん。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I wonder where Kuuka and Ninon went...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "クウカさんやニノンさん……\nどこ行っちゃったんでしょうね……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Whaaat? R-Really, Senpai...?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えええっ？\nほ、\n本当ですか\n先輩……！"
+    },
+    {
+      "name": "Monika",
+      "text": "Thank you for the information! Seriously, those guys...!!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "情報提供、\n感謝するぞ！\nまったく\nあいつらは……！！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Well then, let's strike back after we find the two of them. I don't want to forgive anyone who makes Christina look so unbeautiful.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "それじゃ、\n二人を見つけてから反撃だね。\nクリスティーナさんに\nあんな美しくない格好をさせているやつは、\nボクとしてもちょっと許したくないし。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "B-By the way... That woman... Ranpha-san, was it? She's been looking at me from a distance for a while now... I feel a sense of camaraderie...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "と、\nところで……\nあの女のひと……\nランファさんでしたっけ。\nさっきから、\nちょっと遠巻きにこっちを見ていて……\nなんだか親近感が……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Ranpha...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ランファさま……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...! N-No way... You're the one who saved me...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！\nそ、\nそんな……\nわたしの\nほうこそ、\nあなたに、\n助けてもらって……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Power from you... My chest feels so warm... I'm so happy...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あなたからの、\n強化……\nとても、\n胸が\nあたたかくなって……\nうれしかった……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Mm...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……むっ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm... What are you planning to do after this, Ranpha?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっと……\nランファさんは、\nこの後どうするつもりなんですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huh? A-Are you sure...? ...But... I was your enemy...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっ？\nい、\nいいの……？\n……でも……\nわたし、\n敵だったのに……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmph. Don't be shy. Something like this is not uncommon.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はんっ。\n遠慮しなくていいわよ。\nそんなやつ、\n珍しくもないしね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I-I'm... very, very happy about your invitation, but... right now, I'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "お、\nお誘いは……\nとても、\nとても\nうれしいけど……\nでも……\n今は、\nごめんなさい……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I-I... I'm like this. I don't think I'll fit in... with so many people around... B-Besides... right now...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わ、\nわたし……\nこんな\n性格で。\nまだ、\n人が\nいっぱいのところには……\n馴染めそうに\nないし……\nそ、\nそれに……\n今は……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I want... to find you, Misora...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラちゃんのこと……\n捜したいの……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Misora-chan...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ミソラちゃん……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "In the truest sense... I want to be friends with Misora... so I don't know... if I can do it right...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "本当の\n意味で……\nミソラちゃんと、\nお友だちに、\nなりたいから……\nうまくできるか……\nわからないけど……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-But...from now on...I'll definitely...be your strength...so please...take care of me...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでも……\nこれからは。\n必ず……\nあなたの。\n……あなたたちの、\n力に\nなるから……\nよろしく、\nお願いします……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Hehe... Yeah.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ふふっ……\nうん。"
+    },
+    {
+      "name": "Illya",
+      "text": "...Now then, shall we return to the old castle and heal our wounds?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……さて。\n我らも古城へ戻り、\n傷を癒すとするか。"
+    },
+    {
+      "name": "Akari",
+      "text": "Akari, I'm totally exhausted~",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "アカリ、\nもうヘロヘロだよぉ～"
+    },
+    {
+      "name": "Shinobu",
+      "text": "I have to close the hole in Dad's forehead, too. With glue and a piece of a bowl or something...",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "お父さんの額に空いた穴も、\n塞がなくてはなりません。\n接着剤と、\nお茶碗のカケラか何かで……"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Ugh...Shinobu-san...could you at least pick up a bone lying around somewhere...hm?",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "うぅ……\nシノブさん……\nせめて、\nどっかそのへんに落ちてるはずの骨を拾っていただけると……\n……ん？"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Pikooooon! My beautiful radar's reacting!! It's not fake breasts or a man's daughter, it's a strangely-aged beauty from the real world approaching!!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "ピコーーーーン！\nオレの美人レーダー、\n反応アリ！！\n偽乳でも男の娘でも無い、\nモノホンの妙齢の美人が接近中だァ！！"
+    },
+    {
+      "name": "Shinobu",
+      "text": "What?",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "えっ？"
+    },
+    {
+      "name": "？？？",
+      "text": "Haah, haah... Wheeze, wheze...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "はぁっ、\nはぁっ……\nぜぇっ、\nぜぇっ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "H-Hey, Pecorine. That girl running from over there, that girl...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ね、\nねぇペコリーヌ。\n向こうから走ってくる、\nあいつって……"
+    },
+    {
+      "name": "Creditta",
+      "text": "*pant pant*... Your...Majesty..... Eustiana.... Your..... Majesty.......~...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "はぁ、\nぜぇ……\nへいかぁ～……\nゆーすてぃあなへーかぁ～……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh! Miss Creditta?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ！\nクレジッタさん！？"
+    },
+    {
+      "name": "Creditta",
+      "text": "A-Ahh...! I-It's not a dream, is it? It's a real one, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ああ、\nああ……！\nゆ、\n夢ではありませんのね？\nほんもののへーか……\nなのですわね？"
+    },
+    {
+      "name": "Creditta",
+      "text": "Fast horses, riverboats, sometimes running on my own two feet... From Centorus, the land of beastfolk... Now that I've seen your noble face, I no longer have any regrets...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "早馬を飛ばし、\n川舟を走らせ、\n時には己が足で駆け抜けて……\n獣人族の国・セントールスから、\nトンボ返りの強行軍……\nこうしてご尊顔を拝見できて、\nもはや思い残すことは……"
+    },
+    {
+      "name": "Creditta",
+      "text": "Wait!! This isn't the time to lose heart!!!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "って！！\nへたばってる場合ではありませんでしてよおおおおっ！！！"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Aaah, she looks amazing on the outside, but she's way too sad on the inside. Well, she does have a nice soft spot...",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "あー\n外見はめっちゃ最高なんだけどなー\n中身が残念すぎるなー、\nあのお姉ちゃん。\nまあ\nでもガワは良いなー……"
+    },
+    {
+      "name": "シノブ",
+      "text": "お父さん。\n最低です。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "お父さん。\n最低です。"
+    },
+    {
+      "name": "Creditta",
+      "text": "I'm so glad you're safe, Her Majesty Eustiana!! I was really worried about you, since you went to the [Rage Legion]'s base and went missing without knowing whether you were alive or dead in the battle!!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ご無事で何よりでしたわユースティアナ陛下ッ！！\n【レイジ・レギオン】の拠点へ向かって戻って決戦からの\n生死不明の行方不明でわたくし大変とっても心配しておりましたけど！！"
+    },
+    {
+      "name": "Creditta",
+      "text": "The city is already in trouble! It looks like there was another explosion just now! Come on, time is money, Your Majesty! Please use us as your arms and legs and lead us to repair the city and guide the people!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "街はもう大変ですのよ\nなんかさっきまた爆発炎上してた模様ですし！？\nさ\nぁさぁタイムイズマネーですわ陛下！\nどうか我らを手足として市街を修繕し、\n民を導くためのご指揮を！"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "ご、\n──ごめんなさいっ！！",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ご、\n──ごめんなさいっ！！"
+    },
+    {
+      "name": "Creditta",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "へっ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Just like Creditta said, I'd like to fix the city and give the citizens some peace of mind! But there's someone I have to go see right now...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "クレジッタさんの言うとおり、\n街を直したり\n市民のみなさんに\n安心してもらいたいのは山々なんですけど！\nでも今から、\n急ぎで会いに行かなくっちゃいけない人がいて……！"
+    },
+    {
+      "name": "Creditta",
+      "text": "W-Wait a minute, Your Majesty! What are you saying?! This is an emergency situation! What kind of crazy person are you meeting with...?!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ちょ、\nちょっとちょっと陛下！\nなにをおっしゃいますの！？\nこの非常事態に！　\nどこの馬の骨と面談などっ……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm, let's see...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっと、\nそうですね──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The Creator of this world, right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "この世界の創造者さん、\nですかね？"
+    },
+    {
+      "name": "Creditta",
+      "text": "Huh? Huh...?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "へっ？\nへっ……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well, to be more precise, she's one of them. But in order to get this whole mess under control, it's absolutely necessary...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "正確には、\nそのうちの一人ってカンジみたいですけど。\nでも\nこの一連の騒動を収拾するためには、\nどうしても必要なことで……"
+    },
+    {
+      "name": "Creditta",
+      "text": "...Mm, mmmmmmm...!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……んっ、\nんんんんん\nっ……！"
+    },
+    {
+      "name": "Creditta",
+      "text": "...Hah. Understood.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……はぁ。\nわかりましたわ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "I know you're not the type to joke around in this situation. I'm sure that's the best choice for the people of this country, right?",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "この状況で、\n冗談をおっしゃられる方ではないことくらい\n存じ上げているつもりですし。\nきっとそれが……\nこの国の人々にとって、\n最良の選択というわけですわね？"
+    },
+    {
+      "name": "Creditta",
+      "text": "In that case... Please be safe, Your Majesty. I hope you return as soon as possible...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "でしたら……\nどうかご無事で、\n陛下。\nできるだけ\n早く戻っていただけるとありがたいのですけれど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes, I'll be back! Please take care of the citizens for a while longer, Miss Creditta! ...Ah...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい、\n必ず戻ります！\nもうしばらく、\n市民のみなさんのことをお願いします\nクレジッタさん！\n……あっ……"
+    },
+    {
+      "name": "クレジッタ",
+      "text": "？",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm sorry. I was going to tell you, but... The airship I borrowed from the Mercurius Foundation was destroyed. Ehehe...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "すみません。\n言おうと思ってたんですけど……\n【メルクリウス財団】から借りてた飛空艇、\n壊されちゃいました。\nえへへ……"
+    },
+    {
+      "name": "クレジッタ",
+      "text": "……\n……な、\nな……",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……\n……な、\nな……"
+    },
+    {
+      "name": "Creditta",
+      "text": "Whaaaat?!!!!!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ぬわんですってぇ～っ！！！！！"
+    },
+    {
+      "name": "Narration",
+      "text": "-And so, leaving Landosol to Creditta, the Gourmet guild and Twinkle Wish headed for Elizabeth Park, where Labyrista was waiting.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──こうしてクレジッタにランドソルを任せ、\n【美食殿】と【トゥインクルウィッシュ】は\nラビリスタの待つエリザベスパークへと向かうのだった。"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方──"
+    },
+    {
+      "name": "Kariza",
+      "text": "Damn it...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "クソッ……"
+    },
+    {
+      "name": "カリザ",
+      "text": "クソッ、\nクソッ……！！！",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "クソッ、\nクソッ……！！！"
+    },
+    {
+      "name": "Kariza",
+      "text": "...Damn it...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "…………ちくしょお……"
+    },
+    {
+      "name": "Nea",
+      "text": "Huh? Kariza-kyun, you're so wilted!",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ありゃ～？\nカリザきゅんったら～\nそんなしおしおしちゃって～"
+    },
+    {
+      "name": "Nea",
+      "text": "Why don't you get more pissed off~! I want to see your face~.",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "もっとムキーってしよ～ぜ～？\nカリザきゅんのイキリ顔～、\n見てみた～い。"
+    },
+    {
+      "name": "Kariza",
+      "text": "...Seh! Who the hell is going to do what you want, Kiiro?!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……ッセェ！\n誰がテメーの思い通りになるかってんだ、\nキイロ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Wait... I'll kill you! You and the Gourmet! Kill everyone who sees me in this outfit and silence them...!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "っつうか……\n殺す！\nテメーも、\n【美食殿】のやつらも！\nオレのこの格好見たやつは、\n全員殺して口封じだぁっ……！"
+    },
+    {
+      "name": "Nea",
+      "text": "Ehehe~ That's right, that's it~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "んふふ～\nそ～そ～\nそのイキそのイキ～"
+    },
+    {
+      "name": "Nea",
+      "text": "Hey, Kasa, Kariza-kyun, are you really okay with that?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "って～かさ～\nカリザきゅんさ～、\nほんとにソレでいいん～？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "アア……？"
+    },
+    {
+      "name": "Nea",
+      "text": "Wow, I'm pretty strong!",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "や～\nアタシ結構つよつよぢゃん～？"
+    },
+    {
+      "name": "Nea",
+      "text": "Don't say it yourself~? Aha~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "自分でゆーなって～？　\nあは～"
+    },
+    {
+      "name": "Kariza",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Kariza",
+      "text": "What are you saying, Kiiro?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "何が言いてェんだよ？\nキイロ。"
+    },
+    {
+      "name": "Nea",
+      "text": "That's why~ Come on~ I'm so strong, so I can help~, Kariza-kyun, defeat Misora and Eris-chan~, Okaeshi~? Maybe I can~?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "だから～\nほら～\nつよつよなアタシが手伝ったげれば～、\nカリザきゅん、\nミソラちゃんやエリスちゃんに～、\nオカエシ～？　\nできっかも～\nって～？"
+    },
+    {
+      "name": "Kariza",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kariza",
+      "text": "Damn it...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "クソッ……"
+    },
+    {
+      "name": "Kariza",
+      "text": "This brain gelatin woman... She's staring at my feet. She was my pet, and now she's acting all cocky... But...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "この脳みそゼラチン女が……\n足元見やがって。\nオレのペットだったくせに、\n調子こいたコト言いやがって……\n……けど……"
+    },
+    {
+      "name": "Kariza",
+      "text": "If I can kill them... Damn it. I really don't want to, but... Kiiro. Even with your help...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "あいつらをブチ殺せるってんなら……\nクソッ。\nすげーイヤだが……\nキイロ。\nテメーの手を借りてでも……"
+    },
+    {
+      "name": "Nea",
+      "text": "Geez~ It's not kii, it's 'Nea onee-chan'~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "んも～\nキイロじゃなくて、\n『ネアおねえちゃん』だって～の～"
+    },
+    {
+      "name": "Kariza",
+      "text": "Ngaaaah! Like I said, stop!! Don't get me all sticky!!!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "んがあああっ！\nだからやめろぉっ！！\nべたべたすんじゃねーーーっ！！！"
+    },
+    {
+      "name": "Nea",
+      "text": "Ehehehe~♪",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "んふふふ～っ♪"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Nea",
+      "text": "Ah, ah, ahhhh, Testesu",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "あ、\nあー\nあーあー、\nテステスー"
+    },
+    {
+      "name": "Nea",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "……"
+    },
+    {
+      "name": "Nea",
+      "text": "'Dear Onee-chan~ I wonder if you will get my message.'",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "『ハイケー\nおねえちゃんへ～\nメッセ届くかな～？』"
+    },
+    {
+      "name": "Nea",
+      "text": "'I had a little trouble, but I think I made it to Astrum.'",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "『ちょいトラブったけど～\nま～\nアストルムには\nこれたカンジすわ～』"
+    },
+    {
+      "name": "Nea",
+      "text": "'But~ it seems like it's a little bit difficult here~? \\I wonder if Eris-chan and her sister know about this?'",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "『けど～\nコッチもコッチで\nタイヘンっぽい～？\nエリスちゃんとか～　\nおねえちゃんなら\n知ってんのかな～』"
+    },
+    {
+      "name": "Nea",
+      "text": "'Anyway~ I'll try to find a way to get to real life~ Ah~ But~'",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "『とりま～\nリアルの行きかた探すけど～\nあ～\nでも～』"
+    },
+    {
+      "name": "Nea",
+      "text": "Something~~ I got my favorite shota~ I'll play with this boy for a while~ Mmm-hmm.~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "『な～んか～　\n好きぴなショタゲットしたんで～\nしばらくこのコであそぶね～\nんふふ～』"
+    },
+    {
+      "name": "Nea",
+      "text": "Okay~ I'll contact you again if I feel like it~ And Mone-chan and the others~ Yoo~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "『んじゃ～\n気が向いたらまた連絡すっから～\nモネちゃんたちにも～　\nよろ～』"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Narration",
+      "text": "- Somebody's dream",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "―誰かの夢―"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "Supernatural test subject M3. Wake up. You’re out of medicine already",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『──異能試験体Ｍ３号。\n起きなさい。\nもう薬は切れているだろう』"
+    },
+    {
+      "name": "M3",
+      "text": "Uh...",
+      "choice_data_list": [],
+      "orig_name": "Ｍ３号",
+      "orig_text": "ぅ……"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "Look at this footage. What’s on it?",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『この映像を見給え。\n何が映っているかね？』"
+    },
+    {
+      "name": "M3",
+      "text": "...? I'm... Hiko...ki...",
+      "choice_data_list": [],
+      "orig_name": "Ｍ３号",
+      "orig_text": "……？\nひこーき……\nです……"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "That’s right. A perfectly guarded private jet with VIPs on board... It’s impossible to bring in anything dangerous",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『そうだね。\nVIPを乗せた、\n万全の警備のプライベート・ジェット……\nどのような危険物を持ち込むのも不可能だ』"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "And then. In three seconds, it’ll explode",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『そして。\nあと３秒後に、\n爆発する』"
+    },
+    {
+      "name": "M3",
+      "text": "...!! Ah, ahhh...",
+      "choice_data_list": [],
+      "orig_name": "Ｍ３号",
+      "orig_text": "……！！\nあ、\nあぁぁっ……"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "Hahaha! Hahaha!! Do you know what happened?! That’s right! It’s a new weapon that uses one of your abilities!",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『ははは！　\nはははっ！！\n何があったかわかるかね！？\nそうだ！　\n君の能力のひとつを応用した、\n新型兵器だ！』"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "Small bombs teleported into enemy territory! Mass brainwashing via hipnosis via portable terminals! Guiding weapons that require telekinesis oh, how wonderful!",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『敵陣にテレポーテーションで送り込まれる小型爆弾！\n携帯端末を媒介したヒプノシスによる、\n集団洗脳！\n念動力で必中する誘導兵器──\nおお、\nなんと素晴らしい！』"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "UN Armed Forces! Wisdom! What do you think you’re doing?! The many psychic weapons your abilities make bring vast amounts of death and fear to this rotten society!",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『国連軍！　\nウィズダム！　\n何するものか！\n君の能力が作るサイキック兵器の数々は、\nこの腐った社会におびただしい死と恐怖をもたらすぞ！』"
+    },
+    {
+      "name": "Director of Research Institute",
+      "text": "And eventually, we’ll be the rulers of the world from behind the scenes, not the terrorist organization! Hahaha! Hahhahaha!!",
+      "choice_data_list": [],
+      "orig_name": "研究所長",
+      "orig_text": "『そしていずれ\n我々はテロ組織ではなく、\n裏から世界を牛耳る支配者となるのだ！\nははは！　\nははははっ！！』"
+    },
+    {
+      "name": "M3",
+      "text": "No... No! Stop! Stop...!",
+      "choice_data_list": [],
+      "orig_name": "Ｍ３号",
+      "orig_text": "い……\nいやっ！\nやめてっ！\nやめてぇっ……！"
+    },
+    {
+      "name": "M3",
+      "text": "Nooooooo...!",
+      "choice_data_list": [],
+      "orig_name": "Ｍ３号",
+      "orig_text": "いやああああっ……！"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Misora",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Christina",
+      "text": "Looks like you were having a nightmare. Did you have a bad dream?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "うなされていたようだが。\n悪い夢でも見たかね？"
+    },
+    {
+      "name": "Misora",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Misora",
+      "text": "What about Kishi-kun?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "騎士さんたちは？"
+    },
+    {
+      "name": "Neneka",
+      "text": "It looks like {0} and the others have escaped Landosol. They've made it past my clones' eyes. It's probably Akira's guidance.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "{0}たちは、\nランドソルを脱出した様子です。\n私の分身の目をくぐりぬけてね。\n恐らく、\n模索路晶の手引きでしょう。"
+    },
+    {
+      "name": "Misora",
+      "text": "...I see.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……そうですか。"
+    },
+    {
+      "name": "Christina",
+      "text": "Should we go after him? If we do it right, we might even bite down on Labyrista's throat.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "追うか？\n上手くすれば、\nラビリスタの喉首に食らいつけるかもしれんぞ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Maybe you're right.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そうかもですねー"
+    },
+    {
+      "name": "Neneka",
+      "text": "Or should we get ready and intercept them? They'll have to come back to Landosol eventually.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "それとも、\n態勢を整えて迎え撃ちますか？\nそのうち彼らも、\nランドソルに戻ってこざるをえないはずですし。"
+    },
+    {
+      "name": "Misora",
+      "text": "That's a good idea!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それもいいですねー"
+    },
+    {
+      "name": "Christina",
+      "text": "Hey. If you don't want to do this, let us go. I want to play with Eris more than {0} and the others.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おい。\nやる気が無いのなら、\n我々を解放しろ。\n{0}たちよりも、\nエリスと遊びたいんだ\nワタシは。"
+    },
+    {
+      "name": "Misora",
+      "text": "That's impossible.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それはムリですねー"
+    },
+    {
+      "name": "Neneka",
+      "text": "Well... I'm sure you're right. I think we should strike right now. Akira doesn't know what she's going to do.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "まあ……\nそうでしょうね。\n私も、\n今は打って出るべきだとは思いますが。\n晶は何をするか分からない相手ですから。"
+    },
+    {
+      "name": "Misora",
+      "text": "Then... why don't you do that?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "なら……\nそうしたらいいんじゃないですかー"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmph. Well then, I'll do as I please. I won't listen if you complain about doing as you please later.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "フン。\nでは、\n好きにさせてもらおう。\n後で勝手をしたなどと、\n文句を言っても聞かないぞ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Well then.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……では。"
+    },
+    {
+      "name": "Misora",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Misora",
+      "text": "*sigh*...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……はぁ……"
+    },
+    {
+      "name": "Misora",
+      "text": "...I'm sorry, Lady Eris...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……ごめんなさい。\nエリスさま……"
+    }
+  ]
+}

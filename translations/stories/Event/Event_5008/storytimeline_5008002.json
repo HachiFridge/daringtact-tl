@@ -1,0 +1,269 @@
+{
+  "title": "Cavern of Corruption",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Around the same time as Ruka's encounter in the village,\nAnna and {0} have finally arrived\nat their cavernous destination.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方その頃、ルカやナナカと別れた{0}は、\nアンナと共に洞窟へ到着していた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Whew... We got to fill our bellies as soon as we got here!\nThis really is the perfect workplace!\nUnbridled motivation is coursing through me!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ふーっ、\n着いて早々食事をふるまってくれるとは、\nなんて素晴らしい職場なんだ！\n働く気力がみなぎってくるぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "And all we have to do is the very simple task\nof digging out this cavern, it seems! ...Oh dear. I'm sorry, sir!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しかも仕事内容は、\n洞窟を掘り進めるだけの\n簡単なお仕事だというではないか──\nおっと、\nすまない。"
+    },
+    {
+      "name": "Wanted Criminal",
+      "text": "Hah. Watch where you're walkin'.",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "おう、\n気をつけな──"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "What a muscular fellow.\n...Hm?\nThat face... It seems familiar somehow...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "いかつい男だな……\nん？\nさっきの顔、\nどこかで見たような……？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd, do you recognize that man at all?\nHe's triggering something in the depths of my Akashic records...",
+      "choice_data_list": [
+        "He's a wanted criminal.",
+        "He might be my dad?"
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド、\nあの男の顔に見覚えがないか？\nどうも\n我がアカシックレコードに引っかかるんだが。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "A criminal?\n...Of course—the wanted posters! No wonder I recognized him!\nYou have a good memory, Sigurd! Great work!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "賞金首？　\n……\nそうか\n手配書か！　\nどうりで見覚えがあるわけだ！\n記憶力がいいんだなシグルドは！　\n助かったぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Wh-whaaaaat?!\nWait, aren't you lacking all of your memories, Sigurd?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "な、\nなんだってー！？\nって、\n記憶喪失じゃなかったのかシグルド！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "No, that can't be it at all! Where have I seen him...?\nThat's right! The wanted posters!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "いや、\nそういうのじゃなくて！\n確かあいつは……\nそうだ、\n賞金首だ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hold it, you! There's a bounty on your head, is there not?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "待て貴様！　\n指名手配中の賞金首だな！"
+    },
+    {
+      "name": "Wanted Criminal",
+      "text": "Right, and you're... the Living Storm, ain'tcha?\nSo what, you lookin' for a fight?",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "そういうおまえは……\n歩く竜巻じゃねえか。\nなんだ、\nここでやろうってのか？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'm glad you understand.\nNow face the flames of my dark magicks\nand become an unholy sacrifice!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "話が早くて助かるな。\n強大なる我が力の前にひれ伏し、\n饗宴の贄となるがいい！"
+    },
+    {
+      "name": "Foreman",
+      "text": "You two, there! What's the big idea?\nFighting is against regulations!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "そこの二人！　\nなにをしている！\nここでの私闘は禁止だぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "But this man is a wanted criminal!\nBesides which, violating taboos is in my—",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "目の前に賞金首がいるんだぞ？　\nそれに禁忌を犯すのが私の──"
+    },
+    {
+      "name": "Foreman",
+      "text": "Break the rules and you don't get paid!\nHow's that sound, eh?",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "そうなれば賃金は支払われないぞ！\nそれでもいいのか！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Th-that would be bad! After coming all this way,\nI can't leave without even receiving payment...!\nBut can I really let a villain go without administering justice?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そ、\nそれは困る……！　\nせっかくここまで来たのに、\nバイト代をもらわずにすごすご帰るわけには……\nいや、\nやはりルールを無視して目の前のやつを倒すべきなのか……？"
+    },
+    {
+      "name": "Wanted Criminal",
+      "text": "Guess you get to live this time. Buh-bye!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "命拾いしたな。\nあばよ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Ahh! Wait...!\nCurses... How could I let a bounty slip through my fingers?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "あ、\nおまえ……！\nくそう、\nせっかく賞金が目の前に転がっていたのに！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh well... Let's focus on the job for now.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "仕方ない……\n仕事に集中するか。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "*pant*... *pant*... The work is simple,\nbut digging for hours on end is pretty strenuous...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ふぅ……\nふぅ。\n作業は単純だが、\nこうも延々と穴掘りを続けるのは、\n堪えるな……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd, how are you doing?",
+      "choice_data_list": [
+        "I can't feel my arms..."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド、\nそっちはどうだ？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "You've been transporting all the dirt I dug up this whole time...\nOf course you're worn out. Thank you for working so hard, Sigurd.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私が掘った土砂をひたすら運び続けてくれているのだ。\n疲れて当然だな……\n頑張ってくれてありがとう、\nシグルド。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Actually, we were never told about break times, were we?\nLet us take this opportunity to catch our breath!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そういえば\n休憩時間について聞いていなかったな。\nここらで休息の時を刻むとしよう。"
+    },
+    {
+      "name": "???",
+      "text": "*pant*... *pant*... *pant*...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "はぁ、\nはぁ……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "What is it now, Sigurd? All that harsh panting...\nAre you struggling that much?\nWait, that's not Sigurd. Then who...?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "どうしたんだシグルド、\n急に荒い息をはいて。\nそんなに疲れたのか？\nあれ、\nシグルドじゃない。\n誰が……？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Ah, it's this man!\nHey, what's wrong?! Pull yourself together!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "この男か……！\nおい、\nどうした！？　\nしっかりしろ！！"
+    },
+    {
+      "name": "Man",
+      "text": "Sorry, I got a little dizzy after all this nonstop work.\nThank you. I don't think I've seen you two around...?",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "ずっと休みなしだったから、\n目眩がしただけさ……\nありがとう。\n見ない顔だね、\nキミたち……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh, we just started today! It's a pleasure to meet you.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私たちは今日からなんだ。\nこれからよろしく頼む。"
+    },
+    {
+      "name": "Man",
+      "text": "You just started...?!\nC-could you come over here for a second?",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "今日からだって……！？\nちょ、\nちょっと近くに来てくれるかい？"
+    },
+    {
+      "name": "Man",
+      "text": "It may not be too late for you. Run for it while you still can.\nThis place—",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "悪いことは言わない。\nキミたちは、\n早く逃げたほうがいい。\nここは──"
+    },
+    {
+      "name": "Foreman",
+      "text": "Hey! What are you lot doing?!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "おい！　\nそこでなにをやってる！"
+    },
+    {
+      "name": "Man",
+      "text": "I-I'm very sorry! I just fell over, that's all.\nI'll get right back to work!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "す、\nすみません。\n足を滑らせてしまって。\nすぐに戻ります……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Ah... Hey! Are you really all right?!\n...He just left.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "あっ！　\nおい、\n大丈夫なのか！？\n……\n行ってしまった。"
+    },
+    {
+      "name": "Foreman",
+      "text": "And you two! Back to the job!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "そこの二人も、\n早く作業に戻るんだ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...Understood.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……了解した。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd... Something's not right with this workplace.\nIt can't just be my imagination.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド。\nこの仕事……\nさすがにおかしいぞ。\n裏になにかあるとしか思えない。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Wanted criminals roaming free, not to mention that man's words...\nLet's try to find an opportunity to investigate.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "賞金首を放し飼いにしていたし、\nさっきの男の件といい……\n機会を見て、\n調査する必要がありそうだ。"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "title": "Sadness Buried\nBeneath the Snow",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0}'s party heads over to Eris.\nIn order to get there faster, they're riding the wind conjured by Shinatsu.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "エリスの元に向かう{0}一行。\n彼らは時間短縮のため、シナツが操る風に乗って移動をしていた。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wow!\nThis is amazing, guys! We're flying!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "わぁ～っ！\nすごいよみんな！\nあたしたち\n空を飛んでるよ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hiyori, try not to move so frantically, it's dangerous.\nYui, tighten your grip on my hand.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ヒヨリ、\n危ないからあまり動かないで。\nユイ、\nもっと強く手を握ってもいいからね。"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Rei.\nRemember this feeling of the wind on your skin.\nIt will help you greatly in future training.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……レイ。\nこの風の感覚をよく覚えておけ。\nこれからの修行に役立つ。"
+    },
+    {
+      "name": "Aira",
+      "text": "That's Shinatsu-chan for you!\nDiligently training even at a time like this♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "さすがシナツちゃん！\nこんなときでも修行なんてさ♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "Stay calm and don't panic, everyone!\nAs long as you don't make any careless movements, you'll all be fine.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "みんな、\n慌てないで冷静にね！\n下手に動かなければ大丈夫よ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It sounds so reassuring when you say it, Fio...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "フィオちゃんが言うと\nすごい説得力だね……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Even so...\nWhy didn't we use warp crystals?\nWouldn't it have been easier for us to move around with them?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それにしても……\nなんでワープクリスタルを使わなかったの？\nアレだったら、\nもっと簡単に移動できたんじゃない？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Because we don't know Eris' exact location.\nWe only have so many warp crystals at our disposal.\nIf we used them every time Yui sensed something, we would run out before long.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……エリスの正確な位置が分かっているわけではないからな。\nそれに\nワープクリスタルの数も限られている。\nユイが探知するたびに使っていては、\nすぐに枯渇してしまう。"
+    },
+    {
+      "name": "Aira",
+      "text": "I wish I brought some with me~.\nI barely use them, so I completely forgot they even existed.",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "こんなことなら、\nあたしも持ってくればよかったな～\nいつも使ってないから、\n存在をすっかり忘れちゃってたよ。"
+    },
+    {
+      "name": "Yui",
+      "text": "...Huh? Kishi-kun, is it just me or do you look a little pale...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……あれ？\n騎士クン、\nちょっと\n顔色悪い……？"
+    },
+    {
+      "name": "Rei",
+      "text": "Motion-sick!?\nShinatsu, let's stop here!\nWe need to take a break!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "風酔い！？\nシナツ、\n一旦休憩！\n休憩を入れよう！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Understood.\n...I see... my control of the wind was that terrible... Haah...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "分かった。\n……\nそうか……\n私の風の操作が甘かったから…………\nはぁ……"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha, you've been training every day.\nStill, it's always good to have something to work on♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはは、\n日々精進だね。\n鍛えられるところがあるのはいいことだよ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, after taking time to relax while Yui searches the area...\nThe party arrived at the Themis Silver Mine.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして適度な休憩と、ユイの探知を挟みながら……\n一行はテミス銀嶺へとたどり着いたのだった。"
+    },
+    {
+      "name": "Hiyori & Aira",
+      "text": "Achoo!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・アイラ",
+      "orig_text": "はっくしょん！"
+    },
+    {
+      "name": "Yui",
+      "text": "Hehe, it sure is cold here.\nI can feel my fingers freezing up... Haah...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ふふ、\n寒い場所だね。\n指が\n冷たくなっちゃう……\nはぁ……"
+    },
+    {
+      "name": "Rei",
+      "text": "It's a very secluded area, isn't it?\nIs Eris here?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "まさに人里を離れたところだね。\nここにエリスがいるの？"
+    },
+    {
+      "name": "Yui",
+      "text": "Yeah.\nI still have to look a little deeper, but...\nIt's the most powerful presence I've felt so far.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うん。\nもうちょっと調べてみないと分からないけど……\n存在感の強さは、\n今までで一番。"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} explained the cave leading to the Reverse World...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}は『裏世界』へと続く洞窟について説明した……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Then we can get to the Reverse World from here!\nCrazy coincidence, huh?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "じゃあ、\nここから『裏世界』に行けるんだ！\nすっごい偶然だねっ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "And on top of that, there's a magic circle that lets you travel between here and Landosol...\nI wish I had known about this sooner.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "おまけにランドソルと行き来できる魔法陣もあるなんて……\nもっと早く知りたかったわね。"
+    },
+    {
+      "name": "Rei",
+      "text": "It can't be helped.\nBut is that level of coincidence even possible...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "仕方ないよ。\nしかし、\nそんな偶然はあるんだろうか……"
+    },
+    {
+      "name": "Aira",
+      "text": "The Reverse World, huh?\nI never knew.\nDid you know, Shinatsu-chan?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "『裏世界』かぁ……\nあたしは知らなかったな。\nシナツちゃんは知ってた？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...No.\nFirst I've heard of it.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……いや。\n初耳だ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "This world is the template for all others.\nThe foundation upon which my world and Aira's was built.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "『この世界』は\n全ての世界の基本。\nここから私とアイラの世界は生み出された。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Therefore, as it's the base world:\nThere must be data regarding it's own creation that has stood the test of time.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……だからこそ。\n基本だからこそ、\n世界が作り上げられる過程の情報も\n残っていると考えていいだろう。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "There are things here that were deemed unnecessary even for a simulation... There are truly no ends to this world's mysteries.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "『模擬実験』には不要とされたものが、\nここにはある。\n……やはり、\nこちらの世界は底が知れないな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Normally, I'd like to investigate further, but──",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "本来であれば、\nもう少し調べてみたいところだが──"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Who threw that snowball just now...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\n今、\n雪玉を投げたのは誰だ……？"
+    },
+    {
+      "name": "Aira",
+      "text": "Who knows~?\nWho could've done it~?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "さぁ～？\n誰だろうね～？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Right, Aira.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "そうか、\nアイラだな。"
+    },
+    {
+      "name": "Aira",
+      "text": "Not an ounce of hesitation!?\nBut you're right!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "迷いなしで！？\n当たってるけど！"
+    },
+    {
+      "name": "Aira",
+      "text": "I mean, there's so much snow!\nIt'd be rude not to have a snowball fight, you know?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "だって、\nこんなに雪があるんだよ？\nこれはもう雪合戦をしない方が失礼になるって！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Just who is that being rude to...?\nOh, it's snowing.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "誰に失礼なんだ……\nああ、\n雪か。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...I think I get what you mean, Aira.\nIt kinda makes you want to touch it, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……アイラの言うこと、\nちょっと分かるかも。\nな\nんだかこう……\n触りたくなっちゃうよね？"
+    },
+    {
+      "name": "Yui",
+      "text": "It's cold and pretty, isn't it?\nA full-blown snowball fight would be a little scary, but... if we're just playing in the snow...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "冷たくてきれいだもんね。\n雪合戦までは、\nちょっとこわいけど……\n雪遊びなら。"
+    },
+    {
+      "name": "Rei",
+      "text": "...Shinatsu.\nSince everyone else seems on-board, why don't we play a little bit?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……シナツ。\nみんなもこう言ってることだし、\n少しだけ遊ばないか？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "You too, Rei...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "レイまで……"
+    },
+    {
+      "name": "Ameth",
+      "text": "It's fine, isn't it?\nThings are going to get serious from here on out.\nLet's just say we're making one last memory.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いいんじゃない？\nこれから、また忙しくなりそうなんだし。\n最後の思い出作りってことで。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Making memories... huh...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "思い出作り……\nか……"
+    },
+    {
+      "name": "Aira",
+      "text": "Us fighting together is a memory too, but isn't it nice to have more light-hearted moments to look back on?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "一緒に戦うことも思い出だけどさ。\nゆる～い思い出を増やすこともいいでしょ？"
+    },
+    {
+      "name": "Aira",
+      "text": "So, how about it?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "だから。\nねっ？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Just a little.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "少しだけだぞ。"
+    },
+    {
+      "name": "Aira",
+      "text": "That's what I like to hear♪\nAlright, let's start with a snowball fight!\nIf you wanna play, raise your hand~!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "そうこなくっちゃ♪\nよーし、\nまずは雪合戦だー！\nやりたい人は手ぇあげて～？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Before that, Aira.\nAllow me to pay you back for that snowball earlier.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "その前に、\nアイラ。\nさっきの雪玉のお返しをしてやる。"
+    },
+    {
+      "name": "Aira",
+      "text": "Hey, Shinatsu-chan!?\nConjuring wind to make snowballs is against the rules!\nWait, that's not even a ball anymore, isn't that a tornado!?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "ちょっ、\nシナツちゃん！？\n風で雪玉を作るのは反則だよ！\nっていうか玉になってないし！　\nただの竜巻だよっ！？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Here you go.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "そーれっ。"
+    },
+    {
+      "name": "Aira",
+      "text": "A massive gust of wind with that monotone voice!?\nR-Run for it!!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "棒読みと一緒にすごい風がーっ！？\nに、\n逃げろ～っ！！！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Heheh.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……ふふっ。"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, after a brief respite, the group made their way to Eris...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして。\n束の間の休息をとった一行は\nエリスの元へと向かうのだった……"
+    }
+  ]
+}

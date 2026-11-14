@@ -1,0 +1,603 @@
+{
+  "title": "Whitewing Bonds",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having fled from the terrifying Evil Magistrate,\n{0} and the members of Weissflügel\ntake refuge in a remote corner of Oedo Town.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アクダイカンから逃げ出した\n【ヴァイスフリューゲル　ランドソル支部】と\n{0}は、オーエド町の角で息を潜めていた。"
+    },
+    {
+      "name": "Monika",
+      "text": "*pant*... *pant*... I think we should be safe here for now.\nNow, Ayumi, how are your wounds?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……ハァ、\nハァ、\nここまで来れば、\nひとまずは安心か。\nそれでアユミ、\n怪我はどうだ？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I-I'm all right.\nHe didn't actually hit me directly—\njust like Kuka, I was knocked flying by the shockwave.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "だ、\n大丈夫です。\n攻撃が直接当たったのではなく、\nクウカさんと同じで、\n衝撃で\n飛ばされただけですから。"
+    },
+    {
+      "name": "Monika",
+      "text": "I... I see.\nWell, that's a great relief...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "そ、\nそうか……\n良かった……\n本当に……"
+    },
+    {
+      "name": "Kuka",
+      "text": "B-but that Evil Magistrate is still hunting for us...\nIf he finds us, who knows what he'll do? Gueheheheh... *drool*",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "で、\nでも、\nまだアクダイカンは\nクウカたちを探してます……\n捕まったら\nきっとひどい目にあって……\nぐふふふふ……\nじゅるっ……"
+    },
+    {
+      "name": "Teahouse Owner",
+      "text": "There you are! I looked everywhere!\nThe Magistrate will find you here!\nCome hide in my teahouse for now!",
+      "choice_data_list": [],
+      "orig_name": "茶屋の主人",
+      "orig_text": "あんたたち、\nここに居たのか！\nこのままじゃアクダイカンに見つかる！\nうちの店の中に隠れるんだ！"
+    },
+    {
+      "name": "Monika",
+      "text": "W-we appreciate it!\nEveryone, hurry inside as quickly as you can!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "た、\n助かる主人！\n……みんな、\nすぐに店の中に入るんだ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Whew... This should buy us time enough\nto tend to Ayumi's wounds.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふう……\nここならば\nアユミの怪我も\nちゃんと治療できるな。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "M-Monika,\nI really am mostly all right now...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "モ、\nモニカさん、\n本当に\n私は大丈夫ですから……"
+    },
+    {
+      "name": "Monika",
+      "text": "Even so, I want you to receive proper treatment.\nPlease.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "それでも、\nちゃんとした治療を受けてくれ……\n頼む。"
+    },
+    {
+      "name": "Mayor",
+      "text": "I quite agree.\nI'm so sorry for all we've put you through.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "私も同意見だ。\n君たちには本当にすまないことをした。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Mr. Mayor!\nYou're all right too!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "町長さん！\n無事だったデスね！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Yes... I'm sorry I couldn't do more to stop the Magistrate.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "あぁ、\nさっきはアクダイカンを\n止められなくて\nすまない。"
+    },
+    {
+      "name": "Monika",
+      "text": "Just who is that Magistrate fellow, exactly?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "一体、\nあのアクダイカンとは何者なんだ？"
+    },
+    {
+      "name": "Mayor",
+      "text": "The Evil Magistrate is a monster that suddenly appeared in Oedo.\nWith sheer brute force, it subjugated our entire town.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "アクダイカンは、\n突如このオーエド町に現れた魔物だ。\nその凶悪な力で、\n町を瞬く間に支配してしまった。"
+    },
+    {
+      "name": "Kuka",
+      "text": "S-so he really is a monster.\nThat explains why he was so strong...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "や、\nやっぱり魔物なんですね。\nだからあんなに強かったんだ……"
+    },
+    {
+      "name": "Yuki",
+      "text": "But in that case, couldn't you simply call for aid from Nightmare?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "でもそれなら、\n【王宮騎士団（NIGHTMARE）】に\n対処してもらえるんじゃない？"
+    },
+    {
+      "name": "Mayor",
+      "text": "No... the Magistrate has sent bribes to pacify the palace.\nIn exchange for a portion of his taxes, they let him do as he pleases.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "いや、\nアクダイカンは賄賂を贈って王宮を味方につけている。\n上納金の一部を納めれば、\n好き勝手にやっていいとね。"
+    },
+    {
+      "name": "Mayor",
+      "text": "So even if we report him to Nightmare,\n\\\"We've received no reports of such activity\\\" will be their only response.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "だから\n【王宮騎士団（NIGHTMARE）】に通報しても、\n『そんな犯罪の報告はきていない』\nと\nされてしまうんだ……"
+    },
+    {
+      "name": "Kuka",
+      "text": "N-no way...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "そ、\nそんな……っ！？"
+    },
+    {
+      "name": "Teahouse Owner",
+      "text": "The mayor is doing his very best\nto protect the people despite everything.\nIf it weren't for him, the situation here would be far worse.",
+      "choice_data_list": [],
+      "orig_name": "茶屋の主人",
+      "orig_text": "……町長さんは、\nそれでも町を守ろうと\n取り計らってくれているんだよ。\nこの人が居なかったら、\n俺たちはもっと酷い目にあっていただろうぜ。"
+    },
+    {
+      "name": "Mayor",
+      "text": "But with shops destroyed and poverty all over, the people are suffering.\nThe Evil Magistrate has no interest in what we have to say.\n...Never in my life have I felt so powerless.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "だが、\n店は壊され、\n生活は困窮し、\n町民は苦しむ一方だ。\nアクダイカンはこちらの言い分などお構いなしだからな。\n……\n自分の力の無さを\n不甲斐なく思うよ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "It's too awful... Letting that villain roam free in Oedo\nis more than I can bear to think of!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ひどすぎます……\nあんなヤツを\nノサバラセテおくなど、\nワタシには\n我慢できないデス！"
+    },
+    {
+      "name": "Mayor",
+      "text": "No... You shouldn't try to stand up to the Magistrate.\nYou may still have a chance to escape.\nFlee this town and don't look back.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "いや、\nアクダイカンに逆らおうなんて考えない方がいい。\n今ならまだ逃げられるかもしれない、\n早くこの町から離れるんだ。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "D-do you really think\nwe can just abandon the town in this state?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "こ、\nこんな状況の町を\n放っておくなんて\nできませんよ！"
+    },
+    {
+      "name": "Monika",
+      "text": "...No, the mayor is entirely right.\nAll of you should leave this town behind.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……いや、\n町長どのの言う通りだ。\n其方たちは\nこの町から離脱してくれ。"
+    },
+    {
+      "name": "Kuka",
+      "text": "M-Monika?! But why?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "モ、\nモニカさん！　\nどうして！？"
+    },
+    {
+      "name": "Monika",
+      "text": "This enemy is not like ordinary monsters.\nIf you do battle... you may lose your very lives.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "今回の敵は\n今までとはわけが違う。\nアクダイカンと戦えば……\n命を落とす可能性だってある。"
+    },
+    {
+      "name": "All",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "４人",
+      "orig_text": "……っ！？"
+    },
+    {
+      "name": "Monika",
+      "text": "I established this guild as a Landosol branch of Weissflügel,\nthe military force to which I belong. However, the only Weissflügel\nsoldier among us is me alone. It is none of your concern.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "このギルドは\n私の所属部隊、\n【ヴァイスフリューゲル】の\nランドソル支部として私が作った……\nだが、\n【ヴァイスフリューゲル】に\n所属している軍人は\nあくまで私であり、\n其方たちには関係ない。"
+    },
+    {
+      "name": "Monika",
+      "text": "...This battle is a job for the military.\nI cannot afford to place civilian lives in danger.\nSo please, do as I ask and—",
+      "choice_data_list": [
+        "Pinch Monika's cheek.",
+        "Chop Monika on the shoulder."
+      ],
+      "orig_name": "モニカ",
+      "orig_text": "……ここから先は、\n軍人である私の仕事だ。\n一般人を危険に巻き込むわけにはいかない。\nだから\n其方たちは……"
+    },
+    {
+      "name": "Monika",
+      "text": "Wueagh?!\nH-hey! Whad're you doigg?!Owwww! Dat hurds!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふひゃぁ！？\nき、\nきこう\nにゃにをするぅ……\nいひゃい\nいひゃい！！"
+    },
+    {
+      "name": "Monika",
+      "text": "...Owww!\nWh-wh-wh-wh-what is the meaning of this?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……あうぅ！？\nな、\nななな、\nなにをする貴公！！"
+    },
+    {
+      "name": "Yuki",
+      "text": "You lucked out, Monika.\nIf he hadn't done anything, I was about to use all this makeup\nto paint your face like a circus clown.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "良かったね\nモニカさん、\nこの人が\n何もしてなかったら……\nボクが今日手に入れた化粧品で、\nモニカさんにオモシロ化粧をするところだったよ。"
+    },
+    {
+      "name": "Kuka",
+      "text": "A-and I was going to use these ropes to tie you up in knots!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ク、\nクウカは、\nさっき買ったこの縄で\nモニカさんを縛る寸前でした……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Monika, would you like to try a glass of aojiru,\nTogoku's famous bitter veggie juice?\n...Of course, there's plenty more where it came from!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "モニカさん、\nトーゴク名物の\n苦いジュース、\nアオジールを\n一気飲みしてもらっていいデスか？\n……\nもちろん、\nお代わりもあるデスよ♪"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I was going to use these bandages\nto give your arm a good squeezing! ♪",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "私は\n巻いてもらっているこの包帯で、\nモニカさんの腕を\nキュッて\nするところでした♪"
+    },
+    {
+      "name": "Monika",
+      "text": "Wh-why must I be subjected to all this?!\nI'm only worried for your safety...!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "な、\nなんでそんなことをされねばならない！！\n私は\n其方たちの身を案じて……"
+    },
+    {
+      "name": "Yuki",
+      "text": "Honestly... I thought something was up when you hesitated before,\nbut I can't say I expected this.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "まったく……\nさっき調査をためらった時に\n変だと思ってたけど、\nそんなことを考えていたなんてね。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "U-um, it's true that we aren't real soldiers from Weissflügel,\nbut we're all members of the Weissflügel: Landosol Branch guild!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あ、\nあの、\nたしかに私たちは\n【ヴァイスフリューゲル】では\nありませんが、\n【ヴァイスフリューゲル　\nランドソル支部】の\n一員です。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The leader of Weissflügel: Landosol Branch...\nThe leader we follow would never abandon people in trouble.\nAnd, um... Where our leader goes, so do the rest of us!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "そして、\n【ヴァイスフリューゲル　\nランドソル支部】の……\n私たちの\nリーダーは、\n困っている人を\n見捨てたりしないはずです。\nだったら\n私たち団員は、\nリーダーに\nついていきます。"
+    },
+    {
+      "name": "Kuka",
+      "text": "I... I may not be the best person to say this, but...\nA... aren't we...",
+      "choice_data_list": [
+        "Aren't we all comrades?"
+      ],
+      "orig_name": "クウカ",
+      "orig_text": "こ、\nこんなこと\nクウカが言うのもあれなのですが……\nその……\nクウカたち……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Y-you took the line I was about to say!\nThis awkward atmosphere, and the stolen moment of sweet release...\nOh, Mr. Sadist, this is exactly why I... why I can't...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "さ、\n最後の台詞を\n持っていかれました！\nいたたまれないこの空気と、\n自分の中のこのやるせない気持ち……\nそんなドＳさんだからこそ\nクウカは……\nクウカはぁぁっ……！！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Now, I must put my beauty before all else...\nBut I can't deny I'm quite fond of this guild and its members.\nSo I think we should all do our thing as usual.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ま、\nボクはボクの美しさが第一だけど、\nそれなりに\nこのギルドも、\nメンバーも気に入っているのさ。\nだから、\nいつもみたいに好きにすればいいと思うよ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "What is a journey without companions?!\nWe'll fight with you to the very end!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "旅はミチヅレ、\nワールドはナサケ！\n最後まで\n一緒に戦わせてクダサイ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "That's right! Abandoning you here alone...\nThat's the last thing any of us would dream of!",
+      "choice_data_list": [
+        "Let's fight together."
+      ],
+      "orig_name": "アユミ",
+      "orig_text": "そうです！\n私たちだけ帰るなんて……\nそんなの\n絶対\nダメなんですから！！"
+    },
+    {
+      "name": "Monika",
+      "text": "My friends... Thank you.\nThen we of Weissflügel: Landosol Branch\nwill do battle with the Evil Magistrate to protect the town of Oedo!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "其方たち……\nありがとう。\n……【ヴァイスフリューゲル　ランドソル支部】は、\nオーエド町を守るため、\nアクダイカンを撃退する！"
+    },
+    {
+      "name": "All",
+      "text": "Yeaaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "おおーー！！"
+    },
+    {
+      "name": "Yuki",
+      "text": "But on a more sober note, he's still too strong for us to handle.\nIf we're taking him head-on, I think I'll pass.\nThe loss of my peerless beauty would be a worldwide tragedy.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……と、\n言ってはみたけど、\nはっきりいって相手が強すぎるよね。\n正面から戦うっていうのなら、\nボクはパスするよ。\nボクの美しさが失われるのは、\n世界にとって損失だからね♪"
+    },
+    {
+      "name": "Monika",
+      "text": "Yes, I know.\nTo begin, we must establish a plan of action.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "分かっている。\nまずは、\n作戦を立てる必要があるな。"
+    },
+    {
+      "name": "Ninon",
+      "text": "If only he had some sort of fatal weakness...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "何か、\n弱点を見つけられればいいんデスけど……"
+    },
+    {
+      "name": "Monika",
+      "text": "A weakness... Come to think of it, why did the Magistrate\nbegin targeting Kuka with such a fevered obsession?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "弱点……\nそういえば、\nアクダイカンはなぜ\nあそこまで夢中になってまで、\nクウカを狙ったんだ？"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-I was really scared when that happened... But his attacks seemed to\nbe aimed mostly at my kimono, so I could evade them. Though my belt\nwas damaged as a result... Urgh... This costume isn't even mine...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "あ、\nあの時は\nクウカもちょっと怖かったです……\nでも、\n攻撃が\nクウカというよりは、\nワフクを狙っていたので\nかわせました。\nおかげで\n帯が傷んじゃいましたけど……\nうう……\nレンタルなのにぃ……"
+    },
+    {
+      "name": "Monika",
+      "text": "...That [[is]] odd. Monsters rarely target Kuka specifically.\nIf anything, they find her behavior disturbing\nand try to keep their distance.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……\nそういえば、\n敵が\nクウカを狙うなんて珍しいな。\n普段は\n魔物も\nクウカの行動に引き気味で、\nあまり\n攻撃はしないのに。"
+    },
+    {
+      "name": "Yuki",
+      "text": "I suppose...\nNow that you mention it, that is unusual.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "クウカさんを……\n言われてみれば、\nたしかに珍しいよね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "A monster being interested in Kuka,\nwho even other monsters avoid, is weird to the extreme!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "魔物にすら\n避けられるクウカを\n攻撃するなんて、\nたしかにおかしいデース！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "W-well, it's true that the things she says\nand her sudden expressions of ecstasy\ncan be a little off-putting...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ま、\nまぁ、\nちょっと\n言動が怪しくて、\n予期せず\n幸せそうな顔をするところは、\nちょっと\n近寄りがたいかも……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Ahhhh... I-I'm being derided as too creepy for monsters...\nThis should be a depressing experience, so why do I feel so excited?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "はううっ……\nち、\n近寄りがたいとか、\n魔物すら避けるとか、\nひどいことを言われているはずなのに、\nドキドキしてますぅっ……！"
+    },
+    {
+      "name": "Teahouse Owner's Wife",
+      "text": "Everyone, I've brought tea for you all.\nDon't you think you should take a break?",
+      "choice_data_list": [],
+      "orig_name": "茶屋の夫人",
+      "orig_text": "みなさん。\nお茶を入れてまいりました。\n少し\n休憩をされては？"
+    },
+    {
+      "name": "Monika",
+      "text": "Oh—thank you. By the way, who might you be?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "すまないな……\nところで、\n其方は？"
+    },
+    {
+      "name": "Teahouse Owner",
+      "text": "That's my lovely wife!\nHeheh. Ain't she a beauty like you've never seen?",
+      "choice_data_list": [],
+      "orig_name": "茶屋の主人",
+      "orig_text": "うちの\n家内だぜ！\nへへっ、\n俺には\nもったいないべっぴんでね！"
+    },
+    {
+      "name": "Ninon",
+      "text": "She is a very beautiful woman,\nbut I think she would look even better in a kimono!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "たしかに\n凄くキレイな人デスが、\nワフクを着た方が\nもっとキレイだと思いマース！"
+    },
+    {
+      "name": "Monika",
+      "text": "That reminds me... I see your wife is wearing Landosol clothes too.\nWhy is it that the women here don't wear eastern clothing?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "そういえば、\n夫人も\nランドソルの服を着ているな……\nなぜ、\nこの町の女性は\nワフクを着ないのだ？"
+    },
+    {
+      "name": "Teahouse Owner's Wife",
+      "text": "Ah, well... I guess it started around when the Magistrate arrived.\nWhen women go out alone at night,\nsomeone has been stealing the belts clean off their kimonos.",
+      "choice_data_list": [],
+      "orig_name": "茶屋の夫人",
+      "orig_text": "それが……\nアクダイカンが\nこの街に現われたころでしょうか。\n女性がワフクで夜に外を歩いていると、\n何者かに\n帯を奪われるようになったのです。"
+    },
+    {
+      "name": "Kuka",
+      "text": "Th-their belts? You mean he strips them of their clothing,\na-a-a-and exposes their naked bodies...?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "お、\n帯を……\nつまり、\nそのままワフクを脱がされて……\nそそそ、\n外で、\nは、\n裸にされて……！？"
+    },
+    {
+      "name": "Teahouse Owner's Wife",
+      "text": "No, it's just the belts that get stolen.\nEven their valuables are untouched. But it's so creepy...",
+      "choice_data_list": [],
+      "orig_name": "茶屋の夫人",
+      "orig_text": "いえ、\n奪われるのは\n帯だけです。\n財布や貴重品はそのままなのに、\nとにかく不気味で……"
+    },
+    {
+      "name": "Monika",
+      "text": "So everyone switched to western clothing...\nAnd yet I see your husband here\nis still wearing a kimono with a fine belt...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "それが原因で、\n洋服を着るようになったと。\nだが、\n同じワフクで帯があるのに、\n主人は\nワフクのままなのだな。"
+    },
+    {
+      "name": "Mayor",
+      "text": "Well, you see, men's belts never get stolen.\nIt might be because women's belts use wider fabric,\nmaking them easier for the culprit to snatch.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "それが……\n男の帯は狙われないんだ。\nおそらく帯を奪うために引っ張る時、\n女性の帯の方が、\n布幅が広くて\n掴みやすいからかもしれないな。"
+    },
+    {
+      "name": "Ninon",
+      "text": "A kimono belt thief... A damaged belt...\nAn Evil Magistrate... targeting not Kuka herself, but her clothes...\nEspecially... her kimono's belt...?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "帯の盗難事件……\n傷んだ帯……\nアクダイカン……\nそして、\nクウカ\nというより\nワフク……\n特に\n帯が狙われた……"
+    },
+    {
+      "name": "Monika",
+      "text": "Hm...?\nIs something wrong, Ninon?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ん……？\nどうした\nニノン？"
+    },
+    {
+      "name": "Ninon",
+      "text": "...Could it be...?!\nI think I may have discovered the Magistrate's weakness!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……\nこれはもしや！\nワタシ、\nアクダイカンの弱点が\nわかったのデス！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "R-really?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ほ、\n本当ですか！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Good sir! Have you any spare women's belts?\nBring those,along with any extra fabric you may have available!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ご主人！　\n予備の\n女性用帯があれば\nそれを、\nあとは\nどんなものでもいいから\n布を集めてくださいデス！"
+    },
+    {
+      "name": "Teahouse Owner",
+      "text": "R-right! I guess we do still have my wife's belt...\nI'll ask around and see if anyone can find us that fabric!",
+      "choice_data_list": [],
+      "orig_name": "茶屋の主人",
+      "orig_text": "お、\nおう！　\n帯は\nしまってある家内のがあるな……\n布は\n町の奴らにも協力してもらって\n集めてくるぜ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Now, Ayumi and Yuki, you can help me, and...\n...Kuka...? This won't be scary at all, so come over here for me~! ♪",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あとは\nアユミさんと\nユキに手伝ってもらいつつ……\n……\nクウカ～？\nなぁんにも怖くないから、\nこっちに\nおいで\nおいでデ～ス♪"
+    },
+    {
+      "name": "Kuka",
+      "text": "Th-that tone of voice... This cold chill...\nAfter all I've been through, I can tell—I should run for my life!\nA-and yet... something inside me is longing to stay... Ahhhh... ♪",
+      "choice_data_list": [
+        "Is this going to be safe?",
+        "Aren't you going to stop her?"
+      ],
+      "orig_name": "クウカ",
+      "orig_text": "こ、\nこの喋り方……\n空気……\n色んな目に遭ってきた\nクウカなら分かります！　\n今すぐ逃げた方がいいと！\nで、\nでも……\nクウカの中の何かが、\nむしろそれを求めて……\nああぁ……♪"
+    },
+    {
+      "name": "Monika",
+      "text": "Haha... It'll be fine.\nLet's trust in our comrade's plan, shall we?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふふっ……\n大丈夫だろう。\n仲間の策を信用してみようではないか。"
+    },
+    {
+      "name": "Monika",
+      "text": "Of course, we'll need your help too.\nGiven your ability, you'll need to take a central position.\nWe're counting on you, mighty shogun!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "もちろん、\n貴公にも働いてもらうぞ。\n貴公は能力上、\n私たちの中心に立ってもらわねばな。\n頼りにしているぞ、\n天下のショーグン様！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Sorry, ah...\nI've been wondering about this for a while,\nbut are you really...",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "すまない……\nその、\nずっと気になっていたのだが、\n君は本当に……"
+    },
+    {
+      "name": "Ninon",
+      "text": "...Shogun! Monika!\nThree of us isn't enough for this,\nso we need your help over here!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "──\nショーグン！　\nモニカさん！\n３人じゃ\n手が足りなさそうなので、\nこっちを手伝ってクダサ～イ！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Looks like there's work to do.\nI'm sorry, Mr. Mayor.\nWe'll hear you out later!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……私たちも手伝うか。\nすまんな\n町長どの。\n話はあとで聞かせてくれ！"
+    },
+    {
+      "name": "Mayor",
+      "text": "A group of heroes fighting to protect the peace...\nAnd at their center, the one who leads them, their \\\"shogun\\\"...",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "……平和を乱す悪に挑む英雄たち。\nその中心に立つは\n天下を太平に導く者、\nその名はショーグン……"
+    },
+    {
+      "name": "Mayor",
+      "text": "Can he really be the shogun the tales speak of...?",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "彼は本当に、\nショーグン様だというのか……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Gathering together huge quantities of fabric,\n{0} and co. prepared for their showdown\nwith the Evil Magistrate.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちは布を集め、\nアクダイカンとの戦いに備えるのだった。"
+    }
+  ]
+}

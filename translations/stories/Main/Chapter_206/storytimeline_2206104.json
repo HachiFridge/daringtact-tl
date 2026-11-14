@@ -1,0 +1,768 @@
+{
+  "title": "The Duel in Gio-Gehenna!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "──The 'Gio Gehenna' is a land of the survival of the fittest.\nIn the jungle of that Gehenna, the screams of an Al-mi'raj girl\nand the angry shouts of a boy with a whip echoed.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──弱肉強食の地である『ジオ・ゲヘナ』。\nそのゲヘナのジャングルに、アルミラージの少女の悲鳴と、\n鞭を持った少年の怒声が響いていた。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hey, wait up, you bastard! It seems like a dumb rabbit like you\nwon't understand unless you learn the hard way!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "おい待てゴラァッ！　\nテメーみてえなクソウサギは、\n痛い目みねえと分かんねえらしいからなぁっ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eeeek!? Why are you so angry~!? I just said Kariza-chan is\nsmall and cute, that's all!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ふえぇっ！？　\nどーしてそんなにおこってるの～！？\nカリザちゃんは\nちっちゃくてカワイイね、って\nほめただけなのに～！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Shut up, you airhead donut woman!\nEveryone keeps treating me like a kid!\nTake this, damn it!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "だーっ！　\n黙りやがれ、\n脳みそスカスカのドーナツ女が！\nどいつもこいつもオレのことをガキ扱いしやがってよおッ！\n食らえオラッ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Nooo!? Stop it, please!? A whip is dangerous, you know!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "んぴいぃぃぃっ！？\nやだやだ、\n止めてよぉ～！？　\nムチなんてあぶないよぉ～！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Haha, you scream pretty well!\nIf I corner you, you'll make even better sounds, won't you!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ハハッ、\nずいぶんいい声で鳴くじゃねえか！\n追い詰めりゃあ、\nもっといい声出してくれんだろうなァ！？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Lately, everything has been so annoying...\nI'll take out my frustrations on you, rabbit woman!\n......Hm?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ここ最近、\n気に入らねえことだらけだ……\nテメーで思う存分憂さ晴らしさせてもらうぜ、\nウサギ女！　\n……ん？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "A monster of this world. Heh, that's one cool-looking dinosaur.\nI guess I should increase my followers──\nHey, damn monster! Bite that thing from the head!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "この世界の魔物か。\nヘッ、\nなかなかカッケー恐竜じゃねーか。\n久々に手下を増やしてやるとすっか──\nおい、\nクソ魔物！　\nアイツを頭から丸かじりにしてやれッ！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eeeek!? Eating Nana won't be tasty!? \nS-someone, help me~~~!!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃぃ！？　\nナーナなんて食べてもおいしくないよぅ！？\nだ、\nだれか、\n助けてぇ～～～！！？"
+    },
+    {
+      "name": "？？？",
+      "text": "──Hmph!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──ふんっ！！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "ナーナ",
+      "text": "ふぇっ……？",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ふぇっ……？"
+    },
+    {
+      "name": "Christina",
+      "text": "One blow and it's over. That was not worth my time.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "一撃とは他愛もない。\n今のはハズレだったな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "......Tch! Why are you here, Covenanter Lady!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……チッ！　\nどうしてこんなとこにいやがる、\n誓約女君！？"
+    },
+    {
+      "name": "Christina",
+      "text": "I heard that the young ones found an interesting world.\nAs rumored, it seems I can fight some tough opponents──\nWhat about you? The mascot of [Rage Legion].",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "坊やたちが、\nなかなか面白そうな世界を見つけたと聞いたんでな。\n噂通り、\nそれなりに歯ごたえのあるヤツと戦える──\nオマエはどうだ？　\n【レイジ・レギオン】のマスコット。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Who's a mascot, damn it!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "誰がマスコットだゴラァッ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh, wait a minute... That girl called Nana, right?\nAfter suffering such humiliation, why don't you fight the monster or Kariza?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おっとそれより……\nナーナとか言ったな。\nあんな屈辱を受けて、\nなぜ魔物やカリザと戦おうとしない？"
+    },
+    {
+      "name": "Naana",
+      "text": "Because Nana is weak...\nThere's no way I could ever win against a monster or Kariza-chan...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "だってナーナ、\n弱いし……\n魔物にも\nカリザちゃんにも\nぜったい\n勝てっこないもん……"
+    },
+    {
+      "name": "Christina",
+      "text": "Hah... Honestly.\nIt's hard to watch as a fellow rabbit.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "はぁ……\nまったく。\nウサギ仲間として見てられんな。"
+    },
+    {
+      "name": "Naana",
+      "text": "Huh? Sister, you don't look like a rabbit at all, though...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "へっ？　\nおねえさん、\nウサギにはぜんぜん見えないけど……"
+    },
+    {
+      "name": "Christina",
+      "text": "What are you saying? My heart is a rabbit pyon☆\nSo, then. I'll train you specially, pyon!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なにを言う。\n心はウサギさんだぴょん☆\nというわけでだ。\n特別に\nオマエを鍛えてやろうじゃないかぴょん！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eeeh!? I don't wanna!?\nTraining or trying hard just doesn't suit Nana!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "えええっ！？　\nそんなのヤだよぉ！？\n鍛えるとか\n頑張るとか、\nナーナには向いてないもん！"
+    },
+    {
+      "name": "Christina",
+      "text": "Then what will you do? I saved your life.\nYou will obey what I say.\nI'll make you strong enough to beat Kariza, be grateful!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だったらどうした？　\n命を救ってやったんだ。\nワタシの言うことには従ってもらうぞ。\nカリザに勝てるほど強くしてやろう、\nありがたく思え！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eek!? Th-this person is ridiculous!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴーいぃぃぃ！？　\nこ、\nこの人、\nむちゃくちゃだよぉ！？"
+    },
+    {
+      "name": "Kariza",
+      "text": "......Hey. What are you doing, moving the conversation along without me!?\nThat damn rabbit is my prey! Don't get in my way, idiot!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……オイ。\nさっきからなに勝手に話を進めてやがる！\nそのクソウサギはオレの獲物だ！　\nジャマすんじゃねえ、\nボケっ！"
+    },
+    {
+      "name": "Christina",
+      "text": "......Good grief.\nAre you so afraid of fighting the girl I've trained?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……やれやれ。\nワタシが鍛えた小娘と戦うのが、\nそんなに怖いのか？"
+    },
+    {
+      "name": "Kariza",
+      "text": "What'd you say...!? Are you stupid!?\nNo matter how much you train a weakling, there's no way they'd beat me!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ンだとォ……？　\nバカかテメー！\nんなザコをいくら鍛えようが\nオレに勝てるわけねーだろうがッ！"
+    },
+    {
+      "name": "Christina",
+      "text": "You said it, didn't you? Then a week from now, I'll prove it to you.\nThat even a weakling like Nana can defeat you in a duel.\nOh, and yes──The loser must follow one command.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "言ったな？　\nなら一週間後、\n証明してやろう。\nナーナのような弱者でも、\nオマエに決闘で勝利できるとな。\nああそうだ──\n敗者には、\n命令をひとつ聞いてもらうぞ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "......Damn it, looking down on me. Every one of the Seven Crowns...!\nFine, I'll take that challenge!\nBut you're also on my hit list now, Covenanter Lady...!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……クソッ、\n舐めやがって。\n七冠ってのはどいつもこいつも……\nいいぜ、\nそのケンカ買ってやろうじゃねえか！\nただし、\nテメーもオレのブチ殺リスト入りだ、\n誓約女君……！"
+    },
+    {
+      "name": "Christina",
+      "text": "Well then. Now that it's settled, let's begin the special training.\nThere's not much time until the duel.\nI'll spoil you plenty with a special menu...♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さて。\nそうと決まれば早速特訓といこうか。\n決闘まで時間はない。\n特別メニューでたっぷりとかわいがってやろう……♪"
+    },
+    {
+      "name": "Naana",
+      "text": "Eeeek...\nI feel like I've gotten myself into something\noutrageous...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ふえぇぇ……\nなんだかとんでもないことに\n巻き込まれちゃったような～……"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, from that day, Christina's\nterrifying training began...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、その日より、クリスティーナによる\n恐るべき特訓が始まった……"
+    },
+    {
+      "name": "Naana",
+      "text": "Pii, pii... Whew...\nCh-Christina-san...\nH-how much longer do I have to bunny hop...?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃ、\nぴぃ……\nふぅぅ……\nク、\nクリスティーナさんっ……\nあ、\nあと\nどれくらい、\nウサギ跳びするんですかぁ……！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Of course, until you complete a full marathon. For ordinary humans,\nbunny hopping is an outdated and worthless training, but...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "無論、\nフルマラソンを完走するまでだとも。\n普通の人間にとっては、\nウサギ跳びなど前時代的なくだらない訓練だが……"
+    },
+    {
+      "name": "Christina",
+      "text": "For an Al-mi'raj like you, it's the most\neffective training there is. Now, stop complaining and hop!\nDon't forget your chant! And call me Instructor!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "アルミラージであるオマエにとっては、\nこれ以上ないほど\n効果的なトレーニングだ。\nさ\nぁ、\n泣き言を言ってないでとっとと跳べ！\nかけ声も忘れるな！　\nそしてワタシのことは教官と呼べ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eek...\nY-yes, Instructor!\nPyon pyoon!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ひぅっ……\nは、\nはい教官っ！\nぴょん\nぴょーんっ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Come on, come on, that monster is quite swift.\nIf you don't run for your life, you'll be eaten from the head♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そらそら、\nその魔物はずいぶんと素早い。\n死ぬ気で逃げなければ、\n頭から喰われてしまうぞ♪"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Piiii!? Why is this happening to Nana~~~!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃぃぃーッ！！\nどうしてナーナがこんな目に～～～！？"
+    },
+    {
+      "name": "Naana",
+      "text": "Ugh... I can't take this anymore...\nI can't even eat donuts, at this point, I'll just... slip away quietly...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ううっ……\nこんなの、\nもう耐えらんないよぅ……\nドーナツも食べらんないし、\nこうなったら、\nこっそり逃げ出して……"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh? How bold of you. Tonight's training is decided.\nI'll chase you around all night long, so try to keep running.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほう？　\nいい度胸じゃないか。\n今夜の特訓は決まったな。\nワタシが一晩中追いかけ回してやるから、\n逃げ続けてみろ。"
+    },
+    {
+      "name": "Christina",
+      "text": "By the way. No member of my squad ever escaped me when I was\nvice captain. Let's see how you fare...♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ちなみに。\n副団長時代のワタシから逃げられた団員は、\nただの一人もいなかった。\nオマエはどうかな……♪"
+    },
+    {
+      "name": "Naana",
+      "text": "Waaah!?\nI can't take it anymore~~~!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "わぁ～んっ！\nもうヤだよ～～～っ！？"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, the day before the duel...\nKariza was waiting for an opportunity.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そうして、決闘前日……\nカリザは、ある機会を伺っていた。"
+    },
+    {
+      "name": "Kariza",
+      "text": "──Heh. That Covenanter Lady is completely off her guard.\nShe doesn't even know she's being targeted...!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──ハッ。\n誓約女君め、\nすっかり油断してやがる。\n自分が狙われてるとも知らずによォ……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "I can't stand a thing about that woman...!\nHer cockiness, her bossing me around, everything!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "あの女の全部が気に食わねえ……！\n調子に乗ってるところも、\nオレに指図してくるところもなにもかも！"
+    },
+    {
+      "name": "Kariza",
+      "text": "I'll crush the rabbit woman to pieces at tomorrow's duel!\nAs for the damn hag, I'll beat you down right here and now! Oraaah!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ウサギ女は明日の決闘で完膚なきまでにブッ潰すとして！\nクソババア、\nテメエはここでブチのめしてやんよ！　\nオラァッ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Numbers Avalon",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "──『乱数聖域』。"
+    },
+    {
+      "name": "Kariza",
+      "text": "──Gah!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──\nガハッ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "I see, indeed.\nYou have quite the fearsome potential.\nYour future is significant. But...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なるほど、\n確かに。\n恐るべきスペックの高さだよ、\nオマエは。\n将来性は相当なものだ。\nだが……"
+    },
+    {
+      "name": "Christina",
+      "text": "With your murderous intent leaking so obviously, there's no point in\nambushing. You still lack experience, young one.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そこまで露骨に殺気が漏れ出ていては、\n奇襲の意味がない。\n経験がまだまだ浅いな、\n坊や。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Guh... Damn it...!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ぐっ……\nクソッタレがぁ……！"
+    },
+    {
+      "name": "Christina",
+      "text": "......As per the 'Gio Gehenna' rule, you're obliged to incur a penalty\nfor your past losses tomorrow.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……\n『ジオ・ゲヘナ』の流儀としてオマエに命じる。\n明日は、\n今負けた分のペナルティーを負ってもらうぞ。"
+    },
+    {
+      "name": "Narration",
+      "text": "The day after Christina and Kariza's duel.\nFinally, the day of the duel arrived.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "クリスティーナとカリザとの戦いの翌日。\nいよいよ、決闘の日がやってきた。"
+    },
+    {
+      "name": "Kariza",
+      "text": "......Tch. I still have quite a bit of damage from yesterday...\nI'd say my condition is at best 20%...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……チッ。\nまだ、\n昨日のダメージがかなり残ってやがる……\n調子はせいぜい、\nいいとこ20％ってとこか……"
+    },
+    {
+      "name": "Naana",
+      "text": "Uh... Kariza-chan, I don't quite understand,\nbut are you okay...? You're swaying, maybe you should call off the duel...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "えっと……\nカリザちゃん、\nよく分かんないけど\n大丈夫……？\nフラフラしてるし、\n決闘なんて\n止めた方が……"
+    },
+    {
+      "name": "Kariza",
+      "text": "......How damned annoying. I need only one hand\nto defeat you!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……ウッゼえ。\nテメーをぶちのめすのなんざ、\n片手が動きゃ十分過ぎんだよ！"
+    },
+    {
+      "name": "Christina",
+      "text": "If you can shout that much, there shouldn't be any problem.\nNow, we're about to start your duel...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それだけの啖呵が切れるなら問題はあるまい。\nこれから\nオマエたちの決闘を始めるわけだが……"
+    },
+    {
+      "name": "Christina",
+      "text": "But before that, the two of you need to change.\nKariza, that's your penalty.\nI'll see if there's brilliance in either of you.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "その前に、\n二人には着替えてもらおうか。\nカリザ、\nそれがオマエへのペナルティーだ。\n二人に輝くものがあるか、\n見極めさせてもらうぞ。"
+    },
+    {
+      "name": "Naana",
+      "text": "Brilliance...?......Wait, if I dawdle, I'll get scolded again!\nI have to change quickly!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "輝くもの……？　\n…\n…って、\nモタモタしてたらまた怒られちゃう！\n早く着替えてこなくちゃ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "──What the hell is this!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──って、\nんだよこりゃあッ！？"
+    },
+    {
+      "name": "Naana",
+      "text": "Wow♪\nSo frilly and cute♪\nWhat is this outfit, Instructor?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "わぁ～♪\nフリフリでかわい～♪\nこの服なぁに、\n教官？"
+    },
+    {
+      "name": "Christina",
+      "text": "As you can see, it's an idol costume.\n......Hmm. It suits you somewhat.\nAs for your inner brilliance, I can't say yet.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "見ての通り、\nアイドル衣装だ。\n……ふむ。\nそれなりに似合ってるぞ。\n内面の輝きのほうは、\nまだわからんがな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Damn it...! I'll definitely kill that hag later...!\n...And the size is off and hard to move in!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "チクショー……！　\nあのババア、\n後でゼッテー殺す……！\n……っつーか、\nサイズ微妙に合ってなくて動きにくいんだよ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Oops. I should have left the measurements to Tsumugi?\n...Well, never mind. Hurry and start the duel.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おっと。\n採寸はツムギに任せるべきだったか？\n……まあ、どうでもいい。\nさっさと決闘を始めろ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "I'll do it even without being told!\nI'll kill you instantly, damn rabbit!!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "言われねえでもやってやるよ！\n瞬殺してやる、\nクソウサギがッ！！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eek!? Dangerous!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴいっ！？　\n危ないっ！？"
+    },
+    {
+      "name": "Kariza",
+      "text": "She dodged it!? \nTch... Must be a fluke, damn it!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "かわしやがった！？\nチッ……\nマグレだろ、\nオラッ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Whoa!? It was close, but I made it!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "わっとっと！？　\nギ、\nギリギリセーフ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Wha-what's going on...!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "なっ、\nどうなってやがる……！？"
+    },
+    {
+      "name": "Christina",
+      "text": "The biggest reason Nana has survived this long\nin the survival of the fittest 'Gio Gehenna'...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ナーナが弱肉強食の\n『ジオ・ゲヘナ』で\nここまで生き延びてこられた最大の理由……"
+    },
+    {
+      "name": "Christina",
+      "text": "It's her cowardly escape ability.\nOver this past week, she's relentlessly brushed up her few strengths.\nA half-hearted attack won't hit her that easily.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それは、\n臆病ゆえの逃げ足だ。\nそんな数少ない長所をこの一週間、\nひたすら磨き続けてきた。\n生半可な攻撃ではそうそう当たらんよ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Ah, this is so frustrating...!\nEnough already, damn rabbit!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ああ、\nイラつくぜ……！\nいい加減にしやがれ、\nクソウサギがよォ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eek!? I somehow dodged it...!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ひゃあんっ！？\nど、\nどうにかかわせた……！"
+    },
+    {
+      "name": "Christina",
+      "text": "What's wrong, Kariza?\nWithout using a monster, this is all you can do?\nIt's not much of a deal.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "どうした、\nカリザ？\n魔物を使役しなければそんなものか。\nまるで大したことはないな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hah!? Don't fool around!\nMy power isn't nearly......",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ハァッ！？　\nざけんな！\nオレの力はまだまだこんなもんじゃ……"
+    },
+    {
+      "name": "ナーナ",
+      "text": "カリザちゃんが、\n教官に気を取られてる……！？\nよ、\nよーし！\n練習どおりに……！　",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "カリザちゃんが、\n教官に気を取られてる……！？\nよ、\nよーし！\n練習どおりに……！　"
+    },
+    {
+      "name": "Naana",
+      "text": "Here I go~! Take this!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "いっくよ～！　\nえぇ～いっ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "......Tch!\nWith that......!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……チッ！\nそんなもんでっ……！"
+    },
+    {
+      "name": "カリザ",
+      "text": "！？\nクソ、\n腕の傷がッ……！　",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "！？\nクソ、\n腕の傷がッ……！　"
+    },
+    {
+      "name": "Kariza·Nana",
+      "text": "Gwaa!? Ouch!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ・ナーナ",
+      "orig_text": "ぐあっ！？\nあいたぁっ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "......Sigh. Good grief...\nAfter preparing up to this point, and a draw is all you achieve.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……はぁ。\nまったく……\nここまでお膳立てしておいてやって、\n相打ち止まりか。"
+    },
+    {
+      "name": "Christina",
+      "text": "Regrettably, this match is a draw.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "残念ながら、\nこの勝負は引き分けだな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "......Unbelievable!\nThis is because of this constricting outfit!\nI quit! I'm throwing this damn costume away!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……ざっけんな！\nこんな動きにくいモン着せられたせいだっての！\nやってられっか！　\n捨ててやる\nクソ衣装がッ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Ah, I think I'll take mine off, too...\nAfter so much moving, it's getting hot.",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あ、\nナーナもちょっと脱ごうかな……\nいっぱい運動して暑くなってきちゃったし。"
+    },
+    {
+      "name": "Christina",
+      "text": "──Even the weak can strike back at the strong,\nif they have training and strategy.\nThough it wasn't a victory, at least you should understand this.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "──弱者であろうと、\n鍛錬や作戦次第では、\n強者に一矢報いることができる。\n倒すまではいかなかったが、\n少なくともそのことは理解できただろう。"
+    },
+    {
+      "name": "Christina",
+      "text": "Kariza had significant handicaps...\nStill, considering the original difference in ability, you could say it was a fair effort.\nMost importantly, Nana, you endured my training till the end.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "カリザには大きなハンデがあったが……\nそれでも\n元々の実力差を考えれば、\n健闘といえなくもない。\n何より、\nよくワタシの訓練に最後まで耐え抜いたな。\nナーナ。"
+    },
+    {
+      "name": "Naana",
+      "text": "Hehe! Praised by the instructor, that's a first! Yay♪",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "えへへっ！\n教官にほめられるなんて、\n初めてかもっ！　\nやったぁ♪"
+    },
+    {
+      "name": "Christina",
+      "text": "Now. For this duel,\nthere was actually another purpose besides the win or loss.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さて。\n今回の決闘には、\n実のところ\n勝敗の他にもう一つ目的があった。"
+    },
+    {
+      "name": "Christina",
+      "text": "That was to gauge your aptitude for being an idol.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それは、\nアイドルの適性を見極めることだ。"
+    },
+    {
+      "name": "Naana",
+      "text": "Aptitude for being an idol...?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あいどるのてきせー……？"
+    },
+    {
+      "name": "Christina",
+      "text": "Yes. I observed carefully whether you have the quality\nto impact people's hearts with your serious efforts...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ああ。\n本気でぶつかり合う姿で、\n人の心を動かす素質があるかを\nじっくり観察させてもらったわけだが……"
+    },
+    {
+      "name": "Naana",
+      "text": "Instructor! What did you think of Nana!? \nDo you think I can become an idol!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "きょ、\nきょーかん！　\nナーナは、\nナーナはどうでしたか！？\nアイドルになれそうでしたかぁ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "It's impossible. You don’t have a shred of talent.\nNobody would want to cheer for a rabbit that only runs away.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ムリだな。\n才能の欠片もない。\n逃げ回るばかりのウサギを応援したいとは、\n誰も思わんだろう。"
+    },
+    {
+      "name": "Naana",
+      "text": "G-Gaaah!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ガ、\nガーンッ！！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hah.\nOf course, you idiot.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "はっ。\nとーぜんだろボケ。"
+    },
+    {
+      "name": "Christina",
+      "text": "On the other hand──Kariza.\nI felt potential in you.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "一方で──\nカリザよ。\nオマエには素質を感じたぞ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Huh!? Are you serious!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "はぁっ！？　\n正気かテメー！？"
+    },
+    {
+      "name": "Christina",
+      "text": "A producer must be out of their right mind, you see.\n......There's a lack of young male idols in Landosol.\nIf you debut, there's a quite high chance you'll be a hit.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "プロデューサーなど、\n正気では務まらんさ。\n……ランドソルには少年アイドルが不足してるからな。\nオマエがデビューすれば\n売れる可能性はかなり高いだろう。"
+    },
+    {
+      "name": "Christina",
+      "text": "Remember what I said when I arranged the duel?\n'Losers must follow my command...'\nAnd since you tied with Nana, you're practically the loser.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "決闘を決めたときにワタシが言った言葉は覚えているな？\n『敗者にはワタシの命令を聞いてもらう』……\nそして、\nナーナ相手に引き分けだったオマエは敗者も同然だ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "So I'm supposed to obey you!? \nNo way! A tie doesn't count! It doesn't count!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "だから言うことを聞けってか！？\nざ\nけんな！　\n引き分けはノーカンだろうが、\nノーカン！"
+    },
+    {
+      "name": "Christina",
+      "text": "It's not up to you to interpret the rules. It's up to me.\nAnd Nana.\nI might have praised you a bit too early...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ルールの解釈を決めるのはオマエではない。\nワタシだ。\nそして、ナーナ。\nさっきはつい褒めてしまったが……"
+    },
+    {
+      "name": "Christina",
+      "text": "You still need much more training.\nRejoice. I'll personally give you further special training♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "オマエはまだまだ鍛え方が足りない。\n喜べ。\nワタシ直々に、\n更なる特訓をしてやろうじゃないか♪"
+    },
+    {
+      "name": "Naana",
+      "text": "Eek!? Another hellish training...?\nThat's absolutely impossible for me!\nThis time, Nana's definitely going to escape!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴいっ！？　\nまた、\nあの地獄の特訓なんて……\nそんなの\nムリムリのムリだよぉ！\nナーナ、\n今度こそ逃げちゃうもん！"
+    },
+    {
+      "name": "Kariza",
+      "text": "That damn rabbit took off with incredible speed...\n......I'll get out of here too! No one's going to make a toy out of me anymore!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "クソウサギのヤツ、\nとんでもねー勢いで逃げやがった……！\n……オレもズラからせてもらうぜ！\nこれ以上、\n誰かのオモチャにされてたまっかよッ！"
+    },
+    {
+      "name": "Christina",
+      "text": "......Interesting. That kind of rebellion is necessary.\nJust wait, both of you. I'll catch both within five minutes!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……\n面白い。\nそれくらいの反骨精神がなくてはな。\n待っていろ、\n二人とも。\n５分以内にどちらも捕まえてやる！"
+    },
+    {
+      "name": "Narration",
+      "text": "And thus, in the jungle of 'Gio Gehenna',\na full-out chase by the Seven Crowns started...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして『ジオ・ゲヘナ』のジャングルにて、\n七冠による全力の追いかけっこが始まるのだった……"
+    }
+  ]
+}

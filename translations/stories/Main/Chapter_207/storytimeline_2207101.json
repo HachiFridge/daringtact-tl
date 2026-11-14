@@ -1,0 +1,824 @@
+{
+  "title": "Playing House with the Princesses",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "In the 'Gio Gehenna' where immensely powerful monsters roam, a helpless girl wanders through the jungle, crying.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "強力無比な魔物が闊歩する『ジオ・ゲヘナ』。\nそのジャングルにて、非力な少女が一人、泣きながらさまよっていた。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Uu... *sniff*... Jun onee-san, where are you...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うぅ……\nぐ\nすっ……\nジュンおねえさ～ん、\nどこ～っ……？"
+    },
+    {
+      "name": "Mimi",
+      "text": "There are so many scary monsters... and it's so hot, I'm starting to get thirsty...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "こわい魔物さんがいっぱいだし……\nすっごく暑くて、\nノドかわいてきちゃったし……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Ah, that's right! I brought a water bottle! I'll drink some water, and with bunny power, I'll give it my all~♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あっ、\nそうだ！　\n水筒持ってきてたんだ！\nお水を飲んで、\nうさぎさんパワーでがんばろ～♪"
+    },
+    {
+      "name": "Mimi",
+      "text": "Huh? My water bottle...? Did I drop it somewhere...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "……あれっ？　\n水筒がない……？\nもしかして、\nどこかに落としちゃった……？"
+    },
+    {
+      "name": "Mimi",
+      "text": "...*sniff*... I want to go home... Onii-chan... everyone...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "……ぐすっ……\n帰りたいよ～……\n……おにいちゃん……\nみんな……"
+    },
+    {
+      "name": "Narration",
+      "text": "Rustle Rustle!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ガサガサッ！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Hyah!? W-who...!? Jun... onee-san...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ひゃっ！？　\nだ、\nだあれ……？\nジュン……\nおねえさん……？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Mimi",
+      "text": "W-w-wha!? A monster!? I-I need to run──…ow!?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わわわっ！？　\n魔物さん！？\nに、\n逃げ\nなくちゃ\n──……\nいたっ！？"
+    },
+    {
+      "name": "Mimi",
+      "text": "...Waaah! Someone~!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "……\nうわ～んっ！　\nだれか～！"
+    },
+    {
+      "name": "Anemone",
+      "text": "Haa.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──はぁ。"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Anemone",
+      "text": "Turning your back on a monster—crying and running like that—don't you care for your life?",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "魔物に背を向けて──\nしかも、\n泣き喚いて逃げるだなんて。\n命がいらないんですか？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Hic... hic...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ひっく、\nひっく……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Waaah! It's scary~!!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わﾞあﾞぁ～んﾞっ！\nごわがっだよぉ～っ！！"
+    },
+    {
+      "name": "Anemone",
+      "text": "──Please don't cling to me. I will consider it an attack.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──抱きつかないでください。\n攻撃とみなしますよ。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Eh...? ...Hehe, I-I'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "えっ……！　\n……ふぇっ、\nご、\nごめっ……"
+    },
+    {
+      "name": "Mimi",
+      "text": "*sniff*... Waaaah!! Waaahh～～!!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ぐすっ……\nうﾞえﾞえﾞぇ～んﾞっ！！\n　うﾞえﾞえﾞぇ～～んﾞっ！！"
+    },
+    {
+      "name": "Anemone",
+      "text": "──Hah. What should I do...",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──はぁ。\nどうすれば……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Oh my. Mone, you've brought quite the adorable child with you.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "おや。\nモネや。\nこれはまた、\nずいぶんと愛らしき子を連れてきんしたなぁ。"
+    },
+    {
+      "name": "Anemone",
+      "text": "──It was just during my patrol. Her name seems to be Mimi, but that's all.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──見回りの際に\nたまたま、\nです。\nミミという名みたいですが、\nそれしか。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Hmm... a face I haven't seen before. Mimi-dono, could you kindly tell us what happened to you?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "フゥム……\n見ない顔だの。\nどれ、\nミミ殿や。\nわっちらに、\nなにがあったか\n教えておくんなまし？"
+    },
+    {
+      "name": "Mimi",
+      "text": "U-uhm... well, you see...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "う、\nうん……\nえっと、\nね……"
+    },
+    {
+      "name": "Narration",
+      "text": "──A few hours ago.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──今から数時間前。"
+    },
+    {
+      "name": "ミミ",
+      "text": "るんたった～♪\nこの世界のおひめさまって、\nどんな人なんだろ～！",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "るんたった～♪\nこの世界のおひめさまって、\nどんな人なんだろ～！"
+    },
+    {
+      "name": "Jun",
+      "text": "──Mimi-chan. I respect your desire to greet the 'Gio Gehenna' princess. Just like when we visited Princess Lyrael.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "──\nミミちゃん。\n君が\n『ジオ・ゲヘナ』のプリンセスに\n挨拶したいという気持ちは、\nもちろん尊重するよ。\nライラエル姫の元に訪問したときと同じくね。"
+    },
+    {
+      "name": "Jun",
+      "text": "However, 'Gio Gehenna' is a completely different world from 'Gio Teogonia'. Do you understand that?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ただ、\n『ジオ・ゲヘナ』は\n『ジオ・テオゴニア』とは\n全く別の世界だ。\nそれは理解しているね？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Yes! So today, I'll just say hello to the princess and then go home♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うんっ！　\nだから、\n今日はおひめさまに\nごあいさつだけして帰るんだよね♪"
+    },
+    {
+      "name": "Jun",
+      "text": "Correct. You remember well. This is a dangerous world. But I'll definitely protect you, Mimi-chan. So, do not worry...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "そう。\nよく覚えているね。\nここは危険な世界だ。\nけど、\n必ず私がミミちゃんを守る。\nだから安心して……"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Jun",
+      "text": "...Already making an appearance. Mimi-chan, step away from me a little. Then, wait right there, alright?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……早速のお出ましか。\nミミちゃん、\n私から少しだけ離れて。\nそして、\nそこで待っててほしい。\nいいね？"
+    },
+    {
+      "name": "Mimi",
+      "text": "U-uhm, got it!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "う、\nうん、\nわかった！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Jun",
+      "text": "What!? To create such a thick fog...! However, even if our vision is impaired, it won't affect the battle...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "っ！？\nこれほどの深い霧を発生させるとは……！\nだが、\n視界を奪われようが\n戦闘に支障は……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Jun onee-san, where...? I can't see anything... Maybe over there...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ジュンおね\nえさん、\nどこ……？\nなんにも見えないよ～……\nそ、\nそっちかな……？"
+    },
+    {
+      "name": "Jun",
+      "text": "Mimi-chan, wait! Calm down and stay right where you are...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ミミちゃん、\n待つんだ！\n落ち着いて、\nその場でジッと……！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "ジュン",
+      "text": "…くっ！　\n早くこいつを倒して、\n霧を止めなければ！\n無事でいてくれ、\nミミちゃん……！",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "…くっ！　\n早くこいつを倒して、\n霧を止めなければ！\n無事でいてくれ、\nミミちゃん……！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Huh, huh!? Could it be that I've gotten lost...? Ugh, Jun onee-san...!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "……あ、\nあれっ！？\nミミ、\nもしかして迷子になっちゃった……？\nうう、\nジュンおねえさ～んっ……！"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "I see... I understand the situation well. How lonely and scared you must have been...",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "ふむ……\n事情はよおく分かり申した。\n今までどれほどお前さまが\n心細い思いをしたことか……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "There, there. You're safe now. As the princess of this world, I will heartily welcome Mimi-dono.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "よしよし。\nもう安心しておくんなんし。\nこの世界の媛として、\nミミ殿を心からもてなす故に。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Princess... does that mean, you're a princess too, Onee-san!?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ひめ……\nってことは、\nおねえさん、\nおひめさまなの！？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Indeed. My name is Nephi Nela. As your friend—please call me Nela.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "左様。\nわっちの名はネフィ＝ネラ。\nミミ殿の朋として──\nネラ、\nと呼んでくだしゃんせ。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Nela onee-san and Anemone onee-san! Thank you so much♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ネラおねえさん、\nそれに、\nアネモネおねえさん！\n本当にありがとう♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Hehehe...♪ It's nothing. More than that, I think you must be thirsty after wandering in the jungle. Perhaps we should have a cold tea first.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "フフ……♪　\nなにほどのことやありけむ。\nそれより\n密林を彷徨いて、\n喉の渇きを覚えたかと存じますれば。\nまずは冷たい茶で、\n一服なさるが宜しきかと。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Wow, thank you so much♪ *gulp gulp*... Hehehe, it's delicious♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わぁっ、\nいただきまーすっ♪\nごくごくっ……\nえへへっ、\nおいしいね♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "It seems to suit your taste, more than anything. Now... after quenching your thirst, shall we have a game of juggling?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "お口に合った御様子、\n何よりでありんす。\nさて……\n喉を潤した後は、\nお手玉遊びでも致しんしょう♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Can you do this, Mimi-dono? Hup, hup, hup...",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "ミミ殿に、\nこの技ができますかの？\nほっ、\nほっ、\nほっ……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Wow, amazing! I'll try it too! Umm, like this? Eyy, yeet...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わ、\nすごーい！　\nミミもやってみるね！\nえっと、\nこうかな？　\nえいっ、\nやっ……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "──Hehehe. So honest and bright, pure innocence. How adorable indeed.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "──コロコロコロ。\n素直にして明朗、\n純粋無垢。\nなんと愛らしいことやら。"
+    },
+    {
+      "name": "Anemone",
+      "text": "──You're quite used to dealing with children, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──ずいぶんと\n子どもの扱いに慣れていますね。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Of course. You also know well of my skills, don't you?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "さもありなん。\n汝もわっちの手腕の程は、\nよぉく知っておろう？"
+    },
+    {
+      "name": "Anemone",
+      "text": "──I don't remember.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──覚えてません。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Ahh, how nostalgic. Mone was once as pure as this.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "嗚呼、\n懐かしき也。\nモネもこれしきの砌は、\n無垢そのものだったというに。"
+    },
+    {
+      "name": "Anemone",
+      "text": "──I've always been this way.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──前からこうです。\n私は。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Uu... juggling is hard...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あう～……\nお手玉って、\nむずかしいね……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Oh dear, I'm sorry. Then, should we try another amusement? Mone, prepare that thing.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "おやおや、\n相済みませぬ。\nならばひとつ、\n別の余興と洒落込みませう。\nモネや。\nアレの準備を。"
+    },
+    {
+      "name": "Anemone",
+      "text": "Seriously──?",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "本気──\nですか？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Any objections?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "何ぞ不服かえ？"
+    },
+    {
+      "name": "Anemone",
+      "text": "──...Hah...",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──…\n…はぁ……"
+    },
+    {
+      "name": "Anemone",
+      "text": "──Babu~",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──ばぶ～"
+    },
+    {
+      "name": "Mimi",
+      "text": "There, there. Anemone-chan is such a good girl~♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "よしよし。\nアネモネちゃんは\nいい子でちゅね～♪"
+    },
+    {
+      "name": "Mimi",
+      "text": "I'm the oneesan, so I'll take good care of Anemone-chan♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ミミはおねえさんだもん。\nアネモネちゃんのこと、\nちゃ～んとお世話するからね♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Oh dear, because I ended up with a useless man, you children have had to endure hardships...",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "よよよ……\nわっちが甲斐性なき殿方と\n連れ合いになったがために、\n娘らには苦労ばかり……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Living in a tattered tenement, always feeling hungry... I'm truly sorry for everything...",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "ボロ長屋住みな上、\nいつもひもじい思いをさせて……\nお前さまらには\n申し訳が立ちませぬ……"
+    },
+    {
+      "name": "Mimi",
+      "text": "No, don't apologize, mother. I love you, mom♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ううん、\nあやまらないで、\nおかあさん。\nミミね、\nおかあさん大好きだよ♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "...What an endearing child. 'No jewelry can surpass the value of one's child', truly.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "……なんとまあ、\nいじらしい子でありんしょう。\n子に過ぎたる宝無しとは、\nまさにこのこと。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "I also love you all very much. ...Fufu.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "わっちもお前さまらを、\n心より愛しておりまするよ。\n……フフ。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "──Ah, nostalgia. Acting like this reminds me of the past.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "──やれ、\n懐かしき也。\nこうして戯れて居ると、\n過日を思い出す喃。"
+    },
+    {
+      "name": "Anemone",
+      "text": "Reminds you of──what, exactly?",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "思い出すって──\n何を、\nですか。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Don't you remember? We used to play like this often when Mone was small.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "覚えておらぬかや？\nモネが小さい頃は、\nよくこうして遊んだものであるというに。"
+    },
+    {
+      "name": "Anemone",
+      "text": "──I don't remember.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──覚えてません。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Oh well. Some things are uncaring. ...Anyway. Let's get back to our roles.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "やれやれ。\nつれなきもの也。\n……さておき。\n役に戻るでありんす。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Babies don't usually talk. Right, Mone?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "赤子は喋ったりしないもの。\nであろ、\nモネや。"
+    },
+    {
+      "name": "アネモネ",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Anemone",
+      "text": "──Wahh, wahh",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──おぎゃ～、\nおぎゃ～"
+    },
+    {
+      "name": "Mimi",
+      "text": "Wow, Anemone-chan, are you hungry? Just wait a moment. I'll bring some milk soon♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "わわっ、\nアネモネちゃん、\nおなかすいちゃった？\nちょっと待っててね。\nすぐミルク持ってくるから♪"
+    },
+    {
+      "name": "Anemone",
+      "text": "──Babu babu~",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──ばぶばぶ～"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "...Fufu. It's been awhile since I've seen Mone like this. It also seems a bit reckless.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "……フフ。\n斯様なモネを見るのは、\n久々にあり申す。\n……少しばかり、\n自棄のようでもありんすが。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Heheh, pretend play was fun~♪",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "えへへっ、\nおままごと楽しかった～♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "That's good. Now, what game shall we play next...",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "それは善哉。\nさて、\n次は如何なる戯れを……"
+    },
+    {
+      "name": "Jun",
+      "text": "──Mimi-chan! I've finally found you...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "──ミミちゃん！　\nやっと見つけた……！"
+    },
+    {
+      "name": "Mimi",
+      "text": "Ah, Jun onee-san! Did you come to pick me up?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あっ、\nジュンおねえさん！\nむかえに来てくれたの？"
+    },
+    {
+      "name": "Jun",
+      "text": "Yes... I'm truly sorry for making you worry. I presume you are Nephi Nela, the princess of 'Gio Gehenna'.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ああ……\n心配をかけてしまい本当にすまない。\n……そちらは\n『ジオ・ゲヘナ』の媛、\nネフィ＝ネラ様とお見受けします。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Indeed. And you are... Hmm. I gather that you're something like a royal guard of 'Landosol'.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "いかにも。\n汝は……\nフム。\n『ランドソル』なる王国の、\n近衛兵と云う所でありますか喃。"
+    },
+    {
+      "name": "Jun",
+      "text": "You're quite observant. I am Jun, captain of the Landosol [Royal Knights (NIGHTMARE)]\n I sincerely thank you for taking care of Mimi-chan.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ご慧眼です。\n私は\nランドソル【王宮騎士団（NIGHTMARE）】\n団長のジュン、\nと申します。\nこの度はミミちゃんを保護していただき、\n心から感謝いたします。"
+    },
+    {
+      "name": "Jun",
+      "text": "Come now, Mimi-chan. This must've been scary for you.\nBut it's alright now. Let's return to Landosol together...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……さぁ、\nミミちゃん。\nおいで。\nいろいろと怖い思いをさせてしまったね。\nでももう大丈夫。\n一緒に、\nランドソルへ帰ろう……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "...Unfortunately, Jun-dono. I must decline your request.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "……あいにくながら、\nジュン殿。\n汝の申し出は、\nお断り申せざるを得ませぬ。"
+    },
+    {
+      "name": "Jun",
+      "text": "Wha... what do you mean...!?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "なっ……\nそれは一体……！？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "In a place where the law of the jungle prevails, to leave a child alone is utterly unacceptable.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "この弱肉強食の地において、\n守るべき幼児を一人きりにするなど。\nどのような事情があれ\n不届き千万にあり申す。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "I have now bonded with Mimi-dono as friends. i will take responsibility and raise her here, in the palace of 'Gio Gehenna'.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "ミミ殿とわっちは朋に成り申したところ。\nならば\nこの『ジオ・ゲヘナ』の宮にて\n責任もって御育てするといたしんしょう。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ふえっ？"
+    },
+    {
+      "name": "Jun",
+      "text": "...Indeed, I made the grave mistake of losing sight of Mimi-chan.\nRegarding that, I offer no excuses.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……確かに、\n私はミミちゃんを見失うという、\n大きな過ちを犯してしまいました。\nそのことに関して\n申し開きのしようもありません。"
+    },
+    {
+      "name": "Jun",
+      "text": "However, I have a duty to return her safely to her parents\nSo... with all due respect, I beg you.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ですが私には……\nその子を、\nご両親の元へ無事に帰すという義務がある。\nなので……\n無礼を承知でお願いいたします。"
+    },
+    {
+      "name": "Jun",
+      "text": "──Would you be willing to duel me, princess?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "──私\nと決闘していただけませんか、\n媛。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Hmm... you seem to know the laws of 'Gio Gehenna'.\nIn that case, what stake do you propose for this duel?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "ほう……\n汝は『ジオ・ゲヘナ』の律を御存知の様子。\nならば。\nこの決闘にてなにを賭けなさる？"
+    },
+    {
+      "name": "Jun",
+      "text": "If I win, I'd like you to return Mimi-chan.\nIf I lose... you may take my honor, my position—or even my life.\nAnything you wish to take.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "もちろん私が勝てば、\nミミちゃんを帰していただきたい。\nもし負ければ……\n私の名誉でも、\n職でも──\n命でも。\n好きなものを取り上げていただいて構いません。"
+    },
+    {
+      "name": "Anemone",
+      "text": "──Unbelievable.\nYou—you seem to be quite skilled, but\nsurely you understand the vast gap in power between you and a princess.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──理解できません。\n貴方──\nかなりの実力者、\nのようですが。\nだからこそ、\n媛との力の差は\n肌で感じているはず。"
+    },
+    {
+      "name": "Jun",
+      "text": "Of course. The princess's aura is overwhelming...\nA pressure of a different dimension altogether",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "無論だとも。\n媛の、\n鎧を貫くような威圧感……\n覇瞳皇帝ともまた別種の、\n異次元のプレッシャー"
+    },
+    {
+      "name": "Jun",
+      "text": "But... no matter how vast the power gap is.\nProtecting children is my duty.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "だが……\nどれほどの実力差があろうとも。\n子どもを守るのは、\n私の使命だ。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Fufu. Admirable resolve indeed.\nThen let us prepare the duel at once.\nLet's see if your strength lives up to your words──",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "フフ。\n見上げた覚悟であり申す。\nならば早速、\n決闘の場を設えて。\nその物言いに恥じぬ力があるか、\n確かめさせていただきましょうぞ──"
+    },
+    {
+      "name": "Mimi",
+      "text": "──No fighting!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "──ケンカしちゃダメだよ！"
+    },
+    {
+      "name": "アネモネ",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Geez!\nEveryone has to get along, okay?\nThat's what sensei and Onii-chan always say!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "も～っ！\nみんななかよくしなきゃダメだよ？\n先生もおにいちゃんも、\nいつも言ってるもん！"
+    },
+    {
+      "name": "Jun",
+      "text": "Mimi-chan...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ミミちゃん……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "──Hehehe.\nIt seems the poison's been completely removed.\nNo matter how strong you are, you can't win against a child.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "──コロコロコロ。\n毒気をすっかり抜かれてしまったでありんすなぁ。\nどれほどの力を持とうとも、\n子どもには勝てませぬ也。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "I surrender. I surrender.\nJun-dono, your bravery and Mimi-dono's charm.\nI am utterly defeated.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "降参、\n降参でありんす。\nジュン殿や。\nお前さまの勇気と、\nミミ殿の愛らしさに。\nわっちは敢え無く敗れ去りて候。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "The loser must fulfill the winner's wishes.\nSo, Jun-dono, you'd best take Mimi-dono back with you.\nThis time, without any mishaps, safely home.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "敗者は勝者の願いを叶えねばならぬ。\nなればジュン殿。\nミミ殿は連れて帰るが宜しかろ。\n今度こそ抜かりなく、\n万事無事にの。"
+    },
+    {
+      "name": "Jun",
+      "text": "Of course... but perhaps.\nEven if the duel had taken place... no matter the outcome,\nWere you actually planning to let Mimi-chan go home?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "それは勿論……\nですが、\nもしかして。\n本当に決闘が実現していたとしても……\n結果がどうであろうと、\nミミちゃんは帰すつもりだったのでは？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Who knows──Fufu.\n...Princess Pecorine truly is blessed with great vassals.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "はて扨──\nフフ。\n……まったく\nペコリーヌ姫は\n良き家臣に恵まれております喃。"
+    },
+    {
+      "name": "Jun",
+      "text": "……To a miserable me, such kind words, I'm deeply honored.\nPrincess Nephi Nela.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……不甲斐ない私に\nそのような温情、\n痛み入ります。\nプリンセス・ネフィ＝ネラ。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Fufu... Well then, Mimi-dono. Farewell.\nThe moments we spent together were truly enjoyable.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "フフッ……\nでは、\nミミ殿。\nお去らばでござりんす。\nお前さまとのひと時は、\n実に愉快でありんした。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Yeah, me too! ...Hey.\nNela onee-san, Anemone onee-san,\ncan I come visit again?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うん、\nミミもだよ！　\n……ねえ。\nネラおねえさん、\nアネモネおねえさん。\nまた\n遊びに来てもいい？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Of course, whenever.\nAt any time, we warmly welcome you.\nAnd Mone would also love to play with you, won't she?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "当然でありんしょう。\nどのような時であろうと、\nわっちらは\nお前さまを歓迎いたしんす。\nモネもまた、\nミミ殿と戯れたいであろ？　\nのう？"
+    },
+    {
+      "name": "Anemone",
+      "text": "If it's something other than pretend play──then maybe.",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "ままごと以外でよければ──\nです。"
+    },
+    {
+      "name": "Narration",
+      "text": "And so Anemone and the smiling Nephi Nela watched\nMimi and her friends return to their original world,\nalmost like sending off family.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そしてアネモネと、笑顔のネフィ＝ネラは、\nミミたちが元の世界へ帰っていくのを\nまるで家族のように見送るのだった。"
+    }
+  ]
+}

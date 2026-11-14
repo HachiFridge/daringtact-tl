@@ -1,0 +1,739 @@
+{
+  "title": "Tropical Island, Here We Come",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The first day of summer holidays finally comes around.\nThe part arrive on the island where Suzuna's event is set to take place.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "待ちに待った夏休み初日。\n{0}たちは、\nスズナがイメージキャラクターを務める島に上陸した。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "We're here, baby!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "とうちゃーっく！"
+    },
+    {
+      "name": "Io",
+      "text": "What a lovely beach.\nI'm so glad I've got an opportunity to come here.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "とっても素敵なビーチね。\nこんなところに来られて\nうれしいわ～"
+    },
+    {
+      "name": "Io",
+      "text": "Oh? There's a stage over there.\nIs that where your event's being held tomorrow, Suzuna?\nThat's incredible if so.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "あら、\nあのステージ……\nスズナちゃん、\n明日あそこでイベントをするの？\nすごいのねー"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Sure seems like it!\nTotally hyped!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "うん、\nそうみたい！\nマジ楽しみ～！"
+    },
+    {
+      "name": "Io",
+      "text": "There's going to be all sorts of fans and tourists watching, right?\nI'll have to pour my heart into cheering you on.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "きっと\nたくさんのファンや\n観光客がやってくるのよね？\n他の子たちに負けないように、\n私もしっかり応援するから。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Thanks a bunch!\nNo way I can mess up when you're all watching.\nI'mma knock this out the park!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ありがと！\nみんなが見てるし、\n絶対失敗できないっしょ！\nばっちりキメるんだから！"
+    },
+    {
+      "name": "Misaki",
+      "text": "I'll be cheeri— Urgh....",
+      "choice_data_list": [
+        "What's wrong?"
+      ],
+      "orig_name": "ミサキ",
+      "orig_text": "アタシも応援す……\nうぅ～……"
+    },
+    {
+      "name": "Misaki",
+      "text": "N-nothing!\nI just got, uh, entranced with how beautiful the beach is.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "べ、\n別になんでもないわよっ！\nあんまりにも綺麗なビーチだったから、\nその輝きに\n少しフラっとしたっていうか……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Did you get seasick?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "もしかしてミサキっち、\n船酔いしたとか？"
+    },
+    {
+      "name": "Misaki",
+      "text": "N-no I di—\nUrgh...",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ち、\nちが……っ！？\nうぅ～"
+    },
+    {
+      "name": "Io",
+      "text": "Oh no. Are you okay?\nDon't worry. It's perfectly normal to feel seasick after a ride that long.",
+      "choice_data_list": [
+        "Let me rub your back."
+      ],
+      "orig_name": "イオ",
+      "orig_text": "あら、\n大丈夫？\nこの島まで\n結構長く船に揺られていたから、\n仕方ないわよね。"
+    },
+    {
+      "name": "Misaki",
+      "text": "Hey! Don't touch me there!\nAnd don't treat me like a kid!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ちょっとー！\n　\nどこ触ってんのよ！\n子ども扱いしないでちょうだい！"
+    },
+    {
+      "name": "Misaki",
+      "text": "Also, you realize I'm wearing a swimsuit right now, don't you?!\nDon't think you've got a free pass to touch a lady's skin!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "それにいま\n水着なのよ！？\nレディの素肌を気安く触るなんて、\nただじゃおけないわー！"
+    },
+    {
+      "name": "Misaki",
+      "text": "Listen up. The only time you're allowed to touch a lady in a swimsuit\nis when you're helping them put sunscreen on!\nAnd it's far too early for that!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "いい？\n　水着姿のレディの素肌に\n直接触っていいのは、\n日焼け止めクリームを塗る時だけなの！\n今はまだその時じゃないわ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Ahaha.\nGuess you're feeling better than I thought!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "あはは、\n思ったより元気そうじゃん！"
+    },
+    {
+      "name": "Misaki",
+      "text": "I've been perfectly fine all this time!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "もともと元気だってばー！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "I meant to say.\nThat swimsuit is totally the bomb.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "てかミサキっち、\nその水着似合ってるね？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Of course it is. Would you expect any less?\nThat said, you're looking good as well.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "まぁね、\nこれくらいの着こなしは当然よ。\nスズナもさすがモデル\nって感じでいい感じじゃない。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "And I know it! My purse was pretty much open the second I saw it.\nI'm gonna wear it for tomorrow's event, too!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "っしょ？\n　\nこの夏に買った\nお気に入りの水着！\n明日のイベントも\nこれで出るつもりだよ！"
+    },
+    {
+      "name": "Io",
+      "text": "The two of you are looking spectacular.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "うん、\n二人ともよく似合ってて素敵よ～"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Io's, well...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ちゃんイオは……"
+    },
+    {
+      "name": "Io",
+      "text": "Hm? What is it?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "ん、\nなぁに？"
+    },
+    {
+      "name": "Suzuna & Misaki",
+      "text": "A-as blessed as always...",
+      "choice_data_list": [],
+      "orig_name": "スズナ・ミサキ",
+      "orig_text": "お、\nおっきい……"
+    },
+    {
+      "name": "Io",
+      "text": "Come on, you two.\nDon't go silent on me all of a sudden.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "んもう、\n二人して急に黙っちゃってどうしたの？"
+    },
+    {
+      "name": "Io",
+      "text": "Oh, right!\nHaving fun is all well and good.\nbut make sure you don't get yourselves hurt. Understood?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "あっ、そうだ！\nみんな、遊ぶのはいいけど、\nくれぐれも怪我とかには気を付けてね？\n　\nいい？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Rodge!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "りょ！"
+    },
+    {
+      "name": "Misaki",
+      "text": "That goes without saying!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "当然よー！"
+    },
+    {
+      "name": "Elder",
+      "text": "Oh? Are you Suzuna, perchance?\nGreetings. I'm the elder of this island's village.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "おや、\nスズナさんでいらっしゃいますな？\nどうも、\nこの島にある村の村長です。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Whattup!\nLet's have a blast tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ちょすー！\n明日はよろよろー！"
+    },
+    {
+      "name": "Elder",
+      "text": "Thank you very much for coming all this way.\nYou even brought friends, I see. That's splendid.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "スズナさん、\nそれにお連れの皆さんも、\n遠路はるばる\nよくお越しくださいました。"
+    },
+    {
+      "name": "Assistant",
+      "text": "Hello.\nI can speak for everyone in the village when I say that\nwe've all been eagerly anticipating your arrival.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "こんにちは。\nこの島の者一同、\nみな首を長くして待っておりましたよ。"
+    },
+    {
+      "name": "Io",
+      "text": "Not at all. Thank you very much for the invite.\nWe're as excited to see Suzuna on stage as you are.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "こちらこそ、\nご招待ありがとうございます。\n私たちも、\nスズナちゃんの活躍を見るのが\nとっても楽しみなんです。"
+    },
+    {
+      "name": "Misaki",
+      "text": "That, plus the weather here is fantastic.\nIt's not something you get to experience much back in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "それに、\nこの島の天気は\nバカンスにぴったりだわ。\nこんな気持ちのいい天気は、\nランドソルじゃ\nなかなか味わえないものね。"
+    },
+    {
+      "name": "Assistant",
+      "text": "...!\nThe weather...",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "……！\n天気……"
+    },
+    {
+      "name": "Io",
+      "text": "Is something bothing you?\nLike Misaki said, the weather's lovely.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "天気がどうかしましたか？\nミサキちゃんの言う通り、\nとっても気持ちいいですよ。"
+    },
+    {
+      "name": "Assistant",
+      "text": "Oh, um...",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "ああ、いえ……"
+    },
+    {
+      "name": "Elder",
+      "text": "*cough* Please disregard that.\nMore importantly, I'm looking forward to tomorrow's event, Suzuna.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "コホン、\nお気になさらず。\nさて、スズナさん、\n明日のイベントは\nよろしく頼みますよ。"
+    },
+    {
+      "name": "Elder",
+      "text": "We see a number of visitors here every year.\nAnd we want them to experience a summer they'll never forget.\nThat was what spurred this idea on in the first place.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "大陸から遊びにやって来る\n多くの観光客の皆さんに、\nこの島で夏をおもいっきり満喫してもらうため、\nその歓迎の挨拶ができたらと思い、\n企画したんですから。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Got it! Leave it to me!\nI'm ready for the best vacation of my life!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "おけー！\n　うちにまかせてー！\nみんなとバカンスするために、\n張り切ってるし！"
+    },
+    {
+      "name": "Elder",
+      "text": "Please share that desire and passion with tomorrow's guests.\nThe stronger the link betwen everyone's feelings,\nthe higher they will reach into the sky.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "是非とも\n明日は、\nそんな素敵な夏を過ごしたいという気持ちを\n集まった観光客の皆さんと一つにして、\n空まで届くように\nお願いしてください。"
+    },
+    {
+      "name": "Elder",
+      "text": "And if they reach high enough—",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "そうすればきっと──"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Hey! It's Suzuna!",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "あー！\n　スズナちゃんだー！"
+    },
+    {
+      "name": "Resident 2",
+      "text": "No way! She got here so quick!",
+      "choice_data_list": [],
+      "orig_name": "島民女性２",
+      "orig_text": "ほんとだー！\n　もう着いてたんだー！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hm?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ん？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Whoa! Is that some fangirls I see?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "きゃっはー！\n　みんな、うちのファン？"
+    },
+    {
+      "name": "Resident 1",
+      "text": "You bet!\nThanks so much for coming, Suzuna!",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "うん！\n　島に来てくれてありがとっ、\nスズナちゃん！"
+    },
+    {
+      "name": "Elder",
+      "text": "Come now, she's only just arrived.\nDon't bother her right off the bat.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "こらこら、\nスズナさんに迷惑ですよ。\nまだ到着されたばかりなんですから、\nあまり騒ぐんじゃありません。"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Can you blame us?!\nIt's Suzuna, in the flesh!\nShe's even cuter in person than she is in magazines!",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "えー、\nだってー！\n生スズナちゃん見るの\n初めてなんだもん！\n雑誌で見るより断然かわいいー！"
+    },
+    {
+      "name": "Resident 2",
+      "text": "We've been waiting here all this time to meet her!\nSuzuna! Please shake my hand!",
+      "choice_data_list": [],
+      "orig_name": "島民女性２",
+      "orig_text": "早くこの目で見てみたくて、\nずっと待ってたんですー！\nスズナちゃん、\n握手してください！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "That's how you make a gal happy!\nThanks for all the support!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "うれしー！\n　いつも応援マジありがとー！"
+    },
+    {
+      "name": "Resident 1",
+      "text": "We work at the beachside sweets stall,\nso it'd be great if you could drop by tomorrow!\nWe can guarantee that they're delicious!",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "わたしたち、\nビーチのスイーツ屋でバイトしてるからさ、\n明日のイベントの時に\nスズナちゃんにも食べてもらいたいな！\nすっごく美味しいんだよ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "For real?\nI'm definitely swinging by, then!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "マジ？\n　\nいくいくー！"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Now that's a promise!\nWe'll give you extra special treatment, too!",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "絶対約束だよー！\nスズナちゃんが来てくれたら、\n超絶サービスしちゃうんだから！"
+    },
+    {
+      "name": "Elder",
+      "text": "That's enough, now. I'm sure Suzuna is exhausted.\nAnd she'll need all the rest she can get before tomorrow.\nEspecially considering how important this event is to us.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "みなさん、\nその辺に。\n長旅で疲れているでしょうから、\n明日のため、\n今はゆっくりしてもらわないと。\n島にとって\n大事なイベントなんですから……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Don't worry.\nI'm fine!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ううん、\nだいじょぶだいじょぶー！"
+    },
+    {
+      "name": "Elder",
+      "text": "B-but—",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "し、\nしかし──"
+    },
+    {
+      "name": "Io",
+      "text": "Your consideration is much appreciated.\nKnowing Suzuna, though, she really means it.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "村長さん、\n心配ありがとうございます。\nでも、\nスズナちゃんは\n本当に大丈夫だと思いますよ。"
+    },
+    {
+      "name": "Io",
+      "text": "She usually doesn't look so overjoyed during class.\nIf anything, I now realize just how much\nshe enjoys her time working as a model.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "あんなに嬉しそうな顔、\n教室でもあまり見たことないんです。\nモデルのお仕事をするのが\n本当に楽しいんだって\nよく分かりました。"
+    },
+    {
+      "name": "Elder",
+      "text": "During class?",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "……教室？"
+    },
+    {
+      "name": "Io",
+      "text": "Yes, that's right.\nAppearances aside, I'm her teacher.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "はい、\n学校の教室です。\n私、\nこう見えてスズナちゃんの先生なんですよ。"
+    },
+    {
+      "name": "Io",
+      "text": "That said, I'm still new to the job.\nBut she and Misaki are my students.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "といっても、\nまだ新米教師ですけど。\nこの子たちの担任なんです。"
+    },
+    {
+      "name": "Elder",
+      "text": "Y-you're... a teacher?",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "あ、\nあなたが……\n学校の先生っ……？"
+    },
+    {
+      "name": "Io",
+      "text": "Indeed.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "はいっ。"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Hey, Suzuna!\nIs that your sister you've brought along?",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "ねえ、\nスズナちゃん、\n隣にいるのって、\nもしかして\n妹さん？"
+    },
+    {
+      "name": "Resident 2",
+      "text": "You what?!\nI never knew Suzuna had a sister!",
+      "choice_data_list": [],
+      "orig_name": "島民女性２",
+      "orig_text": "えっ！\nスズナちゃんって妹がいたのー？\n　\n初耳ー！"
+    },
+    {
+      "name": "Misaki",
+      "text": "I am [i]not[/i] her sister!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ちがうわよー！\n　誰が妹よー！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Ahahaha!\nMisaki being my sister is totes LOL material!\nBut nah. She's my bud, and my classmate.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "きゃははは！\nミサキっちがうちの妹ってわろ～！\n一緒の学校に通ってる\n友達だし～"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Oh. Sorry about that.\nYou're so cute and trendy that it just made sense.",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "ごめんね、\n可愛いしオシャレだし、\n勘違いしちゃった。"
+    },
+    {
+      "name": "Misaki",
+      "text": "Heh!\nI do take care to carry myself as a proper lady, yes.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ふふん、\nアタシだって\nレディとして身だしなみには\n気を付けてるんだから！"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Actually, I'm so jelly that you're classmates!\nI wish I could go to the same school as Suzuna!",
+      "choice_data_list": [],
+      "orig_name": "島民女性１",
+      "orig_text": "てか、\nクラスメイトも超うらやまなんですけど！\n私もスズナちゃんと同じ\n学校に通ってみたかったー！"
+    },
+    {
+      "name": "Resident 2",
+      "text": "Hey, hey. What's Suzuna like when she's off work?\nWhere do you hang out after school?\nGive us the scoop!",
+      "choice_data_list": [],
+      "orig_name": "島民女性２",
+      "orig_text": "ねーねー、\n普段のスズナちゃんってどんな感じなの？\n学校帰りにどんなところに遊びに行くの？\n教えて、教えてー！"
+    },
+    {
+      "name": "Misaki",
+      "text": "Urgh. Really putting the pressure on me, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "うぅっ、\n圧がすごいわね？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Is this how celebrities feel when they're surrounded by the press?\nNot that it makes me a celebrity,\nbut it sure feels nice!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "これって、\n芸能人が受ける\n囲み取材ってやつかしら。\nアタシが人気になったわけじゃないけど、\n悪い気はしないわ～！"
+    },
+    {
+      "name": "Misaki",
+      "text": "Ask, and ye shall receive!\nI'll tell you everything you need to know!\nWhat's your first question?",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "まかせてちょうだい！\nアタシが\nなんでも教えてあげるわ！\nまずは何から知りたいのかしら～？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Misaki! Hold the phone!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ミサキっち、\nストップストップ～！"
+    },
+    {
+      "name": "Io",
+      "text": "Oh! Silly me.\nI forgot something terribly important!",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "あっ！\n　いっけない！\n大事なことを忘れていたわ！"
+    },
+    {
+      "name": "Io",
+      "text": "Hey. Can you rub some sunscreen on me?\nI planned on doing it after switching into my swimsuit\non the boat, but completely forgot.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "ねえ、\n日焼け止め塗ってくれない？\n船の中で水着に着替えたときに\n塗ろうと思ってたんだけど、\nすっかり忘れてて……"
+    },
+    {
+      "name": "Elder",
+      "text": "Graaaagh!",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "うおぉ……っ！！！"
+    },
+    {
+      "name": "Io",
+      "text": "?\nIs something the matter?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "？\nどうかしましたか？"
+    },
+    {
+      "name": "Elder",
+      "text": "Oh. No, nothing at all.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "あぁ、\nいえ……"
+    },
+    {
+      "name": "Io",
+      "text": "Here you go.\nDo my back first, will you?",
+      "choice_data_list": [
+        "Sure thing."
+      ],
+      "orig_name": "イオ",
+      "orig_text": "じゃあこれ、\nお願い。\nまずは背中から\nしっかり塗ってね。"
+    },
+    {
+      "name": "Io",
+      "text": "Ah! That's so cold!\nBe a bit more gentle for me, okay?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "あんっ、\n冷たっ！\nもっと優しくお願い～"
+    },
+    {
+      "name": "Io",
+      "text": "Mmm...\nYeah, right there. That's the spot.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "んん、\nそうそう、\nそこそこ。"
+    },
+    {
+      "name": "Io",
+      "text": "You're more skilled than I thougyht.\nLet's go a bit lower now...",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "なかなか上手ね～\n次は、\nもうちょっと下を……"
+    },
+    {
+      "name": "Elder & Assistant",
+      "text": "*gulp*",
+      "choice_data_list": [],
+      "orig_name": "村長・付き人",
+      "orig_text": "ゴクリ……"
+    },
+    {
+      "name": "Io",
+      "text": "Oh. What's this?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "って、\nあら？"
+    },
+    {
+      "name": "Io",
+      "text": "It started raining all of a sudden.\nSurprising, considering how sunny it was.\nThe weather can be funny sometimes, can't it?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "急に雨が降ってきたわね。\n今まですっごく晴れていたのに、\nどうしたのかしら。\n変わったこともあるのね～"
+    },
+    {
+      "name": "Elder",
+      "text": "...!\nI-it definitely can.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "……！\nそ、\nそうですな。"
+    },
+    {
+      "name": "Elder",
+      "text": "It would be terrible if you caught a cold due to the rain.\nWe've prepared a guildhouse for you to stay at,\nso please feel free to use that.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "もしも雨で身体が冷えて、\n風邪をひいてしまっては大変です。\n宿泊用にご用意した\n島のギルドハウスを使ってください。"
+    },
+    {
+      "name": "Elder",
+      "text": "I'll be on my way, now.\nPlease let me know if there's anything you need.\nI look forward to seeing you all again tomorrow.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "それでは私はこれで。\nお困りのことがあれば、\nなんでも言ってください。\nでは、\n明日はよろしくお願いします。"
+    },
+    {
+      "name": "Assistant",
+      "text": "Please follow me.\nI'll take you to the guildhouse.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "みなさん、\nギルドハウスまでご案内しますので\n私についてきてください。"
+    },
+    {
+      "name": "Io",
+      "text": "Thank you very much.\nLet's get going, everyone!",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "お願いします。\nみんな、\n行きましょう～"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Got it!\nCatch you later, troops!\nGimme all you've got tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "おけー！\nみんな、\nじゃねばいー！\n　明日は応援よろー！"
+    },
+    {
+      "name": "Residents",
+      "text": "Bye-bye!",
+      "choice_data_list": [],
+      "orig_name": "島民女性たち",
+      "orig_text": "ばいばーい！"
+    },
+    {
+      "name": "Io",
+      "text": "That sudden change in weather sure did surprise me, though.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "それにしてもびっくりしたわよね。\nいきなり天気が崩れるなんて。"
+    },
+    {
+      "name": "Misaki",
+      "text": "Here's hoping that it won't continue into tomorrow\nand have any effect on the event.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "明日のイベントも、\n雨で急に中止になったりしたりしないわよね？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Yikes! Anything but that!\nI really wanna take part!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "やばばばば！\n　それだけはカンベンして欲しい～\nうち\nイベントやりたいし！"
+    },
+    {
+      "name": "Assistant",
+      "text": "Well...",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "それは……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hm...?\nWhat's up?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ん？\nどうかしたんですかー？"
+    },
+    {
+      "name": "Assistant",
+      "text": "Err...\nI was told not to bring this up,\nso as to not cause any concern, but...",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "ええっと、\n実は\nスズナさんには心配をかけさせたくないから\n黙っているように言われたのですが……"
+    },
+    {
+      "name": "Assistant",
+      "text": "The event being called off might be entirely possible.\nAll due to the Great Rain God.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "雨で中止って、\nありえない話じゃないんです。\n雨神様のせいで……"
+    },
+    {
+      "name": "Suzuna & Misaki & Io",
+      "text": "The Great Rain God?",
+      "choice_data_list": [],
+      "orig_name": "スズナたち",
+      "orig_text": "あまがみさま……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Unfamiliar with the term they've just heard,\nthe party scratch their heads as they make their way\ntowards the guildhouse.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "耳慣れない言葉に首をかしげる{0}たち一行は、\n用意されたギルドハウスへと向かうのだった。"
+    }
+  ]
+}

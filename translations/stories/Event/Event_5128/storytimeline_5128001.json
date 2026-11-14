@@ -1,0 +1,992 @@
+{
+  "title": "A Storm of Flowers in Both Hands",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Inside a carriage going across the desert.\nSaren is explaining about the desert country they're currently going to, Salasaria.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "砂漠を渡る馬車の中。\nサレンは目的地である砂漠の国──\nサラサリアについて説明していた。"
+    },
+    {
+      "name": "Ruka",
+      "text": "So, what kind of country is Salasaria?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "それで、\nそのサラサリアって国は\nどんなとこなんだい？"
+    },
+    {
+      "name": "Saren",
+      "text": "Salasaria is famous for producing ores used in magic tools.\nAnd it seems that their technology for producing magic tools has been improving.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "サラサリアは\n魔道具に使われる\n鉱石の産地として有名なの。\n魔道具の製造技術なんかも\n発展してるらしいわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "But because of that, they were once targeted by other countries and now it treats outsiders strictly.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "でもそれが原因で、\n他国から狙われ続けた歴史もあって。\nよそ者に厳しいお国柄って感じね。"
+    },
+    {
+      "name": "Intimidating Voice",
+      "text": "...Hm? Stop that carriage!",
+      "choice_data_list": [],
+      "orig_name": "威圧的な声",
+      "orig_text": "……む？　\nそこの馬車、\n止まれ。"
+    },
+    {
+      "name": "Saren",
+      "text": "...We're here. Father wrote me a letter of introduction so we should be able to enter the country safely.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……きたわね。\nお父さまに紹介状も書いてもらってるし、\n無事に入国させてもらえるといいんだけど。"
+    },
+    {
+      "name": "Gatekeeper",
+      "text": "──I understand the situation now.\nHowever, the other people with you will need to wait before they can enter the country.",
+      "choice_data_list": [],
+      "orig_name": "門番の兵士",
+      "orig_text": "──事情は承知した。\nしかし、\nサレン殿以外の入国は待ってもらおう。"
+    },
+    {
+      "name": "Gatekeeper",
+      "text": "I'm sorry, but I can't let suspicious person enter the country even if they're your attendants.",
+      "choice_data_list": [],
+      "orig_name": "門番の兵士",
+      "orig_text": "申し訳ないが、\n身元不確かな者は\nたとえ付き人であっても入れるわけにはいかんのだ。"
+    },
+    {
+      "name": "Saren",
+      "text": "That's very rude of you calling them 'suspicious people'...!\nWhich part of us is suspicious──",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "身元不確かって、\nそんな失礼な……！\nみんなの一体どこが──"
+    },
+    {
+      "name": "Ruka",
+      "text": "Well, I change where I live in everyday...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "まあ、\nアタシは根無し草みたいなもんだし……"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "I don't know my address either...",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "ボクは\n住所もわかりません……"
+    },
+    {
+      "name": "Saren",
+      "text": "...Okay, so maybe they're kinda suspicious.\nBut these people aren't my 'attendants'! They're...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……確かにそうかもしれませんけど！\nでも、\nみんなは付き人じゃなくて……\nその……"
+    },
+    {
+      "name": "サレン",
+      "text": "付き人じゃ入れない……\nなら、\nそれ以外で一緒に旅行するような間柄……\nはっ！　",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "付き人じゃ入れない……\nなら、\nそれ以外で一緒に旅行するような間柄……\nはっ！　"
+    },
+    {
+      "name": "Saren",
+      "text": "Umm... that's right!\nAll of us are... a family! Right!?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "えぇと……\nそう！\nあたしたちは……\nその、\n家族なんです！　\nそうよね！？"
+    },
+    {
+      "name": "サレン",
+      "text": "{0}とは家族みたいなもんだし、\nルカさんもこの子も、\n親戚としてなら……！　",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "{0}とは家族みたいなもんだし、\nルカさんもこの子も、\n親戚としてなら……！　"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Saren-neechan, is that your wish?",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "それが、\nサレンおねえちゃんのお願いですか？"
+    },
+    {
+      "name": "Saren",
+      "text": "Yes, just like that! Pretend we are a family like that!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ええ、\nそうよ、\nそういうフリをしてちょうだい！"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "I see...!\nSo you're my father and mothers!",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "そ……\nそうですっ！\nそうだよね、\nお父さん、\nお母さんたち！！"
+    },
+    {
+      "name": "Saren & Ruka",
+      "text": "Mothers!?",
+      "choice_data_list": [],
+      "orig_name": "サレン・ルカ",
+      "orig_text": "たち！？"
+    },
+    {
+      "name": "Saren",
+      "text": "Umm... Actually... The three of us are actually married.\nMe, Ruka-san, and {0}!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あっ、\nえぇっと……\nじ、\n実は……\nあたしたち、\n夫婦なんです。\nあたしと、\n{0}と、\nルカさん。\n３人の。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Saren!?\nWhat are you──",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "サレン！？　\nアンタ何を──"
+    },
+    {
+      "name": "Saren",
+      "text": "Shh! Ruka-san, just go along for now!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "しっ！　\nルカさん、\nとりあえずここは話を合わせて！"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Please, Mr. Gatekeeper.\nI want to pass through here with my family.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "お願いします、\n門番さん。\nボクたち、\n家族みんなでここを通りたいんです。"
+    },
+    {
+      "name": "Gatekeeper",
+      "text": "Even if you say so... hang on... I see...\nIf it's your family, then I guess it's fine...?",
+      "choice_data_list": [],
+      "orig_name": "門番の兵士",
+      "orig_text": "そう言われても……\n待てよ。\nそうか……\n家族なら、\n仕方ない、\nな……？"
+    },
+    {
+      "name": "Gatekeeper",
+      "text": "Hmm, it's fine... I see...\nWhat was I so suspicious of anyway...?",
+      "choice_data_list": [],
+      "orig_name": "門番の兵士",
+      "orig_text": "うむ、\n仕方ない……\nそうだ……\n何を疑っていたんだ、\n私は……？"
+    },
+    {
+      "name": "Gatekeeper",
+      "text": "...I apologize for being rude and doubting you people earlier.\nThe gate will be open soon.",
+      "choice_data_list": [],
+      "orig_name": "門番の兵士",
+      "orig_text": "……\n先ほどの非礼を詫びよう。\n疑ってすまなかった。\nすぐに門を開けさせる。"
+    },
+    {
+      "name": "Saren",
+      "text": "...Thank you?\nHe was so suspicious of us earlier, I wonder what caused him to change so suddenly.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……ありがとう、\nございます？\nあんなに疑ってたのに、\n急にどうしちゃったのかしら。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Isn't it because of the kid's plea?\nEither way, the situation's resolved now so let's go before he changes his mind.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "その子のお願いが効いたんじゃないか？\nともあれ、\n問題は解決したんだ。\n気が変わらないうちに早く行こう。"
+    },
+    {
+      "name": "Ruka",
+      "text": "That said, why did we have to be married?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "にしても、\n夫婦ってのはないだろう。\n夫婦ってのは。"
+    },
+    {
+      "name": "Saren",
+      "text": "I didn't have any other options.\nIt was the only excuse I could think of...\nI'm glad you trusted me to go along with it, but...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "しょうがないじゃない。\n他にいい言い訳が思いつかなかったんだもの。\n……信じてもらえて助かったけど……"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Come on, everyone. We've arrived!\nThis is──",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "さあ、\nみなさん。\n着きました！\nここが──"
+    },
+    {
+      "name": "People of the Sand Country",
+      "text": "Welcome to Salasaria, the hot desert country swirling with secrets!",
+      "choice_data_list": [],
+      "orig_name": "砂の国の民たち",
+      "orig_text": "熱風と神秘渦巻く、\n砂漠の国──\nサラサリアへようこそ！"
+    },
+    {
+      "name": "Woman",
+      "text": "Where did you guys come from? Wow, from Landosol!?\nThat must have been a difficult to come here.",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "あなたたち、\nどこから来たの？\nまあ、\nランドソルから！？　\nそれは大変だったでしょう。"
+    },
+    {
+      "name": "Male",
+      "text": "Take your time and enjoy the sceneries.\nThere are a lot of good places to see even outside of the magic ore production area.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ぜひともゆっくり観光していってくれ。\n魔鉱石の産地以外にも、\n見どころたくさんあるんだぜ。"
+    },
+    {
+      "name": "Saren",
+      "text": "What a completely different reception than earlier...\nWe're still in the same country, right?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "さっきとは打って変わった歓迎ぶりね……\n同じ国で合ってる、\nわよね？"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Salasaria has a strict entry restriction... but once you enter through the gates, the people will welcome you warmly.\nSalasaria is a country with a thriving trading industry after all.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "サラサリアは入国制限が厳しいですけど……\n門を入れば\n旅人のことをみんな、歓迎してくれます。\n鉱石をはじめ、\n商いの盛んな国ですからね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "It really looks like it's thriving.\nAren't there more and more people gathering here?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "商いが盛んっていうのは\n本当みたいだね。\nだんだん\n人が集まってきてないかい？"
+    },
+    {
+      "name": "Woman",
+      "text": "If you come to this country, then you can't miss this!\nThis here is the famous grilled basilisk!\nYou won't find spices this strong anywhere else!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "さあ、\n我が国に来たなら\nこれは外せない！\n名物料理の\nバジリスク焼きはいかが？\nスパイスがガツンと効いたこの味は、\n他じゃ味わえないよ！"
+    },
+    {
+      "name": "Male",
+      "text": "Before that, are you feeling thirsty?\nThese palm fruit drink and fresh juices are still really cold!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "その前に\n喉は渇いてないかい？\nヤシの実ドリンクに\nフレッシュジュース、\nキンッキンに冷えてるよ～！"
+    },
+    {
+      "name": "Girl",
+      "text": "Do you want some hair ornaments?\nI made these all myself! It'll look really good～",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "おねえちゃんたち、\n髪飾りはいらない？\nわたしが作ったんだよ！　\nねえねえ、\n買ってって～♪"
+    },
+    {
+      "name": "Saren",
+      "text": "S-Sorry, can you let me pass through?\nWe have something to... what are you doing～!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ご、\nごめんなさい、\nそこを通してくれる？\nあたしたち\n用事があって……\nちょっと、\nみんな通してってば～っ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I don't need fruits!\nAnd I don't need grilled meat either!\nAhh, is everyone here all like this!?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "フルーツはいらないって！　\n串焼きもいらない！\nああもう、\nここの連中は\nみんなこうなのかい！？"
+    },
+    {
+      "name": "Saren",
+      "text": "Wait, what are you eating over there!?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょっと！？　\nあんた、何食べてるの！？"
+    },
+    {
+      "name": "Boy",
+      "text": "Nee-chan want some too? It's a spicy croquette made with shamus beans, it's 100 rupies for one.",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ねえちゃんも食べる～？\nシャムス豆を使った\n王道チョイ辛コロッケ。\n一個100ルピ～"
+    },
+    {
+      "name": "Saren",
+      "text": "Eh? Did you buy another one already!?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "えぇっ？　\nまたなんか買ったの？\n今の一瞬で！？"
+    },
+    {
+      "name": "Boy",
+      "text": "This one is a violent salty mint ice cream that'll freeze even sea drakes～ It's 300 rupies a piece～",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "こっちは\nシードレイクも凍える\n激烈ソルティミントアイス～\n一個300ルピ～"
+    },
+    {
+      "name": "Saren",
+      "text": "{0}, hand over your wallet! I'll tie it so tight that you don't waste more money on this!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょっと{0}、\n財布を出しなさい！\nこれ以上、無駄遣いできないよう\n紐を固～～～く結んどいてあげるから！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I don't mind the husband-wife skit, but shouldn't we leave this place first?\nAt this rate, {0} will go bankrupt.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "夫婦漫才は結構だけど、\nちょっとこの場を離れた方がいいんじゃないかい？\nこのままじゃ\n{0}が破産しちまうよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Haah... I'm this tired already and it hasn't even been that long since we first entered the country...\nI'm worried about what I'll have to deal with next.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "はぁ……\nどっっっ\nと疲れたわ。\n入国して\nまだたいして時間も経ってないわよ……\n先が思いやられるわね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Good job... But I'm surprised that people can bear the heat with these much people around.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お疲れさん。\nしっかし……\n人だかりもだけど\nこの暑さは\nかなり堪えるよ。"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Then you two should change your clothes, it'll make you stand out less and it'll feel cooler.\nLook, there is a clothing store over here.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "お二人の格好だと\nこの国では目立ちますし、\n暑いですから\n着替えた方がいいですね。\nほら、\nこっちに服屋もありますよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "It was certainly quite hot inside of the carriage.\nSome lighter clothing would really be nice.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "確かに\n馬車の中でも\nかなり暑かったね。\n着替えられるなら助かるよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Then we'll go there while you should stay...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "じゃあ\nちょっと行ってくるわね。\nあんたはここで……"
+    },
+    {
+      "name": "Saren",
+      "text": "What do you mean by that!\nThere's no way we can change clothes together!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょっと！　\n一緒に着替えようとしない！"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} and the others arrived at the palace, explained their situation, and was immediately brought to an audience with the king",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "宮殿へたどり着いた{0}たちは、\n事情を話すと、すぐに謁見の間へと通された。"
+    },
+    {
+      "name": "King",
+      "text": "Ohh, our country's emblem is engraved on this lamp!\nThis is a once lost national treasure and now it has finally returned.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "おお、\nこのランプに刻まれたるは我が国の紋章！\nかつて失われた、\n国宝が戻ってこようとは。"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Saren-neechan.\nIs that person the king of Salasaria?",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "サレンおねえちゃん。\nあの人がサラサリアの国王さまですか？"
+    },
+    {
+      "name": "Saren",
+      "text": "Yeah, he's a very important person.\nSo please be a good child, okay?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ええ、\nとっても偉ーい人なの。\nお願いだから\nいい子にしててね。"
+    },
+    {
+      "name": "King",
+      "text": "Are you the one who found this lamp?\nThank you for delivering it back here, you have my thanks.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "このランプを見つけたというのはそなたらか？\nよくぞ届けてくれた。\n礼を言う。"
+    },
+    {
+      "name": "Saren",
+      "text": "This is our first time meeting, Your Majesty.\nMy father asked me to present this item──",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "お初にお目にかかります、\n国王陛下。\n我が父より、\nこの品を献上せよと申し付かり──"
+    },
+    {
+      "name": "King",
+      "text": "It's fine, you don't have to be so formal with me.\nYour father and I are old friends so I'm glad to receive a visit on this occasion.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "よいよい。\n堅苦しい言葉はやめよ。\nそなたの父とは古い友じゃ。\n此度の来訪、\nうれしく思うぞ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Then if you'll excuse me... so you know of my father before? Why did you request my father to search for this lamp?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "では、\n失礼して……\n国王さまは\nあたしの父と\nお知り合い、\nなんですよね？\nランプ探しを父に頼まれたのは\nどういう──"
+    },
+    {
+      "name": "King",
+      "text": "So he didn't say anything to you, I wonder how many years ago has it been... When an ambitious young merchant like him came to Salasaria.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "なんじゃ、\nあやつ何も話しておらんのか。\nああ、\nもう何年前の話になるかのう……\n野心に燃えた若い商人が、\nここ\nサラサリアにやってきたのは。"
+    },
+    {
+      "name": "King",
+      "text": "After succeeding my father's as the king, I somehow got along with him. I talked with your father for many nights, and on one of those night I asked for his help in finding the lamps we've lost.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "父王の後を継いだばかりのわしと、\n不思議と話が合ってなあ。\n幾夜も語りあかしたものよ。\nその時に頼んだのじゃ、\nそなたの父御にな。\n失われたランプを見つけ出してくれ、と。"
+    },
+    {
+      "name": "King",
+      "text": "Our country a long time ago lost a magic lamp that can grant wishes. I wanted to use it for the sake of the people in this country.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "かつて大昔に\n我が国から失われた、\n願いを叶える魔法のランプをな。\n我が国の民のために、\n役立てたいと\nそう思ったのじゃ。"
+    },
+    {
+      "name": "Saren",
+      "text": "A magic lamp...?\nI heard that it was a national treasure, but...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "魔法のランプ……？\n国宝だとは聞いてますけど……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Being able to grant you wishes sounds like a fairy tale.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "願いを叶えるとは、\nまた\nおとぎ話みたいな話だね。"
+    },
+    {
+      "name": "King",
+      "text": "Correct, it might just be a fairy tale.\nAfter all, it's an old story from an ancient time many generations before me.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "その通り。\nおとぎ話かもしれん。\nなにせ、\nわしより何代も前の\n古き時代の昔話じゃ。"
+    },
+    {
+      "name": "King",
+      "text": "In this country, many magical ores are mined here and that leads into many magic tools being created.\nThis lamp is one such example.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "我が国では\n魔力の籠もった鉱石が採れるゆえ、\n数多くの魔道具が生まれた。\nこのランプも\nそのうちの一つでな。"
+    },
+    {
+      "name": "King",
+      "text": "But great power brings upon disasters.\nWhen other country went after us, we had to rely heavily on the magic tools... The country fell into chaos both internally and externally.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "しかし\n強大な力は災いを呼ぶ。\n他国に狙われ、\n争いの中で\n国民は魔道具に頼り切り……\n国の内も外も、\n大きな騒乱に巻き込まれていった。"
+    },
+    {
+      "name": "Saren",
+      "text": "The king must've been sad.\nDepending on magic tools and having conflicts spread in your country doesn't look good for their future.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "王様は\n悲しんだでしょうね。\n道具に頼って\n争いが広がるなんて\nいい未来につながるわけがないもの。"
+    },
+    {
+      "name": "King",
+      "text": "Correct. Regretting this, the king from a long time ago sealed away the powerful magic tools so that no one can use it again...\nAnd just like that, the magic tools are gone.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "然り。\nそれを嘆いた、\n遥か昔の国王は\n強大すぎる魔道具を封印し、\n誰も触れられないようにした……\nと\nいわれておる。\nいつの間にか無くなっておったがな。"
+    },
+    {
+      "name": "Ruka",
+      "text": "When you hold too much power, it stops being a good thing.\nNo matter the person, when they are swayed by their desires, they end up in the abyss. It sure would be nice if there's a bottom to it.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "力なんか持ちすぎると、\nロクなことにならないよ。\n誰も彼も、\n欲望に振り回された先は\n奈落の底さ。\n底があれば、\nまだいいけどね。"
+    },
+    {
+      "name": "Saren",
+      "text": "But then... if that lamp is the real thing, will it really grant wishes?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "でも、\nそれじゃ……\nそのランプが本物だったら\n願いは叶うってこと？"
+    },
+    {
+      "name": "King",
+      "text": "Then let's test it, now what to wish for...\nHmm, I've decided one.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "物は試しじゃ。\n何を願うかのう……\nうむ、\n決まった。"
+    },
+    {
+      "name": "King",
+      "text": "Lamp, please grant me this wish.\nI wish for a grand banquet for these people who has come to our country!",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "ランプよ、\nわしの願いを叶えてくれ。\n我が国に訪れたこの者たちのために、\n盛大な宴を！"
+    },
+    {
+      "name": "Saren",
+      "text": "...Nothing happened.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……何も\n起きないわね。"
+    },
+    {
+      "name": "King",
+      "text": "Well, I guess fairy tales are just fairy tales.\nLegends from ancient times are usually exaggerated.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "まあ、\nおとぎ話はおとぎ話だったわけじゃな。\n大昔の伝承など、\n大げさに脚色されるが常ゆえ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Too bad, I wanted to see what a magical banquet would look like.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "残念、\n魔法の宴ってのがどんなのか、\n一度拝んでみたかったね。"
+    },
+    {
+      "name": "King",
+      "text": "Well, we still can throw a normal banquet.\nYou've brought back our country's treasure so please let me treat you.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "なに、\n人の宴も捨てたものではないぞ。\n我が国の宝を持ち帰ってくれたのじゃ。\n是非、\nそなたらをもてなさせてくれ。"
+    },
+    {
+      "name": "Narration",
+      "text": "After a while, {0} and the others were taken by the king's messenger and is led to the mansion where a welcome banquet are going to be held.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それからしばらく後──\n{0}たちは国王の使者に連れられ、\n歓待の宴が開かれる屋敷へやってきた。"
+    },
+    {
+      "name": "King",
+      "text": "Oh, there you guys are.\nThe banquet is ready.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "おお、\nそなたら。\n宴の準備はできておるぞ。"
+    },
+    {
+      "name": "Saren",
+      "text": "King, this place is...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "国王さま、\nここは……？"
+    },
+    {
+      "name": "King",
+      "text": "This is a mansion for guests of ours.\nYou can use this mansion freely during your stay in Salasaria.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "客人用の屋敷じゃ。\nそなたらがサラサリアに滞在する間は、\nこの屋敷を自由に使うがよい。"
+    },
+    {
+      "name": "Servant",
+      "text": "Thank you for staying here.\nHere are our favourite drinks.",
+      "choice_data_list": [],
+      "orig_name": "従者",
+      "orig_text": "ようこそお越しくださいました。\nみなさま、\nお好きなお飲み物を。"
+    },
+    {
+      "name": "Saren",
+      "text": "I'll have one... Oh, it's really delicious.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "いただきます……\nあら、\nおいしい。"
+    },
+    {
+      "name": "King",
+      "text": "That said, what kind of relationship do you people have? You look surprisingly close with each other.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "そういえば、\nそなたらはどのような関係じゃ？\n随分と親し気にしておるが……"
+    },
+    {
+      "name": "Saren",
+      "text": "I'm really sorry, I wanted to explain it before but we actually are...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "申し訳ありません。\n国王さまにご説明しようと思ってましたが、\nあたしたちは……"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "They are newlyweds.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "この方々は\n仲睦まじいご夫婦なのです。"
+    },
+    {
+      "name": "Saren",
+      "text": "N-newlyweds!? T-that's...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふ、\n夫婦！？　\nって、\nそれは……！"
+    },
+    {
+      "name": "King",
+      "text": "Humu, I did think you were a bit too close to be attendants.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "うむ、\nやっぱりのう。\nわしの見立て通りじゃ。\n付き人にしては\n妙に距離感が近いと思っておった。"
+    },
+    {
+      "name": "Saren",
+      "text": "N-No there's a misunderstanding.\nThere's a good reason for all of this──",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "い、\nいやですわ、\n国王さまったら。\nこれには事情がありまして──"
+    },
+    {
+      "name": "King",
+      "text": "What are you saying, you even have your arms wrapped around {0}-dono right now.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "何を言う、\n今も{0}殿に腕を絡めて\nぴったり寄り添っておるではないか。"
+    },
+    {
+      "name": "Saren",
+      "text": "Eh? ...Since when!?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "えっ？　\n……はっ、\nいつの間に！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Saren... You're really taking advantage of this...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "サレン、\nアンタ……\n夫婦ってのは方便だったはずじゃ……"
+    },
+    {
+      "name": "Saren",
+      "text": "Wait a minute, Ruka! It's a misunderstanding!\nDon't look at me with such judging eyes!\nI don't know what happened to myself...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ルカさん待って。\n誤解よ！　\nそんな白い目で見ないで！\nあたしにも、\nなにがなんだか……"
+    },
+    {
+      "name": "King",
+      "text": "That said, Ruka-dono is also grasping {0}-dono's other hand. Those hands are locked so passionately as if you won't let it go for anything.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "そういうルカ殿も、\nサレン殿の反対側で\n{0}殿の手を握っておるな。\n離すまいと\n情熱的に指を絡め合っておる。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Huh? ...Ehh, since when!?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なっ？　\n……ええ！？　\nいつの間に！？"
+    },
+    {
+      "name": "Saren",
+      "text": "Ruka-san...\nAdmonishing others even though you're doing it yourself...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ルカさん……\n人に言っておいて、\n自分だって……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Wait a minute! Why did I...?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ちょっと待っとくれ！\n何が、\nどうなって……？"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Everyone sure is getting along nicely. It really is nice when husband and wives get along well with each other.\nDon't you think so, Saren-neechan?",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "みなさん、\nとても仲がいいですね。\nやっぱり\n夫婦は仲良しなのが一番ですっ。\nサレンおねえちゃんたちも、\nそう思いませんか？"
+    },
+    {
+      "name": "Saren",
+      "text": "Eh...? Yeah... We are a married couples after all.\nThat's why these are all normal...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "えっ……？　\nそう……\nあたしたちは\n夫婦だものね。\nだったら、\nこれくらい普通よね……？"
+    },
+    {
+      "name": "Ruka",
+      "text": "...We're married couples so we have to do things properly.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……夫婦だったら、\nちゃんと\nしなきゃ\nいけないね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Isn't that something on your mouth?\nDon't move... you can't reach it, right?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん、\n口元に\n何か付いてるよ？\nこら、\n動くな……\n取れないだろう？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I-I'm not used to doing this either.\nSo please help me out a bit... there.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "こっ、\nこっちだって慣れてないんだ。\nちょっとくらい協力しておくれ……\nうん、\nよし。"
+    },
+    {
+      "name": "Saren",
+      "text": "Then I'll feed you. Look, which one do you prefer?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "じゃあ、\nあたしは料理を食べさせてあげる。\nほら、\nどれがいいの？"
+    },
+    {
+      "name": "Saren",
+      "text": "Come on, don't hold back from eating it.\n...I'm embarassed doing this too, so hurry up and eat it! Ahhhhn～",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こら、\n遠慮しないの。\n……あたしだって恥ずかしいんだから、\n早くする！\nそれがいいのね。\nじゃあ、\nあ～ん♪"
+    },
+    {
+      "name": "Saren",
+      "text": "How is it? Does it taste good? ...Fufu, I'm so glad♪",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "どう？　\nおいしい？　\n……ふふっ、\nよかった♪"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, why are you just giving Saren attention?\nWhat a bad husband...\nThere, now you won't see anyone else but me.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ちょっとお前さん、\nサレンの方ばっかり見てないかい？\nそんな悪い亭主は……\nこうだっ。\nこれでアタシしか目に入らないだろう？"
+    },
+    {
+      "name": "Saren",
+      "text": "Ah～ Hang on Ruka-san! You can't just hog him all for yourself! I want to join too...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あーっ！　\nちょっとルカさん！\nひとり占めするなんてずるいわよ。\nあたしだって……！"
+    },
+    {
+      "name": "King",
+      "text": "Humu, this too is youth.\nEnjoy the banquet to your hearts content!",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "うむうむ、\nこれも若さゆえじゃの。\n存分に睦まじく\n宴を楽しむがよいぞ。"
+    },
+    {
+      "name": "King",
+      "text": "Oh, that's right!\nI called a traveling musician for this banquet.\nPlease come in.",
+      "choice_data_list": [],
+      "orig_name": "国王",
+      "orig_text": "おお、\nそうじゃ！\nこの宴に旅の楽師を呼んでおったんじゃ。\nこれ、\n入って参れ。"
+    },
+    {
+      "name": "Chika",
+      "text": "Please excuse me, King. This journey has been──",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "失礼いたします。\n国王さま、\nこの度は──"
+    },
+    {
+      "name": "Saren",
+      "text": "Then, this side is for me.\nAnd that side is for Ruka♪",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "じゃあ、\nこっち側はあたしが。\nそっち側はルカさんのものってことで♪"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, don't move so much... Is my clothes too ticklish?\nThen I'll take it off... Is this much alright?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "こら、\nお前さん。\nもぞもぞしない。\n……布が当たって\nくすぐったい？\nじゃあ\n外すから……\nほら、\nこれでいいかい？"
+    },
+    {
+      "name": "Chika",
+      "text": "──Goodbye...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "──ありがとうございました～……"
+    },
+    {
+      "name": "Saren",
+      "text": "Chika-san, what are you surprised of?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "チカさん、\n何を驚いてるの？"
+    },
+    {
+      "name": "Chika",
+      "text": "No, well...! What happened to both you and Ruka-san?\nYou're both hugging him like lovers...!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "いや、\nだって……！\nサレンさんもルカさんもどうしたんですか？\n二人して、\nそんな恋人みたいに抱き付くなんて……！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yeah? Of course we are, after all──",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "うん？　\n当然じゃないか。\nだって──"
+    },
+    {
+      "name": "Saren & Ruka",
+      "text": "We are married.\nWe are married.",
+      "choice_data_list": [],
+      "orig_name": "サレン・ルカ",
+      "orig_text": "あたしたち、夫婦だもの。\nアタシたち、夫婦だもの。"
+    },
+    {
+      "name": "Chika",
+      "text": "M-Married...? Eh?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ふ、\nふう……？　\nえっ？"
+    },
+    {
+      "name": "Saren",
+      "text": "We're saying, both of us...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "だから、\n二人とも、"
+    },
+    {
+      "name": "Ruka",
+      "text": "Married.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "夫婦。"
+    },
+    {
+      "name": "Chika",
+      "text": "I-I see... Married...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "そ、\nそうですか……\nふ、\n夫婦……\nなんですね。"
+    },
+    {
+      "name": "チカ",
+      "text": "はっ……！　\n思わず現実逃避してしまいました……！　",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "はっ……！　\n思わず現実逃避してしまいました……！　"
+    },
+    {
+      "name": "Chika",
+      "text": "Both of them are really acting strange...\nSomething doesn't seem right...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "やっぱり二人とも様子がおかしいです……\n何か違和感が……"
+    },
+    {
+      "name": "チカ",
+      "text": "二人から感じるこれは……\n魔力の\n痕跡？　",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "二人から感じるこれは……\n魔力の\n痕跡？　"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Um... Chika-neesan?",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "えっと……\nチカ、\nおねえさん？"
+    },
+    {
+      "name": "Chika",
+      "text": "What about you...?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "あなたは……？"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "I'm sorry. It'd be troubling if Nee-san got in my way so I have to...",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "ごめんなさい。\nおねえさんに邪魔されちゃうと\nボク、\nちょっとだけ困っちゃうんです。\nだから……"
+    },
+    {
+      "name": "Chika",
+      "text": "Isn't this the same magical power I felt from those two...!? That means, this child is...? Not good, my consciousness...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "これは\n二人に感じたのと\n同じ魔力……！？\nだとしたら、\nこの子が……？　\nダメ、\n意識が……"
+    },
+    {
+      "name": "Chika",
+      "text": "...Eh? Why am I in this place...?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……あれ？　\n私、\nなんでここに……？"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Chika-neesan was invited by the king as a musician.\nThe king is still waiting over there, you know?",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "チカおねえさんは楽師として、\n国王さまに呼ばれたんです。\n向こうで国王さまがお待ちですよ？"
+    },
+    {
+      "name": "Chika",
+      "text": "...Oh, that's right.\nI was asked to sing for a banquet...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……あ、\nそう、\nでしたね。\n宴に、\n歌を頼まれて……"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "Phew... now everything should be fine.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "ふう……\nこれでだいじょうぶですねっ。"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "...King, I'm really sorry.\nI can't grant a new wish if the previous one isn't finished yet.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "……国王さま、\nごめんなさい。\n前のお願いが終わらないと、\n新しいお願いは\n叶えられないんです。"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "But... I will do my best.\nTo make all your wishes come true.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "でも、\nボク……\nがんばりますから。\nボクに願ってくれた、\nみなさんのお願いが\n叶うように。"
+    },
+    {
+      "name": "Saren",
+      "text": "But a trip... setting aside the wedding thing, I don't think I'll get bored with him around.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "でも、\n旅行かぁ……\n結婚前提かどうかはともかく、\nあいつといると退屈はしなさそうよね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Even though we often get caught up in mishaps... those still end up as good memories...\nIf we were to go, I wish it'd be a fun trip.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ハプニングに巻き込まれがちだけど……\nそれも思い出になるような……\n行けるなら、\nそんな楽しい旅行に行ってみたいわ。"
+    },
+    {
+      "name": "Foreign Child",
+      "text": "That's why... please enjoy this trip as much as possible.",
+      "choice_data_list": [],
+      "orig_name": "異国の子ども",
+      "orig_text": "ですから、\nどうか……\n存分に楽しんでくださいね。"
+    },
+    {
+      "name": "Narration",
+      "text": "The banquet became even more exciting when Chika joined Saren and the others.\nTheir loud voices echoed through the night.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サレンとルカたちにチカが加わったことで\nひときわ盛り上がった宴は、\n夜の帳ににぎやかな声を響かせるのだった。"
+    }
+  ]
+}

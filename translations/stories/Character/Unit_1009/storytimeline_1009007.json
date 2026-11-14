@@ -1,0 +1,571 @@
+{
+  "title": "Anna Episode 7",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day when {0} is out for a walk,\nthe tumultuous Annerose von Stechpalm descends upon him in a frenzy.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}が散歩していると、\n大慌てでシュテッヒパルムが近づいてきた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Listen to this, Sigurd!\nFinally... Finally, the Syndicate has emerged from the shadows!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "聞いてくれシグルド！\nついに……\nついに「機関」の活動が表面化したぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "The time has come for the Order of Gehenna Immortals\nto confront its greatest enemy!",
+      "choice_data_list": [
+        "They really exist, huh?",
+        "It... It can't be!"
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "我ら「熾炎戦鬼煉獄血盟暗黒団」の宿敵\n「機関」が\nついに動き出したのだ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "But of course!\nI speak nothing but the gospel truth!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "当たり前だ！\n私はいつも、\n真実しか語らないぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "A wonderful reaction! That's my Sigurd, all right!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "いい反応だ！　\nさすがはシグルドだな！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "If my intel is correct, it seems a group of villains\ncalling themselves the \\\"Syndicate\\\"\nhave been committing crimes all across the continent.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "情報によると、\nどうやら最近「機関」を名乗る連中が、\nこの大陸のあちこちで\n悪さをしているらしい。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Their specific identities and numbers are as yet unknown,\nbut a bounty has already been placed upon their heads.\nMany bounty hunters are competing to track them down!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "詳しい正体や構成員の人数はまだ不明だが、\n奴らにはすでに賞金がかけられている。\n多くの賞金稼ぎが\n「機関」を探している状況だ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Our archenemies have appeared...\nSo of course, we must face them ourselves!\nYou and I together will stop the Syndicate once and for all!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "奴らが動き出したのだ……\nならば、\n我々が出るしかあるまい！\n私と貴様で、\n「機関」と対決するぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "If I am to face them,\nI will need the support of my fellow Darkest Knight.\nWill you join me, Sigurd?",
+      "choice_data_list": [
+        "I'm with you."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "奴らと戦うには、\n同じ暗黒騎士である\n貴様の力が必要なのだ。\n協力してくれるか？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Ahh! No less from my comrade!\nI have already identified the location of the Syndicate's lair!\nLet us go now and face them!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "おお！　\n引き受けてくれるか！\nすでにヤツらの拠点の目星はつけてある！\nさっそく\n出撃だ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "If my intel is correct, the Syndicate's activities\nhave been centered on this volcano.\nIt must surely hide the location of their evil lair!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……私の調査だと「機関」の行動は、\n火山を中心に起きていた。\n奴らの拠点はここにあると見て、\n間違いないだろう。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...! I sense magical energy! ...There you are!\nYou can't hide from me, villains! Show yourselves!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "っ！　\n魔力を感じる……\nそこかっ！\n隠れても無駄だぞ！　\n出てこい！"
+    },
+    {
+      "name": "Syndicate Member 1",
+      "text": "Heh heh heh...\nTo think you saw through our ruse.",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "ふっふっふ……\nバレてしまっては\n仕方ないな。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Are you... the Syndicate?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……貴様らが\n「機関」か？"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "Indeed we are!\nFeast your eyes upon those destined to\nspread chaos in this world! The Syndicate!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "その通り！\n我らこそ、\n世界を混沌に陥れる存在──\n「機関」である！"
+    },
+    {
+      "name": "Syndicate Member 3",
+      "text": "We are the chosen few. Once rulers of a world now fallen,\nthis world too will soon be ours!\nShould humanity oppose us, we shall obliterate them!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員３",
+      "orig_text": "我らは選ばれし者。\n旧世界の支配者たる我々こそが、\nこの新世界も支配するべきなのだ。\n邪魔する人類は滅ぼすまでのこと……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Did you hear that, Sigurd?! The Syndicate really does exist!\nAnd those words just now... You fiends must be\nthe tyrants who tried to rule our old world... The Planetary Arbiters!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "聞いたかシグルド！？　\nやはり「機関」は存在したのだ！\nそれに\n今の言葉……\n貴様らは\n旧世界を支配しようとした、\n星の裁定者……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "So the Arbiters founded the Syndicate to conquer this world too,\nand build an new empire of tyranny! But you shall go no further!\nFor we are those who stand in the Syndicate's path!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "「機関」は裁定者どもが\nこの世界を征服するために作った、\n人類支配のための統治機構……！　\nそうはさせんぞ！\nなぜなら、\n我らは「機関」に抗う者！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "Whaaaat?!\nBut that would mean...! Can it be?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "なにぃ……！？\nということは貴様、\nまさか……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Yes, it is I! Grand Regent of the Order of Gehenna Immortals,\nAnnerose von Stechpalm!\nBetter known as... Hecate of the Gale!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "我こそは、\n「熾炎戦鬼煉獄血盟暗黒団」団長……！\nアンネローゼ・フォン・\nシュテッヒパルム！\n人呼んで、\n疾風の冥姫！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I will never allow a second coming of Ragnarök!\n'Tis our duty as Darkest Knights to face the Planetary Arbiters!\nThough the old world has fallen, I will not cease to defy you!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "旧世界での終焉戦争を忘れたとは言わせんぞ……！\n我ら暗黒騎士の使命……\n星の裁定者の打倒！\nこの新世界においてもなお、\n私は貴様らと戦おう！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "As long as I draw breath, your evils will not go unpunished!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私がいる限り、\n貴様らの好きにはさせない！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "Hecate of the Gale...! What a fantastic backstory!\nMy brothers, is this girl not the ultimate talent?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "疾風の冥姫……！　\n……なんと素晴らしい設定！\nお前たち、\n彼女は最高の逸材だ！"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "I feel mortified just watching her!\nThis is precisely the turn of events we have longed for!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "この身を切るような痛々しさ……！\n私たちはまさに、\nこういう展開を期待していたんだっ！"
+    },
+    {
+      "name": "Syndicate Member 3",
+      "text": "...Your bravado is most impressive.\nHowever, do you really think you can stand in our way?!\nThe Syndicate's power is not to be taken lightly!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員３",
+      "orig_text": "……威勢が良いのは結構。\nだが、\nお前ごときに我々を止められるかな？\n我ら「機関」の力、\n舐めてもらっては困る！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "We will not yield!\nDestroying you is my life's purpose!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "止めてみせる！\n私の命に代えてでもっ！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "...By the way, who's the fellow standing beside you?",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "……ところで、\n隣にいるのは何者だ？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Beside me...?\nAh! This is...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "隣……？\nああ、\nこの男は……"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "Hold it! Let the guy introduce himself, why don't you?!\nObviously it'll be far cooler that way!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "待てっ！\n　\nそこは本人に名乗らせるところであろう！\nその方が……\nカッコいいからなっ！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "U-uhh... I cannot deny that it would be cool,\nbut Sigurd is not exactly cut out for...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "い、\nいや……\nカッコいいのは私も同意だが、\nしかしシグルドは、\nこういうことは……"
+    },
+    {
+      "name": "Syndicate Member 3",
+      "text": "What's wrong?\nDon't tell me he...\nhas not yet awakened his memories of the old world?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員３",
+      "orig_text": "どうした？\nまさかその男……\n前世の記憶を取り戻していないのか？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Well, um, that's true, he hasn't...\nBut there can be no doubt that he is my comrade of old!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "それは、\n確かにそうだが……\n彼は間違いなく、\n私の前世からの盟友だ！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "Lies! You are lying to our faces!\nJust look at the expression on his face!\nIt's got \\\"Huh???\\\" written all over it!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "嘘だ！\n　\n貴様は嘘をついている！\n隣の男の顔を見てみろ！　\nきょとん\nとしているではないか！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "Why, you... Are you trying to get an ordinary guy\nmixed up in our feud?! We may have left shame behind\nlong ago, but that's just shameful!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "貴様……\n我らとの戦いに、\n一般人を混ぜるつもりか！\n恥を忘れた我らがいうのもなんだが、\n恥を知れ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Wait a minute! You've got it all wrong...!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "待ってくれ！\n　\nそんなつもりは……！"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "I bet when you told him about your past lives, he didn't deny it,\nso you strong-armed him into joining in! ...Or worse,\nyou roped him into the whole thing from the start!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "大方ちょっと前世について話してみたら\n拒否られなかったから、\nソイツも仲間に入れてみただけだろう？\n……\nいや、\nあるいは\n単に貴様が巻き込んだだけだな？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "H-how do you know all...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "な、\n何故それを……！"
+    },
+    {
+      "name": "Syndicate Member 3",
+      "text": "Hahahah! I knew it!\nFor all your bluster, you're only second-rate!\nYou have no integrity!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員３",
+      "orig_text": "はっはっはっ！　\n図星か！\nなんだ貴様、\n大したことないな！　\nまるでなってない！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "That guy is only tagging along with you out of pity!\nYou're such an embarrassing loner, he feels he has to humor you!\nHow could you fail to see that until now?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "そいつが貴様に付き合ってくれているのは、\nただの憐みだ！\nぼっちで\n痛い\n貴様のために、\n一緒にいてやっているだけだ！\nそれになぜ今まで気づかなかった！"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "Unlike the two of you, we all share the same world,\nthe same former life! And you think your feeble partnership\ncan match the strength of our bonds?! Really?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "貴様と違って\n我らは同じ世界、\n同じ前世を共有している！\nこの絆の強さと痛さに、\n貴様とその男は勝てるのか？\nどうなんだ！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "W-well, I...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そ、\nそれは……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd... Is it true? Do you pity me...?\n...Of course you do. I can't expect anyone in this plane\nto truly accept my world... I knew that from the start...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド……\n貴様はやはり、\n私を憐れんで……\n……\nそうだろうな。\n私の世界を受け入れてくれる者など、\nこの世界のどこにもいない……\n分かっていたことじゃないか。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...Yet like a fool, I kept taking advantage of your kindness...\nI have a duty to put an end to this...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……それなのに、\n私は彼に甘え続けてしまいました。\nこんなことはもう、\n終わりにしないと……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...These people are quite right, Sigurd.\nYou don't need to force yourself.\nJust go back to the city...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……彼らの言う通りです、\nシグルド。\n無理はしないでください。\nあなたは街に戻って。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...Thank you for playing along with me all this time.\nNow, leave me.\nThese villains are mine alone to face!",
+      "choice_data_list": [
+        "I am Sigurd of the Fulgor!"
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……今まで\n私に付き合ってくれて、\nありがとう。\nさあ\n行って。\n彼らとは、\n私だけで戦います。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd...! Do you mean...?!\nYou are a fine man indeed!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド……！　\nあなたは……！\n……貴様という男は！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "That introduction... Can it be?!\nYou too are one who has cast your shame into the furnace?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "その名乗りは……\nまさか！\n貴様もまた、\n同じ痛みを持つ者だったということか……！"
+    },
+    {
+      "name": "Syndicate Member 3",
+      "text": "Wonderful!\nThe two of you are exactly the archenemies we have been seeking!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員３",
+      "orig_text": "最高だ……！\n我々はずっと、\nお前たちのような者を待っていた！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "B-but... Sigurd... Are you sure about this?\nCan I really call you Sigurd of the Fulgor...?\nMy comrade of old?",
+      "choice_data_list": [
+        "In the depths of Gehenna, a gale arises!"
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "だが……\nシグルドよ。\n本当にいいのか？\n私はまた貴様を、\n閃光のシグルドと……\n盟友と呼んでも……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Those words... That is our unholy pact!\nThank you, Sigurd! There is no more need for words!\nFor we have our bond that has crossed worlds!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "その言葉は\n我らの、\n誓いの言葉……！\n……ありがとう、\nシグルド！　\nもはや我らに言葉はいらぬ！\n前世からの\n絆があるからな！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hear that, villains?! This man is Sigurd of the Fulgor!\nThe hero who fought beside me till Ragnarök claimed our bones!\nMy glorious Zweiritter, and fellow Darkest Knight!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……聞いたな貴様ら！\n　\nこの男は、\n閃光のシグルド！\n私と共に前世で、\nその身が朽ちるまで戦い続けた……\n栄えある「第二連隊長」の称号を持つ、\n暗黒騎士だ！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "So this is Sigurd of the Fulgor!\nHow could I not see...?! Now this is getting interesting!\nCome, let us do battle and seal this world's fate forever!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "彼が\n閃光のシグルド……！？\nそう\nだったのか……！　\n面白くなってきた……！\nさあ、\n世界の命運をかけ、\n勝負といこうではないか！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Today, the Order of Gehenna Immortals\nwill face the Syndicate and end their foul schemes!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "我ら「熾炎戦鬼煉獄血盟暗黒団」が、\n貴様たち「機関」を、\n打ち滅ぼす！"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "You think you can beat us?! Let's see you try!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "やれるものならば、\nやってみよッ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Thank you, Sigurd. You really are my truest comrade.\nAnd now, I must live up to your grand expectations!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……ありがとう、\nシグルド。\n貴様はやはり、\n私の盟友だ。\n今こそ、\nその友誼に全力で報いる時っ……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Magicks sealed within this eye of mine...\nGo free at last!\nEvil Eye, Open! Extreme Edition!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "我が瞳に込め続けた魔力を……\n全て解き放つ！！\n極・魔瞳開眼ッ……！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "Wait a minute... What kind of magical energy is that?!\nDon't tell me this girl is really planning to destroy us?!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "ちょっと待て……\nアイツの魔力の量はなんだ！？\nまさか\n本気で我々とやり合うつもりだったのか！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Magicks of deepest shadow, contort the world into my image!\nMay the howling gale reap souls, as the clouds of fulmination\nconceal the open blue!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "──闇より出でし魔の力、\n世界を歪め\n我がものとせよ……\n疾風の咢は魂を屠り、\n閃きをもたらす曇天が\n蒼穹を覆い尽くす！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Cry, my pealing bolts! Run wild, run wild, run wild!\nPierce through all that stands before you\nwith the blinding beacon born of darkness!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "雷鳴は歓喜の叫び！　\n奔れ、\n奔れ、\n奔れ！\n立ちはだかる全てを貫け、\n暗黒より生まれし天光よ！"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "This ain't what I signed up for! Dammit! There's no time\nto cast any magic that can stand up to all this!\nWh-what are these chains?! H-hey! Let me go!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "ずるいぞ\nこんなのっ！　\nくそっ！　\n今からじゃ、\nこれだけの魔力に対抗できる魔法なんて……！\nなんだこの鎖はっ！？　\nこの、\n放せっ！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Never shall the chains of binding release thy souls!\nBlades of brilliance! End these sinners' misery!\nSoul Punishment Chain Lightning Slash!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "呪縛の鎖が捕えしは、\n汝らの魂……！\n魔刃よ、\n咎人を滅せよ！　\n「滅光鎖縛焼魂刃雷覇」！！！"
+    },
+    {
+      "name": "Syndicate Member 3",
+      "text": "What is all this power?!\nYou mean to tell me... we've lost?!\nG... Guaaaaarrrghhhhh!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員３",
+      "orig_text": "なんという力だ……！？\n我々が敗れる……\nだとっ！？\nぐ、\nぐわぁああああ！"
+    },
+    {
+      "name": "Syndicate Member 2",
+      "text": "This can't be happening!\nThe mighty Syndicate can never faaaaall!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員２",
+      "orig_text": "そんな馬鹿なぁぁぁぁっ！\n我ら「機関」は、\n永久に不滅だあぁぁぁっ！！"
+    },
+    {
+      "name": "Syndicate Member１",
+      "text": "You'll see! Others will rise to take our place!\nW-wuaaaarrrgghhhh!",
+      "choice_data_list": [],
+      "orig_name": "機関構成員１",
+      "orig_text": "だが、\nすぐに第二第三の我々が……っ！\nぐああああああっ……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Before my Evil Eye... All shall perish!\nHeheheh... Hahahah... Ahahahah!\n...I think... my magic's all drained...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "我が魔瞳の前に……\n敵は\nないっ！\nくっくっくっ……\nはっはっはっ……\nはーっはっはっはっ！！\n……もう魔力が空っぽだ……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...Well, Sigurd. I guess that's another job well done.\nI just finished signing them over to the authorities.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……シグルドよ、\n今回も\nご苦労だったな。\n奴らの引き渡しは\n無事に終わったよ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "The truth is... It turned out they named themselves\nafter the Syndicate that appears in the books I write.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "実は……\n彼らが機関を名乗っていたのは、\n私が書いた本に影響されたからだったと判明したのだ……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "According to their own testimony... They read the Gale Chronicles\nand were spurred by a wave of adolescent inspiration\nto found the Syndicate and commit crimes in that name...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "本人たちの供述によれば……\n冥風戦記を読み、\n思春期特有の妄想に没入していった結果、\n「機関」を名乗って\n色々と悪さをしていたらしい……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Tired of the drudgery of everyday life, they used my creation\nto envision themselves as dark enemies of the entire world...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "日常に退屈していた彼らは、\n私の作品を利用して、\n自分たちを世界的な犯罪組織と思わせたかったそうだ……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...And the worst thing is, when I was fighting them,\nI felt more alive than I had ever been...\nI have no right to call myself any better than them...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……不覚にも私は、\n彼らと戦っている時、\nとても楽しいと感じてしまった……\n私には決して、\n彼らのことを悪く言えないのだ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'd always dreamed of doing battle for the fate of the world...\nSo when those fantasies manifested in front of me...\nFor a moment, the wonder of it all blinded me.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ずっと望んでいた、\n世界の命運をかけて戦っているような……\nそんな妄想が\n目の前に具現化したようで……\nあの時は、\nとてつもない高揚感に包まれていた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "But I swear, I never meant to encroach on reality\nand endanger people like they did!\nPlease believe me on that, if nothing else...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しかし私は\n彼らのように、\n現実を侵食するつもりは、\nこれっぽっちもなかったのだ！　\nそれだけは、\n信じて欲しい……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "And yet, it was my fantasies... uh, my written works...\nthat twisted their hearts. How can I atone for that?\nPerhaps it's best if I put all of this behind me, forever...",
+      "choice_data_list": [
+        "Please don't do that."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "だが、\n私の妄想……\nに\n近い作品が、\n彼らを歪めてしまった。\nそれは\n許されることじゃない……\n私はもう、\nこういったことを\nやめるべきなのかも知れない……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "It's easy to say that... But one wrong step, and I\nmight have ended up just like them...\nNo, it might even still happen in the future...",
+      "choice_data_list": [
+        "If it does, I'll stop you."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そうは言うがな……\n一歩間違えれば私も、\n彼らのようになっていたかも知れない……\nいや、\nこれからそうなる可能性だって……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "{0}... Thank you.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "{0}……ありがとう。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "You're right, of course...\nI have you... Sigurd by my side!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そうだったな……\n私にはシグルド──\n貴様がいる。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "With a comrade whose soul is bound so close to mine,\nhow could I stray from the right path?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "魂の絆で結ばれた盟友と共にあれば、\n道に迷うことなどない！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Even if others choose the path of destruction...\nWe can stop them, together! Isn't that right, Sigurd?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "たとえ道を違えた者がいたとしても、\n私たちで正せばいい……\nそうだろう、\nシグルド！"
+    },
+    {
+      "name": "Narration",
+      "text": "And with those words, the exultant Annerose von Stechpalm\ngave a smile as bright as the sun.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そう言って、笑顔を見せるシュテッヒパルムであった。"
+    }
+  ]
+}

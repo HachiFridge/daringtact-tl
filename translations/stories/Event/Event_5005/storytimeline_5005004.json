@@ -1,0 +1,498 @@
+{
+  "title": "The Terrible Truth",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Hoping to develop their island further,\nTamaki, Mifuyu and {0} set out to explore a cave\nthat they have not yet ventured inside.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "タマキとミフユと{0}は、\nさらに島を開拓しようと、今まで行ったことのなかった\n島の洞窟へ足を踏み入れようとしていた。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "To make even more of this island our own...\nThe Tamaki Explorers have returned!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "この島をさらに発展させるため、\nタマキ探検隊再結成にゃー！"
+    },
+    {
+      "name": "Cats",
+      "text": "Meow!",
+      "choice_data_list": [],
+      "orig_name": "猫たち",
+      "orig_text": "にゃー！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Hold on, Tamaki.\nCould you not mix me up in this strange new team of yours?\nStill, this cave certainly seems to have been around for some time...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ちょっとタマキさん、\n変な探検隊に私を巻き込まないでくれる？\nでもここ、\nずいぶん古くからありそうな洞窟ね……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "It's got a weird sort of atmosphere.\nOh, I knyow! Let's make this our very own temple!\nThen we can be worshipped as gods! I'll be the cat goddess!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "なんだか、雰囲気が違う感じだにゃ。\nそうだにゃ、\nここに神殿を作るとかどうかにゃ～？\nそしてあたしたちが神として祀られるにゃ～！\n　猫神様にゃ～！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Oh, that does sound nice!\nBut I'm tempted to make it a hot spring bath.\nBathing in a cave like this has a certain appeal, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あら、\nいいわね！\n　でも、\n温泉にするのも良くない？\n洞窟風呂っていうのも、\nけっこう風情があるわよ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ooh, that's nyot bad either!\nCave-bathing sounds like a profit opportunity...\nHmmm... Which is best...?",
+      "choice_data_list": [
+        "Tamaki, what's that on the ground?",
+        "Mifuyu, watch where you step."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "それも悪くないにゃ～。\n洞窟風呂できっとまた一儲けできるにゃ。\nう～ん、\n迷うにゃ～……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Hmm? Oh, nyicely spotted!\nIs this... a sheaf of paper?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ん？\n　ほんとだにゃ～\nこれは、\n紙の束……？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Good point. I wouldn't want to trip over anything... Oh?\nThere's something lying on the ground...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね。\n足を滑らせないようにしないと……\nあらっ？\nそこに何か落ちてるわ？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "It's rather old and tattered, but this is a diary!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ずいぶん古びてるけど、\nこれ手帳だわ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Then we've finally found our first sign\nof other people here before us!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あたしたちの前にいた人の痕跡が、\nようやく\n見つかったにゃ～！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Very true! But what could have happened to the owner?\nI haven't seen any particularly nasty monsters around...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね！\n　\nでも、\nこれの持ち主はどうなったのかしら……\nここにはそんなに強い魔物はいないはずだけど……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Let's read the diary and see what it says!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "さっそくその手帳、\n読んでみるにゃ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yes... Let's see now...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "うん……\nなになに……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"Some time has passed since our pirate crew washed up on this island.\nMy crewmates are partying the days away with reckless abandon,\nbut I alone investigated the island and uncovered its secret.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『我々海賊団がこの奇妙な島に漂着してしばらく経った。\n仲間たちは連日酒池肉林の宴を楽しんでいるが、\n私だけはこの島を調査し、\n真相を突き止めた』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"This island is in fact a gigantic monster.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『この島は、\nこの島自体が魔物なのである』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"The island seems to grant dreams, but the truth of the matter\nis that all the wonders we enjoy within its bounds\nare illusions created by this great Island Whale.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『どんな願いも叶う夢の島……\nのように思わせているが、\n私たちがこの島で享受しているものは、\n実際は\n「島クジラ」という魔物が作りだした幻想に過ぎない……』"
+    },
+    {
+      "name": "Tamaki",
+      "text": "O-oh nyo! What a shocker!\nB-but actually, I guess things have been\ngoing unnyaturally well since we washed up here!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "な、\nなんてことにゃ！\nで、\nでも確かに、\nこの島に来てから、\n何もかもうまくいきすぎてたにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Now that I think about it, the Tamaki Palace and my training dojo\ndo seem bizarrely well-crafted for the work of cats.\nWe were being deceived from the very beginning...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "冷静に考えると、\n猫たちが作ったにしては、\nタマキ御殿も訓練場も\n不自然なほどよくできていたもの。\n私たち、\n最初から幻想を見せられていたのね……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Even so... If it seems totally real to the both of us,\ncan you really call it just an illusion?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "でも……\n幻想でもあたしたちにそう感じられなかったら、\nそれは完全に幻想とも言えないんじゃないかにゃ？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Well... N-never mind that.\nLet's read a little more.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "それは……\nま、\nまあいいわ。\n続きを読むわよ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"Many times I have tried and failed to escape from this beast.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『私は、\n何度も脱出を試みたができなかった』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"Though for a time my crewmates enjoyed their time here,\nsoon they grew weak, and died one after another.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『一緒に島に漂着した仲間たちは楽しく暮らしていたが、\nやがて異常なスピードで衰弱して死んでいった……』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"The Island Whale is a monster that feeds on the desires of men.\nAs such, it lures humans with strong desires onto its body.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『島クジラは、\n人の欲望を養分にして生きている魔物なのだ。\nそのため、\n欲望の強い人間を選んで誘い込む……』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"And then, those who set foot here are drained of their desire,\nand ultimately of their very lives...\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『そして、\n島に入ってきた人間は欲望を搾り取られ、\nあっという間に死に至ってしまうのだ……』"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Then... if we stay here, we're all going to die?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "じゃあ、\nこのままじゃあたしたちすぐに死んじゃうにゃ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Oh—wait! There's still more here!\n\\\"However, one day, I had an idea.\nI am a weak man, so I cannot defeat the Island Whale.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あ、待って！？\n　まだ続きがあるわ！？\n『だが、ある日、\n私は思いついた。\n非力な私では\n島クジラを倒すことができない』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"So instead, I tried to negotiate with the beast.\nIf it released me, I told it, I would spread word of the island,\nso that others filled with desire would return in my place.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『だから、\n島クジラと交渉をすることにした。\nこの島の噂を外に広めて、\n欲深い者たちを\n誘い込む代わりに、\n私だけ解放してくれないかと頼んだのだ』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"And my plan was a success.\nBefore I depart, I leave this journal here as one final record\nof the truth I have learned in this foul place.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "『幸い交渉はうまくいった。\nこの手記は、\n万が一のことを考えて、\n今回の顛末を\n出発前の記録として残すものである』"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...I see...\nSo that's why we heard those rumors back on the coast...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "…………なるほど……\nそれで、海岸にこの島の噂が広がっていたのね……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "But hey, if this journal's for real,\nthat means the Island Whale can be bargained with, right?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "でも、\nこの手記によると、\n島クジラとは対話ができるってことなんだにゃ……？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "In that case... Our next step should probably be...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうしたら……\n私たちがとるべき行動は……"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile, back on the Marjan Coast...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その頃、マルジェン海岸──"
+    },
+    {
+      "name": "Tourist",
+      "text": "Wh-what's that flying this way?\nA bird? A monster? No...",
+      "choice_data_list": [],
+      "orig_name": "観光客",
+      "orig_text": "あ、\nあれはなんだ……？\n鳥か、\n魔物か……？\n　いや……"
+    },
+    {
+      "name": "Tourist",
+      "text": "Waaahhhhhh!\nAn airship is about to land on the beach!\nEveryone, get back!",
+      "choice_data_list": [],
+      "orig_name": "観光客",
+      "orig_text": "うわあああああ！\n砂浜に、\n飛空艇が着陸するぞーーー！\nみんな、\n離れろーーーーっ！"
+    },
+    {
+      "name": "Akino",
+      "text": "Ohohoh!\nWe have made our grand arrival on the Marjan Coast!\nThere's no means of transport faster than the Wisteria airship!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "おーっほっほ！\nマルジェン海岸に到着ですわーーーーっ！\nやはりウィスタリア家の飛空艇は高速ですわね！"
+    },
+    {
+      "name": "Yukari",
+      "text": "A-Akino, I think this may be going a little overboard...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あ、\nアキノさん、\nあんまり無茶しすぎるのはよくないかも……"
+    },
+    {
+      "name": "Akino",
+      "text": "Not at all! This is an emergency situation!\nI will make use of all means at my disposal!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "いいえ！\n　この緊急事態ですもの！\n使えるものは、\nなんでも使いますわよ！"
+    },
+    {
+      "name": "Akino",
+      "text": "Now then...\nThis is the area where Tamaki and Mifuyu were last seen\nbefore their disappearance.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "さて……\nこの海岸で、\nタマキさんとミフユさんは\n消息を絶ったようですわ。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hold on a minute. I'll go ask at the beach cafe over there\nto see if anyone's heard anything.\nExcuse me!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "ちょっと待って、\n私が誰か手がかりを持ってる人がいないか\n海の家で聞いてくるから……\nすいませーん……"
+    },
+    {
+      "name": "Yukari",
+      "text": "A-Akino! I found some information at the boat rental stall!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あ、\nアキノさーん！\n　貸し船屋に、\n二人を知ってる人がいたっ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Apparently, the two of them rented a boat along with a young man.\nAccording to the records, his name was {0}...\n...Wait, {0}?! N-no way!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "どうやら、\n二人は他にもう一人の少年と\n３人で船を借りたみたい。\n帳簿によると、\nその子の名前は{0}……\nって、\n{0}くんっ！？\n　う、\nうそっ！？"
+    },
+    {
+      "name": "Akino",
+      "text": "Sir {0} was here as well?!\nSo, what, the three of them sailed out together and never returned?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "{0}さまがいらしたの！？\nでは、\n３人は一緒に船に乗って、\nそのまま行方不明に？"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hmph... That's not fair at all... How could they leave me behind?\nWait, I guess I'm the lucky one, since they went missing...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "う～……\nずるいな、\nみんな、\n私を置いてっちゃうなんて……\nって、\nずるくもないか、\n行方不明になってるんだから……"
+    },
+    {
+      "name": "Akino",
+      "text": "Still, why would they go missing around here?\nFrom what I hear, the waters have been calm lately...\nWhat could have happened...?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "でも、\nこの辺りで遭難なんて……\nここ数日は\n海もおだやかだったそうですし……\nどうして……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Oh, there is one other interesting thing I heard.\nApparently there's a rumor going around here recently.\nSomething about an \\\"island that grants wishes\\\" in the waters nearby.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あ、\nそういえばこんなことも聞いたんだけど、\nこの辺りで最近噂になっていることがあって……\nこの海の近くに\n『願いが叶う島』\nというのがあるらしいわ。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Perhaps the three of them managed to find it.\nThe rumor did say it attracts those who have strong desires...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "もしかしたら３人は、\nそこへ行ったのかも。\n欲望が強い人が\nそこに辿り着くっていう噂だったから……"
+    },
+    {
+      "name": "Akino",
+      "text": "An island that grants wishes... Hardly the most plausible notion.\nBut if it does exist, I can see how the profit-hungry Tamaki and the\nefficiency-obsessed Mifuyu might find themselves drawn towards it.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "そんな島が実在するなんて、\nにわかには信じがたい話ですが……\nでも、\n実在するなら……\nあのがめついタマキさんと\n効率主義の\nミフユさんがそこに辿り着くのは大いにありえる話ですわね……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Most of the people who've gone missing were sailing south,\nso the island must be in that general direction.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "南の方にいった人に行方不明者が多いって聞いたから、\n恐らく島はそのあたりにあるはず……！"
+    },
+    {
+      "name": "Akino",
+      "text": "Well then, let us set out in the same direction ourselves!\nWe sail for the island that grants wishes!\nExcuse me, Mr. Boat-Lender? Could we rent a boat for our own use?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "では、\n早速船で私たちも向かいますわよ！\nいざ、\n『願いが叶う島』へ！\nもし、\n貸し船屋さま？\n　私たちにも船を貸してくださいませんこと？"
+    },
+    {
+      "name": "Akino",
+      "text": "Ah—naturally we will be taking\nthe highest-grade vessel you have available!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あ、\nグレードはもちろん\n最高級クラスでお願いしますわ。"
+    },
+    {
+      "name": "Akino",
+      "text": "Now, let us go forth into the waves!\nYukari, picture your greatest desire.\nIf we are to reach our goal, we must let our desires go unchecked!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "さあ、\n船を出しますわよ。\nユカリさん、\n欲しいものを念じて……\n欲望を丸出しにしながら、\nその島に向かいますわよ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "I want to find a wonderful boyfriend!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "素敵な彼氏ができますように！"
+    },
+    {
+      "name": "Yukari",
+      "text": "S-someone like {0}, for instance...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "た、\nたとえば\n{0}くんみたいな……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Oh, and I'd like to drink till I drop every day!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あと、\nついでに毎日飲み放題の暮らしがした～い！"
+    },
+    {
+      "name": "Akino",
+      "text": "I wish for the further success and prosperity\nof House Wisteria and the Mercurius Foundation!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "私は\nウィスタリア家と【メルクリウス財団】の、\n更なる発展と飛躍を願いますわ……！"
+    },
+    {
+      "name": "Akino",
+      "text": "And someday, I will turn this into the world's greatest guild!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "そして\nいつかは私の力で\n世界一のギルドに……！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Mmrnhhh...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "むにゃ……"
+    },
+    {
+      "name": "Akino",
+      "text": "...Zzzz...",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "…………すう……"
+    },
+    {
+      "name": "Akino",
+      "text": "Unhhh... Ah! Where am I?! This is an oddly deserted island...\nI suppose it must be our destination. Despite that sudden drowsy spell,\nit seems we achieved our goal quite easily.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "うーん……\nはっ\nここは！？\n　ずいぶん人気のない島ですわね……\nたぶん、\nここが目的地ですわ。\n急に眠くなったと思ったら、\n案外すんなり着きましたわね。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hey, Akino...\nDoesn't this place seem to have an awful lot of cats?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "ねえアキノさん、\nなんだかこの島、\nやたら猫が多くない？"
+    },
+    {
+      "name": "Akino",
+      "text": "Why, you're right.\nWhat's more, they seem to be exchanging some kind of currency!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "本当ですわ。\nしかも、\nなにやらお金で\n売買をしているようですわ……！"
+    },
+    {
+      "name": "Cat",
+      "text": "Meow!",
+      "choice_data_list": [],
+      "orig_name": "猫",
+      "orig_text": "にゃー"
+    },
+    {
+      "name": "Akino",
+      "text": "Oh my, whatever could this be?\nDo you wish to trade those coins for something of mine?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あら、\nどうしたのかしら。\nこのコインと\n何を交換してほしいんですの？"
+    },
+    {
+      "name": "Akino",
+      "text": "Oh, I see—you like this precious jewel, do you?\nI would part with it for a price of twenty coins, let's say!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "これは\n私の持っている宝石ですの……\nそれでしたら、\nそのコイン20枚でどうでしょう？"
+    },
+    {
+      "name": "Cat",
+      "text": "Meow!",
+      "choice_data_list": [],
+      "orig_name": "猫",
+      "orig_text": "にゃー！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Y-you're amazing, Akino...\nDo you always carry jewels around?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "す、\nすごいな～、アキノさん……\n宝石、いつも持ってるんだ？"
+    },
+    {
+      "name": "Akino",
+      "text": "I never leave the house without at least two hundred carats\nof precious stones in my accessories alone.\nA true merchant must be ready to do business anywhere!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "宝石なら、\n身に付けているものだけで、\n常に200カラットぐらいはありますわ。\n一流の商人を目指すなら、\nどこでも商売ができるようにしませんと！"
+    },
+    {
+      "name": "Yukari",
+      "text": "All of a sudden, I feel struck\nby the injustice of class inequality...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "なんか、生まれの不公平さを\nちょっと感じちゃうな～、\n私……"
+    },
+    {
+      "name": "Akino",
+      "text": "Now! We must proceed to explore this strange island!\nAnd then... Tamaki and Mifuyu!\nWe are coming for you!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "さあ、\nこの調子で\n島を捜索いたしますわよ！\nそして……\nタマキさんとミフユさん！\n待っててくださいませ！"
+    }
+  ]
+}

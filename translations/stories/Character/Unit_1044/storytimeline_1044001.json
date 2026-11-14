@@ -1,0 +1,283 @@
+{
+  "title": "Illya Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Deep in Brisa Canyon, a young girl faces down a pack of monsters.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ブリザ渓谷にて、\n一人の子供が魔物の群れと向き合っていた。"
+    },
+    {
+      "name": "???",
+      "text": "Hahahahah!\nYou beasts have some nerve defying [i]me![/i] ",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ハーッハッハッハッ！\nわらわに逆らうとは、\nよい度胸をしておるな。"
+    },
+    {
+      "name": "???",
+      "text": "Allow me to show you a small taste of my power.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "わらわの力を、\n貴様らに見せてやろう。"
+    },
+    {
+      "name": "???",
+      "text": "Beg and plead as you will, it is too late now!\nYour fate is sealed!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "今更泣き叫んでも、\nもう遅いぞ。\n覚悟するがいい！"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRUOOOOGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "???",
+      "text": "Hm?! It had no effect whatsoever?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "むっ！？\n効いておらぬじゃとっ！？"
+    },
+    {
+      "name": "???",
+      "text": "Urghh... Alas...\nTo think my powers have faded to such an extent...",
+      "choice_data_list": [
+        "Are you OK?!"
+      ],
+      "orig_name": "？？？",
+      "orig_text": "ぐう……\n無念……\nよもやここまでわらわの力が弱まっていようとは……"
+    },
+    {
+      "name": "???",
+      "text": "You are... who, exactly?\nNo, it matters not.\nIt is dangerous for you to be here.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "お主は……何者じゃ。\nいや、\nそれはよい。\nともかくここにいては危険じゃぞ……"
+    },
+    {
+      "name": "???",
+      "text": "Ahh... Where are you trying to carry me off to?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あ、\nわらわを背負ってどうするつもりじゃ！？"
+    },
+    {
+      "name": "???",
+      "text": "You mean to help me flee this danger?\nI... I see. Expending your efforts in my service...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "わらわを連れて逃げるじゃと……？\nそ、\nそうか、\nわらわのために働くと申すか……"
+    },
+    {
+      "name": "???",
+      "text": "So be it!\nI entrust my fate into your hands for now!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……よかろう。\nわらわの命運、\nお主に託そうではないか。"
+    },
+    {
+      "name": "???",
+      "text": "It would appear the danger is now past.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……どうやら、\n逃げ切れたようじゃな。"
+    },
+    {
+      "name": "???",
+      "text": "Your swift actions proved to be my salvation.\nYoung man, what is your name?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ともかく、\nお主のおかげで事なきを得た。\nお主、\n名はなんという？"
+    },
+    {
+      "name": "???",
+      "text": "I see... {0}, is it?\nYou have done well.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ほう、\n{0}か。\nよくやった。"
+    },
+    {
+      "name": "Illya",
+      "text": "I am she who rules over the night, Illya Ornstein!\nIn recognition of your deeds, I shall make you my personal minion!",
+      "choice_data_list": [
+        "'Tis an honor, dark mistress!",
+        "Um, no thanks."
+      ],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわこそ夜を統べる者、\nイリヤ・オーンスタイン！\nこたびの働きを評価し、\nお主を我が眷属としてやろう！"
+    },
+    {
+      "name": "Illya",
+      "text": "Very good. A fine response!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむうむ。\nよい反応じゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Excuse me?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なんじゃと！？"
+    },
+    {
+      "name": "Illya",
+      "text": "In the old days, an offer of minionship was enough\nto make even the proudest of nobles weep tears of joy!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "昔はわらわが眷属にしてやるといえば、\nどんな相手でも泣いて喜んだものじゃというのに……！"
+    },
+    {
+      "name": "Illya",
+      "text": "At any rate, I have made my decision!\nIt is not your place to refuse!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ともかく、\nこれは決定事項じゃ！\nお主に断る権利はない！"
+    },
+    {
+      "name": "Illya",
+      "text": "You are officially a minion of mine now!\nIt is your duty to aid me from this day forth!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "これで、お主はわらわの眷属じゃ！\n今後とも、\nわらわの助けになるがよい！"
+    },
+    {
+      "name": "Illya",
+      "text": "Still... a new minion is a fine thing,\nbut the problem at hand remains unsolved.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……しかし、\n眷属を得たはいいが、\n問題は何も解決しておらぬな……"
+    },
+    {
+      "name": "Illya",
+      "text": "How could I allow my magical energies to sink so far?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "よもや、ここまで魔力が落ちておるとは……"
+    },
+    {
+      "name": "Illya",
+      "text": "With the powers I possessed of old, I could have\nturned such monsters to dust with a flick of my finger...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "昔のわらわの魔力ならば、\n魔物など指先一つで塵にできたというのに……"
+    },
+    {
+      "name": "Illya",
+      "text": "Hmm? Wh-why are you patting my head, of all things?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "むっ、\nな、\nなんじゃいきなり頭をなでおって！"
+    },
+    {
+      "name": "Illya",
+      "text": "Cheer up, you say?\nD-do not treat me like a child!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "元気を出せ、じゃと？\nこ、\n子供扱いするでない！"
+    },
+    {
+      "name": "Illya",
+      "text": "To lay hands upon my noble head\nis an honor I have bestowed upon no other!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわの頭をなでるなど、\n誰にも許したことはないのじゃぞ……"
+    },
+    {
+      "name": "Illya",
+      "text": "Wh-what's this?!\nI have returned to my true form?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "こ、\nこれは……！？\n元の姿に戻っておる！？"
+    },
+    {
+      "name": "Illya",
+      "text": "How can this be?\nAll my attempts to restore my old body ended in failure...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "どういうことじゃ……？\n何をしても元の姿には戻れなかったというのに？？"
+    },
+    {
+      "name": "Illya",
+      "text": "S-still! Though the reason is unclear,\nif my true form is restored to me, I have naught left to fear!\nFrom now on—",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "し、\nしかし、\n理由はわからぬが、\n元の姿に戻れたのならば、\nもう怖いものはない！\nこれならば――"
+    },
+    {
+      "name": "Illya",
+      "text": "Aaghh! I am a child once more?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ああっ！？\nまた子供の姿にっ！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Nghh... What can this mean?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……むぅ……\nどういうことじゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "First you pat me upon the head,\nthen I suddenly regain my queenly stature...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "お主に頭をなでられたと思ったら、\n急にわらわが元の姿に戻った……"
+    },
+    {
+      "name": "Illya",
+      "text": "Could it be... you triggered this change somehow?\nIf that's the case... Hmm?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "もしや……\nお主が関係しておるのか……？\nだとすると……\nん？"
+    },
+    {
+      "name": "Illya",
+      "text": "On closer inspection, your face...\nI feel I have seen it somewhere before...\nAlas, it's no use. I cannot remember.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "よく見ると、\nお主の顔、\nどこかで見たことがあるような……\nダメじゃ、\n思い出せぬ。"
+    },
+    {
+      "name": "Illya",
+      "text": "At any rate, it seems to me that you most likely hold the key\nto recovering my true self.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ともかく、\nお主がわらわの姿を\n元に戻すための鍵である可能性は高そうじゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Which would mean... if I consume your blood,\nperhaps I will be restored for good...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そうなると……\nお主の血を飲めば、\n元の姿に戻れるかもしれぬの……"
+    },
+    {
+      "name": "Illya",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Illya",
+      "text": "{0}! Offer up your lifeblood to your mistress!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "{0}、お主の血を\nわらわに飲ませるのじゃ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "That day, Illya chased {0} around\nuntil they were both exhausted.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "このあと、{0}はイリヤに\n延々と追いかけられるのだった……"
+    }
+  ]
+}

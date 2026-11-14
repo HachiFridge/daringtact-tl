@@ -1,0 +1,586 @@
+{
+  "title": "Triple Hero on the Scene!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "As they climbed the tower, {0} and his friends had reached a certain floor.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "塔を登る{0}たちは、とあるフロアへと到達した。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It seems there are no monsters here. Guess we've climbed quite a bit...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ここには魔物はいないみたいだね。\n結構登ってきたと思うんだけど……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh! Over there! There's something shining! Let's go check it out!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あ！　\nあそこ！　\nなにか光ってるッス！\n行ってみるッスよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Don't tell me... could that be...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "もしかして、\nあれが……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "It must! Could this be the hint to help {0} regain his memories?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あったッス！\nこれが\n{0}さんの記憶を取り戻す\nヒントってやつッスかね？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "WE DID ITTTT! Phew... Thank goodness we made it this far without a hitch. If it was just us two, things might've been different. It's all thanks to you, Matsuri-chan.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "やったぁ！　\nふぅ……\n無事にここまで来れたね。\nあたしたちだけだったら無理だったかも。\nマツリちゃんのおかげだよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ehehe, I'm happy to hear you say that, pal... Wait, huh...? Something's shining! This is...!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "えへへ、\nそう言ってもらえるとうれしいッス……\nって、\nあれ……？　\nなにか光ってるッス！\nこれって……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hah?! Matsuri-chan?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "マツリちゃん！？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Heehee... Thank you so much for coming today, pal!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "えへへ～……\n今日は来てくれてありがとうッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Thanks to you, I was able to buy it! Tora Tiger's mask set! It's a rare item that is usually only sold at festival venues!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "おかげで買えたッス！\nトラタイガーお面セット！\n通常ならお祭り会場でしか売ってないレア品ッスよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I got some for preservation, some for practical use, and some for spreading the love! It was worth saving my pocket money!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "保存用と実用、\n布教用とそろえちゃったッス！\nお小遣い貯めてた甲斐があったッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? I can hear something. Sounds like a dog barking... I have a feeling something's not right. Let's go and check it out!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "あれ？　\n何か聞こえるッスね。\n犬の吠え声ッスけど……\nただごとじゃない予感がするッス。\n行ってみるッスよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "There's indeed a dog barking and running around... Wh-What's going on?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "犬が吠えながら走ってるッスね……\nな、\nなんなんッスかね？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...! Look, pal! Over there!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "っ！　\n見るッス！　\nあそこ！"
+    },
+    {
+      "name": "Children",
+      "text": "FWEEEEEH...",
+      "choice_data_list": [],
+      "orig_name": "子供",
+      "orig_text": "ふええ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "A-A kid's crying! Don't tell me... is he crying because he's scared of dogs?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "こ、\n子供が泣いてるッス！\nもしかして、\n犬の声が怖くて泣いてるッスかね？"
+    },
+    {
+      "name": "Dog",
+      "text": "Woof woof!",
+      "choice_data_list": [],
+      "orig_name": "犬",
+      "orig_text": "ワンワン！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hurry up, pal! We need to save that kid!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "急ぐッスよ！\nあの子のところに向かうッス！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What's this here... A mask? Is it a lost item?",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "なんだろ、\nこれ……\nお面？　\n落とし物かな？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It's right in front of the park, so maybe a kid dropped it on their way to play? Okay, I'll have to return it, then!",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "公園の目の前だし、\n遊びに行く途中で落としたのかな？\nよし、\n届けてあげないとね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That dog... It looks so excited, running all over the place like that. Now's our chance to go help the kid.",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "犬は……\n興奮して走り回ってるッスね。\n今のうちにあの子のところに行くッスよ。"
+    },
+    {
+      "name": "Children",
+      "text": "Ugh... *sniff*...",
+      "choice_data_list": [],
+      "orig_name": "子供",
+      "orig_text": "ううっ……\nぐすっ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Are you okay, pal?! We're here, so you can put your worries at rest! What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "大丈夫ッスか！？\n自分たちが来たから安心するッスよ！\nどうしたッスか？"
+    },
+    {
+      "name": "Children",
+      "text": "You know, that dog...",
+      "choice_data_list": [],
+      "orig_name": "子供",
+      "orig_text": "あのね、\n犬がね……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "You're scared because he's running around barking, aren't you? Got it! Leave this to me!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "吠えながら走りまわってて怖いッスね？\n分かったッス！　\n任せるッス！"
+    },
+    {
+      "name": "Dog",
+      "text": "Woof woof!",
+      "choice_data_list": [],
+      "orig_name": "犬",
+      "orig_text": "ワンワン！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "A-Actually, on closer inspection, it's a pretty big dog... It'd probably hurt if you got bitten...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "よ、\nよく見ると、\n結構大きな犬ッス……\n噛みつかれたら痛そうッスね……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I-I might be just a little scared... But I have to work up the courage...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ちょ、\nちょっとだけ怖いッス……\nでも\n勇気を出すしかないッス……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "O-Of course I'm fine! You're with me, so I know I won't lose, {0}-san!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "へ、\n平気に決まってるッス！\n{0}さんが一緒にいるから\n負けないッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Y-Yeah! A situation like this requires a transformation... My mask is...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "そ、\nそうッス！\nこういう時は変身するッス……\nこのお面で……"
+    },
+    {
+      "name": "Dog",
+      "text": "Woof woof!!",
+      "choice_data_list": [],
+      "orig_name": "犬",
+      "orig_text": "ワンワン！！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "IYAAAAAAH! T-That dog's looking at me... A-AAAHHAHHH, IT'S RUNNING OVER HERE! I need to hurry up and put on my mask so I can transform...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "ひゃあっ！　\nい、\n犬がこっちを見てるッス……\nは、\nははは、\n走ってきたッスよ！\n早くお面をかぶって変身を……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "T-Transfo-...!!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "へ、\nへんし……！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "TRANSFORM!!!",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "へんしーん！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? Huh...? Who's that?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "え？　\nえ……\n誰ッスか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Umm... This mask, where is it from?",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "えーと……\nこのお面はなんのお面？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "It's from Tora Tiger...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "トラタイガーッス……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Tora Tiger... No. 3! Right, No. 2?",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "トラタイガー……\n３号だよ！\nね、\n２号？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "N-N-No! That's not me! Right now, I'm Tora Tiger No. 3! I've come here to save everyone!",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "ちちちち、\nちがうよ！？\n今のあたしは、\nトラタイガー３号！\nみんなを助けるために参上したのだー！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I’m counting on you, Tiger No. 1! If things get dangerous, I’ll support you!",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "頼むよ、\nトラタイガー１号！\n危なくなったら、\nサポートは任せて！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "A-All right, pal! I'll protect this child from that dog! It's okay, I'm not scared at all!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "わ、\n分かったッス！\nあの犬からこの子を守るッス！\n大丈夫、\n怖くないッスよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Cheer up and help everyone... That's a hero's role!!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "みんなを元気づけて、\n助ける……\nそれが、\nヒーローの役目ッスから！！"
+    },
+    {
+      "name": "ひより",
+      "text": "フレー、\n１号！",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "フレー、\n１号！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I-I'll leave my back to you, pal...! If that dog's planning on charging, then let it come!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "せ、\n背中は任せたッス……！\n来るなら来いッスよーーーー！"
+    },
+    {
+      "name": "Dog",
+      "text": "Woof!",
+      "choice_data_list": [],
+      "orig_name": "犬",
+      "orig_text": "わん！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Huh? Is this little one, perhaps...? Don't be scared, come over here～",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "あれ？　\nこの子ってもしかして……\n怖くないよ～、\nこっちにおいで～"
+    },
+    {
+      "name": "Dog",
+      "text": "Woof, woof!",
+      "choice_data_list": [],
+      "orig_name": "犬",
+      "orig_text": "わんわん！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? Things got quiet all of a sudden... Is he not attacking you, No.3?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "あれ？　\n急におとなしくなったッス……\n３号になついてないッスか？"
+    },
+    {
+      "name": "Children",
+      "text": "UWAAAAAAAH, Pochi!",
+      "choice_data_list": [],
+      "orig_name": "子供",
+      "orig_text": "わーん、\nポチー！"
+    },
+    {
+      "name": "Dog",
+      "text": "Kyuuu...",
+      "choice_data_list": [],
+      "orig_name": "犬",
+      "orig_text": "きゅーん……"
+    },
+    {
+      "name": "Children",
+      "text": "Pochi's finally back!",
+      "choice_data_list": [],
+      "orig_name": "子供",
+      "orig_text": "ポチがやっと帰ってきたー！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Umm... What's going on, pal?",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "えっと……\nどういうことッスか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It seems this little one got too excited and started running around, so its owner, that kid, got desperate because he couldn't catch him.",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "興奮して走り回っちゃって、\n飼い主の子にも捕まえられなくなっただけみたいだね。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Maybe he noticed us coming and returned to him?",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "あたしたちに気付いて戻ってきたんじゃないかな？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I-I see... *sigh* That's a relief...",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "そ、\nそうだったッスか……\nはぁ～……\n安心したッス……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That reminds me. This mask is yours, isn't it? I'm Harusaki Hiyori. I borrowed it without permission because it was lying around. Sorry.",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "そうだ。\nこのお面、\nあなたのだよね？\nあたしは\n春咲ひより。\n落ちてたの勝手に借りちゃった。\nごめんね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "N-No such thing, pal! Ah, I'm Orihara Matsuri, pleased to meet you!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "そ、\nそんなことないッス！\nあ、\n自分は織原茉莉っていうッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "You're a friend of {0}-aniki, right? I should be the one thanking you for saving me!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "{0}さんのお友達ッスよね？\nこっちこそ助けてもらってありがとうッス！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Nice to meet you, Matsuri-chan. But, make sure not to do anything reckless in the future, okay? Well, Senpai was there with you, so I figured you’d be fine.",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "よろしくね、\n茉莉ちゃん。\nでも、\n無茶はしちゃあだめだよ？\nまあ先輩がいたから大丈夫だって思ってたけど。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That was my bad. But I'm really impressed! Hiyori-san's courage! Your judgement! Your sense of justice! I definitely want to learn from your example!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "面目ないッス。\nでも自分、\n感動したッス！\nひよりさんの度胸！　\n判断力！　\n正義感！　\nぜひ見習いたいッス！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ahaha... No way, you're exaggerating.",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "あはは……\nそんな、\n大げさだなぁ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "No way I am, pal! Thanks to your support, Hiyori-san, I was able to face my fears!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "そんなことあるッス！　\nひよりさんの応援のおかげで\n自分は恐怖に立ち向かえたッスから！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "And above all, the way you just reconciled with the enemy... You're a real hero!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "そしてなにより、\n敵とも和解するその姿……\nまさに\nヒーローッス！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ahaha... You're overreacting~ I just did what I could. Just like you have, Matsuri-chan.",
+      "choice_data_list": [],
+      "orig_name": "ひより",
+      "orig_text": "あはは……\nオーバーだよ～\nあたしはできることをしただけ。\n茉莉ちゃんと同じなんだから。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "We're... the same, huh? But, I respect you, Hiyori-san! True respect!",
+      "choice_data_list": [],
+      "orig_name": "茉莉",
+      "orig_text": "同じ……\nッスか。\nでも\n自分は\nひよりさんを尊敬するッス！\nリスペクトッスよー！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "H-Huh? This is... That's right. It's the Tower of Luna!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あ、\nあれ……\nここは……\nそうだ。\nルナの塔っスよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Mm... Haaah... Phew... It seems like I fell asleep, somehow. Is everyone okay?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "んっ……\nはああ……\nふう……\nなんだか寝ちゃってたみたいだね。\nみんな大丈夫？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Was that... a dream? It seems like it had something to do with my memories... Hmm...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "今のは\n夢……\nッスかね？\n記憶になにか関係あったみたいッスけど……\nうーん……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What's wrong, Matsuri-chan?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "どうしたの？　\nマツリちゃん。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "In the dream I just had, I... understood... Hiyori-san, after all, there's no need for you to aim to be a hero...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "さっきの夢で、\n自分……\n分かったッス……\nヒヨリさんはやっぱり\nヒーローを目指す必要はないッスね……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah, yeah! I'm fine the way I am now.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うんうん、\nあたしは今のままでいいよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's right, pal! You're fine the way you are! Helping and cheering up everyone is a great hero's job. Unlike me, you can do that already, so you're already a HERO! Hiyori-san!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そうッス！　\n今のままでいいッス！\nみんなを助けて元気づけるのも、\n立派なヒーローの仕事ッス。\nそれができているヒヨリさんは\n自分と違ってもうすでにヒーローッスよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "HUUUUUUH?! WAS I A HERO ALL ALONG?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ええ？　\nあたし、\nすでにヒーローだったんだ！？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's why... Hiyori-san, no... Master! Please take me under your wing as your apprentice!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "だから……\nヒヨリさん、\nいえ……\n師匠！\n自分を弟子にしてほしいッス！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "EEE-EEEHEHEHEHEH?! M-Master?! A Master, that's...? I'm troubled when you say things like that. I'm still a novice myself.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "え、\nえええええ！？　\nし、\n師匠～！？\n師匠って……\nそんなこと言われても困っちゃうよ～\nあたし自身がまだまだ未熟者なのに。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I-Is that a no, then?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ダ、\nダメッスか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hmm, I really can't be a \"Master\", but... maybe we could make this work as friends? So, next time, let's join together and help people in trouble. If they're in trouble, we'll help each other out!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うーん、\n師匠は無理だけど……\nお友達じゃダメかな？\nそれで、\n今度は一緒に困ってる人たちを助けに行こうよ。\n困った時はお互いさまさま、\nって。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "\"We'll help each other out\", pal?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "お互いさまさま、\nッスか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I'll be there to continue my dream of helping everyone. While you'll continue training to be a hero, Matsuri-chan. How about we work hard together during our days off?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あたしはみんなのお手伝いとして。\nマツリちゃんはヒーローの修行として。\nお休みの時なんかに、\n一緒に頑張るのは\nどうかな？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Understood! I'm counting on you too, pal! And when that time comes, {0} will also be with us!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "分かったッス！\nこちらこそ、\nぜひお願いするッス！\nその時は、\n{0}さんも一緒ッスよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah, of course! Then, next time you have a day off, let's all go out into town! YEAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うんうん！　\nそれじゃあ、\n今度のお休みに\nみんなで街にくりだそう！　\nおー！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "YEAAAAAH, indeed, pal!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "おー！　\nッス！"
+    },
+    {
+      "name": "Narration",
+      "text": "With that, their adventure in the Tower of Luna came to a close without incident, and the tiger-patterned helping hand duo was born in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、ルナの塔での冒険は無事に幕を閉じ、\nランドソルにトラ柄の人助けコンビが誕生したのであった。"
+    }
+  ]
+}

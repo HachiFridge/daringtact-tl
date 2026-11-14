@@ -1,0 +1,803 @@
+{
+  "title": "Part 2 Ch. 3 Ep. 13",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "―Sarendia Orphanage―",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "―サレンディア救護院―"
+    },
+    {
+      "name": "Omniforks",
+      "text": "*whirr* *whirr*",
+      "choice_data_list": [],
+      "orig_name": "万能人形たち",
+      "orig_text": "『ウィーン、ウィーン』"
+    },
+    {
+      "name": "Saren",
+      "text": "Ugh...! These things are both sturdy and fast...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "くっ……！\nこいつら、\n硬いし速い……っ！"
+    },
+    {
+      "name": "Saren",
+      "text": "But!\nI won't let you catch {0}, nor his friends!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "でもっ！\n{0}たちは、\n追わせないわ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "──Hah!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "──はっ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hyah...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "やっ……！"
+    },
+    {
+      "name": "Azold",
+      "text": "Hohoho.\nSuch quaint blows won't be enough to satisfy me, you know?",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "ほっほっほ。\nそんな甘い攻撃、\nワタクシに馳走するなど叶いませんぞ？"
+    },
+    {
+      "name": "Child 1",
+      "text": "Waaaaah...!",
+      "choice_data_list": [],
+      "orig_name": "子供１",
+      "orig_text": "うぇぇ～んっ……！"
+    },
+    {
+      "name": "Child 2",
+      "text": "Big sis Suzume, what's with that guy?\nHe's scary...!",
+      "choice_data_list": [],
+      "orig_name": "子供２",
+      "orig_text": "スズメお姉ちゃん、\nなにあいつら？\nこわいよ～……！"
+    },
+    {
+      "name": "Suzume",
+      "text": "It's going to be okay, everyone over here!\nStick close to me, and don't let go of my hand...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "大丈夫ですから、\nみんなこっちへ！\n手を離さないで、\n私についてきてください……！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh! I'm really, really worried about {0} and the others...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "うぅぅっ！\n{0}さんやみなさんのこと、\nとってもとっても心配ですけど……"
+    },
+    {
+      "name": "スズメ",
+      "text": "でも、\nこの子たちを安全なところに逃がしてっていうのが\nサレンお嬢さまから託された役目ですから……！\nどうか、\n無事でいてください……！　",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "でも、\nこの子たちを安全なところに逃がしてっていうのが\nサレンお嬢さまから託された役目ですから……！\nどうか、\n無事でいてください……！　"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile: Kurumi and Ayane were carrying the unconscious {0}, as they attempt to escape the orphanage.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方──\nクルミとアヤネは\n意識のない{0}を担ぎ、\n救護院から逃げ出そうとしていた。"
+    },
+    {
+      "name": "Ayane",
+      "text": "Heave-ho, heave-ho...! Sheffy-chan, are you following us?!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "んしょ、\nんしょっ……！\nシェフィちゃん、\nちゃんとついてきてるっ！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ngh...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "んっ……！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Hah, hah...!\nSorry for dragging you out, big brother...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "はぁ、\nはぁ……！\n引きずっちゃってごめんね\nお兄ちゃん……！"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'The kid is out cold!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『坊ちゃん、\nぜんぜん起きね～な！』"
+    },
+    {
+      "name": "Ayane",
+      "text": "Kurumi, for now let's just hide somewhere safe!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "クルミ、\nとにかくこのまま、\n安全な場所に隠れよっ！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "But a place that's safe...where...?!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "でも安全な場所って……\nどこ……！？"
+    },
+    {
+      "name": "Ayane",
+      "text": "I dunno, but...!\nAtleast while Mama Saren and the others are holding them back...!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "わかんないけど……！\nママ・サレンたちが、\n食い止めてくれてるうちに……！"
+    },
+    {
+      "name": "Omnifork",
+      "text": "*whirr* *whirr*",
+      "choice_data_list": [],
+      "orig_name": "万能人形",
+      "orig_text": "『ウィーン、ウィーン』"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hiu!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ひうっ！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Ayane-chan!\nThere's one coming, it's chasing us...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "アヤネちゃん！\nいっぴき来てるっ、\n追ってきてるよ……！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Ngh...!\nKurumi, Big bro, please!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "むぅっ……！\nクルミ、\nお兄ちゃんお願いっ！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Yeah...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "うん……！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Blow them away!\nPukichi Full Swing!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "吹っ飛べ！\nぷうきちフルスイ～ングっ！"
+    },
+    {
+      "name": "Omnifork",
+      "text": "...*whirr?*",
+      "choice_data_list": [],
+      "orig_name": "万能人形",
+      "orig_text": "……『ウィーン？』"
+    },
+    {
+      "name": "Ayane",
+      "text": "...I-It didn't do anything?!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "……ぜ、\nぜんぜん効いてない～っ！？"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'Well, you weren't getting a boost from the kid or anything...'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『まあ、\n坊ちゃんからのパワーアップなしじゃな～』"
+    },
+    {
+      "name": "Omnifork",
+      "text": "*whirr!* *whirr!*",
+      "choice_data_list": [],
+      "orig_name": "万能人形",
+      "orig_text": "『ウィーン！　\nウィーン！』"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Kya...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "ひゃん……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Auu!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ぁぅっ！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Kurumi!?\nSheffy-chan!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "クルミっ！？\nシェフィちゃん！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "I-I'm alright...it just grazed me!\nBut I dropped big brother!\nI'm so sorry!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "だ、\n大丈夫……\nかすっただけ！\nでもお兄ちゃん、\n落っことしちゃった！\nごめんなさい～っ！"
+    },
+    {
+      "name": "Omniforks",
+      "text": "*whirr!* *whirr!*",
+      "choice_data_list": [],
+      "orig_name": "万能人形たち",
+      "orig_text": "『ウィーン！　ウィーン！』"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'Oi, there’s more on the way!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『おいっ、\n増えやがったっ！』"
+    },
+    {
+      "name": "Ayane",
+      "text": "This is bad...!\nThis is really bad...!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "やばっ……！\nほんとにやばいよ、\nこれっ……！"
+    },
+    {
+      "name": "Narration",
+      "text": "On the other hand:\nAfter Kariza's attack, Yui, Hiyori and Kyaru had rushed out of the Gourmet Guild's guildhouse to hold the line...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "また一方。\nカリザに襲撃を受けたユイ・ヒヨリ・キャルは\n【美食殿】のギルドハウスを飛び出し、\n防戦を繰り広げていたが……"
+    },
+    {
+      "name": "Kariza",
+      "text": "Go!\nArnold, Enolith!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "行け！\nアーノルド、\nイーノリスッ！"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Kyaaah!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "きゃああっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Hiyori-chan... Kyaru-chan...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……ヒヨリちゃん……、\nキャルちゃん……"
+    },
+    {
+      "name": "Karyl",
+      "text": "U-Ugh...!\nYou damn brat..!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "う、\nぅぅ……！\nガキのくせに……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Heh!\nYou were trying to stall for time.\nBut it looks like you can't even get up. ...It's over.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "へっ！　\nのらくら時間稼ぎしやがって。\nけど、\nもう立てねーみてーだな。\n……終わりだ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Let's start with you, you mangy cat......huh?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "まずはクソ猫、\nテメーから…………\nぁん？"
+    },
+    {
+      "name": "Yui",
+      "text": "...Eh?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……えっ？"
+    },
+    {
+      "name": "キャル",
+      "text": "この、\n魔力の流れ……\n通信魔法？\nあいつの仲間から！？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "この、\n魔力の流れ……\n通信魔法？\nあいつの仲間から！？　"
+    },
+    {
+      "name": "Kariza",
+      "text": "......!\nNice one, Azold!\nYou're at the Sarendia Orphanage, right?!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……！\nアゾールド、\nナイスだぜ！\nサレンディア救護院だな！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Don't tell me...!\nThey found out where Kishi-kun is...?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "まさか……！\n騎士クンの居場所、\nバレちゃったのっ……！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Th-That quickly...?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "こ、\nこんなに早く……！？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hahah! I'll put off finishing you guys for now!\nMs. Pink Haired Loser and the mangy cat behind her don’t have a shred of magic to spare!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ハッハァ！\nテメーらのトドメは後回しだ！\n後ろのピンク髪とクソ猫も、\nもう魔力も残ってねーだろ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "I'm going to drag his corpse here and let you meet him face-to-face!\nUntil then, you can wriggle around here like caterpillars!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "今からヤツの死体を引きずってきて、\nご対面させてやんぜ！\nそれまでここで、\nイモムシみてーに這いつくばってな！"
+    },
+    {
+      "name": "Karyl",
+      "text": "*hack*, Kh...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "く、\nぅぅ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Kishi...kun...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士、\nクン……！"
+    },
+    {
+      "name": "Rei",
+      "text": "...Ngh...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ごふっ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Ugh!...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……うぅっ！……"
+    },
+    {
+      "name": "Azold",
+      "text": "You performed admirably, girls.",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "よく頑張りましたな。\nお嬢様がた。"
+    },
+    {
+      "name": "Azold",
+      "text": "...Now then.\nShall I take the young knight's life?",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "……さて。\n騎士の少年のお命、\n頂戴するといたしましょうか。"
+    },
+    {
+      "name": "Narration",
+      "text": "In the garden of the orphanage──\nThe blade held by the Omnifork was about to be brought down upon the unconscious {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、救護院の庭では──\n万能人形の持つ刃が、\n意識のないままの\n{0}に振り下ろされようとしていた。"
+    },
+    {
+      "name": "Omnifork",
+      "text": "*whirr* *whirr*...",
+      "choice_data_list": [],
+      "orig_name": "万能人形",
+      "orig_text": "『ウィーン、ウィーン』……"
+    },
+    {
+      "name": "Everyone",
+      "text": "\"Big brother!\"\n\"Don't!\"\n\"Noooo!\"",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "「お兄ちゃんっ！」\n「だめぇぇっ！」\n「だめー！」"
+    },
+    {
+      "name": "Saren",
+      "text": "Hyah...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "やっ……！"
+    },
+    {
+      "name": "Kurumi & Ayane",
+      "text": "Mama Saren...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ・アヤネ",
+      "orig_text": "ママ・サレン……！"
+    },
+    {
+      "name": "Saren",
+      "text": "Kh...!\n.........",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "くぅっ……！\n……、\n……"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'Miss Saren, you’re covered in wounds!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『サレンの嬢ちゃん、\n傷だらけじゃねーか！』"
+    },
+    {
+      "name": "Saren",
+      "text": "...I'm okay, if it's this much...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……大丈夫よ、\nこの、\nくらい……！"
+    },
+    {
+      "name": "Azold",
+      "text": "──Excuse me.",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "──失礼。"
+    },
+    {
+      "name": "Saren",
+      "text": "Ugh!?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ぅっ！？"
+    },
+    {
+      "name": "Ayane",
+      "text": "Mama Saren?!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "ママ・サレン！？"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Hang in there!\nOpen your eyes...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "しっかりして！\n目を開けてっ……！"
+    },
+    {
+      "name": "Azold",
+      "text": "I striked with the palm of my hand.\nWhile she is very much unconscious, her life is not in danger.",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "ただの掌底です。\n意識は刈りましたが、\n命に別状はありません。"
+    },
+    {
+      "name": "Azold",
+      "text": "Now then, little ladies.\nPlease, hand the boy over to me.\nYou don't want to get hurt, do you?",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "さて──\n小さなお嬢様がた。\nどうぞ、その少年をこちらにお渡しください。\n怪我をなさりたくはないでしょう？"
+    },
+    {
+      "name": "Kurumi & Ayane",
+      "text": "No!",
+      "choice_data_list": [],
+      "orig_name": "クルミ・アヤネ",
+      "orig_text": "やだっ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Bleeeeh!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "べーっ！"
+    },
+    {
+      "name": "Azold",
+      "text": "Hmm, this is tough.\nIt pains me to wound a young child, but...",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "ふむ、\n困りましたな。\n幼き子を打擲するのは、\n拳が痛むのですが……"
+    },
+    {
+      "name": "Kariza",
+      "text": "──Yo, Azold!\nLooks like you saved the best part for me!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──ようアゾールドォ！\nオレのために、\n一番オイシイところを残してくれたみてーだなァ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Every...one...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……みな、\nさま……"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Kokkoro-chan?\nHang in there...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "コッコロちゃんっ？\nしっかり……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Mama...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "まま……！"
+    },
+    {
+      "name": "Azold",
+      "text": "Oh dear, Kariza-kun.\nI thought I had left that elven girl unconscious as well...",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "おやおや、\nカリザ君。\nそのエルフのお嬢さんにも、\nあちらで昏倒していただいたはずですが……"
+    },
+    {
+      "name": "Kariza",
+      "text": "Oh yeah?\nShe serves that Princess Knight as an attendant.\n...and also as a mother too, from the looks of it.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "いやぁ？\nこいつ、\nそのプリンセスナイトの従者で……\nついでに母親気取りみてーだからな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Perhaps I should tie you up and have you watch the death of your dearest master turned son!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "縛り上げて、\nご主人サマ兼ムスコがくたばるところを\n拝ませてやろうって思ってよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Kh...uuu...!\n......My...lord......!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "く、\nぅぅっ……！\n……あるじ、\nさま……！"
+    },
+    {
+      "name": "Azold",
+      "text": "I can't say it's in good taste to drag around an injured combatant with a whip like that, but...well, it'll have to do. If we drag this out too long, we might end up with more unwelcome interferences...",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "動けない者を、\nそのようにムチでグルグル巻きにするのは\nあまり良い趣味とは言えませんが……\nま、\n良いでしょう。\n長引かせては、\nまた余計な邪魔が入りかねませんし──"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Could you be...talking about us?\nHey, Rei-san...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "…………それって……\nあたしたちのことかな？\nね、\nレイさん……！"
+    },
+    {
+      "name": "Rei",
+      "text": "Yeah...you're exactly right, Hiyori...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ……\nそうだな、\nヒヨリ……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "...Tch.\nThat grating cat can still move?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……ちっ。\nウザ猫、\nまだ動けたか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui-chan and Kyaru-chan...whittled down their own lives...\nSo that they could heal us...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃんと、\nキャルちゃんが……\n自分の命を\n削って……\nあたしに、\n回復魔法をかけてくれたんだっ……！"
+    },
+    {
+      "name": "Azold",
+      "text": "You as well, swordswoman.\nI struck you directly in the Solar plexus, and yet... I must admire your spirit.",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "剣士のお嬢様も。\nしかと鳩尾を打ち抜いたのですが……\n見上げた気迫ですな。"
+    },
+    {
+      "name": "Rei",
+      "text": "Maybe... It's because of the vow I made...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "誓いを……\n立てているから、\nかな……"
+    },
+    {
+      "name": "Azold",
+      "text": "Vow...?",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "誓い……？"
+    },
+    {
+      "name": "Ameth",
+      "text": "──'Protect that girl's heart.'──",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "──『あの子の心を、\n守ってあげて』──"
+    },
+    {
+      "name": "Rei",
+      "text": "...Yeah, of course I will, Fio.\nBut...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ああ、\n勿論だフィオ──\nでも。"
+    },
+    {
+      "name": "Rei",
+      "text": "Yui is not the only one I'll be protecting──!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "守るのは、\nユイだけじゃない──！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah...!\nWe'll save everyone, Kishi-kun included!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん……！\nあたしたちが、\nみんなを──\n騎士くんを！"
+    },
+    {
+      "name": "Rei & Hiyori",
+      "text": "We'll protect them all, no matter what!",
+      "choice_data_list": [],
+      "orig_name": "レイ・ヒヨリ",
+      "orig_text": "絶対に、\n守るんだ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hah!\nEven though you're all beaten up, you're playing the hero pretty well!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ハッ！\nズタボロのくせに、\n言葉だけは立派だな！"
+    },
+    {
+      "name": "Kariza",
+      "text": "In that case, all of you...can die!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "だったらまとめて……\n死ねェェっ！"
+    },
+    {
+      "name": "Rei & Hiyori",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "レイ・ヒヨリ",
+      "orig_text": "……ッ！！"
+    },
+    {
+      "name": "Kariza",
+      "text": "What the hell!?\nYou──!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ンだとッ！！？\nテメ──！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Ah, ahh...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あ、\nあぁ……！"
+    },
+    {
+      "name": "Kurumi & Ayane",
+      "text": "Aaah...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ・アヤネ",
+      "orig_text": "ああっ……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Onii-taaan!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "おにーたんっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "{0}!\nCould it be...?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "{0}っ！\nもしかして……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Kishi-kun!\nKishi-kun...he's back!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くんっ！\n騎士くんが……\n帰ってきたぁっ！！"
+    },
+    {
+      "name": "Rei & Hiyori",
+      "text": "\"Okay!\"\n\"Yeah!\"",
+      "choice_data_list": [],
+      "orig_name": "レイ・ヒヨリ",
+      "orig_text": "「うんっ！」\n「ああ！」"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...That light...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……あの光は……！"
+    },
+    {
+      "name": "Rei",
+      "text": "──Let's go! Hiyori!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "──いくよ！　\nヒヨリ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Okay! Rei-san!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "オッケー！　\nレイさん！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Tch...!\nThese guys...!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "チッ……！\nこいつら……！"
+    },
+    {
+      "name": "Azold",
+      "text": "Oh my...!",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "なんと……！"
+    },
+    {
+      "name": "Rei",
+      "text": "En garde, Azold!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "行くぞ、\nアゾールド！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Prepare yourself, Kariza-kun!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "覚悟して、\nカリザくん！"
+    },
+    {
+      "name": "Rei & Hiyori",
+      "text": "Taaaaahhh!!!",
+      "choice_data_list": [],
+      "orig_name": "レイ・ヒヨリ",
+      "orig_text": "たああああああーーーっ！！！"
+    }
+  ]
+}

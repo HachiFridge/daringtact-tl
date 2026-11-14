@@ -1,0 +1,427 @@
+{
+  "title": "Rainy with a Chance of Fighting",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having been forced to go to the guildhouse due to the\nsudden downpour, the party question one of the island\nresidents regarding the Great Rain God.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "突然の雨に降られた{0}たちは、\n宿泊用に用意してもらった島のギルドハウスにて、\n「雨神様」なる存在についてのことを島民に尋ねていた。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "You're telling me tomorrow's event is gonna get called off?!\nThat's hella lame!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "明日のイベントが雨で中止ってどういうこと！？\nマジツラみなんですけどー！"
+    },
+    {
+      "name": "Io",
+      "text": "Calm down, Suzuna.\nHe only said that it's possible.",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "落ち着いて、スズナちゃん。\n中止になるわけじゃなくて、\nあくまでも可能性の話よ。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "But, but!\nThat means it could still happen!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "でもでも、\nもしかしたらもしかして、\n中止になっちゃうかもしれないんでしょ？"
+    },
+    {
+      "name": "Misaki",
+      "text": "The elder seemed more than up for it,\nso I doubt a little bit of rain will make much of a difference.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "さっき村長さんはやる気みたいだったし、\n少しくらいの雨なら大丈夫でしょ？"
+    },
+    {
+      "name": "Assistant",
+      "text": "That's the plan for now, yes.\nEspecially when Suzuna's came all this way for us.\nOn a personal level, we're also simply looking forward to it.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "はい、\n今のところはその予定です。\nわざわざスズナさんに来てもらいましたし、\n私たちとしても\n是が非でもイベントを行いたい思っていますが……"
+    },
+    {
+      "name": "Assistant",
+      "text": "That said, we'd also hate for any accidents to occur.\nNot just with Suzuna, but all of our visitors as well.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "しかし、\n万が一にでもスズナさんや\n観光客のみなさんが\n怪我でもする可能性を考えると……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "I mean, yeah, but...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "それはそうだけど……\nでも……"
+    },
+    {
+      "name": "Io",
+      "text": "You mentioned this was because of the Great Rain God.\nCould you explain that a bit further?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "さっき\n雨神様のせいで、\nって言ってましたけど、\n一体なんのことなんですか？"
+    },
+    {
+      "name": "Assistant",
+      "text": "Erm. The Great Rain God has long since controlled this island's weather.\nTechnically it's a spirit of sorts, but the blessings it\nprovides for the island lead the inhabitans to rever it as a deity.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "ええっと\n雨神様は、\n古くからこの島の天気を司っている存在です。\n正確には精霊の仲間なんですが、\nこの島に恩恵を与えてくれるので、\nみんなは神様と呼んでいます。"
+    },
+    {
+      "name": "Assistant",
+      "text": "We hold a ritual at the beginning of each spring, where it awakens.\nIn turn, it blesses us with weather that allows for great produce.\nIn other words, we owe our lives here to it.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "年に一度、\n春の初めに島の者たちによる祈りの儀式で目覚め、\n多くの実りが得られる天候を与えてもらうのです。\nつまり島の生活は、\n雨神様のおかげで成り立っています。"
+    },
+    {
+      "name": "Assistant",
+      "text": "Once it oversees the successful produce, it enters\nits slumber once more at the end of summer,\nwhich lasts until the following year's spring.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "そして、\nその成功を見届け、\n夏が終わるころ、\n翌年の儀式まで再びお眠りになるのです。"
+    },
+    {
+      "name": "Misaki",
+      "text": "W-well then.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "へ、\nへぇ～？"
+    },
+    {
+      "name": "Assistant",
+      "text": "Things have been different this year, however.\nWe carried out the ritual as normal,\nyet the weather has been incredibly unstable.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "ですが、\n今年もいつも通りに祈りの儀式を行ったはいいものの、\nそれ以来、\nなぜか天候が安定せず、\n雨が続いているんです。"
+    },
+    {
+      "name": "Assistant",
+      "text": "Frequent rain reduces our tourist rate, putting the island in a bad spot.\nThis is why we called for you in the first place, Suzuna.\nWe need you and this event to succeed!",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "このままでは観光客の客足も伸びず、\n島がピンチなんです。\nそれで今回、\nスズナさんのお力を借りて、\nせめて海開きイベントで\nこの島を盛り上げて頂ければと……！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "I-I think I totally get it.",
+      "choice_data_list": [
+        "But do you [i]totally[/i] get it?"
+      ],
+      "orig_name": "スズナ",
+      "orig_text": "な、\nなるほどぉ～？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "S-sure thing!\nNo problemo!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "も、\nもち！\n分かってるに決まってるし！"
+    },
+    {
+      "name": "Misaki",
+      "text": "Right?\nI understood it all as well.\nSuper easy stuff.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "そうよね～？\nアタシもよ！\n　これくらい余裕だわ～？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Sorry, I lied.\nI only got about half of it...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "……うそ。\nほんとは\n半分くらいしか分かってない……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Actually, that's another lie.\nI don't think I got it at all.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "それもうそかも。\nほんとは\n全然わかんないかも……？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "But wow! You got all of that, Misaki?\nTalk about a turbo genius!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "でも、\nミサキっちはわかったんだ？\n超冴えてるじゃん！"
+    },
+    {
+      "name": "Misaki",
+      "text": "Argh! I didn't get any of it!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "もう！\n　アタシもわかってないわよ！"
+    },
+    {
+      "name": "Misaki",
+      "text": "That said, it's not like it's raining all the time, right?\nWe can just go have fun whenever the sun's out. Not a problem.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "でも、\n毎日ずーっと雨が降ってるってわけでもないんでしょ？\n遊ぶだけなら晴れ間をみつけてバカンスできるわ。"
+    },
+    {
+      "name": "Assistant",
+      "text": "That would be ideal.\nIt's just, the rain grows more fierce as the days go by—",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "そうだと良いのですが……\nしかし、\n日に日に雨の強さが増していき──"
+    },
+    {
+      "name": "Assistant",
+      "text": "Just look.\nWe experience sudden downpours, then it clears up again.\nMuch like what happened earlier.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "ご覧のありさまなんです。\n先ほどのように、\n何の前触れもなしに\n突然雨が降り始めては止んでの繰り返しなんです。"
+    },
+    {
+      "name": "Assistant",
+      "text": "The event itself isn't the only thing in peril due to it.\nWe might need to close the beach off to avoid any accidents.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "このまま雨が続けば\n明日のイベントはおろか、\n天候が不安定で危険と判断され、\n海に近づくことは禁止となります。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Um...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "えっと……"
+    },
+    {
+      "name": "Misaki",
+      "text": "Which means...",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ってことは……"
+    },
+    {
+      "name": "Io",
+      "text": "Basically...",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "つまり……"
+    },
+    {
+      "name": "Suzuna & Misaki & Io",
+      "text": "We can't have fun at the beach?!",
+      "choice_data_list": [],
+      "orig_name": "スズナたち",
+      "orig_text": "ビーチで遊べないってことーーー！？"
+    },
+    {
+      "name": "Assistant",
+      "text": "Indeed...",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "はい……"
+    },
+    {
+      "name": "Misaki",
+      "text": "No way...",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "うそでしょ～……"
+    },
+    {
+      "name": "Assistant",
+      "text": "The village elder said that we would proceed with the event\neven if the weather is a bit unstable, but when you take the risks into consideration...",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "多少の荒天でも\nイベントを決行したいと村長は言っていますが、\nやはり安全のことを考えると……"
+    },
+    {
+      "name": "Assistant",
+      "text": "Oh. I'm terrible sorry!\nYou must be exhausted after the long journey,\nyet here I am going on and on.",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "あっ、\nすみません！\n到着したばかりで疲れているところ、\nこんな長話をしてしまって。"
+    },
+    {
+      "name": "Assistant",
+      "text": "Either way. Let's make tomorrow's event a success!\nAll of the residents are expecting great things from you!\nNow then, if you'll excuse me!",
+      "choice_data_list": [],
+      "orig_name": "付き人",
+      "orig_text": "明日のイベント、\n絶対に成功させましょう！\nスズナさんに島のみんなが期待していますから！\nそれでは\n失礼します！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Man, this can't be real.\nYou guys even made the effort to come along,\nbut now that might go to waste.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "そんなぁ……\nイベントできないかもなんて～……\nせっかくみんなにもついてきてもらったのに……"
+    },
+    {
+      "name": "Misaki",
+      "text": "Alas.\nThere's little we can do when the weather's involved, though.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "そうね……\nでも、\n天気のせいなら仕方ないわよね……"
+    },
+    {
+      "name": "Misaki",
+      "text": "I was looking forward to you strutting your stuff,\nbut there's always another opportunity next year.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "スズナが頑張ってるところも見てみたかったけど。\nまた来年\nどこかでやったらいいわよ。"
+    },
+    {
+      "name": "Misaki",
+      "text": "I'll be there with you then, too.\nAssuming I don't have plans, of course.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "その時も\nアタシは見に行ってあげるわ。\nま、\n予定が空いてたらだけど。"
+    },
+    {
+      "name": "Misaki",
+      "text": "If you can get another beach-related job, then even better.\nI'll cheer you on extra hard!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "来年も\nどこかのビーチのイメージキャラクターに選ばれるように、\n今まで以上に応援するわ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "That's no good, Misaki!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ミサキっち、\nそれじゃダメだし……！"
+    },
+    {
+      "name": "Misaki",
+      "text": "How come?\nYou'll be able to pull it off, easy.\nI know that for a fact!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "どうしてよ？\nスズナならきっと出来るって信じてるわ。\nアタシが保障するわよ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "That's not the point.\nDoing this event on this island is what's important.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "そういうことじゃないし。\nうちは\nこの夏にこの島でやりたいの。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Who even knows what'll happen next year, too.\nTomorrow's already unclear as it is.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "それに、\n来年のことなんて\nまだ全然わかんないじゃん？\n明日のイベントのことだって、\nどうなるかわかんないんだし。"
+    },
+    {
+      "name": "Misaki",
+      "text": "But you can't fight the weather, Suzuna.\nRealistically speaking, this is already out of our hands.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "でも仕方ないじゃない。\n相手は天気なんだから、\nアタシたちがどうこうしたって\n解決できることじゃないわよ？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "That sort of talk isn't gonna convince me!\nI don't wanna just give up without doing anything!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "仕方ないなんて理由なんかじゃ、\n納得できないし！\nうち\nそんな簡単にあきらめたくないんですけど！"
+    },
+    {
+      "name": "Io",
+      "text": "S-Suzuna?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "す、\nスズナちゃん？"
+    },
+    {
+      "name": "Misaki",
+      "text": "Wh-what's with you?\nWhy're you taking this out on me?",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ちょ、\nちょっと。\nそんなにムキにならなくてもいいじゃない。\nどうしたっていうのよ。"
+    },
+    {
+      "name": "Misaki",
+      "text": "Besdies, our summer holidays've only just started.\nIt sucks that we can't do anything here,\nbut we're better off heading back to Landosol now.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "それに、\n今年の夏休みはまだ始まったばかりよ。\nせっかくここまで来たのにもったいないけど、\n貴重な夏休みを無駄遣いしないように\n早くランドソルに戻りましょうよ。"
+    },
+    {
+      "name": "Io",
+      "text": "N-now now, you too.\nLet's calm down, shall we?",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "ま、\nまあまあ。\n二人とも、\n落ち着いて……？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "That's a horrible thing to say, Misaki.\nThink about all the people involved in tomorrow's event.\nYou saw that stage at the beach, didn't you?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ミサキっち、\nそんな言い方よくないってば。\n今回のイベントやるのに、\nたくさんの人が関わってるんだよ？\nミサキっちも見たでしょ？\n　ビーチにあったイベントステージ。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Do you even get how much time and effort went into that?\nEvents don't just happen themselves.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ああいうのを組み立てるのだって、\n超大変なんだから。\nイベントって\n簡単に出来るものじゃないんだよ。"
+    },
+    {
+      "name": "Misaki",
+      "text": "Hmph. Don't treat me like an idiot.\nOf course I realize that.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "ふん、\nそれくらいは分かるわよ。\n子ども扱いしないでくれるかしら？"
+    },
+    {
+      "name": "Misaki",
+      "text": "But you also heard what that villager had to say, right?\nWe can't just control the weather willy-nilly\nand make everything all okay again.",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "けど、\nさっき村の人が言ってた話を聞いてたでしょ？\nアタシたちが雨を降らさないように天気を操るだなんて、\nできっこないわ。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "I get that. I do.\nBut...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "それはそうだけど……\nでも……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Who's to say that we'll get to spend time together again\nlike this next year?!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "でも！\n　来年もこうしてみんな一緒にいられる、\nこんなチャンスがあるとは限らないじゃん！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "You don't even get how much I was looking forward to this!\nAnd you still call yourself my friend?!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "うちがどんだけ楽しみにしてたかわかんないなんて、\nミサキっちヒドいんですけど！"
+    },
+    {
+      "name": "Misaki",
+      "text": "E-excuse me?!",
+      "choice_data_list": [],
+      "orig_name": "ミサキ",
+      "orig_text": "は、\nはぁ！？"
+    },
+    {
+      "name": "Io",
+      "text": "S-Suzuna!",
+      "choice_data_list": [],
+      "orig_name": "イオ",
+      "orig_text": "す、\nスズナちゃんっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Suzuna fled the guildhouse,\nleaving Misaki and Io behind.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "スズナは、ミサキとイオたちを残して、\nギルドハウスから飛び出していってしまうのだった。"
+    }
+  ]
+}

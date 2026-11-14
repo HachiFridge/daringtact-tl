@@ -1,0 +1,803 @@
+{
+  "title": "Fun-Fun Picnic♪",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "At {0}’s request, the [Sarendia Orphanage] had come to help with monsters extermination in [Gio Teogonia].",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}の頼みを受け、『ジオ・テオゴニア』の\n魔物退治にやってきた【サレンディア救護院】。"
+    },
+    {
+      "name": "Narration",
+      "text": "Having successfully driven the monsters back, the girls had made their way to [Fun-Fun Farm] before returning to Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "順調に魔物を追い返した彼女たちは、ランドソルへ帰還する前に\n『ふぁんふぁんファーム』へと向かっていた。"
+    },
+    {
+      "name": "Ayane & Kurumi",
+      "text": "Fun-Fun Farm♪\nFun-Fun Farm ♪",
+      "choice_data_list": [],
+      "orig_name": "アヤネ・クルミ",
+      "orig_text": "ふぁんふぁんファームっ♪\nふぁんふぁんファーム～っ♪"
+    },
+    {
+      "name": "Saren",
+      "text": "Both of you~\nI know you two want to hurry, but don't go too far ahead, okay?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "二人とも～\n急ぎたいのは分かるけど、\nあんまり離れちゃダメよ～？"
+    },
+    {
+      "name": "Ayane & Kurumi",
+      "text": "Yes!\nMama Saren♪",
+      "choice_data_list": [],
+      "orig_name": "アヤネ・クルミ",
+      "orig_text": "はーい！\nママ・サレン♪"
+    },
+    {
+      "name": "Suzume",
+      "text": "The two of them are so excited~\nEven though we've did monsters extermination just now, they're still full of energy♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "二人とも、\nはしゃいじゃってますね～\n魔物退治の後なのに、\nとっても元気です♪"
+    },
+    {
+      "name": "Saren",
+      "text": "I can understand how they feel, though.\nI've never seen anything like this in anywhere I've gone before.\nAnd on top of that, I hear that we'll be able to meet cute animals here...right?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あの子たちの気持ちも分かるけどね。\nどこもかしこも\n見たことがないものばかりだもの。\nおまけにかわいい動物にも会えるって聞いたら……\nねぇ？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hehe, you're right.\nI'm really looking forward to seeing what kind of animals there are♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ふふっ、\nそうですね。\n一体どんな動物さんがいるのか、\n私も楽しみです♪"
+    },
+    {
+      "name": "Saren",
+      "text": "Same goes for me, I can't even imagine it~\nThis world is nothing like the continent of Astraea.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "確かに、\n想像もできないわね～\nこっちの世界は、\nアストライア大陸と違うことばかりだし。"
+    },
+    {
+      "name": "Saren",
+      "text": "[Gio Teogonia]...\nI was surprised when I actually came here.\nIt really is a different world, just like the word says.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "『ジオ・テオゴニア』……\n実際に来てみて驚いたわ。\n本当に言葉通りの別世界ね。"
+    },
+    {
+      "name": "Suzume",
+      "text": "It's like we're in a picture book~ The city is made of all kinds of sweets~♪ Even now, it smells really delicious~",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "まるで絵本の中みたいですよね～\nさっきの街もぜ～んぶお菓子でできてましたしっ♪\n今だって、\nとってもおいしそうな香りがしてますよ～"
+    },
+    {
+      "name": "Saren",
+      "text": "I honestly wasn't entirely convinced when I asked {0} about it, but...\nHehe, I'm glad I came.\nIt's rare to find such a fun and peaceful place like this.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "{0}に話を聞いたときは\n正直半信半疑だったけど……\nふふっ、\n来てみてよかったわ。\nここまで楽しくてのどかな場所、\nなかなかないもの。"
+    },
+    {
+      "name": "Saren",
+      "text": "That's right.\nTherefore, we'll have to do our best to protect this tranquility!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうだったわね。\nそれじゃあ、\nこののどかさを守れるように\nがんばりましょ！"
+    },
+    {
+      "name": "Ayane",
+      "text": "We're here!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "ついたーっ！"
+    },
+    {
+      "name": "Pukichi",
+      "text": "So this is [Fun-Fun Farm], huh?\nSo it's covered in sweets, just like everywhere else.\nI’m jealous that you can eat snacks whenever you want here.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『へぇ、\nここがふぁんふぁんファームか。\nやっぱり他の場所と同じように\nお菓子まみれなんだな。\nいつでもおやつが食べられるなんて、\nうらやましい限りだぜ』"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Th-There are animals here, aren't there...?\nI wonder where they are...\nMaybe they're napping?",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "こ、\nここに\n動物さんたちがいるんですよね……？\nどこにいるのかな……\nお昼寝中かな？"
+    },
+    {
+      "name": "Saren",
+      "text": "Maybe you're right~\nOh?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうかもしれないわね──\nあら？"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "Oh, looks like we have visitors today.\nWelcome. Welcome to Fun-Fun Farm.",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "おや、\nお客さんが来てたのねぇ。\nいらっしゃい。\nようこそ\nふぁんふぁんファームへ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Hello!\nI'm sorry for barging in so suddenly...\nYou all want to say hello to her as well?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こんにちは！\nすみません、\n急に大勢で押しかけてしまって……\nあなたたちも\nご挨拶は？"
+    },
+    {
+      "name": "The Three",
+      "text": "Hello!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "こんにちは！"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "Yes, hello.\n...Oh, you're his friend, right?\nWhat brings you here today?",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "はい、\nこんにちは。\n……ああ、\nそっちの彼のお友達なのね。\n今日はどうしたのかしら？"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "Yes, of course. In that case, you're more than welcome.\nPlease, take your time.",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "えぇ、\nそうだったの。\nそういうことなら大歓迎よ。\nどうぞ、\nゆっくりしていってね。"
+    },
+    {
+      "name": "Ayane",
+      "text": "Yaaay☆\nThank you, fluffy old lady!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "うわぁい☆\nありがとう、\nモフモフおばあさん！"
+    },
+    {
+      "name": "Saren",
+      "text": "Hey!\nDon't just call people \"fluffy\"!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こらっ！\nモフモフ言わないのっ！"
+    },
+    {
+      "name": "The Three",
+      "text": "They're so cute!!!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "かわいい～～～っ！！！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Wow... T-They really are cute... \nEhehe...♪",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "わぁ……\nほ、\n本当にかわいいなぁ……\nえへへ……♪"
+    },
+    {
+      "name": "Ayane",
+      "text": "I knew it! \nThe animals here are different from the continent of Astraea, too! \nI've never seen any of them before!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "やっぱり、\n動物もアストライア大陸とは違うんだね！\n見たことない子ばっかり！"
+    },
+    {
+      "name": "Saren",
+      "text": "Hehe.\nIt's okay, don't be scared.\nThere, there, good boy...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふふ。\n大丈夫よ、\nこわがらないで。\nよしよし、\nい～こい～こ……"
+    },
+    {
+      "name": "ファームの動物",
+      "text": "……♪",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物",
+      "orig_text": "……♪"
+    },
+    {
+      "name": "Ayane",
+      "text": "Wow!\nYou're already that attached to her?\nThat's Mama Saren for you!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "わわっ！\nもうあんなに懐いてるの？\nさすがママ・サレン！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "So even animals meeting you for the first time can tell that you're a Mama...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "はじめて会った動物さんも、\nママだって分かるんだね……"
+    },
+    {
+      "name": "Ayane",
+      "text": "Her Mama aura was seeping out, I'm sure!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "ママのオーラがにじみ出ちゃってたんだよ、\nきっと！"
+    },
+    {
+      "name": "Saren",
+      "text": "You guys...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あなたたちね～……"
+    },
+    {
+      "name": "ファームの動物",
+      "text": "？",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物",
+      "orig_text": "？"
+    },
+    {
+      "name": "Saren",
+      "text": "...Well, whatever.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……まあ、\nいっか。"
+    },
+    {
+      "name": "Suzume",
+      "text": "W-Wait a minute!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ま、\n待ってくださ～い！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Huh...?\nSuzume Onee-chan, are the animals...\nrunning away from her...?",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "えっ……？\nスズメお姉ちゃん、\n動物さんたちに……\n逃げられちゃってる……？"
+    },
+    {
+      "name": "Ayane",
+      "text": "Suzume?\nDid you mess up again?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "スズメ―？\nまたドジしちゃったのー？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Y-Yes~!\nI fell down right in front of the animals!\nIt seemed like that startled them~!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "は、\nはい～！\n動物さんたちの目の前で思いっきり転んじゃったんです～！\nそれで、\nビックリさせちゃったみたいで～！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ah!\nWe didn't bump into each other or anything,\nso don't worry about that!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あっ！\nぶつかったりぶつけたりとかはしてないので\nそこは安心してください～！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Everyone!\nI won't trip next time, so let me just pet you a little─\nHyaaaahn!?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "動物さ～ん！\n次は転びませんから、\nちょっとだけ……\nちょっとだけナデナデさせ──\nひゃあああんっ！？"
+    },
+    {
+      "name": "Ayane",
+      "text": "She just fell right after she said that!?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "言ったそばから転んでる！？"
+    },
+    {
+      "name": "Kurumi",
+      "text": "No matter where she goes,\nSuzume Onee-chan will always be Suzume Onee-chan huh...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "どこに行っても、\nスズメお姉ちゃんはスズメお姉ちゃんだね……"
+    },
+    {
+      "name": "Saren",
+      "text": "Ahaha...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あはは……"
+    },
+    {
+      "name": "Narration",
+      "text": "After that, Saren came alone to {0}, who was watching from a short distance away.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その後──\n少し離れた場所で様子を眺めていた{0}のところに\nサレンがひとりやってきた。"
+    },
+    {
+      "name": "Saren",
+      "text": "Good thing that you told me about this after our work.\nEveryone's having fun.\nThank you! Plus, it's free, so I've got no complaints♪",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "いいところを教えてもらっちゃったわね。\nみんな楽しんでるわ。\nありがとう！\nおまけに無料だもの、\n文句なしよ♪"
+    },
+    {
+      "name": "Saren",
+      "text": "Still...the animals here aren't very cautious.\nIf it weren't for Suzume's clumsiness earlier,\nthey probably wouldn't have been able to escape.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "それにしても……\nここの動物たちは、\n本当に警戒心が少ないわね。\nさっきだって、\nスズメのドジがなければ\n逃げられなかっただろうし。"
+    },
+    {
+      "name": "Saren",
+      "text": "...No, it's more like 'too friendly' than 'less cautious'?\nI wonder if this has something to do with the environment of this world.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……ううん、\n警戒心が少ないっていうよりも\n人懐っこいって感じ？\nこれも、\nこっちの世界の環境が関係してるのかしら。"
+    },
+    {
+      "name": "Saren",
+      "text": "Whoops...\nI think I'm being a little too formal, aren't I?\nMaybe I still have my doubts about the atmosphere of this 'Reverse World'.\nI'll have to learn from the animals. Ahaha♪",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "おっと……\nあたし、\nなんだか堅苦しく考えちゃってるわね？\nまだ裏世界って場所の雰囲気に\n戸惑ってるのかも。\n動物たちを見習わないとね。\nあはは♪"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'M-Miss Saren! Help meee!\nThe animals think I’m their friend and start licking me...\nAhh, while I’ve been talking, they're licking all over me again!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『サ、\nサレンの嬢ちゃん！　\n助けてくれ～！\n動物たちが、\n俺を仲間だと思って舐めてきやがっ……\nああっ、\n言ってる間にまたベロベロと！』"
+    },
+    {
+      "name": "Ayane",
+      "text": "That's Pukichi for you!\nHe's so popular~♪",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "さすが、\nぷうきち！\nモテモテだ～♪"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Haaah...\nPukichi's popular with the animals too...♪\nThat's a good reference for acting as a popular person...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "はうぅ……\nぷうきちも\n動物さんにモテモテなんだぁ……♪\nモテモテの演技の参考になるなぁ……"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'Don't just stand there and marvel at this!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『感心してないで、\nおまえたちも止めてくれーっ！』"
+    },
+    {
+      "name": "Saren",
+      "text": "Ah, hah...\nThings seem to have gotten out of hand at some point.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あーあー……\nいつの間にか大変なことになってるわね。"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "Ah, You kids sure are having fun.\nI'm glad you all are enjoying yourselves like this.",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "あら、\n盛り上がってるわね。\n楽しんでもらえているみたいでよかったわぁ。"
+    },
+    {
+      "name": "Saren",
+      "text": "We're having a lot of fun yes.\n...Umm, Mrs. Caretaker.\nWhat's that? It smells really nice.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "もうすっかり楽しませてもらってます。\n……えぇと、\n管理人さん。\nそれは？\nとってもいい香りがしてますけど。"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "These are my special treats for the animals.\nThere are many things they can eat here...\nbut they're much happier with my homemade treats.",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "動物たちのおやつよ、\nあたし特製のねぇ。\nここには食べる物もたくさんあるけど……\nこうやって手作りしたもののほうが、\nみんな喜んでくれるのよぉ。"
+    },
+    {
+      "name": "Farm animals",
+      "text": "*running*",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "どどどどっ！"
+    },
+    {
+      "name": "Saren",
+      "text": "All the animals gathered here at once?!\nThey must really like it...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "動物たちが\n一気に集まってきた！？\n本当に喜んでるのね……"
+    },
+    {
+      "name": "Pukichi",
+      "text": "'Thanks for saving me...!'",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『た、\n助かったぜ……！』"
+    },
+    {
+      "name": "Ayane",
+      "text": "What's this nice scent~♪\nGrandma, what's that? Is it snacks?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "なんだかいい匂いがする～♪\nおばあさん、\nそれ何？\nもしかしておやつ？"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "Yes, for the animals.\nIf you'd like, you can feed them instead of me.\nIf you give them a snack, they'll get along with you much better than they are now.",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "えぇ、\n動物たちのねぇ。\nよかったら、\nあなたたちからあげてもらえるかしら。\nおやつをあげるとね、\n今よりも\nずっ\nと仲良くなれるのよ。"
+    },
+    {
+      "name": "Kurumi",
+      "text": "L-Let's be friends...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "ず、\nずっと仲良く……！"
+    },
+    {
+      "name": "Saren",
+      "text": "Since we're here, let's do that.\nOh, before that... Suzume?\nYou come here too!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "せっかくだし、\nそうさせてもらいましょ。\nああ、\nその前に……\nスズメ―？　\nあなたもこっち来なさ～い！"
+    },
+    {
+      "name": "Suzume",
+      "text": "O-Okay~!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "は、\nはい～っ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "W-Wow...\nThank goodness you ate it~♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "わ、\nわぁ……\nよかった、\n食べてくれました～♪"
+    },
+    {
+      "name": "Saren",
+      "text": "Mhm, They're eating well.\nIt looks like they're even more attached to me than before now.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "うんうん、\nいい感じじゃない。\nなんとなく、\nさっきより懐いてくれてるように見えるし。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Yes!\nI'll just stay here and give you snacks so I won't fall over again!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はいっ！\n私、\nもう転ばないように\nここでジーっとおやつだけあげてます！"
+    },
+    {
+      "name": "Saren",
+      "text": "Ahaha, isn't that a bit extreme?\nI understand how you feel, though.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あはは、\nそれはそれで極端じゃない？\n気持ちは\n分からなくもないけどね。"
+    },
+    {
+      "name": "Ayane",
+      "text": "Mama Saren, Suzume! Look, look,\nI've gotten really close to the animals!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "ママ・サレン、\nスズメ！\n見て見て、\n動物たちとすっごく仲良くなっちゃった！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Okay.\nEveryone, line up!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "はいっ。\nみんな、\n一列になってー！"
+    },
+    {
+      "name": "Farm animals",
+      "text": "*squeak*!",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "ぴしっ！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Next, jump on my mark, okay?\nReady, hop♪",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "次はせーのでジャンプね？\nせーのっ、\nぴょーんっ♪"
+    },
+    {
+      "name": "Farm animals",
+      "text": "*Pyon*♪",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "ぴょーんっ♪"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Wah.\nThat’s pretty impressive, isn’t it?",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『なっ？\n大したもんだろ？』"
+    },
+    {
+      "name": "Suzume",
+      "text": "S-So impressive!\nI didn't think they'd gotten this close!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "す、\nすごいです～！\nこんなに仲良くなっちゃうなんて……！"
+    },
+    {
+      "name": "Saren",
+      "text": "It's certainly impressive, but...\nI-Is this really within the “getting along” category...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "確かにすごいけど……\nこ、\nこれって\n『仲良くなる』の範疇なのかしら……？"
+    },
+    {
+      "name": "Suzume",
+      "text": "...H-Heh?!\nMy Lady, over there!\nLook at Kurumi-chan!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……\nええっ！？\nお嬢さま、\nあっちっ！\nクルミちゃんの方を見てくださいっ。"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Sorry to keep you all waiting,\nI’m the magical girl Bellula☆",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "『みんなお待たせっ、\nわたしは魔法少女ベルルちゃん☆』"
+    },
+    {
+      "name": "Farm animals",
+      "text": "*clap clap*♪",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "ぽふぽふぽふ♪"
+    },
+    {
+      "name": "Kurumi",
+      "text": "Thank you for the loud applause!\nI’m going to ring a sound of blessing for everyone who’s cheering me on today!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "『大きな拍手ありがとうっ！\n今日は応援してくれるみんなのために\n祝福の音を鳴らすからね！』"
+    },
+    {
+      "name": "Farm animals",
+      "text": "*clap clap*♪",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "ぽふぽふぽふぽふ～♪"
+    },
+    {
+      "name": "Saren",
+      "text": "Clapping...\nSuzume, those animals are clapping, aren't they?\nI'm not mistaken, am I?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "拍手……\nスズメ、\nあれ\n動物たちが\n拍手してるわよね？\nあたしの見間違いじゃないわよねっ？"
+    },
+    {
+      "name": "スズメ",
+      "text": "してますよ、お嬢さまっ！\n肉球がぷにぷにしてるから、\n音はほとんど出てないですけど……\nあれは確かに拍手です！",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "してますよ、お嬢さまっ！\n肉球がぷにぷにしてるから、\n音はほとんど出てないですけど……\nあれは確かに拍手です！"
+    },
+    {
+      "name": "Saren",
+      "text": "Is this even possible...? No matter how laid-back this world is, it's a little too early for them to get this attached to. It's only been about an hour or so since we met...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こんなこと\nありえるの……？\nいくらのんびりしてる世界だからって、\n懐くのが\nちょっと早すぎるわよ。\n出会ってまだ\n一時間くらいしか経ってないのに……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hmm... Maybe it's because we're in the Reverse World.\nA lot of things change when the world itself changes.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "う～ん……\nやっぱり裏世界だからですかねぇ。\n世界が変わると、\nいろんなことが変わるものなんですよ～"
+    },
+    {
+      "name": "Saren",
+      "text": "It 'is' a different world, so...\nI guess that's true, but...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "違う世界だから……\nそうね、\n確かにそうなんだけど……"
+    },
+    {
+      "name": "Saren",
+      "text": "I wonder if it's okay to leave it at that.\nNo matter how you look at it, they don't seem to have any resistance to getting attached...\nNo. It's like they're 'born to be attached with'",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "その言葉で\n片付けていいのかしら。\nいくらなんでも、\n懐くことへの抵抗がなさすぎるような……\nううん。\nまるで、\n『懐くように\n生まれてる』\nみたいな──"
+    },
+    {
+      "name": "Saren",
+      "text": "Huh?\nOh... No, it's nothing.\nMaybe I'm just overthinking again.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "えっ？\nあ……\nううん、\nなんでもないわ。\nまた、\nちょっと考えすぎちゃったみたい。"
+    },
+    {
+      "name": "サレン",
+      "text": "思ってるよりも、\nこの世界に緊張してるのかもね、\nあたしったら。\nこういうの\n悪いところよ、\nサレン？　",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "思ってるよりも、\nこの世界に緊張してるのかもね、\nあたしったら。\nこういうの\n悪いところよ、\nサレン？　"
+    },
+    {
+      "name": "Narration",
+      "text": "After playing with the animals for a while, it is time to return to Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それからしばらくの間、動物たちと触れ合っていると──\nランドソルへ帰還する時間がやってきた。"
+    },
+    {
+      "name": "Saren",
+      "text": "Thank you for your help, Mrs. Caretaker.\n...Well then, you guys. Let's go home.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "管理人さん、\nお世話になりました。\n……それじゃあ、あなたたち。\n帰りましょうか。"
+    },
+    {
+      "name": "Ayane",
+      "text": "...Hey, Mama Saren.\nCan't we take these animals home with us?\nThey're all good kids though. Can't we still do that?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "……ねぇ、\nママ・サレン。\nこの子たち、\n連れて帰っちゃだめ？\nみんな、いい子だよ？　\nそれでもだめ？"
+    },
+    {
+      "name": "Farm animals",
+      "text": "*Stare...*",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "じー……"
+    },
+    {
+      "name": "Saren",
+      "text": "...Yeah, we can't keep them.\nI don't have a place or food for them to live.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……そうね、\nうちじゃ飼えないわ。\nこの子たちが暮らせるような場所も、\n食べものも\n用意できないもの。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Now that I've made friends with everyone, it looks like they'll all follow me...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "みんなと仲良くなれたから、\n全員ついてきてくれそうですしね……"
+    },
+    {
+      "name": "Kurumi",
+      "text": "B-But...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "で、\nでも……"
+    },
+    {
+      "name": "Saren",
+      "text": "Besides... They'd not feel happy if the place they live suddenly change.\nWe were surprised to find ourselves in this world, weren't we?\nI'm sure these kids would feel the same way.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "それに……\n住むところが変わっちゃったらかわいそうよ。\nあたしたちだって、\nこっちの世界にきて驚いたでしょ？\nきっと、\nこの子たちも同じ気持ちになるわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Keeping a pet from another world is different from going on a journey.\n...You have to take responsibility for taking them with you.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "向こうの世界で飼うっていうことは、\n旅に出るのとは違うの。\n……連れて行くだけの\n責任を持たないといけないのよ。"
+    },
+    {
+      "name": "Ayane & Kurumi",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "アヤネ・クルミ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "Do come see me again anytime.\n...I'll be waiting with these kids.",
+      "choice_data_list": [],
+      "orig_name": "管理人のおばあさん",
+      "orig_text": "またいつでも会いにいらっしゃい。\n……この子たちと一緒に待ってるわ。"
+    },
+    {
+      "name": "Ayane & Kurumi",
+      "text": "...Yes.",
+      "choice_data_list": [],
+      "orig_name": "アヤネ・クルミ",
+      "orig_text": "……はい。"
+    },
+    {
+      "name": "Saren",
+      "text": "Thank you for your understanding.\n...Do you get it as well, everyone at the farm?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "分かってくれてありがとう。\n……ファームのみんなも、\n分かってくれる？"
+    },
+    {
+      "name": "Farm animals",
+      "text": "...Nod.",
+      "choice_data_list": [],
+      "orig_name": "ファームの動物たち",
+      "orig_text": "……こくり。"
+    },
+    {
+      "name": "Saren",
+      "text": "Thank you.\nI'll come see you again soon.\nI promise.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ありがとう。\nまた、すぐ\n会いに来るわね。\n約束するわ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "...Ah, that's right.\nLet's come with everyone at the orphanage next time!\nI'm sure everyone will be happy to see them♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……あっ、\nそうだっ。\n今度は救護院のみんなと一緒に来ましょう！\nきっとみんなも喜びますよ♪"
+    },
+    {
+      "name": "Saren",
+      "text": "That sounds great!\nA picnic in the Reverse world... Hehe, it's going to be exciting!\nDon't you think so too, Ayane and Kurumi?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "それいいわね！\n裏世界までピクニック……\nふふっ、\n盛り上がるわよ！\nアヤネとクルミもそう思わない？"
+    },
+    {
+      "name": "Ayane",
+      "text": "With everyone...!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "みんなで……！"
+    },
+    {
+      "name": "Kurumi",
+      "text": "A picnic...!",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "ピクニック……！"
+    },
+    {
+      "name": "Ayane & Kurumi",
+      "text": "'Mm!' 'Ok!'",
+      "choice_data_list": [],
+      "orig_name": "アヤネ・クルミ",
+      "orig_text": "うんっ！\nはいっ！"
+    },
+    {
+      "name": "Saren",
+      "text": "Hehe, it's decided♪ Then let's plan the picnic right away...\nOh, before that!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふふっ、\n決まりね♪\nじゃあさっそく\nピクニックの計画を……\nっと、\nその前に！"
+    },
+    {
+      "name": "Saren",
+      "text": "First, we have to do our best to slay the monsters in this world!\nFor everyone at the orphanage, and for all the animals here!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "まずはこの世界の\n魔物退治をがんばらなくっちゃね！\n救護院のみんなのためにも、\nここにいる\n動物たちのためにもね！"
+    },
+    {
+      "name": "The Three",
+      "text": "Okaaay!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "はーいっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, a new purpose in the Reverse World was born for the members of the Sarendia Orphanage.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "かくして──\n【サレンディア救護院】の面々にとって\n裏世界での新たな目的が生まれたのだった。"
+    }
+  ]
+}

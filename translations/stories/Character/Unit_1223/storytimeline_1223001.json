@@ -1,0 +1,642 @@
+{
+  "title": "Vampy Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, in Landosol, {0} was in an alley, surrounded by suspicious men.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ある日のランドソル──\n{0}は路地裏で、怪しい男たちに囲まれていた。"
+    },
+    {
+      "name": "Gorotsuki 1",
+      "text": "Heh! I gave him a little nudge, and he fell! Is that sword just for show?",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ１",
+      "orig_text": "へっ！　\nちょっとどついたくれーで、\nひっくり返ってやんの！\nその剣はお飾りかよ！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "Whoops, don't do anything stupid. If you want to pass through here, you'll have to give us something without being stubborn.",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "おおっと、\n下手な真似はすんなよ。\nここを通りたきゃ、\n意地張らずに出すもん出しな。"
+    },
+    {
+      "name": "？？？",
+      "text": "Hey! You all over there!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ちょっと！　\nおじさんたちっ！！"
+    },
+    {
+      "name": "Both",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "あぁ？"
+    },
+    {
+      "name": "Vampy",
+      "text": "Don't bully the weak, okay?! Vampy won't forgive you for that!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "弱い者いじめしちゃダメでしょ！？\nヴァンピィちゃん、\nそーゆーの許さないんだからねっ！"
+    },
+    {
+      "name": "Gorotsuki 1",
+      "text": "Wh-What's with this kid...?",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ１",
+      "orig_text": "な、\nなんだこのガキ……"
+    },
+    {
+      "name": "Vampy",
+      "text": "Ah! Why are you holding a knife?!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "あー！\nなんでナイフなんか持ってるの！？"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "Sh-Shut up!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "し、\n静かにしろ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Didn't anyone teach you that you shouldn't point such things at people?! You should put it away right now~",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "『ひとにはものを向けたらいけません』って\n教わらなかった！？\nいますぐしまわないと──"
+    },
+    {
+      "name": "Vampy",
+      "text": "Vampy's going to punish you!!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ヴァンピィちゃんが、\nおしおきしちゃうよっ！！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "You...!!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "このっ……！！"
+    },
+    {
+      "name": "Everyone",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "A man passing by",
+      "text": "Was that shout... coming from the alley?",
+      "choice_data_list": [],
+      "orig_name": "通りすがりの男性",
+      "orig_text": "今の叫び声……\n路地裏から？"
+    },
+    {
+      "name": "A woman passing by",
+      "text": "You called for help, didn't you? Someone, go call the guards!",
+      "choice_data_list": [],
+      "orig_name": "通りすがりの女性",
+      "orig_text": "助けを呼んでたわよね。\n誰か、\n衛兵さんを呼んできて！"
+    },
+    {
+      "name": "Gorotsuki 1",
+      "text": "Geh, this is bad...! Let's run away!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ１",
+      "orig_text": "げげっ、\nまずい……！\n逃げるぞ！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "We'll remember that!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "おぼえてやがれーっ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Ah, wait! You should apologize and be sorry!~",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "あっ、\n待ちなさい！\nちゃんとごめんなさいってあやまってから──"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Hmm. They're gone. What's going on?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……むぅ。\nいっちゃった。\nもう、\nなんなのー？"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Injured? Vampy? No way-",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……けが？　\nヴァンピィちゃんが？\nそんなのしないよー"
+    },
+    {
+      "name": "Vampy",
+      "text": "More importantly, you shouldn't shout all of a sudden, right? Those old men ran away, but there might be people who got angry. Why did you do that?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "それより、\n急に大声だしたらダメでしょ？\nあのおじさんたちは逃げたけど、\n怒るヤツだっているんだから。\nなんでそんなことしたかなー？"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Were you trying to save Vampy?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "…………\nもしかして、\nヴァンピィちゃんを助けようとしたの？"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Hmm♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……ふーん♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "Hey, what's your name?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ねぇ、\nアンタ。\nお名前は？"
+    },
+    {
+      "name": "Vampy",
+      "text": "Vampy's Vampy, a Vampire♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ヴァンピィちゃんは、\nヴァンピィちゃんだよ♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "Nice to meet you, {0}♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "よろしくね！　{0}♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "Did you get it, anyway? If you get bullied again, tell Vampy, okay?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "いーい？\nまたいじめられたら、\nヴァンピィちゃんに言うのよ？"
+    },
+    {
+      "name": "Vampy",
+      "text": "You're not very strong. You look just like Beth, and I feel like I can't just leave you alone...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "アンタ、\nあんまりつよそーじゃないし。\nベスちゃんにそっくりで、\n放っておけない感じがするし……"
+    },
+    {
+      "name": "Vampy",
+      "text": "Vampy's precious friend! She's a pink dragon!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ヴァンピィちゃんの大切な友だち！\nピンク色のドラゴンなんだよ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "But we got separated... so I'm looking for her. I wonder if she's chasing after the butterflies again?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "でもはぐれちゃって……\n探してるんだ。\nまたちょうちょを追いかけてるのかなー？"
+    },
+    {
+      "name": "Vampy",
+      "text": "That's right! She's where fruit is! Bess is a glutton, so maybe she's there!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "そうだ！　\nフルーツがあるとこ！\nベスちゃん食いしん坊だから、\nそこにいるのかも！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Oh, I know! {0}! Let's go together!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ほら！　{0}！\n一緒に行くよ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "All right, all right♪ Vampy's gonna protect you!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "よしよし♪\nヴァンピィちゃんがちゃーんと守ってあげるからね！"
+    },
+    {
+      "name": "Vampy",
+      "text": "You won't answer? Then Vampy'll do whatever she wants♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "お返事できないの？\nそれじゃヴァンピィちゃん好きにしちゃうからねー♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "Okay? You have to hold Vampy's hand so we don't get separated!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "いーい？\nはぐれないように、\nヴァンピィちゃんの手をちゃーんと握ってるのよ！"
+    },
+    {
+      "name": "The owner of the fruit shop",
+      "text": "Welcome! How about some delicious fruit?",
+      "choice_data_list": [],
+      "orig_name": "果物屋の店主",
+      "orig_text": "いらっしゃーい！\n美味しいフルーツはいかがかねー！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Hmm... Beth isn't here either...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "うーん……\nベスちゃん、\nここにもいない……"
+    },
+    {
+      "name": "Vampy",
+      "text": "...I didn't know there were so many fruit vendors. Hmm... Hmmm...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……フルーツってこんなにたくさんあるんだねぇ。\nふーん。\nふーん……"
+    },
+    {
+      "name": "Vampy",
+      "text": "Look! I don't think I've ever seen an apple this big before! It looks so yummy♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "見て！\nこんなに大きなリンゴ、\n初めて見たかも！　\nおいしそー♪"
+    },
+    {
+      "name": "The owner of the fruit shop",
+      "text": "Those apples are the first of the year! They are extra sweet and full of honey! Would you like one?",
+      "choice_data_list": [],
+      "orig_name": "果物屋の店主",
+      "orig_text": "そのリンゴは今年の初物でね！　\n蜜が詰まってて、\n特別甘いよ！\nひとつどうだい？"
+    },
+    {
+      "name": "Vampy",
+      "text": "But Vampy's money... Huh? You're going to buy it for me? Thanks♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "でもヴァンピィちゃん、\nお金……\n……え？　\nアンタ、\n買ってくれるの？　\nありがと♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "Ehehe! I got a really big apple! I bet Beth would be happy to see it! ♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "えへへ！　\nいっちばん大きいリンゴ、\nもらっちゃったぁ！\nベスちゃんが見たら喜ぶだろうなー♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Vampy",
+      "text": "...I wonder if that girl's hungry. Maybe she's crying about how lonely she is without Vampy.",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……あの子、\nお腹空かせてるかな。\nヴァンピィちゃんがいなくて、\nさみしいって泣いてないかな。"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Beth.",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "…………ベスちゃん。"
+    },
+    {
+      "name": "Vampy",
+      "text": "You're so nice. I wonder if that's why you smell so good, like apples",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "アンタ、\nやさしーね。\nだからリンゴみたいに、\nおいしそーなにおいがするのかなぁー"
+    },
+    {
+      "name": "Vampy",
+      "text": "...What? You're making a weird face. What do I mean by \"smell good\"? Umm...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……なーに？　\nアンタ、\nへんな顔してるけど？\nおいしそーの意味？　\nえーとぉ……──"
+    },
+    {
+      "name": "Gorotsuki 1",
+      "text": "Hey, I'm begging you!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ１",
+      "orig_text": "なぁ、\n頼むよ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……あれ？"
+    },
+    {
+      "name": "Gorotsuki 1",
+      "text": "Monsters appeared on the highway over there! My partner was too late to escape... Please help me!!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ１",
+      "orig_text": "あっちの街道で魔物が出たんだ！\n相棒が逃げ遅れちまって……\n助けてくれよ！！"
+    },
+    {
+      "name": "Resident",
+      "text": "Kyarum down. I'm going to get the guards. You're injured. Don't try to go back, okay?",
+      "choice_data_list": [],
+      "orig_name": "住人",
+      "orig_text": "落ち着け。\n今、衛兵を呼びに行く。\n君は怪我人なんだ。\n戻ろうとするなよ？"
+    },
+    {
+      "name": "Gorotsuki 1",
+      "text": "But... he let me go...! While we wait for the guards, he might...!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ１",
+      "orig_text": "だがよぉ……\nアイツ、\n俺を逃がしてくれたんだ……！\n衛兵を待ってる間に、\nきっとアイツは……！"
+    },
+    {
+      "name": "Vampy",
+      "text": "That's the guy who bullied you earlier. ...Are you troubled?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "さっきアンタをいじめたヤツだ。\n……もしかして、\n困ってる？"
+    },
+    {
+      "name": "Vampy",
+      "text": "Huh?! Hey, where are you going?!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "えっ！？\nちょっとどこいくの！？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "*wheeze*, *pant*...! Damn it, this is it...!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "ぜぇ、\nはぁ……！\nくそっ、\nここまでなのかよ……！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "You're the one from back then...! Why are you...",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "お前、\nあの時の……！\nなんで俺を──"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "...No, I owe you one.",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "……\nいや、\n恩に着るぜ。"
+    },
+    {
+      "name": "Vampy",
+      "text": "Wait a minute!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ちょっと待ちなさい！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "Vampy",
+      "text": "If you can't fight, why are you leaving Vampy behind? Come on, you two, stay back.",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "戦えないくせに、\nどーしてヴァンピィちゃんを置いていくかなー？\nほら、\nふたりとも下がってて。"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "D-Don't be ridiculous! That's my line! ...Hey!?",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "ふ、\nふざけんな！\nそりゃこっちのセリフだってんだ！\n……っておい！？"
+    },
+    {
+      "name": "Monster",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Vampy",
+      "text": "That's right, Vampy looks tastier, doesn't she?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "そーそー\nヴァンピィちゃんの方がおいしそーでしょ？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "Run away!!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "そっから逃げろっ！！"
+    },
+    {
+      "name": "Vampy",
+      "text": "I won't run away. After all, Vampy...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "逃げないもん。\nだってヴァンピィちゃんは──"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Is not a newbie!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "さいきょーですしー！"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "Did you take the blood of the monsters...? Don't tell me you... young lady...",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "魔物の血を、\n奪ったのか……？\nまさかお前……\nい、\nいやお嬢さんは──"
+    },
+    {
+      "name": "Vampy",
+      "text": "Hey, mister.",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ねぇ、\nおじさん。"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "Eeek...!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "ひぃ\n……！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Don't you owe me for saving you?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "助けてもらったお礼は？"
+    },
+    {
+      "name": "ゴロツキ２",
+      "text": "あ、\nありがとうございましたっ！",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "あ、\nありがとうございましたっ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Hmm. Then, are you sorry for bullying him earlier?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ふーん。\nそれじゃ、\nさっきいじめたこと\n{0}にごめんなさいは？"
+    },
+    {
+      "name": "Gorotsuki 2",
+      "text": "I'm sorry! Please forgive me, mister!!",
+      "choice_data_list": [],
+      "orig_name": "ゴロツキ２",
+      "orig_text": "すみませんでした！\nお兄さん、\nどうか許してくださいっ！！"
+    },
+    {
+      "name": "Vampy",
+      "text": "Yep, yep! Say it properly! Let's go back to the city♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "うんうん！　\nちゃんと言えてえらい！\nそれじゃ、\n街へ戻ろ♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "Very good! I'm glad no one got hurt!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "これでいっけんらくちゃく！\nだれも怪我しなくてよかったね！"
+    },
+    {
+      "name": "Vampy",
+      "text": "...Hey, were you get scared of Vampy, too?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "……ねぇ？\nアンタもヴァンピィちゃんのこと、\n怖くなった？"
+    },
+    {
+      "name": "Vampy",
+      "text": "I said you looked delicious earlier....",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "さっきも、\nおいしそーって言っちゃったし……"
+    },
+    {
+      "name": "Vampy",
+      "text": "Just so you know! Vampy likes apples more than blood! But if I don’t drink it sometimes, I’ll collapse.",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "あのね！　\nヴァンピィちゃん、\n血よりリンゴの方が好きだよ！\nでも、\nときどき飲まないと倒れちゃうんだ。"
+    },
+    {
+      "name": "Vampy",
+      "text": "That's why...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "だから……"
+    },
+    {
+      "name": "ヴァンピィ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Vampy",
+      "text": "Eheheh! You're so nice! Let's go♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "えへへっ！　\nアンタ、\nやっぱりやさしーね！\nいーこ、\nいーこ♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "I'm full right now, so I'll be fine! But if I can't hold myself back no matter what...",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "今はお腹いっぱいだからへーき！\nでも、\nどーしてもガマンできなくなったら……"
+    },
+    {
+      "name": "Vampy",
+      "text": "I'll count on you, Bloodkin♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "アンタにかぷってさせてね、\nけんぞくぅ♪"
+    },
+    {
+      "name": "Vampy",
+      "text": "That's right! You're Vampy's family now!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "そーだよ！\nアンタはヴァンピィちゃんのけんぞくなんだからっ！"
+    },
+    {
+      "name": "Vampy",
+      "text": "If Bloodkin is in trouble, Vampy will protect him!",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "けんぞくが困ってたら、\nヴァンピィちゃんが守ってあげる！"
+    },
+    {
+      "name": "Vampy",
+      "text": "If Vampy's in trouble, Bloodkin's gonna save her, okay?",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "ヴァンピィちゃんが困ってたら、\nけんぞくが助けるのよ？"
+    },
+    {
+      "name": "Vampy",
+      "text": "This is our pact now ♪",
+      "choice_data_list": [],
+      "orig_name": "ヴァンピィ",
+      "orig_text": "これは『けーやく』だからね♪"
+    },
+    {
+      "name": "Narration",
+      "text": "While he faintly guessed the identity of the mysterious girl, Vampy, {0} had become a Vampire’s minion.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "謎の少女ヴァンピィの正体をうっすらと想像する間に\n{0}は\nヴァンピィの眷属となってしまったのだった。"
+    }
+  ]
+}

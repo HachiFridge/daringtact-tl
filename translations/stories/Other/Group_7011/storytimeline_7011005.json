@@ -1,0 +1,684 @@
+{
+  "title": "Fresh Finobi Fellowship",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Ruka and Ninon have strengthened their bond,\nand are already showing impressive coordination.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "絆を深めたルカとニノンは、いつしか息の合ったコンビネーションを\n見せるようになっていた。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Rip and tear! Ninpo: Leaf Hurricane no Jutsu!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "斬り裂け！　\n忍法・\n木の葉センプーの術！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "All you did was throw some leaves in its face, but it's a decent\ndistraction!\nI'll end this quick! Hah!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ただ葉っぱ撒いただけだが、\nいい目くらましだ！\nこれで終わりだよ！　\nはぁっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Bravo! How enchanting!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "お見事！　\nホレボレするデース！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Your ninpo was pretty great, too.\nNow then, it seems like that was the master of this floor.\nI wish we could find some clues already. Even just one would do.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタの忍法もよかったよ。\nさて、\n今倒したのがこの階の主みたいだけど、\nいい加減手がかりの一つでもいただきたいもんだね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Look at that, Shogun, Boss Lady!\nSomething fell out of the dead monster!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "見てください、\nショーグン、\nアネゴ！\n倒した魔物から\n何か出てきまシタ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Wow! What a beautiful stone.\nA treasure, no doubt!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ワオ！　\nキレイな石デス。\nお宝に間違いないデース！"
+    },
+    {
+      "name": "Ruka",
+      "text": "H-hey, think before you touch strange objects!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "こ、こら、\nうかつに触るんじゃないよ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Ahhh! I-it's too bright!\nDon't look at it, no matter what happens!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ワオ！　\nま、\n眩しい！\n石のナナヒカリデース！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Ugh. {0}! Ninon!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "くっ、\nお前さん！　\nニノン！"
+    },
+    {
+      "name": "Ruka",
+      "text": "All right, done! Can you put this on display too?",
+      "choice_data_list": [
+        "You're pretty good with a knife."
+      ],
+      "orig_name": "流夏",
+      "orig_text": "よし、\nできた！　\nお前さん、\nこれも並べとくれ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Flattery will get you nothing more than a fish head.\nYou sure are a strange one. You finally have the day off,\nbut here you are in the store helping me out.",
+      "choice_data_list": [
+        "I would walk five hundred miles for you."
+      ],
+      "orig_name": "流夏",
+      "orig_text": "おだてたって\n魚の頭くらいしか出ないよ。\nしかし\nお前さんも物好きだねぇ。\nせっかくの休みの日に\n店を手伝ってくれるなんてさ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, not you too!\nI don't need followers at a fishmonger's shop, got it?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "お前さんまで\nやめとくれよ！\n魚屋に舎弟とか\n勘弁願いたいんだからさ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "...And that girl over there, the blonde one who's been spying on us,\nshe wouldn't happen to be a friend of yours, would she?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "……で、\nさっきから\nずっとこちらを窺ってる、\nあの金髪は\nお前さんの知り合いかい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I guess she's trying to hide behind that telephone pole,\nbut she sticks out like a sore thumb...",
+      "choice_data_list": [
+        "She's just a harmless weeb.",
+        "She's a samurai-ninja who aims to conquer the lands."
+      ],
+      "orig_name": "流夏",
+      "orig_text": "電柱の陰に隠れてるつもりだろうけど、\n残念ながらバレバレだねえ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "R-really?\nDespite that, she's giving off an unusually intense aura of tenacity...",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "そ、\nそうかい？　\nそのわりに\nただならぬ\n執念みたいなものを漂わせてるけど……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Calm yourself. You're not making any sense.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "落ち着いとくれ。\n何を言ってるか全然分からないよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Anyway, if nothing else, I know now that she's a friend of yours.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "何にせよ、\nお前さんの知り合いということだけは分かったよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I don't want to have anything to do with her,\nbut it'd be troublesome if she did something weird by the shop.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "あまり関わりたくないけど、\n店の近くで妙なことされても困るしね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, you over there, blondie! Do you need something?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "おーい、\nそこの金髪の嬢ちゃん！　\nウチに何か用かい？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Wh-what?! I can't believe you saw through my Camouflage no Jutsu!\nC-could it be the fabled Mind's Eye?!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ナ、\nナント！　\n隠れ身の術が見破られるとは！\nも、\nもしや\nあれが噂のシンガンデスか！"
+    },
+    {
+      "name": "Ninon",
+      "text": "I knew it!\nSomeone who can earn the respect of Shogun is no ordinary person!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "やはり\nショーグンがイチモク置く御仁、\nタダ者ではござらんデス！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Ugh, this might end up being more trouble that it's worth.\nJust get over here already, would you?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "おっと、\nこれは思ったより面倒くさそうだね。\nとりあえずこっちに来たらどうだい？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Th-then here I come.\nDe-de-den!",
+      "choice_data_list": [
+        "You need something from me?"
+      ],
+      "orig_name": "ニノン",
+      "orig_text": "そ、\nそれでは\nお邪魔するデス。\nデデデンっ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "No, on this day I request an audience with this esteemed gentlewoman,\nLady Ruka Tachiarai!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "いえ、\n本日は\nそちらの御仁、\n太刀洗流夏殿に\nお目通りしたく存じマース！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Huh? How do you know my name?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "ん？　\nアンタなんでアタシの名前知ってるんだ？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Well, Shogun told me, of course!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ハイ、\nショーグンに教えてもらいまシタデス！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, you, have you ever heard of \\\"personal information\\\"?",
+      "choice_data_list": [
+        "My bad..."
+      ],
+      "orig_name": "流夏",
+      "orig_text": "お前さん、\n個人情報って知ってるかい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Too late to fix now. Sheesh.\nAnyway, young lady, why are you here?\nIf you've come to buy fish, I'll be happy to sell you some.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "しょうがないね、\nまったく。\nともかく嬢ちゃん、\n一体何用だ？\n普通に魚を買いに来ただけなら\nうれしいんだけどね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Lady Ruka—no, Samurai Master!\nI beg you, make me, Ninon, your disciple!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "流夏殿、\nいや\nサムライマスター！\nこのワタシ、\nニノンを弟子にしてクダサイ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "...What's she blabbering on about? Crazy girl.\nI'm just a fishmonger, not a samurai or anything of the sort.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "……何を言ってるんだい、\nこの子は。\nアタシはただの魚屋、\nサムライでもなんでもないよ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "No! Because my beloved Shogun admires you, Boss Lady,\nyou're undoubtedly the most famous Samurai Master in the world!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "いいえ！　\n敬愛するショーグンが\nアネゴと慕うお方こそ、\n天下に名高き\nサムライマスターに違いありまセン！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Just where on earth did you get such a mind-bending delusion?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "その頭が痛くなるような勘違い、\nどっから来てんだい？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh! I heard it from Shogun!\nYou help the weak, crush the aggressive, and have numerous retainers!\nYou're definitely a modern samurai!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ハイ！　\nショーグンから伺いまシタ！\n弱きを助け\n強きをくじき、\nそして多くの臣下を従える！\nまさに\n現代のサムライだと！"
+    },
+    {
+      "name": "Ruka",
+      "text": "...Hey, you. I'd like to have a word later.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "……お前さん、\n後でちょっと顔貸してくれるかい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Um, Ninon, was it? Sorry to burst your bubble, but I'm afraid I don't\nknow how to use a sword.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "ええと、\nニノンだっけ？　\nアタシは剣なんか使えないから、\n残念ながらアンタの期待には応えられないよ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Please, no jokes!\nShogun informed me that the sword you are currently wielding\nis the famous \\\"Marine Slayer\\\" that can cut through anything!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ご冗談を！　\nその手にする一振りは\nあらゆる物を断つ\n名刀『魚切丸』だと\nショーグンより伺っておりマス！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I see...\nHey, you. I think we need to have a [i]serious[/i] talk.",
+      "choice_data_list": [
+        "I'm so sorry."
+      ],
+      "orig_name": "流夏",
+      "orig_text": "なるほどね──\nお前さん、\nそこんとこ色々聞かせてもらうよ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "I beg this favor! I'll get down on my knees! I'll do a traditional dance!\nIt might be a little embarrassing, but I'll even do it all in nothing but an\napron! Pleeease make me your disciple!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "お願いしマース！　\nドゲザでも\nアワダンスでも、\nちょっと恥ずかしいデスが、\n裸エプロンでも何でもしマスから！\nワタシを弟子にしてクダサーイ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Whoa, this isn't that kind of store!\nHey, can't you say something to shut her up?",
+      "choice_data_list": [
+        "Training's gonna be tough."
+      ],
+      "orig_name": "流夏",
+      "orig_text": "ちょ、\n店先でやめとくれよ！\nお前さんからも何とか言っておくれ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Why, you little...! Argh, come on! I guess I have no choice, huh?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "お前さん！　\nあーもう、\n仕方ないねえ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "So you'll take me under your wing?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "で、\n弟子入りさせてもらえマスか！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Before we get to that, I need to make sure you're fit for the job.\nLet's see how well you fare attracting customers to buy our produce.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "その前に、\nアンタにその資格があるかどうか、\nアンタの体に\nしっかりと聞かせてもらおうかね？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Wh-whaaaat?!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "え、\nえぇえ！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "*sigh* I came here to learn the way of the sword,\nso how did I end up working at a fish market...?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "うぅ、\n剣術を教えてもらいに来たのに、\nどうして\nサカナ屋で働くことになるのデスか……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Samurai don't just go around showing off their sword skills to anyone\nwho asks. Besides, don't you know that all samurai have a trade?",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "サムライは\n簡単に自分の剣術を明かしたりしないのさ。\nそれに、\nサムライはみんな手に職を持ってるって\n知らないのかい？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Y-you're right! I make paper umbrellas!\nUnderstood! I'll complete this mission with flying colors!",
+      "choice_data_list": [
+        "That's Samurai Master for you."
+      ],
+      "orig_name": "ニノン",
+      "orig_text": "た、\n確かに！　\nカサ貼りとかやってマス！\n了解デス！　\nこのミッション、\n見事やり遂げてみせマース！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Right, Shogun?\nNow then, let's see what this pushy apprentice is made of.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "だろ？　\nショーグン様。\nさあ、\n押しかけ弟子のお手並み、\n拝見させてもらおうかね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hey! Step right up, step right up!\nFishy, fishy, come get your fish!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ヘイ！　\nラッシャイ、\nラッシャイ！\nサカナサカナ、\nオサカナデース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Fast, cheap, tasty fishy fish!\nBoil them, grill them, any way you like!\nThey're selling like hot fish cakes!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ハヤい\nヤスい\nウマい\nオサカナデース！\nニてよし\nヤいてよしで\n今大ブームのオサカナデース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hello, madam! How about some fish for dinner tonight?\nYour children's school grades will improve, no doubt!\nEating our fish will make you smarter!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "そこの奥さん！　\n今夜のおかずに\nオサカナどうデスか？\nお子様の成績アップ間違いなし！\n食べると頭がよくなる\nオサカナデース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Rich in omega-whatever, they will get full marks every time!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "DHなんとかで\n100点レンパツ間違いなしデース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hmm? Recommendations? Let me see...\nHow about this one? It's a lustrous vision of beauty!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ムム、\nオススメ？　\nそうデスね……\nこれなんかどうデスか！\nツヤツヤでキレイデース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Its name? I have no idea!\nMore importantly, it's what's on the inside that counts—the heart!\nI ninja swear it's delicious!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "名前？　\n全然分かりまセン！\nでも重要なのは\n名前より中身、\n心デース！\n絶対に美味しいデス！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Wow! Thank you for your custom!\nHere's an extra fish, on the house!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ワオ！　\nお買い上げありがとうございマス！\nおまけにもう一匹\nどうぞどうぞデス！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Ah! Hello, sir! We have fish here!\nHow about one to accompany your evening drink?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あ、\nそこのダンナ！　\nサカナでございマース！\nバンシャクのお供に\nいかがデスかー？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Thanking you very much!\nMe? Cute? Oh, stop it, sir! ♪\nTake some fermented sauce, you naughty love bandit!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "毎度ありでございマース！\nえ、\nカワイイ？　\nイヤですよダンナ♪\nこっちのシオカラも\nおまけにもってけバンデット！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Hey, hey! Lovely lady! Eat some fish!\nTapioca? No, no! We have something better!\nSalmon roe is what you want!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ヘイヘイ\nそこ行くカノジョサン！　\nサカナ食いねぇ！\nタピオカ？　\nノンノン！　\n同じ粒々なら\n断然イクラデス！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Sweet little boy, helping with errands!\nHere, fish so cheap, we're hemorrhaging money!",
+      "choice_data_list": [
+        "She's quite... haphazard."
+      ],
+      "orig_name": "ニノン",
+      "orig_text": "ぼっちゃん\nおつかいエライデース！\nヨーシ、\nブラッド大サービスで半額デス！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yeah, she's all over the place.\nBut the fish are flying off the shelves.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "ああ、\nメチャクチャだ。\nでも\n魚は飛ぶように売れてるね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Shogun! Boss Lady!\nThere are too many customers! I'm going into shock!\nMedic! I need a medic!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショーグーン！　\nアネゴー！\nお客さんがいっぱいで\nテンテコダンスデース！\nメディック！　\nメディーック！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Oh, she's calling for backup, Shogun.\nMaybe we should go provide support.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "おっと、\nお呼びだよショーグン。\nいっちょ助太刀しますか。"
+    },
+    {
+      "name": "Ninon",
+      "text": "In, out... Mission complete!\nI have no will to go on...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ヒー、\nフー……\nやり切りまシター！\nセーも\nコンも\nナッシングデース……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Nicely done.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "お疲れさん。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Boss Lady! H-how did I do? How was my work?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "アネゴ！　\nど、\nどうでシタか？　\nワタシのワーキング。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Let's see... Your lack of product knowledge can't be helped,\nbut the random prices and unnecessary freebies are a definite no-no.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "そうだね、\n商品知識がないのは仕方ないけど、\n会計のテキトーさや\n勝手なサービスはいただけないね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "If I have to give you a score, I'd say... thirty-three points.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "点数をつけるなら……\n33点だな。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Thirty-three?! Your scoring system is harsh...\nShogun, I'm sorry for being a useless retainer.\nMy life is nothing but shame...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "サーティースリー！　\n辛口採点いただきまシタ……\nショーグン、\nダメな臣下でごめんなさい、\nハジの多い人生デース……"
+    },
+    {
+      "name": "Ruka",
+      "text": "That said, all the customers left with a smile on their face.\nEveryone had a good shopping experience.\nThat is the ultimate victory.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "でも、\nお客さんは\nみんな笑顔で魚を買ってった。\n誰もが気持ちよく買い物してた。\nこれに勝るものはないね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "You were a top-tier fishmonger, Ninon.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "アンタは\n最高の魚屋だったよ、\nニノン。"
+    },
+    {
+      "name": "Ninon",
+      "text": "B-Boss Lady!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ア、\nアネゴォ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I know you're a good kid,\nbut you've still got a lot to learn.\nTherefore, I want you to start with this.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "アンタがいい子だってのは分かったけど、\nまだ色々と危なっかしいのも確かだ。\nだから、\nまずはこいつからはじめたらいいさ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Th-this is... a samurai sword!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "こ、\nこれは……\nサムライソード！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Uh, no, it's a kitchen knife. You better take good care of it.\nI used to use it a long time ago, you see.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "いや包丁だから。\n大事にしておくれよ？\nアタシが昔使ってた物なんだからね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "B-but it's such a precious object...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "そ、\nそんな大事な物を……"
+    },
+    {
+      "name": "Ruka",
+      "text": "I'm giving it to you because I believe you're worth passing it on to.\nSo first, learn to handle it properly. Then we'll talk.",
+      "choice_data_list": [],
+      "orig_name": "流夏",
+      "orig_text": "アンタなら間違いない、\nそう思ったから渡すんだ。\nまずは\nこれをしっかり扱えるようになりな。\n話はそれからだ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Th-thank you greatly!\nWith this... I'll be the very best fishmonger, like no one ever was!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あ、\nありがとうございマス！\nワタシ……\nこれで\n立派な魚屋になりマース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "...What's that?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……\nあれ？"
+    },
+    {
+      "name": "Ninon",
+      "text": "...Hah! Uh... We're back in the tower...\nWas I dreaming just now?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……ハッ！　\nあ、れ……\nここは、\n塔の中……\n今のは、\n夢、\nデスか？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Urgh... To fall asleep in the presence of one's master is the greatest of\ntransgressions!\nSince it has come to this, I must commit seppuku...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "うぅ……\n主君の前で眠りに落ちるなど、\n一生の不覚！\nかくなる上は\nセップクしてお詫びを……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hold it. If you disembowel yourself, then I'll have to as well.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "止めな。\nアンタが切腹したら、\nアタシまで腹切らなきゃいけないじゃないか。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Boss Lady... Did you perchance have a dream too?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "アネゴ……\nもしかして、\nアネゴも夢を？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yeah. I dreamed that you were working at my shop.\nIn fact, you were—heheh, hahahah...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ああ。\nアンタがアタシの店で働く夢さ。\nしかし、\nアンタ、\nくふっ、\nくくく……"
+    },
+    {
+      "name": "Ninon",
+      "text": "I-is something the matter?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ど、\nどうしまシタか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Nah, it's just that even in the dream, you were acting the same as usual.\nIt was strange, but pretty funny. Heheh, hahahahah!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "いや、\nアンタときたら\n夢の中まで同じ行動するもんだから、\nおかしくって仕方ないよ、\nふふ、\nあはははは！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh, no...how embarrassing.",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "イヤイヤ……\nお恥ずかしい限りデース。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Now then, what's the plan?\nAre we continuing the search?",
+      "choice_data_list": [
+        "I'm in the mood for fish."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "さて、\nどうするお前さん。\nまだ探索を続けるかい？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Ohhh! Shogun too?\nI'm totally craving sushi right now!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "おー！　\nショーグンもデスか？\nワタシもすっかり\nオサカナのマウスになってマス！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Good grief, does your appetite come before your memory?\nWell, I'm hungry too.I could eat a whale, if I'm honest.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やれやれ、\n記憶よりも食い気かい？\nまあ、\nかくいうアタシも\nすっかり腹が減ってるしね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I guess that's enough exploration for one day.\nLet's try again another time.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "これ以上の探索は無理そうだ。\nまた後日出直すとしようか。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Shogun, Boss Lady, thank you very much for today!\nI will be much, much more diligent and become the ultimate retainer!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショーグン、\nアネゴ、\n今日はありがとうございまシタ！\nワタシ、\nもっともっとショージンして、\n最高の臣下になりマス！"
+    },
+    {
+      "name": "Narration",
+      "text": "Although they did not achieve their goal,\nall three left the tower with a satisfied look on their faces.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "目的こそ達成できなかったが、\n３人とも満ち足りた表情で塔を後にするのだった。"
+    }
+  ]
+}

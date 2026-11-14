@@ -1,0 +1,675 @@
+{
+  "title": "Connect the World",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A few days after {0} and friends\nbegin their plan to energize Ueki-chan...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちが\n『うえきちゃん』対策を始めて、数日後……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, ah... Testing.\nHey, Karin, can you hear me?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、あー。\nテステス。\nちょっとカリン、\n聞こえてる？"
+    },
+    {
+      "name": "Karin",
+      "text": "Yes—this is the Guild Association.\nWe're reading you loud and clear, Gourmet Guild!",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "はい、\nこちらギルド管理協会です。\nしっかり通じていますよ、\n【美食殿】のみなさん。"
+    },
+    {
+      "name": "Karyl",
+      "text": "OK.\nHow about you guys at Caon?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "オッケー\n【自警団（カォン）】のほうはどう？"
+    },
+    {
+      "name": "Maho",
+      "text": "Sure thing! ♪\nWe're all hearin' your voices clear as day!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "はいな♪\nこっちにも、\nはっきり\n聞こえてますぇ～"
+    },
+    {
+      "name": "Karyl",
+      "text": "Good, good... Looks like everywhere else is fine too.\nLinking about ten different places with communication magic\nseemed like a big ask at first... but I guess it worked out!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "よしよし……\n他のところも、\n大丈夫みたいね。\n十か所くらい同時に通信魔法をつなげるなんて、\n出来るかわからなかったけど……\nなんとかなるもんだわ。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Wow! ♪\nKaryl, you're amazing!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "わぁっ♪\nキャルちゃん、\nすごいですっ！"
+    },
+    {
+      "name": "Mio",
+      "text": "Right now, we're talking to the Association guys from a long way away...\nIf we can send the music from our concert like this too,\npeople from towns all over will be able to hear us sing!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "今、\n遠くのギルド管理協会さんたちと\n会話してるみたいに……\nLIVEの音を\nそのまま通信魔法で送ってもらえれば。\nいろんな町に、\n私たちの歌が届けられるんだね！"
+    },
+    {
+      "name": "Rin",
+      "text": "I had no idea this was possible...\nBut it must take a lot of magic.\nAre you all right, Karyl?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "こんなこと、\n可能なんだね……\nでも、\nかなり魔力を使うんじゃない？\nキャルは大丈夫？"
+    },
+    {
+      "name": "Karyl",
+      "text": "'Course I am. No problem.\nTurns out {0}'s support is good for more than just battle.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ヨユーよ、\n{0}の強化って、\nこういう使い道もあるのね。"
+    },
+    {
+      "name": "Mio",
+      "text": "Thanks a bunch, {0}!",
+      "choice_data_list": [
+        "You're welcome."
+      ],
+      "orig_name": "ミオ",
+      "orig_text": "{0}くんも、\nありがとねっ！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "You reached out to not only the Association,\nbut so many of your other friends, too...\nAnd you helped us set things up in all these different towns...",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "ギルド管理協会さんだけじゃなく、\n知り合いの子、\nみんなに声をかけてくれて。\nあちこちの町で、\n用意をしてくれて。"
+    },
+    {
+      "name": "Mio",
+      "text": "Honestly, we couldn't have done it without your connections!\nYou really are something!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "これって、\n{0}くんの人望がなければ\n出来ないことだよね！\nほんとにすごいよっ。"
+    },
+    {
+      "name": "Rin",
+      "text": "A humanfolk maid. An elven mage. A demonfolk teacher,\na beastfolk princess, a detective. Even a vampire...\nI was pretty surprised that all of them were girls...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ヒューマンのメイドの子、\nエルフの魔法使い、\n魔族の先生に\n獣人族のお姫様に\n探偵に、\n吸血鬼まで……\nみんな女の子なのは、\nちょっとびっくりしたけど。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Indeed.\nEven I, who am all too familiar with your connections,\nwas quite taken aback, my lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……本当に。\nすでに交友関係は把握しているはずのわたくしも\nびっくりでございますよ、\n主さま。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Ahahaha...",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "あははは……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Karin as well, through her Guild Association influence,\nwill be organizing widespread distribution of flyers and the like.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "カリンさまには、\nギルド管理協会のコネクションで、\n各町でビラを配るなどの\n宣伝活動もお願いしています。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "\\\"See the budding idols who prevailed in the big Musa audition\nin their historic first concert!\\\"\nThat's how we're billing it! ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "『ムーサの町のオーディションで優勝した\n新人アイドルたちによる、\n記念すべきファーストライブ！』\nって謳い文句ですよ♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What's more, it'll be broadcast across the continent\nin a world-first \\\"live tuning\\\" event!\nThis is sure to get the public hyped up big-time! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "しかも、\n各町に同時に歌をお届けする\n世界初の『ライブチューニング』ですから！\nこれは大盛り上がり間違いなしですね～☆"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Th-this sounds like a big deal!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "な、\nなんだかすごそう……！"
+    },
+    {
+      "name": "Rin",
+      "text": "You've brought us this far... so we'd better not disappoint.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ここまでしてくれたんだし……\n期待には応えないとね。"
+    },
+    {
+      "name": "Judge",
+      "text": "Say, my dears...",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "なあ、\nあんたたち。"
+    },
+    {
+      "name": "Mio",
+      "text": "Oh! The old lady from the judges?!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "あっ、\n審査員のおばあさん！？"
+    },
+    {
+      "name": "Judge",
+      "text": "I'm not privy to all the details...\nbut I hear you're holding a concert.",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "事情はあまりよくしらないけど……\nLIVEするんだってね？"
+    },
+    {
+      "name": "Judge",
+      "text": "In that case, you should use this Sound Record.\nIt's a new song that we prepared for the winners of the audition.",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "なら、\nこの音響盤を使っておくれ。\nオーディションで優勝した、\nあんたたちのための新しい曲さ。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Thank you so much, madam!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "ありがとうございます、\nおばあさんっ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Yeah... It's a great song.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うん……\n良い曲だね。"
+    },
+    {
+      "name": "Judge",
+      "text": "Good luck out there, my dears.\nThis town may be in a state of confusion now...",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "……頼んだよ、\nあんたたち。\n今は、こんな騒動になっちまってるが……"
+    },
+    {
+      "name": "Judge",
+      "text": "But personally, looking at Tsubomi-chan...\nNo, \\\"Ueki-chan\\\" up there,\nI still can't believe it would do anything wrong.",
+      "choice_data_list": [],
+      "orig_name": "審査員",
+      "orig_text": "あたしには、\nあの\n『つぼみちゃん』……\nいや\n『うえきちゃん』が\n悪いものだとは、\nどうしても思えなくてね。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Leave it to us, madam!\nWe'll take care of Ueki-chan without any trouble!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "任せてください、\nおばあさん！\n『うえきちゃん』は私たちが、\n絶対どうにかしますから！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hold it. It's done nothing wrong?\nDid you forget it brainwashed me?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いやいや、\n悪くないって……\nあたし、\n操られてたんだけどっ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord, as for Ueki-chan's state...\nIt occasionally becomes active,\nspreading pollen and Kyukon-chan bulbs even now.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま。\n『うえきちゃん』ですが……\n現在も時折活性化し、\n花粉や\n『きゅうこんちゃん』を放出しています。"
+    },
+    {
+      "name": "Karyl",
+      "text": "If the brute causes too much trouble, let's beat it up until it stops.\nWith that big, tough body, it's not like we'll leave much damage.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんまり迷惑かけるようだったら、\n攻撃を入れて大人しくさせましょ。\nデカいだけあって頑丈だから、\n簡単には折れやしないでしょ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A naughty Ueki-chan needs a good spanking! ☆",
+      "choice_data_list": [
+        "We'll keep Ueki-chan under control, so..."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "困った『うえきちゃん』は、\nおしりペンペンですね☆"
+    },
+    {
+      "name": "Piña Colata",
+      "text": "Pinya!\nPinya-nya-nya!",
+      "choice_data_list": [
+        "You guys work hard at your lessons!"
+      ],
+      "orig_name": "ぴにゃこら太",
+      "orig_text": "ぴにゃ！\nぴーにゃにゃにゃ！"
+    },
+    {
+      "name": "All Three",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "うんっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, the day of the concert arrives...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、LIVE当日……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Everyone... The scheduled time is upon us.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさま……\n間もなく開演のお時間です。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You should see the crowd that's gathered in front of the stage!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "外のステージにはお客さん、\nたくさん来てますよ～っ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "The \\\"live tuning\\\" broadcast network is all set up, too.\nI hear there are tons of people gathered in all the towns' plazas!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "通信魔法を使った『ライブチューニング』も、\n準備OKよ。\n他の町の広場にも、\nヒマな連中がたくさん集まってるって！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Understood!\nThanks for letting us know!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "わかりました！\nありがとうございますっ。"
+    },
+    {
+      "name": "Mio",
+      "text": "Oh, heck...\nAll those people gathered just to hear us sing, huh~?\nMmm... Makes me nervous! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "そっかあ、\nそんなにたくさんのひとが\n私たちの歌を聞いちゃうのかぁ～\nうーんっ……\n緊張する～♪"
+    },
+    {
+      "name": "Rin",
+      "text": "Mio... Your face says you're loving this.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ミオ、\n顔に『楽しみ』って書いてあるよ。"
+    },
+    {
+      "name": "Mio",
+      "text": "Heheh... ☆ You noticed?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "へへっ☆　\nバレちゃった？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Well, of course!\nI can hardly wait, either! ♪",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "そうですね！\n私も、\nとっても楽しみですっ♪"
+    },
+    {
+      "name": "Uzuki",
+      "text": "...Hee hee.",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "……ふふっ。"
+    },
+    {
+      "name": "Rin",
+      "text": "...Hm?\nUzuki?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……？\nウヅキ？"
+    },
+    {
+      "name": "Mio",
+      "text": "Shimamu?\nWhat's up?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "しまむー？\nどうしたの？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Oh, well... Eheheh.\nI guess it's just funny.",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "あ、\nえっと……\nえへへ。\nなんだか、\nおかしくて。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "What is funny, Miss Uzuki?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なにがでしょう、\nウヅキさま。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "You know, it wasn't that long ago\nthat we were too nervous to perform for that little village.",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "だって、\nちょっと前の私たちは、\nあの村の人たちに向かって歌うのも\n恥ずかしかったのに。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "But now... there's a gigantic audience here\nand people across the continent waiting for us...\nand we can't wait for it to begin!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "今では……\n会場いっぱいのお客さんと、\n遠くの町のお客さんにまで聞いてもらえるのを……\nこんなに楽しみにしてるだなんて。"
+    },
+    {
+      "name": "Rin",
+      "text": "You're right.\nBut in the past... I feel like we've performed\nfor even more people than we're about to today.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そうだね。\nでも前は……\nもっともっと多くの人に、\n私たちの歌を聞いてもらってたような気がするよ。"
+    },
+    {
+      "name": "Mio",
+      "text": "Ahah!\nThen maybe we used to be seriously amazing idols! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "あはっ！\nじゃあもしかして、\n私たちってすごいアイドルだったのかもねっ♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Haha!\nI'm sure you were! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふふっ！\nきっとそうですね☆"
+    },
+    {
+      "name": "Piña Colata",
+      "text": "Pinya!",
+      "choice_data_list": [],
+      "orig_name": "ぴにゃこら太",
+      "orig_text": "ぴにゃ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Oh—Piña.\nThank you for helping with our lessons to the very end.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あっ、\nぴにゃ。\nレッスン、\n最後まで付き合ってくれてありがとね。"
+    },
+    {
+      "name": "Mio",
+      "text": "Yep, yep! I gotta say,\nwe were lucky to have you and {0} around!",
+      "choice_data_list": [
+        "You're welcome."
+      ],
+      "orig_name": "ミオ",
+      "orig_text": "うんうん！\nほんと、\nぴにゃと{0}くんがいてくれて\n助かったよ～！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Pecorine... Kokkoro... Karyl, too...\nThank you so, so much for helping us to come this far!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "ペコリーヌちゃん、\nコッコロちゃん、\nキャルちゃんも、\nここまで\n本当にありがとうございました！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You need not thank us.\nIt was our pleasure to be able to aid you.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "とんでもありません。\nみなさまのお力になれて、\n嬉しかったです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Though it's a little sad to think\nthat if this succeeds, it'll be the last time we hear you sing...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "このLIVEが成功しちゃったら、\nもうみなさんの歌を聞けないと思うと、\nさみしいですけど……"
+    },
+    {
+      "name": "Rin",
+      "text": "Haha.\nIf we include practice, you sure have heard us sing a lot.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ふふ。\n練習も含めたら、\nずいぶんたくさん聞いてもらったね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "We've worked our butts off to give you this big opportunity.\nSo don't you get nervous and mess it up or anything, OK?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "せっかく、\nあたしたちがここまでお膳立てしてあげたんだから。\n本番で緊張して失敗しましたー\nとか、\n勘弁してよね？"
+    },
+    {
+      "name": "Mio",
+      "text": "No problem, no problem! ♪\nLeave it to us!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "大丈夫\nだいじょーぶっ♪\n任せて！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Oh, yes!\nPiña Colata...\nDo you have any last advice for us before we get on stage?",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "そうだっ。\nぴにゃこら太さん。\n大舞台に出る私たちに\nアドバイスとか、\nありますか？"
+    },
+    {
+      "name": "Piña Colata",
+      "text": "Pinya...",
+      "choice_data_list": [
+        "Well, there is one thing..."
+      ],
+      "orig_name": "ぴにゃこら太",
+      "orig_text": "ぴにゃ……"
+    },
+    {
+      "name": "Piña Colata",
+      "text": "Pi-pinya, pinya-nya!",
+      "choice_data_list": [
+        "Try shouting your favorite foods as you leap out."
+      ],
+      "orig_name": "ぴにゃこら太",
+      "orig_text": "ぴぴにゃ、\nぴにゃにゃー"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh?\nWhat the heck...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "えっ？\nなにそれ……"
+    },
+    {
+      "name": "Mio",
+      "text": "Ah, c'mon. Sounds like fun, right, Shiburin?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "まあまあ、\n面白そうじゃんしぶりんっ。"
+    },
+    {
+      "name": "Uzuki",
+      "text": "I agree! ♪\nThanks to spending all this time with the Gourmet Guild,\nwe've had so many tasty meals lately! ♪",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "そうですね♪\n最近は【美食殿】のみなさんが\nいろいろ教えてくれたおかげで、\nおいしいごはんをたくさん食べられましたし♪"
+    },
+    {
+      "name": "Rin",
+      "text": "Hmmm.\nThen what should we pick?\nLet's see, lately we've eaten...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うーん。\nじゃあ、\n何にしようか。\n最近食べたものといえば……"
+    },
+    {
+      "name": "Mio",
+      "text": "Crispy Gryphon wings...?",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "グリフォンの\n手羽先とか……"
+    },
+    {
+      "name": "Rin",
+      "text": "Stir-fried Killer Bee larvae...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "キラービーの\nハチノコ炒めとか……"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Slimy Gellatina risotto...?",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "スライムの\nゼラチナ丼とか……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hold it!\nShouting creepy stuff like that as you leap on stage\ncould jinx your whole performance!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと！\nそんなゲテモノ叫びながらステージにあがるとかっ、\n失敗しても知らないわよ？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Oh, of course!\nWe're trying to think of favorite foods, right?",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "そうでした！\n好きな食べもの、\nでしたね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I know what I like—rice balls!\nNothing beats a fluffy ball of freshly-cooked rice! *drool*... ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしはおにぎりが好きです！\nほかほかごはんのおにぎりは最高です！　\nじゅるっ♪"
+    },
+    {
+      "name": "Mio",
+      "text": "Hmmm.\nFavorite foods... favorite foods...",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "うーん。\n好きな食べ物、\n好きな食べ物……"
+    },
+    {
+      "name": "Rin",
+      "text": "Hm...\nHow about... chocolate?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ん……\nチョコレート\nとか……"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Fresh ham with melon, maybe...?",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "生ハムメロン\nとか……"
+    },
+    {
+      "name": "Mio",
+      "text": "Fried chicken, I guess?\n...Ah.",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "フライドチキン\nとか？\n……あ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Ah...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あ……"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Ah...!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "あっ……"
+    },
+    {
+      "name": "All Three",
+      "text": "Ahhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "ああああーーーっ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Y-young ladies?\nWhatever is the matter?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "み、\nみなさま？\nどうなさったのですか？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Aha... ahaha!\nAhahahaha! ♪",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "あは、\nあははっ！\nあははははっ♪"
+    },
+    {
+      "name": "Rin",
+      "text": "Sheesh...!\nAfter all that time we spent struggling to remember... Haha!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "もうっ……！\nぜんぜん思い出せなくて、\nさんざん悩んでたのに……\nふふっ！"
+    },
+    {
+      "name": "Mio",
+      "text": "A silly thing like this just brings it all flooding back?\nAhaha! That's so dumb!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "こんなので、\n自分たちのこと思い出しちゃうなんて！\nあははっ、\n変なのーっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Whaaaaa?!\nAre you telling me all three of you\nrecovered your lost memories at a time like this?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えええっ！？\n【ニュージェネレーションズ】のみなさん、\nこんな土壇場で記憶が戻ってきちゃったんですかっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "H-hold on!\nThe show's gonna start! Can you sing like this?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょ、\nちょっと！？\nもう開演よっ、\nちゃんと歌えるの！？"
+    },
+    {
+      "name": "Uzuki",
+      "text": "Yes! You can count on us!",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "はいっ、\nどーんと任せてください！"
+    },
+    {
+      "name": "Rin",
+      "text": "And... we hope you'll watch, members of the Gourmet Guild.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そして……\n見ていて、\n【美食殿】のみんな。"
+    },
+    {
+      "name": "Mio",
+      "text": "Please enjoy... our final performance in this world!",
+      "choice_data_list": [],
+      "orig_name": "ミオ",
+      "orig_text": "私たちの、\nこっちの世界での……\n最後のステージ！"
+    },
+    {
+      "name": "Uzuki",
+      "text": "We'll be going now! ♪",
+      "choice_data_list": [],
+      "orig_name": "ウヅキ",
+      "orig_text": "行ってきます♪"
+    }
+  ]
+}

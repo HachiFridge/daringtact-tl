@@ -1,0 +1,518 @@
+{
+  "atlas_name": "AtlasCharaLevelCap",
+  "sprites": [
+    {
+      "name": "CharaLevelCap_bgFog",
+      "x": 312,
+      "y": 924,
+      "width": 505,
+      "height": 100,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        7,
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CharaLevelCap_bgLight",
+      "x": 819,
+      "y": 854,
+      "width": 170,
+      "height": 170,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "name": "CharaLevelCap_crossLight",
+      "x": 312,
+      "y": 794,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CharaLevelCap_flash",
+      "x": 0,
+      "y": 806,
+      "width": 310,
+      "height": 218,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        22,
+        10,
+        0
+      ]
+    },
+    {
+      "name": "CharaLevelCap_whiteRect",
+      "x": 688,
+      "y": 847,
+      "width": 20,
+      "height": 20,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_max_level_up",
+      "x": 0,
+      "y": 751,
+      "width": 278,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_max_level_up_add",
+      "x": 442,
+      "y": 869,
+      "width": 278,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_0",
+      "x": 606,
+      "y": 814,
+      "width": 39,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_1",
+      "x": 442,
+      "y": 706,
+      "width": 28,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        2,
+        10,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_2",
+      "x": 482,
+      "y": 759,
+      "width": 38,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_3",
+      "x": 524,
+      "y": 760,
+      "width": 38,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_4",
+      "x": 564,
+      "y": 814,
+      "width": 40,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_5",
+      "x": 524,
+      "y": 815,
+      "width": 38,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_6",
+      "x": 401,
+      "y": 739,
+      "width": 39,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_7",
+      "x": 722,
+      "y": 816,
+      "width": 37,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_8",
+      "x": 647,
+      "y": 814,
+      "width": 39,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_9",
+      "x": 361,
+      "y": 739,
+      "width": 38,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_0",
+      "x": 320,
+      "y": 739,
+      "width": 39,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_1",
+      "x": 991,
+      "y": 972,
+      "width": 28,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        2,
+        10,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_2",
+      "x": 280,
+      "y": 739,
+      "width": 38,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_3",
+      "x": 442,
+      "y": 760,
+      "width": 38,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_4",
+      "x": 482,
+      "y": 814,
+      "width": 40,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_5",
+      "x": 442,
+      "y": 815,
+      "width": 38,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_6",
+      "x": 761,
+      "y": 869,
+      "width": 39,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_7",
+      "x": 722,
+      "y": 870,
+      "width": 37,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_8",
+      "x": 761,
+      "y": 814,
+      "width": 39,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_cap_text_num_add_9",
+      "x": 688,
+      "y": 761,
+      "width": 38,
+      "height": 53,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "atlas_name": "AtlasCaravanEarlyArrival",
+  "sprites": [
+    {
+      "name": "caravan_earlyarrival_board",
+      "x": 0,
+      "y": 337,
+      "width": 276,
+      "height": 249,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_doya1",
+      "x": 363,
+      "y": 798,
+      "width": 340,
+      "height": 226,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_doya2",
+      "x": 364,
+      "y": 574,
+      "width": 339,
+      "height": 222,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_gakkari1",
+      "x": 0,
+      "y": 588,
+      "width": 362,
+      "height": 208,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_gakkari2",
+      "x": 0,
+      "y": 811,
+      "width": 361,
+      "height": 213,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_karin_01",
+      "x": 312,
+      "y": 64,
+      "width": 99,
+      "height": 182,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_karin_02",
+      "x": 111,
+      "y": 61,
+      "width": 103,
+      "height": 185,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_kokkoro_01",
+      "x": 834,
+      "y": 182,
+      "width": 125,
+      "height": 198,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_kokkoro_02",
+      "x": 216,
+      "y": 50,
+      "width": 94,
+      "height": 196,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_kyaru_01",
+      "x": 632,
+      "y": 179,
+      "width": 122,
+      "height": 200,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_kyaru_02",
+      "x": 504,
+      "y": 80,
+      "width": 116,
+      "height": 196,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_peko_01",
+      "x": 504,
+      "y": 278,
+      "width": 126,
+      "height": 206,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_peko_02",
+      "x": 0,
+      "y": 38,
+      "width": 109,
+      "height": 208,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_sheffy_01",
+      "x": 705,
+      "y": 381,
+      "width": 127,
+      "height": 214,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_chara_sheffy_02",
+      "x": 834,
+      "y": 382,
+      "width": 121,
+      "height": 213,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_emote_lively",
+      "x": 756,
+      "y": 96,
+      "width": 102,
+      "height": 84,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_00",
+      "x": 632,
+      "y": 399,
+      "width": 63,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_01",
+      "x": 655,
+      "y": 488,
+      "width": 40,
+      "height": 84,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        10,
+        1,
+        16,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_02",
+      "x": 952,
+      "y": 725,
+      "width": 60,
+      "height": 84,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_03",
+      "x": 952,
+      "y": 638,
+      "width": 63,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_04",
+      "x": 954,
+      "y": 939,
+      "width": 66,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_05",
+      "x": 954,
+      "y": 854,
+      "width": 64,
+      "height": 83,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_06",
+      "x": 756,
+      "y": 207,
+      "width": 64,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_07",
+      "x": 957,
+      "y": 466,
+      "width": 62,
+      "height": 83,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_08",
+      "x": 957,
+      "y": 551,
+      "width": 63,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_num_09",
+      "x": 622,
+      "y": 92,
+      "width": 65,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_shadow",
+      "x": 278,
+      "y": 354,
+      "width": 129,
+      "height": 130,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_01",
+      "x": 756,
+      "y": 294,
+      "width": 75,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_02",
+      "x": 954,
+      "y": 826,
+      "width": 64,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        30,
+        0,
+        29
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_03",
+      "x": 413,
+      "y": 83,
+      "width": 75,
+      "height": 75,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        5,
+        0,
+        5
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_04",
+      "x": 413,
+      "y": 16,
+      "width": 71,
+      "height": 65,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        20,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_05",
+      "x": 413,
+      "y": 160,
+      "width": 80,
+      "height": 86,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_06",
+      "x": 409,
+      "y": 399,
+      "width": 81,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_earlyarrival_text_07",
+      "x": 957,
+      "y": 382,
+      "width": 27,
+      "height": 82,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "caravan_skip_bonus_text_01",
+      "x": 0,
+      "y": 248,
+      "width": 502,
+      "height": 87,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_skip_bonus_text_02",
+      "x": 278,
+      "y": 486,
+      "width": 375,
+      "height": 86,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_stamp_Lose",
+      "x": 705,
+      "y": 597,
+      "width": 245,
+      "height": 212,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "caravan_stamp_Win",
+      "x": 705,
+      "y": 811,
+      "width": 247,
+      "height": 213,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "title": "The Android and Naito-san",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "ある日のこと。\n{0}はひとり、『ジオ・テオゴニア』の\n城下町を歩いていた。すると──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ある日のこと。\n{0}はひとり、『ジオ・テオゴニア』の\n城下町を歩いていた。すると──"
+    },
+    {
+      "name": "？？？",
+      "text": "Watch out!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あぶな～いっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Dooon!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──どぉおん！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Hey!\nYou alright? Are you hurt?",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "おーい！\n大丈夫か～？\n怪我はないか～？"
+    },
+    {
+      "name": "？？？",
+      "text": "Yes!\nI'm fine!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "はーいっ！\nわたしは大丈夫でーすっ！"
+    },
+    {
+      "name": "？？？",
+      "text": "M-Me too...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "わ、\n私も……"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Yeah, well...",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "ああ、\nそれがな……"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah, Naito-san♪\nHello! Are you out for a walk?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\nナイトさんっ♪\nこんにちはー！\nお散歩ですかっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "I was helping with dismantling the house!\nThe roof suddenly collapsed, so I just said \"Ey!\" and used my Rocket Punch to break it!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "お家の解体のお手伝いをしてたんですっ！\nそしたら、\n屋根がズドーンと落ちてきちゃって！\nだからロケットパンチで\n「えーい！」ってしたところなんですよ～っ！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "I was saved thanks to Croce.\nOtherwise I'd have gotten sandwiched by the butter sandwich roof...\nThank you so much.",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "クローチェちゃんのおかげで助かったわ。\n危うくバターサンドの屋根にサンドされちゃうところだったもの……\n本当にありがとう。"
+    },
+    {
+      "name": "Croce",
+      "text": "No, no! It's natural to help each other when we're in trouble♪\n...Ah! My arm's back!\nDocking!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "いえいえっ！\n困ったときはお互いさまですよっ♪\n……あっ！　\nわたしの腕、戻ってきました！　\nドッキーングっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Ta-da! ♪\nAlright! Let's get back to cleaning up!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "じゃきーん♪\nよーし！\nそれじゃあ、\nお片付けを再開しましょうっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Really?\nThank you very much, Naito-san!\nI'll be counting on you♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "本当ですかっ？\nありがとうございますナイトさん！　\n頼りになりますっ♪"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah!\nBut, but, please leave the big pieces to me!\nI can carry as much as you want! Look, like this~♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ！　\nでもでも、\nおっきい破片はわたしに任せてくださいっ！\nいくらだって運べちゃいますから！\nほら、\nこんなふう──\nにっ♪"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh?!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あれっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "That was me, wasn't it?\nCould it have come from my fingers?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "しましたよねー？\nもしかして、\nわたしの指から聞こえましたかっ？"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Croce-chan, put down what you're holding for now.\nYou might be injured...!",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "クローチェちゃん、\n持っているものは一旦置いてっ。\n怪我をしてるのかもしれないわ……！"
+    },
+    {
+      "name": "Croce",
+      "text": "'Injured'?\nI see, is that so? nNow that you mention it, \nit's kinda hard to move my fingers at the moment.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "怪我？\nなるほど、\nそうなんですかねー？\n言われてみれば、\nなんとな～く指が動きにくい、\nかもっ？"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Oh no! I'll bring Mr. Popo here right away!\nWait a minute!",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "大変！\nすぐにポポさんを連れてくるわね！\nちょっと待ってて！"
+    },
+    {
+      "name": "Croce",
+      "text": "Aaah, don't worry!\nI'll go to him later!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ああっ、\n大丈夫ですよー！\n後でわたしが自分で行きますから～っ！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Just leave it to me.\nI'm already thankful with you helping me here.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "任せておけばいいさ。\n助けてもらった礼が\nしたいだけだよ。"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Besides, you're an android...\nA special race with body different from ours.\nEven if it's trivial, it'd be safer to have you examined.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "それに\nクローチェちゃんは機械人族……\n俺たちとは体のつくりが違う特別な種族だ。\n些細なことでも、\n診てもらった方が安心ってもんさ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Understood!\nThen I'll take you up on your sweet offer!\nI can't how offers can be \"sweet\" though! Ahaha♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "分かりましたっ！\nそれじゃあ、\nお言葉に甘えさせてもらいますねっ！\nわたし、\n甘さとか分かりませんけど！　\nあははっ♪"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Keep it that way.\nAlso, umm...Croce, do you know this guy?",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "そうしておきな。\nそれで、\nええと……\nクローチェちゃん。\nこっちの子は知り合いかい？"
+    },
+    {
+      "name": "Croce",
+      "text": "Yes!\nThis is Naito-san!\nHe's been taking care of the invading monsters together with me! ♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はいっ！\nこちら、ナイトさんですっ！\n一緒に「あばれる魔物さん」をやっつけてくれてるんですよっ♪"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Ah, I see!\nSo you’re that guy from another world?\nNo wonder I’ve never seen you before.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "ああ、\nなるほど！\nキミが\n別の世界から来たっていう子なのか。\n道理で見たことのない種族なわけだ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Naito-san is very reliable!\nI'm sure cleaning up here won't take long with his help♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ナイトさんはとっても頼りになるんですっ！\nきっとここのお片付けもあっという間ですよっ♪"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Hahahaha, that's reassuring.\nAlright, then I'll be grateful for your help.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "はははは、\nそれは頼もしいな。\nよし、\nじゃあ\nありがたく力を貸してもらうよ。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "クローチェの代わりに解体を手伝うことにした{0}。\n彼の頑張りもあり、作業は順調に進んでいった──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "クローチェの代わりに解体を手伝うことにした{0}。\n彼の頑張りもあり、作業は順調に進んでいった──"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow!\nYou're really good at this, Naito-san!\nThere aren't any ingredients mixed in either!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わーっ！\nナイトさん、\nすっごく手際がいいですねっ！\n食材も混じってないですしっ！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Impressive.\nWere you doing something similar in the other world?",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "大したもんだ。\nもしかして、\n向こうの世界で似たようなことをしてたのかい？"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh? \"Part-time jobs\"?\nYou mean helping out with all sorts of work?\nIn the other world?!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "へーっ、\nばいと！\nいろんなお仕事のお手伝いを、\nばいとっていうんですね！\n向こうの世界ではっ！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "If that's what it is, then...\nCroce-chan has been doing 'part-time jobs' every day.\nLook, she's helping everyone in the city.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "そうなると……\nクローチェちゃんは\n毎日\nばいと三昧になるね。\nほら、\n街中のみんなを手伝ってくれてるじゃないか。"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah, maybe you're right!\nBefore I knew it, I was already doing 'part-time jobs'!\nAhaha♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\nそうかもしれませんね！\nいつの間にかわたし、\nばいとしてましたっ！\nあははっ♪"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Hahahaha!\nEven in a different world, you're all doing the same thing.\nI'm sure the two of you would make for a good match, yeah.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "はははは！\n違う世界にいても、\n同じようなことをしていたなんてねぇ。\nきっと二人は\n相性がいいんだな、\nうん。"
+    },
+    {
+      "name": "Croce",
+      "text": "I think so too!\nWe're also in perfect sync when we fight together!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わたしもそう思います！\n戦うときも息ピッタリですしっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Naito-san! What other 'part-time jobs' did you do? Please tell me more♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ナイトさんっ！\nばいとって、\n他にはどんなことをするんですかっ？\nもっとわたしに教えてくださいっ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "A few minutes later...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数十分後──"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Phew, it's all taken care of now. It's thanks to you and Croce-chan, Naito-kun. Thank you very much.\nAh, you can take as many sweets as you want.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "ふう、\nもうすっかり片付いたな。\nクローチェちゃんと\nナイトくんのおかげだよ、\nありがとう。\nああ、\nお菓子は\n好きなだけ持っていってくれていいからね。"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow!\nThat's great, Naito-san♪\nPlease take lots for me too!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わーっ！\nよかったですね、\nナイトさんっ♪\nわたしの分もいっぱいもらっちゃってくださいっ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Croo～～ceee ～～～!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "クロォ～～チェ～～～～っ！！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah!\nThat voice must be ...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ！\nこの声はーっ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Sorry to keep you waiting!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "待たせたのう！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Grandpa Popo!\nThank goodness you're here!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ポポおじいさんっ！\nよかったーっ、\n来てくれたんですねっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "What are you saying?!\nYou're a special andrioid!\nI'm the only one who can take care of you!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "な～にを当たり前のこと言っとるんじゃ！\nオマエはスペシャルな機械人族なんじゃぞ？\n面倒をみられるのはワシくらいのもんじゃ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "After all, I'm a specialist in machinery!\nI am Grandpa Popo, the best engineer in Gio Teogonia!!\nGahahaha!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "なにせワシは機械のスペシャリスト！\n『ジオ・テオゴニア』一の技術屋・\nポポじいさんじゃからな！！\nがっはっはっは！！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Croce-chan, I'm sorry for taking so long.\nI really wanted to bring him here sooner, you know?\nBut Popo's preparations weren't finished yet...",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "クローチェちゃん……\nごめんね、\n遅くなっちゃって。\n本当はもっと早く連れてきたかったんだけどね？\nポポさんの準備が\nなかなか終わらなくて……"
+    },
+    {
+      "name": "Giant Man",
+      "text": "Anyway, I'm glad you came.\nI'll take care of the rest,\nso make sure you get a good look at her.",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "なんにしても、\n来てもらえてよかったよ。\nあとはこっちでやっておくから、\nクローチェちゃんは\nしっかり診てもらいな。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "No, no, it's not like I'm just late for doing nothing, you know?\nTechnicians are to always be prepared for engineering work.\nHmm? Hey, you there, kid.\nI've never seen you before. Are you...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いやいや、\nただ遅れてきたわけじゃないぞい？\n技術屋には技術屋の準備ってものが──\nうん？\nおい、\nそこの小僧。\n見たことのない顔じゃな。\nひょっとしてオマエ……"
+    },
+    {
+      "name": "Croce",
+      "text": "Ah!\nAllow me to introduce him!\nThis is Naito-san from another world!♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ！\n紹介しますねっ！\nこちら、\n異世界のナイトさんでーすっ♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Ohhh, I know you!\nOhh, so you're the one rumored to be able to charge up Croce...!\nHmm, hmm...\nI see, I see...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "おおう、\nやっぱりそうか！\nほう、\nオマエがクローチェを充填できるって噂の……！\nふんふんふん、\nなるほどなるほど……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Aah...\nI can't really tell how you're made just by looking at you.\nCan I take you apart, kid?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "あ～……\n見た目だけじゃ造りがよく分からんな。\n小僧、\n分解していいか？"
+    },
+    {
+      "name": "Croce",
+      "text": "Whaaat?!\nD-Don't do that~! Naito-san is not an android!\nIf you take him apart, you'll not be able to re-assemble him, unlike me!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えええっ！？　\nだ、\nだめですよ～！\nナイトさんは機械人族じゃないんですっ！\n取れたら取れっぱなしの\n開けたら開けっぱなしになっちゃいます～！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Gahahaha!!\nJust kidding, just kidding!\nEven I wouldn't go that far!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっはっは！！\n冗談じゃ冗談！　\nさすがのワシでもそこまでせんわい！"
+    },
+    {
+      "name": "Croce",
+      "text": "Oh, you're just kidding?\nYou totally tricked me!\nGeez, Grandpa Popo!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あっ、\n冗談だったんですかっ？\nすっかり騙されちゃいました～！\nもーっ、\nポポおじいさんったらー！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Sorry, sorry!\n...Now then, I think it's time to get to work as an engineer.\nCome on, Croce. Show me.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "すまんすまん！\n……さて、\nそろそろ技術屋の仕事をするかのう。\nどれ、\nクローチェ。\nみせてみろ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Ok!\nPlease take a look!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はいっ！\nお願いしまーすっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Ahh...\nMmm...\nThis is...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ああ……\nんんん……\nこいつは……"
+    },
+    {
+      "name": "Croce",
+      "text": "What do you think?\nAm I injured?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "どうですかっ？\nわたし、\n怪我しちゃってますかっ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "...Debris and fragments are wedged into your joints.\nIf you put too much force into it, it's going to malfunction.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "……関節に破片が食い込んじまってる。\nこのまま力を入れりゃ、\n不具合も起きるわな。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Well, it's like a simple light jam.\nCroce, sit over there.\nI'll fix you up good.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "まあ、\n軽い突き指みたいなもんじゃ。\nクローチェ、\nそこに座れ。\nちゃちゃっと直してやる。"
+    },
+    {
+      "name": "Croce",
+      "text": "Okaaay!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はーいっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Still, I can't believe it's filled with such small fragments.\n...Must have been the consequences of those recent monster exterminations.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "しっかし、\nこんな小さな破片が詰まるなんてのう。\n……魔物退治の影響が出とるなぁ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Whaaat?!\nReally?!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えーっ！\nそうだったんですかっ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "If you keep hitting them with your special power, it'll eventually start to wear out.\nFrom now on, I'll have to do more maintenance than usual.\nDo come see me more often, Croce.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "オマエのスペシャルパワーで殴りまくっとったら\nガタも来るわい。\nこれからは、\n今よりもマメにメンテせんとな。\nもっと顔を見せにくるんじゃぞ、\nクローチェ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Understood!\nI'll come and show you!\nNot just with my face, but with my whole body♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わかりましたっ！\nちゃんと見せにいきますねっ！\n顔だけじゃなくて、\n全身でっ♪"
+    },
+    {
+      "name": "Croce",
+      "text": "Yup, that's right♪\nGrandpa Popo has been looking after me all this time!\nAnd he's really good at it!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はいっ、\nそうなんですよっ♪\nポポおじいさんは、\nずっとわたしの面倒をみてくれてるんですっ！\nそれに、\nすっごく器用なんですよっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I can't just leave someone this dangerous alone.\n...Besides, I'm an engineer.\nI'll do whatever it takes if you ask me for my skills.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "こんな危なっかしいヤツ、\n放っておくなんてできんじゃろう。\n……それに、\nワシは技術屋じゃからな。\n腕を求められたら、\nいくらだって奮ってやるわい。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "A super-civilization is said to have existed in the long past...\nand it's an engineer's job to discover and research their ancient technology.\nWell, it's mostly my exclusive patent.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "かつて存在したとされる超文明……\nそのワザを研究しているのが\n技術屋じゃ。\nまあ、\nほとんどワシの専売特許になっとるがな。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Civilizations from long ago are a big deal, you know? Even just recreating their technology requires incredible knowledge and skill. In other words, it's only natural that I'm the only one who is up to the task! Gahaha!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "大昔の文明ってのは、\n大したもんじゃぞ？\n技術を再現するだけでも、\nとんでもない知識と腕が必要なんじゃ。\nつまり、\n扱えるのがワシくらいなのも当然ってことじゃ！　\nがっはっは！"
+    },
+    {
+      "name": "Croce",
+      "text": "It's amazing, isn't it!?\nThanks to that, he can do maintenance on me too♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "すごいですよねっ！\nおかげで、\nわたしのメンテナンスもしてもらえるんですっ♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I don't know by what logic the technology can be applied to androids, though.\n...In the first place, there are too many mysteries surrounding the so-called 'android' race.\n'Charging' makes for a good example.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "どういう理屈で、\n機械人族に技術が応用できるのかは分からんがな。\n……そもそもじゃ。\n機械人族という種族には謎が多すぎる。\n充填がいい例じゃな。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "They can move without having to eat, but they need to be 'charged up' instead.\nOn top of that, 'charging' can only be done with [Royal Equipment].\nWhat the hell is going on here?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "飯を食わんでも動けるが、\nその代わりに充填をせにゃならん。\nおまけにその充填には\n『王家の装備』が必要ときた。\nこりゃ一体どういうことなんじゃ？"
+    },
+    {
+      "name": "Croce",
+      "text": "Right, right, right!\nThat must mean I've been Lyrael's Chevalier since I was born♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はいはいはーい！\nそれはきっと、\nわたしは生まれたときから\nライラエルさまのシュヴァリエってことなんですよーっ♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Chevalier...\n[Guardian of the Royal Equipment], huh? It's logical to think of it that way, but...\nStill, Lady Lyrael isn't your “master,” is she?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "シュヴァリエ……\n『王家の装備』の守護者か。\nそう考えることもできなくはないが……\nしかし、\nライラエルさまは\nオマエの『マスター』ではないじゃろう？"
+    },
+    {
+      "name": "Croce",
+      "text": "Please don't say it like that~!\nI just haven't become one 'yet'!\n'Not yet'~",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "そのことは言わないでください～っ！\nまだ、\nなってもらってないだけですからっ！\nま～だっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "No, no, I meant that it might be an important factor to understand how this 'charging' mechanic works.\nAh, that's right. Speaking of charging...\nKid, how do you do that?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いやいや、\n充填の仕組みを理解するには\n重要な要素かもしれんぞ？\nああ、\nそうじゃ。\n充填といえば──\n小僧、\nオマエは何者なんじゃ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I've tried a lot of things with Croce up until now, but nothing works other than having Lady Lyrael send power through her [Royal Equipment]. But you can do it without. What's the meaning of this?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "これまでクローチェと一緒に色々と試してきたが\nライラエルさまが\n『王家の装備』を通じて力を送る以外ダメじゃった。\nしかし、\nオマエはできる。\nこれは一体どういうことじゃ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Maybe the energy the kid has is similar to [Royal Equipment]?\nOr maybe even a completely different kind of energy but just needs to have a sufficient amount...\nNo, maybe... Maybe the being who made the [Royal Equipment]...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "小僧の持つエネルギーが\n『王家の装備』と似とるのか、\nそれとも\n全く別のエネルギーであっても\n総量さえ足りとればいいのか……\nいや、\nあるいは……\n『王家の装備』を作った存在が……"
+    },
+    {
+      "name": "クローチェ",
+      "text": "？？？",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "？？？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "...Well, it doesn't matter.\nIt'll unfold eventually, no matter what!\nThat's how the world works!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "……まあ、\nいいじゃろ。\nどんなことでもいずれは分かる！\n世の中そういうもんじゃ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Alright, repairs are done!\nCroce, give me your arm!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "よーし、\nちょうど修理も終わったぞい！\nクローチェ、\n腕を出してみろ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow!\nThank you so much!\n...Huh?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わーっ！\nありがとうございまーすっ！\n……あれっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "Whaaat?! My arm has turned into a drill now!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ええーっ！？\nわたしの手がドリルになっちゃってますよ～っ！！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Gahaha!!\nIt's a special new piece of equipment I secretly made! What do you think?\nIsn't it cool?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっは！！\nこっそり作っとったスペシャルな新装備じゃ！\nどうじゃ、\nイカすじゃろう？"
+    },
+    {
+      "name": "Croce",
+      "text": "Geez, Grandpa Popo~!\nBut... Ahaha♪\nIt does look really cool!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "もーっ、\nポポおじいさんったら～っ！\nでも……\nあははっ♪\nカッコいいですね、\nこれっ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Of course it is!\nCome on, try spinning the drill!\nThe output is, of course, full power!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "そうじゃろうそうじゃろう！\nほれ、\nドリルを回転させてみろ！\n出力はもちろんフルパワーじゃあ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Understood!\nDrill rotation!\nFull power!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わかりましたっ！\nドリル回転！　\nフルパワーっ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Wawawa?!\nTh-That's some amazing power~!\nGyuuiii~♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わわわっ！？\nす、\nすごい力です～っ！\nぎゅいいいいーーーんっ♪"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Oh, that's it! Keep it up!\nKeep on spinning with your full power!\nLet's do a special big spin!!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "おお、\nいいぞいいぞ\nその調子じゃ！\n景気よく思いっきり回せい！\nスペシャル大回転じゃあーーー！！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Okay!\nSpeciaaal!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はーいっ！\nスペっシャ～～～ルっ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Hmm...\nThe world seems to be spinning...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "う～～～ん……\nなんだか\n世界がグルグルしてます～"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That's because it's a drill. The more the drill spins, the better!\n...What's with that look, kid? You look like you want to scold me.\nI know, I know. I'll fix it next time.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "そりゃあ\nドリルじゃからのう。\nドリルは回れば回るほどいい！\n……なんじゃ小僧、\nその目は。\n小言の一つでも言いたげじゃな。\n分かっとる分かっとる、\n次はちゃんと直すわい。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "C'mon, Croce!\nLet's dock your new arm again!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ほら、\nクローチェ！\n改めて、\n新しい腕をドッキングじゃーっ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Waa!\nThat's right, this is what my arm feels like...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わーっ！\nそうそうっ、\nわたしの手といえばこんな感じ……"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh? Huh, huh?\nWas my hand this big?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あれっ？\nあれあれっ？\nわたしの手って、\nこんなに大きかったですか？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Gahahaha!!\nYou've got that right! This is the second installment of my special new equipments!\nIt's a super giant arm!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっはっは！！　\nバレたか！\nこれこそ、\nスペシャルな新装備第二弾！\n超巨大アームじゃあ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "It's too big!\nWith an arm this big, I'll lose control of my strength even more!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "おっきすぎますよ～っ！\nこれじゃあ、\nわたしもっと力加減がヘタっぴになっちゃいます～！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Don't worry about it!\nListen to me, Croce, \"big things can also be small things\"!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "なーに\n気にするな！\nいいかクローチェ、\n大は小を兼ねるのじゃ！"
+    },
+    {
+      "name": "Croce",
+      "text": "\"Big things can also be small things\"...\nI see! So \"big\" is no different from \"small\", huh?♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "大は小を兼ねる……\nなるほどーっ！\nおっきい方がお得なんですねっ♪"
+    },
+    {
+      "name": "Croce",
+      "text": "That's right!\nIf so, with this arm, I wonder if it'll be okay to hug Naito-san?\nI mean, it's \"small\" too~",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "そうだ！　\nこのアームなら\nナイトさんをハグしても大丈夫ですかねっ？\nだって小も兼ねてますし──"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh? Naito-san, where are you going in such a hurry?\nAhaha, wait!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あれっ？\nナイトさん、\nそんなに急いでどこにいくんですか？\nあはは\n待ってくださ～いっ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Even in 'Gio Teogonia', she's a mysterious existence.\nShe's having a great time with people today as well.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『ジオ・テオゴニア』でも謎の多い存在であるクローチェ。\nそんな彼女は、今日も人々と楽しい時間を過ごしているのだった。"
+    }
+  ]
+}

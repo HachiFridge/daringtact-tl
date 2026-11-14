@@ -1,0 +1,733 @@
+{
+  "title": "Bursting with Pudding",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Christina, Illya, and Nozomi are candidates to become the next Santa Claus.\nThey begin to deliver gifts to the people of Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サンタクロース候補となったクリスティーナとイリヤとノゾミ。\nランドソルの人々にプレゼントを届けるため、３人は動き始める。"
+    },
+    {
+      "name": "Santa Claus",
+      "text": "Well then, Santa candidates.\nYou can take my trusty reindeer with you on your trial.",
+      "choice_data_list": [],
+      "orig_name": "サンタクロース",
+      "orig_text": "それでは、\nサンタ候補たちよ。\nこの子らと共に行くといい。"
+    },
+    {
+      "name": "Reindeer",
+      "text": "Brooough?\n([i]These[/i] are the candidates to be the new Santa?)",
+      "choice_data_list": [],
+      "orig_name": "トナカイたち",
+      "orig_text": "ブオォォォ。\n（この人たちが新しいサンタ候補？）"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Reindeer!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "トナカイさん！"
+    },
+    {
+      "name": "Illya",
+      "text": "Those red cloaks and hats certainly do evoke an image\nsuitable for Santa's entourage.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "赤いマントに帽子、\nまさしくサンタの相棒といった風体じゃのう。"
+    },
+    {
+      "name": "Christina",
+      "text": "In addition, they are of very strong build.\nI'm sure we'll put them to good use... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それに、\nなかなかいい体つきだ。\n使い出がありそうだな……♪"
+    },
+    {
+      "name": "Santa Claus",
+      "text": "You're absolutely right.\nI chose this group for being reindeer among reindeer—\nelite reindeer.",
+      "choice_data_list": [],
+      "orig_name": "サンタクロース",
+      "orig_text": "そうじゃろうそうじゃろう。\nその者らは\nサンタクロースに選ばれた\nトナカイの中のトナカイ、\nエリートトナカイじゃからのう。"
+    },
+    {
+      "name": "Illya",
+      "text": "Not the most creative name...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そのまんまじゃのう……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Pleased to meet you, Mr. Reindeer!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "よろしくね！　\nトナカイさん！"
+    },
+    {
+      "name": "Elite Reindeer",
+      "text": "Brooough, broough!\n(Nice to meet you too, Master!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイたち",
+      "orig_text": "ブオオオ！　ブオ！\n（よろしく！　ご主人！）"
+    },
+    {
+      "name": "Santa Claus",
+      "text": "Well then, you can get started. I will observe from a distance.\nIn the end, I will decide who has brought joy to the most people.",
+      "choice_data_list": [],
+      "orig_name": "サンタクロース",
+      "orig_text": "では行ってくるがよい。\nワシは遠くから見ておるぞ。\n最終的に誰が一番人々を喜ばせたかは、\nこちらで判断するからの。"
+    },
+    {
+      "name": "Santa Claus",
+      "text": "Go forth and spread joy, my Santa suitors!",
+      "choice_data_list": [],
+      "orig_name": "サンタクロース",
+      "orig_text": "励むのじゃ、\nサンタ候補たちよ！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hm-hmm, holidays are here. ♪\nI've been the bestest girl, so Santa will definitely \nbring Miyako lots of presents! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ふんふ～ん、\n今日はクリスマスなの～♪\nミヤコはいい子にしてたから、\nきっとサンタさんが\nい～っぱいプレゼントをくれるの～♪"
+    },
+    {
+      "name": "Miyako",
+      "text": "A heap! ♪\nA pile! ♪\nA bucket! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "大盛りなの～♪\n山盛りなの～♪\nバケツなの～♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Could that perhaps be Miyako over yonder?\nWhat a perfect opportunity.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あそこにおるのはミヤコかの？\nちょうどいいところにおったのう。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "I knew it.\nEveryone's looking forward to getting presents from Santa.\nLet's give them what they're waiting for!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "やっぱりみんな、\nサンタさんからのクリスマスプレゼントを楽しみにしてるんだね。\n期待に応えなくっちゃ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Good, time for a practice run.\nFirst we give a gift to that girl.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "よし、\nならば手馴らしといこうか。\nまずはアイツにプレゼントを渡すとしよう。"
+    },
+    {
+      "name": "Christina",
+      "text": "Hey, boy. Considering your flair for making friends,\nI suppose she's an acquaintance of yours, yes?\nTell me what that girl desires.",
+      "choice_data_list": [
+        "Pudding!",
+        "Pudding!!",
+        "Pudding!!!"
+      ],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おい坊や。\n顔の広いオマエのことだ、\nどうせ知り合いなんだろう？\nあのお嬢ちゃんの欲しがりそうなものを教えろ。"
+    },
+    {
+      "name": "Christina",
+      "text": "What a quick response. You seem quite confident about it.\nThis should be very straightforward. ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "即答か。\nよほど自信があるらしい。\n簡単でよさそうじゃないか♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Yes, I am aware.\nEvery day, without fail, I hear of it.\nSo much so that it occasionally manifests in my dreams.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ、\n知っとる。\n毎日欠かさず聞いとる。\nたまに夢に見るくらい聞いとる。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Enough to yell it at us like that?!\nSh-she must really like pudding, huh...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "そんなに大きな声で断言するほど！？\nそ、\nそんなにプリンが好きなんだ……\nあの子……"
+    },
+    {
+      "name": "Illya",
+      "text": "I am all too familiar with Miyako's favorite thing.\nCome with me, {0}!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ミヤコの好きなものなど\n百も承知じゃわい！\nついてくるがよい、\n{0}よ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Oh, Illya's going to get there first...!\nHey, {0}, won't you come with me?",
+      "choice_data_list": [
+        "Go with Illya.",
+        "Go with Nozomi."
+      ],
+      "orig_name": "ノゾミ",
+      "orig_text": "あっ、\nイリヤさんが先に行っちゃう……！\nねぇ{0}くん、\n私と一緒に来てくれないかなっ！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Now then. First of all, we need to acquire pudding.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ。\nではまず\nプリンを手に入れねばの！"
+    },
+    {
+      "name": "Illya",
+      "text": "Miyako will surely require more than one or two.\nWhat would be the optimum number to prepare?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ミヤコのことじゃ、\n一つや二つでは足りんじゃろ。\nどれくらい用意すればよいのか……"
+    },
+    {
+      "name": "Illya",
+      "text": "Hm? That song from earlier?\nAh, the one Miyako was singing?\nEr... what was it now...? ",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ん？　\nさっきの歌？\nミヤコが歌っておったあれか？\nええっと、\n何じゃったか……"
+    },
+    {
+      "name": "Illya",
+      "text": "A heap, a pile, and...\ndid she say \\\"bucket\\\"...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "大盛りがどうとか、\n山盛りがどうとか、\nあと……\nバケツとか言っておったか……？"
+    },
+    {
+      "name": "Illya",
+      "text": "! I see, a bucketful...!\nA pail filled to the brim with pudding should suffice!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "！　\nなるほど、\nバケツか……！\nバケツいっぱいにプリンを用意すればよいのじゃな！？"
+    },
+    {
+      "name": "Illya",
+      "text": "As expected from my minion.\nI praise you for your sound advice!\nHere, let me pat your head!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "さすがは我が眷属。\n的確な助言、\n褒めてつかわすぞ！\nほれほれ、\n頭を撫でてやろう！"
+    },
+    {
+      "name": "Illya",
+      "text": "Hehe. Being able to pat your head like this \nis rather pleasant.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふふん。\nお主の頭をこうして撫でられるのも、\n良いものじゃな。"
+    },
+    {
+      "name": "Illya",
+      "text": "However, I also feel somewhat sad...\nthat we need not hold hands\nand embrace as we are accustomed to.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "じゃが、\nいつものように手を繋いだり、\n抱きついたりしなくてよいというのも\n……少しばかり、寂しい気がするの。"
+    },
+    {
+      "name": "Illya",
+      "text": "! What drivel am I spouting?!\nHey, forget that right now! It was but a passing fancy!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "っ！　\nわらわは何を言うておるんじゃ！？\nええい忘れよ！　\n一時の気の迷いじゃ！"
+    },
+    {
+      "name": "Illya",
+      "text": "See here, {0}! Why are you the one patting my head?\nI am your master, am I not?!\nYou're aware? ...Then so be it.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "こら{0}！　\nなぜわらわの頭を撫でる！\nわらわが主なんじゃからな！？\n分かっている？　\n……なら、良い。"
+    },
+    {
+      "name": "Illya",
+      "text": "Come, this is not the time.\nPrepare the pudding pail!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ほれ、\nこんなことをしている場合ではあるまい。\nバケツプリンの用意をするのじゃ！"
+    },
+    {
+      "name": "Miyako",
+      "text": "The holidays are here!\nToday Santa will bring pudding to good kids! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "今日はクリスマスなの～\nサンタさんがプリンを届けてくれる日なの～♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Today is not that kind of day, Miyako...\nHowever, luck is with you. For this year, I am Santa Claus!\nYour wish shall be granted by yours truly!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "クリスマスはそういう日ではないぞ、\nミヤコよ……\nじゃが\n運が良かったの。\n今年のサンタクロースはわらわじゃ！\nその望み、\n叶えてくれようぞ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Now, accept your gift!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "さぁ、\n受け取るがよい！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Eep! A bucket falled from the sky!\nIt's... pudding!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ひぇっ！？　\n空からバケツが降ってきたの！？\nこれは……\nプリンなの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Wow! Santa really did bring Miyako pudding!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "すごいの！　\n本当にサンタさんから\nプリンが届いたの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Time to eat it all up! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "いただきますなの～♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Mm-hmm. She is feasting quite heartily.\nPure jubilation, I presume!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむうむ。\nいい食べっぷりじゃ。\nこれは大喜びじゃろう！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Ahhh, all gone.",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "はぁ、\nごちそうさまなの。"
+    },
+    {
+      "name": "Illya",
+      "text": "You're already finished?! Did you even take a breath?!\nRegardless, with this I am one step closer...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "もう食べ終わったのか！？　\n早すぎじゃろ！？\nじゃが、\nこれでわらわが一歩先を……！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hmmm, but it wasn't enough.",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ん～\nでも、\n何だか物足りないの～"
+    },
+    {
+      "name": "Illya",
+      "text": "What did you say?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "何、\nじゃと……！？"
+    },
+    {
+      "name": "Miyako",
+      "text": "But it's no big deal for Santa.\nPudding, Pudding. ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "サンタも大したことないの。\nプリン～\nプリン～♪"
+    },
+    {
+      "name": "Illya",
+      "text": "A whole bucketful is insufficient...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "バケツでも、\n足りんのか……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Thanks!\nWith you by my side, this contest's as good as won! ♪",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ありがとう！\n{0}くんがいてくれたら百人力だよっ♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Let's see, first we need to gather ingredients!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ええっとじゃあ、\nまずは材料を揃えなきゃ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Huh? What do you mean, what am I doing...? I'm going to make pudding.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "え？　\n何をするのって……\nプリンを作るんだよ？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Sure, it'll take a lot of time and effort,\nbut giving away something you bought is just plain meaningless, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "確かに手間はかかるけど、\n買ったものをあげるなんて味気ないでしょ？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "A present from Santa\nhas to be filled with sincerity!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "サンタさんからのプレゼントには、\n真心がこもってなくちゃね！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Ah, we can probably get the ingredients from that grocery store!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あ、\nそこの道具屋で材料揃えられそう！"
+    },
+    {
+      "name": "Clerk",
+      "text": "Hello, and welcome!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "お、\nいらっしゃい！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Let's see... Eggs and sugar, milk...\nand a little something to spice it up...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ええっと、\n卵と砂糖、\nあとは牛乳……\nそこにアレンジして何か……"
+    },
+    {
+      "name": "Clerk",
+      "text": "Very nice, young lady.\nThe Santa look really suits you!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "いいねぇお嬢さん、\nサンタの格好、\n良く似合ってるよ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Huh? Th-thank you very much...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えっ、\nあ、\nありがとうございます……！"
+    },
+    {
+      "name": "Clerk",
+      "text": "I'm so envious of you, young man!\nGetting the chance to go shopping with your cute girlfriend!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "お兄ちゃんも羨ましいねぇ！\nこんなかわいい彼女さんと\nお買い物なんてさ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "G-girlfriend?!\nNo, you've got the wrong idea! We're not like that yet...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "かっ、\n彼女ぉっ！？\nち、\n違います！　\n私たちはまだ、そんなんじゃ……！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Wait, I didn't mean \\\"yet\\\"... See, um, I'm an idol...!\nAll my fans are precious to me...!\nBut {0} is special...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "まだっていうか、\nいや、\nその、\n私はアイドルだし……！\nファンのみんながっていうか……！\nでも\n{0}くんだけは特別っていうか……！"
+    },
+    {
+      "name": "Clerk",
+      "text": "Hm? Idol?\nNow that you mention it, young lady, you do look a little familiar...",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "ん？　\nアイドル？\nそういえばお嬢さん、\nどっかで見た気が……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Huh?! K-keep the change!\nThank yooouuu!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "っ！　\nこ、\nこれお代です！\nありがとうございました～～～～～っ！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hmhmhm. ♪\nWhere's the pudding tree? ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ふんふ～ん♪\nプリンのツリーはどこにあるの～♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "...Gotta pull myself together.\nAll right, let's get that present to Miyako!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "……気を取り直して。\nミヤコちゃんにプレゼント、\n届けよっ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We made it in a hurry, so it turned out really simple.\nI hope she likes it...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "急いで作ったから簡単なものになっちゃったけど、\n喜んでくれるといいな……"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hmmm...? That smell...\nIt's pudding! There's pudding in a place like this?!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ん～……？　\nこの匂い～……\nプリンなの！　\nこんなところに\nプリンがあるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "It has a tag on it.\nIt says \\\"To Miyako\\\"!\nTime to eat it all up!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ちゃんとメッセージカード付きで、\nミヤコちゃんへって書いてあるの～！\nいっただーきまーすなのー！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Th-this is...!\nSo yummy!\nMiyako's never had anything like it. It tastes homemade!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "こ、\nこれは……！\nとってもおいしいの～！\nどこで食べたのとも違う、\n手作りの味なの～！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We did it! She's so happy!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "やったね！　\n喜んでくれてるよ！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Awww... It's all gone. There was only a mouthful...\nIt's yummy, but it's not enough for Miyako!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "むぐ……\nでも、\n一口で食べ終わってしまったの……\nおいしいけど少なすぎなの～！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Seriously?!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "えええ！？"
+    },
+    {
+      "name": "Miyako",
+      "text": "It's all Santa's fault! Now Miyako wants to eat more pudding!\nPudding, pudding, pudding!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "サンタのせいで\nもっとプリン食べたくなったの～！\nプリンプリンプリン～！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "We should have made more...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "もっとたくさん作ればよかったね……"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahah. ☆\nPathetic. Your half-baked efforts are going to give me a stomachache... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あはは☆\n温い、\n生温すぎて\nお腹を壊してしまいそうだ……♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Producer?!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "プロデューサー！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Christina! Where have you been?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "クリスティーナ！　\nどこへ行っておったのじゃ……！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Santa Claus is a busy individual. ♪\nNow, reindeer! Bring forth the pudding!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "サンタさんは忙しいのだよ♪\nさぁ、トナカイ！　\nプレゼントの準備だ！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Wh-what's that...?!\nA giant pudding in the sky...?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "な、\n何あれ……！？\n空に、\nでっかい、プリン……？"
+    },
+    {
+      "name": "Illya",
+      "text": "The whole thing is pudding?!\nHey, Christina!\nAre you not familiar with the concept of moderation?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あれ全部がプリンじゃと！？\nこれ\nクリスティーナ！\n加減というものを考えんか！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Moderation? Absurd.\nThere is no limit to desire.\nI always take on challenges with full force... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "加減？　\n笑止千万、\n欲望に限界などあるわけがないだろう？\nいつだって最大級の物量で攻めるまで……♪"
+    },
+    {
+      "name": "Christina",
+      "text": "Heheh. These reindeer are quite useful.\nOnce I ordered them to scrounge pudding from all over town,\nthey completed their task in a flash... Everyone should own one... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ふふん。\nこのトナカイ、\nなかなか使える奴だぞ。\n町中からプリンをかき集めろと命令したら、\nあっという間に\n用意してくれた……\n持つべきものはトナカイだな……♪"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "B-brooough...!\n(So... heavy...!)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "ブ、ブオオ……！\n（お、重い……！）"
+    },
+    {
+      "name": "Illya",
+      "text": "No, however you look at it, they are exhausted...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "いや、\nどう見ても疲れておるようじゃが……"
+    },
+    {
+      "name": "Miyako",
+      "text": "Wh-what...?\nThe sky gotted dark all of a sudden!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "な、\n何なの～？\n空が急に暗くなったの～！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Come now, eat!\nSanta has a present for you, my dear! ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さぁ喰らうがいい！\nサンタさんからのプレゼントだ、\nぞっ♪"
+    },
+    {
+      "name": "Miyako",
+      "text": "*cough, cough* What's going on?\nOhhh, this is pudding!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "けほけほっ、\n何なの～？\nあ～っ！　\nこれ、\nプリンなの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "The whole town is covered in pudding!\nA pudding sea!\nIt's a dream come true!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "町中プリンだらけなの！\nまるでプリンの海なの！\n夢みたいなの～っ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Heheh. How's that?\nSuch joy—without a doubt, my gift is the best... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ふふん。\nどうだ？\nあの喜びよう、\nワタシのプレゼントが一番だろう……♪"
+    },
+    {
+      "name": "Nozomi",
+      "text": "P-Producer... I think you overdid it a bit.",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "プ、\nプロデューサー……\nやりすぎだと思います。"
+    },
+    {
+      "name": "Illya",
+      "text": "Uuurgh... She's certainly a woman of means.\nAnd she's right, Miyako is indeed overjoyed...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぬうう……\n手段を選ばぬ奴め。\n確かに、\nミヤコの奴は喜んでおるようじゃが……！"
+    },
+    {
+      "name": "Miyako",
+      "text": "I'm eating and eating. ♪\nI'm eating loads, but it doesn't run out. ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "どんどん食べるの～♪\n食べても食べてもなくならないの～♪"
+    },
+    {
+      "name": "Man",
+      "text": "I-I don't understand!\nWhy did pudding suddenly fall from the sky?!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "な、\n何だよこれ！\n何で急に空からプリンが……！？"
+    },
+    {
+      "name": "Woman",
+      "text": "Oh no, my clothes are all sticky!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "もうっ、\n服がプリンでベチャベチャじゃないっ！"
+    },
+    {
+      "name": "Man",
+      "text": "Who's gonna clean this all up? Not me...!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "誰が片付けるんだ、\nこれ……"
+    },
+    {
+      "name": "Woman",
+      "text": "It's a pudding nightmare!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "プ、\nプリンの悪夢だわ……！"
+    },
+    {
+      "name": "Christina",
+      "text": "The joyous voices of the townspeople are making my heart swell... ♪\nNow, onward! Jolly old St. Chris, coming through... ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "国民の喜びの声が実に心地いい……♪\nさぁ、次だ！　\nクリスティーナサンタさんが通るぞ……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "I'm just getting warmed up!\nNext time, I shall be the victor!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "おのれ調子づきおって！\nわらわも次こそは……！"
+    },
+    {
+      "name": "Nozomi",
+      "text": "H-hang on, you two!\nI-is it really okay to leave everything like this...?",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "あ、\n待って二人ともっ！\nい、\nいいのかな、\nこのままで……？"
+    },
+    {
+      "name": "Miyako",
+      "text": "This holiday is amazing. ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "クリスマス\n最高なの～♪"
+    },
+    {
+      "name": "Narration",
+      "text": "The three potential Santas bestowed gifts upon Miyako.\nAnd with unwavering confidence, they moved on to the next recipient.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミヤコにプレゼントを配ったサンタ候補の３人。\n確かな手ごたえと共に、次の場所へと向かうのであった。"
+    },
+    {
+      "name": "Elite Reindeer 1",
+      "text": "Broooough...\n(I'm exhausted...)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ１",
+      "orig_text": "ブオオ～……\n（疲れた～……）"
+    },
+    {
+      "name": "Elite Reindeer 2",
+      "text": "Brooough?\n(Are you okay?)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ２",
+      "orig_text": "ブオ？\n（大丈夫か？）"
+    },
+    {
+      "name": "Elite Reindeer 3",
+      "text": "Buh, brooough...\n(Well, we always get unreasonable requests.)",
+      "choice_data_list": [],
+      "orig_name": "エリートトナカイ３",
+      "orig_text": "ブオオ～ブオォオ～……\n（まぁ、無茶ぶりはいつものことだし……）"
+    }
+  ]
+}

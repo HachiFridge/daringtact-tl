@@ -1,0 +1,614 @@
+{
+  "title": "The Girls' Exchange Festival",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Gio Gehenna, the place where the intentions of many people are going to intersect. However, for now, the exchange festival started peacefully without any major trouble.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "様々な者たちの思惑が交錯するジオ・ゲヘナ。\nしかし交流祭は大きなトラブルもなく、\nいたって平和に始まった。"
+    },
+    {
+      "name": "Narration",
+      "text": "Lively voices echoed from all over the festival grounds, exciting the hearts of the people of Gio Gehenna who had come, out of curiosity or else, to learn more about the celebration...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "祭りの会場のそこかしこから活気のある声が響き渡り、\n訪れたジオ・ゲヘナの民の心を沸かせるのだった──"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "Come on, come all, look, look! Safety for your family, prosperity in business, and success in love! This rake will bring you all kinds of financial and good fortune!",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "さあ\n見てって見\nてってよー！　\n家内安全\n商売繁盛\n恋愛成就！\n金運幸運なんでも掻きよせる熊手だよー！"
+    },
+    {
+      "name": "Merchant 2",
+      "text": "Welcome! How about some sweet oshiruko? This delicacy will warm your heart and your stomach both!",
+      "choice_data_list": [],
+      "orig_name": "商人２",
+      "orig_text": "いらっしゃいませー！　\n甘ーい\nおしるこはいかがー！\n心もお腹もぽかぽかになれる\nおしるこだよー！"
+    },
+    {
+      "name": "Locals 1",
+      "text": "THIS IS SOOOO GOOD! It's truly the first time I've eaten something this good! Is this what you Landosolians always eat?",
+      "choice_data_list": [],
+      "orig_name": "地元民１",
+      "orig_text": "ん\nまーい！　\nこんなうまいもんはじめて食ったぜ！\nランドソルってのは\nいつもこんなの食べてるのか？"
+    },
+    {
+      "name": "Locals 2",
+      "text": "An arrow for... exorcism? Huh, so this isn't a weapon, but merely a decoration? Hmm, so it's an amulet. Sounds interesting, give me one!",
+      "choice_data_list": [],
+      "orig_name": "地元民２",
+      "orig_text": "破魔、\n矢？　\nえ、\nこれ武器じゃなくて\n飾っとくだけなの？\nふーん\n魔除けなんだ。\n面白いわね、\n一つちょうだい！"
+    },
+    {
+      "name": "Saren",
+      "text": "Wow, what a huge turnout... It's even more lively than I expected! It was worth bringing all that luggage with us.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "わあ、\nすごい人出……\n予想以上の盛り上がりね！　\n大荷物を持ってきた甲斐があったわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "True enough, I guess that's a relief. But the festival will continue for several days, so let's not get too excited this early and watch over it properly as we should!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうね、\nまずは一安心ってところかしら。\nでも、\nお祭りは何日も続くわけだし、\nあまり浮かれずに\n見守っていきましょ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Yes. However please don't be too hard on yourself. Saren, as I said before, your role is to enjoy the festival with {0}, and from what I can see, if you're in work mode that enjoyment is hard to come by.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "うむ。\nあまり気を張らずに臨んでくれ。\n前にも言ったとおり、\nサレンの役目は\nこいつと祭りを楽しむこと、\n仕事モードでは\n楽しめるものも\n楽しめなくなってしまうからな。"
+    },
+    {
+      "name": "Saren",
+      "text": "Monika... Wait, don't just eat a choco-banana while you're saying that!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "モニカさん……\nって、もうチョコバナナなんか食べてる！"
+    },
+    {
+      "name": "Monika",
+      "text": "Th-This... is merely a taste test. Understanding what is being offered from those stalls is also an important role. More importantly, my comrade, you should make sure to escort Saren properly. This former vice-commander right here seems a tad too serious.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "こ、\nこれは味見だ。\n提供される物の把握も\n大事な役目だからな。\nそれよりも貴公、\nちゃんとサレンをエスコートするんだぞ。\n元副団長殿は\n少々生真面目が過ぎるからな。"
+    },
+    {
+      "name": "Saren",
+      "text": "H-Hey! D-Don't just grab my hand all of a sudden... Geez! Don't let go of me, okay? I don't want you getting lost.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょ！　\nい、\nいきなり手を掴んだりしな……\nもうっ！\n離さないでよ？　\n迷子になったら\n困るんだから。"
+    },
+    {
+      "name": "Monika",
+      "text": "Haha, in that case, I'd like some rare sweets from this world. Well, don't worry about me and take it easy.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "はは、\nならば\nこの世界の珍しい菓子を所望する。\nまあ、\nこっちのことは気にせず\n気楽に行ってきてくれ。"
+    },
+    {
+      "name": "Monika",
+      "text": "...There they go. Now then, time for me to go on patrol. I will definitely protect the peace of the festival! ...Munch munch. Choco-banana truly are the best after all!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……行ったな。\nさて、\nそれでは見回りに行くとしよう。\n祭りの平和は\n私が必ず守る！\n……もぐもぐ。\nやはりチョコバナナは最高だな！"
+    },
+    {
+      "name": "Saren",
+      "text": "Now, Monika might've said that, but we mustn't forget that we are the organizers.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "さて、\nモニカさんはああ言ってたけど、\nあたしたちは\n主催者側の人間だってことを忘れちゃダメよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "If we get too excited and go too far, we'll end up causing trouble for the people of Landosol and their reputation. So we have to be as well behaved as possible.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "浮かれて羽目を外し過ぎたりしたら\nランドソルの方にも迷惑がかかっちゃうわ。\nだからできるだけ\n品行方正に\n振る舞わなくちゃね。"
+    },
+    {
+      "name": "Saren",
+      "text": "I mean, that's what I've been trying to tell myself too actually. To be honest, I'm trying so hard already to hold back the grin on my face... I mean, I shouldn't see this situation as a date...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "って、\nこれは\n自分に言い聞かせる言葉でもあるわね。\n正直、\n顔がにやけちゃうの我慢するのに必死なのよ……\nだって\nこの状況、\nどう見ても\nデートじゃない……"
+    },
+    {
+      "name": "Saren",
+      "text": "It's not that unusual for the two of us to go out together, but... wearing kimonos together like this makes it feel even more special than usual...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "二人で出かけるなんて\n別に珍しくもないはずなのに、\n着物で、\nってなると\n普段よりも特別感があるというか……"
+    },
+    {
+      "name": "Saren",
+      "text": "H-Hey... M-My hand, you don't have to hold it so tightly, it's okay... Um... It's okay if you want to let go...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ねっ、\nねえ……\n手、\nそんなに強くつながなくても\n大丈夫よ……？\nその……\nもう、\n離しても平気だから……"
+    },
+    {
+      "name": "Saren",
+      "text": "I mean, if you don't......my heart's beating too fast......that'll be a problem.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "じゃないと……\nドキドキしすぎて……\n困るじゃないの。"
+    },
+    {
+      "name": "Locals 3",
+      "text": "Hey, look. Aren't those girl clothes just the cutest you've seen?",
+      "choice_data_list": [],
+      "orig_name": "地元民３",
+      "orig_text": "ねえ、\n見て。\nあの子の服、\nすっごくかわいくない？"
+    },
+    {
+      "name": "Locals 4",
+      "text": "You’re right! Don't they look like the outfit Lady Nephy Nella usually wears, if only a little? Maybe she's also a Princess of some country.",
+      "choice_data_list": [],
+      "orig_name": "地元民４",
+      "orig_text": "ホントだ！　\nちょっとネフィ＝ネラ様の衣装と似てない？\n案外あの子も\nどこかの国の王女様だったりして。"
+    },
+    {
+      "name": "Locals 3",
+      "text": "Seriously, I can see it. She's kind of refined, and she's super pretty, too. Hmm, I want to try wearing such clothes too.",
+      "choice_data_list": [],
+      "orig_name": "地元民３",
+      "orig_text": "マジあり得るかも。\nだってなんか品があるし、\nそれにめっちゃ美人だし。\nうーん、\nあたしもあれ、\n着てみたくなってきた。"
+    },
+    {
+      "name": "Locals 4",
+      "text": "Hey, over there they're doing a... \"kimono wearing experience\"? That's what we should do! We have no choice but to go check it out!",
+      "choice_data_list": [],
+      "orig_name": "地元民４",
+      "orig_text": "ねえ、\n向こうで\nキモノ体験？　\nってやつやってるじゃん！\n行ってみるしかないっしょ！"
+    },
+    {
+      "name": "Saren",
+      "text": "Ugh... but I do know our real Princess, so this kind of feels embarassing to hear! I might be regretting wearing this kimono in public, just a bit...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "うぅ……\n本物の王女様を知ってるから\n恥ずかしいったらないわよ！\nちょっとだけ\n着物着てきたの後悔してるかも……"
+    },
+    {
+      "name": "Saren",
+      "text": "...{0}, you... You always say stuff like that to anyone, no matter who it is.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……あんたは\n誰彼かまわず、\nすぐそういうこと言うんだから。"
+    },
+    {
+      "name": "Saren",
+      "text": "But, I can also tell that there's no lie or bad intent behind those words. Truly, what an unfair cheater he is.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "でも、\nその言葉に\nウソはないのよね。\nホント、\nズルいヤツ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Well, if just walking around in a kimono like this can be a form of advertising, then it's a cost-effective way of doing this. Let's keep going around so that the appeal of kimonos can be spread through word of mouth.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "まあ、\nこうして着物で歩いてるだけで宣伝になるなら、\n費用対効果はバツグンね。\nこのままあちこち回って、\n着物の魅力を伝えていきましょ。"
+    },
+    {
+      "name": "Saren",
+      "text": "For now, why don't we try doing the traditional first visit of the New Year at a shrine? We even built a makeshift, Landosol-like temple right here. I'm not sure if it will bring any good luck in another world, but the atmosphere is important in these situations!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "とりあえず\n初詣にでも行ってみない？\nわざわざランドソル風の\n仮設神殿も作ったしね。\nご利益は怪しいけど、\nこういうのは\n雰囲気が大事なのよ！"
+    },
+    {
+      "name": "Saren",
+      "text": "Phew, somehow we're having a lot of fun after all. The food at the Gio Gehenna stall was a little spicy, but it was delicious nonetheless. My lips are still a little tingly.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふぅ、\nなんだかんだで楽しんじゃってるわね。\nジオ・ゲヘナの屋台飯、\nちょっと辛いけどおいしかったなぁ。\n唇が\nまだちょっとピリピリしてるわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "We've been getting a lot of attention because of how unusual our kimonos are. It's about time we went to check on a certain someone. Monika deserves to take a break too.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "着物の珍しさもあって、\n注目されてばっかりだったしね。\nそろそろ\n様子を見に戻りましょ。\nモニカさんにも\n休憩してもらわなくちゃ。"
+    },
+    {
+      "name": "Staff 2",
+      "text": "UWAAAAAAAH! I WENT AND RUINED IT!",
+      "choice_data_list": [],
+      "orig_name": "スタッフ２",
+      "orig_text": "うわー！　\nやっちまったー！"
+    },
+    {
+      "name": "Saren",
+      "text": "That voice... That was coming from the venue for the mochi-making tournament, wasn't it? Let's go, {0}!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "今の声……\nあっちはたしか、\n餅つき大会の会場だったわね。\n行くわよ、{0}！"
+    },
+    {
+      "name": "妖魔人の観客たち",
+      "text": "ブー！",
+      "choice_data_list": [],
+      "orig_name": "妖魔人の観客たち",
+      "orig_text": "ブー！"
+    },
+    {
+      "name": "Saren",
+      "text": "Uwah, that's some booing going on... Sorry, I'm one of the organizers, so let me through. What in the world happened?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "わぁ、\nすごいブーイング……\nちょっとごめんなさい、\n関係者だから通して。\n一体何があったの？"
+    },
+    {
+      "name": "Staff 1",
+      "text": "Ah, S-Saren... Th-This is...",
+      "choice_data_list": [],
+      "orig_name": "スタッフ１",
+      "orig_text": "あ、\nサ、\nサレンさん……\nこ、\nこれはだな……"
+    },
+    {
+      "name": "Saren",
+      "text": "It's all broken... What in the world happened?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "壊れちゃってるじゃない……\n一体何があったの？"
+    },
+    {
+      "name": "Staff 1",
+      "text": "A-Actually, just like you taught me, I tried mochi-making. Then, it gradually started to become fun, so...",
+      "choice_data_list": [],
+      "orig_name": "スタッフ１",
+      "orig_text": "じ、\nじつはよぉ。\n教えてもらった通りに、\n餅つきってやつを\nやってみたんだな。\nそしたら、\nだんだん楽しくなってきて……"
+    },
+    {
+      "name": "Staff 2",
+      "text": "I figured if we hit it harder, it'd come out faster, so we picked up the speed and went at it seriously.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ２",
+      "orig_text": "強くたたけば\n早く出来上がるだろって思って、\nスピードを上げて\n本気でやっちまったらさ。"
+    },
+    {
+      "name": "Saren",
+      "text": "I see, so the force was too strong and broke the mortar and pestle. Well, I had anticipated this kind of trouble actually. Don't worry, I've brought a spare mortar and pestle!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "なるほど、\n力が強すぎて\n臼と杵を壊しちゃったってことね。\nまあ、\nこういうトラブルも想定はしていたわ。\n予備の臼と杵、\n持ってきてるから\n安心して！"
+    },
+    {
+      "name": "Saren",
+      "text": "Come on, get ready, {0}. We're up for some mochi making!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "さぁ、\n準備しなさい{0}。\nあたしたちで\n餅つきするわよ！"
+    },
+    {
+      "name": "Staff 2",
+      "text": "Huh? You guys will?! B-But, you know... Can you really do it with those skinny arms of yours...?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ２",
+      "orig_text": "え、\nあんたたちが！？　\nで、\nでもよぉ……\nそんな細っこい腕で\nできるのか……？"
+    },
+    {
+      "name": "Saren",
+      "text": "Oh my, I may not look it, but I'm a mochi pounding expert with all the times I've made some for the kids on New Years, you know? I'll have you know the mochi we prepare at the Orphanage is renowned for being delicious. Now, let's get this started!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あら、\nこう見えてもお正月には\n子どもたちと一緒に\n餅つきしてるのよ？\n救護院のお餅はおいしいって\n評判なんだから！\nさて、\nそれじゃあ\nはじめましょうか！"
+    },
+    {
+      "name": "Rude Local 1",
+      "text": "What's with that? A bean sprout-like man and a beautiful girl appeared now?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い地元民１",
+      "orig_text": "なんだ？　\nもやしみてえな男と\nキレーな姉ちゃんが出てきたぞ？"
+    },
+    {
+      "name": "Rude Local 2",
+      "text": "We came here to eat something called \"mochi\"! We won't be fooled by some pretty girl antics!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い地元民２",
+      "orig_text": "俺たちゃ\n「もち」ってやつを食いに来たんだ！\nおキレーな姉ちゃんなんかじゃ\nごまかされやしねえぞ！"
+    },
+    {
+      "name": "Saren",
+      "text": "Don't worry about the noise from the crowd. We'll turn it into cheers in a second. I'm counting on you, {0}.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "外野の声は気にしないで。\nすぐに歓声に変えてあげるわ。\n頼んだわよ、{0}。"
+    },
+    {
+      "name": "Saren",
+      "text": "Let's go! Yoisho! Yoisho!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "いくわよー！　\nよいしょー！　\nよいしょー！"
+    },
+    {
+      "name": "Rude Local 1",
+      "text": "G-GYAHAAAA! That girl has such control over that mallet...! And that bean-sprout guy is keeping up with her! What a fearsome combination!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い地元民１",
+      "orig_text": "ゲ、\nゲーッ！　\nあの姉ちゃん、\n木槌をあんな自在に……！\nもやし野郎もしっかりついていってやがる！\nなんてコンビネーションだ！"
+    },
+    {
+      "name": "Rude Local 2",
+      "text": "Hey, look, the rice in the bowl is turning soft and chewy ( mochi )! I-Is that why it's called \"mochi\"...?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い地元民２",
+      "orig_text": "おい見ろよ、\n器の中の米が\nもっちもちに変わっていくぞ！\nあ、\nあれが『もち』、\nなのか……？"
+    },
+    {
+      "name": "Saren",
+      "text": "Haha, things are looking good. Well then, let's pick up the pace a little more. Yoisho, yoisho, yoisho!!!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふふ、\nいい感じだわ。\nそれじゃあもう少し\nペース上げてくわよ。\nよいしょ\nよいしょ\nよいしょー！"
+    },
+    {
+      "name": "Rude Local 1",
+      "text": "WHA- THEY'RE STILL GOING TO PICK UP THE FACE?! These guys are... PROFESSIONALS!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い地元民１",
+      "orig_text": "ま、\nまだペースを上げる気か！？\nこいつら\n半端ねえ！"
+    },
+    {
+      "name": "Saren",
+      "text": "That's the last straw! Ready and... YOISHO!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "これでラスト、\n決めるわよ！\nせーの、\nよいしょーっ！"
+    },
+    {
+      "name": "Saren",
+      "text": "Phew... A job well done!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ふぅ……\n上手につけましたー！"
+    },
+    {
+      "name": "Spectators",
+      "text": "UWAAAAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "観客たち",
+      "orig_text": "ワアアアアー！"
+    },
+    {
+      "name": "Staff 1",
+      "text": "I-I can't believe it... the cooked glutinous rice turned into such a beautiful fluffy lump... when the two of us did it it just flew apart...",
+      "choice_data_list": [],
+      "orig_name": "スタッフ１",
+      "orig_text": "し、\n信じられないんだな……\n炊いたもち米が、\nあ、\nあんな美しい\nふわもちの塊になっちゃったんだな……\n俺らがやった時は\n飛び散っちゃったのにな……"
+    },
+    {
+      "name": "Staff 2",
+      "text": "This is the result of a long-standing, husband-wife combination; LOVE, it's LOVE... this is the fruit of the LOVE between two people...!",
+      "choice_data_list": [],
+      "orig_name": "スタッフ２",
+      "orig_text": "こいつは\n長年付き添った夫婦の如きコンビネーションの賜物、\n愛だ……\nこれは\n二人の\n愛のなせる技だぜ……！"
+    },
+    {
+      "name": "Saren",
+      "text": "Wha! Cut that out! Anyone can do it once they get the hang of it! Now, all you have to do is cut it into small pieces, sprinkle some bean paste and soybean flour on it, and serve it to your customers.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょ、\nやめてよ、\nコツさえつかめば\n誰でもできるから！\nほら、\nあとは小さく切り分けて、\nあんこときな粉をまぶして\nお客さんに振る舞ってあげて。"
+    },
+    {
+      "name": "Staff 2",
+      "text": "Y-Yeah, certainly, you're right! We'll do our best! You really saved us!",
+      "choice_data_list": [],
+      "orig_name": "スタッフ２",
+      "orig_text": "お、\nおう\nそうだな！　\nあとは\n俺たちで頑張るぜ！\n本当に助かったよ！"
+    },
+    {
+      "name": "Narration",
+      "text": "While Saren and the others were enjoying the festival and making it a success, Monika was patrolling the grounds by herself.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サレンたちが祭りを満喫し、\nかつ盛り上げている頃、\nモニカは一人、\n会場の見回りをしていた。"
+    },
+    {
+      "name": "Monika",
+      "text": "Hmm, I've been making my rounds as promised, but there's far less trouble than I expected.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふーむ、\nぐるっと一回りしてきたが、\n想像よりも\nずっとトラブルは少ないな。"
+    },
+    {
+      "name": "Monika",
+      "text": "I've heard that Gio Gehenna is a world where the rule of strength is the only law, but maybe that's exactly why trouble is harder to come by. There have been only three brawls, five lost children, and not many lost items!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ジオ・ゲヘナは\n力がモノを言う世界だと聞いているが、\nもしかしたら\nそういう場所の方が\n荒事は起きにくいのかもしれない。\n乱闘が３件、\n迷子が５件。\n失せ物も少なめだったしな！"
+    },
+    {
+      "name": "Monika",
+      "text": "The fact I've not unleashed my sword at all is the proof of true peace. Like this, I'm sure those two'll be able to relax and enjoy the New Year's. I think I'll spread my wings a little...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "剣の出番がないのは平和の証、\nこれなら\nあいつらものんびりと正月を楽しめることだろう。\n私も少しぐらい羽を伸ばして──\nっと……"
+    },
+    {
+      "name": "Monika",
+      "text": "...Hm? That hearty figure behind all those hairs...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……ん？　\nあの豪快な毛量の後ろ姿は──"
+    },
+    {
+      "name": "Medusa",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Monika",
+      "text": "Heeeey, Medusa!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "おーい\nメドゥーサ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "UWAH! Y-You. You're that little runt from before...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "はうわっ！　\nア、\nアンタはこの前のちびっ子……"
+    },
+    {
+      "name": "Monika",
+      "text": "I'M NOT LITTLE! NOR A RUNT! I'm Monika! You don't seem to be enjoying the festival very much from what I can see. Maybe you're lost...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ちびっ子ではない、\nモニカだ！\n其方も祭りを……\nあまり楽しんでいる様子ではないな。\nもしかして迷子──"
+    },
+    {
+      "name": "Medusa",
+      "text": "A-As if that would be the case! I was just looking for someone on my way to the Snake Festival entry registration...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そ、\nそんなわけないでしょ！　\n蛇祭りのエントリーに行くついでに、\n人捜ししてただけよ……"
+    },
+    {
+      "name": "Monika",
+      "text": "Searching for someone? In a crowd like this? Then no wonder you wouldn't find each other, especially when you're crouching like this. At times like this, you have to shout--",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "人捜し？　\nこんな人混みで？\nならば\nうずくまっていたところで見つかるまい。\nこういう時は\n大声で──"
+    },
+    {
+      "name": "Medusa",
+      "text": "Stop it. It's not like we got separated during this festival or anything. This is a search that has been going on for some time. So leave me alone.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "やめて。\nお祭りではぐれたとか、\nそういうんじゃないんだから。\nずっと捜してるの。\nだから放っといて。"
+    },
+    {
+      "name": "Monika",
+      "text": "So she's looking for someone who's missing? Hmm... I see... The reason behind her actions, maybe...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ということは、\n尋ね人か？\nふむ……\nなるほど\n訳ありなんだろうな……"
+    },
+    {
+      "name": "Monika",
+      "text": "At a time like this, {0} would show no hesitation in wanting to help this girl. But right now... I don't want him to be bothered with such issues. In that case--",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "こういう時\nあいつなら迷わず手伝いを買って出るだろうな。\nでも\n今は……\nあいつの手を煩わせたくはない。\nならば──"
+    },
+    {
+      "name": "Monika",
+      "text": "Alright, let me show you to the entry desk! I'm in a good mood today. I'll take you there so you don't get lost. After that, we'll search for who you're looking for together. First up, please tell me the characteristics of the person you're looking for.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "よし、\nエントリー受付まで案内しよう！\n今日の私は機嫌がいいからな。\n迷子にならないように連れて行ってやる。\nその後は\n一緒に人捜しだ。\nまずは\n尋ね人の特徴を教えてくれ。"
+    },
+    {
+      "name": "Medusa",
+      "text": "With you? ...I'm good. If a child like you was helping, you'd probably just get in my way or something.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "アンタと？　\n……結構よ。\nお子様がついてきたって\n足手まといなだけだし。"
+    },
+    {
+      "name": "Monika",
+      "text": "WHA...! You're the one saying that, whenever you're twice the kid I am by acting so lost! Just like an anxious child searching for the parent who separated from her.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "なっ！　\nそれをいうなら\n迷子になっている其方の方が\nよほど子どもではないか！\nまるではぐれた親を捜す、\n不安げなちびっこのようだったぞ。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Hmph, that's not anxiety, it's a melancholic expression. As you can see, I'm a sexy adult, so that kind of face looks good on me",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふん、\nそれは不安じゃなくて\n物憂げな表情っていうのよ。\n見ての通り\nアタシってばセクシーな大人だから、\nああいう顔も映えるのよね。"
+    },
+    {
+      "name": "Monika",
+      "text": "\"Sexy\"? Is that what they call a child-like body in Gio Gehenna?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "セクシー？　\nジオ・ゲヘナでは\n幼児体型をそう呼ぶのか？"
+    },
+    {
+      "name": "Medusa",
+      "text": "KACHIIII!!! If you're calling this a child-like body, then yours is one of a flat monkey! Just a bargain sale item that's good for making a weak broth!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "カッチーン！　\nアタシが幼児体型なら\nアンタはおさるの干物よ！\nそれもうっすい出汁しかとれない\nワゴンセール品ね！"
+    },
+    {
+      "name": "Monika",
+      "text": "...PUWAH! Let's take this outside actually. I feel like I'm going to snap for the first time in a while...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……\nふぅ、\nちょっと裏に参ろうか。\n久しぶりにキレてしまいそうだ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "That's the first thing we agree on... Wait, geez! I don't have time for this! Anyway, leave me alone!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "のぞむところよ……\nって、\nもう！　\nこんなことしてる暇はないんだから！\nとにかく、\nアタシのことはほっといて！"
+    },
+    {
+      "name": "Monika",
+      "text": "...Whew, guess that's true. Well then, I'll keep an eye out for whoever you're looking for. By now, I'm sure whoever this is, it must be a yapping little brat just like you.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……\nそれもそうだな。\nでは\n尋ね人のことは\nこちらでも気にかけておくとしよう。\nきっと\nおまえに似てキャンキャンやかましい、\nチンチクリンだろう。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Huuuuuh?! What kind of foolish things are you spouting?! My older sisters are beautiful, they look dashing and charming with their flowy black hair and they have great figures too... AH!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "はあぁっ！？　\nなにバカなこと言ってんのよ！\nお姉ちゃんたちは\n黒髪の似合う美人で、\nスタイルも抜群なんだから──\nあ。"
+    },
+    {
+      "name": "Monika",
+      "text": "Really, you should have just said that from the beginning. I see, so you were looking for your sisters. Could it be that the reason you were looking for Lady Nephy Nella the other day was to...?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "全く、\n最初からそう言えばいいものを。\nそうか、\n姉上を捜していたのか。\nもしかして\n先日のネフィ＝ネラ殿を尋ねてきた件も……"
+    },
+    {
+      "name": "Medusa",
+      "text": "...That’s right. The fact that my sisters disappeared and my family fell into ruin, all of that... it's all Nephy Nella's fault!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……そうよ。\nお姉ちゃんたちがいなくなったのも\n家が落ちぶれたのも、\n全部……\n全部ネフィ＝ネラのせいなんだから！"
+    },
+    {
+      "name": "モニカ",
+      "text": "……む。\nこれは思ったより、\nきな臭い話ではないか？　",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……む。\nこれは思ったより、\nきな臭い話ではないか？　"
+    },
+    {
+      "name": "Narration",
+      "text": "Monika's peaceful New Year's holiday is cast into disarray. Meanwhile, someone is watching the two of them from the shadows...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "モニカの思い描く平和正月に陰りがさす。\nそして、\nそんな二人のやり取りを陰から伺う者が──\nいた。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Oh ho ho ho... That's some good information I've heard just now♪ That little girl seems like she could be put to good use as a pawn... At the start of the New Year, my WONDERFUL brain is already doing wonders!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲホホホ……\nい～いコト聞いちゃいましてよ♪\nあの小娘、\n手駒としていいカンジに使えそうですわね……\n新年早々、\nあたくし様のワンダホーなお頭脳が冴え渡りまくりですわ～！"
+    }
+  ]
+}

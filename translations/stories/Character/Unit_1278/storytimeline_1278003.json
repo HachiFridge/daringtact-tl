@@ -1,0 +1,817 @@
+{
+  "title": "Wyrm Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} was summoned to the outskirts of Gio Teogonia. There, Wurm and Uncle Popo arrived pulling a cart full of supplies.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・テオゴニアの街外れに呼び出された{0}。\nそこにヴルムとポポじいさんが物資満載の荷車を引いてやってきた。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Kishi-san, it's finally ready. The wonderous...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "騎士さん、\nできましたよ。\n例のブツが。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "It's the Super Galactic Bomber No. 1. Thanks to your help, I was able to finish it faster than I originally planned.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "超ギャラクティックボンバー１号じゃ。\nオマエたちが協力してくれたおかげで、\n当初予定していたよりも\n早く完成にこぎつけたわい。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Look, it's clad in thick armor so it can't be shot down easily... It tracks down the enemy with automatic tracking, and then delivers the final blow with a huge explosion!! A sure-kill attack! How about it? Don't you feel the romance of warfare?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "見よ、\nたやすく撃墜されんよう\n分厚い装甲に身を包み……\n自動追尾で敵を追い詰め、\n最後には\nトドメの大爆発じゃ！！\nまさに必殺！　\nどうじゃ、\nロマンを感じるじゃろ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Sure. The body was built to be unnecessarily sturdy, the sunglasses were an unnecessary and useless addition, they're just in the way. The price of this \"romance\" was the worsening air resistance and the increased weight of the aircraft.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ええ。\n不必要に頑丈に作ったボディに、\n機能的には\n全くの無駄どころか\n邪魔でしかないサングラス。\nロマンの代償は空気抵抗の悪化と\n機体重量の増加でした。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I mean, I want everyone to know that I'm the one who made it... and I want to be praised in turn...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "だって\nワシが作ったって知ってほしいし……\n皆に褒められたいし……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, I can guarantee the performance. We managed to achieve both Uncle Popo's request and the specifications needed. I just did as I was told and helped him out.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "まあ性能の方は保証しますよ。\nポポじいの要望と\nスペックの両立を実現させましたから。\nあたしは、\nただ言われるまま手伝っただけですけど。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well then, can you help me carry it, Kishi-san? This cart loaded with \"romance\" is too much for a cute and fragile maid to carry. Quite literally so.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "それじゃ\n騎士さんも運ぶの手伝ってくれませんか？\nロマンを積んだこの荷車、\n可憐で儚いメイドには荷が重いんですよ。\n文字通り。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Oh? That's an unusual combination. Quite the huge cart you're pulling too.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "おっ？　\n珍しい組み合わせだな。\nなんかでっけー荷車引っ張ってっけど。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Hello, Vol-san. Where did you put the scraps from the last big cleaning? We've finished that secret weapon, so we're going to do a final test.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "どもです、\nヴォルさん。\nこないだの大掃除で出た廃材ってどこに置いてます？\n例の秘密兵器が完成したんで、\n最終テストしようかと。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Yeah, I've heard a bit about it from Her Highness. She told me to lend you my strength if anything happens.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ああ、\n姫様からちょろっと話は聞いてるぜ。\n何かあれば\n力を貸すようにってな。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Well, if this so called \"secret weapon\" is going to be my future coworker, I guess we should at least meet face to face. I guess I'll just have to sit here and watch.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ま、\n秘密兵器とやらが\n今後の『同僚』になるなら、\n顔合わせくらいしとかねーとな。\n俺さまも\n見物させてもらうとすっか。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Transmission magic channel, all clear. External communications are also functioning normally. Warhead safety mechanism check. Also... hmm, did you change the fuel mix?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……通信魔法のチャンネル、\n全てクリア。\n外部通信も正常稼働。\n弾頭の安全機構\nチェック。\nあとは……\nん、\n燃料の配合変えました？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Yeah, there's no problem with the fuel. In order to increase the initial velocity, I set the pressure higher at launch. It automatically adjusts to the optimum state during flight--",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ああ、\n燃料は問題ない。\n初速を上げるため\n打ち上げ時には\nわざと圧力が高めになるようにしておる。\n飛行中は\n自動で最適な状態に──"
+    },
+    {
+      "name": "Volgano",
+      "text": "*sigh*... I have no idea what those two are talking about.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "はー……\nあの二人が何言ってんのかさっぱりだ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "I know right. I don't really get it, but... Uncle Popo's amazing in his own right, but Wurm being able to follow along and debate is even more amazing, isn't she?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "だよな。\n俺さまにはよくわかんねーけどよ……\nポポじいさんもすげーけど、\nそれに付いてってるヴルムも\n相当すげーんじゃねーか？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I often deal with numbers when I go shopping or order supplies. Other maids can do similar things. Probably.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "買い物とか\n備品発注とか、\nよく数字を扱いますからね。\n他のメイドだって似たようなことができますよ。\nたぶん。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That being said... I don't mind being praised. You can praise me more, Vol.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "とはいえ……\n褒められるのは悪い気分じゃないですね。\nヴォルさん、\nもっと讃えてくれていいですよ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "I take back what I said earlier. I'll never praise you.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "さっきの撤回するわ。\nぜってー褒めてやんねぇ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Fuel set, magic guidance system, all green. Starting engine preheating.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……燃料セット、\n誘導魔法システム、\nオールグリーン。\nエンジンのプレヒート始めるよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I've come this far by helping Uncle Popo with the development, but... even if this secret weapon is completed, I don't think it will be able to stop Sis's desire to fight.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ポポじいの開発を手伝ってここまできたけど……\nこの秘密兵器が完成しても、\n姉貴の戦いたがりを止められるかっていうと\n多分無理。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...But. If Sis got herself in a situation where she'd die, it'd be bad. She really doesn't know her own sister's heart.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……でも、\n姉さんがくたばるようなコトになってもアレだし。\nほんと妹の心、\n姉知らず\nって感じですよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That's why I need to make sure it's completed safely. Even if it's impossible to stop my sister... I don't want her and I to have to fight even a little bit.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "だから、\n無事に完成してもらわないと。\n姉さんを止めるのは無理でも……\nあたしも姉さんも、\nちょっとでも戦わなくて済むように。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Wind speed and humidity are within the permissible range... No problem. This is a perfect day for a launch. Okay, let's begin the launch sequence.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "風速、\n湿度も許容範囲内……\n問題なし。\nこりゃ絶好の打ち上げ日和じゃの。\nよし、\n発射シークエンスに入っていいぞ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Understood. Commencing launch sequence. Entering security spell input... Activating magic item for control. There.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "了解、\n発射シークエンスに移行。\nセキュリティ呪文\n入力……\n管制用マジックアイテム\n起動、\nっと。"
+    },
+    {
+      "name": "Control system",
+      "text": "...Protocol PO-2, authorization complete. Propulsion systems will remain active until countdown begins.",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──プロトコルPO-2、\n認証完了。\n推進システム、\nカウントダウン開始まで\n起動状態を維持。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Huh? What's with that voice?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "あん？\nなんだこの声。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "It's a by-product of Uncle Popo's attempt to create Cro-san Unit 2... or so he says. You can think of it as a guide for this missile.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ポポじいが、\nクロさん２号機を造ろうとしたときの副産物……\nだそーです。\nこのミサイル専用の、\nガイド役だと思ってもらえれば。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Wow, that's amazing! So it's something like a talking golem.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "へー、\nすげーな！\nしゃべるゴーレムみてーなもんか。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Gahaha! In the end, Croce Unit 2 was shelved. I just tried reusing what I could.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がっはっは！\n結局、\nクローチェ２号機は\nお蔵入りになったがの。\n再利用してみたんじゃ。"
+    },
+    {
+      "name": "Control system",
+      "text": "Commencing countdown. 9, 8, 7, 6...",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──カウントダウンを開始します。\n９、\n８、\n７、\n６──"
+    },
+    {
+      "name": "Volgano",
+      "text": "This is kinda exciting...! My body's trembling!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なんかワクワクしてくるな……！\n体が震えてきちまうぜ！"
+    },
+    {
+      "name": "Control system",
+      "text": "...3, 2, 1, count zero. Firing---",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──３、\n２、\n１、\nカウントゼロ。\n発射します──"
+    },
+    {
+      "name": "Volgano",
+      "text": "Oooh... OOOOOOHHHHHH...?! ...Oh?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "おお、\nおおぉぉぉおおーーーーー！？\n……お？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...It won't fly. The engine's out, too.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……飛び、\nませんね。\nエンジンの火も消えてますし。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "First, turn on the safety. It's on... Hmm, the ignition... seems fine, right? But it still won't start... Why?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "まずは\n安全装置を\nオンに……\nふむ、\n点火装置は……\n問題なさそうじゃな？\nが、\nスタートせん……\nなんでじゃ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "There were no problems during testing in the workshop, and we're sure we've eliminated all the issues that arose from the design changes...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "工房でのテストだと問題はなかったし、\n設計変更で発生した不具合も全部潰したはず……"
+    },
+    {
+      "name": "Volgano",
+      "text": "......\n...Alright.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "………………よし。"
+    },
+    {
+      "name": "Volgano",
+      "text": "I don't really get anything about this, but at times like this... what you really need is a load of this.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "俺さまにはよくわかんねーけどよ。\nこういう時は……\nやっぱこれだよな。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Hey, Vol, can I ask why you're holding your weapon? If my prediction is correct, then Vol-san is about to do something that only a muscle-brained fellow would think...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ねえヴォルさん、\n武器を構えてる理由を聞いてもいい？\nあたしの予想通りだったら、\nヴォルさんは相当な脳筋\nってことになるけど。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Say whatever you want! Machines like those... CAN BE FIXED WITH A GOOD WHOPPING!!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "何とでも言え！\n機械ってなぁ──\n叩けば直～～～\nるッ！！"
+    },
+    {
+      "name": "Control system",
+      "text": "GA-GAGA-GAGAGA...",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──ガ、\nガガ、\nガガガガガガガ──"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Eh? It really activated? You're kidding, right?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "えっ、\n本当に起動した？　\n嘘でしょ？"
+    },
+    {
+      "name": "Volgano",
+      "text": "Nahahaha! Did you see that? Now it looks like we can continue with the final test! Happily ever after──",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ナッハッハッハ！　\n見たか！\nこれで最終テストってのは\n続けられそうだな！\nめでたしめでたし──"
+    },
+    {
+      "name": "Control system",
+      "text": "....GAGAGAGAGAGAttack from the outside confirmed--",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──ガガガガガガガ外部からの攻撃を確認──"
+    },
+    {
+      "name": "Control system",
+      "text": "--Target set. Target: Volgano. Will now be annihilated...",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──ターゲットを設定。\n対象・\nヴォルガーノを殲滅します──"
+    },
+    {
+      "name": "Volgano",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "は？"
+    },
+    {
+      "name": "Narration",
+      "text": "*Rumble* *rumble*",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ゴゴゴゴゴゴゴ────"
+    },
+    {
+      "name": "Volgano",
+      "text": "Hey, did I just hear something ominous about becoming a target or whatever...?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なあ、\nターゲットとかなんとか\n不吉なこと言ってたけどよ……？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "This is bad, Volgano... You hit it so carelessly that the automatic interception system was activated! If we let things stand as they are, that machine will chase you to the ends of the earth!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "まずいぞヴォルガーノ……\nオマエが無暗に叩いたせいで、\n自動迎撃システムが\n起動したんじゃ！\nこのままでは\n地の果てまでオマエを追ってくるぞ！"
+    },
+    {
+      "name": "Volgano",
+      "text": "HUH?! ARE YOU KIDDING ME?!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "はぁ！？　\n冗談だろ！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "But don't worry! I've prepared an emergency shutdown function in case something like this happens!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "じゃが、\n安心せい！\nこんな場合に備えて\n緊急停止機能も用意しておる！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Wow, you're amazing as always!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "おお、\nさすがだぜ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Emergency stop remote control number 3, time to do your thing! A mere click will do!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "非常停止リモコンくん３号、\n出番じゃ！\nそれ\nポチッとな！"
+    },
+    {
+      "name": "ヴォルガーノ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Nothing's happening it seems.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "…………何も起きないですけど。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Crap! I forgot to process the most important settings! Satisfied that I made the shutdown function, I... Teehee.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "しまった！　\n肝心の設定処理を忘れておった！\n停止機能を作ったのに満足して、\nつい……\nてへ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "\"Teehee\", DON'T GIVE ME THAT! THIS THING'S USELESS! WHY DOES IT EVEN EXIST?!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "てへ、\nじゃねえ！　\n意味ねぇじゃねーか！\nなんだこんなもん！！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Naaaaah! My emergency stop remote control number 3!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ああっ！　\n非常停止リモコンくん３号が！！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Um, sorry to interrupt your comedy routine, but shouldn't you worry about what's coming towards you?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あの、\n漫才やってるとこ悪いんですけど。\nマズくないですかこの状況……"
+    },
+    {
+      "name": "Narration",
+      "text": "*Rumble* *rumble*",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ゴゴゴゴゴゴゴ────"
+    },
+    {
+      "name": "Volgano",
+      "text": "Hey hey hey, it's flying towards us, almost to the ground!? Uncle Popo, what should we do!?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "オイオイオイ、\n向こうから地面スレスレに飛んで来てんぞ！？\nポポじい、\nどうすりゃいーんだ！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Aim for the bottom of the main body! If we destroy the circuit board, magical power won't be transmitted to the propulsion device and it will crash!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "本体下部を狙え！\n基板を壊せば、\n推進装置への魔力が伝達できず\n墜落するはずじゃ！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Aim you say, that thing's insanely fast, you know! ---WHOA!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "狙え\nったって、\n奴さん\nとんでもねー速さだぜ！？\n──うぉわッ！？"
+    },
+    {
+      "name": "Volgano",
+      "text": "That was close... Did you see that?! You want me to avoid something going at that speed AND also land a hit on it? Are you serious?!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "あっぶねぇ……\n見たか今の！？\nあの速さを避けながら\nすれ違いざまに一撃入れろって？\nマジで言ってんのか！？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Yes. By the way, it's no good to hit it head on. The tip of the warhead is a compressed mana charge, and the main body is a mixed fuel tank, so the whole body is like a walking bomb. The whole thing.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ええ。\nちなみに真正面からぶっ叩くのはNGです。\n先端の弾頭には圧縮マナ炸薬、\n本体には混合燃料タンク、\nまさに全身火薬庫\nって感じなんで。\nアレ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "We have to destroy only the control board in an instant and accurately... If we ignite it carelessly, we'll all turn into popcorn.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "一瞬で、\n正確に、\n制御基板だけを破壊しないと……\n下手に引火したら、\nあたしたちまとめてポップコーンになりますよ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Really making me reassured with all that... Wait, huh? Where are you going, young lady Wurm?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "そいつぁゾッとしねぇな……\nって、\nあれ？　\nヴルムの嬢ちゃん\nどこ行くんだ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I just remembered that I have some business to take care of. Vol-san, if you're still alive, let's meet again. Take care.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あたしちょっと用事思い出したんで。\nヴォルさん、\n生きてたらまた会いましょう。\nお達者で。"
+    },
+    {
+      "name": "Volgano",
+      "text": "WHA?! That girl. She seriously up and left...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なッ！？　\nあいつ、\nマジで行きやがった……"
+    },
+    {
+      "name": "Control system",
+      "text": "---Resuming attack---",
+      "choice_data_list": [],
+      "orig_name": "管制システム",
+      "orig_text": "──攻撃を再開します──"
+    },
+    {
+      "name": "Volgano",
+      "text": "It's coming! Tch, now that it's come to this, I have no choice but to do it! I'll show it the real GUTS of a cait sith!!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "来やがるか！　\nチッ、\nこうなりゃやるしかねェ！\n猫妖精の根性見せてやんよ！！"
+    },
+    {
+      "name": "Volgano",
+      "text": "...TAKE THIS!!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "──っだらァ！！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Damn, it's harder than I thought!! Even I can't make a dent in it...!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "クソッ、\n思ったより硬ェ！！\n俺さまでも歯が立たねえとは……！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Stay away from danger, brat... or so I'd like to say, but this is no time to act tough! Sorry, but if you could lend me a hand it would be much appreciated!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "坊主は危ねえから離れてろ……\nなんて、\n強がり言える状況じゃねえな！\n悪ぃ、\n手ぇ貸してくれんなら助かる！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "After shooting it down, leave it to me! I made this, so I'll deal with it quickly to prevent it from exploding.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "撃墜した後はこっちに任せてくれ！\nワシの作った子じゃ、\n誘爆せんよう\n迅速に処置しよう。"
+    },
+    {
+      "name": "Narration",
+      "text": "While {0} and the others prepared to intercept...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちが迎撃の準備をする一方で──"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I'm pretty sure it's somewhere around here... There it is. Vol-san threw it far away, so that really took a while to find. Emergency Stop Remote Control No. 3",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "確かこの辺りのはず………………\nあった。\nヴォルさんが遠くに投げるから\n探すのに時間かかったじゃないですか。\n非常停止リモコンくん３号。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Originally, that weapon was designed to be controlled by communication magic using this remote control. The transmitter and receiver should be ready, it just hasn't been adjusted.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "元々、\nこのリモコンから通信魔法で制御する設計だったし。\n調整されてないだけで、\n送受信装置は準備されてるはず。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "In that case, if I apply communication magic and intervene in the control system--",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "なら、\n通信魔法を応用して\n制御システムに介入してやれば──"
+    },
+    {
+      "name": "Volgano",
+      "text": "...Here it comes! Brat, get ready!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "──来るぞ！　\n坊主、\n構えろ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Looks like I don't really have much time to waste. I guess I'll go all out just for a little bit.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……悠長にやってる時間はなさそうですね。\n少しだけ頑張りますか。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "A communication magic link was established with the flying object -- Penetration into multiple magical barriers -- Breaking through the 1st, 2nd, and 3rd barrier --",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "飛翔体との通信魔法リンク\n確立──\n多重魔法防壁へ侵入──\n第１、\n第２、\n第３防壁突破──"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Access the core of the control system -- reconstruct and deploy the deactivation code for the detonation fuse that should have been installed in the relevant area --",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "制御システムの中枢にアクセス──\n該当領域に、\n本来なら搭載されているはずの\n起爆信管の停止コードを\n再構築、\n展開して──"
+    },
+    {
+      "name": "Wyrm",
+      "text": "---Execute... and there.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "────実行、\nっと。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Phew... now the real question is if that thing'll achieve a so called \"safe landing\". Well, I'll just have to leave it up to them.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ふぅ…………\nあとは無事に『軟着陸』できるかですね。\nま、\n向こうに任せるしかないですけど。"
+    },
+    {
+      "name": "Volgano",
+      "text": "It's coming! BRAT, TIME WITH ME! ...NOW!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "来た……！　\n坊主、\n合わせろ！\n──今だッ！！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Well done! Now it's my turn! I'll start shutting down the fuel and detonation systems!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "よくやった！　\n次はワシの番じゃな！\n燃料システム、\n起爆システムの停止にかかる！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Mm, this is...!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "む、\nこれは……！"
+    },
+    {
+      "name": "Volgano",
+      "text": "What's wrong, old man? Don't tell me you can't stop it after all of this?! Even for someone like me, carrying two people and sprinting at full speed is tough──",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "どうしたじいさん？\nまさかここに来て止まらねーとか勘弁してくれよ！？\nいくら俺さまでも\n二人担いで全力ダッシュはさすがにキツ──"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "No, the detonation system has stopped working.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いや、\n起爆システムの稼働が止まっとるんじゃ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Huh? What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "あ？　\nどういうことだ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I told you to aim for the control device, but... if the detonation system isn't working, you can just shut down the main body.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "散々制御装置を狙うように言ったが……\n起爆システムが動いてないなら、\n普通に本体を止めればいい訳で。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "In other words... There would have been no problem if you had just destroyed it in whichever way.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "つまりじゃな……\n素直にぶっ壊しても\n問題なかったということじゃ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "OIII?! So all that flying and jumping around dodging it while dripping with cold sweat, and even getting the brat's help, was all in vain!?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "おい！？　\nそれじゃあ俺さまが冷や汗垂らしながら\n飛んだり跳ねたりして避けてたのも、\n坊主に協力してもらってたのも、\n全部徒労だったってか！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "But, hmm...? The fuel system and guidance system, which were working, have stopped. The damage to the control board alone shouldn't have had such an impact...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "しかし、\nふむ……？\n動作していた燃料システムも\n誘導システムも止まっとる。\n制御基板の損傷だけで、\nここまで影響は及ばんはずじゃが……"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "This will require a redo from the basic design. ...Is speed more important than durability to avoid being intercepted? If so, we should use lighter materials...Hmm...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "これはまた基本設計からやり直しじゃな。\n……迎撃されんためには、\n耐久性より\n速度が必要か？\nならより軽量な素材を……\nうむむ……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Vol-san, thank you for your hard work. I knew you'd make it back alive.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ヴォルさん、\nお疲れさまです。\nあたしは必ず生きて帰るって信じてましたよ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Ah, Wurm! You're so...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "あっ、\nヴルム！　\nお前さんなぁ……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, what's over is over, right? More importantly, we need to dismantle this wreckage so we can transport it. To ensure the safety of the surrounding area, could the gatekeeper help out?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ま、\n終わったことはいいじゃないですか。\nそれより\nこの残骸を運べるよう解体しないとですよ。\n周辺の安全のため、\n門番さんも手伝ってもらえます？"
+    },
+    {
+      "name": "Volgano",
+      "text": "There's still work to be done... and for me...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "まだ働かされんのか、\n俺……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Ah, I picked it up just now. This was one of the tools we used in the experiment. I'll have to write \"malfunctional\" in the report.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ああ、\nさっき拾ってきたんですよ。\nこれも実験に使った器具の一つですから。\nレポートに『動作不良』って書いとかないと。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "*sigh* It was almost a disaster. But thanks to Vol-san and Kishi-san quick thinking the worst was avoided. Very impressive.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "はぁ、\nあわや大惨事ってとこでしたけど。\n騎士さんとヴォルさんのおかげで解決しました。\nさすがですね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Hm? What's wrong, Kishi-san, why are you waving me to come over? Planning to tell me a secret?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ん？　\nどうしたんですか騎士さん。\n手招きなんかして。\n内緒話ですか？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "There's no way that's possible. How in the world would I...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "そんな事あるわけないじゃないですか。\n一体どうやって……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "With the remote control...? Like I said, it's just a tool that's part of the experiment, so I recovered it...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "さっきのリモコン……？\nですからそれは、\n実験器具の一つだから回収しただけで……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...*sigh* Seems like I'd just be wasting my time by making excuses. Your eyes are truly filled with conviction, Kishi-san.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……はぁ。\n言い訳ムダっぽいですね。\n騎士さんの目、\n確信に満ちてますし。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...I thought nobody would ever find out. That's right, I did it. I'm the culprit.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……バレないと思ったんだけどなぁ。\nそ\nうです、\nあたしがやりました。\n下手人です。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I helped make that thing, so I understand the general mechanism... I knew that it might be possible to control it with communication magic.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あたしもアレ作るの手伝ったんで、\n大まかな仕組みくらいはわかりますし……\n通信魔法で制御できるかも、\nってことは知ってました。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "However, I didn't want to raise any hopes on something that I didn't know would work. So... I kept quiet. I'm sorry.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ただ\n通じるかどうかもわからない一か八かに\n期待させるのもなーって。\nそんなわけで……\n黙ってました。\nすみません。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...You don't have to thank me. If I could've ran away, I probably would've, to be honest.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……お礼を言われることじゃないですよ。\n逃げられるなら逃げたかったってのも本音なんで。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "It's just... there wasn't anything else I could've done right there and then with the three of you. I don't have as much strength as Vol.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ただ、\nあの場にいても、\n他にできることもなかったっていうか。\nヴォルさんほどの腕力もないですし。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That's why, well, I guess it worked out perfectly. It means that I'm the right person for this kind of job. Anyway, this is all I can do as a maid.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "だからまあ、\nピッタリだったんじゃないですか。\n適材適所って意味だと。\nかよわい、\nいちメイドにできるのは\nこれくらいの事です。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, Vol and the others are so happy. It would be rude to spoil such a wonderful \"victory\"...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "まあ、\nヴォルさんたちがああも喜んでるんですし。\nせっかくの『勝利』に\n水を差すのも悪いんで──"
+    },
+    {
+      "name": "Wyrm",
+      "text": "There's just one thing... Kishi-san, I'd appreciate if you could just keep this in your heart only.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ここは一つ──\n騎士さんの胸にだけ留めておいてくれると\n助かります。"
+    },
+    {
+      "name": "Narration",
+      "text": "After gently placing her index finger on his lips, Wurm smiled quietly at {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "立てた人差し指をそっと唇に当てると、\n{0}に静かに微笑むヴルムなのだった。"
+    }
+  ]
+}

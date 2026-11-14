@@ -1,0 +1,614 @@
+{
+  "title": "The Chance Star Comes Suddenly",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the others had repelled the attack by Alshat, the Princess Knight of Vision Empress.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "幻境竜后のプリンセスナイト、\nアルシャトの襲撃を退けた{0}たち。"
+    },
+    {
+      "name": "Narration",
+      "text": "A little time passed, and just before Christmas, Yui was shopping with a certain someone in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それから少し時が経ち、\nクリスマス直前のランドソルにて。\nユイはというと──\nとある人物と買い物をしていた。"
+    },
+    {
+      "name": "Misora",
+      "text": "Yui-saaaaan? Have you finished changing? There's no need to be embarrassed, okay?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ユイさーん？　\n着替えは終わりましたー？\n恥ずかしがらなくていいんですよー？"
+    },
+    {
+      "name": "Misora",
+      "text": "Ah, or maybe... you don't know how to wear it? Then I'll come into the changing room with you★ Sorry to intrude~",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あ、\nそれとも\n着方がわかんないとかですか？\nじゃあわたしも\n更衣室入りますね★\nお邪魔しま──"
+    },
+    {
+      "name": "Yui",
+      "text": "Aaah, WAIT! I'm coming out now!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "待って！　\n今出るから！"
+    },
+    {
+      "name": "Yui",
+      "text": "Um... How... is it?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "その……\nどう……\nかな？"
+    },
+    {
+      "name": "Misora",
+      "text": "Wow★ That's nice, it really feels like a special outfit.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わぁ★\nいいですねー、\n勝負服\nってカンジで。"
+    },
+    {
+      "name": "Misora",
+      "text": "But... since it's a special date outfit, why not go for something a little more bold? Look, how about this \"slightly more daring arrangement version\"? That way even this part becomes visible★ How bold~♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "でも\n折角のデート服ですし、\nもうちょっと攻めても良くないですか？\nほら、\nこっちの\n『ちょっとカゲキなアレンジバージョン』とか～\nこんなとこまで見えちゃいますよ★　\n大胆～♪"
+    },
+    {
+      "name": "Yui",
+      "text": "EEEH?! I couldn't possibly wear that!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えええっ！？\nそんなの無理だよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "Geez, you're so stiff, Yui-san. For Christmas... you DO want to make Knight-san's heart skip a beat, right?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "んもー、\nユイさんってばお堅いんですからー\nクリスマスに、\n騎士さんを\nドキッ\nとさせたいんですよね？"
+    },
+    {
+      "name": "Yui",
+      "text": "That's... I do, but...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "それは……\nそうだけど……"
+    },
+    {
+      "name": "Yui",
+      "text": "Ugh... I never thought it would turn out like this...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うぅ……\nまさかこんなことになるなんて……"
+    },
+    {
+      "name": "Narration",
+      "text": "A few days ago...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数日前……"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "We have all kinds of potions! If you want to earn some money before Christmas, come and get your items at my shop!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "各種ポーション揃ってるよー！\nクリスマス前にひと稼ぎするなら、\nうちで道具を揃えていきな！"
+    },
+    {
+      "name": "Souvenir shop",
+      "text": "Would you like a matching mug as a present?",
+      "choice_data_list": [],
+      "orig_name": "土産物屋",
+      "orig_text": "プレゼントに\nお揃いのマグカップは\nいかがですかー？"
+    },
+    {
+      "name": "Western Confectionery Clerk",
+      "text": "We are now accepting reservations for Christmas cakes!",
+      "choice_data_list": [],
+      "orig_name": "洋菓子店員",
+      "orig_text": "クリスマスケーキのご予約\n受け付け中でーす！"
+    },
+    {
+      "name": "Yui",
+      "text": "So it's Christmas already...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "もうクリスマスかぁ……"
+    },
+    {
+      "name": "Yui",
+      "text": "I completely forgot... That explains why there's so many couples around.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "すっかり忘れてたな……\nだからカップルの人が多いんだ。"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "Welcome, Yui-chan! Thanks for always being a regular here. Here you go, the usual. Could you please check the contents just to be sure?",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "ユイちゃん\nいらっしゃい！\nいつも贔屓にしてくれて\nありがとね。\nはい\nこれ、\nいつもの。\n念のため\n中身確認してくれる？"
+    },
+    {
+      "name": "Yui",
+      "text": "Umm... Yes, everything's here!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっと……\nはい、\n全部そろってます！"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "Mm, thank you. It must be hard being an adventurer, needing so many items even though it's just before Christmas.",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "ん、\nありがとう。\nクリスマス前なのに\nこんなに道具がいるなんて、\n冒険者は大変だねぇ。"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "I'm sure even you are looking to find some time to spend with your boyfriend, Yui-chan... I hope you'll be done with your guild work fast.",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "それこそユイちゃんなんて\n彼氏さんとの時間もあるだろうに……\nギルドの仕事が早く終わるといいねぇ。"
+    },
+    {
+      "name": "Yui",
+      "text": "Ahaha, that's tru-... WAIT, MY BOYFRIEND?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あはは、\nそうですね……\nって、\n彼氏！？"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "Oh, was I wrong? I'm talking about that kind-looking boy. You often go shopping together, so I just... I'm sorry!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "おやっ、\n違ったのかい？\nほら、\nあの優しそうな男の子。\nよく一緒に買い物とかしてるから\nつい……\nごめんなさいね～！"
+    },
+    {
+      "name": "Tool Shop Owner",
+      "text": "Geez, this old lady has a bad habit to make assumptions! Forget what I just said! Well, I hope you have a Merry Christmas!",
+      "choice_data_list": [],
+      "orig_name": "道具屋",
+      "orig_text": "も～\nおばちゃんったら勝手に想像しちゃって\nよくないわね！\n今言ったことは\n忘れておくれ！\nそれじゃ、\nよいクリスマスを過ごせますように！"
+    },
+    {
+      "name": "Yui",
+      "text": "Ahh, that caught me out of surprise... To say I have a boyfriend...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あぁ、\nびっくりしたぁ……\n彼氏なんて……"
+    },
+    {
+      "name": "Yui",
+      "text": "But, Kishi-kun... He's very important to me. So if it were possible...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "でも、\n騎士クンは……\nわたしにとって、\nすごく大事な人。\nもし\n叶うなら……"
+    },
+    {
+      "name": "Excited Girlfriend",
+      "text": "Hey, darling. It's about time for this year's Christmas... Why don't you come spend it at my house? We'll have dinner together... and then...",
+      "choice_data_list": [],
+      "orig_name": "浮かれた彼女",
+      "orig_text": "ねぇ\nダーリン。\n今年の\nクリスマスなんだけど……\nわたしの家で過ごさない？\n夕ご飯も一緒に食べて……\nその後も……"
+    },
+    {
+      "name": "Happy Boyfriend",
+      "text": "H-Honey... Y-You mean...!",
+      "choice_data_list": [],
+      "orig_name": "浮かれた彼氏",
+      "orig_text": "ハ、\nハニー……\nそ、\nそれって……！"
+    },
+    {
+      "name": "Excited Girlfriend",
+      "text": "Yeah... I'm hoping we can stay together... until morning this Christmas.",
+      "choice_data_list": [],
+      "orig_name": "浮かれた彼女",
+      "orig_text": "うん……\n今年のクリスマスは、\n朝まで\n一緒にいられたら\nって。"
+    },
+    {
+      "name": "Yui",
+      "text": "What a bold conversation to overhear...! ...But...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "すごい会話聞いちゃった……！\n……でも……"
+    },
+    {
+      "name": "Yui",
+      "text": "To be fair, this isn't really the time to be talking about stuff like Christmas. But someday, like that couple, me and Kishi-kun too...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "本当はクリスマスなんて\n言ってる場合じゃないんだけど。\nでもいつか、\nあのカップルみたいに\n騎士クンと──"
+    },
+    {
+      "name": "Yui",
+      "text": "...Hold on just a second, me...! Am I saying that soon enough, me and Kishi-kun... will do that kind of thing too...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……って、\nわたしったら……！\nこんなんじゃ、\n騎士クンと、\nまるで\nそういうことが……！"
+    },
+    {
+      "name": "？？？",
+      "text": "That wish... I'll grant it★",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "その願い、\nわたしが叶えましょう★"
+    },
+    {
+      "name": "Yui",
+      "text": "WHAT...?! Misora-chan?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっ──\nミソラちゃん！？"
+    },
+    {
+      "name": "？？？",
+      "text": "It's been a while, Yui-san★ Also... I'm not \"Misora\" right now~",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "お久しぶりです、\nユイさん★\nあと、\n今のわたしはミソラじゃなくて──"
+    },
+    {
+      "name": "Charming sky?",
+      "text": "I'm the ally of all troubled girls★ The name's \"Silent Knight★ Charming Sky\".",
+      "choice_data_list": [],
+      "orig_name": "チャーミングスカイ？",
+      "orig_text": "悩めるオトメの味方、\n『聖夜騎姫★\nチャーミングスカイ』\nですよ★"
+    },
+    {
+      "name": "Yui",
+      "text": "Um...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっと……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Aww, you're no fun. Whatever, I just wanted to say it at least once, so it's fine.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "もー、\nノリ悪いんですからー\nまぁ言ってみたかっただけなんで、\n別にいいですけど。"
+    },
+    {
+      "name": "Misora",
+      "text": "More importantly, Yui-san... when you saw that couple just now, didn't a certain thought cross your mind?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それよりユイさん、\nさっきあのカップルを見て\nこんなこと思ってませんでした？"
+    },
+    {
+      "name": "Misora",
+      "text": "\"I want to have a passionate time with Kishi-kun too… spend a night alone together... kissing, hugging, maybe even going a little further♥\"... something like that★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わたしも騎士クンと情熱的な時間を過ごしたい……\n叶うなら\n二人だけの夜を過ごして\nキスやハグ、\nなんならそれ以上のコトもしちゃいた～い♥　\n……なんて★"
+    },
+    {
+      "name": "Yui",
+      "text": "EEEH?! I-I wasn't thinking that far...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ええっ！？\nさすがにそこまでは……！"
+    },
+    {
+      "name": "Misora",
+      "text": "\"Not that far\", huh? So something close to it did cross your mind?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "さすがに……\nってことは\n近いことは思ってたんですね？"
+    },
+    {
+      "name": "Yui",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うっ……"
+    },
+    {
+      "name": "Misora",
+      "text": "It's fine, really. When you're with someone you like, it's totally normal to wonder what comes next★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "大丈夫です\nって。\n好きな人と一緒にいたらその先もー\nって思うのは\nフツーなことですよ★"
+    },
+    {
+      "name": "Misora",
+      "text": "Besides, Knight-san tends to get cozy with a lot of people so easily. Honestly... doesn't that make you a little nervous?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それに、\n騎士さんてばいろんな人とすぐイイ感じになりますからねー\n正直、\n焦ってたりしないんです？"
+    },
+    {
+      "name": "Yui",
+      "text": "Well...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "そ、\nそれは……"
+    },
+    {
+      "name": "Yui",
+      "text": "Actually, Misora-chan... why are you even here? Kokkoro-chan said you went missing in the real world...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "っていうか、\nミソラちゃんこそ、\nどうしてここにいるの？\n現実世界で行方不明\nって、\nコッコロちゃんも言ってたのに……"
+    },
+    {
+      "name": "Misora",
+      "text": "That's... a secret★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それはー\n……\nナイショです★"
+    },
+    {
+      "name": "Misora",
+      "text": "I mean, you shouldn't care about me. The important thing here are your feelings, Yui-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "てゆーか、\nわたしのことはどうでもいいんですよー\n問題なのは\nユイさんの気持ちですよね？"
+    },
+    {
+      "name": "Misora",
+      "text": "First of all, Yui-san, can you even tell Hiyori-san and your other friends what you're thinking right now? \"I want to spend a wonderful one-nighter with Kishi-kun\"... I wonder how they'd react if you said something like that...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "第一ユイさん、\n今考えてることを\nヒヨリさんたちに言えます？\n「騎士クンとステキなワンナイトを過ごしたい」\n……なんて言ったら\nどんな反応をされるか……"
+    },
+    {
+      "name": "Misora",
+      "text": "But, but... bottling it up and agonizing over it isn't good for you either, right? It'll just make you stew over it even more...★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "でもでも、\n誰にも言わずに悶々としてすごすのも\nそれはそれでユイさんの気分的に良くないですよね。\nむしろもっと悶々としちゃったり……★"
+    },
+    {
+      "name": "Misora",
+      "text": "And in that regard, I know lots about how you feel, Yui-san. I think I can help you quite a bit. So? Not a bad offer, right?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "その点、\nわたしはユイさんのキモチをイロイロ知ってますし\nけっこうお手伝いできると思うんですよねー\nどうです？　\n悪くない話じゃないですか？"
+    },
+    {
+      "name": "Yui",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Yui",
+      "text": "Certainly, Misora-chan is making a sound argument... why would she suddenly suggest this...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "たしかに、\nミソラちゃんの言う通りだけど……\nなんで\n急にこんな提案を……？"
+    },
+    {
+      "name": "Yui",
+      "text": "Between Misora-chan and I... a lot of things happened...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ミソラちゃんとは、\nいろいろあったけど……"
+    },
+    {
+      "name": "Yui",
+      "text": "But, right now... I don't feel like she's plotting anything bad.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "でも、\n今は……\n悪いことは\n考えてない気がする。"
+    },
+    {
+      "name": "Yui",
+      "text": "Besides, to be honest, just now... my heart was racing thinking about Kishi-kun... so...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "それに、\n正直\nさっきから\n騎士クンのことを考えると、\nドキドキしちゃって……\nだから……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Umm...... then...... could I... ask you to help me?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "…………その。\nじゃあ…………\nお願い、\nしてもいい？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Ehe★ Yes, of course. Leave it to me, the Silent Knight★Charming Sky, to help you★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "…………★\nは\nい、\nもちろんです。\nこの\n『聖夜騎姫★\nチャーミングスカイ』に\n任せてください★"
+    },
+    {
+      "name": "Yui",
+      "text": "Y-Yeah...! I'm in your hands, Misora-chan.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん……！\nよろしくね、\nミソラちゃん。"
+    },
+    {
+      "name": "Misora",
+      "text": "So, what will you do? Will you buy this outfit?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "で、\nどうします？\nその服、\n買いますか？"
+    },
+    {
+      "name": "Yui",
+      "text": "...Huh?! Ah, well... but we haven't even planned a date yet...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……へっ！？　\nあ、\nえっと……\nでも、\nまだ\nデートするって\n決まったわけじゃ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Huuuuh? Isn't momentum important for this kind of thing?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えー\nこういうのは勢いが大事じゃないですか？"
+    },
+    {
+      "name": "Misora",
+      "text": "First of all, since it's you we're talking about, you'd probably delay asking him out on a date by finding random reasons, right? Wouldn't it be best to block that escape route first?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "第一、\nユイさんの場合\nそのまま理由つけて後回し～\nとか、\nやりかねませんし？\n退路を塞ぐ的なの、\nしたほうがよくないです？"
+    },
+    {
+      "name": "Yui",
+      "text": "I-I can't deny that...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ひ、\n否定できない……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Right? And so, you have two options Yui-san!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ね？\nとゆーわけで、\nユイさんの選択肢は\n二つです。"
+    },
+    {
+      "name": "Misora",
+      "text": "Choose which one you'd like to buy: the \"slightly more mature outfit\" that you are currently wearing, or a \"slightly more bold version\" based on that same outfit. Go ahead and choose★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ユイさんが今着てる\n『ちょっとオトナな勝負服』か\nその服をベースにした、\n『ちょっとカゲキなアレンジバージョン』か──\nどっちを買うか、\n選んでください★"
+    },
+    {
+      "name": "Yui",
+      "text": "The clothes I'm wearing right now... They're cute, but I wonder if Kishi-kun will really like them...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "今着てる服……\nかわいいけど\n本当に騎士クンは\n喜んで\nくれるかな……"
+    },
+    {
+      "name": "Yui",
+      "text": "But the other one has a heart hole in its chest area... and the back area is completely exposed making it hard to wear in this chilly winter... But...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "でももう一着は\n胸元に穴開いちゃってるし、\n背中も開きすぎだし\nこんなの、\n外で着るには……\nでも……"
+    },
+    {
+      "name": "ミソラ",
+      "text": "５、\n４、\n３、\n２……",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "５、\n４、\n３、\n２……"
+    },
+    {
+      "name": "Yui",
+      "text": "Ugh... A-After all, let me think about it!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うぅ……\nや、\nやっぱりちょっと\n考えさせてっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Hauu...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "はうぅ……"
+    },
+    {
+      "name": "Misora",
+      "text": "You shouldn't be overwhelmed by something like this, Yui-san. After all, your opponent is that Knight-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "この程度でいっぱいいっぱいになってたらダメですよ、\nユイさん。\nなにせ相手は\nあの騎士さんなんですから。"
+    },
+    {
+      "name": "Yui",
+      "text": "B-But...! I can't just buy clothes when we haven't planned anything out just yet!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "で、\nでも……！\n何も決まってないのに\n服だけ買えないよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "Ah, now that you mention it★ Hmmm... then, first of all... let's come up with a plan!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あっ、\n言われてみればですね★\nんー……\nじゃあまずは、\n計画を立てるところからいきましょっか。"
+    },
+    {
+      "name": "Misora",
+      "text": "Is there anything you want to do, Yui-san?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ユイさん的にはやりたいことあります？"
+    },
+    {
+      "name": "Yui",
+      "text": "I just want... to be alone with Kishi-kun...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わたしは……\nただ、\n騎士クンと\n二人きりで過ごせたら\nって……"
+    },
+    {
+      "name": "Misora",
+      "text": "Geez, is that really all? Are you still being shy after all that? This is a great chance for you to close the distance with him, so be bold and seize it♥",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "も～、\nそれだけですか？　\nまだ恥ずかしがってるんですか？\nせっかくの距離を縮めるチャンスなんですから、\n開き直ってダイタンにいきましょう♥"
+    },
+    {
+      "name": "Yui",
+      "text": "But really... I've no idea what to do to achieve that! Just sticking together to him is difficult enough...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "でも本当に\nどうすればいいか分からないの！\nくっついたりするだけでも\n精いっぱいだし……"
+    },
+    {
+      "name": "Misora",
+      "text": "Well, how about this? The two of you are enjoying activities on a snowy mountain. But then... a fierce snowstorm hits!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "なら、\nこういうのはどうです？\n雪山でアクティビティを楽しむ二人。\nでもそこに猛吹雪が！"
+    },
+    {
+      "name": "Misora",
+      "text": "A world just for the two of you. You decide to snuggle together to warm each other's chilled skin. In the end, even the clothes separating you become a hindrance...♥",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "二人きりの世界。\n寒さで冷えた肌を、\n寄り添って温めあう二人。\nついには\n二人を隔てる服すら邪魔になって……♥"
+    },
+    {
+      "name": "Yui",
+      "text": "Wait, wait! That's taking a turn for the extreme, isn't it!?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "待って待って！\nそれなんかもう\n違うよね！？"
+    },
+    {
+      "name": "Misora",
+      "text": "Eeeh? Personally I think it's better to have a thrilling and suspenseful story.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えー\nドキドキハラハラなほうがいいと思うんですけどねー"
+    },
+    {
+      "name": "Misora",
+      "text": "*sigh* Well, whatever. Since things have come to this, let's hold a strategy meeting for the shy and sullen Yui-san★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……はぁ、\nまぁいいです。\nこうなったら奥手でムッツリなユイさんのために\n作戦会議、\n開いちゃいましょう★"
+    },
+    {
+      "name": "Yui",
+      "text": "...Will things really be okay...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……本当に大丈夫かなぁ……？"
+    },
+    {
+      "name": "Narration",
+      "text": "After receiving a strange proposal from Misora, Yui decides to plan a Christmas date with {0}. However, the road ahead is full of obstacles.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミソラからの奇妙な提案を受け、\n{0}との\nクリスマスデートを計画することにしたユイ。\nしかしその道のりは前途多難なのだった。"
+    }
+  ]
+}

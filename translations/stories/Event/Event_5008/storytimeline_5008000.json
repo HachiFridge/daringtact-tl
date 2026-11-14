@@ -1,0 +1,469 @@
+{
+  "title": "A Stormy Outing",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Today, {0} is accompanying Anna on a long hike\nthat will take them quite some way from Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}はアンナと共にランドソルを旅立ち、\n長い道のりを歩き続けていた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Urgh... We've walked a long way,\nbut I don't see anything that looks like a canyon...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "うぅ、\n結構歩いたはずだが、\n渓谷らしき景色は見えないな……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "They say you can't fight on an empty stomach,\nand it's true that I don't feel capable of much right now. Urghhh...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "腹が減っては戦はできぬというが、\n確かにこれは\n可及的速やかに解決すべき問題だ。\nぅぅぅ……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Still, it can't be much farther.\nWhen we reach the Canyon Cavern, all our woes will be solved!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "だが、\nこの苦難もあとわずかだ……\n渓谷の洞窟に行けば、\n問題は全て解決する！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "This may be an arduous quest, but let us endure, Sigurd!\nWe must have faith that this flyer will be our salvation!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "苦難の道中ではあるが\n耐え忍ぼう、\nシグルド。\nこのチラシがきっと、\n我々の窮地を救ってくれるはずだ！"
+    },
+    {
+      "name": "Narration",
+      "text": "A few hours earlier...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数刻前──"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Curses! The mighty Hecate of the Gale,\nreduced to hunting for odd jobs for cash?!\nNever have I felt such shame!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "おのれぇ～！　\nこの疾風の冥姫ともあろう者が、\nバイト探しをするハメになるとは……\n一生の不覚っ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "To think the criminal activity near Landosol\nwould die down like this all of a sudden.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "まさか、\nランドソル近郊の賞金首が\nめっきり大人しくなってしまうとはな。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "With no bounties to hunt, I am stripped of my source of income...\nSurely not all the evildoers could have reformed so easily!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "賞金首がいなくては、\n賞金稼ぎが金を稼ぐことは難しい……\nどいつもこいつも更生して大人しくなったわけでもあるまいに……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hmm? What's that, Sigurd? Some kind of flyer?\nYou want me to read it? Let's see now...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ん？　\nどうしたシグルド、\nチラシなんか持ってきて。\nこれを見てほしい？　\nなになに……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "\\\"Three meals a day! Residence provided!\nWith our friendly on-the-job training program,\nyou'll feel right at home in this workplace!\\\"",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "３食食事付き！　\n住み込み寮完備！\n先輩たちによる親切丁寧な指導が大好評の\nアットホームで明るい職場です──"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Wh-what is this heavenly-sounding job offer?!\nCan such a part-time job really exist?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "な、\nなんなんだこの至れり尽くせりの条件は！？\nこんなバイトがあっていいのか！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Where is it located?!\nThe \\\"Canyon Cavern\\\"? Not a place I've heard of...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "勤務地はどこだ！？\n渓谷の洞窟？　\n聞いたことのない場所だが。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...Sigurd. I've decided to apply for this position.\nWith such good work conditions, I may have to hurry to beat the rush!",
+      "choice_data_list": [
+        "I want to work there too.",
+        "Sounds suspicious. I'll go with you."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……\nシグルド、\n私はこのバイトに応募しようと思う。\nこれだけの好条件だ、\n早く行かねば定員になってしまうかもしれない！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I see! In that case, I may even be able to claim\nthe \\\"Refer-a-Friend Bonus\\\" mentioned here!\nAn extra 5,000 rupies per day? It's like a dream!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そうか！　\nということは、\nここに書かれている\n友達紹介ボーナスがゲットできるということだな！\n日当5000ルピ増し……\n夢のようだぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "There's no such thing as a free lunch, you say?\nHahahah! What a worrywart you are, Sigurd!\nVery well—then let us go forth together!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "うまい話には裏がある、\nと言いたいのか？\nはっはっはっ！　\nシグルドは心配性だな！\nよかろう、\nならば共にゆこうではないか！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Urgh... Really, though, are we still not there yet?\nThis is wearing me out...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "うぅ～、\nそれにしても、\nまだ着かないのか？\nさすがに疲れたな……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "What's this I see? Annie-girl?\nAnd if it isn't {0}, too! My bro!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あれあれ？　\nアンナたそ？\nそれに{0}君ではないか！　\n敬礼！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh! That voice can only belong to my comrade-in-arms, Nanaka!\nCould it be... you too came to apply for this job?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "おお、\nその声は我と同盟を結びし者、\nナナカではないか。\nもしかして、\nナナカもバイトをしに来たのか？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Job? No, no, I'm on the hunt for old tomes.\nA trove of them was unearthed in the Canyon Cavern!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "バイト？　\nうぅん、\n私は古文書の仕入だよ。\n渓谷の洞窟で古文書が発掘されたって情報が入ってね。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "And what's more, they're supposed to have a bunch of SSR info inside!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "その古文書、\n特レアの情報が記されてるって話なんだよねー"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Which means, people may buy 'em at a high price!\nGueheheh! Smell that? That's the scent of riches for the taking!",
+      "choice_data_list": [
+        "Do you have the money to buy them?"
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "つまり、\n高値が付く可能性が高いってこと！\nデュフフフ、\nこれは\n一攫千金の予感がしますぞ～！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "You better believe I do!\nUrgh... I had to pawn my whole figure collection for the occasion...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "よくぞ聞いてくれました！\nうう、\nこのために愛蔵のフィギュアを泣く泣く質に入れたんだよぉ～"
+    },
+    {
+      "name": "Nanaka",
+      "text": "But I'll make big bank on this investment,\nand then my waifus will be mine again!\nHang in there, my pretties!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "このお金を元手に大金をゲットして、\n彼女たちも\n取り戻すって寸法だよ！　\n待っててね私の嫁たち！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I thought I heard a commotion... So it was you two.\nAnd even {0}'s here? What's the big occasion?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "──騒がしいのが来たと思えば、\nアンタたちか。\n{0}まで一緒とは、\nなにやってんだい？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Oho? Ruka?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "おろ、\nルカ姉？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Why, it really is Ruka! What brings you here?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ルカではないか！　\nなにをしているのだ？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I was taking a break from my walk for a nap.\nI like to go for strolls\nhere and there across the continent.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "散歩の途中に昼寝してたんだよ。\nのんびりするついでに、\nこの大陸をあちこち歩き回ってんのさ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Someone's got too much free time...\nWait, does that mean you're hunting for leads on the Twilight City?\nWowzers! You're an inspiration, Boss Lady!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そんなに暇なの……\nって\nもしかして、\n黄昏の都の手がかり探してるの？\n真面目！　\nマジ真面目だね姉御っ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I've told you to stop calling me that...\nAnd you could try searching a bit harder yourselves.\nSo? What are you three up to?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "姉御はよせって言ってるだろ。\nアンタたちが不真面目なだけだよ。\nそれで？　\nそっちは仕事かい？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Well, actually...\nThis might be a bit of a long story, but...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "それがだな……\nこれがまた\n語ると長い話になってしまうのだが……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Let's hear it within 140 characters! ♪",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "140文字以内でお願いね♪"
+    },
+    {
+      "name": "Villain",
+      "text": "Hold it! You're not gettin' away!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "おらぁ！　\n待ちやがれー！"
+    },
+    {
+      "name": "Man",
+      "text": "Urgh...!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "くぅうっ……！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "What's this?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なんだ？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Did we just trigger a special event?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "なにやらイベント発生の予感！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "They seem to be heading this way...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "こっちに向かってくるみたいだが……"
+    },
+    {
+      "name": "Man",
+      "text": "Arghhh... Is this the end of the line?!",
+      "choice_data_list": [
+        "I think we should help that man."
+      ],
+      "orig_name": "男",
+      "orig_text": "くそぉ……！　\nここまでなのか……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Good grief. Well, I can't argue with you, {0}.\nHey, fella! Get yourself behind me!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やれやれ。\n{0}がそういうなら仕方ないね。\nおいアンタ！　\nアタシの後ろに隠れな！"
+    },
+    {
+      "name": "Man",
+      "text": "Th... thank you so much!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "あ、\nありがとうございますっ！！"
+    },
+    {
+      "name": "Villain",
+      "text": "Who're you punks? Friends of this guy?! Then you're in for it too!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "なんだテメェら、\nソイツの仲間か！　\nだったら容赦しねぇぞ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Friends? Hardly. We don't even know what this is about.\nIf this man is a villain, we'll hand him over. How's that sound?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "仲間もなにも、\n事情からなにからさっぱりだよ。\nこいつが悪党だって話なら引き渡してやるけどね。\nどうする？"
+    },
+    {
+      "name": "Villain",
+      "text": "Shut your trap or I'll shut it for you! Take this!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "ぐだぐだ言ってると痛い目見るぞ、\nおらぁあ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Oh, do be quiet.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "うるさいね。"
+    },
+    {
+      "name": "Villain",
+      "text": "Guahhh!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "ぐぁああ！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "That won't leave a mark. So be thankful.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "峰打ちだよ、\n感謝しな。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Wowee! As magnificent a trouncing as ever!\nLike an IRL heroine!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うひょー！　\n相変わらず鮮やかすぎるっ！\nそこに痺れる憧れるー！"
+    },
+    {
+      "name": "Villain",
+      "text": "Dammitall! You'll pay for this!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "ちくしょう！　\n覚えてろよ！"
+    },
+    {
+      "name": "Man",
+      "text": "Ahhh... Thank you so much for your help!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "ああ……\n本当に\nありがとうございます！"
+    },
+    {
+      "name": "Ruka",
+      "text": "You're not hurt, are you?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "怪我はないかい？"
+    },
+    {
+      "name": "Man",
+      "text": "No, I'm absolutely fine. But the village is another story...!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "はい、\n自分は平気です。\nそれよりも、村を……！"
+    },
+    {
+      "name": "Man",
+      "text": "I'm begging you! Please come and help our village!\nIt's just a few miles down this road!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "お願いします。\n僕たちの村を助けてください！\nここを道なりに進んだ先にあります！"
+    },
+    {
+      "name": "Man",
+      "text": "I'm on my way to deliver a petition for aid to the capital!\nUntil help arrives, please lend them your strength!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "僕はこのまま、\n王都へ嘆願書を持っていきます！\n助けが来るまで、\nどうか村をお願いします！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Wait, I never signed up for—!\n...And he's gone.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "いや、\nお願いっていわれても！\n行っちまった……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Well, I guess I've been roped in.\nBut this does sound like quite a serious situation. Care to come along?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "参ったね。\nなんだかきなくさい話になりそうだけど、\nどうする？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Umm... I'm guessing they need help right away?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "えっと、\n今から、\nってことだよね……？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Hmmm... It [i]is[/i] a magical girl's duty to vanquish evil,\nbut can't I get my hands on those tomes first...?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "う～ん……\n悪を滅ぼすのは魔法少女の務めだと思うけど、\n古文書をゲットしてからじゃダメ、\nかなぁ？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I too have a job to do, and I cannot afford to keep them waiting.\nBesides which, my abilities are impaired until I can fill my stomach...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私もバイトがあるし、\nバイト先を待たせるわけにはいかないからな……\nそれにまずは\n空腹を満たさないと、\n本来の力を発揮できそうにない……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'm sorry, Ruka. Sigurd and I will join you as soon as our work is done,\nso please head to the village ahead of us.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "すまないルカ。\nバイトが一段落したらシグルドとすぐに合流する。\n村へは先に向かってくれ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Mega sorry, Ruka! I'll finish up my work at the speed of light too!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ごめんなさいルカ姉！　\n私も仕事、\n爆速で終わらせてくるから！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Understood. You two take care of what you have to do.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "了解だ。\nしっかり自分たちの領分をこなしてきな。"
+    },
+    {
+      "name": "Ruka",
+      "text": "And {0}, do what you can to support them.",
+      "choice_data_list": [
+        "Good luck at the village, Ruka."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "{0}、\n二人をよろしく頼むよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Thank you. And with that, I'll see you later!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ありがとね。\nそれじゃあ、\nまた後で。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Well, I'm sure I can handle this on my own.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ま、\n一人でもなんとかなるだろうさ……"
+    },
+    {
+      "name": "Narration",
+      "text": "And so Ruka set out alone to save the village in peril,\nwhile Nanaka rushed off to see a merchant about some rare tomes,\nand Anna and {0} headed for the Canyon Cavern.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、ルカは王都へと走った男の願いを聞き入れ、村へ。\nナナカは古文書の仕入に、行きつけの雑貨屋へ。\nアンナと{0}は、渓谷の洞窟へと向かうのだった。"
+    }
+  ]
+}

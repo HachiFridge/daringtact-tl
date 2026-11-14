@@ -1,0 +1,677 @@
+{
+  "title": "Train! Alter Maiden!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The novice adventurer guild, Alter Maidens, was eager to become stronger quickly to assist {0} and his team in monster hunting.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "新米冒険者ギルド【アルターメイデン】。\nまだまだ未熟な彼女たちは早く強くなって\n{0}たちの魔物討伐を手伝いたいと考えていた。"
+    },
+    {
+      "name": "Narration",
+      "text": "Upon hearing this, {0} asked some of his guild companions to train them. And...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それを聞いた{0}は、\n仲間のギルドのいくつかに彼女たちの訓練を頼んだ。\nそして……"
+    },
+    {
+      "name": "Monika",
+      "text": "The guildmaster of the Weissflügel Land Sol branch, Monika. Let's train these folks into splendid warriors!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "【ヴァイスフリューゲル　ランドソル支部】の\nギルドマスター、\nモニカだ。\n其方らを立派な戦士に鍛え上げてやろう！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Matsuri of the Nightmare!\nI might be new to being a knight, but I am an expert in basic training!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】のマツリッス！\n新米騎士ッスけど、\nそのぶん\n基礎訓練には詳しいッスよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "I'm Makoto from the Caon.\nI'm not really good at teaching, but... well, let's get to it.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "【自警団（カォン）】のマコトだ。\nあんまり人に教えるのは得意じゃねえけど……\nま、\nよろしくな。"
+    },
+    {
+      "name": "Riri",
+      "text": "Yes, please teach us!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "はい、\nよろしくお願いいたします！"
+    },
+    {
+      "name": "Monika",
+      "text": "You're all fired up!\nTeaching you should be quite rewarding too.\nSo, where should we start...?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "やる気十分だな！　\nこちらも教えがいがあるというものだ。\nでは\n何から始めるとするか……\nう～む……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Attention! Everyone!\nI'll start by teaching you myself!\nLet's do it the Nightmare way!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "はいはーい！　\nみなさーん！\nまずは自分が教えるッスよっ！\n【王宮騎士団（NIGHTMARE）】流に\nビシバシいくッス～！"
+    },
+    {
+      "name": "Monika",
+      "text": "Huh?!\nWhat are you doing?\nDon't interrupt!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "むっ！？\n其方、\n何をするっ！　\n割って入るな！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? What is it, Monika?\nOh...\nDo you want us to teach together?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "へ？　\nなんスか、\nモニカさん。\nあっ……\nもしかして\n一緒に教えてほしいんスか～？"
+    },
+    {
+      "name": "Monika",
+      "text": "I don't want to!\nI'll be the one to represent and lead the training.\nWeissflügel's training is renowned to be superior!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ほしくないっ！！\nここは\n私が代表して訓練するぞ。\nヴァイスフリューゲルの訓練は、\nどこよりも優れていると評判だからな！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh?!\nThat's not true!\nOur training is the best!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "むむっ！？\nそんなことないッス！　\nうちの訓練がサイキョーッスよー！？"
+    },
+    {
+      "name": "Monika",
+      "text": "Then let's compare training regimens!\nTrainees Riri, Quria, and Precia!\nFirst, full-on sprint to that tree and back ten times!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "なら\n訓練内容の比べっこだ！\n訓練生リリ、\nクリア、\nプレシア！\nまずは\nあの木まで全力ダッシュ、\n10往復！！"
+    },
+    {
+      "name": "Riri",
+      "text": "Huh...? That tree over there...\nyou mean the one in the far distance?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "え……？　\nあの木とは……\n遠く彼方に見える、\nあちらの木のことでしょうか……！？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ugh! You're quite confident...!\nWell, then... we'll do... a warm-up of 300 thigh lifts!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "くっ！　\n自信満々なだけあるッスね……！\nじゃあこっちは……\nウォーミングアップの腿上げ\n300回ッス！"
+    },
+    {
+      "name": "Quria",
+      "text": "Three hundred, you say...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "さ、\n300ですかっ……？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey, hey.\nAren't you two being a bit too tough on beginners...?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お、\nおい。\n二人とも、\n初心者相手にハードすぎないか……？"
+    },
+    {
+      "name": "Monika",
+      "text": "Tough? Especially those 300 thigh lifts are no big deal. Seems like the Nightmare have quite a lenient training regimen...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ハードなものか！　\nとくに腿上げ300など大したことない。\n【王宮騎士団（NIGHTMARE）】は\nぬるい訓練をしているようだな～？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Grr! Well, we'll see about that! Running only for warm-up won't make you stronger!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "むうっ！　\nそっちこそっ！\n走り込みにばっかり時間かけてちゃ、\n全然強くなれないッスよー！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Ugh, it's like dealing with kids fighting...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ったく。\nガキのケンカかよ……"
+    },
+    {
+      "name": "Quria",
+      "text": "Hey, Riri.\nWhich training should we do...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ねえ、\nリリちゃん。\nわたしたち、\nどっちの訓練をすればいいんでしょう……？"
+    },
+    {
+      "name": "Riri",
+      "text": "Y-Yes, you're right...\nSince we're being taught, I think we should do both...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "そ、\nそうですね……\nせっかく教えていただく以上、\nやはり両方……\nではないかと……"
+    },
+    {
+      "name": "Precia",
+      "text": "Start...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "だーっしゅ。"
+    },
+    {
+      "name": "リリ",
+      "text": "はぁ……\n走り込みと、\n腿上げ300回、\n終わりました……",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "はぁ……\n走り込みと、\n腿上げ300回、\n終わりました……"
+    },
+    {
+      "name": "Quria",
+      "text": "Ugh...!\nMy legs are numb now!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "うう～……！\nもう足が棒みたいです～"
+    },
+    {
+      "name": "Precia",
+      "text": "………… (Purupuru)",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "…………（ぷるぷる）"
+    },
+    {
+      "name": "Monika",
+      "text": "You're back! Well done!\nAfter a short rest, it's time for muscle training!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "戻ったか！　\nよくやりきったな。\n少し休んだら、\n次は筋力トレーニングだ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Please don't take charge on your own!\nI'll decide on the muscle training menu!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "勝手に仕切らないでほしいッス！\n筋トレのメニューはこっちが決めるッスー！"
+    },
+    {
+      "name": "Quria",
+      "text": "Um, are we still... going on...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あ、\nあのー……\nまだ、\nやるんですか……？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Of course! We won't become great heroes without building muscles!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "当然じゃないッスか！　\n筋肉つけないと、\n立派な正義のヒーローになれないッスからね！"
+    },
+    {
+      "name": "Precia",
+      "text": "...I'll do it.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "…………\nやるっ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Precia?\nYou shouldn't push yourself too hard...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "プレシアちゃんっ？\n無理はだめだよ……？"
+    },
+    {
+      "name": "Riri",
+      "text": "I... I must learn from Precia.\nSince we're being taught, I can't just rest...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "っ……\nわたくしも、\nプレシアさんを見習わなくては。\nせっかく教えていただいているのですから……\n休んでいるわけには、\nまいりません……！"
+    },
+    {
+      "name": "Monika",
+      "text": "Well said!\nLet's continue the training!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "よくぞ言った！\nでは訓練を続けるぞ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Next! 500 side jumps!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "次！　\n反復横跳び500回！"
+    },
+    {
+      "name": "Precia",
+      "text": "Hah...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "はぁ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Not bad! Next, 1000 sword swings!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "なんの！　\n次は\n剣の素振り1000回ッス！！"
+    },
+    {
+      "name": "リリ",
+      "text": "ま、\nだ、\nやれます……！",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ま、\nだ、\nやれます……！"
+    },
+    {
+      "name": "Monika",
+      "text": "Surprising for the Nightmare...!\nIn that case, let's get serious...!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】め、\n意外とやるではないか……！\nならば、\n少し本気を見せるとしよう──！"
+    },
+    {
+      "name": "Monika",
+      "text": "Rocklifting... 10,000 times!!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "岩石上げ……\n1万回っ！！"
+    },
+    {
+      "name": "Riri & Precia",
+      "text": "Huff, huff... huff...",
+      "choice_data_list": [],
+      "orig_name": "リリ＆プレシア",
+      "orig_text": "はぁ、\nはぁ……\nはぁ…………\nはぁ……………………"
+    },
+    {
+      "name": "Riri & Precia",
+      "text": "Hau...kyuu...",
+      "choice_data_list": [],
+      "orig_name": "リリ＆プレシア",
+      "orig_text": "はぅ……\nきゅう……"
+    },
+    {
+      "name": "Quria",
+      "text": "Huff, huff...\nRiri, Precia...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はぁ、\nはぁ……\nリリちゃん、\nプレシアちゃんっ……"
+    },
+    {
+      "name": "Riri",
+      "text": "My body... is...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "もう……\n身体に、\n力が……"
+    },
+    {
+      "name": "Precia",
+      "text": "I'm... hungry...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "おなか……\nすいた……"
+    },
+    {
+      "name": "Makoto",
+      "text": "...This is their limit.\nMonika, Matsuri, give them a break already!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……ここらが限界だな。\nモニカ、\nマツリ、\nいい加減休ませてやれ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Grrrr! Monika!\nThe training of the Nightmare is far from over!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ぬぬぬぬぬーっ！　\nモニカさんっ！\n【王宮騎士団（NIGHTMARE）】の訓練は\nまだまだ\nこんなもんじゃないッスよ～！"
+    },
+    {
+      "name": "Monika",
+      "text": "Haha, making excuses, huh? You'll have to admit that Weissflügel's training is the best soon enough!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふふーん、\n負け惜しみを！\nヴァイスフリューゲルの訓練こそが一番だと、\n早く認めるんだなっ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "They're not listening...\nHey! Both of you, that's enough.\nThis pointless rivalry should...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "聞いちゃいねえな……\nおいっ！　\n二人とも、\nそこまでだ。\nしょうもない意地の張り合いはもう……"
+    },
+    {
+      "name": "Riri",
+      "text": "Please wait...!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "待ってください……！"
+    },
+    {
+      "name": "Quria",
+      "text": "Riri?\nYou shouldn't push yourself any further;\nYou might collapse...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "リリちゃんっ？\nだめですよ、\nこれ以上は身体を壊しちゃいます……！"
+    },
+    {
+      "name": "Riri",
+      "text": "No, this is a rare opportunity.\nI don't want to disappoint everyone...\nnot Miss Monika, Miss Matsuri, or... Nii-sama!!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "……いいえ、\nせっかくいただいた機会なのです。\n皆様をがっかりさせたくありません……\nモニカ様も、\nマツリ様も……\n兄様も……！！"
+    },
+    {
+      "name": "Precia",
+      "text": "To battle...!",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "せーぎ……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh, no... we're back to training. We really need to find a way to stop those kids from fighting...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あーあ……\nまた訓練に戻っちまった……\nどうにかしてあのお子様二人のケンカを止めねえと……"
+    },
+    {
+      "name": "Quria",
+      "text": "You intend to stop them like children... Ah!\nIn that case...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "お子様を止める、\nですか……\nあっ！　\nそれなら……♪"
+    },
+    {
+      "name": "Riri",
+      "text": "Uh, uh...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "う、\nぅ……"
+    },
+    {
+      "name": "プレシア",
+      "text": "まだ…………",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "まだ…………"
+    },
+    {
+      "name": "Monika",
+      "text": "So, what kind of training is next, Nightmare? Or should we stick with this one?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "さあ、\n次はどんな訓練をするんだ、\n【王宮騎士団（NIGHTMARE）】！\nそれとも\n次もこちらの訓練でいいか！？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ugh... 20,000 sit-ups...!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "くうう\nうっ……！\n腹筋、\n2万回……！"
+    },
+    {
+      "name": "Monika",
+      "text": "Back to sit-ups? Hmph, it's still nothing! Alright, both of you, now it's time for the Super Rock French Press, 20,000 times!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "また腹筋か？　\nふんっ、\nやはり大したことないな！\nじゃあ二人とも、\n次は\nスーパー岩石フレンチプレス\n2万回だ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "N-No! 20,000... no, 30,000 sit-ups!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "だ、\nダメッス！\n腹筋\n2万……\nいや\n3万回ッス！"
+    },
+    {
+      "name": "Monika",
+      "text": "Hmph! If increasing the count is what it takes...\nthen it's 40,000 for us!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふん！　\n数を増やせばいいのなら……\nこっちは4万回だ！"
+    },
+    {
+      "name": "マツリ",
+      "text": "ぬぬぬぬ～\nじゃあこっちは……\n10万回ッス～～～っ！！",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ぬぬぬぬ～\nじゃあこっちは……\n10万回ッス～～～っ！！"
+    },
+    {
+      "name": "Riri & Precia",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "リリ＆プレシア",
+      "orig_text": "は、\nはひぃ…………"
+    },
+    {
+      "name": "Quria",
+      "text": "Everyone!\nInstead of that, come over here!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "みなさーんっ！\nそんなことより、\nこっちへどうぞ！"
+    },
+    {
+      "name": "Riri",
+      "text": "Ara... Ria? and what you carry are?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "あら……？\nリア、\nさん……？　\n手に持っているのは……？"
+    },
+    {
+      "name": "Quria",
+      "text": "Hehe. Sweets that Makoto and I made. There are cookies, pancakes, fruit sandwiches, caramel popcorn, and chocolate bananas.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ふふっ。\nわたしとマコトさんで作ったお菓子です♪\nクッキーに\nホットケーキに\nフルーツサンド、\nキャラメルポップコーンに\nチョコバナナもありますよ。"
+    },
+    {
+      "name": "Matsuri & Monika",
+      "text": "Sweets?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ＆モニカ",
+      "orig_text": "お菓子！？"
+    },
+    {
+      "name": "Quria",
+      "text": "Yes♪\nThey're simple, but we made a lot.\nPlease, help yourselves!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はい♪\n簡単なものばかりですけど、\nたくさん作ってきたので。\nお好きなだけ食べてください♪"
+    },
+    {
+      "name": "Precia",
+      "text": "Snacks...!",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "おやつ……！"
+    },
+    {
+      "name": "Riri",
+      "text": "Wait, Precia...\nWe still have Miss Monika's training...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ま、\n待ってください、\nプレシアさんっ……\nわたくしたちにはまだ……\nモニカ様たちの、\n訓練が……！"
+    },
+    {
+      "name": "Precia",
+      "text": "Hmm...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ん……"
+    },
+    {
+      "name": "Riri",
+      "text": "We understand your sentiment...\nbut patience is essential to become stronger...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "お気持ちはわかります……\nですが\n強くなるためには、\n辛抱することも……"
+    },
+    {
+      "name": "Quria",
+      "text": "...Never mind, I'm already eating.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……しないで\nもう食べてますよ。"
+    },
+    {
+      "name": "Riri",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "えっ……？"
+    },
+    {
+      "name": "Matsuri & Monika",
+      "text": "Yummy!",
+      "choice_data_list": [],
+      "orig_name": "マツリ＆モニカ",
+      "orig_text": "うんまーいっ！"
+    },
+    {
+      "name": "Riri",
+      "text": "Oh, my...?\nYou two as well...!?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "あ、\nあら……？\nお二人とも……！？"
+    },
+    {
+      "name": "Quria",
+      "text": "As you can see, the instructors seem to have taken a break, so let's join them? Riri, Precia.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "この通り、\n教官二人は休憩入っちゃったみたいですし、\n一緒に休みましょう？　\nリリちゃん、\nプレシアちゃん。"
+    },
+    {
+      "name": "Riri",
+      "text": "Y-Yes... If that's the case...\nthen, thank you very much.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "は、\nはい……\nそういうことでしたら……\nでは、\nいただきます。"
+    },
+    {
+      "name": "Precia",
+      "text": "Quria's sweets...\ndelicious.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "クリアのおかし……\nおいしい。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Quria made these? You're amazing!\nThey look like store-bought sweets♪",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "クリアさんが作ったんスか？　\nすごいッスね～！\nお店のお菓子みたいッス♪"
+    },
+    {
+      "name": "Monika",
+      "text": "Indeed, they're outstanding.\nAh! Matsuri, that strawberry fruit sandwich is mine, okay!?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "たしかに素晴らしい出来栄えだ。\nあ\nっ！　\nマツリ、\nそのイチゴのフルーツサンドは私のだぞ！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh, don't start fighting.\nI made some of these too, so eat as you like.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あー、\nもうケンカすんな。\nこっちにあたしが作ったのもあるから、\n好きに食べろ。"
+    },
+    {
+      "name": "Monika",
+      "text": "Hmm... these are pretty good too♪",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふむ……\nこっちもうまいな♪"
+    },
+    {
+      "name": "Quria",
+      "text": "Hehehe♪\nThe plan worked. Good job, Makoto.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ふふふっ♪\n作戦成功ですね。\nマコトさん。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yeah, who would've thought we'd lure the kids with sweets. Fortunately, Quria is skilled at cooking.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ。\nまさかお子様たちをお菓子で釣る作戦とはなあ。\nクリアが料理上手なのが幸いしたぜ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Makoto, you're quite skilled too.\nIt's wonderful that you can make such cute sweets so efficiently.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "マコトさんこそ、\nお上手じゃないですか。\nこんなに手際よく、\nかわいいお菓子が作れるなんて素敵です。"
+    },
+    {
+      "name": "Makoto",
+      "text": "W-Well, it's not that great...\nBut thanks, I guess.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そ、\nそんな大したモンじゃねえよっ。\nけど、\nま……\nありがとよ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Yes.\nMakoto could make a good bride♪",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "はいっ。\nマコトさんは、\nいいお嫁さんになれますね♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "B-Bride?! Hey, Quria, don't tease me like that! You can't just say stuff like that and run away!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お嫁、\nさ……！？　\nこらクリア、\n人をからかうんじゃねーっ！！\n言うだけ言って逃げんなこらーっ！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Hey, don't shout so much, Makoto.\nIt's not very mature.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "おい。\nあまり子供のようにわめくものではないぞ、\nマコト。"
+    },
+    {
+      "name": "Makoto",
+      "text": "What...!? What did you say?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "んなっ……！？　\nなんだと！？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yeah, yeah, shouting like a child isn't very adult-like, you know?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うんうん、\n大声出して怒るなんて、\n大人げないッスよー？"
+    },
+    {
+      "name": "マコト",
+      "text": "こ、\nこの～っ\n……！！",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "こ、\nこの～っ\n……！！"
+    },
+    {
+      "name": "Makoto",
+      "text": "I don't want to hear that from you guys!!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おまえらにだけは言われたくねえ～～～っ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Amidst training after training, in the darkened sky of 'Gio Teogonia', Makoto's angry outburst echoed through the darkening sky of Gio Teogonia, marking the end of the day.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "訓練に次ぐ訓練で\nすっかり日の落ちた『ジオ・テオゴニア』の空に、\nこの日一番大きいマコトの怒号が響き渡るのだった。"
+    }
+  ]
+}

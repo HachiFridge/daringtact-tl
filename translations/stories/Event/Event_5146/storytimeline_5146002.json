@@ -1,0 +1,789 @@
+{
+  "title": "Dream Adventure",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Ever since Maho became the deputy manager of \"Grand Dream Park\", a few days had passed. One day, {0} was walking around the park.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "マホが『グランドリームパーク』の副支配人となってから、\n数日たったある日。\n{0}がパーク内を見回っていた。"
+    },
+    {
+      "name": "Customer 1",
+      "text": "The merry-go-round was fun, right~♪\nLet's go over there next!\nThey're opening a new attraction!",
+      "choice_data_list": [],
+      "orig_name": "お客さん１",
+      "orig_text": "メリーゴーランド楽しかったね～♪\n次、\nあっちのほう行ってみようよ！\n新アトラクションオープンだって！"
+    },
+    {
+      "name": "Customer 2",
+      "text": "Okay!\nYou know, this amusement park is way more fun than before!",
+      "choice_data_list": [],
+      "orig_name": "お客さん２",
+      "orig_text": "オッケー！\nなんかさ、\nここの遊園地、\n前よりすごく楽しくなってるよね！"
+    },
+    {
+      "name": "Maho",
+      "text": "Hehe, thank you very much~♪\nI'll make it better, so please continue to patronize\nGrand Dream Park from now on~♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふふっ、\nおおきに～♪\nもっともっと良くしていきますから、\n今後とも\n『グランドリームパーク』をご贔屓に～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh, thank you for your hard work, Your Highness~♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あ、\n王子はん\nお疲れさまどす～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "... Are you familiar with this outfit I was wearing earlier? \nWell, I can't be embarrassed forever, \nbesides, it seems like the prince likes it too ♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……さっきのなじんでるって\nこの衣装のこと？\nまあいつまでも\n恥ずかしがってられへんし、\nそれに、\n王子はんも気に入ってくれとるみたいやしね♪"
+    },
+    {
+      "name": "Maho",
+      "text": "At first, I was nervous when I was called the assistant manager.\nWorking at the amusement park is really fun♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "初めは\n副支配人って言われて\n緊張してもうたけど。\n遊園地で働くんも、\nすっごく楽しいわぁ♪"
+    },
+    {
+      "name": "Maho",
+      "text": "We haven't done anything significant, have we?\nIt's just that the charm of \"Grand Dream Park\" has been conveyed ♪\n... however.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うちは\n大したことしてへんよ？\n『グランドリームパーク』の魅力が\n伝わっただけや♪\n……とはいえ。"
+    },
+    {
+      "name": "Precia",
+      "text": "Crepes.\nLife.\nNext. Takoyaki.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "クレープ。\nせいは。\nつぎ。\nたこやき。"
+    },
+    {
+      "name": "Inori",
+      "text": "Oh! Are you drawing Kababan-kun with a deck brush!?\nThat old man's pretty good!\n...I feel like I've seen him somewhere before...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おーっ！　\nデッキブラシでかばばん君の絵を！？\nおっさん、\nなかなかやりやがるですねっ！\n……\nなんか\nどこかで見た気がしますけど……？"
+    },
+    {
+      "name": "Staff",
+      "text": "It must be just my imagination.\nYes, it's Kababan-kun security guard mode.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "気のせいでしょう。\n……はい、\nかばばん君\n警備員モードです。"
+    },
+    {
+      "name": "Inori",
+      "text": "It's amazing!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "すげーです～！"
+    },
+    {
+      "name": "Maho",
+      "text": "However, I haven't seen many new faces yet.\nWe need to attract more new customers...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "とはいえ、\nまだ見た顔がほとんどやねぇ。\nもっと新しいお客はんにも\n来てもらえるようにならんと……"
+    },
+    {
+      "name": "Girl",
+      "text": "...Big sister fox.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……キツネのおねーさん。"
+    },
+    {
+      "name": "Maho",
+      "text": "Hmm?\nIs it about us, miss?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ん？\nうちのことかなぁ、\nお嬢はん？"
+    },
+    {
+      "name": "Girl",
+      "text": "Hmm... Miss, you're from a different world...\nYou're an Astrumian, right?\nAnd your brother over there is a Human, right...?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うん……\nおねーさんって、\nちがう世界……\nアストルムからきた、\nびーすと族のおねーさんでしょ？\nそれに\nそっちのおにーちゃんは、\nひゅーまん、\nだっけ……？"
+    },
+    {
+      "name": "Girl",
+      "text": "Wow! Amazing, amazing!\nI've never seen it before. It's so cool~......!!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わあっ！　\nすごいすごいっ！\n初めて見たよ。\nかっこいいな～……っ！！"
+    },
+    {
+      "name": "Girl",
+      "text": "Sorry for the sudden interruption. I'm really interested in a world that I don't know.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……あ、\nいきなりごめんね。\nわたし、\nおねーさんたちの世界のこと。\n知らない世界のこと、\nすっごく興味があって。"
+    },
+    {
+      "name": "Maho",
+      "text": "Are you serious? That's really great♪\nIn that case, I'll come visit Astrum sometime.\nI'd be happy to welcome you anytime♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あら\nほんまに？　\nそれはえらいうれしいなぁ♪\nほんなら今度、\nぜひアストルムにも遊びにおいでやす。\nいつでも歓迎させてもらいます♪"
+    },
+    {
+      "name": "Girl",
+      "text": "Really!? I want to become an adventurer someday!\nSo, I want to explore many unknown worlds!\n...Oh, but maybe it's impossible after all.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ほんと！？　\nわたし、\nいつか\n冒険家になりたいの！\nそれでね、\n知らない世界、\nたくさん見て回りたくて！\n……あ、\nでも……\nやっぱり無理かも。"
+    },
+    {
+      "name": "Maho",
+      "text": "...Oh. What's wrong...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……あら。\nどないしたん……？"
+    },
+    {
+      "name": "Girl",
+      "text": "No...I'm really happy that you invited me.\nBut, there are a lot of monsters in that world, right...?\nI'm really scared of that...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うう\nん……\n誘ってくれて\nとってもうれしい。\nでも、\nそっちの世界って\n魔物がすっごくたくさんいるんでしょ……？\nわたし、\nそれがとっても怖いの……"
+    },
+    {
+      "name": "Maho",
+      "text": "......Come to think of it, originally, there weren't any monsters in this world, right? If that's the case, there's no way to avoid being scared.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……そういえば元々、\nこの世界に\n魔物はんはおらんかったんやったね？\nなら、\n怖いのも仕方あらへんねぇ。"
+    },
+    {
+      "name": "Girl",
+      "text": "I can't believe I'm such a coward becoming an adventurer...\nI guess it's impossible after all...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "こんな臆病なわたしが\n冒険家だなんて……\nやっぱり、\n無理なのかなあ……"
+    },
+    {
+      "name": "Mother",
+      "text": "Look, how long are you going to talk?\nLet's go to the next attraction~",
+      "choice_data_list": [],
+      "orig_name": "母親",
+      "orig_text": "ほら、\nいつまでお話ししてるの？\n次のアトラクション行くわよ～"
+    },
+    {
+      "name": "Girl",
+      "text": "I'm sorry, mom.\nSee you later.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あ……\nごめんお母さん。\nじゃあ、\nまたねー"
+    },
+    {
+      "name": "Maho",
+      "text": "...Yeah, I had a lot of fun~♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……うん、\nいっぱい楽しんでなぁ～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "......Hey, Prince... What just happened... Kururu, did you...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……なあ\n王子はん、\n今の……\nって、\nクルルはん……？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yoi sho, kora sho……ah!\nHero-san! Maho-chan!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "よいしょっ、\nこらしょっ……\nあっ！\nヒーローさーんっ！　\nマホちゃんさーんっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "K... It seems like Kururu-san is holding onto someone like a Berserker... Hmm... I wonder what the situation is?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ク……\nクルルはんが、\nバーサーカーみたいな人\n抱えてはるけど……\nんー……\nどういう状況やろ？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes, I am a teacher at the magic school where Cal transferred.\nOf course, I am not a real person but a doll.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はい、\nキャルさんが編入した\n魔法学園の先生ですますっ。\nもちろん本物じゃなくって\nお人形ですよっ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh, by the way, that doll.\nYou had it placed at the magic academy-themed attraction, right?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ、\nそういえばそのお人形。\n魔法学園モチーフのアトラクションに\n置いてはったね。"
+    },
+    {
+      "name": "Kururu",
+      "text": "...I was watching earlier, but\nwas there something that happened to the girl you were talking about?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……あの\nさっき見ていたのですが、\nお話しされてた女の子、\n何かあったんですか？"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah, the truth is...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うん、\n実はね……"
+    },
+    {
+      "name": "Maho",
+      "text": "I haven't talked about that yet.\nIf this continues, I may give up on my dream of becoming an adventurer.\nI may...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……っていう話をしてな。\nこのままやと\n冒険家になりたい\nって夢に\n挫けてしまうかもしれへん\n思て……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes, I just came up with an idea!\nHow about I go on an adventure with you!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいっ、\n思いつきましたですっ！\nわたしが一緒に冒険してあげるとかどうでしょう！？"
+    },
+    {
+      "name": "Kururu",
+      "text": "I also traveled around the world to study various fun things! I may not be an adventurer, but I have some decent experiences!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わたしも色んな楽しいことのお勉強のために、\n世界を見て回ったんですっ！\n冒険家とは言えないけれど、\nそこそこの経験もありますし！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Of course, I might not be much help, but\nI could accompany you to a safe place at least...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "も、\nもちろん\n頼りにはあんまりならないかもですけど、\n危なくない場所の付き添いくらいなら\nわたしにも……"
+    },
+    {
+      "name": "Maho",
+      "text": "It's a great idea, but what are we going to do with this amusement park while Kururu is off on an adventure?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ええアイデアやけど、\nクルルはんが冒険に行ってる間、\nこの遊園地は\nどうするん？"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ugh!?\n...Th-that is...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はぅ！？\n……そ、\nそれは……"
+    },
+    {
+      "name": "Maho",
+      "text": "What we can do for that child... that is, as \"Grand Dream Park,\" what we can do for that child. Don't you think that's the case?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うちらがあの子に\n何をしてあげられるか……\nそれはね。\n『グランドリームパーク』として、\nあの子に\n何ができるか。\nそういうことやないかなあ？"
+    },
+    {
+      "name": "Kururu",
+      "text": "As \"Grand Dream Park\"....\nUmu, umumu......",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "『グランドリームパーク』として……\nうむむむ……"
+    },
+    {
+      "name": "Maho",
+      "text": "Sorry, I'm in the middle of some serious thinking.\nI've been staring at the teacher's doll the whole time.\nBy the way, why did you bring that, Kururu?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……あの、\n真剣に考えてるところ\nすんまへん。\nさっきから\nずーっと、\n先生のお人形と\n目ぇ合うてはるわ……\nそもそも\nクルルはん、\nなんでそれ\n運んではったの？"
+    },
+    {
+      "name": "Kururu",
+      "text": "I was about to take it back to the backyard!\nI overpacked and wanted to reduce the items.\nI also tidied up all the other small items and sets...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "バックヤードに戻すところだったんですっ！\n詰め込みすぎたので要素を減らしたくって。\n他の小物やセットなんかも\n一旦全部お片づけして……"
+    },
+    {
+      "name": "Maho",
+      "text": "That's true... But it's really well made.\nKururu's thorough coverage is evident.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうなんや……\nでも\nほんまに\n精巧にできとるなぁ。\nクルルはんの入念な取材が\n活きてる証や。"
+    },
+    {
+      "name": "Maho",
+      "text": "Other Astrum motifs attractions were amazing too.\nIt was like really adventuring into the world of Astrum...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "他のアストルムのモチーフのアトラクションも\nすごかったわ。\nまるでほんまに\nアストルムの世界を\n冒険したみたいに……"
+    },
+    {
+      "name": "Maho",
+      "text": "At the amusement park, adventure... oh.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "遊園地で、\n冒険……\nあっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hmm... What can be done as \"Grand Dream Park\"...\nAh, I see...!!\nPlanning an adventure tour with the manager of \"Grand Dream Park\"...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "うむむ……\n『グランドリームパーク』としてできること……\nはっ、\nそうです……っ！！\n『グランドリームパーク』支配人と行く冒険ツアーを企画して……"
+    },
+    {
+      "name": "Maho",
+      "text": "Attraction, let's go!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "アトラクションどすっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Pieeeeh!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ぴえぇぇっ！！"
+    },
+    {
+      "name": "Maho",
+      "text": "Kururu, lend me your ear!\n... mumblemumblemumble.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはん\n耳かして！\n……ごにょごにょごにょ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "......!!\nI see, as expected of Maho-chan!!\nOf course, please leave the funding to me! Mmmmm!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……っ！！\nなるほど、\nさすがマホちゃんさんですっ！！\nもちろん資金はお任せくださいっ！　\nむむむむむ～っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "A few days later...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それから数日後──"
+    },
+    {
+      "name": "Girl",
+      "text": "Astro's older brother and older sister!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "アストルムのおにーちゃんとおねーちゃーん！\nこんにちはー！"
+    },
+    {
+      "name": "Maho",
+      "text": "Thank you for coming today.♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "今日は来てくれておおきに♪\nこっちは\nこの遊園地の支配人の\nクルルはんや。\n今日あんさんを\n招待してくれはったんよ♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes! Actually, there is a new attraction that is scheduled to open soon~\nI wanted to invite you to experience it before anyone else♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいっ！　\n実はもうすぐ稼働予定の新アトラクションがありまして～\nぜひあなたに\n先行体験をしてもらいたくって\nお呼びしたんですっ♪"
+    },
+    {
+      "name": "Girl",
+      "text": "Hmm... I can ride a new vehicle!? \n...But, I'm a little scared of intense rides...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "え……\n新しい乗り物に乗れちゃうの！？\n……\nでも、\nはげしい乗り物はちょっと怖いな……"
+    },
+    {
+      "name": "Maho",
+      "text": "It's okay. It's a ride that even young children can enjoy.\nPlus, I've invited some friends to join us for the test ride.\nSince everyone is from Astrum, let's all get along well~",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "大丈夫や。\n小さなお子さんでも\n乗れる乗り物やから♪\nそれに、\n一緒に先行体験してもらう\nお友達も呼んでるよ。\nみんなアストルムの子やから、\n仲良くしてな～♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Is this a new attraction?\nHehe, I see you're quite handy!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "新アトラクションですか。\nへへっ、\nお手並み拝見ですね！"
+    },
+    {
+      "name": "Precia",
+      "text": "Food court tour.\nOne o'clock.\nIntermission.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ふーどこーとめぐり。\nいちじ。\nちゅうだん。"
+    },
+    {
+      "name": "Girl",
+      "text": "Astolm's...\n...Wow!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わ……\nアストルムの……\n……\nわわっ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Look, what are you hesitating for!?\nYou're going to sit next to me on this gondola!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ほら、\nなにを尻込みしてるです！？\nこのゴンドラですね！　\n隣に座るです！！"
+    },
+    {
+      "name": "Precia",
+      "text": "Me and.\nInori.\nScissor sandwich. ... Sandwich.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "わたしと。\nイノリで。\nはさみうち。\n……サンドイッチ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Then, Prince, you should ride in the back and lead them♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "じゃあ\n王子はんも\n引率で\n後ろに乗ってあげてな♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Alright, let's depart~!\nThe movement is calm, but the content is very exciting! \nSo please enjoy~!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ではでは\n出発しますよ～！\n動きは大人しいですが、\n内容はとってもエキサイティングですっ！\nそれでは\nお楽しみくださ～いっ！"
+    },
+    {
+      "name": "Kururu & Maho",
+      "text": "\"It's an Astrum World\"♪",
+      "choice_data_list": [],
+      "orig_name": "クルル・マホ",
+      "orig_text": "『イッツ・ア・アストルム・ワールド』♪"
+    },
+    {
+      "name": "Precia",
+      "text": "Clang, clunk.\nClang, clunk.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "がたん、\nごとん。\nがたん、\nごとん。"
+    },
+    {
+      "name": "Inori",
+      "text": "Now, what are you waiting for?\nI'll fight it off, whether it's a demon or a snake!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "さあ、\nなにが待ってやがるですか？\n鬼が出ても蛇が出ても\n撃退してやるですよ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Hey everyone, oi-ssu☆",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "『みなさん、\nオイッスー☆』"
+    },
+    {
+      "name": "Pecorine doll",
+      "text": "Nice to meet you, I'm Pecorine☆\nWelcome to Landosol ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ人形",
+      "orig_text": "『はじめまして、\nわたしはペコリーヌです☆\nようこそランドソルへ～♪』"
+    },
+    {
+      "name": "Girl",
+      "text": "Wow... it's the princess of Randsol...!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わあぁ……\nランドソルのお姫様だ……！"
+    },
+    {
+      "name": "Pecorine doll",
+      "text": "The town of Landosole is very lively and amazing♪\nAbove all, there are many delicious restaurants～☆\nYummy......♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ人形",
+      "orig_text": "『ランドソルの街は\nとっても賑やかでやばいですよ♪\nなによりおいしいごはん屋さんがたくさんありますし～☆\nじゅるるー……♪』"
+    },
+    {
+      "name": "Precia",
+      "text": "Jyururu......",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "じゅるる……"
+    },
+    {
+      "name": "Pecorine doll",
+      "text": "Well well♪ Now then, everyone, have a great adventure!\nOff to the next world we go~☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ人形",
+      "orig_text": "『さてさて♪　\nそれではみなさん\n良い冒険を！\n次の世界へ\n行ってらっしゃ～い☆』"
+    },
+    {
+      "name": "Homeroom teacher doll",
+      "text": "All right! Today is the bell test! Who will ring that bell with the power of magic!?",
+      "choice_data_list": [],
+      "orig_name": "担任人形",
+      "orig_text": "『よしっ！　\n今日は鐘の試験だ！\n魔法の力で\nあの鐘を鳴らすのは\n誰だー！？』"
+    },
+    {
+      "name": "Delinquent student doll",
+      "text": "Ukeke! It's me!",
+      "choice_data_list": [],
+      "orig_name": "不良生徒人形",
+      "orig_text": "『ウケケ！　\n俺だー！』"
+    },
+    {
+      "name": "Carol doll",
+      "text": "It's obvious that it's me!",
+      "choice_data_list": [],
+      "orig_name": "キャル人形",
+      "orig_text": "『あたしに決まってんでしょー！』"
+    },
+    {
+      "name": "女の子",
+      "text": "わっ……\nすごいっ！\n……\nわあっ、\n次の世界！",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わっ……\nすごいっ！\n……\nわあっ、\n次の世界！"
+    },
+    {
+      "name": "Kokkoro doll",
+      "text": "We're going, master of the dogs.\nIt's your hand. It's your patrol.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ人形",
+      "orig_text": "『いきますよ、\nわんわんの主さま。\nお手\nでございます。\nおまわり\nでございます。』"
+    },
+    {
+      "name": "One's master's doll",
+      "text": "Woof!",
+      "choice_data_list": [],
+      "orig_name": "わんわんの主さま人形",
+      "orig_text": "『わんっ！』"
+    },
+    {
+      "name": "Narration",
+      "text": "After that, he continued to travel around various places in Astrum─",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その後もアストルムの各地を巡りながら──"
+    },
+    {
+      "name": "Narration",
+      "text": "The gondola moves forward--",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ゴンドラは進む──"
+    },
+    {
+      "name": "Narration",
+      "text": "After that...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして──"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "Have you enjoyed the adventure so far? Now, this is finally the end♪",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『ここまでの冒険、\n楽しんでもらえたやろか？\nさあ、\nいよいよここが\n最後どす♪』"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "This is the farthest tree.\nI wonder what wonderful things are waiting on top of this?",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『ここは\n最果ての大樹。\nこの上には\nいったい\nどんな素敵なもんが待ってるんやろか？』"
+    },
+    {
+      "name": "Girl",
+      "text": "What is it?\nLooking forward to it~!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "えへへ、\nなんだろっ？\n楽しみ～！"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "......But unfortunately, today's adventure ends here.",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『……でも\n残念ながら、\n今日の冒険はここまで』"
+    },
+    {
+      "name": "Girl",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "However, even though the adventure here may end.\nThe adventure in the real world will continue on and on forever.",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『けどな、\nここでの冒険は終わっても。\nほんまの世界の冒険は\nこれからも\nずっとずっと\n続いてく』"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "Therefore, I want you to stop adventuring.\nI want you to see this scenery for real someday.",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『だからあんさんには、\n冒険をやめんといてほしいんや。\nいつか本物の、\nこの景色を\n見てほしいんや』"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "See with your own eyes, feel the wind on your skin.\nI want you to step on this earth with your own two feet.",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『自分の目で見て、\n自分の肌で\n風を感じて。\n自分の足で、\nこの大地を\n踏みしめてほしいんや』"
+    },
+    {
+      "name": "Mahou Ningyou",
+      "text": "So don't give up on your dreams.\nSomeday, surely, you will grow big.\nLet's go on an adventure to an unknown world♪",
+      "choice_data_list": [],
+      "orig_name": "マホ人形",
+      "orig_text": "『だから、\n夢を諦めんといて。\nいつか\nきっと、\n大きくなって。\n知らない世界を\n冒険しまひょ♪』"
+    },
+    {
+      "name": "Girl",
+      "text": "...Excuse me, miss.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……\nおねーさん。"
+    },
+    {
+      "name": "Maho",
+      "text": "Yes, thank you for your hard work~♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "はい、\nお疲れさんどす～♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh, um... How was it?\nThis attraction...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あ、\nあの……\nどうでしたか？\nこのアトラクション……っ。"
+    },
+    {
+      "name": "Girls",
+      "text": "Hahaha♪",
+      "choice_data_list": [],
+      "orig_name": "女の子たち",
+      "orig_text": "あはははっ♪"
+    },
+    {
+      "name": "Girl",
+      "text": "It was so much fun, wasn't it? ♪\nI got really excited!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "すっごい楽しかったね♪\nわたし\nワクワクしちゃったっ！"
+    },
+    {
+      "name": "Girl",
+      "text": "I have decided.\nWhen I grow up, I will definitely become an adventurer!\nI will see that scenery with my own eyes...!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わたし……\n決めた。\n大人になったら\nぜったい冒険家になる！\n自分の足で、\nあの先の景色を見るんだ……！"
+    },
+    {
+      "name": "Inori",
+      "text": "Well, if at that time I happen to have super duper free time.\nI'll go on that adventure with you!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "じゃあその時もしも、\nあたしが超超ヒマだったら。\nその冒険\n付き合ってやるですよ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Mm. Lunch. I'll bring it.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ん。\nおべんと。\nもってく。"
+    },
+    {
+      "name": "Girls",
+      "text": "Hahaha♪",
+      "choice_data_list": [],
+      "orig_name": "女の子たち",
+      "orig_text": "あはははっ♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "......!!\nEveryone... with a smile...!\nUgh... ugh....",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……っ！！\nみんな……\n笑顔に……っ！\nうっ……\nう\nううっ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "\nAh...!! I won't cry!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "っ……！！\nですねっ！　\n泣きませんっ！！"
+    },
+    {
+      "name": "Maho",
+      "text": "Yes.\nI'm happy at times like this ♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "せや。\nこういう時は\n喜ぶんよ♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "...I see!\nYay!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……\nですねっ！\nわーいっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Yay♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "わーい♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "There's an opening.\nHere we go!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……隙ありっ。\nささっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Whenever you get the chance, try not to hold onto jewels, Kururu-han.\nWell then, shall we get back to work ♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "隙あらば宝石握らせんといてな、\nクルルはん。\nほな、\n仕事に戻りまひょか♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ugh! Please take it!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "うう～っ！　\n受け取ってくださいです～っ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "......!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……っ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "No, it's nothing.\nWell then, please take care of today's tasks!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "い、\nいえ、\nなんでもありませんっ。\nでは\n本日の業務も\nよろしくお願いしますですっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Gradually, the number of visitors to \"Grand Dream Park\" is increasing.\nHowever, Kururu and the others' challenge has only just begun.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "徐々に客足の伸びる『グランドリームパーク』。\nしかしクルルたちの挑戦は、まだ始まったばかりである。"
+    }
+  ]
+}

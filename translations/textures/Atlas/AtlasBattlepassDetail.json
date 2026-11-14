@@ -1,0 +1,575 @@
+{
+  "atlas_name": "AtlasBattlepassDetail",
+  "sprites": [
+    {
+      "name": "btn_pass_gold_single",
+      "x": 0,
+      "y": 139,
+      "width": 258,
+      "height": 122,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_minus",
+      "x": 260,
+      "y": 265,
+      "width": 29,
+      "height": 9,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_plus_blue",
+      "x": 294,
+      "y": 996,
+      "width": 28,
+      "height": 28,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "lock1",
+      "x": 275,
+      "y": 132,
+      "width": 149,
+      "height": 123,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        3,
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "lock1_white",
+      "x": 275,
+      "y": 7,
+      "width": 149,
+      "height": 123,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        3,
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "lock2",
+      "x": 447,
+      "y": 347,
+      "width": 80,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "name": "lock2_white",
+      "x": 447,
+      "y": 260,
+      "width": 80,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "name": "pass_balloon_mission",
+      "x": 540,
+      "y": 51,
+      "width": 125,
+      "height": 86,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_btn_bg_premium",
+      "x": 0,
+      "y": 674,
+      "width": 292,
+      "height": 350,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_btn_bg_premium_kira",
+      "x": 0,
+      "y": 23,
+      "width": 273,
+      "height": 114,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_btn_bg_premium_ribbon",
+      "x": 540,
+      "y": 15,
+      "width": 147,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_btn_middle_sub_7",
+      "x": 447,
+      "y": 434,
+      "width": 160,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_btn_middle_sub_7_selected",
+      "x": 447,
+      "y": 486,
+      "width": 160,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_ef_glow_orange",
+      "x": 544,
+      "y": 153,
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_ef_glow_yellow",
+      "x": 605,
+      "y": 289,
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_ef_kira_orange",
+      "x": 610,
+      "y": 158,
+      "width": 59,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_frame_orange",
+      "x": 426,
+      "y": 139,
+      "width": 116,
+      "height": 116,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_frame_pickup",
+      "x": 0,
+      "y": 263,
+      "width": 160,
+      "height": 409,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_gauge_bar_normal",
+      "x": 426,
+      "y": 5,
+      "width": 32,
+      "height": 18,
+      "border": [
+        8,
+        0,
+        8,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_gauge_bar_premium",
+      "x": 460,
+      "y": 5,
+      "width": 32,
+      "height": 18,
+      "border": [
+        8,
+        0,
+        8,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_gauge_bg",
+      "x": 494,
+      "y": 5,
+      "width": 32,
+      "height": 18,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_gauge_frame",
+      "x": 620,
+      "y": 264,
+      "width": 32,
+      "height": 23,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_list_bg",
+      "x": 324,
+      "y": 257,
+      "width": 121,
+      "height": 369,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_list_pickup_bg",
+      "x": 162,
+      "y": 276,
+      "width": 160,
+      "height": 396,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_lv_frame_s_bg",
+      "x": 426,
+      "y": 25,
+      "width": 112,
+      "height": 112,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_lv_frame_s_normal",
+      "x": 544,
+      "y": 219,
+      "width": 74,
+      "height": 66,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_lv_frame_s_premium",
+      "x": 529,
+      "y": 287,
+      "width": 74,
+      "height": 66,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_name",
+      "x": 324,
+      "y": 628,
+      "width": 147,
+      "height": 396,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_ribbon_pickup",
+      "x": 447,
+      "y": 538,
+      "width": 114,
+      "height": 88,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "pass_stamp_achievement",
+      "x": 529,
+      "y": 355,
+      "width": 80,
+      "height": 77,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

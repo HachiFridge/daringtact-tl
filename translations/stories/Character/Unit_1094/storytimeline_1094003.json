@@ -1,0 +1,659 @@
+{
+  "title": "Grea Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} is approached by Grea outside of the orphanage.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}は、【サレンディア救護院】の外で\nグレアに話しかけられた。"
+    },
+    {
+      "name": "Grea",
+      "text": "Um, {0}.\nIs there anything I can help with?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あの、\n{0}さん。\n何かお手伝いできることはないかな？"
+    },
+    {
+      "name": "Grea",
+      "text": "Truth is, Anne just told me that\nI can't go inside the orphanage for a bit.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "実は……\nさっきアンから、\nしばらく救護院の中には\n入っちゃだめって言われちゃって。"
+    },
+    {
+      "name": "Grea",
+      "text": "She had an excited look on her face, so no doubt she's\ngot something interesting planned, but now I'm left\ntrying to find something to do until I'm allowed back in.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "アンの顔、\n楽しそうだったから、\n何か面白そうなことを\n企んでるだけなんだろうけど……\n待ってる間、\nどうしようかなって。"
+    },
+    {
+      "name": "Boy",
+      "text": "Oh! Grea!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あ、\nグレアおねえちゃんだ！"
+    },
+    {
+      "name": "Girl",
+      "text": "Hey hey, let's play!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ねえねえ、\n一緒にあそぼー！"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh! H-hey, everyone.\nUm... Are you sure you want to play with me?",
+      "choice_data_list": [
+        "They've all warmed up to you."
+      ],
+      "orig_name": "グレア",
+      "orig_text": "わっ、\nみ、\nみんな……\nえ、\nえっと、\n私でいいの……？"
+    },
+    {
+      "name": "Grea",
+      "text": "Y-you think?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "そ、\nそうなのかな？"
+    },
+    {
+      "name": "Girl",
+      "text": "Yeah! I really love you, Grea!\nYou're so good at the piano, and you're really kind!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わたし、\nグレアおねえちゃんのこと\nだいすきだよ！\nピアノ上手だし、\nやさしいし！"
+    },
+    {
+      "name": "Boy",
+      "text": "Same here!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ぼくもー！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh... Hehe. Thank you.\nIt's a bit embarrassing to be told that, but it makes me really happy.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "みんな……\nふふっ、\nありがとう。\nくすぐったいけど……\nうれしいな。"
+    },
+    {
+      "name": "Grea",
+      "text": "Well, uh... Anne told me not to go inside the orphanage,\nso how about we all go for a picnic?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "じゃあ、\nええっと……\n救護院の中は\nアンがダメって言ってたし……\nみんなで、\nピクニックでも行こうか。"
+    },
+    {
+      "name": "Boy",
+      "text": "A picnic! That sounds fun! Let's go!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ピクニック！！　\nたのしそう～！　\n行く行くー！"
+    },
+    {
+      "name": "Grea",
+      "text": "That settles that, then.\nWould you like to join us, {0}?\nIt'd be nice if you showed us some ideal picnic spots, too.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うん、\n決まりだね。\n{0}さん、\nもしよかったら、\n一緒にどうかな？\nピクニックによさそうな場所も、\n教えてほしいし……"
+    },
+    {
+      "name": "Grea",
+      "text": "You would?\nThanks. That's a big help.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……いい？　\nありがとう、\n助かるよ。"
+    },
+    {
+      "name": "Grea",
+      "text": "Wow, this is amazing. It's so pretty.\nThank you for bringing us here, {0}.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "わあ、\nすごい……\nとってもきれい。\n{0}さん、\n素敵な場所に連れてきてくれて\nありがとう。"
+    },
+    {
+      "name": "Boy",
+      "text": "Hey hey!\nLet's play tag!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "なあなあ、\n追いかけっこしようぜー！！"
+    },
+    {
+      "name": "Girl",
+      "text": "Wait up! I wanna play too!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "まってまってー！！　\nわたしもー！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Hehe. They're all so lively.\nD-don't stray too far away!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ふふっ、\nみんな元気だなあ……\nあ、\nあんまり遠くに行きすぎないでね！"
+    },
+    {
+      "name": "Grea",
+      "text": "Phew... The wind feels great today.\nIt's very... relaxing.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "はあ……\n風、\n気持ちいい……\nなんだか、\nすごく落ち着く……"
+    },
+    {
+      "name": "Grea",
+      "text": "I never thought I'd feel like this in a whole different world, to be honest.\nIt's all thanks to you and everyone else.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……別の世界でこんな気持ちになるなんて、\n思ってもみなかったよ。\n{0}さんや、\nみんなのおかげだね。"
+    },
+    {
+      "name": "Grea",
+      "text": "Um, well...\nThank you for all your help.\nAnd for looking out for me.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "その、\n色々と……\n背中を押してくれたり、\n気にかけてくれたりして、\nありがとう。"
+    },
+    {
+      "name": "Grea",
+      "text": "...Hehe. I guess that was a bit too formal, wasn't it?\nBut I really do appreciate it.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nふふっ、\nなんだかあらたまった雰囲気になっちゃったね。\nでも、\n本当に感謝してるんだ。"
+    },
+    {
+      "name": "Grea",
+      "text": "I couldn't have asked for better people to meet after coming here.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "この世界で出会えたのが、\n{0}さんたちで本当によかった──"
+    },
+    {
+      "name": "Grea",
+      "text": "...Huh?\nThey look like they're rushing back, don't they?\nDid something happen?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nあれ？\nあの子たち、\nあんなに急いで戻ってきて……\nどうしたんだろう？"
+    },
+    {
+      "name": "Girl",
+      "text": "Waaahhh!\nGrea! Help!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うぇぇぇーん！\nグレアおねえちゃん、\n助けてぇーっ！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh?!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっ……！？"
+    },
+    {
+      "name": "Boy",
+      "text": "Waaahhh! Let me go!\nMy arm hurts!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ふぇええ、\n放してよぉ……\nうで、\n痛いよぉ……！"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Heh heh heh. What sorta parent lets their kid wander around here on their own?\nNot that I'm complainin'.",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者１",
+      "orig_text": "かっかっかっか。\n不用心な保護者もいたもんだな。\nこんなところにガキ一人ほっぽり出しとくなんてよ。"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "Gyahaha!\nThis'll be an easy job!\nJust gotta hop across the ocean and sell him off, right boss? ♪",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者２",
+      "orig_text": "ぎゃはは！　\n海の向こうに売っぱらっちまうだけの\n簡単なお仕事っすね、\n親分♪"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "You betcha.\nNow let's boost, and make sure no one notices.",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者１",
+      "orig_text": "おうともよ。\n足がつかねえようにとっととずらかるぞ。"
+    },
+    {
+      "name": "Grea",
+      "text": "Wait!\nLet him go right this instant!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "待ちなさい！！　\n今すぐその子を放して……！"
+    },
+    {
+      "name": "Boy",
+      "text": "Oh... Grea! {0}!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あっ……\nおねえちゃん、\nおにいちゃん！"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Who the heck are you two? You want us to give this brat back?\nHah! Keep dreaming!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者１",
+      "orig_text": "なんでぇおまえら、\nこのガキを返してほしいってか？\nケッ！　\n誰が言うとおりにするかってんだ！"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "How about we catch and sell you all off, huh?!\nGyahahaha!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者２",
+      "orig_text": "なんなら、\nおまえら全員まとめて売っぱらってやるぜ～！\nぎゃーっはっはっは！"
+    },
+    {
+      "name": "Girl",
+      "text": "Waaahhh!\nGrea! I'm so scared!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ふぇええ……\nこわいよぅ、\nグレアおねえちゃん……！"
+    },
+    {
+      "name": "Grea",
+      "text": "Don't worry.\nJust stay behind me!",
+      "choice_data_list": [
+        "Give him back!",
+        "Let's talk this out like adults."
+      ],
+      "orig_name": "グレア",
+      "orig_text": "大丈夫だよ。\n私の後ろに隠れていて……！"
+    },
+    {
+      "name": "Grea",
+      "text": "{0}!\nYou should stay back! It's dangerous!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ……{0}さん！\n一人で前に出ちゃ危ないよ、\n下がって！"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh?! U-um, {0}!\nI don't think they're willing to talk!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっ！？　\nあ、\nあの、{0}さん！\n話が通じる相手じゃ……！！"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "You serious, punk?\nThink you can take us lightly, huh?!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者２",
+      "orig_text": "なんだぁ、\nテメェ～\nなめてんじゃねえぞ、\nおらぁ！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Watch out!\n{0}! Are you okay?!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "危ないっ！！\n{0}さん、大丈夫！？"
+    },
+    {
+      "name": "Grea",
+      "text": "You're going to pay for this!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あなたたち……っ、\n許さない！"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Whoa?!\nWhat's her deal?!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者１",
+      "orig_text": "おわあっ！？　\nな、\nなんだコイツ……！？"
+    },
+    {
+      "name": "Grea",
+      "text": "Drop your weapons and give him back.\nOnce you do, get out of here and never come back!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "武器を捨てて、\n今すぐその子を返しなさい！\nそして、\n即刻この場から立ち去って……！"
+    },
+    {
+      "name": "Grea",
+      "text": "If you don't, then...\nYou'll suffer the consequences!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "従わないなら……\n容赦なく焼き尽くす……！！"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "Eeeeeek?!\nL-look at her arm! It's on fire!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者２",
+      "orig_text": "ひぁああっ！？　\nなな、\nなんだこいつの腕っ、\n燃えてやがるぞ！？"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Yeouch! That's hot!\nHer magic's off the charts...\nWe're goners if we get hit by that!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者１",
+      "orig_text": "あちぃいいっ！！\nな、\nなんてすげぇ魔力なんだ……\nこんなの食らったらひとたまりもねぇ！！"
+    },
+    {
+      "name": "Grea",
+      "text": "How astute of you.\nA dragon's flames would reduce you to ashes in an instant.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "そうだね。\n竜の炎なら、\n人間ぐらい一瞬で灰に変えられる。"
+    },
+    {
+      "name": "Grea",
+      "text": "So? It's fight or flight for you. How will you play it?\nAnd my patience is wearing thin,\nso I'd suggest you choose quickly.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "どうするの？　\n抵抗か、\n降参か……\n早く決めて。\n私の理性が残っているうちに……\n早く。"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "I ain't ever met anyone this terrifying!\nD-drop the kid, quick! We're outta here!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者１",
+      "orig_text": "こんなおっかねえやつ、\n見たことねぇ……！！\nお、\nおい、\nガキを置いてずらかるぞ！！"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "G-got it!\nSomeone help us!",
+      "choice_data_list": [],
+      "orig_name": "荒くれ者２",
+      "orig_text": "が、\nがってんです！　\nお助けぇえー！！"
+    },
+    {
+      "name": "Grea",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Grea",
+      "text": "Phew.\nThat's them gone. What a relief.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ふぅ。\n行ってくれた……\nよかった。"
+    },
+    {
+      "name": "Girl",
+      "text": "G-Grea, your hand...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "お、\nおねえちゃん……\nおててが……"
+    },
+    {
+      "name": "Grea",
+      "text": "Ahhh?!\nTh-this is just, um...!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あっ……！？\nこ、\nこれは……\nあのっ……！"
+    },
+    {
+      "name": "Grea",
+      "text": "S-sorry...\nI... I just...\n...!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ご、\nごめんね……\n私、\nただ……\n……っ！！"
+    },
+    {
+      "name": "Girl",
+      "text": "Oh! Grea!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あ、\nおねえちゃーん！！"
+    },
+    {
+      "name": "Grea",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Grea",
+      "text": "I'm... I'm just the worst...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "私……\n最低だ……"
+    },
+    {
+      "name": "Grea",
+      "text": "All I wanted was to protect them,\nbut instead I let myself lose control and scare them.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "みんなを守らなきゃって思ってたのに、\n逆に暴走して、\nみんなを怖がらせちゃうなんて……"
+    },
+    {
+      "name": "Grea",
+      "text": "I really am beyond pathetic...\nI bet they all hate me now...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "やっぱり私、\nだめだめだ……\nきっと、\n嫌われちゃったよね……"
+    },
+    {
+      "name": "Grea",
+      "text": "...?\nWho's there?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nっ？　\n誰……？"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh... {0}...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ……\n{0}さん……"
+    },
+    {
+      "name": "Grea",
+      "text": "U-um, did the children all get home safely...?\n...Really? That's a relief.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ、\nあの、\nみんなは……\n無事に帰れたの……？\n……\nそっか、\nよかった。"
+    },
+    {
+      "name": "Grea",
+      "text": "I'm sorry for running off on my own.\nAnd for, well, what happened back there...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "一人で帰っちゃって、\nごめんなさい……\nそれに、\nさっきのことも……"
+    },
+    {
+      "name": "Grea",
+      "text": "I was finally getting along with everyone thanks to you and Anne,\nbut then I... I just went and ruined it all.",
+      "choice_data_list": [
+        "You really are kind, aren't you?",
+        "You protected them. That's a fact."
+      ],
+      "orig_name": "グレア",
+      "orig_text": "せっかく、\n{0}さんやアンのおかげで、\nみんなと仲良くなれてたのに……\n全部、\n台無しにしちゃった。"
+    },
+    {
+      "name": "Grea",
+      "text": "Kind? Me?\nNot at all. What you saw back there was my real self—",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "優しい？　\n私が……？\nそんなことないよ。\nさっき見せた姿が、\n本当の私で──"
+    },
+    {
+      "name": "Grea",
+      "text": "I wanted to, at least.\nBut that wasn't the right way to—",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……守りたいって、\n思ってはいたけど。\nでも、\nあんなやり方じゃ──"
+    },
+    {
+      "name": "Girl",
+      "text": "Oh, Grea! There you are!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あー！　\nグレアおねえちゃん、\nいたー！！"
+    },
+    {
+      "name": "Boy",
+      "text": "You went and ran off, so we were looking all over for you!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "捜したんだよ！\n急にいなくなっちゃうんだもん！！"
+    },
+    {
+      "name": "Grea",
+      "text": "...!\nE-everyone...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "っ……！　\nあ……\nみ、\nみんな……"
+    },
+    {
+      "name": "Girl",
+      "text": "We were so, so, so worried!\nIt looked like you might haved burned yourself!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あのねあのね、\nわたしたち、\n心配してたんだよ！\nグレアおねえちゃん、\nヤケドしてないかなぁーって。"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh? Burned myself?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっ、\nヤケド……？"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah!\nYour hand was all covered in fire and stuff...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん！　\nだっておねえちゃんの手、\n真っ赤に燃えてたから……"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh.\nTh-that's what you meant?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ……\nそ、\nそういうこと……？"
+    },
+    {
+      "name": "Grea",
+      "text": "Um... Don't worry, then. That was my dragonic power.\nIt's... sort of like magic, so I'm perfectly fine.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっと……\n大丈夫だよ。\nさっきのは、\n竜の力で……\n魔法、\nみたいなものだから。\n私は、\nなんともないの。"
+    },
+    {
+      "name": "Girl",
+      "text": "Really?\nWell if you're not hurt, then that's great!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "そうなの？　\nじゃあ、\nおねえちゃんはいたくないんだね！\nよかった～"
+    },
+    {
+      "name": "Grea",
+      "text": "Y-yeah.\n...Um. Is that all?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "う、\nうん。\n……\nあの\n……\nそれだけ？"
+    },
+    {
+      "name": "Girl",
+      "text": "Huh? What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "えっ？　\nそれだけって？"
+    },
+    {
+      "name": "Grea",
+      "text": "I mean... I scared you all, right?\nI looked like, well, a monster...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "さっきの私……\n怖かった、\nでしょう？\nその、\nバケモノ、\nみたいで……"
+    },
+    {
+      "name": "Grea",
+      "text": "So...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "だから……"
+    },
+    {
+      "name": "Boy",
+      "text": "What?! No way!\nYou were so cool!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "えーっ、\nそんなことないよ！\nおねえちゃん、\nめちゃくちゃかっこよかった！"
+    },
+    {
+      "name": "Girl",
+      "text": "Yup!\nThe flames were all like, wooosh!\nYou looked super strong!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うんうん！　\nぶわーって燃えてて、\n強くて！"
+    },
+    {
+      "name": "Grea",
+      "text": "C-cool? I looked cool?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "かっ、\nかっこいい？　\n私が……？"
+    },
+    {
+      "name": "Boy",
+      "text": "You did! You're the coolest!\nThanks so much for helping us!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "そうっ！　\nかっこいいグレアおねえちゃん、\n守ってくれて、\nありがとーっ！"
+    },
+    {
+      "name": "Girl",
+      "text": "Thanks!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ありがとーっ！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Everyone...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "みんな……"
+    },
+    {
+      "name": "Grea",
+      "text": "HeH... Hehe.\nAhahaha!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ふっ……\nふふっ。\nあははははっ……！"
+    },
+    {
+      "name": "Grea",
+      "text": "Ahaha... Ha...\n...Hey, {0}.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あははっ……\nはぁ。\n……\nねえ、{0}さん。"
+    },
+    {
+      "name": "Grea",
+      "text": "Was I just overthinking things on my own?\nNot just about myself, but about everyone else as well.",
+      "choice_data_list": [
+        "Better not to think than overthink."
+      ],
+      "orig_name": "グレア",
+      "orig_text": "私、\n一人でいろいろ考えすぎちゃって……\n決めつけちゃってたのかな。\n私のことも……\nみんなのことも。"
+    },
+    {
+      "name": "Grea",
+      "text": "Ahaha!\nYou sure told me.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あははっ！　\n言われちゃった。"
+    },
+    {
+      "name": "Narration",
+      "text": "Grea's expression told the entire story.\nA huge burden had been lifted from her shoulders that day.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そう言ってグレアは、どこか晴れ晴れとした顔をするのだった。"
+    }
+  ]
+}

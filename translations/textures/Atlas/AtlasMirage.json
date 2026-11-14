@@ -1,0 +1,404 @@
+{
+  "atlas_name": "AtlasMirage",
+  "sprites": [
+    {
+      "name": "BACK_A",
+      "x": 0,
+      "y": 44,
+      "width": 541,
+      "height": 111,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "BACK_B",
+      "x": 0,
+      "y": 688,
+      "width": 616,
+      "height": 204,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "battle_gauge_bar_boss_yellow",
+      "x": 709,
+      "y": 177,
+      "width": 16,
+      "height": 12,
+      "border": [
+        5,
+        0,
+        5,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "battle_gauge_frame_main",
+      "x": 629,
+      "y": 181,
+      "width": 78,
+      "height": 26,
+      "border": [
+        25,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CLEAR",
+      "x": 288,
+      "y": 322,
+      "width": 477,
+      "height": 145,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CLEAR_white",
+      "x": 543,
+      "y": 82,
+      "width": 239,
+      "height": 73,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DECO",
+      "x": 629,
+      "y": 209,
+      "width": 99,
+      "height": 111,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DECO_white",
+      "x": 810,
+      "y": 424,
+      "width": 50,
+      "height": 56,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "EffectFlash",
+      "x": 288,
+      "y": 469,
+      "width": 311,
+      "height": 217,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        23,
+        9,
+        0
+      ]
+    },
+    {
+      "name": "icon_minus",
+      "x": 601,
+      "y": 471,
+      "width": 29,
+      "height": 9,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_plus_blue",
+      "x": 810,
+      "y": 358,
+      "width": 30,
+      "height": 30,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_btn_boss",
+      "x": 0,
+      "y": 276,
+      "width": 286,
+      "height": 410,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_btn_finalboss",
+      "x": 618,
+      "y": 482,
+      "width": 286,
+      "height": 410,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_Congratulations_black_rect",
+      "x": 810,
+      "y": 390,
+      "width": 32,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_Congratulations_text_1",
+      "x": 0,
+      "y": 894,
+      "width": 986,
+      "height": 130,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_Congratulations_text_2",
+      "x": 767,
+      "y": 354,
+      "width": 41,
+      "height": 126,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_Congratulations_win_base",
+      "x": 0,
+      "y": 157,
+      "width": 627,
+      "height": 117,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        5,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "name": "mirage_icon_treasure",
+      "x": 730,
+      "y": 231,
+      "width": 88,
+      "height": 89,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_icon_unexplored",
+      "x": 767,
+      "y": 325,
+      "width": 133,
+      "height": 27,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "mirage_room_btnicon_allreceive",
+      "x": 730,
+      "y": 170,
+      "width": 60,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "white_plate",
+      "x": 709,
+      "y": 191,
+      "width": 16,
+      "height": 16,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

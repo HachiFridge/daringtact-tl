@@ -1,0 +1,939 @@
+{
+  "title": "Deep Love, Dark Shadows",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After having grown as magical girls via the acquisition of new\ntechniques, the duo are once again made aware of the existence of a\ngreat enemy.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "新たな技を習得して成長するも、\n大きな敵の存在を改めて意識する魔法少女たち。"
+    },
+    {
+      "name": "Shiori",
+      "text": "The Antibeasts are getting stronger day by day...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "日に日に強くなっていますね、\nアンチビースト……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "They're really starting to get serious.\nI'd like to do something about it, but we still don't know what they're\nafter...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "やつらも本腰を入れてきたようだ。\nどうにかしたいところだけど、\nいまだに狙いは分からないし……"
+    },
+    {
+      "name": "Mora",
+      "text": "Yeah, right...? \nBut, but fortunately, no one's been hurt by the Antibeasts yet.\nSo I think you're doing a fine job as magical girls!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "そうだね……\nでもでも、\n幸いにも\nアンチビーストによる被害はまだ出てないし、\n魔法少女としては\n立派にやってると思うよ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...?\nReally? No injuries at all?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……？\n被害が、\nまだ出てない？"
+    },
+    {
+      "name": "Shiori",
+      "text": "That's right. Because we always manage to get there\nbefore the Antibeasts starts rampaging.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はい。\nアンチビーストが暴れだす前に、\n何とか間に合っていますから。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Get there before...?\nCome to think of it, until now, the Antibeasts...",
+      "choice_data_list": [
+        "Something wrong?"
+      ],
+      "orig_name": "カスミ",
+      "orig_text": "間に合って……？\nそういえば、\n今までアンチビーストは……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hm? Ah, apologies, my dear assistant. I was just doing a little thinking.\nIt's just that all we've been doing lately is patrolling. I haven't had the\nchance to wrap my head around any of it...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "え？　\nあ、\nごめん助手くん。\nちょっと考え事をしていたよ。\nとはいえ、\n最近はパトロールばかりで\n頭が上手く回らないね……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Oh, then do you like eating crepes?\nI hear sugar is good for your brain.\nI actually know a nice little crepe stall around here...!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あ。\nでしたら、\nクレープとかどうでしょう？\n糖分は頭の回転にいいって聞きますし。\n私、\nこの辺りにクレープ屋さんがあるの知ってるんです……！"
+    },
+    {
+      "name": "Mora",
+      "text": "So you like sweet things, do you, Shiori?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "シオリちゃん、\n甘いもの好きなんだね。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Oh, um... I do.\nBut just a little.",
+      "choice_data_list": [
+        "That crepe stall..."
+      ],
+      "orig_name": "シオリ",
+      "orig_text": "あっ、\nその……\nはい。\n少しだけ、\nですけど。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Oh? Do you also know of this stall, my dear assistant?\nI see... Well then, let's investigate.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "おや。\n助手くんも知っているのかい？\nふむ……\nならば行ってみるとしようか。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Little Brotheeeeeer!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "おっ、\nとうと、\nくーーーーーーーーーーーーんっ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Eek?! Wh-what's all this about?!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ひっ！？　\nな、\n何事だい！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Welcome, Little Bro!\nDid you come to see your big sis?\nOf course you did. I'm so happy! Head pats for you!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "いらっしゃい弟くん！\nお姉ちゃんに会いに来てくれたの？\nくれたんだよねっ、\nお姉ちゃんうれしいなぁっ、\nナデナデしちゃう！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Big sis... She's your big sister?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お姉ちゃん……\nあなたの、\nお姉さんなんですか？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "That's right!\nI'm my little brother's big sister,\nand a big sister among big sisters. ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そうだよっ！\n弟くんのお姉ちゃんにして、\nお姉ちゃんオブお姉ちゃんだよっ♪"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I-is that so...?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そ、\nそうなのですか……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "What a powerful person...\nBut my assistant looks a little troubled...\nIs it because he has amnesia, so he's not sure? ",
+      "choice_data_list": [
+        "One crepe, please."
+      ],
+      "orig_name": "カスミ",
+      "orig_text": "すごくパワフルな人……\n当の彼は\n困った顔をしてるみたいだけど……\nあれかな？　\n記憶喪失だから、\n確証が持てないとか？　"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Oh, you want a crepe?\nSo you came to eat one of your big sister's crepes!\nIn other words, you came to eat your big sister... ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あ、\nクレープ？\nお姉ちゃんの作るクレープを食べに来てくれたんだね！\nつまりそれは、\nお姉ちゃんを食べに来たということ……♪"
+    },
+    {
+      "name": "Shiori",
+      "text": "Is that how it works...?!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "そうなっちゃうんですか……！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "It sure is! ♪\nAll right! I'm gonna whip up the tastiest crepes you've ever put your\nlips around!. Don't you go anywhere!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "なっちゃうの♪\nじゃあ張り切ってクレープを作っちゃうから、\nみんな待っててね！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "*chomp*\n...Hmmm.\nThe normal amount of sweetness; the normal amount of sourness.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "はむ。\n……うん。\nほどよい甘さに、\nほどよい酸味だ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Yes. Very normal.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はい。\nほどよいです。"
+    },
+    {
+      "name": "Mora",
+      "text": "Yeah. A totally normal taste.",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "うん。\nほどほどなお味。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Here you go, Little Bro, open wide. ♪\nOh, you've got a little cream on your cheek.\nLet me wipe it off... Actually, I'll eat it for you. ☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "弟くん、\nはい、\nお口開けて～♪\nあっ、\nクリームが頬に付いちゃったね。\nお姉ちゃんが拭いて……\nううん、\n食べてあげちゃう☆"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...This bit is too sweet though.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nこっちは甘すぎるようだけれど。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Um, is your stall okay...?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あの、\nお店の方はいいんでしょうか……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Oh, don't worry about that.\nWe don't usually get many customers.\nBesides, my top priority will always be my little bro! ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "平気平気。\nもともとあまりお客さん来ないし、\nそれにお姉ちゃんの最優先事項は\nいつだって弟くんなんだから♪"
+    },
+    {
+      "name": "Mora",
+      "text": "Wow, so much love... I've never felt anything like it before.",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "すごい愛だね……\nこれまでに感じたことないくらいの。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Love...?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "愛……\nか。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Kasumi, what is it?\nHave you just had an epiphany?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "カスミさん、\nどうですか？\n何か考えが進みましたか？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Oh heck, Little Bro, I think I made these crepes a little too sweet. Do you\nneed some water? Here you go. I thought this might happen, so I kept it\nfor you! It's a little bit warm, but it's okay, because it's my warmth. ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そうだ弟くんっ、\nクレープ食べて\nお口の中甘いでしょ？\nお水はいかが？　\nはい、\nこんなこともあろうかと持ってたんだ！\nちょっと温かくなっちゃってるけど、\nお姉ちゃんの温もりだから大丈夫♪"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...That's not it.\nWell, if I had to say,\nsomething's been bugging me.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……うぅん。\nいや、\nどちらかというと、\n気になる点が解消できないのが問題だね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Listen, Mora.\nYou told us that Antibeasts seek out love, correct?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nねぇ、\nモーラくん。\nアンチビーストの目的は\n愛だと言ったよね？"
+    },
+    {
+      "name": "Mora",
+      "text": "Yup. They're the opposite of we who create magical girls out of love\nand hope—\nAntibeasts try to take love away from living things.",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "うん。\n愛と希望の魔法少女を生み出すボクたちの反対、\nアンチビーストは\n命あるものから\n愛を奪おうとするんだ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Huh? Little Brother, you're looking kinda run down.\nI think your muscles are a little tight.\nThat's where I come in—time for a big sis massage! ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あれ？　\n弟くん、\nなんだか体が疲れてるね？\nいつもより筋肉がこわばってるかも。\nそういう時は\nお姉ちゃんマッサージだぞ♪"
+    },
+    {
+      "name": "Shiori",
+      "text": "...Um...\nWhat exactly is it that's been bugging you, Kasumi?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "……えっと。\n気になる点って\n何でしょう、\nカスミさん。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "What has me bothered is the fact that there have been no Antibeast-\nrelated injuries. Think for a moment, would you, of the locations where\nthey've appeared. Were any of them in our vicinity...? No, not one.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "引っかかったのは、\nアンチビーストによる被害が出ていないという点。\nこれまでのアンチビーストの出現した場所を思い出してほしい。\nいずれも、\n私たちの近く……\nではなかっただろうか？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Now that you mention it...!\nBut if you think about it, isn't it a bit strange?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "そういえば……！\nでも、\nよく考えたら\nそれっておかしいですよね？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "According to Mora,\nAntibeasts are natural disasters. But considering that...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "モーラくんはアンチビーストは天災だ、\nなどと言っていたけれど、\nそれにしては……"
+    },
+    {
+      "name": "Mora",
+      "text": "Are you saying that they apparently have a goal?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "目的があるみたい、\nってこと？"
+    },
+    {
+      "name": "Shiori",
+      "text": "But what is it that's driving them to... appear around us?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "私たちの近くに現れる目的……\n一体、何でしょうか？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Rub, rub. ♪\nYou're so stiff, little bro.\nHey, hey! You can't run away from me. Big Sis Submission! ☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もみもみ～♪\nあちこち凝ってるね～弟くん。\nあっこら、\n逃げちゃダメだぞっ、\nお姉ちゃんホールド☆"
+    },
+    {
+      "name": "Kasumi",
+      "text": "W-well, that's distracting... I mean, he's to blame too.\nRight when we're trying to have a serious discussion.\nYou're supposed to be my faithful assistant. ...Honestly!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "き、\n気が散る……\nっていうか彼も彼だよ。\n私たちが真剣に話し合っているというのに。\n君は私の助手くんなんだからね？　\n……\nもう。"
+    },
+    {
+      "name": "Shiori",
+      "text": "...Wait. Um, Kasumi.\nCome to think of it, when we first encountered an Antibeast,\nit actually did appear nearby us.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "……あれ？　\nあの、\nカスミさん。\n思い返してみると、\nアンチビーストって\n一番最初も、\n私たちの近くに現れましたよね？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Indeed.\nBack then, we'd just met Mora...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そうだね。\nあの時は確か\nモーラくんと出会って……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "And my dear assistant was already fighting it...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "──助手くんが先に、\n戦って……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Um, maybe I'm wrong, but...!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あの、\nもしかして、\nなんですけど……！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "From the outset, the Antibeasts' target was...!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "初めから、\nアンチビーストの狙いは……！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Awww, I can't help it! You're so cute, Little Bro. ♪\nBut, but I'm worried about you. I know you've been through a lot lately.\nAre you all right? You're always—",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もう、\n弟くんは本当にかわいいんだからぁっ♪\nでもでも、\n心配だなぁ。\n弟くん、\n最近大変なんでしょ？\n大丈夫なのかなぁ？　\nあんな──"
+    },
+    {
+      "name": "Shizuru",
+      "text": "—with those magical girls.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "──魔法少女なんかと一緒にいて。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "Shiori",
+      "text": "{0}, come here!",
+      "choice_data_list": [
+        "Reach out toward her."
+      ],
+      "orig_name": "シオリ",
+      "orig_text": "{0}さん！　こっちに！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "My, my.\nLittle Brother was taken away.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あ～あ。\n弟くん、\n取られちゃった。"
+    },
+    {
+      "name": "Mora",
+      "text": "Urk! ...That reaction—is it an Antibeast?!\nGirls, transform!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "うっ！　\n……この反応、\nアンチビースト！？\n二人ともっ、\n変身を！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Misty, Theory, Truly!\nMagical Ribbon: Spiral!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ミスティ、\nセオリー、\nトゥルーリィ！\nマジカルリボン、\nスパイラル！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Pure Heart Lock-On!\nMagical Arrow: Critical!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ピュアなハートにロックオン！\nマジカルアロー、\nクリティカル！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Eheh.\nMagical girls are on the case, I see.",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふっ。\n魔法少女の登場、\nだね。"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "How dare you take my little brother from me.\n...You will not be forgiven.",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "お姉ちゃんから弟くんを取るなんて。\n……許されることじゃあ、ないよ？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Shizuru... You...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "シズルさん……\nあなたは……！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "I deduce that look isn't to be taken lightly...!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "その姿、\nただごとじゃあないね……！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "I am his big sister.\nMy little brother's big sister.\nBut now, well—",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "私はお姉ちゃんだよ。\n弟くんの、\nお姉ちゃん。\nでも今は、\nそうだね──"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "I suppose I am the Sister of Darkness.",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "──闇のお姉ちゃん、\nってところかな。"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "The Sister of...",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "闇の……"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Darkness...?!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "お姉ちゃん……！？"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Heheh. Seeing as you're all here, I might as well show you.\n...Come!",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふっ。\nせっかくだから見せてあげる。\n……おいで。"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "It's enormous...!\nAnd the pressure is just—...!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "大きい……！\nそれに、\nこのプレッシャー……！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Could this be the Antibeast's true form?!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "もしかしてこれが、\nアンチビーストの本体……！？"
+    },
+    {
+      "name": "Mora",
+      "text": "You're right on the mark.\nIt's like every Antibeast we've faced until now was spawned by this\nsucker!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "どうやら間違いないね。\n今までのアンチビーストは\nこいつから生み出されたものみたいだ！"
+    },
+    {
+      "name": "Mora",
+      "text": "Moreover, that girl's power—I've definitely felt it before!\nIt's mixed in with the Antibeast's power. So strong, and so deep...\nThere's no doubt—it's the power of love...!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "それに、\nあの彼女の力、\n前に感じたものと同じだ！\nアンチビーストの力と混ざり合った、\n強く、\n深い……\n間違いない、\nこれも愛の力だよ……！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Heheh. This little thing actually assaulted me in the beginning. But my\nattacks had no effect, so I was desperate... Then, just as I was thinking\nof Little Bro, I bonked it on the head, and it suddenly became tame.",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふっ。\nこの子ね、\n最初は私に襲い掛かってきたんだよ？\n攻撃も通じないし、\nお姉ちゃん困っちゃったんだけど……\n弟くんのことを考えながらコツンってしたら、\n急に大人しくなってね？"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GROOAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "And since then, it's been following my every command.",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "それから、\n私の言うことを聞いてくれるようになったんだ～"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Don't tell me you've managed to tame it?!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "まさか、\nてなづけたって言うのかい！？"
+    },
+    {
+      "name": "Mora",
+      "text": "No, there's no way she could have!\nAntibeasts don't have free will!\nAnd it's not something that can be done by force...!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "いや、\nそれはできないはずだよ！\nアンチビーストに意思なんてない！\n力づくでどうにかなるものじゃないんだよ……！"
+    },
+    {
+      "name": "Mora",
+      "text": "No, could it be...? Is her love too powerful...?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "いや、\nもしかしたら……\n彼女の愛の力が強すぎる……？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Is that the reason it won't leave Shizuru's side?\nIf it stays close to her, it can constantly feed on the power of her love...?",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "だから、\nシズルさんの元を離れない\nってことですか？\n彼女の近くにいれば、\n強い愛の力をずっと貰えるから……？"
+    },
+    {
+      "name": "Mora",
+      "text": "There's probably no better host for it!",
+      "choice_data_list": [
+        "Is she okay?"
+      ],
+      "orig_name": "モーラ",
+      "orig_text": "宿主として、\nこれ以上ない存在だろうね……！"
+    },
+    {
+      "name": "Mora",
+      "text": "I don't think you can stay with an Antibeast that long and suffer no\nconsequences. It's bound to affect you in some way...",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "アンチビーストとずっと一緒にいて、\nただで済むとは思えない。\n何かしらの影響が出て……"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Eheheh. You're so thoughtful, Little Brother.\nYou're worried about me, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふっ、\n弟くんは優しいなぁ。\nお姉ちゃんの心配をしてくれるんだね。"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Argh, I can't hold back any longer!\nI want to be with you forever! I want to hold you forever and ever!\nI want to spoil you forever and ever and ever!",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ああっ、\nやっぱりもう我慢できないよ～っ！\n弟くんとずっと一緒にいたい、\nずっとずっと抱きしめていたい、\nずっとずっとず～っと、\n甘やかしたいよぉっ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "...For future reference,\nshe's not always like that, is she?",
+      "choice_data_list": [
+        "She's always like this.",
+        "She's never like this."
+      ],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "……参考までに聞いておくけれど、\n彼女、\nいつもあんな感じってわけじゃあないよね？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Surely you jest?!\nYou're telling me nothing about this is out of the ordinary?!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "本当に！？\nいつもあんな感じなのかい！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "This is all the Antibeast's doing... maybe.",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "アンチビーストの影響、\n出てますよね……\n多分。"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "As I suspected, the Antibeast is manipulating her.\nWhat now? She's usually much worse?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "やはり、\nアンチビーストの影響が出ているようだね。\nえ？　\n普段の方がすごい？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "...She's somewhat beyond imagination...",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "……なんだか、\n想像を絶する方ですね……"
+    },
+    {
+      "name": "Mora",
+      "text": "In all likelihood, she's under the influence of the Antibeast,\nand her love has started to go out of control!\nBe careful, both of you!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "恐らく彼女、\nアンチビーストの影響で\n愛が暴走を始めてるんだ！\n二人とも、\n気を付けて！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Heheheh. I can't take it anymore! ☆\nNow, bring me my little brother!\nI'm going to spoil him to death with all my love!",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふふっ、\nやっぱりもう我慢できないっ☆\nさぁ、\n今度こそ弟くんを連れて来てね！\nお姉ちゃんの溢れる愛で、\n弟くんを甘やかし抜くんだからっ！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Mora",
+      "text": "Here it comes! Kasumi, Shiori, Sir Knight!\nDefeat that Antibeast!\nIf you do, peace is sure to return to Landosol!",
+      "choice_data_list": [
+        "Let's all restore the peace together!"
+      ],
+      "orig_name": "モーラ",
+      "orig_text": "来るよ！　\nカスミちゃん、\nシオリちゃん、\n騎士さま！\nあのアンチビーストを倒すんだ！\nそうすれば、\nランドソルに平和が戻ってくるはずさ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Certainly!\nLet's solve this case once and for all!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "ああ！\n事件解決といこう！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Yes, let's.\nI'll blast it away with all my power!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "はい。\n全力で狙い撃ちます！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Magical girls!\nHow dare you try to rend the love between me and my little brother\nasunder. Absolutely unforgivable!",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "魔法少女ちゃんたちっ！\n私と弟くんの愛を引き裂こうとするなんて、\n絶対許さないよっ！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Now, eliminate these interfering reprobates!",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "さぁ、\n邪魔する悪い子は排除しちゃって！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "What was that?!\nPathetic! Misty Bullet!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "なんのっ！\nこれしきっ──\nミスティバレット！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GROOAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "How do you like that? It's the power of the Magical Detective!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "どうだいっ、\nこれが魔法探偵の力さ！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Whoa there!\nTh-that was a bit close, don't you think?!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "おおっと！？\nあ、\n危ないじゃないかっ！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Kasumi!\nLet me handle it!\nPurely Arrow!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "カスミさん！\n任せてください──\nピュアリーアロー！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "I'm going to shoot it down!\nYaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "全部、撃ち落とします……っ！\nやぁぁぁ──っ！"
+    },
+    {
+      "name": "Mora",
+      "text": "Wow!\nYou really did shoot it down!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "わぁっ！\n本当に全部撃ち落としちゃった！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "The name Magical Huntress isn't just for show...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "魔法狩人の名は、\n飾りじゃありませんから……！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Mora",
+      "text": "My judgement was spot on!\nYou two have already become fine magical girls!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "ボクの目に狂いはなかったね！\n二人とも、\nもう立派な魔法少女だよっ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Good grief.\nFinally, after all this time.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "やれやれ、\nここまで来てようやくかい。"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "But we're happy to hear it...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "でも、\nうれしいですよね……！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Kasumi, let's end this in a flash!\nPurely Aiming!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "カスミさん、\nこのまま一気に決めてしまいましょう！\n──ピュアリーエイミング！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "By all means, Shiori, let's. What say we put a ribbon on it?!\nMisty Wrapping!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "無論だよシオリさんっ、\nそれじゃあお縄といこうか！\n──ミスティラッピング！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Mora",
+      "text": "Great, it's all tied up!\nNow, girls! Put it out of its misery!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "よし、\n動きが止まった！\n二人とも、\nトドメだぁっ！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "I won't let that happen.",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "そ、\nう、\nは、\nいかないよっ？"
+    },
+    {
+      "name": "Mora",
+      "text": "Huh? Ahhh!",
+      "choice_data_list": [
+        "Mora!"
+      ],
+      "orig_name": "モーラ",
+      "orig_text": "え？　\nうわあっ！？"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "You're my rabbit now. ♪\nMora, was it?\nYour power... Give it. ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "つっかまーえた♪\nモーラくん、\nだっけ？\n君の持ってる力……\nちょうだいねっ♪"
+    },
+    {
+      "name": "Mora",
+      "text": "L-let me go!\nAhhhhhhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "は、\n離してっ！\nうわあああああああっ！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "What?! It broke free of my Misty Wrapping?!\nIs Mora's power making it stronger?!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "なっ、\nミスティラッピングが破られたっ！？\nモーラくんの力で\nパワーアップしているのか！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Kasumi!\nOur power is weakening!\nI think the supply from Mora is dwindling...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "カスミさん！\n私たちの力も下がっています！\n恐らく、\nモーラさんからの力の供給がなくなって……！"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Wow, there's so much power.\nThis will help me take even better care of my little brother. ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "わぁ、\nすごい力だね。\nこれなら、弟くんをもっとかわいがってあげられそう♪"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Heheh. Don't go anywhere, Little Brother.\nBig Sis is gonna give you a nice hug.\nLet my squeeeze you tightly, and show you just how much I love you... ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふっ。\n待っててね、弟くん、\n今、お姉ちゃんが抱きしめてあげる。\nぎゅ～ってして、\nお姉ちゃんの愛を、\n感じさせてあげるね……♪"
+    },
+    {
+      "name": "Mora",
+      "text": "H-her love is too strong...\nAt this rate, I'm going to...!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "な、\nなんて、強い\n愛の力……\nだけど、\nこのままじゃあ……！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "What the devil?!\nTh-the Antibeast is... getting even bigger...?!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "なんだい！？\nア、\nアンチビーストが……\nさらに、大きく……！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Wh-what... can we do...?!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "こ、\nこんなの……\nどうしたら……！？"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Eheh, eheheh.\nNow the tables have turned.\nAfter all, love only deepens when we overcome large obstacles... ♪",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ふふっ、\nふふふっ。\nさぁ、\nこれで形勢は逆転だよ？\nやっぱり大きな壁を乗り越えてこそ、\n愛は深まるんだよね……♪"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "Ready, Little Brother...",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "ね、\n弟くん。"
+    },
+    {
+      "name": "Shizuru Noir",
+      "text": "...to accept my love?",
+      "choice_data_list": [],
+      "orig_name": "シズル・ノワール",
+      "orig_text": "お姉ちゃんの愛、\nしっかり受け止めてね……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Shizuru, Sister of Darkness—the might of love incarnate. This immense\npower has the magical girls and me in a bind! What will happen next,\nMagical Detective Misty★Kasumi, Magical Huntress Purely★Shiori?!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "姿を現した強大なる愛の化身、\n闇のお姉ちゃんことシズル。\nその力を前に\n魔法少女たち、\nそしてボクは\n大ピンチに陥っちゃった！\nどうなる、\n魔法探偵ミスティ★カスミ、\n魔法狩人ピュアリー★シオリ！"
+    }
+  ]
+}

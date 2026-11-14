@@ -1,0 +1,344 @@
+{
+  "title": "Anna Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, while {0} is taking a stroll in the city...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}が街の中を散歩している時だった。"
+    },
+    {
+      "name": "???",
+      "text": "Hold it, foul criminal!\nSurrender yourself at once to my steely embrace!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "待てっ！　\n賞金首！\n大人しく我が腕に\n抱かれるがいいっ！"
+    },
+    {
+      "name": "Bounty",
+      "text": "What kind of idiot fugitive stops on command?!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "待てと言われて待つバカがいるか！"
+    },
+    {
+      "name": "Bounty",
+      "text": "Ugh, that hurt! Look where you're walking, dumbass!\nOutta my way!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "痛てぇな！　\nどこに目ぇつけてんだ！　\n気をつけろ！"
+    },
+    {
+      "name": "???",
+      "text": "Hail, nameless bystander! Are you unhurt?!\nI am a bounty hunter in pursuit of that ruffian,\nbut it seems I let him do you harm. A grave failing on my part...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "そこの名もなき一般人よ、\n無事か？\n私は\nあの賞金首を追っている最中なのだが……\n巻き込んですまなかった。\n奴の罪もまた、\n私の罪……"
+    },
+    {
+      "name": "???",
+      "text": "Ah, but forgive me. I have yet to even introduce myself.\nFeast thine ears... upon my hallowed true name!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おっとすまない……\nまずは\n名乗らねばいかんな。\n聞くがよい……\n聖なる我が真名を！"
+    },
+    {
+      "name": "???",
+      "text": "Heheheh... Hahahah... Ahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "くっくっく……\nはっはっは……\nはーっはっはっはっ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I am the one called Annerose von Stechpalm!\nBetter known as Hecate of the Gale!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "我が名はアンネローゼ・フォン・\nシュテッヒパルム！\n人呼んで、\n疾風の冥姫！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Yes, it is I, Regent of the Order of Gehenna Immortals!\nThe Darkest Knight who tamed the fires of Ragnarök\nand saved a world now lost!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "またの名を\n「熾炎戦鬼煉獄血盟暗黒団」団長！\n暗黒騎士にして、\n終焉戦争を終わらせし、\n旧世界の英雄だっ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "This crossing of paths must too be fate!\nI permit thee to carve thine own name into the annals of my—",
+      "choice_data_list": [
+        "The bad guy's running away."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ここで会ったのも\n何かの縁だ。\n特別に\n貴様の名前も、\n我が魂に刻んで──"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hmm...? What's that? Why do you state the obvious?\n'Tis only natural for villains to flee...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "むむっ……？　\nどうした、\n何故当たり前のことを言う？\n賞金首なら\n逃げて当然……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh, shoot! How did he get so far already?!\nI must pursue him at once!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しまった！　\nいつの間にあんな遠くへ……！\n急いで奴を追わなくては！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I know! You can help me out!\nIf you work with me, I'll share a portion of the bounty. How's that?!",
+      "choice_data_list": [
+        "I'll do it."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そうだ！　\n貴様も手を貸せ！\n協力するなら、\n賞金を分けてやるが……\nどうだ？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Really?! You would do this for me?!\nWell, then... Let's get after him!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そうか、\n引き受けてくれるか！\nでは\n早速奴を追うぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'll continue my pursuit and lure him to a certain location.\nYou head directly there and lie in wait for his arrival!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私はこのまま追いかけて、\n奴をとある地点まで誘い込む。\n貴様は先回りし、\n伏して奴が現れるのを待て。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Caught between two foes, he will have nowhere to run!\nHeh... A perfect strategy indeed!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "さすれば奴など、\n一網打尽というわけだ。\nふっ……\nなんて完璧な作戦だ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Away we go! To seize our glory and a bounty of riches!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ゆくぞ！　\n我らの栄誉と、\n賞金のために！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hold it, foul ruffian!\nYou will not escape!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "待て、\n賞金首！\n逃がしはしないぞ！"
+    },
+    {
+      "name": "Bounty",
+      "text": "Heh! If you think you can catch me, let's see you try!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "へっ、\n追いつけるもんなら追いついてみやがれ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh, shoot!\nIf he turns down that alley, we won't be able to corner him!\nIn that case...! Take this!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しまった！　\nあそこで曲がられると、\n追い詰められない……！\nならば……！　\nくらえっ！"
+    },
+    {
+      "name": "Bounty",
+      "text": "Whoa?! ...Hahahah. That the best you can do?!\nYa didn't even scratch me! See you later, loser!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "うわっ！　\n……はっはっは、\nどこに撃ってやがる？\n当たらないね！　\nこのまま逃げ切るぜ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Heheheh... The dimwit took the bait!\nNow I need only wait for our ambush to...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "くっくっく……\nうまく誘導できたな。\n後は作戦通り、\n待ち伏せを……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh no! I forgot to tell that guy the actual location!\nAt this rate, our plan will be...",
+      "choice_data_list": [
+        "Grab the fugitive."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "まずい！　\nあの男に場所を教え忘れていた！\nこのままでは作戦が──！"
+    },
+    {
+      "name": "Bounty",
+      "text": "Guahhh!\nWh-why, you...!\nWhen the hell did you get here?!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "ぐあっ！\nて、\nてめぇ！\nいつの間に先回りを！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Huh...? It actually worked?\nBut how...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "あれ……？　\n上手くいった……？\nなんで……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "No, never mind that. I must hurry and secure the target!\nYou there! Keep a tight grip on that villain!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そんなことよりも\n今は賞金首の拘束だ！\n貴様！　\nソイツを絶対に放すなよ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...I am most grateful.\nThanks to you, a dangerous criminal has been safely apprehended.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……よくやってくれた。\n貴様のおかげで、\n難なく賞金首を確保できた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Please accept this reward.\nIt is a full half of the bounty upon his head.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "これを受け取ってくれ。\n奴にかけられていた賞金の\n半分だ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Tell me, though. How did you know where to hide?\nI was quite sure I failed to tell you the location...",
+      "choice_data_list": [
+        "I just used my instincts."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しかし……\nよくあの場所がわかったな？\n合流地点は\n伝えていなかったはずだが……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Remarkable... So you understood my thoughts\nwithout the need for words...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "なるほど……\n説明するまでもなく\n私の思考を理解したと……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...Heheh... Hahaha... Hah hah hah!\nOf course... I see it now! There is no doubt!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……ふふっ。\nはははっ、\nはっはっはっ！\nそうか、\nそういうことか……！　\n間違いない！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "You are my archrival and comrade from that bygone age!\nSigurd of the Fulgor!\nI never dreamed you too had been reincarnated!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "貴様は\n我が前世の宿敵にして盟友！　\n閃光のシグルド！\nまさか貴様も\n転生していたとはな！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "No, there can be no mistake!\nThe way you read my soul's impulses in an instant\nis more than proof enough!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "人違いなどではないぞ！\n私の意思を即座に理解したのが、\nなによりの証拠だ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "How could I fail to see it until now?\nBut no more! We are together again!\nJust like old times, our names will ring across the land as one!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "今まで気づかず、\nすまなかった……\nだが、\nこれからは違うぞっ！\n前世のように、\n共に我らの名を\n世界にとどろかせよう！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Our day has come, Sigurd of the Fulgor!\nIsn't that right, Sigurd of the Fulgor?",
+      "choice_data_list": [
+        "My name's not Sigurd."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "貴様こそ、\n閃光のシグルドだ！\nそうだろう、\n閃光のシグルド？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Nonsense! You alone are Sigurd of the Fulgor!\nIsn't that right, Sigurd of the Fulgor?!",
+      "choice_data_list": [
+        "I'm not Sigurd, though..."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "いいや！　\n貴様こそ、\n閃光のシグルドだ！\nそうだろう、\n閃光のシグルド……？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Th... That cannot be true!\nI see you, Sigurd of the Fulgor!\nIt's you, right, Sigurd of the Fulgor?!",
+      "choice_data_list": [
+        "...It is I, Sigurd of the Fulgor."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そ、\nそんなはずはない……！\n貴様こそ、\n閃光のシグルドだっ！\nそうだろう、\n閃光のシグルドォ……！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Aha! I knew my soul did not lie!\n...Yet your face looks so troubled... Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "おお、\nやはり\nそうだったか！！\n……なんともいいがたい表情だが、\nどうかしたか？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Of course! You are taken aback by this sudden reunion.\nI completely understand. I could scarcely believe it myself!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そうか、\n突然の再会に\n困惑しているのだな。\nその気持ちはわかるぞ。\n私だって\n驚いた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "But this is a day for celebration!\nFate has brought two eternal comrades together once more!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しかし\n大いに喜ぶべきことだ！\n前世の盟友と、\nこうして再び巡り会えたのだからな！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I see what we must do. Sigurd!\nThe Order of Gehenna Immortals welcomes you as Vice-Regent!\nI bestow upon you the title of Darkest Knight that you once held!",
+      "choice_data_list": [
+        "Um, no thanks.",
+        "'Tis an honor, my Regent!"
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "これも何かの縁だ。\nシグルドよ、\n貴様を「熾炎戦鬼煉獄血盟暗黒団」の\n副団長に任命する。\n前世と同じ\n暗黒騎士としての地位を、\n貴様に授けよう！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Don't be shy, my Zweiritter!\nHow could I entrust this role to any other?!\nIt is yours alone!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "照れるな「第二連隊長」\nこの役目は\n貴様にしか務まらん。\n任せたぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Why the formalities? Are we not comrades-in-arms?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そんなに畏まるな。\n我らの仲ではないか。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Now this lonely Order has grown its membership to two!\nLet us go forth as one to defeat the Syndicate\nand defend this brave new world!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "これで団員は、\n私とシグルドの二人になった……\n共に手を取り合って\n「機関」を打倒し、\n新世界を守り抜こう。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Now, I must away! Do not forget our secret greeting!\n\\\"In the depths of Gehenna, a gale arises!\\\"",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ではさらばだ。\n合言葉を忘れるなよ？\n「我ら煉獄に舞いし、\n一陣の疾風！」"
+    },
+    {
+      "name": "Narration",
+      "text": "And with those bizarre words,\nthe self-proclaimed \\\"Hecate of the Gale\\\" dashed out of sight.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "謎の合言葉を残して、\n自称「疾風の冥姫」ことシュテッヒパルムは去っていった。"
+    }
+  ]
+}

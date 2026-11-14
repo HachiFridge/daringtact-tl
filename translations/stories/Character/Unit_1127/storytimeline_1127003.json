@@ -1,0 +1,602 @@
+{
+  "title": "Rin (Ranger) Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Owing to her destruction of the bandit gang, Rin's name has become\nwidely known to the general public. With her immense popularity\ncomes the moniker \\\"Acorn Ranger Rin\\\".",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "盗賊団壊滅をきっかけに、リンの名は一般市民にも広く知れ渡り、\n今では『ドングリレンジャー・リン』として絶大な人気を誇っていた。"
+    },
+    {
+      "name": "Rin",
+      "text": "Nom nom. Whew. Sweet buns before work are the best.\nToss me another one, Manager.",
+      "choice_data_list": [
+        "Time to get going."
+      ],
+      "orig_name": "リン",
+      "orig_text": "もぐもぐ、\nふぅ、\n仕事前のあんパンは最高だねぇ。\nおかわりちょうだい、\nマネージャー"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh, already? So be it. Shall we head out?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "え～、\nもう？　\n仕方ない、\nちょっくらやってきますか。"
+    },
+    {
+      "name": "Announcer",
+      "text": "We would like to call to the stage our special guest\nfor today's game launch event, Acorn Ranger Rin!",
+      "choice_data_list": [],
+      "orig_name": "司会者",
+      "orig_text": "それではお呼びしましょう。\n新作ゲーム発表会の\n特別ゲスト、\nドングリレンジャー・リンさーん！"
+    },
+    {
+      "name": "Rin",
+      "text": "Hey there, what's up? I just got here, but can I go home?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はいはい、\nど～も。\n来て早々だけど、\n帰っていい？"
+    },
+    {
+      "name": "Audience",
+      "text": "Ahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "観客たち",
+      "orig_text": "あはははは！"
+    },
+    {
+      "name": "Announcer",
+      "text": "Rin, we'd prefer it if you stayed!\nEveryone, throw acorns at the stage to encourage Rin to persevere!",
+      "choice_data_list": [],
+      "orig_name": "司会者",
+      "orig_text": "リンさんいきなり過ぎです！\nみなさーん、\nリンさんががんばれるように、\nドングリをステージに投げてくださーい！"
+    },
+    {
+      "name": "Fan 1",
+      "text": "Ranger Rin! You can do it!",
+      "choice_data_list": [],
+      "orig_name": "観客１",
+      "orig_text": "リンちゃーん！　\nがんばってー！"
+    },
+    {
+      "name": "Rin",
+      "text": "Wahey, so many snacks! Thanks a bunch.\nWell then, I guess I'll hang around for a bit longer.\nOh, when the event's over, can I get a free copy of the game?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "おやつがいっぱいだ。\nありがたいねぇ。\nそれじゃあ、\nもうちょっとだけがんばるよ～\nあ、\nイベント終わったらこのゲームもらっていい？"
+    },
+    {
+      "name": "Audience",
+      "text": "Ahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "観客たち",
+      "orig_text": "あはははは！"
+    },
+    {
+      "name": "Announcer",
+      "text": "Acorn Ranger Rin's meet and greet is this way!\nPlease line up in order of the number on your ticket!",
+      "choice_data_list": [],
+      "orig_name": "司会者",
+      "orig_text": "ドングリレンジャー・リンさんの握手会はこちらでーす！\n整理券の番号順にお並びください！"
+    },
+    {
+      "name": "Fan 1",
+      "text": "Ranger Rin, I'm always cheering for you!\nKeep up the amazing work!",
+      "choice_data_list": [],
+      "orig_name": "観客１",
+      "orig_text": "リンちゃん、\nいつも応援してます！\nがんばってください！"
+    },
+    {
+      "name": "Rin",
+      "text": "Cool, thanks. But I don't really wanna do any work.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ん、\nあんがと。\nでもあんまりがんばりたくないなぁ。"
+    },
+    {
+      "name": "Fan 2",
+      "text": "I-I'm one of your biggest fans...\nW-would you do me the honor of calling me by my name?!",
+      "choice_data_list": [],
+      "orig_name": "観客２",
+      "orig_text": "お、\n俺、\nリンちゃんの\n大ファンで……\nあ、\nあのよければ俺の名前、\n呼んでください！"
+    },
+    {
+      "name": "Rin",
+      "text": "Huuuh? Gross, go away.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "えー、\nめんどい、ヤダ。"
+    },
+    {
+      "name": "Fan 2",
+      "text": "Wahoo! Your cold demeanor really gets me going! Thank you, milady!",
+      "choice_data_list": [],
+      "orig_name": "観客２",
+      "orig_text": "くぅー！　\nその塩対応、\nたまんない！　\nありがとう！"
+    },
+    {
+      "name": "Rin",
+      "text": "Phew. I'm exhausted.\n{0}, what's next on the agenda?",
+      "choice_data_list": [
+        "Tomorrow you're out monster hunting."
+      ],
+      "orig_name": "リン",
+      "orig_text": "ふう、\n疲れた疲れた。\n{0}、この後の予定は？"
+    },
+    {
+      "name": "Rin",
+      "text": "Man, that's no fun at all.\nWell, I'm super strong, so I guess it can't be helped.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "げぇ、\n面倒くさいな～\nま、\nあたしが強いから仕方ないけどね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Funny though, who'd have thought [i]I[/i] would end up working so much?\nBecoming known as the Acorn Ranger and getting spoiled for it...\nYou never know what life'll bring, huh?",
+      "choice_data_list": [
+        "Working's pretty fun, huh?"
+      ],
+      "orig_name": "リン",
+      "orig_text": "ん～、\nしかしこのあたしが\nこんなに働くなんてね。\nドングリレンジャーなんて呼ばれて\nちやほやされてさ。\n人生分からないもんだよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "No way.\nBut if I put in a tiny bit of effort, I get a ton of profit in return.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "全然？　\nでもね、\nちょっとがんばるだけで\nガッポガッポ儲かるんだよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Even if I just fob something off, the people around me get crazy happy.\nAnd with your help, I can manage any tough jobs that come my way.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "テキトーな対応しても\n周りが勝手に盛り上げて喜んでくれるし、\nきつい仕事も\nあんたに手伝ってもらえばどうにかなるし。"
+    },
+    {
+      "name": "Rin",
+      "text": "Dare I say, manual labor is easy-peasy!\nWell, that's also thanks to me being real strong.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "いや～、\n労働ってチョロいね！\nまあ、\nそれもあたしのこの強さのおかげなんだけど。"
+    },
+    {
+      "name": "Rin",
+      "text": "I hope I can continue to live life on easy mode.\nDon't worry, trickle-down economics means you benefit too,\nso let's keep at it!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "このまま\n人生イージーモードで行きたいね。\nあんたにも\n甘い汁吸わせてあげるから\nよろしくね～"
+    },
+    {
+      "name": "Rin",
+      "text": "Hmmm, all's good, all's well, all's super.\nI'm gonna do loads of easy work again today.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ふふーん、\n好調好調絶好調～\n今日もまったり\nがっぽり稼ぐよ～"
+    },
+    {
+      "name": "Rin",
+      "text": "Now then, what request do we have?Ah, monster hunting.\nUsually I'd just complain about it, but today I'm feeling real good.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "さてさて、\nどんな依頼が──\nあ～、\n魔物退治ね。\n普段なら面倒だけど、\n今日はなんだか気分がいいんだよねぇ。"
+    },
+    {
+      "name": "Rin",
+      "text": "A monster like this won't be a problem.\nPlus, I need to make sure to show folks how strong I am.\n{0}, I'll be back before you know it.",
+      "choice_data_list": [
+        "You don't need to take on that job.",
+        "Don't go, it's too dangerous."
+      ],
+      "orig_name": "リン",
+      "orig_text": "これくらいの魔物なら問題ないし、\nちゃんと強いとこもアピールしとかないとね。\n{0}、さっそく行ってくるよ～"
+    },
+    {
+      "name": "Rin",
+      "text": "This is the one time you don't have to force me. What the heck, man?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "いつもは嫌がっても行かせるくせに、\n何なのさ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Dangerous? I'm not gonna take on an army, you know?\nGet it together, Manager.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "危険って、\n討伐対象大したことないヤツだよ？\nしっかりしてよマネージャー"
+    },
+    {
+      "name": "Rin",
+      "text": "I have no idea why you don't want me to go,\nbut I'm actually up for it for once.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "なんであんたが行かせたくないのか知らないけど、\n今のあたしなら問題ないのに。"
+    },
+    {
+      "name": "Rin",
+      "text": "Well, whatever. It's not like I [i]really[/i] wanna go.\nI'll go do this other easy job instead.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "まあいいけどね。\n絶対行きたいわけじゃないし。\nそれじゃあこっちの軽い仕事行ってくるよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Ah, you don't have to come with me. I'm definitely not going in way over\nmy head. Well then, buh-bye.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あ、\n同行しなくていいよ、\nそんな大変な仕事じゃないし。\nそれじゃあ、\nいってきま～す。"
+    },
+    {
+      "name": "Rin",
+      "text": "Whew. Got that done faster than expected.\nI guess it's time to go home and take a nap.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ふぅ、\n思ったより早く終わっちゃった。\nとりあえず\n帰って昼寝でもしようかねぇ。"
+    },
+    {
+      "name": "Rin",
+      "text": "...Oh, right. That monster-hunting request came from around here, if I\nremember correctly. Well, why not get it knocked out on the way back?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……そうだ、\nあの魔物退治の依頼、\n確かここからすぐだったはずだよね。\nせっかくだし、\nついでに片付けちゃおうか。"
+    },
+    {
+      "name": "Rin",
+      "text": "Heheh, I can imagine the look on {0}'s face\nwhen I tell him I killed the monster. Can't wait to see it.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ふふん、\nあたしが退治してきたって言ったら、\nあいつどんな顔するかな？　\n楽しみだな～！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "See, piece of cake.\nI can already see {0}'s frustrated expression.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ほら、\n簡単に倒せたじゃん。\n悔しがるあいつの顔が目に浮かぶね。"
+    },
+    {
+      "name": "Rin",
+      "text": "All righty! Gonna go home and stuff myself with sweet buns—",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "さあ、\n帰ってあんパンでも食べよう──"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh? It had backup? Yikes, my tail's all poofed up...\nAw hell, I'm in over my head.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "え、\n新手の魔物？　\nうわ、\n尻尾がザワザワする……\nこいつ、\nちょっとヤバいやつかも。"
+    },
+    {
+      "name": "Rin",
+      "text": "Oh, is this why {0} tried to stop me from coming?\n'Cause he knew another monster would be waiting in ambush...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あ、\nもしかしてあいつ、\nこの魔物が出るって知ってたから、\nあたしに行かせないようにしてたんだ……"
+    },
+    {
+      "name": "Rin",
+      "text": "B-but still, I'm a different girl now!\nThis monster is something I can handle on my own!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "だ、\nだとしても\nこれまでのあたしとは違うんだから！\nこれくらい\nあたし一人で倒してみせるよ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Ahhh! Th-that wasn't good... Such a fast and heavy attack...\nI'd be dead if it weren't for this armor.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はうぅ！　\nあ、\n危なかったぁ……\nなんて速くて重い一撃なの？\n鎧がなきゃ死んでたかも。"
+    },
+    {
+      "name": "Rin",
+      "text": "But now it's my turn... Wait, what?\nI'm suddenly having difficulty moving... Huh?!\nThere's a dent in the breastplate, and it's tight against my body...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "でも\n今度はこっちの番だよ……\nって、\nあれ？\nなんだか動きづらいような……\nえ！\n鎧がへこんで、\nゆるさがなくなってる……"
+    },
+    {
+      "name": "Rin",
+      "text": "N-no... I'm much stronger than I used to be.\nEven without the benefits of the armor, that monster's dead!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "う、\nううん……\n今のあたしは強いんだ。\n鎧の効果がなくたって、\nやれるんだからね！"
+    },
+    {
+      "name": "Rin",
+      "text": "Yaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "やああぁ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Wh-what? I-it has no effect at all...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あ、\nれ？　\nぜ、\n全然効いて、\nない……？"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Ah, I can't dodge it. Ahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あ、\nダメ、\nかわし切れな、\nうわああ！"
+    },
+    {
+      "name": "Rin",
+      "text": "U-ungh... O-ouch... It wasn't even head on. Urgh...\nH-how can [i]I[/i] die in a place like this...?\nOh, I get it. Heh, heheh...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ぐ、\nうぅ……\nい、\n痛い……\n直撃は避けたのに、\nあぅ……\nこ、\nこのあたしが、\nこんなことで……\nあ、\nそっか。\nふ、\nふふ……"
+    },
+    {
+      "name": "Rin",
+      "text": "It looks like I made a grave mistake. I was never strong.\nAll of it was thanks to this armor. Hahah. Maaan.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あたし、\n勘違いしてたみたい。\nあたしが強いんじゃなくて、\n全部\nあの鎧のおかげだったんだ。\nはは、\nなーんだ……"
+    },
+    {
+      "name": "Rin",
+      "text": "Well, not just the armor. {0}'s support, as well as\nthe praise I got from the people around me... helped me to succeed...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "鎧だけじゃない、\nあいつがサポートしてくれて、\n周りのみんなが持ち上げてくれたから、\n上手くいってたんだ……"
+    },
+    {
+      "name": "Rin",
+      "text": "I myself haven't changed at all since the beginning.\nI'm just a lazy, good-for-nothing deadweight for the guild.\nHonestly, I'm so stupid, getting carried away like that...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あたし自身は\n最初から何も変わらない、\nダメで\nぐうたらな\nギルドのお荷物だ。\nホント、\nバカみたいだね、\n調子に乗っちゃってさ……"
+    },
+    {
+      "name": "Rin",
+      "text": "...I don't think I can even lift a finger anymore.\n...I guess this is the end.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……もう、\n指一本\n動かせる気がしないよ。\n……ここまで、\nなのかな。"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Hey, {0}, I did good, didn't I?\nI just wish he could've praised me one last time.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ねえ{0}、\nあたし\nよくやったよね？\nもう一度だけ\nあいつに\n褒めてほしかったなぁ～"
+    },
+    {
+      "name": "Rin",
+      "text": "...Huh? That sound...",
+      "choice_data_list": [
+        "Phew, I made it in time..."
+      ],
+      "orig_name": "リン",
+      "orig_text": "……え？　\n今の音……"
+    },
+    {
+      "name": "Rin",
+      "text": "No way! {0}?!\nD-did you come to save me? But why...?",
+      "choice_data_list": [
+        "You didn't come home, so I got worried."
+      ],
+      "orig_name": "リン",
+      "orig_text": "うそっ、{0}！？\nた、\n助けに来てくれたの？　\nでも\nどうして……"
+    },
+    {
+      "name": "Rin",
+      "text": "I see. You always care, even though I just do my own thing...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そっか、\n勝手なことしてるあたしなんかのために……"
+    },
+    {
+      "name": "Rin",
+      "text": "Well, that's never been something to bother you, huh?\nIt doesn't matter who, you'll come to the rescue at the drop of a hat.\nYou're that kinda guy.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "いや、\nあんたはそういうの関係ないね。\n誰であろうと\nまっすぐに助けに来てくれる、\nそういうヤツだったね。"
+    },
+    {
+      "name": "Rin",
+      "text": "But I'm sorry... I can't move my body.\nEven if I could, without this armor I'm a liability who can barely fight.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "でも、\nごめん……\nあたしもう動けないよ。\nたとえ動けても、\n鎧がなきゃ\nまともに戦えない足手まといだもん。"
+    },
+    {
+      "name": "Rin",
+      "text": "Just leave this useless squirrel, and get the heck outta here.\nBecause [i]you[/i] are the hero that Landosol needs.",
+      "choice_data_list": [
+        "The armor never mattered!"
+      ],
+      "orig_name": "リン",
+      "orig_text": "こんな役立たずなんか置いて、\n早く逃げなよ。\nランドソルに必要なのは\nあんたなんだからさ。"
+    },
+    {
+      "name": "Rin",
+      "text": "E-even if you tell me that...\nI'm done. It's all over for me.",
+      "choice_data_list": [
+        "You're strong! You can do anything!"
+      ],
+      "orig_name": "リン",
+      "orig_text": "そ、\nそう言われても……\n無理、\nやっぱりあたしには無理だよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "...You know, you're really kind.\nBut I know myself better than anyone. I'm not strong at all.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……あんたは\n本当に優しいね。\nでも、\n自分が一番分かってるんだよ。\nあたしは弱いって。"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh? Wh-why're you powering me up?\nYou're already pushing yourself by protecting me...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "えっ、\nな、\nなんであたしを強化してるの？\nあんた、\nあたしをかばってギリギリなのに……"
+    },
+    {
+      "name": "Rin",
+      "text": "Even though you're in danger yourself, you care about\nthe safety of other people. That's a true acorn ranger.",
+      "choice_data_list": [
+        "Go, go, Acorn Ranger!"
+      ],
+      "orig_name": "リン",
+      "orig_text": "自分も危ないのに\n人のこと気にしてるあんたの方が、\nよっぽどドングリレンジャーだよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "! ...Come on, even at a time like this? You're such a cheeseball, geez.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "っ！　\n……全く、\nこんな時にあんたは。\n恥ずかしいなぁ、\nもう。"
+    },
+    {
+      "name": "Rin",
+      "text": "But you've helped me remember. I'm the Acorn Ranger.\nI kinda suck, but I'm the Acorn Ranger.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "でも、\nおかげで思い出せた。\nドングリレンジャーはあたしだ。\nダメダメだけど\nあたしがドングリレンジャーなんだ。"
+    },
+    {
+      "name": "Rin",
+      "text": "If I can't rescue even this one big softy here, I really am a hopeless case,\nwhether I'm the Acorn Ranger or not. ",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ここでお人よし一人救えないようじゃ、\nドングリレンジャーどころか\n本当にダメ人間になっちゃうよ！　"
+    },
+    {
+      "name": "Rin",
+      "text": "..Hey, monster! Yeah, you. Consider yourself lucky.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……やい、\nそこの魔物！　\nあんた、\n光栄に思いなよ？"
+    },
+    {
+      "name": "Rin",
+      "text": "You're gonna get a special gift from a celebrity so famous that\neven Carmina can't hold a candle to her.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "【カルミナ】も裸足で逃げ出すほどの人気者が、\nあんたにとっておきをお見舞いしてあげるよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "I'm gonna use up decades' worth of motivation so that I, Acorn\nRanger Rin, can destroy you using my final, ultimate attack!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "この先\n何十年分の労働意欲を一気に前借りした、\nドングリレンジャー・リン、\n最後にして\n最強の一撃をね！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Farewell, hard work!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "労働よ──\nさらば！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Heh, heheh... Did you see me, {0}?\nWhen I actually do something, I do it right.",
+      "choice_data_list": [
+        "Thanks, Acorn Ranger Rin."
+      ],
+      "orig_name": "リン",
+      "orig_text": "へ、\nへへ……\n見てた？　{0}。\nあたしだって、\nやる時は、\nやるんだよ？"
+    },
+    {
+      "name": "Rin",
+      "text": "You're welcome.\n*pant* But I'm at my limit. The rest I leave up to you...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "どういたしまして。\nあー、\nでも\nもう限界、\nあとは\nよろ、\nしく、\nね……"
+    },
+    {
+      "name": "Rin",
+      "text": "Ngh. Huh? What was I...?\nOh yeah, I defeated the monster and lost the ability to move.\nYou carried me all the way here?",
+      "choice_data_list": [
+        "You did a fantastic job."
+      ],
+      "orig_name": "リン",
+      "orig_text": "ん、\nあれ、\nあたし……\nそっか、\n魔物倒して、\nそんで動けなくなって、\nあんたが背負ってくれてるんだ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Yeah, your praise does make me happy after all.\nThat being the case, maybe trying hard ain't so bad.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ん、\nやっぱりあんたに褒められるとうれしいな。\nそう考えると、\nがんばるのも悪くないかも。"
+    },
+    {
+      "name": "Rin",
+      "text": "But doing work is what caused me to turn weird and get into this mess\nin the first place.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "でも、\n労働なんてしたからおかしくなって、\n迷惑かけちゃったんだよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Nah, I guess I shouldn't do things I'm not used to...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あーあ、\nやっぱ慣れないことするもんじゃないね……"
+    },
+    {
+      "name": "Narration",
+      "text": "With that, Rin drifted off into a comfortable slumber.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "心地よいまどろみに身をゆだねながら、\n眠りに落ちるリンだった。"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "title": "Echo: Queen Labyrinth",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "──This is... indeed, a moment in time since passed.\nYour consciousness slowly awakens.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──それは、\n確かにあったかつての時間。\nあなたの意識はゆっくりと目覚めてゆく。"
+    },
+    {
+      "name": "Akira",
+      "text": "Mimi activation... confirmed.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "『mimi』との認証、\n確認。"
+    },
+    {
+      "name": "Akira",
+      "text": "Alright, prepwork is done.\nWe can start any time.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "よし、\nこれで準備は完了。\nいつでも始められる。"
+    },
+    {
+      "name": "Akira",
+      "text": "......Hmmmm?\nSomething wrong? You're staring at my face so intently...ah.\nDo I have bags under my eyes?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "……うん？\nどうかした？　\nアタシの顔をそんなマジマジと……\nあ。\nもしかして目に隈とかできてる？"
+    },
+    {
+      "name": "Akira",
+      "text": "Oh man~ I get so caught up in development that I end up\nignoring sleep. Chris will get mad again, chiming in with something like \n\"You should care for your appearance every now and then\".",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "やだな～\n開発に熱中しすぎるとつい寝不足になっちゃってさ。\nまたクリスに怒られちゃうよ、\n「キサマも少しは見てくれを気にしろ」\nってさ。"
+    },
+    {
+      "name": "Akira",
+      "text": "Well, she says that, but really she's just trying get me to buy into her line of cosmetics.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "まぁ\nそう言いつつ自分の関わってる化粧品を\n買わせようとしてるだけなんだけど。"
+    },
+    {
+      "name": "Akira",
+      "text": "Oop, please don't move for now.\nI'm sorry for the trouble, but I've got a lot of things hooked up to your body right now.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "おおっと、\n動こうとしちゃダメだよ。\n不自由させて悪いけどさ、\nいまキミの体に色々繋いでるから。"
+    },
+    {
+      "name": "Akira",
+      "text": "We're developing a full-dive VR game that's far beyond the capabilities of current technological advances. There's a lot of information we need to monitor as a result.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "アタシたちの開発してるゲームは、\nこれまでの技術体系と一線を画す\nフルダイブ型VRゲームだからね。\nモニタリングしなきゃいけない情報が多いんだ。"
+    },
+    {
+      "name": "Akira",
+      "text": "Well then, shall we get started?\nNow, let your body relaaax~",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "さ～て\nそろそろ始めよっか。\nはい、\n体を楽にして～"
+    },
+    {
+      "name": "Akira",
+      "text": "The official keyword to activate it is...currently undecided.\nFor now, you can just say \"Login\".",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "起動のキーワードは……\n正式なのはまだ決まってないんだよね。\nとりあえず\n『ログイン』\nって言ってくれればいいからさ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "──Hey.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "──やぁ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I welcome you...to a whole new world.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ようこそ、\n新たな世界へ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Cool guy act aside, it's still very, VERY much a work-in-progress.\nNot even the field terrain is finished, so I'd appreciate it if you could ignore any unsightly spots you might see.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "なーんてカッコつけてもまだ全然開発中だから、\nフィールドも未完成なんだけどね。\n多々あるお見苦しい点は見ないふりをしてくれると助かるよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "How's your body feeling?\nCan you try moving around?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "体の具合はどうかな？\nちゃんと自由に動ける？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Oh, it seems like you're fine.\nI see, I see, that's great to hear.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "お、\n大丈夫そうだね。\nそっかそっか、\nそれはよかった。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ah, I'm sorry, but your body hasn't been fully modeled yet,\nso it looks like a blank doll...but it'll do for now.\nI'll ask Neneka about it next time, but she'll probably just say she's too busy.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あ、\n申し訳ないけど\nキミの体はまだモデリングできてない状態だから、\nのっぺりした人形みたいになっちゃってるけど……\nそれは\nおいおいね。\n今度似々花に言っとくよ。\n忙しいって断られそうだけど。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ahaha, thanks.\n...That wasn't sarcasm, was it?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あはは、\nありがと。\n……皮肉だったりしないよね？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Uhh, about this body, even though it's a test model, I overdid it with cramming my hobbies into it. Since it won't be officially implemented,\nit's something rare you're only gonna get to see here.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いや～\nこの体、\nテストモデルだから\nって\n趣味に走りすぎちゃったんだよね。\n正式実装はされないだろうから、\n今ここでしか見れないレアものだよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The game I've been playing with Chris recently was an FPS, so it ended up being based off that. Though since it doesn't really match the setting, there's a real \"unused asset\" feel to it.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "最近クリスとやってたゲームが\nFPSだったからさ、\nついそっちに似せちゃったんだよね～\n世界観あってないけど、\nこういうのも\n開発中っぽくて味がある、\nってね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Right then, now we've confirmed all operations are functional,\nyou can start helping me out with development.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そんじゃ、\nキミの動作確認も済んだことだし、\nさっそく\nアタシの開発を手伝ってもらうとしようか。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "What I'm in charge of is objects.\nHere, see those rocks over there?\nDesigning and placing objects like those is my job.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "アタシが今担当してるのはオブジェクト周り。\nほら、\nそこに岩があるのが見える？\nああいう物体を\n設計、\n配置したりするお仕事だね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Like this: Object Creation...there.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "こんな具合に──\nオブジェクト生成、\nってね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "So I'd like your help with that, but...it's your first day participating in development. In that case, let's first get you used to diving.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "それで\nキミに協力してほしいことなんだけど、\n……今日は\n初めての開発参加だしね。\nまずは\nダイブしての感覚に体を慣らそっか。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Try wandering around a bit, interact with the world however you'd like.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "適当にその辺を散歩でもして、\nこの世界に触れてみるといいよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "How does it feel? ...Soft?\nWow... even though I just slapped some grass textures on it, it still feels that way to you. Might be a sign that you have high sensitivity.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "どんな感じ？　\n……柔らかい？\nへぇ……\n草原のテクスチャを仮で貼り付けただけの状態なのに、\nそんなふうに感じられるのか。\n感受性が高い証拠かな。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The stats are a work in progress, so you probably can't crush rocks by punching them yet. Though the Professor would probably do so with ease.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "まだ\nステータス面は調整中だから、\nいきなりパンチで岩を砕いたりはできないかな。\n教授なら平気でやるんだろうけどね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I get it, I get it.\nYou see a tree, you wanna kick it.\nUnfortunately, there are no falling fruits or hostile insects implemented yet.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "分かる分かる。\n蹴ってみたくなるよね、\n木を見ると。\n残念だけど\n落ちてくる果実も\n襲ってくる虫も\nまだいないんだよね\nこれが。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "That aside, I want you to start moving your body a bit,\nand to tell me immediately when you start feeling tired.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あとはそうだね、\nある程度体を動かして、\n疲れなんかが感じ取れたらすぐに言ってほしい。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "That clear?\nDo not ignore any signals coming from your own body.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いいかい？\n自分自身から送られてくる情報を\nくれぐれも見逃しちゃダメだよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You're currently testing a connection method slightly different from what I'm using.\nThe semi-digitalization of the soul...I won't go into detail, but we still don't know what effect it will have on your real body.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "今のキミは\nアタシたちと少し違う接続方式を試してる最中だからね。\n魂の半デジタル化……\nなんて細かい説明は省くけど、\n現実にある体にどんな影響が出るかまだ分からない。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "To be honest, I wanted to do more technical research before moving to live tests... But the other Seven Crowns are thoroughly convinced that their genius is incapable of failure. \"Caution\" isn't a word you'll find in their dictionary.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "本当はもっと技術検証を重ねてから実験に移りたかったんだけど……\n他の七冠の連中は、\n天才に失敗はないって確信しきってるからね。\n慎重\nなんて言葉とは無縁なのさ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "......Ohh my bad, I'm not trying to say this research is dangerous.\nI consider myself a genius too.\nI assure you that you will never be in any danger.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……ああごめん、\nこの研究が危険って意味じゃないよ。\nアタシだって天才を自負はしてるからね。\nキミに危険が及ぶことは絶対にないと断言しよう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "By the way, are you okay?\nYour eyes have been darting around constantly as I was talking.\nDid this lady's story bore you that much?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ところで\n大丈夫？\nアタシが話してる間ずっとあっちこっち見まわしてるけど。\nもしかしてお姉さんの話\nつまんない？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "......Well, I suppose it's natural to be fascinated by this world.\nAs a developer, it makes me happy to see that sort of reaction.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……まぁ、\nこの世界が興味深いのも当然か。\nそういう反応をしてくれると、\n開発者としては喜ばしいね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Hm... Let's stop for now then.\nI'm sure you're dying for more, but let's log out.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ん……\nちょっと一旦止めようか。\n興味は尽きないだろうけど、\nログアウトしよう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You haven't done anything yet?\nDon't worry, just being able to confirm your login today is enough.\nI want to err on the side of caution as much as I can.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "まだ何もしてないって？\n気にすることはないよ。\n今日はログインの確認ができただけで十分。\nアタシとしては、\nできる限り\n慎重に進めたいんだよね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "So with that being said, I'm logging us out from here.\n...Just in case, I should also implement a forced logout system.\nBetter safe than sorry.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "というわけで、\nこっちからログアウトさせてもらいまーす。\n……念のため、\n強制ログアウトシステムも実装すべきだね。\n念には念を、\nってね。"
+    },
+    {
+      "name": "Akira",
+      "text": "Alright, good work~\nSorry for the rush, but I'll be performing a medical check now.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "はい、\nお疲れさま～\n慌ただしくて悪いね、\nまずはメディカルチェックさせてもらうよ。"
+    },
+    {
+      "name": "Akira",
+      "text": "Breathing, pulse...normal.\nValues unchanged from before login.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "呼吸、\n脈拍……\n正常。\nログイン前と数値は変わってない。"
+    },
+    {
+      "name": "Akira",
+      "text": "Changes to physical condition in-game aren't reflected on your real body.\n...This connection system is impressive.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ゲーム内での体調変化は現実の体に反映されない。\n……大したもんだね、\nこの接続システム。"
+    },
+    {
+      "name": "Akira",
+      "text": "But...you were only moving around.\nIf you had a more intense experience, like taking fatal damage...",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ただ……\nまだ体を動かした程度。\nもっとディープな体験、\n例えば\n致命的なダメージを受けると……"
+    },
+    {
+      "name": "Akira",
+      "text": "......What would happen?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "……どうなる？"
+    },
+    {
+      "name": "Akira",
+      "text": "Oops, my bad, my bad.\nI left you in the dark.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "おっと、\nごめんごめん。\nキミを置いてけぼりにしちゃってたね。"
+    },
+    {
+      "name": "Akira",
+      "text": "Currently, there's no noticeable effect on your body.\nThe dizzy feeling you had was limited to that world.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "とりあえず、\nキミの体に影響はなかった。\n『目が回った感覚』は\nあの世界だけのものってことだね。"
+    },
+    {
+      "name": "Akira",
+      "text": "From now on, we'll continue like this, combining activity inside the game with medical checks outside of it.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "これからもこんな感じで、\nゲーム内での活動と、\nメディカルチェックを綿密に繰り返していくことになるから。"
+    },
+    {
+      "name": "Akira",
+      "text": "Suffering from playing the game would be counterproductive to say the least.\nEspecially with this game's selling point being the realism,\neven a 0.1% impact on your real body would be too much.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ゲームをやって体を壊したりするのは本末転倒だからね。\n特にこのゲームはリアリティが売りだから、\n現実の体に与える影響なんて\n0.1％ですらあっちゃいけない。"
+    },
+    {
+      "name": "Akira",
+      "text": "Well, that's enough for today.\nIs there anything you'd like to ask me?\nI'm not good at explaining things, so I can't guarantee satisfying answers.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "とまぁ\nそんなところで、\n今日はここまでにしておこっか。\nなんか聞いておきたいこととかある？\nアタシ説明下手だから、\n上手く答えてあげられるかは分かんないけど。"
+    },
+    {
+      "name": "Akira",
+      "text": "......That's another unexpected question.\nMaybe you're curious about me?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "……こりゃまた不意をつく質問だね。\nもしかして\nアタシに興味津々？"
+    },
+    {
+      "name": "Akira",
+      "text": "Hm~, the other Seven Crowns are away at the moment,\nso I suppose a little chat wouldn't hurt.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ん～、\n今は他の七冠も席を外してるし、\nちょっとした雑談くらいはいいか。"
+    },
+    {
+      "name": "Akira",
+      "text": "It's not like I'm actively hiding it, it's just embarrassing is all.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "別に隠してるわけじゃないけど、\n照れくさいからね。"
+    },
+    {
+      "name": "Akira",
+      "text": "You know... I used to really hate people.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "アタシさ……\n人間が大嫌いだったんだよね。"
+    },
+    {
+      "name": "Akira",
+      "text": "Thinking back now, it was an incredibly arrogant and self-centered way of thinking, but a while ago, I couldn't see value in anyone but myself.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "今思うと\n我ながらとんでもなく傲慢で自意識過剰な考え方なんだけどさ、\n少し前のアタシは、\n自分以外の全てに\n価値を見出せなかったんだ。"
+    },
+    {
+      "name": "Akira",
+      "text": "I admired my father, who was a doctor, so I also tried to study medicine... But I had nowhere to put my knowledge to use.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "医師だった父への憧れとかもあって、\n医術を学んだりもしたんだけどさ……\nアタシは、\nそれを当たり前に活かすことができなかった。"
+    },
+    {
+      "name": "Akira",
+      "text": "I thought I knew everything about everyone.\nSeeing nothing but malice and ignoring all goodwill,\nI was about to give up on the world.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "人間\nってものを\n理解したつもりになってた。\n善意を見ずに悪意ばかりを見て、\n世の中に見切りをつけようとしていたんだね。"
+    },
+    {
+      "name": "Akira",
+      "text": "Having been to various places on this planet, and seeing it all with my own eyes, that being the answer I arrived at is embarrassing to say the least.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "地球上のいろんな場所を巡って、\n自分の目で見てきた末にそんな答えにたどり着くんだから、\nなんともお恥ずかしい話さ。"
+    },
+    {
+      "name": "Akira",
+      "text": "But... those juvenile, self-centered values I held then...\nThey were all blown away when I met a certain boy.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "だけど、\nそんな若気の至り全開なアタシの価値観が、\nとある少年との出会いによって粉々にぶち壊された。"
+    },
+    {
+      "name": "Akira",
+      "text": "Oh, this isn't a love story or anything.\nI doubt he even remembers me.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "あっ、\n色気のある話じゃあないよ？\n多分向こうはアタシのことなんて覚えてないしね。"
+    },
+    {
+      "name": "Akira",
+      "text": "But, yeah.\nHe changed my perspective.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "だけど、\nそうだね。\n彼はアタシの価値観を変えた。"
+    },
+    {
+      "name": "Akira",
+      "text": "To my genius mind that was capable of seeing nothing but darkness, it felt like he had hit me over the head with the sun.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "天才をこじらせて影ばかり見ようとしていたアタシに、\n正面から太陽をぶつけてきた、\nって感じかな。"
+    },
+    {
+      "name": "Akira",
+      "text": "Thanks to him, I've changed.\nI was able to change.\nTo me, it was the greatest salvation.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "おかげでアタシは……\n変わった。\n変われたんだ。\nアタシにとって、\n何よりの救いだったよ。"
+    },
+    {
+      "name": "Akira",
+      "text": "I wanted to do things for others.\nI decided to start by doing everything I could.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "誰かのためになることをしたいと思った。\nできることから始めようと思った。"
+    },
+    {
+      "name": "Akira",
+      "text": "At first, I wanted to make people smile.\nTo bring a smile to another person's face, just like that boy did.\nI resolved to create something that would bring joy to many.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "まずは笑顔にしたいと思った。\nあの少年のように、\n誰かを\n笑顔に。\nたくさんの人が笑って、\n楽しめる何かを作ろう\nって決めたのさ。"
+    },
+    {
+      "name": "Akira",
+      "text": "From there, well, I accepted the long-standing invitation from the Elder,\nand that's how I'm standing here today.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そこからは\nまぁ、\n前から誘われてた長老のお誘いに乗って、\n今に至る……\nってね。"
+    },
+    {
+      "name": "Akira",
+      "text": "Yeah. I'm glad.\nI can say I like who I am now.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "うん。\nよかった。\nアタシは\n今のアタシが好きだって言える。"
+    },
+    {
+      "name": "Akira",
+      "text": "Once we finish this game, my wish will come true.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "今作ってるこのゲームが完成すれば、\nアタシの願いが叶えられるはずなんだ。"
+    },
+    {
+      "name": "Akira",
+      "text": "That's why... I want your cooperation.\nI might cause you troubles and inconveniences, but I need your help all the same.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "だから……\nキミにも、\n協力してほしい。\n苦労や迷惑をかけてしまうかもしれないけど、\nキミの力が必要なんだ。"
+    },
+    {
+      "name": "Akira",
+      "text": "──To complete the game that can save people's hearts.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "──人の心を救うゲームを\n完成させるために。"
+    },
+    {
+      "name": "Narration",
+      "text": "One of the Seven Crowns: Queen Labyrinth.\nAkira Mosakuji conveys the feelings she held deep within her heart.\nAll to share the light she once saw in another.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "七冠──\n迷宮女王。\n模索路晶は自身の胸に秘めた想いを口にする。\nかつて自身が見た光を、\n他の誰かにも分け与えるために。"
+    },
+    {
+      "name": "Mana",
+      "text": "──Hand over the work report.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "──作業報告を渡しなさい。"
+    },
+    {
+      "name": "Akira",
+      "text": "Oh? That's odd, Mana.\nIt's not like you to come see me in person.\nYou usually just leave that to the staff.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "あれ？　\n珍しいね真那。\nアンタがアタシんとこに直々に足を運んでくるなんて。\nいつもは適当な職員に任せっきりなのに。"
+    },
+    {
+      "name": "Mana",
+      "text": "Are you half-asleep?\nInformation regarding the test subject is top secret.\nThis is not something to trust random people with.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "寝ぼけているのかしら。\n実験体に関する情報は最重要機密。\n適当な輩に共有できるわけがないでしょう。"
+    },
+    {
+      "name": "Akira",
+      "text": "Fair enough.\nHere, the most recent sync data.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ごもっとも。\nはいこれ、\n最新の同期情報。"
+    },
+    {
+      "name": "Mana",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Mana",
+      "text": "Is this... genuine?",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "これは\n事実なのね？"
+    },
+    {
+      "name": "Akira",
+      "text": "You saying I'd write lies?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "アタシが嘘を書くとでも？"
+    },
+    {
+      "name": "Mana",
+      "text": "Yes.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "ええ。"
+    },
+    {
+      "name": "Akira",
+      "text": "Am I really that untrustworthy?!\nWhat would I have to gain from lying, anyway?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "アタシ信用なさすぎない！？\nそもそも嘘なんて書いてどうするってのさ。"
+    },
+    {
+      "name": "Mana",
+      "text": "There is not a shred of logic in anything you do.\nIt's this incomprehensibility that makes you the Queen Labyrinth.\n...Either way, there seem to be no inconsistencies in this data.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "あなたの行動に道理なんてないでしょう。\n理解不能であるからこそ\nあなたは迷宮女王なのだから。\n……まぁでも、\nこの情報に嘘はないようね。"
+    },
+    {
+      "name": "Mana",
+      "text": "The avatar synchronization rate is astounding.\nThe standard dive function of Mimi could never yield numbers like these.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "アバターとの同期率がすさまじいわ。\n『mimi』のダイブ機能を使っただけでは\nここまでの数値は出せない。"
+    },
+    {
+      "name": "Akira",
+      "text": "It's definitely impressive, she was even able to feel the texture of objects. It'd be a great help to have someone that can inform us of things we aren't able to perceive.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "すごいよね、\nオブジェクトの質感まで感じ取ってたよ。\nアタシたちじゃ感じ取れない部分を教えてくれるのはほんと助かる。"
+    },
+    {
+      "name": "Mana",
+      "text": "I see... that's interesting.\nI'm curious to see the effect it has on her real body, especially with a lethal dose of pain.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "なるほど……\n興味深いわね。\n現実の体に与える影響、\nとりわけ致死量の痛みなんてものを味わったら、\nどうなってしまうのかしら。"
+    },
+    {
+      "name": "Akira",
+      "text": "Mana...data like that is none of your concern.\nThat's under the jurisdiction of me and the Elder.\nAnd even then, the purpose of our research is to mitigate such sensations.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "真那……\nそれはアンタの担当じゃないだろ。\nアタシや\n長老の管轄だ。\nそしてそんな感覚を与えないために研究するんだ。"
+    },
+    {
+      "name": "Mana",
+      "text": "Oh, what a shame.\nAre you certain you don't need my assistance? Hehe.\nThe least you could do is to let me take care of the guinea pig.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "あら、\n残念。\nなんなら手伝ってあげましょうか？　\nフフッ。\nモルモットのお世話くらい、\n任せてくれてもいいじゃない。"
+    },
+    {
+      "name": "Akira",
+      "text": "You seem to be enjoying yourself quite a bit, Mana.\nAm I that lovely of a conversation partner?\nHow about we go out for lunch then, my treat?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "随分と楽しそうじゃないか真那。\nアタシとお話しできるのがそんなに楽しい？\nなんなら仲良くランチにでも行く？　\n奢るよ？"
+    },
+    {
+      "name": "Mana",
+      "text": "......I'd rather not share a table with others.",
+      "choice_data_list": [],
+      "orig_name": "真那",
+      "orig_text": "……他人と食卓を囲むなんて御免被るわ。"
+    },
+    {
+      "name": "Akira",
+      "text": "Well I guess that's that then.\nI've given you what you need, so hurry up and leave.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "んじゃお話はここまでかな。\n渡すものは渡したし、\nさっさと行きなよ。"
+    },
+    {
+      "name": "Akira & Mana",
+      "text": "[......Man, what a pain.]\n[......Truly, what an insolent child.]",
+      "choice_data_list": [],
+      "orig_name": "晶・真那",
+      "orig_text": "「……ほんと、めんどくさいヤツ。」\n「……ほんと、生意気な子。」"
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "title": "Straight for the Vault",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After safely obtaining the key to the vault and defeating the Casino King's bodyguard, Ayumi and the rest of the phantom thieves were finally heading for the vault.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "無事に金庫室の鍵を手に入れ、\nカジノ王の用心棒も倒したアユミたち怪盗団一行は、\nいよいよ、金庫室へと向かおうとしていた。"
+    },
+    {
+      "name": "Casino Staff",
+      "text": "The Phantom Cat is on her way to the vault! Don't let her get there!",
+      "choice_data_list": [],
+      "orig_name": "カジノスタッフ",
+      "orig_text": "ファントムキャッツは金庫室へと向かってる！\n絶対に辿りつかせるな！"
+    },
+    {
+      "name": "Inori",
+      "text": "On the other side of this room, the guards seem to be in a mess because of the Phantom Cat.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "この部屋の向こうじゃ、\n警備どもがファントムキャッツのせいで\nしっちゃかめっちゃかになってるみたいですね。"
+    },
+    {
+      "name": "Inori",
+      "text": "Still, that Phantom Cat is surprisingly stupid. We have the key! She can't steal anything from that vault!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "にしても。\nファントムキャッツってのも、\n案外マヌケですね。\n鍵はあたしたちが持ってんです！\n金庫室の中の物なんて、\n盗めっこないですよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Maybe it's best not to underestimate her~? I mean, it's that Phantom Cat, you know? I'm sure she'll do something about it~☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あんまり舐めない方がいいんじゃないかな～？\nだって、\nあのファントムキャッツだよ？\n必ず、\nなんとかしてみせると思うな～☆"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmph! You're the one overestimating her, Boss!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はんっ。\nボスはヤツのこと、\n買いかぶりすぎですよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe. I'm sure you'll understand the greatness of the Phantom Cat later♪ By the way, you should be careful~ It seems like there's some security guards heading towards that room☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ。\n後できっと、\nファントムキャッツのすごさは分かるよ♪\nところで、\n注意した方がいいよ～？\nその部屋に向かってる警備員がいるみたい☆"
+    },
+    {
+      "name": "Inori",
+      "text": "Wha...! Hurry up and say it earlier then?! I-Is there a place to hide?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なっ、\n早く言うですよそういうことは！？\nか、\n隠れる場所は……！？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "No good, there's no such place anywhere...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ダメ、\nどこにもそんな場所ないよ……！？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Huh?! EEEHHHHHH?! S-Senpai?! WH-WH-WHY ARE YOU HUGGING ME?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えっ！？　\nえええっ！？　\nせ、\n先輩っ！？\nどどど、\nどうして私を抱き寄せるんですか！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "You're right! The thing the Boss prepared for us! If we use the wire gun and climb onto that chandelier, the guards won't notice us!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そうか、\nボスの用意してくれたアレがあったな！\nワイヤーガンを使って、\nあのシャンデリアの上に乗れば、\n警備にバレずに済む！"
+    },
+    {
+      "name": "Inori",
+      "text": "You're sharp, Onii-san! Let's go, then!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "冴えてるですよ、\nお兄さん！\nじゃあ、\n行くですよ！"
+    },
+    {
+      "name": "アユミ",
+      "text": "せ、\n先輩に抱き寄せられるなんて……\n人生でそんなことが起こるなんて、\n思ってもなかった……！　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "せ、\n先輩に抱き寄せられるなんて……\n人生でそんなことが起こるなんて、\n思ってもなかった……！　"
+    },
+    {
+      "name": "アユミ",
+      "text": "先輩がすぐ側にいる……！\nち、\n近過ぎて、\n心臓がバクバクする……！　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "先輩がすぐ側にいる……！\nち、\n近過ぎて、\n心臓がバクバクする……！　"
+    },
+    {
+      "name": "アユミ",
+      "text": "あう……\nう、\nうれしいけど……\nそれと同じくらい、\n恥ずかしいよう……！　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あう……\nう、\nうれしいけど……\nそれと同じくらい、\n恥ずかしいよう……！　"
+    },
+    {
+      "name": "Inori",
+      "text": "Here's the security...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……警備が来たですよ！"
+    },
+    {
+      "name": "Security 1",
+      "text": "That damn Phantom Cat... Where did she go? ...Hm? Is that... Master Gino's bodyguard?!",
+      "choice_data_list": [],
+      "orig_name": "警備員１",
+      "orig_text": "……ファントムキャッツめ。\nどこへ行った？\n……むっ？　\nそこに倒れているのは……\n……ジーノ様の用心棒！？"
+    },
+    {
+      "name": "Guard 2",
+      "text": "Is this the work of the Phantom Cat...?! I didn't think this man could ever lose... Hey, let's go report this!",
+      "choice_data_list": [],
+      "orig_name": "警備員２",
+      "orig_text": "ファントムキャッツの仕業か……！？\nまさか、\nこの人が負けるなんてな……\nおい、\n報告に行くぞ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Looks like they're gone.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……\nどうやら、\n行ったみたいだな。"
+    },
+    {
+      "name": "アユミ",
+      "text": "あ、\nあのっ……\n先輩、\n助かりました……\n私、\nワイヤーガンなんて使ったことなかったから……\n私一人だと、\n多分、\nシャンデリアに隠れるなんてできませんでした……",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あ、\nあのっ……\n先輩、\n助かりました……\n私、\nワイヤーガンなんて使ったことなかったから……\n私一人だと、\n多分、\nシャンデリアに隠れるなんてできませんでした……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Wait... Ah! I don't stand out in the first place, so maybe I didn't have to climb the chandelier to get caught...?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……って、\nあっ。\n私、\nそもそも、\n目立たないから、\n別にシャンデリアに登らなくてもバレなかったかも……？"
+    },
+    {
+      "name": "アユミ",
+      "text": "い、\nいえ！　\nそんなこと、\n絶対にありませんっ！\n一生の思い出、\nありがとうございましたっ！\nもう、\n私、\n死んだって悔いはありませんっ！",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "い、\nいえ！　\nそんなこと、\n絶対にありませんっ！\n一生の思い出、\nありがとうございましたっ！\nもう、\n私、\n死んだって悔いはありませんっ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...Wh-What am I even saying......!? Umm... For now, let's go down...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……わ、\n私、\n何言ってるんだろ……！？\nえっと……ひとまず、\n下りましょう……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Now then... we've made it through here safely, so let's head for the vault again.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "さて、\nと……\n無事にやり過ごしたことだし、\n改めて、\n金庫室へ向かうとするか。"
+    },
+    {
+      "name": "Inori",
+      "text": "...By the way, AyuAyu. Your face is bright red. Are you okay?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……ところで、\nアユアユ。\n顔、\n真っ赤ですよ？　\n大丈夫ですか？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "No... This might not work... B-But this isn't the time to be saying that...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ううん……\nダメかもしれない……\n……な、\nなんて、\n言ってる場合じゃないよね……！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I'll take the lead now...! Everyone, follow me!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "私が先行して進むね……！\nみんなは、\n後をついてきて！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...Wh-What is this scene...!?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……な、\nなんなの、\nこれ……！？"
+    },
+    {
+      "name": "Guards",
+      "text": "Mfff, mfff...!?",
+      "choice_data_list": [],
+      "orig_name": "警備員たち",
+      "orig_text": "むぐぐぐぐっ……！？"
+    },
+    {
+      "name": "Inori",
+      "text": "The guards are tied up so they can't move...! There's also a cloth stuffed into their mouths, so they won't be able to talk...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "警備員の野郎たちが縛られて、\n動けないようにされてるですよ……！？\n口には布が押し込まれて、\n喋れないようになってますし……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Looks like the Phantom Cat was behind this.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "どうやら、\nファントムキャッツの仕業みたいだな。"
+    },
+    {
+      "name": "Inori",
+      "text": "She did all of this by herself...? C-Certainly... I can see she's a little skilled now. Of course, nowhere near as good as me!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "たった一人で、\nこんなことができるですか……\nた、\n確かに？　\nちょっとは腕が立つみたいですね？\n当然、\nあたしには遠く及ばねえですけど！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Thanks to the Phantom Cat, we might have been saved... This was the most heavily guarded area...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ファントムキャッツさんのおかげで、\n助かったかも……\nここが一番、\n警備が厳しいところだったから……！"
+    },
+    {
+      "name": "Inori",
+      "text": "We're so lucky! Well then, let's move on...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ラッキーですね、\nそれは！\nじゃあ、\n先に進むとするです……"
+    },
+    {
+      "name": "Guard 3",
+      "text": "Mm...?! You bastards! Are you intruders?!",
+      "choice_data_list": [],
+      "orig_name": "警備員３",
+      "orig_text": "むっ……！？　\n貴様ら、\n侵入者か！？"
+    },
+    {
+      "name": "アユミ",
+      "text": "そんな……！？　\n新しい警備員が来るなんて……！？　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "そんな……！？　\n新しい警備員が来るなんて……！？　"
+    },
+    {
+      "name": "Inori",
+      "text": "...There's no need to worry, AyuAyu! We'll work together and figure something out! I'll buy you some time...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……心配いらないですよ、\nアユアユ！\nここは協力して、\nなんとかするです！\nあたしが時間を稼ぐですよ……！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Y-Yeah...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "う、\nうん……！"
+    },
+    {
+      "name": "Guard 3",
+      "text": "Don't move, you bastards! Are you the Phantom Cat's comrades...?! I'll throw you in jail right away...",
+      "choice_data_list": [],
+      "orig_name": "警備員３",
+      "orig_text": "貴様ら、\n動くな！\nファントムキャッツの仲間か……！？\nすぐに、\n牢屋にぶち込んで……"
+    },
+    {
+      "name": "Inori",
+      "text": "Haha, so you haven't heard anything?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ははーんっ、\nさては何も聞いてないみたいですね？"
+    },
+    {
+      "name": "Inori",
+      "text": "This whole commotion is that bastard Homare's doing! I've had enough of that old hag dragon! That's why we decided to betray her!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "この騒動は全部、\nホマレのやつの仕業です！\nあのクソババアドラゴンには、\nほとほと愛想が尽きたですよ！\nだから、\nあたしたちは裏切ってやることにしたんです！"
+    },
+    {
+      "name": "Inori",
+      "text": "In other words, we're your friends here!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ようするに、\nあたしたちは\nおまえたちの仲間、\nってことです！"
+    },
+    {
+      "name": "Inori",
+      "text": "That Homare... tricking the Phantom Cat by sending a calling card using her name... What a joke! We'll definitely catch her!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ホマレのやつ、\nファントムキャッツの名を騙って、\n予告状を出すとは……\nナマイキですよ！\n必ずあたしたちで捕まえてやるです！"
+    },
+    {
+      "name": "Guard 3",
+      "text": "Huh... N-No, that's still strange! You really are intrude--...",
+      "choice_data_list": [],
+      "orig_name": "警備員３",
+      "orig_text": "……いや、\nおかしいだろう！\nやはり、\n貴様らは侵入者……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...I-I'M SORRY!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……ご、\nごめんなさいっ！"
+    },
+    {
+      "name": "Guard 3",
+      "text": "Mgh...!?",
+      "choice_data_list": [],
+      "orig_name": "警備員３",
+      "orig_text": "むぐっ……！？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Phew... Thanks to the equipment Homare-san prepared for me, we're saved... This handkerchief soaked in sleeping pills seems very handy...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ふうっ……\nホマレさんの用意してくれた装備のおかげで、\n助かった……\nこの、\n睡眠薬のしみ込んだハンカチって便利かも……？"
+    },
+    {
+      "name": "Inori",
+      "text": "Nice going, AyuAyu! And I did a good job buying time!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ナイスですよ、\nアユアユ！\nそれに、\n時間稼ぎをしてのけたあたしもいい仕事してたです！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Well done, you two. You saved us all. ...Then let's move on.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "二人とも、\nよくやったな。\n助かったぜ。\n……じゃあ、\n先に進もうか。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The vault should be up ahead, but... Yesterday Homare-san told me to be careful right here because there's a trap ahead!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "この先が金庫室のはずだけど……\n昨日はここで、\nホマレさんに、\n罠があるから気をつけて、\nって言われたんだっけ。"
+    },
+    {
+      "name": "Homare",
+      "text": "Yahoo☆Old hag dragon hereee!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ヤッホー☆\nクソババアドラゴンだよ～？"
+    },
+    {
+      "name": "Inori",
+      "text": "Geh?! Boss?! C-Could it be... you overheard that conversation just now...?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "げえっ、\nボス！？\nも、\nもしかして、\nさっきの会話、\n聞いてたですか……！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "I feel a lot of pressure coming from her voice... Make sure to apologize to her later, Inori...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "めちゃくちゃな圧を感じるぜ……\n……後でちゃんと謝っとけよ、\nイノリ？"
+    },
+    {
+      "name": "Inori",
+      "text": "T-This time feels worse than usual... I'll get down on my hands and knees or something if I have to...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ほ、\n本気でヤバそうですからね……\n土下座でもなんでもしてやりますよ……！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Umm... So, Homare-san, what kind of trap is ahead of us...?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えっと……\nそれで、\nホマレさん。\n一体、\nどんな罠があるんですか……？"
+    },
+    {
+      "name": "Homare",
+      "text": "Mm... Actually, there are magical sensors spread all over the place. If you touch one of them, an alarm will go off!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "うん。\n実はね、\nその先には魔術センサーが張り巡らされててね。\nそのセンサーに触れると警報が鳴っちゃうの。"
+    },
+    {
+      "name": "Inori",
+      "text": "...I can't see anything?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……何も見えないですけど？"
+    },
+    {
+      "name": "Homare",
+      "text": "No wonder. It's something that can't be seen with the naked eye. Unless you use a special magic item or something.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "だろうね。\nそれは肉眼では見えないものなの。\n特別なマジックアイテムを使ったりとかすれば別だけど。"
+    },
+    {
+      "name": "Homare",
+      "text": "Looks like the Phantom Cat had the proper equipment ready. That's why she was able to break through here♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ファントムキャッツは、\n装備をちゃんと用意してたみたい。\nだから、\nここを突破できたんだよ♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Wh-What are we supposed to do about that then?! We don't have any equipment like that!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そ、\nそんなのどうすりゃいいですか！？\nあたしたちは、\nそんな装備ないですよ！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Don't worry♪ I'll be able to check those sensors for you using my \"Dragon's Eye\"☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "大丈夫♪　\n龍眼で、\nちゃーんとセンサーは確認できるから☆"
+    },
+    {
+      "name": "Homare",
+      "text": "There's a switch on the device just past that point that can turn off the sensors.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そこを抜けたところにある装置のスイッチで、\nそのセンサーはオフにできるの。"
+    },
+    {
+      "name": "Homare",
+      "text": "So if one representative follows my instructions and gets through the sensors, everyone will be able to pass through there♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "だから代表者が一人、\n私の指示通りに動いて、\nセンサーを抜ければ、\nみんな、\nそこを通れるようになるよ♪"
+    },
+    {
+      "name": "Kaya",
+      "text": "I see. In that case, I'll be...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "なるほどな。\nなら、\nここはオレが……"
+    },
+    {
+      "name": "Inori",
+      "text": "Wait just a minute, Kayapii!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ちょっと待つですよ、\nカヤぴぃ！"
+    },
+    {
+      "name": "Inori",
+      "text": "The damage you got from the recent battle must be quite serious. ...You're staggering, so it's obvious right away.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "さっきの戦いのダメージ、\nかなりデカいですよね。\n……ふらついてるから、\nすぐに分かるですよ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "It's not that big of a deal...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "こんなの大したことじゃ……"
+    },
+    {
+      "name": "Inori",
+      "text": "No! You're staying put, Kayapii! ...I'll take care of this! ...Or do you not trust me?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "いいや！　\n引っ込んでるですよ、\nカヤぴぃ！\n……ここは、\nあたしが行くです！\n……それとも、\n信用できないですか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "...No. I'll leave it to you, Inori.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……\nいいや。\n任せたぜ、\nイノリ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Of course you would! This is going to be a piece of cake! ...Boss, give me instructions!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "おうともですよ！　\nこんなの、\n楽勝です！\n……ボス、\n指示を頼むですよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Understood~♪ Let's get started, okay?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "了解～♪　\nじゃあ、\n始めるよ～？"
+    },
+    {
+      "name": "Inori",
+      "text": "G-Grrrr...! Next up is... like this, isn't it...!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぐ、\nぐぐぐ……！\nここは、\nこう……\nですね……！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Right, right♪ ...Ah.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そうそう♪　\n……あっ。"
+    },
+    {
+      "name": "イノリ",
+      "text": "あっ、\nってなんですか、\nて！？\nなんなんですか！？　\nセンサーに触れちまったですか！？",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "あっ、\nってなんですか、\nて！？\nなんなんですか！？　\nセンサーに触れちまったですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "No, it's just that, at this point, if you were a head's taller you would've touched it~☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ううん、\nただ、\n今のとこ、\nもう少しで頭が引っ掛かりそうだったな～\nって☆"
+    },
+    {
+      "name": "Inori",
+      "text": "DON'T SAY SUCH MISLEADING THINGS! I'M DESPERATE HERE, YOU KNOW!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "紛らわしいこと言ってんじゃないですよ！？\nこっちは必死なんですよ！？"
+    },
+    {
+      "name": "Homare",
+      "text": "It's a good thing you're short, Inori-chan ♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "身長が低くて助かったね、\nイノリちゃん♪"
+    },
+    {
+      "name": "Inori",
+      "text": "SHUT IT, YOU SHITTY BOSS HAG! I'm still growing, so I'll even outdo your old body eventually!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "やかましいですよ、\nクソバカ年増ボス！？\nあたしは成長期だから、\nそのうちボスだって抜いてやるですよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Or rather, hurry up and give me your next instructions...! This position is hard to maintain...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "っていうか、\n早く次の指示を出すですよ……！？\nこの体勢、\nキツいです……！"
+    },
+    {
+      "name": "Inori",
+      "text": "Haah, haah... That was really tough...! B-But I managed to surpass it...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はぁっ、\nはぁっ……\nすさまじくしんどかったですよ……！\nけ、\nけど、\nなんとか超えたです……！"
+    },
+    {
+      "name": "Inori",
+      "text": "Umm, if I tamper with this device... I'll be able to turn off the sensors, right? ...Like this?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ええと、\nこの装置をイジれば、\nセンサーはオフにできるですね？\n……こうですかね？"
+    },
+    {
+      "name": "Homare",
+      "text": "Yeah, it looks like the sensors have been turned off♪ Everyone, it's okay to cross☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "うん、\nちゃんとセンサーは解除されたみたい♪\nみんな、\n渡って大丈夫だよ☆"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Inori-chan...! You looked like a phantom thief just now! So cool...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "イノリちゃん……！\n今の、\n怪盗っぽかったよ……！\nすごくカッコよかった……！"
+    },
+    {
+      "name": "Inori",
+      "text": "R-Really? Ehehe! You have a good eye for those things, AyuAyu! Yes, the Great Phantom Thief Inori... that's ME!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そ、\nそうですか？\nふふーん！　\nアユアユは見る目があるですね！\nそう、\n大怪盗イノリ様とは、\nあたしのことですよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "More importantly... This is the vault, right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "それより……\nこの先が金庫室なんだよな。"
+    },
+    {
+      "name": "Homare",
+      "text": "That's right. Have a great trip inside, everyone♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そうだよ。\n行ってらっしゃい、\nみんな♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Wha... WHAT THE HELL IS THIS?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……な、\nなんじゃこりゃー！？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The door to the vault... is open?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "金庫室の扉が……\n開いている！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "So this is the work of the Phantom Cat too...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……これもファントムキャッツの仕業か。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "That can't be... the key is right here, so how...!?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "そんな……\n鍵はここにあるのに、\nどうやって……！？"
+    },
+    {
+      "name": "Homare",
+      "text": "I saw it with my \"Dragon's Eye\", and it was truly a miracle~☆ Even in the vast world, the only one who could break down this door using technology can only be the Phantom Cat♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "龍眼で見てたけど、\nまさに神業だったよ～☆\n技術でこの扉を破れるのは、\n世界広しと言えども、\nファントムキャッツくらいだろうね～♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Is this Phantom Cat some kind of monster?! ...Or rather, if she could unlock the door, then we never needed the key AyuAyu got, did we?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "とんだ化物じゃねえですか、\nファントムキャッツ！？\n……っていうか、\nファントムキャッツが鍵を開けられるのなら、\nアユアユが手に入れた鍵、\n必要ないじゃねえですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "That's not true~ That key also serves as the key to the sturdy cupboard where each treasure is stored.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そんなことないよ～？\nその鍵は、\nそれぞれのお宝を収蔵している、\n堅牢な戸棚の鍵にもなっているの。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "In other words... in order to obtain the \"Dragon Egg\" and the secret ledger, we needed this key... is that what you're saying?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "つまり……\n『龍の卵』や、\n裏帳簿を手に入れるためには、\nこの鍵が必要……\nってことですか？"
+    },
+    {
+      "name": "Homare",
+      "text": "That's how it was supposed to be♪ But well, it seems the Phantom Cat also managed to open the cupboard without the key and get the \"Mermaid's Tear\".",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "本来はそういうことになるね♪\nまあ、\nファントムキャッツは、\n鍵なしで戸棚の方も開けて\n『人魚の涙』を手に入れたみたいだけど。"
+    },
+    {
+      "name": "Homare",
+      "text": "Putting that aside... Let's act like phantom thieves would and take the treasure♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それはともかく……\n怪盗らしく、\nお宝をいただこうか♪"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Let's see... Where's the secret ledger...? ...Ah, I-Is this it...?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ええと……\n裏帳簿はどこに……\n……あ、\nこ、\nこれかな……！？"
+    },
+    {
+      "name": "Inori",
+      "text": "We also found the \"Dragon Egg\"! With this it's mission complete!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "『龍の卵』も見つけたですよ！\nこれで、\nミッションコンプリートです！"
+    },
+    {
+      "name": "Inori",
+      "text": "Hehehe...! That was a piece of cake! But this isn't near enough! There are plenty of other treasures here, and if I were to take all of them...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふっふっふ……！　\n楽勝でしたね！\nでも、\nこれだけじゃ足りないですよ！\n他にもお宝はわんさかあるんです、\nそれも全部いただくと……"
+    },
+    {
+      "name": "Homare",
+      "text": "...Unfortunately, I don't think you have the time for that.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……残念だけど、\nそのヒマはなさそうかな～？"
+    },
+    {
+      "name": "Inori",
+      "text": "Wh-What is this alarm?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "な、\nなんですか、\nこの警報はっ！？"
+    },
+    {
+      "name": "Homare",
+      "text": "What a blunder♪ It seems like there was a magical alarm set up on that \"Dragon Egg\"☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "たいへ～ん♪\nその『龍の卵』には、\n魔術的な警報が仕掛けられてたみたい☆"
+    },
+    {
+      "name": "Inori",
+      "text": "Boss, you bastard...! You definitely knew about this alarm and didn't say anything! Are you really trying to put me in a pinch that badly?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ボスのやつ……！\n絶対、\nこの警報の事知りつつ黙ってやがったですよ！？\nそんなにあたしのことをピンチに追い詰めてえんですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe, I wonder...? Think of this as a chance for growth and do your best, Inori-chan, everyone♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ、\nどうかな～？\nこれは成長のチャンスだと思って\n頑張ってね、\nイノリちゃん、\nみんな♪"
+    },
+    {
+      "name": "Inori",
+      "text": "THAT HAG really is a shitty psychodragon isn't she?! A-Anyway, let's take the \"Dragon Egg\" and the secret ledger and run away, everyone!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "やっぱりクソサイコドラゴンですよ、\nあのババア！？\nと、\nとにかく、\n『龍の卵』と裏帳簿を持って逃げるですよ、\nみんな！"
+    },
+    {
+      "name": "Inori",
+      "text": "For the time being, I was holding the \"Dragon Egg\", but... Kayapii! Can I leave this in your hands?! I feel like the strongest one here should have it!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ひとまず今は『龍の卵』はあたしが持ってるですけど……\nカヤぴぃ！　\nこれ、\n預けてもいいですか！？\nこの中で一番強いカヤぴぃが持ってる方が良さそうですよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Yeah, got it...! Leave it to me!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ああ、\n分かった……！　\n任せときな！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I hope we can get away before anyone notices...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "誰にも気付かれる前に、\n逃げられるといいですけど……"
+    },
+    {
+      "name": "Inori",
+      "text": "The exit is right in front of us! Wait... NHAAAA?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "出口はもう、\n目の前です！\n……って、\nなあっ！？"
+    },
+    {
+      "name": "Casino King",
+      "text": "...Yo. Dragonfolk kids and brat. And also... Ayumi.",
+      "choice_data_list": [],
+      "orig_name": "カジノ王",
+      "orig_text": "……よお。\nドラゴン族のガキ共と小僧。\nそして……\nアユミ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "...We're surrounded. I guess all the security guards left at this casino are now gathered here.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……囲まれてるな。\nこのカジノの警備員ども、\n全員集合ってとこか。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "AWAWAWAWAWA...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あわわわわ……"
+    },
+    {
+      "name": "Narration",
+      "text": "Although they managed to get the treasure they were after, the phantom thieves found themselves in a major predicament. The Casino King, confronting them, grins broadly.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "お目当てのお宝を手に入れたはいいものの、\n大ピンチに陥った怪盗団。\n彼女たちと対峙したカジノ王は、ニヤリと口元を歪めるのだった。"
+    }
+  ]
+}

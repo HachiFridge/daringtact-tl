@@ -1,0 +1,642 @@
+{
+  "title": "Part 2 Ch. 3 Ep. 9",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The day after Kariza and Azold launched their assault...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カリザとアゾールドの襲撃があった、その翌日──"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I'm home!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "たっだいまーっ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Welcome home!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "おかえりー！"
+    },
+    {
+      "name": "Karyl",
+      "text": "...W-Wel...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……っ、\nおっ、\nおか……っ……"
+    },
+    {
+      "name": "Yui",
+      "text": "Hehe, I'm home, Kishi-kun.\nAnd everyone else, too.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ふふっ、\nただいま騎士クン。\nそれにみんなも。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Welcome home, members of Twinkle Wish.\nI see you have all returned from your escapades in the Sol Tower.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "【トゥインクルウィッシュ】のみなさま。\nおかえりなさいませ。\nソルの塔の探索から\n戻られたのですね。"
+    },
+    {
+      "name": "Navi",
+      "text": "Must be tough, playing the errand boy and all.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "使いっ走りも大変ねー"
+    },
+    {
+      "name": "Rei",
+      "text": "Yeah.\nBut we found what we were searching for sooner than I thought...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ。\nけれど思っていたより、\n目的のものが早く見つかって……"
+    },
+    {
+      "name": "Yui",
+      "text": "Ah, wait a minute.\nYou scraped your hand, Kishi-kun.\nI'll heal it up right away...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あっ、\nちょっとまって。\n騎士クン、\n手に擦り傷ができてるよ？\nすぐ治してあげるね……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As expected of Miss Yui...truly splendid healing magic.\nMiss Kyaru and I managed to treat the shoe prints and bruises on his face, but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "さすがユイさま……\n見事な回復魔法でございます。\nお顔の靴跡やアザは、\nわたくしとキャルさまで\nお手当したのですが……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "S-Shoe prints?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "く、\n靴跡っ？"
+    },
+    {
+      "name": "Rei",
+      "text": "And bruises...?\nJust what in the world happened while we were gone?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "それにアザって……\n私たちが留守のあいだ、\nいったい何があったんだ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...I see!\nSo that Kariza kid is after Kishi-kun again...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……そっかぁ！\nカリザって子、\nまた騎士くんのことを狙ってきたんだね……！"
+    },
+    {
+      "name": "Rei",
+      "text": "You may have been saved thanks to Labyrista, but...\nI doubt he'll give up so easily.\nWe need to start thinking of countermeasures...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ラビリスタのおかげで、\n助かったとはいえ……\nこれで諦めたとも思えない。\n何か、\n対策を考えなくては……"
+    },
+    {
+      "name": "Yui",
+      "text": "Maybe it would be for the best if we focused on getting Kishi-kun back to his old self after all...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "やっぱり、\n元の騎士クンに戻ってもらうのが\nいいのかな……？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I guess so.\nIt seems that his memories of us are slowly coming back...\nBut his battle instincts are still completely gone.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そうだね。\nあたしたちとの思い出は、\nちょっとずつ戻ってるみたいだけど……\n戦いのための心構えみたいなのは、\n抜け落ちたままだもん。"
+    },
+    {
+      "name": "Rei",
+      "text": "It's not just about his enhancment abilities or the Princess Form.\nIf he can remember the sword techniques I taught him, I'm sure he can defend himself at the very least.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "強化能力や、\nプリンセスフォームだけじゃない。\n私が教え込んだ剣の使い方を思い出してくれれば、\nきっと\n彼の身を守る役に立つはずだ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "All of you...entered the Sol Tower in search of the ingredients that Miss Neneka needs to treat my lord, correct?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさまは……\nネネカさまが作ろうとしている、\n『主さまのための\nお薬の材料』を探して\nソルの塔に入られたのですよね。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah.\nAnd what Kariza-kun said about an empty husk made me wonder.\nI thought: \"Maybe something changed in the tower?\".",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うんっ。\nそれにカリザくんが言ってた、\n『あそこはもう抜け殻だ』\nっていうのも気になって。\n塔の中に、\n何か変化があるんじゃないかな～\nって思ったんだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "...We usually keep this under wraps, but...\nOur goal as Twinkle Wish is to conquer the Sol Tower.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……これは、\nあまり大っぴらにはしていないけど……\n私たち【トゥインクルウィッシュ】の目的は、\nソルの塔の制覇でね。"
+    },
+    {
+      "name": "Yui",
+      "text": "There might be a clue to Kishi-kun's memories inside.\nI also had a dream where we had our wishes granted if we gathered all the Sol Orbs and reached the top.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "塔の中に、\n騎士クンの記憶の手がかりがあるかもしれないって。\nそれに、\nソルオーブを集めて一番上に登ったら、\n願いが叶えられる……\nっていう\n夢のお告げがあって……"
+    },
+    {
+      "name": "Karyl",
+      "text": "A wish...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "『願い』……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "But there wasn't anything odd about the areas we went to.\nIt was the same as always with the super strong monsters.\nThe door leading to the top was still closed, too...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "でも、\n行ってきた範囲ではおかしなことはなかったよね。\nすっごい強い魔物ばかりなのは、\n相変わらずだったし。\nテッペンに続くはずの扉も、\n閉じっぱなしだったし……"
+    },
+    {
+      "name": "Rei",
+      "text": "Hmm...\nOn the subject of oddities...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ん……\nただ、\nおかしなこと、\nといえば……"
+    },
+    {
+      "name": "シェフィ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Hiyori & Yui",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・ユイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...?\nThe tower is in working order, and the neccessary items have been retrieved.\nSo everyone, why do you all seem so glum?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……？\n塔には変わりなく、\n目当てのアイテムも、\n見つけられたのですよね。\nみなさま、\nなぜそんなにも、\n浮かない顔をなさるのですか。"
+    },
+    {
+      "name": "Rei",
+      "text": "Well, in truth...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "その。\n実は……"
+    },
+    {
+      "name": "Navi",
+      "text": "...Hm?\nAnother customer?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……んっ？\nまたお客さんかしら。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Maybe it's Pecorine?\nDoor's open!...\n...Huh!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ペコリーヌかしら？\n開いてるわよー……\n……へっ！？"
+    },
+    {
+      "name": "Kyaru?",
+      "text": "Sorry to intrude.",
+      "choice_data_list": [],
+      "orig_name": "キャル？",
+      "orig_text": "お邪魔するわ。"
+    },
+    {
+      "name": "Yui",
+      "text": "Ehh? There's another Kyaru-chan...!?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ええっ？\nキャルちゃんが、\nもうひとり……！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kyaru, Kyaruuu!?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "きゃる、\nきゃるー！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey!\nDon't go using my likeness without permission, Neneka!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっとっ。\n勝手にひとの顔使うんじゃないわよネネカ！"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Do forgive me.\nI'd rather not have walked through the streets looking like this.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……失礼。\nこの格好では、\nあまり大手を振って通りを歩きたくないので。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...!\nUuu...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "！\n……ぅ～……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Miss Sheffy.\nMiss Neneka may be suspicious...but she is not our enemy.\nThere, there.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……シェフィさま。\nネネカさまはあやしい方で……\nは\nありますが、\n敵ではありませんよ。\nどうどう。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Neneka-san, have you already finished the medicine?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ネネカさんっ。\nもうお薬できちゃったの？"
+    },
+    {
+      "name": "Rei",
+      "text": "That's pretty fast.\nIt's only been half a day since we gave you what you asked for...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ずいぶんと早いな。\n頼まれたものを渡してから、\nまだ\n半日足らずだが……"
+    },
+    {
+      "name": "Neneka",
+      "text": "As for his exclusive new medicine...the theory was already set in stone.\nAll I needed were the base ingredients, preparing the medicine itself does not take much time.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "彼専用の『新薬』……\nその理論は、\nもうできていましたから。\nあとは獲ってきてもらった基材さえあれば、\n調合そのものに時間はかかりません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "New medicine...!\nIn that case, my lord can return to his former self...right?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "『新薬』……！\nでは、\n主さまは元に戻れる……\nのですね？"
+    },
+    {
+      "name": "Yui",
+      "text": "Wow, really...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わぁっ、\nほんとうに……？"
+    },
+    {
+      "name": "Neneka",
+      "text": "......\nI won't make any guarantees.\nI did everything in my power, but...there are no precedents here.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……\n絶対、\nとは言えません。\nできるだけのことはしましたが……\n前例のないことですから。"
+    },
+    {
+      "name": "Neneka",
+      "text": "And despite me calling it medicine, this isn't made from materials extracted from plants, insects, monsters, or anything like that.\nTo put it simply, this is a magical item.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "それに薬といっても、\nこれは植物や昆虫、\n魔物などから成分を抽出したものではありません。\nしいて言うなら、\n魔法の品です。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "A magical item...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "魔法の品……？"
+    },
+    {
+      "name": "Rei",
+      "text": "What Neneka asked us to look for...\nIt was the small crystal that he had accidentally swallowed.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "私たちが、\nネネカに依頼されて塔に探しに行ったもの──\nそれは、\n彼が誤飲してしまった、\nあの小さな水晶なんだ。"
+    },
+    {
+      "name": "コッコロ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "...The same crystal that Pecorine brought from the treasure vault...right?\nTo think they can be found in the tower, too...\nSo, just what exactly are they?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……あの水晶って、\nペコリーヌが宝物庫から持ってきたもの……\nだったわよね。\n塔にもあったなんて……\n結局、\nなんだったわけ？　\nあれって。"
+    },
+    {
+      "name": "Neneka",
+      "text": "That crystal is...a highly dense body of information.\n\"Solidified Chaos\" would be an apt description.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "あの水晶は……\n超高密度な情報体であり。\n『固形化された混沌』とでもいうべきものです。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kayoss...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "かおす……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are you going to give my lord a medicine made from those very same crystals...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そのようなものを材料とする薬を、\nまた主さまに与えよう\nというのですか……？"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Let me explain this step by step.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……順を追って説明しましょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "First, imagine a glass ball with countless cracks in it.\nThat's {0}'s soul immediately after it's psychological regression.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "まず、\n無数のひび割れが入ったガラス玉をイメージしてください。\nそれが{0}くんの、\n『精神退行直後の魂』です。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Afterwards...he accidentally swallowed the crystal Pecorine brought, absorbing it in the process. This repaired some of the cracks that formed in his soul...resulting in an incomplete, warped sphere.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "後に……\nペコリーヌが持ってきた水晶を偶然に飲み込み、\n吸収したことで、\n『魂』のひび割れ部分が一部埋まり……\n不完全な、\n歪んだ球体となりました。"
+    },
+    {
+      "name": "Neneka",
+      "text": "A new enhancement ability dubbed the Princess Form manifested at this stage, but...\nThe cracks hadn't fully closed, as they were warped, so his mental state remained unchanged.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "プリンセスフォームと称した、\n新たな強化能力は\nこの段階で発現しましたが……\nひび割れが完全に塞がらず、\n歪んでいたため、\n精神状態は変わらないままでした。"
+    },
+    {
+      "name": "Neneka",
+      "text": "This time, using my powers of metamorphosis along with medical records provided by Mitsuki-san, I aim to alter the crystal directly...in order to close the cracks and correct any distortions.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "今回は、\n私の変化能力と、\nミツキさんがくれた\n彼のカルテをもとに水晶に手を加え……\nそのひび割れを完全に塞ぎ、\n歪みを正します。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Uhh, umm...\nI don't really get it, but doesn't that make it a pretty amazing magic item?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えーっと、\nえーっと……\nよくわかんないけど、\nすっごいマジックアイテムってことかなっ？"
+    },
+    {
+      "name": "Rei",
+      "text": "That seems to be the case.\nI still have my reservations regarding the crystal's origin, but...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そうだね。\n水晶の由来がわからないのは、\n少し不安だけど……"
+    },
+    {
+      "name": "Neneka",
+      "text": "...That crystal.\nNine times out of ten, it's Minerva's...",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……あの水晶は。\n十中八九、\nミネルヴァの………………"
+    },
+    {
+      "name": "ネネカ",
+      "text": "ですが、\nミネルヴァの『本体』は、\nいったい今どこへ……？　",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ですが、\nミネルヴァの『本体』は、\nいったい今どこへ……？　"
+    },
+    {
+      "name": "Yui",
+      "text": "...Neneka-san?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……\nネネカさん？"
+    },
+    {
+      "name": "Neneka",
+      "text": "...As stated previously, I’ve done everything in my power.\nI’m also fortunate to have had access to Mitsuki-san's records of his vitals and magic patterns.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……先ほども言ったとおり、\n私としてはやるべきことは全てやりました。\nミツキさんの基礎研究、\nそれに\n彼の正常時のバイタルや\n魔力パターンを\n詳細に記録してくれていたのも、\n幸いでしたし。"
+    },
+    {
+      "name": "Neneka",
+      "text": "That being said, conducting clinical trials for this is impossible...\nSo whether you want to try the medicine or not, I'll leave that decision to you all.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "といっても、\n治験はしようがありませんから……\nこの薬を試すか否か。\n最終的な判断は、\nみなさんに委ねます。"
+    },
+    {
+      "name": "Neneka",
+      "text": "However, the side effects will likely be severe.\nAt the very least, he will fall into a deep sleep.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ただ、\nおそらく、\nかなりの荒療治にはなるでしょう。\n少なくとも、\nしばらくは絶対安静です。"
+    },
+    {
+      "name": "Yui",
+      "text": "A deep sleep...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "絶対安静……"
+    },
+    {
+      "name": "Kokkoro & Kyaru",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・キャル",
+      "orig_text": "……"
+    },
+    {
+      "name": "Hiyori & Rei",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Are you sure...?\nIt might be dangerous...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんた、\nいいの……？\n危険かもしれないのに……"
+    },
+    {
+      "name": "Yui",
+      "text": "Kishi-kun...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Heehee.\nNo matter what comes your way, you never change, do you, Kishi-kun?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ふふっ。\nどんなときだって、\n変わらないんだね\n騎士くんは。"
+    },
+    {
+      "name": "Rei",
+      "text": "As long as you're asleep, we'll keep you safe.\nRest assured.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "キミが休んでいるあいだは、\n私たちが必ずキミを守る。\n安心してくれ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Then...hurry up and drink it so you can get better already.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "じゃあ……\nとっとと飲んで、\nとっとと直してきなさいよっ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Now I can finally graduate from being his toy.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "これでようやく、\nこいつのオモチャを卒業できるってわけね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord.\nThis medicine...it's in the form of a powder.\nAre you okay taking it with water?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま。\nこのお薬……\n粉末状になっておりますが。\nお水で大丈夫ですか？"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Neneka",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Onii-tan?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……おにーたん？"
+    },
+    {
+      "name": "Yui",
+      "text": "Are you all right, Kishi-kun?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン、\n大丈夫……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……？"
+    },
+    {
+      "name": "Neneka",
+      "text": "It's best not to talk to him or shake him too much.\nYou should let him sleep for a while.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "あまり声をかけたり、\nゆすったりしないほうがいいです。\nしばらくは、\n眠らせてあげたほうがいいでしょう。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I see.\nIn that case...let's go to bed, my lord.\nPlease hold on to me so you don't fall over.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そうですか。\nでは……\nお布団に参りましょう、\n主さま。\n転んでしまわぬよう、\nわたくしに掴まってください。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Listen, {0}.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……良いですか、{0}。"
+    },
+    {
+      "name": "Neneka",
+      "text": "When you take this medicine and fall asleep, someone will appear in your dreams.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "あなたがこの薬を飲み、\n眠りにつくあいだ。\n何者かが、\nあなたの夢の中に現れるでしょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "She's not an enemy...but she's not an ally, either.\nDo not let your guard down.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "それは、\n敵ではありませんが……\n味方でもありません。\n決して……\n心を許さないように。"
+    },
+    {
+      "name": "Neneka",
+      "text": "With that said... Good night, {0}.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "それでは……\nおやすみなさい、{0}。"
+    },
+    {
+      "name": "Narration",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "……"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "……\n……"
+    },
+    {
+      "name": "ナレーション",
+      "text": "……\n……\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "……\n……\n……"
+    },
+    {
+      "name": "Narration",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "……"
+    },
+    {
+      "name": "？？？",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……"
+    }
+  ]
+}

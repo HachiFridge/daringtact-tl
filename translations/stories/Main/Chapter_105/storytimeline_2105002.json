@@ -1,0 +1,544 @@
+{
+  "title": "Part 2 Ch. 5 Ep. 2",
+  "text_block_list": [
+    {
+      "name": "Bakery",
+      "text": "Come on, stop by! The cheap and tasty bakery is open today!",
+      "choice_data_list": [],
+      "orig_name": "パン屋",
+      "orig_text": "さぁさぁ、\n寄ってらっしゃいな！\n安くておいしいパン屋さん、\n本日開店だよ～！"
+    },
+    {
+      "name": "Butcher Shop Employee",
+      "text": "Pigs, cows, chickens, sheep, and even rabbits! We have all kinds of meat!",
+      "choice_data_list": [],
+      "orig_name": "肉屋",
+      "orig_text": "豚に牛、\n鶏に羊にウサギまで！\n肉ならなんでも揃ってるよ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Excuse me, could I please have some of your shoulder roast and salami? Also beef tendon, chicken... Oh, the ground meat is cheap, too! I'll have some of that too!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "すみません、\nそちらの肩ロースと\nハラミをいただけるかしら？\nあと牛スジとセセリと砂肝も……\nあっ、\n挽肉も安い！\n　そっちもください！"
+    },
+    {
+      "name": "Butcher Shop Employee",
+      "text": "Hey! These chicken wings are a bonus! Share them with everyone!",
+      "choice_data_list": [],
+      "orig_name": "肉屋",
+      "orig_text": "へいまいど！\nこの手羽先はオマケだよ、\nみんなで食べて！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Wow, thank you so much♪ Not only is it so cheap, but you even gave me extra...!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "わっ、\nありがとうございます♪\nこんなに安いうえに、\nオマケまでしてもらえるなんて……！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Ahahaha~! I can't believe that such delicious barley wine is as cheap as water! It's like a dream~ Hiccup~♪ Hic♪",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "あははは～！\nこんなにおいしい麦しゅわが、\n水みたいに安いなんてー！\n夢みたい～っ♪\n　ヒック♪"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Mifuyu! You too, Yukari! This isn't the time to be shopping, nya!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ミフユ～～っ！\n　ユカリも！\n買い物してる場合じゃないにゃっ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Huh?! I was going to let you guys see what the market was like, but I was so dazzled by how cheap everything is, that I couldn't help myself...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "はっ！？\nそうだったわ……\nみんなに市場の様子を見てもらうつもりが、\nあまりの安売りっぷりに\nつい目がくらんで……"
+    },
+    {
+      "name": "Akino",
+      "text": "Just as Mifuyu reported... It seems that there are more new shops selling at oddly low prices everywhere in The Landosol.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ミフユさんの報告通り……\nランドソルの市場のあちこちで、\n異様な安売りをする新店が増えているようですわね。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "What's more, the guild known as the 'Amalgam Trade' is responsible for all of this. I've never heard of this guild before...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "しかもその全部が、\n【アマルガム貿易】っていうギルドの\n息がかかっているだなんて。\nいままでそんなギルド、\n聞いたことなかったけど……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hey, hey~, is that store over there a new store?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "ねぇねぇ～、\nあっちのおみせも、\nあたらしいおみせみたい～？"
+    },
+    {
+      "name": "Taiyaki Shop",
+      "text": "[Amalgam Trade]Mark's Taiyaki Shop opens today! The cheap and tasty Taiyaki is only 10 Rupees! Come have a taste!",
+      "choice_data_list": [],
+      "orig_name": "たい焼き屋",
+      "orig_text": "【アマルガム貿易】印の\nたい焼きショップ、\n本日開店！\n安くて旨いたい焼きが、\nたったの10ルピ！\n　さぁ\n食べてって～！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Haaah?! 10 rupees for taiyaki?! No way, nya! I'm sure it wont taste so great anyway...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "はああっ！？\n　たい焼き10ルピ！？\nウソにゃっ！\nどうせ味はダメダメに決まって……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Delicious, nya?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "おいしいにゃーっ！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "The crispy, yet chewy crust, with lots of high quality red bean paste filling all the way down to the tip of the tail... And this exquisite grilling! This is an incident, nyaaa!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ぱりっぱりでもっちもちの皮、\n高級アンコがしっぽの先までたっぷり……\nそれに\nこの絶妙な焼き加減！\nこいつは事件にゃあ～っ！"
+    },
+    {
+      "name": "Akino",
+      "text": "Tamaki, Are you so sure its that good? If so, we can rule out the possibility of them mixing inferior materials in order to lower the cost.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "タマキさんが、そこまでおっしゃるほどですの？\nならば、\n粗悪な材料を混ぜて\nコストを下げている可能性は、\n排除するべきですわね。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "My stall may be competitive in taste, but at this price, I'll go bankrupt.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あたしの屋台も、\n味でなら負けないけど……\nでもこの値段じゃ、\n商売あがったりにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Pops! How on earth are you making a profit at such a selling price!, nya!?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "オヤジさん！\nこんな売値で、\nいったいどーやって利益を出してるのにゃ！？"
+    },
+    {
+      "name": "Taiyaki Shop",
+      "text": "Oh no, profit is not a big deal at all. But the Amalgam Trade provided the ingredients for us... Besides, I want to see the faces of everyone who's happy to eat delicious food!",
+      "choice_data_list": [],
+      "orig_name": "たい焼き屋",
+      "orig_text": "いやー、\n利益なんて\n全然だけどね。\nでも、\n材料は\n【アマルガム貿易】が用意してくれるし……\nそれにおじさんは、\n美味しいものを食べて\n喜ぶみんなの顔が\n見たいから！"
+    },
+    {
+      "name": "Tamaki & Akino & Mifuyu",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "タマキ・アキノ・ミフユ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Tamaki & Akino & Mifuyu",
+      "text": "Hmm...",
+      "choice_data_list": [],
+      "orig_name": "タマキ・アキノ・ミフユ",
+      "orig_text": "う～～～～～ん……"
+    },
+    {
+      "name": "Akino",
+      "text": "I went around the market, but... I couldn't find any clear evidence of wrongdoing.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ひととおり市場を回ってみましたけれど……\n明確な悪事の証拠は、\nこれっぽっちも\n見つけられませんでしたわね。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "I thought I was just going to look around, but I ended up buying too many things at once. everything is just so cheap!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "見て回るだけのつもりが……\nあまりの安さに、\nつい\n買い込みすぎちゃった……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Ugh... I got carried away and drank too much... I'm finally starting to get sober...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "うぅ……\n私もついつい、\n飲みすぎちゃった……\nようやく酔いが抜けてきたわ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I haven't caught the tail of the Amalgam trade, but... this definitely isn't right, nya! My tail is on edge!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "【アマルガム貿易】のシッポは掴めなかったけど……\nこんなの絶対ぜったいオカシイにゃ！\nあたしのシッポは\nビリビリ警戒してるにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...That's right. It's not just an opening sale, either. We've been selling it cheap for over half a month now. Our competition is not happy.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "……そうね。\n開店セールってだけじゃなく、\nもう半月以上も安売りを続けているところもあるし。\nまわりの競合店は、\nたまったものじゃないわ。"
+    },
+    {
+      "name": "Akino",
+      "text": "It is what is called dumping sales... Even the merchants who do business with the Mercurius Foundation have been crying out for a lower price on their purchases...",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "不当廉売……\nいわゆる\nダンピング商法ですわね。\n【メルクリウス財団】と取引させていただいている商店からも、\n仕入れを安くしてほしいと泣きつかれてしまいましたけど……"
+    },
+    {
+      "name": "Yukari",
+      "text": "Hmm... I understand why you'd want to lower the price, but it's still just barely at wholesale price. Any more and we'll lose money.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "うぅん……\n値下げしてあげたい気持ちはわかるけど、\n今だってかなりギリギリの卸値よ。\nこれ以上は、\nこっちが赤字になっちゃうわ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "That's right... For the past few months, we've invested a lot of money in charity work to rebuild the shops that were destroyed by Kaiser Insight and the monsters.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね……\nこの何か月かは\n覇瞳皇帝や\n魔物たちに壊された商店を立て直すために\n慈善事業みたいな投資を、\nたくさんしてしまったんだしね。"
+    },
+    {
+      "name": "Akino",
+      "text": "What are you saying?! That was a necessary investment♪ Revitalizing the market will benefit us at the Mercurius Foundation.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "何をおっしゃいますの！　\nあれは\n必要な投資でしたわ♪\n市場の活気を取り戻すことは、\n巡り巡って\n私たち【メルクリウス財団】の利益になりますもの。"
+    },
+    {
+      "name": "Yukari",
+      "text": "But... if that loaned store loses out in a price war with the Amalgam-affiliated stores and goes out of buisness...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "でも……\nその貸し付けた店が\n【アマルガム貿易】系列の店との価格競争に負けて、\n潰れてしまったら……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "All the money I owe you will get burnt!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "貸してるお金、\nぜーんぶ焦げ付いちゃうにゃ！\n真っ黒コゲにゃ～っ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Some stores have already been forced to close because they lost all their sales and customers, as well as their perishable food inventory.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "というかすでに、\n売上と客をぜんぶ持っていかれたうえ、\n生鮮食品の在庫をダメにして……\n閉店に追い込まれた店も\n出始めているわ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Besides, it's not just the markets all over Landosol. The Amalgam trade is involved in our finance industry, too... We lend it to them at an unbelievably low interest rate, like 0.1 percent for ten years!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "それに、\nランドソル各地の市場だけじゃないのよ。\nうちの稼ぎ頭の金融業にも、\n【アマルガム貿易】が入り込んでて……\n10年で0.1％とか、\nありえないほど安い金利で貸し付けしてるのよ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Even so, we had already suffered heavy losses when our airship was destroyed, and the public works for reconstruction was taken over by the [Richmond Chamber of Commerce and Industry]...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ただでさえ、飛空艇を落っことして大損害を出したり、\n復興の公共工事は\n【リッチモンド商工会】に\n掻っ攫われたりで、\n苦しかったところにこれじゃ──"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Next term's sales are definitely at an all-time low... We're definitely in the red! I'm not joking... We might go bankrupt!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "来期の売り上げは、\n間違いなく過去最低……\n大赤字間違いなし！\n冗談抜きで……\n倒産もありうるわ！"
+    },
+    {
+      "name": "Akino & Yukari & Tamaki",
+      "text": "Bankrupt...!?",
+      "choice_data_list": [],
+      "orig_name": "アキノ・ユカリ・タマキ",
+      "orig_text": "倒産っ……！"
+    },
+    {
+      "name": "Yukari",
+      "text": "No way! I don't want to be unemployed!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "そんなぁ！\n無職は、\n無職はイヤぁ～っ！"
+    },
+    {
+      "name": "Akino",
+      "text": "Indeed, this is the biggest crisis since the founding of the Mercurius Foundation. However, it's also true that the Amalgam trade smells fishy somehow... Isn't that right, Tamaki?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "確かにこれは、\n【メルクリウス財団】結成以来最大の危機ですわ。\nけれども、\n【アマルガム貿易】が\nなにやらキナ臭いのも事実……\nそうですわね、\nタマキさん。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Th-That's right-nya! I'll tear off the skin of the [Amalgam Trade] nya!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "そ、\nそうにゃ！\n【アマルガム貿易】のバケの皮、\n引っぺがしてやるのにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yes! we should split up and do a thorough investigation... to see if there's anything strange about their source of funds or the products they are selling!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ええ！\n資金源や扱っている商品に、\nおかしいところはないか……\n手分けして\n、徹底的に調べるわよ！"
+    },
+    {
+      "name": "Akino & Yukari & Tamaki",
+      "text": "Ohhh!",
+      "choice_data_list": [],
+      "orig_name": "アキノ・ユカリ・タマキ",
+      "orig_text": "おーっ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "There, carriage, stop!, nya!!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "そこの馬車、\n止まるにゃーっ！！"
+    },
+    {
+      "name": "Cabman",
+      "text": "Eeek! Bandits?!",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "ひぃっ！\n山賊っ！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Excuse me! I'm not a bandit, but a righteous thief! Let me take a look at that cargo!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "失礼にゃ！\nあたしは山賊じゃなくて正義の義賊にゃ！\nその積み荷、\nちょっと調べさせてもらうにゃー！"
+    },
+    {
+      "name": "Cabman",
+      "text": "Eeeeeek!?",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "ひぃ～っ！？"
+    },
+    {
+      "name": "Manager",
+      "text": "A pump and dump scheme? Nonsense! All of us in the Amalgam Trade, We are just trying to deliver better products at lower prices to you, the people of Landosol.",
+      "choice_data_list": [],
+      "orig_name": "支配人",
+      "orig_text": "ダンピング商法？\n　とんでもない！\n我々【アマルガム貿易】一同は、\nより良いものをより安く！\nランドソルのみなさまにお届けしようとしているだけですよ。"
+    },
+    {
+      "name": "Manager",
+      "text": "Hey, guys! Isn't that right?",
+      "choice_data_list": [],
+      "orig_name": "支配人",
+      "orig_text": "なあ、みんな！\nそうだろう？"
+    },
+    {
+      "name": "Employee",
+      "text": "Of course, boss!",
+      "choice_data_list": [],
+      "orig_name": "従業員",
+      "orig_text": "もちろんです、\n支配人！"
+    },
+    {
+      "name": "Akino & Yukari",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "アキノ・ユカリ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Tamaki & Akino & Yukari",
+      "text": "Hmmmmm...",
+      "choice_data_list": [],
+      "orig_name": "タマキ・アキノ・ユカリ",
+      "orig_text": "ううぅ～～～～～ん……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "The shipment from the region was very straight forward... It's not like it was stolen or anything, and they paid well...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "地方からの積み荷は、\nごく真っ当だったにゃ……\n盗品とかじゃなくて、\n支払いもちゃんとしてるし……"
+    },
+    {
+      "name": "Yukari",
+      "text": "The people working at the guild house in the Amalgam trade didn't seem like bad people, at least. They were all well-organized, and they all seemed to be very competent.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "【アマルガム貿易】のギルドハウスで働く人たちも、\n少なくとも……\n悪い人たちではなさそうだったわね。\n書類もきちんと整理してあって、\nみんな優秀そうだったわ。"
+    },
+    {
+      "name": "Akino",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Unyaaa... I can't grab a tail at all...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "うにゃあ～……\nぜんぜんシッポが掴めないにゃぁ……"
+    },
+    {
+      "name": "Yukari",
+      "text": "At this rate, I might really go bankrupt... Ugh, I don't want to be unemployed, I can't be homeless...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "このままじゃ、\n本当に倒産しちゃうかも……\nうぅっ、\n無職はいや、\n無職はいやぁ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Yukari! its still too soon to think like that!, nya!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ユカリ！？\nヤケしゅわはまだ早いにゃぁっ！"
+    },
+    {
+      "name": "Akino",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...? Akino, what's wrong?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……？\nアキノ、\nどうしたにゃ？"
+    },
+    {
+      "name": "Yukari",
+      "text": "Akino? Are you feeling unwell?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "アキノさん？\nどこか具合でも悪いの？"
+    },
+    {
+      "name": "Akino",
+      "text": "Ah, no... It's nothing. I was just thinking.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あ、\nいえ……\nそうではなくて。\n少々、\n考えていたのです。"
+    },
+    {
+      "name": "Akino",
+      "text": "It's true... The Amalgam trade I mentioned earlier, and the people selling at the market... They didn't seem to be bad people.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "たしかに……\n先ほどお話させていただいた\n【アマルガム貿易】の方々も、\n市場で大安売りをする方々も……\n悪人ではないようでしたが。"
+    },
+    {
+      "name": "Akino",
+      "text": "I... To be honest, I feel animosity toward them. Even without their relationship as rivals in business.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "私は……\n正直なところ、\n彼らに反感を持っているようなのです。\n商売敵という関係を抜きにしても、\nですわ。"
+    },
+    {
+      "name": "Yukari",
+      "text": "What do you mean by that?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "っていうと？"
+    },
+    {
+      "name": "Akino",
+      "text": "Let's see... One of my favorite ideas about being a merchant is \"sampo yoshi\" which is Three-way goodness.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "そうですわね……\n私の好きな商人のメソッドに、\n『三方よし』\nという言葉がありますの。"
+    },
+    {
+      "name": "Akino",
+      "text": "The three sides of this are, customers, merchants, and society. A good buyer, a good seller, and a good society. It's only when all three are satisfied that you become a good merchant.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "三方とは\n顧客、\n商人、\nそして社会。\n買い手よし、\n売り手よし、\n世間よし──\nそれぞれが満足できてこそ、\nはじめて良き商いであるという考えですわ。"
+    },
+    {
+      "name": "Akino",
+      "text": "Businesses like the Amalgam trade, who sacrifice themselves to satisfy their customers... At first glance, it seems like a wonderful thing. In the long run, it's possible that the customers will lose out as well.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "【アマルガム貿易】の方々のような、\n顧客を満足させるために\n己が身を削るが如き商法は……\n一見して素晴らしいもののようですが。\n長期的に見れば、\n巡り巡って\n顧客の側も損をする可能性もあるのです。"
+    },
+    {
+      "name": "Akino",
+      "text": "More than anything! As a merchant, doing business under the assumption that they will be bankrupt is unbelievable!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "何よりも！\n赤字を前提などとした商いなど……\n商人として、\nあるまじきことですわっ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Th-That's right! There's gotta be a trick behind their funding!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "そ、\nそうにゃっ！\nあいつらの資金源、\n必ず裏に何かあるはずにゃ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "We've got funds, too, but... If we expanded our business this much and increased the number of new stores... Securing workers and resources would be tough. I wonder how they pulled it off...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "資金もだけど……\nこれだけ事業拡大して、\n新しいお店を増やしていったら……\n人材の確保だって、\n大変なはずよね。\nいったいどういう仕組みなのかしら……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "It's horrible!!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "大変よーーーーっ！！"
+    },
+    {
+      "name": "Akino",
+      "text": "Mifuyu-san?!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ミフユさんっ！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "What's is it this time, nya!?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "今度はどうしたにゃ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "A franchise directly managed by the Amalgam Trade... is going to open... this time.... They are going to open a hundred stores at the same time!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "【アマルガム貿易】直営のフランチャイズが……\n今度は、百店舗同時オープンするんですって！"
+    },
+    {
+      "name": "Akino",
+      "text": "Eh...",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "えっ……"
+    },
+    {
+      "name": "Akino & Yukari & Tamaki",
+      "text": "Whaaaat?!",
+      "choice_data_list": [],
+      "orig_name": "アキノ・ユカリ・タマキ",
+      "orig_text": "ええええっー！？"
+    },
+    {
+      "name": "Yukari",
+      "text": "What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "どういうことぉーっ！？"
+    }
+  ]
+}

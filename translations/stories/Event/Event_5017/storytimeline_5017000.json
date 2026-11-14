@@ -1,0 +1,516 @@
+{
+  "title": "Visitors from Another Land",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "This is Margrave Mathers's mansion, in the Dragon Kingdom of Lugnica.\nSubaru Natsuki, serving as an apprentice butler here, does his best to\nperform his duties under the watchful eye of the maids Ram and Rem.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ここは親竜王国ルグニカ、メイザース辺境伯の屋敷。\n屋敷で執事見習いとして働く少年、ナツキ・スバルはこの日も、\n先輩メイドであるラムとレムの二人と\n使用人生活に精を出していた。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Ahhhh, cleaning storerooms is tough when I'm still recovering.\nMy body aches, my legs are trembling,\nmy arms are heavy, and I'm clean outta breath.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "くあーっ、\n病み上がりに倉庫の片づけってしんどいわー\n体ギシギシの足腰ガタガタ、\n腕ダルダルの息切れハアハアって感じ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Are you all right, Subaru?\nThis is supposed to be your day off,\nso you should really leave this to us and rest.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "大丈夫ですか、\nスバルくん。\nせっかくのお休みの日なんですから、\nレムたちに任せて、\nゆっくりしていてもいいのに……"
+    },
+    {
+      "name": "Subaru",
+      "text": "Nah. I appreciate the thought, I really do.\nBut being treated like an invalid ain't my style!\nMy body still works, so doing nothing would just drive me crazy.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "いや、\nレムの気持ちはうれしいよ、\nマジで。\nけど、\nケガ人扱いってのも性に合わないっつーか、\nぶっちゃけ体は動くし、\n寝てばっかってのも俺的に辛いわけですよ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Even so...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ですが……"
+    },
+    {
+      "name": "Ram",
+      "text": "It's fine, Rem.\nJust let Barusu do as he pleases.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "いいのよ、レム。\nバルスの好きにさせてやりなさい。"
+    },
+    {
+      "name": "Rem",
+      "text": "Not you too, dear sister...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "姉様までそんなことを。"
+    },
+    {
+      "name": "Ram",
+      "text": "If he wants to work, then let him.\nHe's just itching to be praised for struggling through the pain.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "働きたいなら働かせればいいだけよ。\nどうせ、\n辛いのにがんばる姿を褒められたいだけ。"
+    },
+    {
+      "name": "Ram",
+      "text": "A disgusting ploy.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "いやらしい魂胆ね。"
+    },
+    {
+      "name": "Subaru",
+      "text": "That's quite the interpretation, \\\"dear sister\\\"!\nI mean... I can't claim you're [i]totally[/i] wrong, but still!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "すげぇ穿った見方すんなよ、\n姉様！\nそりゃ、\nそんな気持ちがゼロとは言わねぇけども！"
+    },
+    {
+      "name": "Subaru",
+      "text": "I-it's not like I'm dying to look cool\nin front of you two and Mili or anything!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "べ、\n別にお前たちとか、\nエミリアたんに良いとこ見せたいってだけじゃ\nないんだからねっ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Are you talking about me?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──今、\n私のお話してた？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Whuoooghhh!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "うひゃおおおおおお──！！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ohh! How shocking...\nI had no idea you could jump so high, Subaru.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "わ、\nびっくり……\nスバルってば、\nすごーく高く飛べるのね。"
+    },
+    {
+      "name": "Subaru",
+      "text": "M-M-M-Mili...?! The heck are you doing in here?!\nThe air's brimming with microparticles!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "え、\nエミリアたん……！？\n急にこんなとこきてどしたの！？\n　ハウスダストすごいよここ！？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Micro... particles...? I'm not sure what that means,\nbut I thought I heard my name, so I was curious.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "はうすだすと……\nは、\nよくわからないけど、\n私の名前が聞こえた気がしたから、\n気になって。"
+    },
+    {
+      "name": "Subaru",
+      "text": "No, no, no! Talking about you? None of that here!\nNot a single word! Cross my heart! I'm not lying or hiding anything!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "いやいやいや、\nエミリアたんの話？\n　\n全然してないよ。\nマジでまったく、\n別にホント、\n嘘じゃないし隠してないから。"
+    },
+    {
+      "name": "???",
+      "text": "What's all this? I hope you don't think you're convincing anyone.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──おやおや、\nずいぶんと雑で中途半端な誤魔化し方だね。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Guehh! That voice is... Puck!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "うげ、\nその声は……\nパック！"
+    },
+    {
+      "name": "Puck",
+      "text": "Don't lie now, Subaru.\nYou seem desperate to change the subject.\nMy instincts tell me you were saying things you don't want Lia to hear!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "嘘はダメだよ、\nスバル。\n必死になって隠すところも怪しいね。\nこれはボクの勘だと、\nリアには聞かせられない怪しい話だね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Subaru, is that true?\nIs it like Puck says? Are you keeping secrets from me?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "スバル、\nホントなの？\nパックが言ってるみたいに、\n私には\n聞かせられない話……？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Those lonely eyes are my greatest weakness!\nBut really, you've got it wrong! It's not like that at all...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "寂しそうなエミリアたんの目に俺は弱い！\nいやもう、\n全然違くて、\nそんな話じゃなくってさぁ……"
+    },
+    {
+      "name": "Subaru",
+      "text": "I was just hoping that if you saw me working hard,\nyou might give me a few sweet words of praise, that's all...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ただ、\n病み上がりなのにがんばって働く俺を見たら、\nエミリアたんが優しく\nかわいく褒めてくれるかなぁって\n期待を……"
+    },
+    {
+      "name": "Ram",
+      "text": "Anyway, did you want something from us, Miss Emilia?",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "それで、\nエミリア様は\nラムたちに何かご用でしたか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, yes, that's right.\nI had a little favor to ask of Subaru...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ、\nうん、\nそうなの。\nちょっとスバルにお願いしたいことがあって……"
+    },
+    {
+      "name": "Subaru",
+      "text": "My words've fallen on deaf ears!\nYou want me to sulk?! Or run away from home?!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "この流れでスルーすんだ！？\n俺、そろそろいじけるよ！？\n　家出とかするよ！？"
+    },
+    {
+      "name": "Rem",
+      "text": "Don't worry. I won't let your hard work won't go unnoticed!\nI'm always watching, every day from morning to night!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "大丈夫です。\nスバルくんのがんばりはレムが見逃しません！\nこの目でしっかりと、\n朝から晩まであまさず見ています！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Something about that scares me... But thanks.\nYou're always the only one on my side, Rem...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "なんか言い方怖いけど、\nありがとよ。\nホント、\n俺の味方はレムだけだぜ……"
+    },
+    {
+      "name": "Rem",
+      "text": "Ohhhh... I'm so sweet you want to marry me?\nDon't make me blush...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そんな……\nかわいくてお嫁さんにしたいだなんて、\n照れます……"
+    },
+    {
+      "name": "Subaru",
+      "text": "I never went that far!\nBut hang on. It's rare for you to ask favors of me, Mili.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "そこまでは言ってねぇよ！？\nとはいえ、\nエミリアたんが俺に用事って珍しいね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Really? ...Maybe it is.\nBut if you're busy, it doesn't have to be right now.\nI can just play Meow-Mewly-Mewly-Meow with Puck for a while...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう？\n　そうかも。\nでも、\n忙しいなら別に今じゃなくてもいいの。\nしばらく、\nパックと二人でにゃんにゃかにゃかにゃんしてるから……"
+    },
+    {
+      "name": "Subaru",
+      "text": "...Sorry? Come again?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ごめん、\n何だって？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Meow-Mewly-Mewly-Meow.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "にゃんにゃかにゃかにゃん。"
+    },
+    {
+      "name": "Puck",
+      "text": "It's a game Lia and I came up with back in the forest.\nFirst, one player goes \\\"meow-mewly,\\\" then the other one goes...",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ボクとリアが、\n二人で森にいた頃に編み出した遊びだよ。\nまず、\n片方がにゃんにゃかして、\nもう片方がにゃかにゃんに……"
+    },
+    {
+      "name": "Subaru",
+      "text": "I [i]so[/i] wanna hear about that, but listen, we're almost done here!\nSee, we just need to move this thing... Wait, huh? What [i]is[/i] this thing?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "それもすげぇ気になるけど、\nこっちもすぐ終わらせるから！\nほら、\nあとはこれを動かすだけ……\nって、\nあれ、\nなんだこれ？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Is that... a trapdoor in the floor?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "これって……\n床に、\n隠し扉？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Couldn't be much else... Not this pattern again.\nOur margrave sure loves his hidden compartments.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "どう見ても、\nだよね……\nまたこのパターンかよ。\n床に物隠すのが好きな家主だな。"
+    },
+    {
+      "name": "Ram",
+      "text": "You just have a talent for dredging up people's secrets.\nOr perhaps your gaze is always on your feet.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "バルスが人のあら探しが得意なだけでしょう。\nもしくは、\nいつも下を向いて生きている証拠ね。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Spare my reputation!\nSeriously, does this mansion need all these trapdoors?\nLast time it was a liquor stash, and this time...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "なんたる風評被害！\n実際、床下収納が多いじゃん、\nこの屋敷。\n前回は酒の保管庫だったけど、\n今回は……"
+    },
+    {
+      "name": "Puck",
+      "text": "Huh... That's an interesting book.\nIs it another of Roswaal's treasures?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "へえ、\n見慣れない本だね。\nロズワールが隠してたのかな？"
+    },
+    {
+      "name": "Ram",
+      "text": "I doubt it. His valuable books are all in Miss Beatrice's library.\nIt wouldn't be like him to treat a priceless tome this way.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "どうでしょうか。\n重要な本は\nベアトリス様の禁書庫かと。\nこうした風に本を扱うのは\nロズワール様らしくありませんし。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Uh, you sure grabbed that book fast, dear sister.\nWhat if it turns out to be cursed or something?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "って、\nすげぇ堂々と回収したな、\n姉様。\nなんかいわくありげな本だったらどうすんだよ。"
+    },
+    {
+      "name": "Ram",
+      "text": "Who has time to worry about such far-fetched ideas?\nYou're just a coward. How shameful. To think you call yourself a man.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そんな特別な本なんてそうそうあるものじゃないわ。\nバルスはビビりすぎよ。\n情けない。\n男として恥を知りなさい。"
+    },
+    {
+      "name": "Subaru",
+      "text": "You gotta go that far?!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "そこまで言います！？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Still, it [i]was[/i] hidden in Roswaal's mansion.\nDoesn't that make it quite likely that the book's special somehow?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nここはロズワールのお屋敷でしょ？\nそこに隠されてたんなら、\nやっぱり特別な本なんじゃない？"
+    },
+    {
+      "name": "Ram",
+      "text": "...Very true. It's just as you say, Miss Emilia.\nBarusu, show a little more caution in the future.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "……そうですね。\nエミリア様の言うとおりです。\nバルス、\n今後は軽率な行いは慎みなさい。"
+    },
+    {
+      "name": "Subaru",
+      "text": "And she shifts the blame without batting an eye...\nHm? Rem, what's up? You look kinda pale.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "また姉様はスムーズに人に罪を着せる……\nうん？\n　レム、\nどうした？\n　そんな青い顔して。"
+    },
+    {
+      "name": "Rem",
+      "text": "Well, ah... I can't exactly put it into words, but...\nI'm sensing some kind of worrying aura from that book.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "いえその、\nあまりうまくは言えないんですが……\nその本から、\nなんだかすごく良くない雰囲気が漂っていて。"
+    },
+    {
+      "name": "Subaru",
+      "text": "A worrying aura? From this book?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "良くない雰囲気？\n　この本から？"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes. Just a faint... very faint... strongly faint... aura.\nSo, I thought perhaps we should dispose of it quickly.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\n少しだけ……\nとても少し、\nかなり少し、\nします。\nですので、\nレムは早めに処分した方が良いのではないかと。"
+    },
+    {
+      "name": "Ram",
+      "text": "Yes, Rem is completely correct, of course.\nLet's burn the book now.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そうね、\nレムの言うことはもっともだわ。\nさっそく燃やしましょう。"
+    },
+    {
+      "name": "Subaru",
+      "text": "You skipped a few steps there!\nI mean, Rem's worries bother me too, but...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "色々早いよ！？\nまぁ、\nレムの意見は気になるけども……"
+    },
+    {
+      "name": "Emilia",
+      "text": "With Roswaal currently away\non an inspection of his territories and everything...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "持ち主のロズワールは今、\n領内の視察で出払っちゃってるし……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, I know!\nWhy don't we try asking Beatrice for help?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ、\nそうだわ！\nそれなら、\nベアトリスに聞いてみたら？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Oh, good call!\nShe's basically in charge of a whole mountain of suspicious books.\nIf anyone can figure out what's up with this thing, it's her.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ああ、\nそれ妙案！\nベア子の奴、\n一応、\nあのよく分からん書庫の司書役だし。\nこの妙ちくりんな本にも詳しいに違いねぇ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "All right! Let's take this thing straight to Beako...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "よーし、\nそれじゃこれ持って、\nさっそくベア子のとこに……"
+    },
+    {
+      "name": "Puck",
+      "text": "Will we find Betty so easily, though?\nShe usually stays holed up in her hidden library...",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "だけど、\nベティーが簡単に見つかるかな？\nいつも、\nこっそり禁書庫に隠れてることが多いけど……"
+    },
+    {
+      "name": "Subaru",
+      "text": "Hey, no worries there.\nShe can connect her library to any door in the mansion, right?\nThing is, I've got a weird knack for picking the right one.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "なに、\n心配いらねぇって。\n屋敷の好きな扉と\n自分の部屋を繋ぐ魔法だろ？\nなんでか、\n俺はやたらとその当たりを引く体質だからな。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Heck, even this storeroom's door might take us straight to...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "案外、\nこの倉庫の扉が一発でベア子と……"
+    },
+    {
+      "name": "Emilia",
+      "text": "...?! Subaru, wait! The door's glowing...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──っ！？\n　スバル、\n待って！\n　扉が光って……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Wh-whooooaaaa?!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "う、うおおおおおお──！？"
+    },
+    {
+      "name": "Ram",
+      "text": "This link isn't to Miss Beatrice's library!\nIt's connecting us to somewhere else...!",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "これは、\nベアトリス様の禁書庫じゃない！\nどこか、\n別のところに繋がって……っ！"
+    },
+    {
+      "name": "Rem",
+      "text": "How awful! Subaru! Let go of the book!\nAt this rate, you'll...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "いけません！\n　スバルくん！\n　本を手放して！\nこのままだと……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Th-the door's sucking me inside...?!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "と、\n扉に吸い込まれる……！？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Aaaaahhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "きゃあああああ──！！"
+    },
+    {
+      "name": "Narration",
+      "text": "The storeroom is filled with a blinding light,\nand once the light dissipates...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "白い光が部屋中を照らし、\nそしてその光が晴れたとき──"
+    },
+    {
+      "name": "Narration",
+      "text": "The room lies entirely deserted. An eerie silence fills the air,\nbroken only by the sound of a book falling to the floor.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "部屋の中には誰もいない。\n静寂だけが支配する一室、\nその床に\n一冊の本が落ちる。"
+    },
+    {
+      "name": "Narration",
+      "text": "The book's pages flutter wildly of their own accord,\nand words begin to appear upon its previously blank pages.\nWhen it settles, a single sentence lies plain to read.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ぺらぺらと\nページのめくれる音だけがして、\n何も描かれていない、\n白紙だったページに文字が浮かび上がった。\nそこにはただ一文、\nこう記される。"
+    },
+    {
+      "name": "Narration",
+      "text": "\\\"In a distant land, strange fates shall intertwine.\\\"",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『──稀人と稀人とを、異邦の地にて巡り合わせん』\nと。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Uh... Hmm~?\nThat's odd. I sensed some kind of interference just now...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ん、\nん～？\nあれ、\nなんだか変な干渉があったような……"
+    },
+    {
+      "name": "Ameth",
+      "text": "It can't just be my imagination...\nIs something going down that I'm not aware of...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "気のせい、\nなわけないわよね……\nあたしの知らないところで\nまた何か起きてる……？"
+    },
+    {
+      "name": "Ameth",
+      "text": "That's not good.\nI just hope it doesn't drag [i]him[/i] into any trouble...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "マズいわね……\nあいつのところに\n何にもなきゃいいんだけど。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Who's causing a mess this time? Honestly...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "一体、\nどこの誰がやらかしたのよ、\nまったく……"
+    }
+  ]
+}

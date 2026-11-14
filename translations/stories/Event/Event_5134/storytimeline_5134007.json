@@ -1,0 +1,530 @@
+{
+  "title": "The New Year I Saw in my Dream",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The morning of the new year, a day after the meteor incident... {0} and the others came to Morigami's shrine.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "隕石騒動の翌日である元旦……\n{0}たちは森神の祠へやってきていた。"
+    },
+    {
+      "name": "Morigami",
+      "text": "I can't thank you enough. Because of my misunderstanding, the situation could've ended up as a disaster...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "お主らには感謝してもしきれんのじゃ。\nわしの勘違いで、\n危うくとんでもない事態に\nなるところじゃったよ……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yes, reflect on it. Next time when granting a wish, confirm it first from them!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うんうん。\n次から誰かのお願いを叶える時は、\nちゃんと本人に確認してからにしよう！"
+    },
+    {
+      "name": "Morigami",
+      "text": "It's exactly as you say. Once again, I'm deeply sorry.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "まったくもって、\nお主の言う通りじゃ。\n改めて、\n申し訳なかったのじゃ。"
+    },
+    {
+      "name": "Inori",
+      "text": "By the way, don't you think there's more offerings now? The only people that knows of this shrine other than us are just Shioshio and the two people from \"Twilight Caravan\", right?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ところで、\nなんだかお供え物が増えてないですか？\nあたしたち以外にここの祠を知ってるのって、\nシオシオ以外だと\n【トワイライトキャラバン】の二人だけですよね？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Ah, about that... When Eriko-san caught the corn mafia to help with our investigation, she told them a little about our circumstances.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ああ、\nその件なんだが……\nエリコさんが捕らえたギャングに\n調査を手伝わせたとき、\n多少は事情を説明したんだ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "They might've only half-believed it back then but then a meteor actually crashes on New Year's Eve. After the situation calmed down, it wouldn't be strange of them to spread words of the religion to others.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "あの時は疑い半分だったかもしれないけれど\n大晦日に本当に隕石が落ちてきたからね。\n落ち着いてから、\n組の人間に真相を言って回ったって\nおかしくはないさ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "I don't quite get it but you're completely right! If you worship me properly, I'll bless you with good luck. \nBut if you don't, you'll get a meteor dropped at you!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "なんかよく分からんが、\n満員御礼なのはそのとおりじゃ！\nちゃんと祀ればご利益があるが、\n雑に扱うと隕石を落としてくる\nやべー神として大人気になったんじゃよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "It's good that you're overjoyed, but doesn't that make you half an evil god?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "喜んでやがるけど、\n半分くらい邪神扱いされてないですか？"
+    },
+    {
+      "name": "Morigami",
+      "text": "...I guess, perhaps. Maybe this time I'll improve my reputation by granting blessings instead.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "……そうかな、\nそうかも。\n今度こそ\nご利益を与えることで、\n風評を改善していくしかないのう。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yep, that's good! From now on, you'll have to make sure to use your power for good～ To make everyone happy～☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うんうん！\nこれからはみんなの幸せのために、\n正しく力を使ってあげてほしいのだ～☆"
+    },
+    {
+      "name": "Morigami",
+      "text": "Definitely! Oh, I almost forgot. It's finally new year so your wish count is reset.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ！\nおっと、\nそうじゃ、\n忘れるところじゃった。\nもう新年を迎えて、\n願い事の回数もリセットされておるぞ。"
+    },
+    {
+      "name": "Inori",
+      "text": "So that means, we can wish for another 3 wishes!? \nHere I go, time to get rich...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ということは、\nまた３回願い事を叶えてもらえるってことですか！？\nそれじゃあ、\nさっそく金持ちに……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Inori-kun. Just in case, you do know that Morigami-sama isn't the only one that needs to reflect here?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "イノリくん。\n一応言っておくが、\n今回の件で反省すべきなのは\n森神さまだけじゃないのは\n理解しているよね？"
+    },
+    {
+      "name": "Inori",
+      "text": "Huuuh? Onii-san, why are you the one apologizing!? \nEven I would have to realize I'm the one at fault!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はああ？　\nお兄さん、\nなんで謝っちゃうんです！？\nあたしまで非を認めなきゃいけなくなるじゃないですか！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Uhh, please actually do acknowledge you're the one at fault. Also to begin with, shouldn't you already receive compensation from Maho-san for your hard work?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いやいや、\nちゃんと認めて反省してくれ。\n大体、\nマホさんから働き分の報酬は受け取ったはずじゃなかったかい？"
+    },
+    {
+      "name": "Inori",
+      "text": "Almost all of it was confiscated by Kaya-P! She said \"I'm sure you'll waste these anyway so I'll be taking it!\". \nShe's honestly turning more and more like boss...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そんなのカヤぴぃにほとんど没収されちまったですよ！\nどうせ全部無駄遣いするだろうから、\n預かっておくって！\nだんだんボスみたいになっていくですよ、\nまったく……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ahaha, just like a mother～ I'm sure she's thinking of \nInori-chan, I'm sure it'll be given back when you really need it.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あはは、\nお母さんみたいだね～\nでもきっと、\nイノリちゃんのことを考えてくれてるんだと思うな。\nいつか本当に必要になったら、\n返してくれるはずだよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "But I really need it right now! I want to buy mangas, games, and foods! Why can't I use it to buy stuffs I like!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "本当に必要なのは今ですよ！\n漫画も買いたいし、\nゲームも買いたいし、\n買い食いもしたいです！\nなんで好きなように使わせてくれねーんですか！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Getting back to the conversation at hand, how are we going to use Morigami-sama's 3 wishes?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "それで、\n話を元に戻すけれど。\n森神さまは\nその３回を\nどう使うつもりなんだい？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Consider it my gratitude for all your help, if you have something you wish for just give me the word. Oh, and please be detailed with what you're wishing, ok? Also, please don't use any hard words either...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "お主らへの礼に使いたい。\n願いがあれば申してみるのじゃ。\nあっ、\nちゃんと正確に頼むぞ？　\n難しい言葉は\n使うなよ？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmmm～, what should we do? \nDo you have any wishes you want to be granted?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "う～ん、\nどうしよっか？\nキミは何か、\n叶えてほしいお願い事とかある？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "We did save everyone after all! \nHatsune-chan's wish is～... Yep, I got one!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ちゃんと、\nみんな無事に新年を迎えられたもんね！\nハツネちゃんのお願いは～……\nうん、\n思いついた！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I've decided on one. What about you, Inori-kun? \nYou've had time for some \"reflections\".",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私も決まったかな。\nイノリくんはどうするんだい？\n「反省を生かした」内容にはなってると思うけど。"
+    },
+    {
+      "name": "Inori",
+      "text": "I get it, I get it! I'll give up wishing for money, I'll just have something else.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "分かってるですよ！\nもうお金は諦めますから、\n別の願いを叶えてもらうです。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Then let me hear it. What is your wish?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "では、\n聞こう。\nどんな願いを叶えてほしいのじゃ？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I wish everyone a healthy year forward! To see people dearest to me healthy would bring Hatsune-chan the greatest joy!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "みんなが、\n健康に一年を過ごせますように！\n大切な人が元気でいてくれるのが、\nハツネちゃんの幸せだから！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I'll wish for peace in the city. A lot of people lives in Landosol, I don't want a big incident or trouble to happen on such a big city.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私は\n街の平和を願うよ。\nランドソルでは\n大勢の人たちが暮らしている。\nそういう場所で、\n大きな事故や事件は起きてほしくないね。"
+    },
+    {
+      "name": "Inori",
+      "text": "I wish to not get into troubles again. Like a charm to protect against bad luck. For example, it could make the boss come back less often, that'd be nice.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "あたしは\n面倒事に巻き込まれないようにしてほしいですよ。\n厄除けってヤツです。\n例えば\nまだまだボスは帰ってこなくていーですし。"
+    },
+    {
+      "name": "Morigami",
+      "text": "...Hmmm... When granting a wish, I can only materialize concrete things or grant special powers to someone.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "……うーーーーーん……\nわしに叶えられるのは、\n具体的にイメージできる物を実体化したり、\n特別な力を与えたりすることじゃ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "So I can't quite grant your wish. \nCan't you ask for a more worldy wish?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "今お主らが言ったような願いは叶えられん。\nもうちょい、\n俗っぽい願いで頼めるかの？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Nah, this is fine. It's true that we can ask for money, item, or a strong power...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ううん、\nこれでいいんだよ。\n確かに、\nお金とか物とか、\n強い力とか、\nお願いしたらもらえるのかもしれないけど……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "If you wish to become something you aren't, it'll just lead into more problems in the future. \nThat's what we've learned from this incident.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "身の丈に合わない願いは、\nろくでもない結果になる。\n私たちの得た教訓だ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Heh... If there's something I want, I'll make my own effort to obtain it rather than wishing for it. Instead of relying on an evil god, I'll just become a god myself!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふっ……\n欲しいものがあるなら神頼みじゃなくて、\n自分で手に入れることにするですよ。\nこんな邪神なんかに頼らずに、\nむしろ\nあたしが神になってやるです！"
+    },
+    {
+      "name": "Morigami",
+      "text": "So that's how it is. Then I have nothing more to say, I'll simply listen to your wish.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "そうか。\nならば、\nわしからは何も言うことはない。\nただお主らの願いを聞くに留めよう。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Farewell, one who are content. \nI won't forget your feelings...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "さらばじゃ、\n足ることを知る者たちよ。\nその心、\n忘れるでないぞ……"
+    },
+    {
+      "name": "Inori",
+      "text": "Haah, really! I did a little mistake and she preached me over it proudly! Did she actually reflect on what she had done?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はー、\nまったく！\nちょっと下手に出たら偉そうに説教かましてきたですよ！\n本当に反省してるんですかね、\nあいつ？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Could it be that Morigami-sama was seen as someone that hands out \"punishments\"?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "森神さまって\nもしかすると\n『戒め』を与える役割を\n担っていたのかもしれないね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmm, what do you mean by that?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ん？\nどういうこと？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Think about it, don't you think the hurdle to get Morigami-sama's wishes is too low?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "よく考えてみてくれ、\n森神さまに願いを叶えてもらう\nハードルって\n物凄く低かっただろう？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, even though it's supposed to be a ritual, it's actually just playing new year games.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん。\n儀式っていっても、\nお正月に遊ぶだけでいいからね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "For people who wanted their wishes to be granted, she must've been a very convenient god.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "安直に願いを叶えてもらいたい人には、\nとても都合のいい神様だったはずだよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "But instead, people stopped believing in her because she misunderstood their wishes and ended up punishing her followers... What do you think of my hypothesis?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "それなのに信仰が途絶えてしまったのは、\n願いを勘違いしたフリして、\n欲深い人にはきつい罰を与えていたから……\nなんて仮説はどうかな。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmm, so she would end up looking like a scary god?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うーん、\nそんな怖い神様には見えなかったよ？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "And of course, this is just a guess of mine. Even if I wanted to help out, there's no doubt that she did it in good faith.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "もちろん。\nだからこれは、\nただの想像さ。\nこちらが欲をかいた分、\n事態の解決に努力すれば\n手を貸してくれる程度に良心的だったのは間違いない。"
+    },
+    {
+      "name": "Inori",
+      "text": "Don't say all that while looking at me! It's all over now so don't bring it up again. Ugh, you're just like my boss, just forgive me already.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "こっちを見ながら言うのはやめるですよ！\nったく、\n終わったことを根に持つとか\nうちのボスみたいなムーブは\n勘弁しろってんですよ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "But you know, I think she taught us that the most important thing is that we're all able to welcome the new year☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "でもさ、\n一番大事なのは、\nこうやって新しい年を迎えられることなんだよ\nって\n教えてくれたんだと思うのだ☆"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I agree with that. How about we go to the temple now? Shiori-san and the others are waiting for us.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そうだね。\nそれじゃあ神殿へ向かおうか。\nシオリさんたちが待ってるよ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Ohh, Onee-chan! Did you meet with Morigami-sama already?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あっ、\nお姉ちゃん！\n森神さまに、\nちゃんと挨拶できた？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yes! I went and properly conveyed my wishes～☆",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん！\nきちんとお参りして、\nお願い事も伝えてきたのだ～☆"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "...Just in case, you didn't say anything unnecessary... right?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……念のために聞くけれど、\nまた余計なことは言ってないわよね？"
+    },
+    {
+      "name": "Inori",
+      "text": "Why does everyone keep asking me about that!? I made a proper wish, so nothing troublesome will happen again after this!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "どいつもこいつもしつこいですよ！？\nちゃんとまっとうな願い事しかしてないから、\nもう面倒事が起こったりはしねーです！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Kus, kus... If something happens again because of you, I'll grind you to dust... You better prepare yourself for that.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "クスクスクス……\n次に何かしたら、\n今度こそすりつぶしますわ……\n覚悟はしておいてくださいね。"
+    },
+    {
+      "name": "Inori",
+      "text": "Piiiii!? I really didn't do anything wrong so please stop pressuring me like that!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴいぃ！？\nなんにもしてないうちから、\nその圧やめてほしいですよ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Thank you for all your hard work～ \nAnd now that it's all over. \nI even got invited to first shrine visit of the year, thanks♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ほんまに\nお疲れさんやったねぇ～\nおまけに\n初詣にまで誘ってもろて、\nおおきに♪"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I thought that it'd make for a great memory if we all visit it together～☆ ...Also because this time I got so much help that \nI wanted to thank you properly.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "みんなでお参りした方が、\n素敵な思い出になるのだ～☆\n……\nっていうのもあるけど、\n今回はすごく助けてもらっちゃったから。\nちゃんと、\nお礼とか言っておきたくて。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Thank you for believing in me. I don't think it would've worked out if I had tried solving the situation alone.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "私の話を信じてくれて、\nありがとう。\nもし一人だけで何とかしようとしてたら、\n絶対に上手くいかなかったと思う。"
+    },
+    {
+      "name": "Maho",
+      "text": "We should be the one being thankful. I wonder what would've happened if Hatsune-han didn't warn us about this...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "お礼を言うんは、\nうちらのほうどすえ。\nハツネはんが\n教えてくれはらへんかったら、\n今頃\nどないなことになってたか……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Yeah, you did my best. How about trying my specially made nutrition drink?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "そうね、\nよくがんばったわよ。\n特製の滋養ドリンク、\n今度ごちそうするわね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "If you're the one saying it, it's kinda embarassing... Also when we played board games, or when we slept together, this year-end was just all me getting embarassed.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "キミにそう言われると\n照れちゃうな……\nすごろくのときとか、\n森で一緒に眠ったときとか、\n今年の年末年始は照れてばっかりだね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hold on, besides the board games part... \nWhat's this about sleeping together? \nCan I ask for a little more details about that?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "待ってくれ。\nすごろくはさておき……\n一緒に眠ったってなんだい？\nもう少し詳しく聞かせてもらっても、\nいいかな。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ah.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あっ。"
+    },
+    {
+      "name": "Eriko",
+      "text": "What an insolent girl, to do all that... \nEven after having so much fun on the board game...? \nShe needs to be taught a lesson...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "なんて身の程をわきまえない女なんでしょう……\nあれだけすごろくで楽しんだうえに……？\n教育が必要ですね……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Well, well, maybe they had a reason for doing it? \n...You held her from behind so she can have a deep sleep? \nI see, so you really wanted to make her fall asleep...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "まぁまぁ、\n何か理由があってしたことなんでしょう？\n……\n安眠できるよう、\n後ろから\n抱きしめて……？\nずいぶんと濃厚な睡眠導入ねぇ……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ha,hawawawawa... Shiorin, help me!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あ、\nあわわわ……\nシオリーン、\n助けて！？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Um, even if you say that... What can I do, Inori-san?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ええっと、\nそんなこと言われても……\nどうしよう、\nイノリさん？"
+    },
+    {
+      "name": "Inori",
+      "text": "It's her own fault for letting that slip, that's what happens when you don't cast away your worldly desires at new year's eve. We'll just go on ahead and have fun ourselves.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "口が滑ったのは自己責任なんで、\n気にせず先に遊ぶですよ。\n大晦日のうちに煩悩を捨てておかねーからそうなるです。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Eh...!? Onee-chan, good luck...!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ええっ……！？\nお、\nお姉ちゃん、\nがんばって～……！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "You two, wait～! ...Uhh, we just confirmed our friendship earlier, right?\nIt's the New Year's morning, so Hatsune-chan don't want the mood to get even worse than this...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "待って二人とも、\n待って～！\n……\nあの～、\nみんな？　\nさっき絆を確認しあったばっかりだよね？\n元旦から険悪なムードは、\nハツネちゃんよくないかなって……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I wouldn't be able to call myself a detective if I overlook my friend's crime. \nNow would you tell me all about it over there?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "友人だからって罪を見逃すのは、\n探偵の矜持に反する。\n向こうで事情を聞かせてもらおうか。"
+    },
+    {
+      "name": "Eriko",
+      "text": "Maybe I should be striking you instead of the shrine bells... Darling, you sit down too... Kus, kus, kus♪",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "叩けば余罪も出てきそうです……\nあなた様も同席してくださいね……\nクスクスクス♪"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Nope, I won't let you run away.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ダメよ。\n逃がさないわ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Me too, I'm also interested in what you two talked about♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うちも、\n二人のお話に\n興味ありますわぁ♪"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Heeeh～!? \nHow did this shrine visit ended up like this～!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ひぇ～！？\nこんな初詣になるはずじゃなかったのに～！？"
+    },
+    {
+      "name": "Narration",
+      "text": "Thus, {0} and the others stopped the meteor and could enjoy the New Year safely(?).",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして無事（？）、{0}たちは隕石を迎撃し、\n楽しいお正月を過ごすことができたのだった。"
+    }
+  ]
+}

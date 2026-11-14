@@ -1,0 +1,754 @@
+{
+  "title": "Bundling Many Wishes",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Isla's Replica World, server name: \"Lynx\" - From the top of the scarlet Tower of Sol, Shinatsu, Rei, and {0} fell.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アイラの複製世界、\nサーバー名：『リンクス』──\n緋色のソルの塔の頂上から、\nシナツ、\nレイ、\nそして{0}が落ちてくる。"
+    },
+    {
+      "name": "Rei",
+      "text": "Everything is okay, calm down. Shinatsu is carrying us on the wind! Rather, is it designed to transport us into the sky every time...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "大丈夫だよ、\n落ち着いて。\nシナツが風に乗せてくれているから！\nというか、\n毎回空に転送される仕様……\nなのかな、\nこれは。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "If you hold on properly, there will be no issu--... HMM!? D-Do not grab anywhere weird please, we will fall...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ちゃんと掴まっていれば問題な……\n……っ！？\nへ、\n変なところは掴むな、\n落ちるぞ……"
+    },
+    {
+      "name": "Rei",
+      "text": "Now then... This is the world Isla manages. The capital is Sarasalia... Hehe, it is perfect for a bright and passionate girl like her. Right, Shinatsu?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "さて……\nここがアイラの管理する世界か。\n王都はサラサリア……\nふふ、\n明るく情熱的な彼女にぴったりだ。\nねえ、\nシナツ？"
+    },
+    {
+      "name": "Rei",
+      "text": ".....Hm? .......Shinatsu?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "…………？\n……\nシナツ？"
+    },
+    {
+      "name": "シナツ",
+      "text": "……久しぶりだな、\nアイラ。\nいや、\nこれじゃちょっと普通過ぎるか……\nヤッホー\nアイラ、\nおひさ♪　\nダメだ\nキャラじゃなさすぎる……\n……\nやめよう。\nそもそも\nアイラが私のことを覚えてる保証もないし……",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……久しぶりだな、\nアイラ。\nいや、\nこれじゃちょっと普通過ぎるか……\nヤッホー\nアイラ、\nおひさ♪　\nダメだ\nキャラじゃなさすぎる……\n……\nやめよう。\nそもそも\nアイラが私のことを覚えてる保証もないし……"
+    },
+    {
+      "name": "Rei",
+      "text": "She is practicing greetings for their reunion, and then depressed herself in the process...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "再会の挨拶の練習しながら、\n最後落ち込んだ……"
+    },
+    {
+      "name": "Rei",
+      "text": "Indeed, and I can see it is a lively city. Feels like they are in the middle of a festival. ...Finding Isla and Hiyori in this crowd will not be easy.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ、\nしかし活気に溢れた街だね。\nお祭りでもしているんじゃないかってくらい。\nこの人混みの中から、\nアイラとヒヨリを見つけるのは大変そうだ。"
+    },
+    {
+      "name": "Hiyori & Aira",
+      "text": "Ahahaha!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・アイラ",
+      "orig_text": "あははははっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "...We found them in an instant.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "一瞬で見つかった……"
+    },
+    {
+      "name": "Aira",
+      "text": "Shi-na-tsu-CHAAAAAAAAAAAN!!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "シ・\nナ・\nツ\nちゃぁぁぁ～～～んっっ！！！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Ghk.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……ぐっ。"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahahaha! I have missed you, Shinatsu-chan! Rei-chan and Kishi-kun, too! Welcome!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはははっ！　\n会いたかったよシナツちゃん！\nレイちゃんと騎士くんも\nよく来たね～っ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Y-You are as open-minded as ever, I see. Do you not have any dignity as an Administrator?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "キ、\nキミは相変わらず\nあけすけに感情を表出させるな。\n管理者としての\n威厳とかそういうものはないのか？"
+    },
+    {
+      "name": "Aira",
+      "text": "What are you talking about, Shinatsu-chan? It has been a while since we last saw each other, are you not happy?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "何さシナツちゃ～ん？\n久しぶりに会えたのに\nうれしくないわけ～？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "....Kh! That is... ...of course I am happy......",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……っ。\nそんなの。\n……\nうれしいに、\n決まってる……"
+    },
+    {
+      "name": "Aira",
+      "text": "LOVE YOUUUUUUU!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "大好き～～～っ！！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I just told you...! You are so strong...!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "だから……\n力が強い……っ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hehe. You two look really happy to me. ...However, Hiyori, that... umm...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ふふっ。\n二人とも、\nとってもうれしそうだね。\n……\nしかし、\nヒヨリ……\nその……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hm? Is something wrong, Rei-san?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ん？　\nどうしたの\nレイさん？"
+    },
+    {
+      "name": "Rei",
+      "text": "Well, how should I put this... It surely is a wonderful outfit, I just... do not know where to look...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "いや、\nなんというか……\nとても素敵な衣装で、\nちょっと目のやり場に困るね……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Eh? AH! I-I forgot about this outfit...! It's embarrassing~!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えっ！！？\nわ、\n忘れてた\nこの衣装……っ！\n恥ずかしいよ～っ！？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "HYAH?! ...K-Kishi-kun. Th-Thank you.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ひあっ！？\n……\nき、\n騎士くん。\nあ……\nありがと。"
+    },
+    {
+      "name": "Aira",
+      "text": "Oh, that's right, Hiyori-chan! Show them your seductive sexy pose♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "おっ、\nそうだ\nヒヨリちゃん！\n見せちゃえ\n悩殺セクシーポーズ♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "SHUT UP AT ONCE, ISLAAAAA!!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "黙ってアイラ～～～っ！！"
+    },
+    {
+      "name": "Rei",
+      "text": "A seductive sexy pose? ...No, Hiyori. You are having a party here? Did you actually tell her about the situation?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "悩殺セクシーポーズ？　\n……\nいやヒヨリ。\nこれは宴……\nをしてるんだよね？\nちゃんと状況は伝えてくれた？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah, of course! ...Kind of. I had Eris-san explain all the tough parts.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん、\nもちろん！\n……\nなんて、\n説明は\nぜーんぶ\nエリスさんがしてくれたんだけど。"
+    },
+    {
+      "name": "Rei",
+      "text": "Then why throw such a merry banquet...? It is all drinking and singing, a total ruckus... This is not the time for that...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "それならなんでこんな楽しげに宴を……？\n飲めや歌えのドンチャン騒ぎじゃないか……\nこんなことをしている状況じゃ……"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha, Rei-chan! That is exactly why! It should be at a time like this! Sulking will not get us anywhere, right?!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはは、\nレイちゃん！　\nこんな時、\nだからだよ！\nくよくよしてても始まんないでしょ！？"
+    },
+    {
+      "name": "Male",
+      "text": "Exactly! That's why, by Lady Isla's authority, today's a special holiday for everyone!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "そうそう！　\nだから\nアイラ様の権限で、\n今日は\n国民の臨時休日になったんだ！"
+    },
+    {
+      "name": "Aira",
+      "text": "Okay, okay! So with that said, everyone! Let's take a break from work, studying, and adventuring, and have fun until morning today♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "はいはーい！　\nっということでみんなーっ！\n仕事も勉強も冒険もお休みして、\n今日は朝まで盛り上がっちゃおーっ♪"
+    },
+    {
+      "name": "Residents",
+      "text": "Ahahaha~!!!",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "あはははは～～～っ！！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ahaha! Hey, Shinatsu-chan! Happiness comes wherever there are smiles! So let's smile together!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あはは！　\nねえシナツさん！\n幸せは\n笑顔のある所にやってくるんだよ！\nだから\n一緒に笑おーっ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...S-Smile......? That is a pretty high bar... Wait.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……わ、\n笑う……？\nそんなハードルの高い要求は\nいきなり困……\n……\n待て。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Isla, what did you just say...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……アイラ、\nさっきキミは\nなんと言った……？"
+    },
+    {
+      "name": "Aira",
+      "text": "Oh, that's right, Hiyori-chan! Show them your seductive sexy pose♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "おっ、\nそうだ\nヒヨリちゃん！\n見せちゃえ\n悩殺セクシーポーズ♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That's definitely not what she meant, is it!?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "絶対そこじゃないよね！？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Today is a special day off, with no work, studies or adventures...? Without that going on, everyone would be living their daily lives. ...Just as they have been programmed to do.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "今日は臨時休日で、\n仕事も勉強も冒険もお休み……\nだと？\nそれが無ければ人々は皆、\n日々の生活に勤しんでいたはずだ。\n……\nプログラムに定められた通りに。"
+    },
+    {
+      "name": "Rei",
+      "text": "That is true... And yet everyone is here enjoying the banquet. ...Which means everyone in this world has already broken through their programming...!?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "確かに……\nだが\nみんな宴を楽しんでいる。\n……\nということは\nこの世界のみんなも、\nプログラムを突破して……！？"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha! Come on, come on! Come here and have fun, everyone! We'll dance until morning today~♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あははっ！　\nほらほらみんな\n楽しんでるーっ！？\n今日は朝まで\n踊り明かすよ～♪"
+    },
+    {
+      "name": "Son",
+      "text": "Thank you, Lady Isla! If we're all together like this, we'll forget all about our bad dreams!",
+      "choice_data_list": [],
+      "orig_name": "息子",
+      "orig_text": "ありがとうアイラ様！\nこうやってみんなでドンチャンやってりゃあ、\n嫌な夢のことなんて\n忘れちまうよ！"
+    },
+    {
+      "name": "Woman",
+      "text": "Yeah, I feel great♪ I don't have time to do housework♪",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "うん、\n最高の気分♪\n家事なんてやってられないわ～♪"
+    },
+    {
+      "name": "Umbra",
+      "text": "Nya~n♪",
+      "choice_data_list": [],
+      "orig_name": "アンブラ",
+      "orig_text": "うにゃにゃ～ん♪"
+    },
+    {
+      "name": "Boy",
+      "text": "I want to keep smiling like this with Lady Isla and everyone♪ That's what we all \"wish\" for!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "アイラさまやみんなと一緒に、\nずっとこうやって笑顔でいたいなぁ♪\nそれがみんなの\n“願い”だもん！"
+    },
+    {
+      "name": "Residents",
+      "text": "Ahahaha~!",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "あはははは～～～っ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bzzt...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ザザ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...! Is this... the same warning message that was sent with the disciples? ...As for what it says...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "っ！\nこれは\n弟子たちと同じ\n警告メッセージか？\n……\n内容は。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Excessive mutations detected in resident routines. If tolerance is exceeded, cyclical evolution simulation may be interrupted.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "「住民のルーチンに過剰な変異を検出。\n許容差を超える場合、\n循環的進化シミュレーション中断の可能性あり。」"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "It is the same message as the one we got... Isla, so you noticed it too, huh? I am impressed you were able to make it happen at such a scale.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "私たちの時と同じ文面……\nアイラ、\nキミも気づいていたのか。\nそれを\nこんな形で実現するなんて、\nさすがだな。"
+    },
+    {
+      "name": "Aira",
+      "text": "EEHHHHHHHHHHH?! Overriding their programming... with the power of a wish?!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "えええ～～～っ！？\n願いの力で\nプログラムを無視するぅぅぅ～～～！？"
+    },
+    {
+      "name": "Rei",
+      "text": "She did not notice at all...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "全然気づいてなかった……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Amazing!! I never knew there was a way to stop the simulation like that...!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……\nすごいっ！！\nシミュレーションを止めるのに、\nそんな方法があったなんて……！！"
+    },
+    {
+      "name": "Aira",
+      "text": "I see...! So we just have to keep the party going?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "なるほどね～……！\nじゃ、\nこのまま宴会を続けてればいいってことかな？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...No, that is not necessarily the case. This was just one possibility to do it.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……いや、\nそうとは限らない。\nこれは一つの可能性に過ぎない。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "If the simulation stops, we might be able to go beyond the reset... but we cannot deny the possibility that this world will be abandoned and deleted.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "シミュレーションが停止すれば、\nリセットの向こうへ行けるかもしれない……\nしかしあるいは。\nこの世界が見放されて、\n削除されてしまう可能性も否定はできない。"
+    },
+    {
+      "name": "Aira",
+      "text": "Ugh... You're right.",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "うう……\n確かに。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...{0}.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……キミ。"
+    },
+    {
+      "name": "ヒヨリ",
+      "text": "…うん！\nアストルムを作った\nすごい人たちもいるんだもんね……！",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "…うん！\nアストルムを作った\nすごい人たちもいるんだもんね……！"
+    },
+    {
+      "name": "Aira",
+      "text": "...! ...Ahaha! You really are the best!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "っ！　\n……\nあはは！\n最っ高だね！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Heh... You never cease to amaze me, {0}.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ふ……\nつくづくキミというやつは。"
+    },
+    {
+      "name": "Aira",
+      "text": "All right... Let's keep the party going! Okay, everyone! I allow you to have even more fun! No need to hold back♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "よしっ……\nこのまま宴会を続けようっか！\nはーい、\nみんな！　\nもっと盛り上がっていこう！\n遠慮はいらないよ♪"
+    },
+    {
+      "name": "Aira",
+      "text": "Ready! CHEEEERS!!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "せーのっ！\nかんぱーーーい！！！"
+    },
+    {
+      "name": "Residents",
+      "text": "CHEEERS!!!",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "かんぱーーーいっ！！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bzzzzt... bzzzzt...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ザザ……\nザザザ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "The number of warning messages is steadily increasing. Good. Keep up the good work, everyone.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "警告の表示回数がどんどん上がっていく。\nいいぞ、\n皆その調子で盛り上がってくれ。"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha, Shinatsu-chan, you're so stiff! You should get more fired up and have fun♪ This kind of thing is a win-win for everyone, you know?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あははっ、\nシナツちゃん固い固い！\nもっとテンションあげあげで楽しくいこう♪\nこういうのは、\n楽しんだもの勝ちだよ？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Me, get fired up... No, that is impossible. Such a thing... I-I cannot...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……テンション\nあげあげ……\nいや無理だ。\nそんなこと……\nわ、\n私には……"
+    },
+    {
+      "name": "シナツ",
+      "text": "……ええい、\n儘よ！　",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……ええい、\n儘よ！　"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "M... Maybe \"frying tempura\" is more my speed...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "て……\n天ぷらあげあげくらいが性に合っている……"
+    },
+    {
+      "name": "ヒヨリ・レイ・アイラ",
+      "text": "「「「！！！」」」",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ・アイラ",
+      "orig_text": "「「「！！！」」」"
+    },
+    {
+      "name": "Aira",
+      "text": "YAAAAY! Shinatsu-chan's made a funny joke!!! Let's keep it going like this♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "やったぁぁ！　\nシナツちゃんがボケたよー！！！\nこの調子であたしたちも盛り上がっていこー♪"
+    },
+    {
+      "name": "Residents",
+      "text": "Tempura fry-fry♪ Tempura fry-fry♪ Tempura fry-fry♪",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "天ぷらあげあげっ♪\n天ぷらあげあげっ♪\n天ぷらあげあげっ♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Wha-... Do not just sing it along! Ugh... Why did I get so carried away with such a silly pun...? But... it did get a laugh...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "なっ、\n担ぐなキミたち……っ！\nうう……\n調子に乗ってなぜあんな洒落を私は……\nでも…………\nちょっと\nウケたぞ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Thanks, Kishi-kun! Hey, Isla! Shinatsu-san! Let's all eat together to celebrate our reunion!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くん\nありがとっ！\nねね、\nアイラ！　\nシナツさん！\n再会を祝して\nみんなで一緒に食べよーっ♪"
+    },
+    {
+      "name": "Rei",
+      "text": "Hehe, let us do just that. I could not bring myself to say it, but I wanted to talk to you a lot.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ふふ、\nそうしようか。\n状況的に言い出せなかったけど、\nシナツ。\nあなたとたくさんおしゃべりしたかったんだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Yeah... Me too.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ああ……\n私もだ。"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha, when I woke up this morning, I didn't think the day would shape up like this♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あははっ、\n今日の朝目覚めた時は、\nまさかこんな一日になるなんて思ってもみなかったよ♪"
+    },
+    {
+      "name": "Aira",
+      "text": "Maybe it was because Hiyori-chan was here that our fate changed?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "ヒヨリちゃんが来てくれたから、\n運命が変わったのかな？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "As for me, it is because Rei came to my world. Perhaps... no, definitely, we would not have been able to reach the power of \"wishes\" on our own.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "私の世界にはレイ。\nキミが来てくれたからだ。\n恐らく……\nいや、\n絶対に私たちだけでは、\n“願い”の力などという方法には至れていない。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Isla... What we did back then, was not a waste.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "アイラ……\n無駄じゃなかったな。"
+    },
+    {
+      "name": "Aira",
+      "text": "Yeah! I'm so glad I jumped over to the Base World back then!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "うんっ！\nあの時、\n世界を飛び越えてよかった！"
+    },
+    {
+      "name": "Aira",
+      "text": "I'm so glad I got to meet you guys!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "キミたちに会えて\nほんっとによかった！"
+    },
+    {
+      "name": "Rei",
+      "text": "Isla...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "アイラ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Heheh! Okay, no need to get all gloomy right now! Let's all have fun together!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……へへっ！　\nはい、\n湿っぽいのは今は無しだよっ！\n今はみんなで盛り上がってこーっ！！"
+    },
+    {
+      "name": "Residents",
+      "text": "Ahahaha!",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "あははははっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Bzzt...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ザザ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "The log is getting filled up again... I am going to read.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "更にログが……\n読むぞ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "[FINAL WARNING] Resident mutations have far exceeded tolerance levels. If uncorrected, this simulation will fully terminate in 10 seconds.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "「【最終警告】\n住民の変異が\n許容差を大幅に超えています。\n解消されない場合、\n本シミュレーションは\n10秒後に\n完全停止されます。」"
+    },
+    {
+      "name": "Hiyori Rei Isla",
+      "text": "!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ・アイラ",
+      "orig_text": "「「「っ！！」」」"
+    },
+    {
+      "name": "Rei",
+      "text": "Is it finally time...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "これは。\nついにその時が来たのか……？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "In another ten seconds, the simulation of this world will stop! 9... 8...!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あと10秒で、\nこの世界のシミュレーションは止まるんだね！\n９……\n８……！！"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha! Then at last, we'll claim our future...!! 7...!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはは！　\nじゃあ、\nこれであたしたちは未来を……っ！！\n７……！！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "At last, we can finally grasp it with our own hands... 6...!!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ついに\nこの手にすることが、\nできるんだな……\n６……！！"
+    },
+    {
+      "name": "みんな",
+      "text": "３……！！！\n２……！！！",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "３……！！！\n２……！！！"
+    },
+    {
+      "name": "Residents",
+      "text": "WAAAAAAHHHH!!?",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "わあああぁぁぁ！！？"
+    },
+    {
+      "name": "Aira",
+      "text": "Everyone!!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "みんな！！！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "What was that incredible magical energy just now?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "何だ\n今のすさまじい魔力は──"
+    },
+    {
+      "name": "？？？",
+      "text": "...Quite the lively little party you are having. It makes me want to vomit.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──随分盛り上がってるわね。\n反吐が出るわ。"
+    },
+    {
+      "name": "Hiyori & Rei",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ",
+      "orig_text": "……っ！？"
+    },
+    {
+      "name": "？？？",
+      "text": "A future overflowing with hope...? Do not make me laugh. In this world, no one has warmth, no one has a soul -- you are nothing but empty shells, puppets carved out by computation.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "希望に溢れた未来……？　\n何を言っているのかしら。\nこの世界の誰もが、\n体温も魂もない、\nしょせん演算処理にかたどられただけの空虚な存在だというのに。"
+    },
+    {
+      "name": "Residents",
+      "text": "...Ahhh!?",
+      "choice_data_list": [],
+      "orig_name": "住民たち",
+      "orig_text": "……ああぁっ！？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Wh... what... did you just say...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "な……\nなん……\nだと……？"
+    },
+    {
+      "name": "Aira",
+      "text": "Why are you... here... Right now!?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "なんでお前が……\n……\n今！"
+    },
+    {
+      "name": "Aira & Shinatsu",
+      "text": "KAISER INSIGHT!!!",
+      "choice_data_list": [],
+      "orig_name": "アイラ・シナツ",
+      "orig_text": "覇\n瞳皇帝ッ！！！"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "Hehe... Those faces. Laughable. You dare to look so shocked and impertinent.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "ふふ……\n笑えるわね、\nその顔。\n生意気に驚きの表情なんて、\n浮かべて。"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "No ...They actually are so disgusting. An AI talking about hope, about the future. You are so ridiculously conceited.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "いいえ、\n……\nやっぱり虫唾が走るわ。\nAIが希望を、\n未来を語るだなんて。\n莫迦げた思い上がりね。"
+    },
+    {
+      "name": "Narration",
+      "text": "Just before the simulation stopped, the one who appeared before the people was... Kaiser Insight.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "シミュレーション停止直前、\n民衆の前に姿を現したのは\n──覇瞳皇帝だった。"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "title": "C'mon, c'mere, Sheffy",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, after overcoming the deadly battle against Lady Arachne and their other foes, the members of the Gourmet Guild and Alter Maiden were gathered around the dining table in the residential area of the Demon's Foot Fortress.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アラクネたちとの死闘を乗り越えた後の、\nある日。\n鬼岩城塞の居住区にて、\n【美食殿】と【アルターメイデン】の面々が\n食卓を囲んでいた。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Everyone, thank you for your hard work today. Let's enjoy a good meal and a good rest.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさま、\n本日もお疲れさまでした。\nおいしい食事と十分な休息で、\n英気を養いましょう。"
+    },
+    {
+      "name": "Precia",
+      "text": "*munch munch* Delicious.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "はむはむ。\nうまうま。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Oh, Precia, the sauce is about to drip from your mouth. Be careful not to get yourself dirty.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あぁプレシアちゃん、\nソースが垂れちゃいそうよ。\n汚さないように気をつけてね。"
+    },
+    {
+      "name": "Quria",
+      "text": "Sheffy and Precia have become good buddies, haven't they? I heard they also trained together.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "シェフィさんとプレシアちゃん、\n仲良しになったんですね。\n一緒に訓練したとは聞きましたけど。"
+    },
+    {
+      "name": "Riri",
+      "text": "I would very much like to study under Lady Sheffy as well. She has performed wonderfully in the battle against the Magic Spider.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "わたくしもぜひ、\nシェフィ様に師事させていただきたいです。\n魔蜘との戦いでは、\nすばらしいご活躍ぶりでした。"
+    },
+    {
+      "name": "Quria",
+      "text": "She truly was so cool, even I grew to admired her back there. She was so calm and reliable even in battle... Even though she's not that far apart in age with us, she's a wonder!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "とってもかっこよくて、\nわたしも憧れちゃいました。\n戦いの中でも冷静で、\n頼もしくて……\nわたしたちとそんなに歳は離れてないのに、\nすごいなって。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "D-Don't praise me like that in front of me... It's embarrassing.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そ、\nそんなに褒めないで……\nさすがに恥ずかしいわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's nothing to be shy about. You've done an amazing job, so just earn it!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なーにもじもじしてんのよ。\nあれだけ大活躍したんだもの、\nドーンと構えてなさい！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's right! Even when it comes to food, you can have the best food all to yourself! Look, I recommend \"this\" or something like that☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですよー！\nごはんだって、\n一番おいしいのを独り占めしていいくらいです！\nほらほら、\n『これ』とか\nオススメですよ☆"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Thank you. Let's dig in, then...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ありがとう。\nじゃあ\nいただいちゃおうか、\nしら……"
+    },
+    {
+      "name": "Quria",
+      "text": "I-Is this... a giant bug? I think I saw it crawling in the jungle before.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "こ、\nこれは……\n巨大な虫、\nでしょうか。\n前にジャングルで見かけたような。"
+    },
+    {
+      "name": "Riri",
+      "text": "I-I've been following everyone's example and have been trying my hand at monster cuisine, but... to be honest, I still haven't mastered this kind of thing...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "わ、\nわたくしも皆様を見習い、\n魔物料理に挑んでいますが……\n正直、\nこの類は\n未だに……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "PIEEEEEEEENNNNN!!! NOOOOOOOO, I DON'T WANT TO!!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ぴええええぇぇぇんっ！！！\nやあっ、\nやだあぁぁぁぁっ！！！"
+    },
+    {
+      "name": "クリア・リリ",
+      "text": "！！？",
+      "choice_data_list": [],
+      "orig_name": "クリア・リリ",
+      "orig_text": "！！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "FUEEEEEEEHHHHH, MAMAAAAAAA!! BUG, THE BUG, I DON'T WANT ITTTTTT...!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ふ\nえぇっ、\nままぁっ！！\nむし、\nむしっ、\nいやあぁぁっ……！！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Alright, alright, it's all right, Lady Sheffy. There's nothing to be afraid of... Pat pat. ...Leaving monster cuisine aside, this one seems a bit harsh for her.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "よしよし、\n大丈夫ですよシェフィさま。\n怖がることは何もありません……\nなでなで。\n……魔物料理はともかく、\nこちらは少々厳しかったようですね。"
+    },
+    {
+      "name": "Precia",
+      "text": "The Bug. Is dead. Not scary.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "むし、\nしんでる。\nこわくないよ。"
+    },
+    {
+      "name": "Riri",
+      "text": "U-Umm... Lady Sheffy?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "え、\nえぇと……\nシェフィ、\n様？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, it's no big deal, so don't worry. Sheffy can turn back into a baby sometimes...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あー、\n大したことじゃないから大丈夫よ。\nシェフィってたまにこんな感じで\n赤ちゃんみたくなっちゃってさ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Mama... Mama... Ugh, ugh... AH.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "まま、\nまま……\nうぅ、\nえぅ……\n…\n…あっ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Umm... Sorry for the trouble, Kokkoro-san. It's okay now.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "えっと……\n迷惑をかけたわ、\nコッコロさん。\nもう大丈夫よ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm glad you've calmed down. If you need anything else, please don't hesitate to ask me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "落ち着かれたようで何よりです。\nまた何かあれば、\n遠慮せずにわたくしを頼ってくださいまし。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Quria & Riri",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "クリア・リリ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...I WANT TO DIE!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……死にたい！"
+    },
+    {
+      "name": "Quria",
+      "text": "You shouldn't be the one to say that! I admit I was a little surprised, but we don't really mind either!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "そんなこと言わないでください！\nちょっとびっくりしましたけど、\nわたしたちも気にしませんよっ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ugh... I'm glad you're trying to comfort me, but it's no good after all...! If I don't stop turning into a baby, I'm sure something terrible will happen...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うぅ……\n慰めてくれるのはうれしいけど、\nやっぱりダメなのよ……！\nだって、\nこのまま赤ちゃん化が治らなかったら、\n大変なことに……"
+    },
+    {
+      "name": "Riri",
+      "text": "Something terrible...? Do you have any concrete concerns?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "大変なこと……？\n何か具体的な懸念があるのでしょうか？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Well, umm... I was able to come back thanks to everyone, right? I was prepared to be \"Lost\" and say goodbye to everyone and to life forever.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それは、\nえっと……\n私、\nみんなのおかげで戻ってくることができたでしょう？\nロストしたまま、\n永遠のお別れだって覚悟していたのに。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "And that's why right now I'm filled with hope. That maybe my brother can be saved just like I was... That maybe we can meet again.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "だから、\n希望が持てたと思うの。\n私と同じように、\n兄さんも助けられるかもしれない……\nまた会えるかもしれない、\nって。"
+    },
+    {
+      "name": "Quria",
+      "text": "...Sheffy's older brother is...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……シェフィさんのお兄さんって、\n確か……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I see. If you all have your memories too, then you know about Zane's... about my brother's fate, too.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そっか。\nあなたたちも記憶があるのなら、\nゼーンの……\n私の兄さんのことも、\n知っているのよね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "We had both lost our memories for a long time, so we didn't really have the time for a reunion back there. If we could meet again, there are so many things I want to talk about. But, but...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "二人ともずっと記憶を失っていたから、\nろくに話もできなかったわ。\nも\nし再会できたら、\n話したいことがたくさんあるの。\nでも、\nでもっ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "What would I do if I turned into a baby in front of my brother...?! It’s already embarrassing as it is, but thinking of that as he's watching me is just...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "兄さんの前で、\n赤ちゃんになっちゃったらどうしよう……！\nただでさえ恥ずかしいのに、\n兄さんに見られるなんて……！"
+    },
+    {
+      "name": "Quria",
+      "text": "Ahh... That's certainly a serious matter.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あぁー……\nそれは確かに、\n一大事ですね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I'm sure he'd be shocked...! He'll look at me with eyes that say: \"My sister is in such a pitiful state...\". I can't stand that, I can't live!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "きっとどん引きされる……！\n「俺の妹が、\n無残な姿に……」\nって目で見られるわ！\nそんなの耐えられない、\n生きていけない！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please wait. Even if you were to become a baby, you'll still be Lord Zane precious little sister, Lady Sheffy.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お待ちください。\n赤ちゃんになってしまっても、\nシェフィさまはゼーンさまにとって\n大切な妹であるはずです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's right! Thinking about Zane, he'd probably be able to smile and say: \"I remember when you used to be like this, Sheffy\"",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですよ！\n案外ゼーンさん、\n「シェフィにもこんな頃があったなぁ」って\nほっこりしてくれるかもしれません。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "That’s painful in its own way! Isn’t that the kind of thing you talk about while looking at an old photo album? Having your real sister turn back into a baby it's an entirely different matter!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それはそれで辛いわよ！\nそういうのって\nアルバムとか見ながらする話でしょ？\n実物の妹が赤ちゃん化するのは、\n違うでしょ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Don't worry. We'll do our best.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "だいじょぶ。\nがんばろ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Precia...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "プレシアちゃん……"
+    },
+    {
+      "name": "Riri",
+      "text": "Lady Sheffy, I believe the only way to overcome one's weakness is through training. Acquire the spirit of rising through your own challenges like steel and overcome your baby-like state.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "シェフィ様。\n己の弱さに打ち勝つには、\n鍛錬あるのみかと思います。\n百錬成鋼の精神を身に付け、\n赤ちゃん化を克服しましょう。"
+    },
+    {
+      "name": "Quria",
+      "text": "If we can do something for you, Sheffy, and Zane, we'll surely help out. Don't hesitate to rely on us.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "シェフィさんとゼーンさんの助けになれるなら、\nわたしたちだって協力しますよ。\n遠慮せず頼ってください。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Everyone... Okay... I understand. I'll do my best too. So that in the future I'll go see my brother with my head held high!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "みんな……\nうん……\nそうね、\nわかったわ。\n私も頑張ってみる。\n胸を張って\n兄さんに会いに行くために！"
+    },
+    {
+      "name": "Narration",
+      "text": "Thus, the members of the Gourmet Guild were joined by Alter Maidens, and measures to prevent Sheffy from turning into a baby began...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、\n【美食殿】の面々に【アルターメイデン】も加わり、\nシェフィの赤ちゃん化対策が始まった……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "What's this, a balloon?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "これは何かしら、\n風船？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's a Gio Gehenna plant. When it's subjected to impact, it swells up, and once it gets big enough...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ジオ・ゲヘナの植物ですよ。\n衝撃を与えると膨らんで、\nある程度大きくなると……"
+    },
+    {
+      "name": "Narration",
+      "text": "Paaaaan!!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "パアァァァン！！"
+    },
+    {
+      "name": "Riri",
+      "text": "It unleashes a thunderous roar. It's apparently also used for hunting, and it certainly is overwhelming even when you're prepared. Now then, Lady Sheffy...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "まさに轟音ですね。\n狩猟でも使われるそうで、\n確かに身構えていても圧倒されます。\nではシェフィ様……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "BWEEEEEEHHHHHHHH!! SCARYYYYY!!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "びえぇ\nぇぇっ！！\nこぁぃぃぃ！！！"
+    },
+    {
+      "name": "Quria",
+      "text": "Aaah, Sheffy, pull yourself together! That was just a rehearsal, the real thing is yet to come!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あぁっ、\nシェフィさんしっかり！\n今のはただのリハーサルですから、\n本番はこれからです！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Now then, I shall proceed and treat you just like a baby. You must resist with all your might.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ではこれから、\nわたくしがシェフィさまを\n赤ちゃん扱いいたします。\nシェフィさまは\n全力で抗ってください。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Okay. If I can't brush this off easily, meeting my brother is just a pipe dream.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……\nわかったわ。\nこれを軽く撥ね除けるくらいじゃないと、\n兄さんに会うなんて夢のまた夢だものね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Come, Lady Sheffy, it's time for you to rest. Enjoy your warm futon and get cozy... Roll over, roll over...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "さぁシェフィさま、\nお休みの時間でございます。\nぽかぽかふとんで、\nきもちよく……\nねんねんころり、\nおころりよ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hey, Kokkoro-san? I'm sure things like these won't turn me into a baby just...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ちょっと、\nコッコロさん？\nさすがに私でも、\nこのくらいじゃ赤ちゃんになんて……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Mm, Mama... Sheffy is sleepy... Fuwaaaah, hmm...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ん、\nまま……\nしぇふぃ、\nおねむなの……\nふわあぁぁ、\nんぅ……"
+    },
+    {
+      "name": "Precia",
+      "text": "Me too. Ugh...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "わたし、\nも。\nくぅー……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Geez, Korosuke, you're going too far! If you seriously go into your mom mode, it won't be just Sheffy who gets affected!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あーもうコロ助、\nやり過ぎよ！\nあんたが本気でママになったら、\nシェフィだけじゃ済まないわ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Today, we'll be doing training using cooking☆ Sheffy, try this meat first!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "今日はお料理を使った訓練です☆\nシェフィちゃん、\nまずはこっちのお肉を食べてみてください！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Munch, munch... this is so delicious! It feels like the flavor is packed tightly into the meat...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "もぐもぐ……\nこれ、\nすごく美味しいわ！\n肉の中に、\n味がぎゅっと詰まってる感じで……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Next, please have some of this fruit. It's a dessert popular with the children of the settlement.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それでは次に、\nこちらの果物をどうぞ。\n集落のお子さまがたにも大人気のデザートだそうです。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I will dig in then. Hamuhamu... fuwaaa, this is good too!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "いただきますっ。\nはむはむ……\nふわぁぁ、\nこれもおいちーっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Now, let's have the fateful dish... insect cuisine!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それでは因縁の……\n虫料理ですっ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "YAAAAAAHH!! BUGS, NOOOOOOOOO!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "やああああぁっ！！\nむし、\nやあぁぁぁぁっ！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Look I knew it, bug cooking really is too stimulating. I'd like to avoid them with all my might too.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ほらやっぱり、\n虫料理は刺激が強すぎるのよ。\nあたしだって全力で遠慮したいもの。"
+    },
+    {
+      "name": "Quria",
+      "text": "...Huh? Didn't she actually fail even before that bug was presented...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……あれ？\nいま、\n虫が出てくる前に\n陥落してませんでしたか……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Geez, this is tough... It's supposed to be training, but it's turning into an experiment to turn Sheffy into a baby again.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく、\n手ごわいわね……\n訓練のはずなのに、\nシェフィの赤ちゃん化実験みたいに\nなってるじゃない。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...I'm sorry, everyone. I caused you all so much trouble because my heart is weak...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……みんな、\nごめんなさい。\n私の心が弱いせいで、\n苦労をかけちゃって……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "However, it may be necessary to examine the conditions for babyhood. Only by correctly understanding the problem can we take measures to prevent it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "しかし、\n赤ちゃん化の条件についても\n検証が必要かもしれません。\n問題を正しく把握してこそ、\n対策が立てられます。"
+    },
+    {
+      "name": "Quria",
+      "text": "Um, may I ask you a question? Why are you turning into a baby in the first place?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "あの、\n質問いいですか？\nそもそもどうして赤ちゃんになっちゃうんです？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "That's... I wonder why?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それは……\n……どうしてなのかしら？"
+    },
+    {
+      "name": "Karyl",
+      "text": "That was a blind spot. I already took it for granted that Sheffy would become a baby, and never asked myself why either.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "盲点だったわね。\nシェフィが赤ちゃんになるの、\nもう当たり前って思ってたし。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "She was a baby the first time we met, after all. If there was a cause, would it have been before that?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたちと初めて会ったときから赤ちゃんでしたからね。\n原因があるとしたら、\nそれより前になるんでしょうか？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Certainly... If she went so far to cooperate and rescue me, I'm sure she'll tell me about it. To be honest, I still can't accept it...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "確かに……\n協力してくれるっていうなら、\nその辺りのことも教えてくれそうね。\n正直言うと、\nまだ\n受け止め切れてはいないんだけど……"
+    },
+    {
+      "name": "Quria",
+      "text": "But for now, all you can do is rely on that person. If we can find the cause, maybe we can cure the baby transformation.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "でも今は、\nあの人を頼るしかないですよ。\n原因がわかれば、\nもしかしたら赤ちゃん化も治せるかも。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Putting that aside, how are we even supposed to talk with Eris? Normal communication magic won’t reach her, so are we going back to our world to do this?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それはいいとして、\nエリスに聞くってどうやるのよ。\n普通の通信魔法じゃ届かないし、\n今からあっちの世界に戻るの？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "That's not the best idea. I think in such cases we ask for a specialist for help.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "得策ではありませんね。\nここはやはり、\nあの方に助力を乞うのが一番かと。"
+    },
+    {
+      "name": "Homare",
+      "text": "So you want to talk to Eris-chan? Fine, I'll help♪ If I act as a relay, communication magic will probably reach her.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "エリスちゃんとお話ししたい？　\nいいよ～、\n手伝ってあげる♪\n私が中継役になれば、\n通信魔法も届くだろうし。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Homare, you already helped us enough in the battle against Arachne. I can't thank you enough. It pains me to rely on you again this soon, but...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ホマレさんは、\nアラクネとの戦いでも協力してくれたのよね。\n感謝してもしきれないわ。\nまた\n頼ってしまうのは心苦しいけど……"
+    },
+    {
+      "name": "Homare",
+      "text": "It's okay, it's fine☆ This is a request from an important assistant of mine, isn't it? I'm sure you both have things you want to talk about, right? I think it's best to talk about it properly while you've got the chance to do so.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "いいのいいの☆　\n大事なアシスタントの頼みだもんね。\nお互いに積もる話もあるだろうし？\nこの際だから、\nちゃんと話しておいたほうがいいと思うな。"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Eris. Can you hear me? I guess I should say, \"It's been a while?\" or something...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……エリス、\nさん。\n聞こえる？\n久しぶり、\nって言えばいいのかしら。"
+    },
+    {
+      "name": "Eris",
+      "text": "Type D specimen 0005b... No, Agato Shifuna. I never thought we'd be talking like this...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "D型検体\n0005b……\nいえ、\n阿賀斗紫布菜。\nこうして話すことになるとは思わなかった……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I agree on that front. I would have never imagined you'd be alive and ready to help us.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "私も同感よ。\nあなたが私たちに協力してくれるなんて、\n夢にも思わなかったもの。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I haven't forgiven you for everything you did to me and my brother. But I'm alive today because of your help. For that, I'm grateful.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あなたが私と兄さんにしたことを、\nすべて許したわけじゃない。\nでも\nあなたの助けがあったから、\n私はいまこうして生きてる。\nそのことには礼を言うわ。"
+    },
+    {
+      "name": "Eris",
+      "text": "...It's nothing special, I only lent a hand because there was a benefit for me to do so. So, you made the effort to contact me to express your gratitude?",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "……別に、\nこちらにも利があったから手を貸しただけ。\nそれで、\n礼を伝えるためにわざわざ通信を？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Actually, I also wanted to talk about something important. About my babyization.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "実は\n大事な話をしたくて。\n私の\n赤ちゃん化についてよ。"
+    },
+    {
+      "name": "Eris",
+      "text": "\"Babyization\"? Ah... is that what I've observed many times in the logs related to the \"Gourmet Guild\"?",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "赤ちゃん化？\nああ……\n【美食殿】関連のログで\n何度も観測したあれか。"
+    },
+    {
+      "name": "Eris",
+      "text": "It was convenient to be able to touch Knight-kun through the specimen like that, but... as far as skinship goes, it was a little too stimulating...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "検体を通じて\n騎士クンと触れあえるのは、\n都合がよかったけど……\nスキンシップとしては、\nちょっと刺激が強かったな……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I'll get straight to the point. Why do I get turned into a baby sometimes? Did you do something when you turned me into a terminal?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "単刀直入に聞くわね。\nどうして\n赤ちゃん化が起こるの？\nあなたが私を端末にするために、\n何か細工をしたんじゃないの？"
+    },
+    {
+      "name": "Eris",
+      "text": "There is certainly some responsibility related to that. But the phenomenon of turning into a baby is not something I have willed. It is purely irregular.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "細工は、\n確かにしている。\nでも\n赤ちゃん化という現象は、\nわたしの意思によるものではない。\nあくまでイレギュラー"
+    },
+    {
+      "name": "Eris",
+      "text": "Originally you were using avatars of a common race. I transferred your souls to special dragonfolk avatars. I forced them, so to speak.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "本来のあなたたちは、\n一般的な種族のアバターを利用していた。\nわたしはその魂を、\n特別なドラゴン族のアバターに転向した。\n言うなれば、\n無理に押し込むような形で。"
+    },
+    {
+      "name": "Eris",
+      "text": "\"Babyification\" is probably an accidental bug that occurred in the process of the soul adapting to that emergency. In fact, your brother didn't show any such symptoms, did he?",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "赤ちゃん化はおそらく、\nその非常事態に\n魂が適応する過程で生じた偶発的なバグ。\n現に兄のほうには、\nそんな症状は現れていなかったでしょう？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Then we just need to fix that bug. You can do that, right?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "だったら\nそのバグを直せばいいのよね。\nあなたならできるんでしょう？"
+    },
+    {
+      "name": "Eris",
+      "text": "I cannot.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "できない。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Huh...? Wh-Why? Is it because you haven't regained your power yet?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "え……\nど、\nどうして？\nもしかして、\nまだ\n力を取り戻せていないから？"
+    },
+    {
+      "name": "Eris",
+      "text": "No, it has nothing to do with my power. Your soul has already been established in a form that has adapted to your current avatar. And that adaptation includes your bug of turning into a baby.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "いいえ、\nわたしの力とは無関係。\nそもそもあなたの魂は、\nすでに今のアバターに適応した形で\n確立してしまっている。\n赤ちゃん化というバグも含めて。"
+    },
+    {
+      "name": "Eris",
+      "text": "To remove it, you have to remake your soul from scratch. Something akin to dying and being reborn.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "それを取り除くなら、\nあなたの魂を一から作り直すしかない。\nそれはもはや、\n死んで生まれ変わるようなもの。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Then don't tell me that my baby form is...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "じゃあ\nまさか、\n私の\n赤ちゃん化は……"
+    },
+    {
+      "name": "Eris",
+      "text": "Give up. You are who you are now, including your tendency to turn into a baby.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "諦めなさい。\n赤ちゃん化するという性質も含めて、\n今のあなただから。"
+    },
+    {
+      "name": "シェフィ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... Um, my condolences, Sheffy. It can't be helped. Life can be like this sometimes.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あー……\nその、\nご愁傷様ね、\nシェフィ。\n仕方ないわよ、\n人生こういう時もあるわ。"
+    },
+    {
+      "name": "Quria",
+      "text": "Please live strong, Sheffy... If you turn into a baby again, we'll do our best to support you.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "強く生きてください、\nシェフィさん……\nまた赤ちゃん化しちゃったら、\nわたしたちも精いっぱい支えますから。"
+    },
+    {
+      "name": "Precia",
+      "text": "Babycare. Leave it to me.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "おせわ。\nまかせて。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I DON'T WANT TO BE A BABY ANYMORE!!! EEEEEEEEEHNNNNN!!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "もう、\n赤ちゃんやだああぁぁっ！！\nふええええええんっっっ！！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Sheffy was forced to face reality. Faced with the injustice of this world, her cry, like that of a baby, echoed through the skies of Gio Gehenna...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "現実を突きつけられてしまったシェフィ。\nこの世の理不尽に直面した赤子のような叫びが、\nジオ・ゲヘナの空に響き渡るのだった……"
+    }
+  ]
+}

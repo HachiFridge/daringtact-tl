@@ -1,0 +1,831 @@
+{
+  "title": "Kindness Poured Into a Wandering Heart",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "As a result of their efforts, {0} and friends are gaining the trust of the villagers. However, behind the scenes, Ryuuji ends up encountering the boss of the gang he once belonged to.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "努力の結果、村人からの信頼を得つつある{0}たち。\nしかしその裏で、リュウジはかつて所属していたギャングのボスと\n再会してしまうのだった。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Eeeeeeeek!?\nThe ladder's wobbling again!?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "きゃああああああああ！？\nまた、\n梯子がぐらついてます～！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "It's the 12th time for this pattern, you're used to it.\nRyuuji-san, respond...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "このパターンは\nすでに12回目ですし\n慣れっこですね。\nリュウジさん、\n対応を……"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hey, what are you spacing out for!?\nAt this rate, we're going to collide!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ちょっ、\nなにぼーっとしてるんスか！？\nこのままじゃぶつかるッス！"
+    },
+    {
+      "name": "Suzume & Ryuuji",
+      "text": "Ouch!!",
+      "choice_data_list": [],
+      "orig_name": "スズメ・リュウジ",
+      "orig_text": "あいた～！！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Uuhh～...\nI'm seeing star～...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "きゅう～……\n目の前がチカチカします～……"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Uh, sorry... \nI was thinking about something.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "う、\nすまねぇ……\nちょっと、\n考え事してた。"
+    },
+    {
+      "name": "Ayane",
+      "text": "Come on, Ryuji, pull yourself together! \nSomehow, it's been like this for the past few days. \nTomorrow is the Flower Festival already, it's the final touches!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "しっかりしてよリュウジ！\nなんか、ここ数日はずっとこんな感じじゃん。\n明日はもう花祭りで、\n最後の仕上げなんだよ！？"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Don't tell me you caught her clumsiness...",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『まさか、\nドジがうつったんじゃねぇだろうな？』"
+    },
+    {
+      "name": "Suzume",
+      "text": "I-Is that true!?\nIf you have, I've done something I can't take back...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "そ、\nそうなんですか！？\nだとしたら私、\n取り返しのつかないことを……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Is it because he's sick...?\nRyuuji, are you really okay?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "風邪じゃないんですから……\nでもリュウジさん、\n本当に大丈夫ですか？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "No, there's no problem. \nI just can't concentrate, I'll take a break.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "いや、\n問題ねぇ。\n単に集中できてねぇだけだ、\n一息入れてくる。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Oh, is that so?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そう、\nですか。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Certainly, the atmosphere seems a bit strange, doesn't it?\nI've never seen Ryuuji so unsettled before.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "やっぱり、\nちょっと様子が変ですよね？\nあんなに落ち着きのないリュウジさん、\n初めて見ます。"
+    },
+    {
+      "name": "Ayane",
+      "text": "When Suzume made a mistake,\nHe got flustered, but this is a different feeling of unease, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "スズメがドジした時も慌ててたけど、\nそれとはまた違う感じで\nソワソワしてるよね？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hmm, does he have something on his mind?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "う～ん、\n何か\n悩み事でもあるんスかね？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Damn it, why did it have to come to this now...! \nWhy'd you have to go and say something like that!!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "クソっ、\nなんで今さらになって……！\nあんなこと言ってきやがるんだよ！！"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "On the day of the Flower Festival, we plan to attack Flower Village. \nYou've been in this village quite some time, haven't you?",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "花祭りの当日に、\n私たちはフラワーヴィレッジを襲撃する予定だ。\nお前、\nこの村に来てからそこそこ経つんだろう？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "So what?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "だからなんだ？"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "I want to ask you to be my guide.\nI heard you were here and thought it would make work easier.\nDo you know the locations of crops and valuable items?",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "案内役を頼みたい。\nお前がここにいると聞いて、\n楽に仕事ができると思ったんだ。\n農作物や金目の物の場所とか、\n把握してるんだろ？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Our relationship ended when I got arrested.\nI'll pretend I didn't hear any of this, so leave.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "逮捕されたとき、\nもう縁は切れただろうが。\n今のは聞かなかったことにしてやるから、\n帰ってくれ。"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "Hmm, and I went out of my way to talk to you!\nIf you're like this, I can't trust that you'll pretend not to have heard.\nGo ahead and try betraying me... I'll release this into the village.",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "ふん、\nせっかく声をかけてやったのに！\nだったら、\n聞かなかったことにする、\nという言葉も信用できんな。\n密告なんてしてみろ……\nこいつを村に放つぞ。"
+    },
+    {
+      "name": "Black shadow",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "黒い影",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "What...!?\nDid you have someone else steal the 'seed' after I failed!?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "なっ……！？\nテメェ、\n俺が失敗した後、\n別のヤツに『種』を盗ませたのか！？"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "It was too good of an item to give up.\nIf only you agreed obediently, we wouldn't have to use this, you know～?\nIf I have to do it by force, without a guide, well... you understand, right?",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "諦めるには惜しい品だった。\nお前が素直に応じてくれたら\nこれを使わずに済むんだがな～？\n案内役なしで強引にやる、\nとなったら……\n分かるだろ？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Damn it...!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "クソが……！"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "On the eve of the Flower Festival, I'll ask for your answer again.\nOh, also, I have a piece of advice from my kind former boss.",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "花祭りの前夜、\nまたここで答えを聞こう。\nああ、\nそれと、\n前職の優しい上司から一つ\nアドバイスだ。"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "No matter what, the moment we attack here,\nyour credibility will also plummet.\nStop getting above yourself and go back to a life that fits your stature.",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "どうせ私たちがここを襲った瞬間、\nお前の信用も地に落ちる。\n高望みはやめて、\n身の丈に合った人生に戻ることだな。"
+    },
+    {
+      "name": "リュウジ",
+      "text": "村の略奪を手伝うなんて、\nありえねぇ。\nだが、\n迂闊に動けば\n『アレ』を村に放されちまう。\nここには戦える人間なんてほとんどいねぇし……！　",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "村の略奪を手伝うなんて、\nありえねぇ。\nだが、\n迂闊に動けば\n『アレ』を村に放されちまう。\nここには戦える人間なんてほとんどいねぇし……！　"
+    },
+    {
+      "name": "リュウジ",
+      "text": "俺が……\n俺がこの村に来たせいだ。\n今日返事をしなきゃいけねぇのに、\nどうすればいいんだよ……！　",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "俺が……\n俺がこの村に来たせいだ。\n今日返事をしなきゃいけねぇのに、\nどうすればいいんだよ……！　"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ryuuji-san.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "リュウジさん。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Argh!?!\nWhat? It's the little lady and the boy... don't surprise me like that.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "うわぁっ！？\nなんだ、\n嬢ちゃんと優男かよ……\n驚かせんな。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "I see.\nIt really isn't anything, so please start go ahead with the next task.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "そうか。\n本当になんでもねぇんだ、\nだから\n次の作業を先に始めててくれ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hmm... um, shall we take a break together once?\nThere are no more delayed tasks.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "う～ん……\nあの、\n一度みんなで休憩にしませんか？\nもう遅れてる作業はありませんし。"
+    },
+    {
+      "name": "Suzume",
+      "text": "If you continue working like this and someone gets injured,\nit will be very bad.\nIt's too late once that happens, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "このまま作業を続けて、\nケガ人が出る方が大変です。\nそうなってからじゃ、\n遅いんですよね？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Ugh... if you put it that way, I can't refuse.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "はぁ……\nそう言われたんじゃ、\n断れねぇな。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Then, let's begin the tea party ♪\nI received some tea leaves and crops,\nso I was able to prepare quite elaborate items～",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "それでは、\nお茶会を始めましょう♪\n茶葉や作物を分けてもらえたので、\n結構凝ったものが\n用意できたんですよ～"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wow...! \nDid you even prepare a meal for me?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "わぁ……！\nお料理まで用意してくれたんですか？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Yes ♪\nI prepared Ayane and Matsuri portions too,\nbut it seems like the Village Chief asked them for another favor...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい♪\nアヤネちゃんとマツリちゃんの分も用意したんですけど、\n村長さんから\n別の用事を頼まれちゃったみたいで……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Well then, let's prepare snacks for two people. \nI made a lot, so feel free to help yourself ♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "それじゃ、\n二人分の軽食はとっておきましょう。\nたくさん作ってありますから、\n遠慮はしなくて大丈夫ですよ♪"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "I appreciate it,\nI ain't picky about eating.\n... I guess, I'll take it.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "気持ちはありがてぇが、\nそこまで食い意地張っちゃいねぇよ。\n……\nじゃあ、\nもらうぜ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Let's eat.\nMunch, munch... It's really delicious...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "いただきます。\nもぐもぐ……\nすごく、\nおいしいです……！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "It is...!\nLittle miss, you can cook properly?!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "確かに……！\n嬢ちゃん、\n料理はちゃんとできんのか！"
+    },
+    {
+      "name": "Suzume",
+      "text": "I cook every day, so I'm used to it ♪\nSometimes, I make mistakes with seasonings though,\nand the pot explodes.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "お料理は毎日してるので、\n慣れてるんですよ♪\n時々、\n調味料を間違えたり、\nお鍋が爆発しますけど。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Oh, would you like a refill of floral tea?\nI asked the villagers and got some processed flowers to share.\nPlease enjoy the fragrance～ ♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あっ、\n花茶のおかわりもありますからね？\n村の方にお願いして、\n加工済みのお花を分けてもらったんです。\n香りも楽しんでください～♪"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wow... ♪\nIt really smells like flowers!\nCan you brew tea with flower petals?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "わぁ……♪\n本当に、\nちゃんとお花の香りがします！\nお茶って、\nお花の花びらでも淹れられるんですか？"
+    },
+    {
+      "name": "Suzume",
+      "text": "We sometimes make it with just flower petals, but what I prepared this time is a mixture of tea leaves and flowers, you know～\nThere are various types of flower teas too～ ♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "花びらだけで作ることもありますけど、\n今回用意したのは\n茶葉と混ぜたものになりますね～\n花茶にも、\nいろいろあるんですよ～♪"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I didn't know...\nThe taste is also refreshing and easy to drink.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "知りませんでした……\n味も、\nすっきりしてて飲みやすいです。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "I didn't know that about tea either.\nI thought I knew a fair amount about crops.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "俺もお茶にできるのは知らなかったな。\nそれなりに作物に詳しくなったつもりだったんだが。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Since it is a little expensive, I can't prepare it often,\nbut I'm glad they shared these petals with me ♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ちょっとお高くなっちゃうので、\n普段はあまり用意できないんですけどね～\n花びらを分けてもらえてよかったです♪"
+    },
+    {
+      "name": "Kyoka",
+      "text": "We were able to get along well with the villagers here,\nso they shared various things with us.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "村の人たちとも、\nちゃんと仲良くなれましたから。\nいろいろ分けてもらえたんですね。"
+    },
+    {
+      "name": "Suzume",
+      "text": "That's right ♪\nI've caused a lot of trouble for them,\nbut I'm glad we can hold a splendid Flower Festival～",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "そうですね♪\nいっぱいドジでご迷惑かけてしまいましたけど、\n立派な花祭りが開催できそうでよかったです～"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ryuuji-san, are you getting along with the villagers...\nRyuuji-san?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "リュウジさんも、\n村の人たちとは……\nリュウジさん？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Um... By any chance, did something else happen with the people from the village?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あの……\nもしかして、村の人たちと、\nまたなにかあったんですか？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "No, that's not it!\nThanks to you guys, things have been going relatively well with them.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "いや、\nそんなことはねぇ！\nお前らのおかげで、\nあいつらとは\n割とうまくいくようになった。"
+    },
+    {
+      "name": "リュウジ",
+      "text": "だが、\nそれもすぐに台無しになる。\nだったら……！　",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "だが、\nそれもすぐに台無しになる。\nだったら……！　"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Actually, I'm planning to leave the village today.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "その、\n実はだな。\n今日、\n村を出ようと思ってるんだ\n。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Huh... Whaaat!?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "えっ……\nえぇ～っ！？"
+    },
+    {
+      "name": "リュウジ",
+      "text": "もう、\nどうしようもねぇ。\n正直に話してバレようもんなら\n『アレ』を村に放されちまう。\nだけど片棒を担ぐのもお断りってんなら……\n逃げるしかねぇだろ！　",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "もう、\nどうしようもねぇ。\n正直に話してバレようもんなら\n『アレ』を村に放されちまう。\nだけど片棒を担ぐのもお断りってんなら……\n逃げるしかねぇだろ！　"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Why all of a sudden!?\nThe actual event is tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そんな、\nどうして急に！？\n本番は明日なんですよ！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "... It's just as usual.\nI've grown tired of my current job.\nThat's all.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "……\nいつも通りだよ。\n今の仕事に、\n嫌気がさした。\nそれだけだ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That's a lie! \nJust a little while ago, you were working so hard! \nAre you hiding something!?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そんなのウソです！\nちょっと前まで、\nあんなに一生懸命やってたのに！\nなにか隠してますね！？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "No, I'm not.\nI've always been that kind of scumbag.\nIf you get it, just leave me alone.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "そんなことはねぇ。\n元々、\n俺がこういうクズだったってだけの話だ。\n分かったら、\nもう放っておいてくれ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "...Understood.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……\n分かりました。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Suzume-san!\nBut...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "スズメさん！\nでも……！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Instead, I have something else prepared for Ryuuji-san",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "その代わり、\nリュウジさんのために、\n他にも用意してた物があるんです。"
+    },
+    {
+      "name": "Suzume",
+      "text": "First, could you take a look at it? \nI don't think it'll be too late to leave the village after that.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "まずは、\nそれを見てもらえませんか？\n村を出ていくのは……\nそれからでも、\n遅くないと思います。"
+    },
+    {
+      "name": "Village Chief",
+      "text": "Oh, Suzume-san.\nThank you for bringing Ryuuji along.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "おぉ、\nスズメさん。\nリュウジを連れて来ていただいて\nあ\nりがとうございます。"
+    },
+    {
+      "name": "Suzume",
+      "text": "No, no～\nSo, is it all ready?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "いえいえ～\nそれで、\nもう用意は終わってるんですか？"
+    },
+    {
+      "name": "Male Villager",
+      "text": "The name engraving is done.\nI haven't been making them much lately, so it feels nostalgic～",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "名前入れは終わったよ。\n最近あんまり作ってなかったから、\n懐かしい気分になったね～"
+    },
+    {
+      "name": "Woman of the Village",
+      "text": "I'm done too,\nthe things I asked the hardware store for have arrived.\nMake sure to tell Ryuuji not to lose it, okay?",
+      "choice_data_list": [],
+      "orig_name": "村の女性",
+      "orig_text": "こっちも、\n金物屋にお願いしてたものが届いてるわ。\nリュウジには、\n無くさないようしっかり言ってよね？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "What is it?\nDo the villagers have something they want to show me?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "なんだ？\n見せたいものって、\n村の連中が用意してんのか？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Yes.\nJust because they wanted it to be a surprise, they only told me.\nAt this time, I wanted to bring Ryuuji-san.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい。\nサプライズにしたいからって、\n私にだけ教えてくれたんです。\n今の時間に、\nリュウジさんを連れて来てほしいって。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "... How impressive a thing are they planning to give me? A golden envelope or something?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "……\nどんだけ大層な物を渡すつもりなんだ……？\nまさか、\n金一封とか……"
+    },
+    {
+      "name": "Village Chief",
+      "text": "Of course not that!\nIt's a name tag for the garbage disposal duty in the village that we usually use,\nand the copy of the key to the warehouse where the crops and materials are stored!",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "もちろん違う！\n普段村で使っておるゴミ捨て当番の名札と、\n作物や資材の置いてある倉庫の合鍵じゃ！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Seriously, that's not a big deal, is it?\nYou don't need to make that a surprise!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "マジで大したことねぇじゃねぇか！\nいらねーだろサプライズ感！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ryuuji, don't you understand?\nThe meaning of this gift.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "リュウジさん、\nわからないんですか？\nこの贈り物の意味が。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "あ？"
+    },
+    {
+      "name": "Village Chief",
+      "text": "This is something that is only given to official villagers.\nEspecially things like the key to the warehouse cannot be entrusted to unreliable individuals.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "これは、\n正式な村民にだけ渡しているものだ。\n特に倉庫の鍵なんかは、\n信頼できない者には預けられん。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Well, in other words...",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "じゃあ、\nつまり……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ryuuji-san's efforts have truly been recognized!\nIt seems like they want you to continue helping out as a member of the village ♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "リュウジさんのがんばりが、\n本当に認められたってことです！\nこれからも村の一員として、\nお手伝いしてほしいそうですよ♪"
+    },
+    {
+      "name": "Village Chief",
+      "text": "The way you worked with Suzume-san, I watched carefully.\nIt seems you also learned how to truly help and live with others.",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "スズメさんたちとの仕事ぶりは、\nきちんと見ていたぞ。\nお前も、\n他人と真に助け合って生きる術を学んだようだ。"
+    },
+    {
+      "name": "Male Villager",
+      "text": "We were also persuaded again by the village chief.",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "俺たちも、\n改めて村長から説得されてな。"
+    },
+    {
+      "name": "Woman of the Village",
+      "text": "At first, the preparations were a mess,\nbut you managed to turn things around this far with Suzume-chan's help, right?\nNow, no one can complain at you anymore.",
+      "choice_data_list": [],
+      "orig_name": "村の女性",
+      "orig_text": "最初はグダグダだった準備を、\nスズメちゃんたちと協力して\nここまで巻き返したんでしょ。\nもう誰も、\nあんたに文句は言えないわ。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "But... I...",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "だけど……\n俺は……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Please don't be stubborn! \nDon't you actually like this village?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "意地を張らないでください！\n本当は、\nこの村のこと、\n好きなんじゃないんですか！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "If it weren't like that, you wouldn't work so hard,\nhonestly and earnestly!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そうじゃなかったら\nあんなに一生懸命、\n真面目にお仕事するはずないじゃないですか！"
+    },
+    {
+      "name": "Village Chief",
+      "text": "Oh... hmm? \nIt seems like something is a little strange, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "村長",
+      "orig_text": "あー……\nうん？\nなんだか、\nちと様子がおかしいですな？"
+    },
+    {
+      "name": "Suzume",
+      "text": "I'm sorry, a lot of things just happened～!\nI will explain properly later!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "すみません、\n直前にいろいろありまして～！\nあとでちゃんと説明しますから！"
+    },
+    {
+      "name": "Suzume",
+      "text": "...So, what do you think?\nEven after seeing this, haven't you changed your mind?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……それで、\nどうですか？\nこれを見ても、\nまだ考えが変わりませんか？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Thank you. \nIf you can say that much,\nthen I'll help out with the festival until the end.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "ありがとう。\nここまで言ってもらえるんなら、\n最後まで祭りを手伝うぜ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Really?!\nThat's great!!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "本当ですか！？\nよかった～！！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Please don't worry!\nYou were anxious about whether the villagers believed in you, weren't you?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "心配させないでください！\nやっぱり村の人たちから信じてもらえてるか、\n不安だったんですね。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Well, that's how it is.\nThanks to everyone, my determination is firm.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "まぁ、\nそんなところだな。\nだけどみんなのおかげで、\n決意が固まった。"
+    },
+    {
+      "name": "Suzume",
+      "text": "I'm glad～ ♪\nFrom now on, please enjoy growing flowers and vegetables,\nand may you find happiness after all the hardship ♪",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "よかったです～♪\nこれからは、\nお花やお野菜を育てたりして、\n今まで辛かった分、\n幸せになってください♪"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "...I'll do that.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "……\nそうするよ。"
+    },
+    {
+      "name": "An unfamiliar man",
+      "text": "That young girl, did she make Ryuuji lose his nerve?\nLet's report to the boss.",
+      "choice_data_list": [],
+      "orig_name": "見慣れない男",
+      "orig_text": "あの小娘が、\nリュウジを腑抜けにしたわけか。\nボスに報告しよう。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "...It's time, huh?\nI brought a weapon, but honestly it's only good for appearances.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "……時間か。\n武器も用意したが、\nぶっちゃけ付け焼刃もいいとこだな。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Even so, I have no choice but to do it.\nThe old man, and that young Suzume girl...\nThey said they believed in a scumbag like me.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "それでも、\nやるしかねぇ。\nじじぃたちも、\nスズメの嬢ちゃんたちも……\n俺みたいなクズを、\n信じてくれると言ったんだ。"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Even if we have to stab each other,\nI will take care of the boss and the \"trump card\".\nThat's what I can do, my last bit of help.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "たとえ刺し違えてでも、\nボスと『切り札』は片付ける。\nそれが俺にできる、\n最後の手伝いだ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hehehe～ ♪\nSince we won't have time once the festival starts tomorrow,\nlet's just prepare the laundry and then go to sleep.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ふんふふ～ん♪\n明日はお祭りが始まったら時間が取れませんから、\nお洗濯の準備だけしてから眠りましょう。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Keep the detergent by your chest, free up both hands...\nWith this, you can carry dirty laundry to the washing area in one round trip!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "洗剤は\n胸元にしまって、\n両手を空ければ……\nこれなら一往復で、\n洗い場に汚れ物を運べますかね？"
+    },
+    {
+      "name": "Suzume",
+      "text": "The rest, be careful not to fall...\nThere's no one to help in the middle of the night...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あとは、\nこけないように、\n慎重に～……\n夜中は助けてくれる人もいないですからね～……"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "Exactly.\nIs it dangerous to work alone at this late hour?",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "まったくもってその通り。\nこんな夜更けに、\n一人で作業は危ないですよ？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Excuse me?\nUm, who are...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい？\nあの、\nどちらさま……"
+    },
+    {
+      "name": "Black shadow",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "黒い影",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Kyaa......mmph!?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "きゃっ……\nむぐっ！？"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "Alright, keep her mouth shut like that. \nAre you sure this is the right girl? It's fine, right? \nIf we're wrong, it'll be a big problem later.",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "よし、\nそのまま口を塞いでおけ。\nこの女で間違いないな？　\n大丈夫だよな？\n人違いだったらこの後大変だぞ？"
+    },
+    {
+      "name": "Gang Underling 2",
+      "text": "It's correct, it's correct.\nHe feels like he owe a lot to the girl and her companion,\nso if we use them as a shield, he won't be able to go against us.",
+      "choice_data_list": [],
+      "orig_name": "ギャングの手下２",
+      "orig_text": "あってます、\nあってますから。\n女とその連れにずいぶん恩義を感じてるようなんで、\n盾にすればヤツも逆らえないでしょう。"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "Fine.\nWell, shall we leave?",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "結構。\nでは、\n引きあげようか。"
+    },
+    {
+      "name": "Gang Underling 2",
+      "text": "You caught the girl, why not negotiate with Ryuuji?\nYou want to bring him back to your side, right?",
+      "choice_data_list": [],
+      "orig_name": "ギャングの手下２",
+      "orig_text": "女を捕らえたのに、\nリュウジと交渉はしないんで？\n仲間に引き戻したいんですよね？"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "From what I heard from the report, it seems like he won't come back.\nInstead of going out of our way to meet him and play with fire,\nit's better to make him think we've pulled out and catch him off guard.",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "報告を聞く限り、\nあいつは戻って来ないだろう。\nわざわざ会いに行って火遊びをするより、\n手を引いたと思わせて油断させた方がいい。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Mm～! Mm～!!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "む～！　\nむ～！！"
+    },
+    {
+      "name": "The boss of the gang",
+      "text": "You will be bait to lure out Ryuuji and the others out of the village.\nDo your best to be useful... Mwahaha～!",
+      "choice_data_list": [],
+      "orig_name": "ギャングのボス",
+      "orig_text": "こいつは、\nリュウジや村の連中をつり出す\nエサにする。\nせいぜい、\n役立ってくれ……\nふはははははは～！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hmm～!?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "むむ～！？"
+    }
+  ]
+}

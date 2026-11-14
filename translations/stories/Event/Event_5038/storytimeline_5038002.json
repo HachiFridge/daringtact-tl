@@ -1,0 +1,799 @@
+{
+  "title": "The Cheru~n Challenge",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A few days have passed since the chaotic initial briefing.\nAfter a rush of brainstorming and groundwork,\nour hopeful students prepare themselves for the special lesson proper.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "波乱の説明会から数日後。\n各々の準備期間を経て、\n特別講座はいよいよその当日を迎えていた。"
+    },
+    {
+      "name": "Akino",
+      "text": "...as the market dictates.\nThat concludes my advice for you.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "──と言ったところかしら。\nこちらからの助言は以上ですわ。"
+    },
+    {
+      "name": "Student 1",
+      "text": "Th-thank you for your time!",
+      "choice_data_list": [],
+      "orig_name": "女生徒１",
+      "orig_text": "あ、\nありがとうございましたっ！"
+    },
+    {
+      "name": "Akino",
+      "text": "...Phew.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ふぅ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "A \\\"Blossom Cafe\\\" for enjoying food with flowers, huh?\nI can't deny it was a charmingly feminine idea...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "花をテーマにした\nフラワー喫茶、\nね。\n女の子らしくて\n可愛い案だとは思うのだけど……"
+    },
+    {
+      "name": "Akino",
+      "text": "But with so many concept cafes already on the market,\nit simply didn't have the originality to stand out from the crowd.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "市場にコンセプトカフェが増えている今、\nプラスワンのアイデアとしては\n面白みに欠けますわね。"
+    },
+    {
+      "name": "Yukari",
+      "text": "The target audience seemed a little too narrow.\nAll the proposed menu items were rather costly too,\nand using live vegetation limits the suitable sites and staff...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "客層の狭さも気になるところだわ。\n考えてもらったメニューはどれも高コストなものばかりだし、\n生きた植物を扱うなら\nスタッフや立地も限定的──"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Worst of all, no taiyaki! It nyeeded way more taiyaki!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "何よりたい焼きにゃ！\n　たい焼きが足りないにゃ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "Tamaki, be quiet.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "タマキさん、\n黙って。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Perhaps expecting viable business plans from students\njust wasn't a realistic idea from the beginning...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "やっぱり実社会でも通用するビジネスアイデアというのを、\n未経験の学生さんに求めるのは\n酷だったかしら。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Indeed... Particularly at this academy,\nwhere most students seem so sheltered from the world...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "そうね……\nとくにこの学院の生徒は、\nこれまで世間とのかかわりが少なかったようだから……"
+    },
+    {
+      "name": "Akino",
+      "text": "That makes no difference.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "関係ありませんわ。"
+    },
+    {
+      "name": "Akino",
+      "text": "True genius is able to shine regardless of environment or experience.\nAnd one never can tell where it may be concealed!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "経験や環境を問わず、\n独創的な発想を持った人材──\nそんな才能は\nどこに眠っているか分かりませんもの。"
+    },
+    {
+      "name": "Akino",
+      "text": "To uncover that raw genius\nso that we may cultivate its true potential\nis the goal that brought us here to this academy!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "その原石を見つけ出すために、\nあるいは\n見つけ出してあげるために、\n【メルクリウス財団】は\n今日この学院へ来たのですから。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "When Akino gets like this...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "こういう時のアキノさんは……"
+    },
+    {
+      "name": "Yukari",
+      "text": "It's bizarre how reliable she seems.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "本当にしっかりしてるのよね……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Akino seems meow-steriously reliable at times like this!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "こういう時のアキノは、\n本当にしっかりしてるにゃー"
+    },
+    {
+      "name": "Akino",
+      "text": "\\\"Mysteriously\\\"? What do you mean by that, Tamaki?!\nIt almost sounds as if you think I'm not usually reliable!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "こういう時のって\nどういうことですのタマキさん！？\nまるで私が普段、\nしっかりしてないみたいじゃありませんこと！？"
+    },
+    {
+      "name": "Yukari",
+      "text": "Tamaki...!\nWe both resisted saying it out loud, but you just...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "タマキさん……\n私たち、\n口にはしなかったのに……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Knock-knock~! ♪",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "こんこーん♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Ah, yes. The lesson's not over yet. Let's use our time efficiently.\nHm, next up is... Miss Chieru.\nPlease enter the classroom!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あ、\nと。\n講座中だったわね。\n時間は効率的に使わなきゃ。\nえっと、\n次の方は……\nチエルさん。\nどうぞ、\nお入りください。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Don't mind if I do! ☆ First-year at St. T's, always living her chelliest life!\nThe Friendship Club's last bastion of sanity and all-round mega-cutie,\nChierun is here! Cheru~n! ♪",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "失礼いたしまっ☆\n聖テレサ女学院一年生、\nちぇるっと生きたいお年頃！\nなかよし部最後の良心、\n世界の美少女\nちえるんでーす！　\nちぇる～ん♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Che... what...?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ちぇ……？　\nなに……？"
+    },
+    {
+      "name": "Chieru",
+      "text": "It's \\\"Cheru~n! ♪\\\"\nThe hot new greeting that every teen in Landosol's saying right now!\nC'mon, say it with me, Mifuyu! Cheru~n! ♪",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ちぇるーんです。\n今ランドソル全土、\n通称全土ソルでティーンに人気の挨拶ですね。\nはい、\nミフユねえさんもご一緒に？　\nちぇるーん♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "That's... the latest slang?\nDoes everyone at this school use it?\nI-in that case, I suppose I'd be remiss not to follow suit...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "それが……\n流行りの挨拶？\nこの学校ではみんなやってるの？\nそ、\nそれなら、\n郷に入りては\n郷に従えってやつかしら……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Ch-cheru~n... ♪",
+      "choice_data_list": [
+        "Good morning. *pointed stare*"
+      ],
+      "orig_name": "ミフユ",
+      "orig_text": "ちぇ、\nちぇる～ん……♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Even your friend isn't saying it!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "流行ってないじゃない！？"
+    },
+    {
+      "name": "Akino",
+      "text": "Oh!\nIs my dear {0} accompanying you?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "あら。\n{0}さまもご一緒ですの？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Yep! I brought him today as my personal assistant.\nDefinitely not a ploy to make a good impression on you gals\n'cause you all seem so fond of him or anything!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はい、\n先輩にはアシスタントって名目で来てもらいました。\nメルクリちゃんたちと仲よさげだったから推してもらっちゃお、\nなーんて思惑はちぇるの毛ほどもないですよぉ～？"
+    },
+    {
+      "name": "Yukari",
+      "text": "...Well, at least she's honest.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "正直だわ、\nこの子。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh, that reminds me! Can you spare a quick moment before the pitch?\nSince you came all this way to visit us here at St. T's,\nI thought I'd bring some local snacks for you to try!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あ、\nそだ、\nプレゼン始める前にちょっとお時間いいです？\nはるばるテレ女まで来てくださった講師のおねえさん方に、\nちょっとした差し入れ的なものをご用意しちゃいました。"
+    },
+    {
+      "name": "Chieru",
+      "text": "...{0}. Reveal the goods.",
+      "choice_data_list": [
+        "Hand out steaming taiyaki."
+      ],
+      "orig_name": "チエル",
+      "orig_text": "……先輩、\n例のものを。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Is that taiyaki?!\nAnd whoa. Smooth anko, lumpy anko, custard... all the bases covered!\nYou've got potential! 7 trillion points! You're a nyatural winner!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "たい焼きにゃ！？\nしかも、\nこしあん・\nつぶあん・\nカスタードにオールミックスまで！\n見所のあるやつにゃ！　\nプラス７兆点、\n合格に大きく近付いたにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "That's a bribe.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "賄賂ね。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Clearly a bribe.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "賄賂だわ。"
+    },
+    {
+      "name": "Akino",
+      "text": "A barefaced bribe.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "賄賂ですわ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Huhhh~? What's a bribe~?\nI'm just bringing a little more happiness to the world!\nTaiyaki times are happy-chelly-times! ☆",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ええ～？\n　何がですかぁ～？\nチエル、\n皆さんにハッピーをお届けしただけですぅ～\nたい焼きもぐもぐ、\nはぴちぇるんっ☆"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "I can already see this girl isn't one to take lightly.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "どうやらなかなかの大型新人が現れたようね。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Guess I can't be too careful.\nI'll put the 7 trillion points on hold for nyow.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "これは油断できないやつにゃ。\nひとまず\n７兆点は差し押さえておくにゃ。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Is this what the teens of today are like?\nI'd like to think I'm not that far out of my teens myself,\nbut I suppose time stops for no woman...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "今時の若い子ってみんなこうなのかしら……\n私、\n彼女たちと歳はそんなに離れてないと思ってたけど、\n時代は確実に移ろっているのね……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Enough gazing off into the distance, Yukari.\nLet's hear the proposal she came here to present.\nTime is money, and we can't waste a penny of it.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "遠い目をしている場合じゃないわ、\nユカリさん。\n早速、\n持ってきてもらった企画を発表してもらいましょう。\n時間は有限、\n無駄にするべきではないわ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh, I getcha!\nI always try to put all my energy\ninto relishing every second of my magical youth!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "わかりみです！\nチエルも日々、\n限りある青春時代を、\nメリメリのめり前のめりで全力疾走しています！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Today I'd like to show you one product of those efforts:\na product sure to go so viral you'll need vaccinations!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "そんな全力ちえるんが本日ご紹介するのはこちら、\n大バズり必至の皆さんお待たせこの商品っ！"
+    },
+    {
+      "name": "Chieru",
+      "text": "I call her... \\\"Chatterbox Chellypon\\\"!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "その名も\n『おしゃべりチエルちゃん』です！"
+    },
+    {
+      "name": "Akino",
+      "text": "Is that... some kind of plushie?",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "それは……\nぬいぐるみ、\nですの？"
+    },
+    {
+      "name": "Chieru",
+      "text": "No, it's not! She's \\\"Chatterbox Chellypon\\\"!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "違います！　\n『おしゃべりチエルちゃん』です！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Uh-oh. Persnyickety about branding.\nAnd it's clearly based on herself.\nHow self-absorbed is this girl?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "自分呼称を押し付けてくるタイプにゃ。\nしかも明らかに自分モチーフにゃ。\nどんだけ自分大好きなのにゃ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Well spotted! This is a fully-chellerific miniature Chierun,\nproduced by Chierun for Chierun lovers everywhere!\nNo Landoguy or Landogal could hope to resist her charms!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "正解！　\nちえるん大好きなちえるんプロデュースによる、\nこちらとってもきゃわわなミニちえるん！\nハイこの時点でもう全土ソル爆売れ待ったなし！"
+    },
+    {
+      "name": "Chieru",
+      "text": "However! This product doesn't end there.\nWouldja believe my \\\"Chatterbox Chellypon\\\" has a super-secret feature\nnever seen in any other trinket past, present or future?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "──ですが、\nそれだけではありません。\nなんとこの『おしゃべりチエルちゃん』、\nそこらの商品にはない\nすこぶる斬新かつ独創的な機能が備わっているのです。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "You're brimming with confidence, that's for sure...\nBut are you sure it's wise to raise the bar so high?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "自信だけはむやみやたらに感じるけど……\nハードルそんなにあげて大丈夫？"
+    },
+    {
+      "name": "Yukari",
+      "text": "Let's hear the details before we decide.\nThough given the product name, I can see where this is going.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "詳しい話を聞かせてもらいましょう。\nまぁ、\n商品名からして\n何となく予想はつくけれど。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Shockingly, my \\\"Chatterbox Chellypon\\\"...\nis blessed with the power of speech! Who'da thunk it?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "なんとこの『おしゃべりチエルちゃん』、\nおしゃべりすることができるのです！　\nどやっ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "...I knew it.",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "……やっぱりね。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Whoa there, Doubting Tina!\nThe words \\\"I knew it, cheru~n!\\\" are written all over your face!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "おっと\nそこのお姉さん、\n今\n「やっぱりね、\nちぇるーん」\nとか思いましたねっ？"
+    },
+    {
+      "name": "Yukari",
+      "text": "You nailed the first half, but the second half's a swing and a miss!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "前半は当たりだけど、\n後半はかすりもしてないわ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Umm... So it's just a standard talking plushie?\nThe kind where you push the tummy\nand it plays one of a few pre-recorded lines...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ええと、\n喋るぬいぐるみって言うと、\nアレよね？\nお腹を押すと、\nあらかじめ魔法で記録させていた規定の音声が鳴る……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Are you chellin' me?! You think a pioneering pilgrim like Chieru\nwould rip off any old dime-a-dozen artifact lying around Landosol?!\nEveryone knows Chierun's a trend-setter, not a trend-netter!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "馬鹿おっしゃい！　\n常に先行く時代の寵児チエルさんが、\n国民にさんざんコスり倒された過去の遺物をパクるとお思いか？\nこちとら流行の発生源とめっきり噂のちえるんですよ！？"
+    },
+    {
+      "name": "Akino",
+      "text": "Haha! I'm certainly enthused by your energy.\nWhat we seek is fresh and surprising ideas.\nPlease go on, Miss Chieru. I have high hopes for you.",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ふふっ、\n活きが良くていいじゃありませんの。\n私たちが求めるのは\n驚きに満ちた若い発想。\n……続けて、\nチエルさん。\n期待していますわよ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Then allow me to set those hopes alight!\nWouldja believe my Chatterbox Chellypon\nis blessed with the power of speech?! Who'da thunk it?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "応えましょう、\nその期待。\nなんと、\nこの『おしゃべりチエルちゃん』！\nおしゃべりすることができるのです！　\nどやっ！"
+    },
+    {
+      "name": "Yukari",
+      "text": "She's looping like a broken Sound Record?!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "寸分たがわずループしたわ！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "To think I'd see that smirk a second time.\nI've nyever been so bamboozled!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あのドヤ顔を二度も見せられるとは、\n一生の不覚にゃ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Wait, wait, hold up! I'm just getting to the good part!\nForget the tired old one-sided chats you're used to.\nThis chelly-pie holds full two-way conversations in real time!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "待って待って、\n違うの、\nここからが衝撃の新展開！\nこの子は従来の一方通行なおしゃべり機能と違って、\nなんと、\nリアルタイムでの双方向対話が可能なのです！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Two-way...?\nYou don't mean to tell us that plushie is actually intelligent?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "対話って、\nまさか……\nその人形、\n意思があるとでも言うの？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Umm... What was it again? According to my yunilicious Chief of R&D...\nTo brand this \\\"true intelligence\\\" would be a misnomer. In layfolk's terms,\nit merely selects fitting responses from a vast database of blah blah blah?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "えーと、\nなんだっけ、\nゆにっとした開発部長が言うには……\nこれを意思と呼ぶには拡大解釈が過ぎる、\n端的に換言すれば\n膨大な会話パターンから状況に即したなんやかんや？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Point is, this chellster can totally chell!\nTalk at her, she talks back! It's a revolution in the plushie world!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "とにかく、\nこの子はデキる子なんです！\n話しかければ答えてくれる、\nぬいぐるみ界の革命児！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Allow me to provide a demonstration.\nCome now, {0},\naddress our little friend in your freakishly dulcet tones!",
+      "choice_data_list": [
+        "Nice to meet you, Chellypon.",
+        "It's been a while, Chellypon."
+      ],
+      "orig_name": "チエル",
+      "orig_text": "まずは実演してご覧にいれましょう。\nさあ{0}先輩、\nその顔に似合わず無駄にいい声を、\nこの子にお一つ。"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "It's a pleasure, cheru~n! ♪",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "おはつー、\nちぇるーん♪"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "Hey again, cheru~n! ♪",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "おひさー、\nちぇるーん♪"
+    },
+    {
+      "name": "Akino",
+      "text": "I-it actually responded to him?!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ほ、\n本当に反応しましたわ！？"
+    },
+    {
+      "name": "Yukari",
+      "text": "Yes... It did seem to answer without any prompting...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "ええ、\nたしかに、\n触ってもいないのに喋ったわ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Can it be true?\nHey~! Can you answer my meow-tiful voice, too?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ほんとかにゃー？\nおーい、\nあたしの声にもちゃんと反応するにゃ？"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "Myaru~n! ♪",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "にゃるーん♪"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I-it's for real!\nIt even does ad-libs!\nThis chellster can actually chell!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ほっ、\n本物にゃ！\nアドリブも利くにゃ！\nこいつはデキる奴にゃ！"
+    },
+    {
+      "name": "Chieru",
+      "text": "What'd I tell ya?! See? Isn't she legit amazing?!\nFull of originality and unstoppable selling power?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "そおなんです！　\nね？\n　すごくないですか！？\nめちゃめちゃ引きのある斬新な商品ですよね？"
+    },
+    {
+      "name": "Chieru",
+      "text": "What's more, according to our R&D Chief, the more you talk to her,\nthe more advanced her conversation engine becomes!\nAnd best of all, she's totes adorbs!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "しかもこれ、\n開発部長が言うには、\nお話しすればするほど\n会話パターンを集積して擬似的に賢くなってゆくのです！\nそして何より見た目が可愛い！"
+    },
+    {
+      "name": "Akino",
+      "text": "Why, I'm astounded!\nI have never seen a product remotely like it!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "素晴らしいですわ！\nこんな商品、\n今まで見たことがありませんわ！"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "I'm chelly flattered by the chellpliment! ♪",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "お褒めにあずかり光栄ですわちぇる♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "The... \\\"chellpliment\\\"?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ですわ、\nちぇる……？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Excuse me. Can I run a few brief tests of my own?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ごめんなさい、\nちょっと私も試してみていいかしら。"
+    },
+    {
+      "name": "Chieru",
+      "text": "But of course! Please enjoy!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "どーぞどーぞ、\nご自由に。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "\\\"Chatterbox Chellypon\\\"... Good morning.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "……『おしゃべりチエルちゃん』、\nおはよう。"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "Chelly morning~! ♪",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "おはちぇるーん♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Good day.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "こんにちは。"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "Chelly day~! ♪",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "こんにちぇるーん♪"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...Good night.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "……おやすみ。"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "We'll chell together... all night long.",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "今夜は寝かせないちぇる。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Nice weather we're having today.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "今日はいい天気ね。"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "Etchellaree-chellaroob.",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "れちぇるちぇぽぱぴ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Chieru",
+      "text": "Umm, I might've forgot to mention,\nbut thanks to the latest in cuteness tech, our little chellster\ncomes out with some pretty hilarious responses sometimes!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あー、\n言い忘れてましたけど、\n最新の愛嬌システム搭載により、\n一定確率で\nお茶目なジョークが飛びだしますので\n念のため。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...This goes far beyond that.\nThis doll has fundamental errors in her language programming.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "……それ以前の問題よ。\nこの子、\n言語中枢に深刻な不具合を抱えているわ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "No, that's a feature.\nChellish is the language of the future, available to you today.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "いいえ、\n仕様です。\nちぇる語は世界に広がってゆく由緒正しい言語なんです。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "How can we speak it if it doesn't exist yet?!\nWhat is this utterly brain-addling conversation?!\nIt's a production flaw! This warrants a full recall!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "広がってないのに由緒も何もないわよ！？\nなんなの、\nこの舌が千切れそうな会話は！？\n初期不良じゃない、\n返品よ返品！"
+    },
+    {
+      "name": "Yukari",
+      "text": "N-now, now, Mifuyu!\nThe feature itself is impressive,\nso if we make a few adjustments to the settings...",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "ま、\nまぁまぁミフユさん。\n機能自体は真新しいものだし、\n言葉の設定さえ\n見直してもらえれば──"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh, that's not possible.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あ、\nそれは無理です。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Why not?!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "なぜ！？"
+    },
+    {
+      "name": "Chieru",
+      "text": "I mean, Chellish is her whole identity.\nAre you telling me you can't accept that?\nThis is discrimination against chellsters everywhere!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "だって、ちぇる語はこの子の個性ですよ？\nそれを認めないなんてひどくないですか？\nそんなの差別と同じ発想じゃないですか！"
+    },
+    {
+      "name": "Chieru",
+      "text": "I'm begging you!\nAccept my li'l Chellypon as a champion of diversity!\nFind room in your hearts for the Chellish way!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "お願いします！\nどうかこの子の多様性を認めてあげてください！\nちぇる語を許せる\n広い心を育んでください！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "S-such myad passion...!\nEverything she's saying is loony,\nyet somehow I feel like I'm in the moral wrong!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "な、\nなんて熱意にゃ……！\n言ってることは無茶苦茶なのに、\nなぜかこっちのモラルが問われてる気がしてくるにゃ……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "I'm on my hands and knees! If Chellypon sells, then \\\"cheru~n\\\"...\nMy \\\"cheru~n\\\" will finally be a universal language!\n{0}, get down and beg with me!",
+      "choice_data_list": [
+        "We're counting on your support.",
+        "Chellerapperoo chelleray."
+      ],
+      "orig_name": "チエル",
+      "orig_text": "とにかくお願いします！\nこの子が売れればちぇるーんが、\nちぇるーんが\n世界の統一言語に……！\nほら、\n先輩も一緒に頭下げて！"
+    },
+    {
+      "name": "Chieru",
+      "text": "{0}! You're still not debasing yourself enough!\nHead lower! Limbs bendier! Both hands in the dirt!\nSee that, Merc gals?! Your pal's prostrating himself for this!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "先輩、\nそんなんじゃ誠意が足りませんってば！\nもっと頭を深く！\n　足を曲げて！\n　両手は地面につく！\nほらメルクリちゃんたち！\n　先輩が土下座までしてるんですよ！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Wha...? {0}, did you seriously just say that...?\nTh-thank you so much! You'd go that far just for Chellish...\nHear that, Merc gals?! The levels your pal's willing to stoop to?!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "なっ……\n先輩、\nそれ本気で言ってるんですか……？\nあ、\nありがとうございます、\nちぇる語のためにそこまで……\nほらメルクリちゃんたち！\n　先輩がここまで恥を忍んでるんですよ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "They've tossed out logic and turned to emotional blackmeowl?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "万策尽きていよいよ情に訴えかけてきたにゃ！？"
+    },
+    {
+      "name": "Yukari",
+      "text": "U-ummm...\nCan we assume this marks the end\nof Miss Chieru's product pitch...? We can, can't we?",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "え、\nええと……\nそれじゃあチエルさんのプレゼンは\n以上ってことでいいのかしら……？　\nいいわよね？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh, all right.\nThough I could chell on all day, I'll rest my case.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "分かりました。\nそれでは惜しまれつつも、\nちぇる仕舞いです。"
+    },
+    {
+      "name": "Yukari",
+      "text": "Well then, Akino.\nLet's hear the final verdict on the \\\"Chatterbox Chellypon\\\" proposal!",
+      "choice_data_list": [],
+      "orig_name": "ユカリ",
+      "orig_text": "それではアキノさん。\n起業プラン\n『おしゃべりチエルちゃん』について、\n判定をどうぞ！"
+    },
+    {
+      "name": "Chieru",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "…………！"
+    },
+    {
+      "name": "Akino",
+      "text": "That's a decisive \\\"No Rupie\\\" from me!",
+      "choice_data_list": [],
+      "orig_name": "アキノ",
+      "orig_text": "ノールピでフィニッシュですわ！"
+    },
+    {
+      "name": "Chieru",
+      "text": "No waaaay!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "そんなぁーーーーーーーーっ！"
+    },
+    {
+      "name": "Chatterbox Chellypon",
+      "text": "Jeruuuun!",
+      "choice_data_list": [],
+      "orig_name": "おしゃべりチエル",
+      "orig_text": "ぢぇるぅーーーーーーーーんっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "And the plaintive cries of Chatterbox Chellypon and her producer\nrang out endlessly through the halls of the school building.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『おしゃべりチエルちゃん』と同プロデューサーの絶叫が、\n新校舎の静寂にどこまでも溶けこんでゆくのであった。"
+    }
+  ]
+}

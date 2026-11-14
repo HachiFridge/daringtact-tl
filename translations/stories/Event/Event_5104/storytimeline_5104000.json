@@ -1,0 +1,656 @@
+{
+  "title": "The Challenging Path to Peace",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Landosol City, a district where the Beastfolk tribe resides.\nAmidst the bustling city filled with people's commotion, a particularly loud child's voice echoes.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソル市街地、獣人族が住まう地区。\n人々の喧騒で賑やかな街中に、ひときわ大きな子どもの声が響く。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Like I said!\nYesterday, it was my own fault that I forgot to help with the housework!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "だーかーらー！\n昨日、\n家のお手伝いを忘れたのは自分が悪かったッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "But, I won't let you speak ill of both Nightmare and everyone's work!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "でも、\n【王宮騎士団（NIGHTMARE）】のお仕事も\nみんなのことも、\n悪く言わないでほしいッスよ！"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "Oh, for a child to say such things again...!\nAre there parents who don't worry about their daughter coming home exhausted every day?",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "もう、\nこの子はまたそんなこと言って……！\n毎日ヘロヘロになって帰ってくる娘を心配しない親がいる？"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "Yesterday, as soon as you came back,\nYou fell asleep as if you had collapsed!\nMaybe, everyone conveniently dumped their work on you...",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "昨日も帰ってくるなり、\n倒れるように眠っちゃって！\nもしかして、\nみんなに都合よく仕事を押し付けられたり……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "They didn't!\nEveryone in Nightmare is a good person!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "してないッスよ！\n【王宮騎士団（NIGHTMARE）】のみんなは良い人たちッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...No, there are exceptions like Aunt Christina, but overall, mostly everyone is a good person!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……いや、\nクリスティーナおばさんとか例外もいるッスけど。\nでも、\n全体的に、\nおおむね、\nほとんど良い人ばっかりッスから！"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "Is that true...? Hey, I'm worried.\nWhen you suddenly said you were going to join Nightmare, too. And there's more...",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "本当……？　\nねえ、\nお母さんは心配なの。\nあなたが【王宮騎士団（NIGHTMARE）】に入るなんて\n急に言い出した時もそう。\n他にも……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ughhh! I don't want to listen to Mom's lectures anymore!\nI'm leaving already, okay? If I stay like this, I'll be late!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あ～～～\nもう！　\nお母さんのお説教は聞きたくないッス！\nもう行くッスよ？　\nこのままじゃ遅刻になっちゃうッス！"
+    },
+    {
+      "name": "Beastfolk Grocery Spyon",
+      "text": "Matsuri, you're full of energy today!\nHere's a freshly picked apple from this morning,\neat it before work!",
+      "choice_data_list": [],
+      "orig_name": "八百屋の獣人族",
+      "orig_text": "マツリちゃん、\n今日も張り切ってるね！\n今朝採れたてのリンゴだ、\n仕事の前に食べてきな！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Wow, I gratefully accept it!\nWell then, I'm off!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "わー、\nありがたくいただくッス！\nそれじゃあ、\n行ってきますッス！"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "I apologize for my daughter...\nUm, how much does it cost?",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "うちの娘がすみません……\nあの、\nおいくらですか？"
+    },
+    {
+      "name": "Beastfolk Grocery Spyon",
+      "text": "It's okay, it's okay! She's been playing with my son a lot,\nand she's helped him out,\nso Matsuri has been a great help to me.",
+      "choice_data_list": [],
+      "orig_name": "八百屋の獣人族",
+      "orig_text": "いいよいいよ！　\nよく、\nうちの息子と遊んでもらってるし。\nお手伝いしてもらったりで、\nマツリちゃんには助けられてるからね。"
+    },
+    {
+      "name": "Beastfolk Grocery Spyon",
+      "text": "But as a parent, I'm worried...\nShe's such a good kid,\nwhy would she willingly go to a place like that...",
+      "choice_data_list": [],
+      "orig_name": "八百屋の獣人族",
+      "orig_text": "でも、\n親としては心配だよな……\nいい子なのに、\n何を好き好んであんな所に……"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "Well... Since it's what my child wishes for,\nI do want to try to make it happen as much as possible.",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "ええ……\nあの子が望んだことですから、\nできるだけ、\n思い通りにしてやりたいとは思うんですけど。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ahhhh!!\nI completely forgot about the apple I got!\nMom! Today's lunch~!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あーーーーーっ！！\nリンゴもらってすっかり忘れてたッス！\nお母さん！　\n今日のお弁当～～！"
+    },
+    {
+      "name": "Matsuri's mother",
+      "text": "At this rate, I won't be able to take my eyes off her.\n...How embarrassing.",
+      "choice_data_list": [],
+      "orig_name": "マツリの母",
+      "orig_text": "どうにもこの調子で、\nまだまだ目が離せないと言いますか。\n……お恥ずかしい。"
+    },
+    {
+      "name": "Beastfolk Grocery Spyon",
+      "text": "Haha! It's most important to be energetic.\nMatsuri, bring one more while you're at it!",
+      "choice_data_list": [],
+      "orig_name": "八百屋の獣人族",
+      "orig_text": "ははっ！　\n元気なのが一番だよ。\nマツリちゃん、\nついでにもう一個持ってきな！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Oh, Matsuri. What's with that apple?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あっ、\nマツリちゃん。\nどうしたの、\nそのリンゴ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Mmm, munch... gulp. \nTomo Onee-chan! You're already here, huh?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "むぐ、\nもぐ……\nごくんっ。\nトモね～ちゃん！　\nもう来てたんッスね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "The entire Nightmare gathering like this is pretty rare,\nisn't it? Did something happen?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】の全体招集なんて、\n珍しいッスよね。\n何かあったんスか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "I don't know the details either.\n...And here comes our captain.\nMatsuri.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "私も詳しいことは知らないんだ。\n……\nっと、\n我らが団長の登場だよ。\nマツリちゃん。"
+    },
+    {
+      "name": "Jun",
+      "text": "Attention everyone. The reason I gathered you all here today is none other than this.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "総員、\n傾聴。\n今日集まってもらったのは他でもない。"
+    },
+    {
+      "name": "Jun",
+      "text": "Fellow members,\nI believe you are already aware, but soon there will be a summit of the Beastfolk tribes held in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "団員諸君も既に知っていることと思うが、\nランドソルで近々、\n獣人族の首長会議が行われる。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Um, Tomo Onee-chan. What is this \"Chieftain Meeting\" thing?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あの、\nトモね～ちゃん。\n首長会議ってなんッスか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "This is a meeting of the leaders of the Beastfolk tribes who govern each region. Each of them has their own social system and appointed representatives with different authorities, if you look closely, there are various differences...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "各地方を統率している\n獣人族の首長たちによる会議だね。\nそれぞれ社会制度とか任命された代表の権限とか、\n細かく見れば、\nいろいろ違いはあるんだけど……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Social structure...? Identity... Oh! I feel like I saw it written in the textbook we used for the lectures in Nightmare!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "しゃかいせいど……？　\nにんめい……\nって、\nあ！　\nなんか【王宮騎士団（NIGHTMARE）】の座学で使った\n教科書に書いてあった気がするッス！"
+    },
+    {
+      "name": "Tomo",
+      "text": "Let's see... um... To put it very roughly, the important people of the Beastfolk tribe gather together to hold a meeting.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "えーっと、\nそうだね……\nものすごく大ざっぱに言うと、\n獣人族の偉い人が集まって\n会議をするんだ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, I see.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "へー、\nなるほどッス。"
+    },
+    {
+      "name": "Jun",
+      "text": "That council meeting... by Her Majesty's request, we, Nightmare, have been assigned to send ambassadors for the purpose of improving relations with the Beastfolk tribe and conducting peace negotiations.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "その首長会議なんだが……\n陛下からの要望で、\n我々【王宮騎士団（NIGHTMARE）】から\n獣人族との関係改善のため、\n和平交渉のための大使を出すことになった。"
+    },
+    {
+      "name": "Jun",
+      "text": "This will be a big step in removing the thick wall that separates the Beastfolk and humans. At the same time... If we fail, it could become the trigger for a new disturbance.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "これは、\n獣人族とヒューマンの間に隔てられた\n厚い壁を取り払うための大きな一歩となる。\nそれと同時に……\n失敗すれば、\n新たな騒乱を起こす引き金になりかねない。"
+    },
+    {
+      "name": "Jun",
+      "text": "But if peace is to be brought to the common people,\nit is our duty to fulfill it.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "だが、\n市井に平和がもたらされるなら\nそれを全うするのが我々の役目だ。"
+    },
+    {
+      "name": "マツリ",
+      "text": "獣人族とヒューマンが\n仲良く……\nそんなこと、\n本当にできるッスか？　",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "獣人族とヒューマンが\n仲良く……\nそんなこと、\n本当にできるッスか？　"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Everyone treats me well, but that's because I keep my identity as a Beastfolk a secret.\n",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "みんなは自分に良くしてくれるッスけど、\nそれは、\n自分が……\n獣人族だってことを\n秘密にしてるからッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Historically, if it's revealed that I am a member of the Beastfolk Tribe, I will surely not get away with it easily. After all, Nightmare has always been in conflict with the Beastfolk Tribe.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "歴史的に\n獣人族と敵対している【王宮騎士団（NIGHTMARE）】で\nもし自分が獣人族だってバレたら、\nきっと\nタダじゃ済まないッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "If I can just get by being disliked by everyone, that would still be the better outcome. Worst case scenario, I might get expelled from Nightmare...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "みんなから嫌われるくらいで済めば、\nまだいい方ッス。\n最悪、\n【王宮騎士団（NIGHTMARE）】を追い出されるかも……"
+    },
+    {
+      "name": "Tomo",
+      "text": "-ri, Matsuri!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "──リちゃん、\nマツリちゃん！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Huh!? T-Tomo Onee-chan? What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……へぁっ！？　\nト、\nトモね～ちゃん？\nどうかしたんッスか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "There's nothing I can do about it.\nLook, the captain is waiting for a response.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "どうもこうもないよ。\nほら\n団長が返事を待ってる。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh, ah, yes!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "え、\nあ、\nはいッス！"
+    },
+    {
+      "name": "Jun",
+      "text": "Yeah, that's a good answer.\nIt's a serious mission, but I'm glad you accepted it.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "うん、\nいい返事だ。\n重大な任務だけど、\n引き受けてくれてよかった。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? What's that? A mission?\nUm, what exactly is a mission...?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "え？　\nあれ？　\n任務？\nあの、\n任務っていうのは……？"
+    },
+    {
+      "name": "Jun",
+      "text": "Hm? Didn't you just agree to it?\nAs the Ambassador of Peace,\nI have high hopes for your success.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ん？　\n今、\n承諾してくれたじゃないか。\n和平大使として、\nマツリちゃんの活躍に期待しているよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? Eeeeehhhh?!\nMe, as the Ambassador of Peace?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "え？　\nええ～～～～～っ！？\n和平大使って、\nじ、\n自分がッスか！？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's too much for someone like me, a rookie!\nIsn't this something that Jun would do...?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そんな、\n自分みたいな若輩者には恐れ多いッス！\nこういうのってジュンさんとかがやるんじゃ……？"
+    },
+    {
+      "name": "Jun",
+      "text": "I also considered that. However, in this case, I have determined that Matsuri is the most suitable candidate.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "それも検討したんだ。\nだけど、\n今回の場合は\nマツリちゃんが適任だと判断した。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "But, I'm a Bea-... Beeea... I-I'm just a...a big weakling, I think! It's too much for someone like me to be a peace ambassador!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "でも、\n自分は獣人……\nび、\nびー、\n微力だと思うッス！\n和平大使なんか恐れ多いッスよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Y-You think so too, right? Tomo Onee-chan.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ト、\nトモね～ちゃんもそう思うッスよね？"
+    },
+    {
+      "name": "Tomo",
+      "text": "No, I don't think so. Matsuri always works hard,\nand she is steadily getting stronger.\nI can guarantee that, since I'm always with her.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ううん、\n私はそうは思わないな。\n普段からよく頑張ってるし、\nマツリちゃんは着実に力を付けているよ。\nそれは、\nいつも一緒にいる私が保証する。"
+    },
+    {
+      "name": "Jun",
+      "text": "Tomo is right. And not just me,\nbut it's also the consensus of Nightmare.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "トモちゃんの言う通りだよ。\nそれに、\nこれは私だけじゃなく\n【王宮騎士団（NIGHTMARE）】の総意でもある。"
+    },
+    {
+      "name": "Tomo",
+      "text": "Well, honestly, I'm still a little worried... Matsuri, it's about time you started practicing to become independent, you know.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "まあ正直、\nまだまだ心配ではあるけれど……\nマツリちゃんも、\nそろそろ独り立ちする練習をしないとね。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So, so unfair~...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そ、\nそんなぁ～……"
+    },
+    {
+      "name": "Jun",
+      "text": "Of course, I don't intend to burden only Matsuri with it.\nI have also arranged for people who will help.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "もちろん、\nマツリちゃんだけに背負わせるつもりはないよ。\n手伝ってくれる人も手配しているから。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Is there someone who can help me...?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "手伝ってくれる人……？"
+    },
+    {
+      "name": "Christina",
+      "text": "It's... Me☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ワ・タ・シ・だ☆"
+    },
+    {
+      "name": "Matsuri",
+      "text": "A-Aunt, Christina!? Why are you here!?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ク、\nクリスティーナおばさん！？\nなんでここにいるッスか！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Did you not listen to what I said? Being inattentive is negligence of your duties. And if you call me \"old lady\" again, there will be consequences♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "話を聞いてなかったのか？　\n注意散漫は職務の怠慢だぞ。\nあと、\n次におばさんと言ったらお仕置きだ♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? Aunt... Christina is attending the peace conference for the Beastfolk tribe? What kind of situation is this?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "えぇ？　\nおば……\nクリスティーナさんが、\n獣人族の和平会議に？\nどういう風の吹き回しッスか？"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh, don't give me that doubtful look.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おや、\nそんな疑いの眼差しを向けてくれるなよ。"
+    },
+    {
+      "name": "Christina",
+      "text": "If it is the order of the captain and our beautiful princess, as a humble former vice captain, I have no choice but to obey.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "団長、\nそして我が麗しの姫殿下のご命令とあらば、\nしがない元副団長としては従うしかあるまいさ。"
+    },
+    {
+      "name": "Tomo",
+      "text": "You're not such a noble person, are you?\nWhat are you plotting, Christina?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "あなたはそんな殊勝な人間じゃないだろう。\n何を企んでいる、\nクリスティーナ？"
+    },
+    {
+      "name": "Tomo",
+      "text": "Originally, the reason why the relationship between the Beastfolk Tribe and Nightmare worsened was because of the trouble you caused before, right?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "そもそも獣人族と【王宮騎士団（NIGHTMARE）】の関係を\nより悪化させたのは、\n前にあなたがいざこざを起こしたのが原因だろう？"
+    },
+    {
+      "name": "Christina",
+      "text": "That's exactly why, Tomo.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だからこそだよ、\nトモちゃん。"
+    },
+    {
+      "name": "Christina",
+      "text": "The person who caused the trouble with the Beastfolk,\nthey should be the one to attend as a form of apology.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "獣人族との禍根を作った張本人に、\n謝罪も兼ねて出席してほしいとの仰せでね。"
+    },
+    {
+      "name": "Christina",
+      "text": "What, I am a woman who keeps her promises.\nCan you trust me? In return,\nthe captain must fulfill their promises properly...♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なに、\nワタシは約束を守る女だ。\n信用してくれていいよ？\nその代わり、\n団長にもきちんと約束は果たしてもらうが……♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Promise... Is it?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "約束……\nッスか？"
+    },
+    {
+      "name": "Jun",
+      "text": "In order to get Chris to agree to the conditions,\nwe also needed to make some concessions.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "クリスちゃんに条件をのんでもらうために、\nこちらもある程度譲歩する必要があった。"
+    },
+    {
+      "name": "Christina",
+      "text": "Ah, there, we made a promise. When this mission is over, I want you to fight me seriously... that's what she means.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ああ、\nそこで一つ\n約束を交わした。\n任務が終わった暁には、\nこのワタシと本気で戦ってほしい……\nとね。"
+    },
+    {
+      "name": "Christina",
+      "text": "Well, you see, the captain always responds to my love calls with such cold answers... like this!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なにせ、\n団長ときたらワタシのラブコールにも\nつれない返事でしか応えてくれないものでね……\nこんなふうにっ！"
+    },
+    {
+      "name": "Jun",
+      "text": "...Chris, I've been telling you this from before. Please stop suddenly attacking me, okay?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……クリスちゃん、\n前から言ってるだろう。\nいきなり斬りかかってくるのはやめてくれ、\nって。"
+    },
+    {
+      "name": "Christina",
+      "text": "Even so, the captain has no intention of attacking, just protecting. It's not a boring swordsmanship training, if you keep being blocked and evaded, your passion and excitement will fade away, right?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そうはいっても、\n団長は守るばかりで攻める気がない。\nつまらん剣術修行じゃあるまいし、\nいなされ、\n逸らされてばかりでは\n熱も興も冷めてしまうだろう？"
+    },
+    {
+      "name": "Christina",
+      "text": "But if I fulfill the promise, I can truly battle the captain...\nAnd if it's betrayed, well,\nthat gives me a reason to draw my sword.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だが\n約束を果たせば、\nワタシは本気の団長と戦えるし……\nもし反故にされたとしても、\nそれはそれで\n剣を抜く理由ができる。"
+    },
+    {
+      "name": "Christina",
+      "text": "No matter which way I fall, my sword trembles with joy.\nPersonally, I recommend the latter option♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "どちらに転んでも、\nワタシの剣は喜びに震えるというわけさ。\nワタシとしては、\n後者の方をオススメするよ♪"
+    },
+    {
+      "name": "Jun",
+      "text": "No, I'll pass.\nI can't involve my innocent subordinates in your rampage.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "いや、\n遠慮しておこう。\nクリスちゃんの大暴れに\nいたいけな部下まで巻き込むわけにはいかない。"
+    },
+    {
+      "name": "Christina",
+      "text": "What a shame♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "なぁんだ、\n残念♪"
+    },
+    {
+      "name": "Tomo",
+      "text": "*sigh* So that's how it works...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "はぁ、\nそういうカラクリだったんですね……"
+    },
+    {
+      "name": "Tomo",
+      "text": "I always thought that Christina wouldn't just obediently follow without any ulterior motives.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "クリスティーナが、\n何の裏もなく\n従うわけがないとは思っていましたけど。"
+    },
+    {
+      "name": "Tomo",
+      "text": "But Jun also took a big gamble. In the past, there have been bloody conflicts between humans and Beastfolk. To leave the peace negotiations to these two...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "だけど、\nジュンさんも大きく賭けに出たな。\n過去、\n血で血を洗う抗争をしてきたヒューマンと獣人族……\nその和平交渉を\nこの二人に任せるなんて。"
+    },
+    {
+      "name": "トモ",
+      "text": "片や、\n獣人族でありながら\n【王宮騎士団（NIGHTMARE）】に与する団員。\n過去に獣人族との諍いを起こした張本人……",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "片や、\n獣人族でありながら\n【王宮騎士団（NIGHTMARE）】に与する団員。\n過去に獣人族との諍いを起こした張本人……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Matsuri wants to hide the fact that she is a Beastfolk...\nHonestly, the other members probably noticed too.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "マツリちゃんは\n獣人族だってことを隠したがっているけれど……\n正直なところ、\n他の団員も気づいているだろうし。"
+    },
+    {
+      "name": "Tomo",
+      "text": "But, that's exactly why Matsuri is a perfect proof that the Beastfolk and humans can coexist harmoniously... It's also a great proof that they can hold hands in peace.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "でも、\nだからこそ、\nマツリちゃんのことは\n獣人族とヒューマンがうまく融和している……\n平和に手を取り合えるという、\n絶好の証明でもある。"
+    },
+    {
+      "name": "Tomo",
+      "text": "...Well, I can't really tell Matsuri herself that I'm trying to deceive her, but...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "……なんて、\nうまく誤魔化しているつもりの\nマツリちゃん本人には言えないけれど。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "But, but, Jun! If this person is around,\nit's more like pouring oil on fire,\nnot just getting along,",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "で、\nでも、\nジュンさん！　\nこの人がいたんじゃ\n仲良くなれるどころか、\n火に油を注ぐようなもんッスよ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Don't say such cold things, Matsuri.\nLet's create a path to peace together, shall we?♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そうつれないことを言うなよ、\nマツリちゃん。\n一緒に平和への道を作ろうじゃないか♪"
+    },
+    {
+      "name": "Jun",
+      "text": "I know it's tough, but I believe in Matsuri's abilities.\nThat's why I want to ask you for this mission.\nWhat do you think?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "大変だとは思うけれど、\nマツリちゃんならできるって信じてる。\nだから、\nこの任務をお願いしたいんだ。\nどうだろう？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Ugh, it's unfair.\nIf Jun says something like that, I can't refuse.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……う～\nズルいッスよ。\nジュンさんにそんなふうに言われたら\n断れないッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Understood. If it's Her Majesty and Jun's orders, there's no helping it. I'll make sure Auntie doesn't do anything strange, I'll keep a close eye on myself!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "分\nかったッス。\n陛下とジュンさんのご命令なら仕方ないッス。\nおばさんが変なことをしないか、\n自分がきちんと見張るッスよ！"
+    },
+    {
+      "name": "Jun",
+      "text": "Ah.........",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あ…………"
+    },
+    {
+      "name": "Tomo",
+      "text": "What's the matter?",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "どうしたんですか？"
+    },
+    {
+      "name": "Jun",
+      "text": "I forgot to mention.\nThis is about the person who will help Matsuri this time.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "伝え忘れてしまったな。\n今回、\nマツリちゃんを手伝ってくれる人のことなんだけど。"
+    },
+    {
+      "name": "Jun",
+      "text": "That's not Chris...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あれはクリスちゃんじゃなくて……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Ah... I see.\nThis is a reliable ally. ♪",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "ああ……\nなるほど。\nこれは頼りになる味方だ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Matsuri and Christina leave the entrance of the royal castle while having a lively conversation.\n{0} dashes out to join them.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "騒がしく会話をしながら王城入口を後にするマツリとクリスティーナ。\nそんな二人に合流するべく、{0}は駆け出すのだった。"
+    }
+  ]
+}

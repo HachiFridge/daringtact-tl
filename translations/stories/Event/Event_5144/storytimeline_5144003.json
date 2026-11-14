@@ -1,0 +1,922 @@
+{
+  "title": "Let's Avoid Suzume's Dismissal!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and others are preparing for the Flower Festival.\nHowever, Suzume's clumsiness continued afterwards...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "花祭りの準備を進める{0}たち。\nしかし、スズメのドジはその後も続いてしまい……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I never would have imagined that Suzume-san\nwas such a klutz...\nIt feels like something befalls us everyday...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "まさか\nスズメさんがここまでドジな人だったなんて……\n毎日、\n何か浴びせられてる気がします……"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Seeds, nectar, honey, fertilizer, water, fertilizer, spices...\nIt's included everything in the village, hasn't it?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "種、\n花蜜、\n蜂蜜、\n肥料、\n水、\n肥料、\n香辛料……\n村にあるもん、一通り網羅したんじゃねぇのか……？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Even if I have her fill out order forms for seeds and fertilizer, she'll end up stamping it in all the wrong places...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "種や肥料の発注書類を作ってもらっても、\n押しちゃいけないところにハンコ押しちゃうし……"
+    },
+    {
+      "name": "Pukichi",
+      "text": "If I ask her to organize the gardening shed, it will explode, like always.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『園芸用の倉庫の整理を頼んだら、\nいつも通り爆発するしな』"
+    },
+    {
+      "name": "Ayane",
+      "text": "......What can I say?\nThis might be the grand finale of Suzume's screw-ups this time.",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "……なんていうか。\nスズメのドジの総決算になってるかも、\n今回。"
+    },
+    {
+      "name": "Suzume",
+      "text": "I'm sorry, I'm sorry! \nUgh, I tried to be careful...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ごめんなさい、\nごめんなさ～い！\nうぅ、\n気をつけているつもりなんですけど～……"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Anyway, this isn't going to work!\nNow, go apologise to the old man and take off that costume!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "とにかく、\nこれじゃ仕事にならねぇ！\n今からでもじじぃに頭を下げて、\nその衣装は脱いでこい！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "P-Please wait!\nCertainly, she's made a lot of mistakes, but...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ま、\n待ってください！\n確かにドジは多いですけど、\nそれは……！"
+    },
+    {
+      "name": "Male Villager",
+      "text": "Well, Kyouka-chan, um...\nOn this at least, maybe Ryuuji has a point...\nI want you to think about it calmly, explosions are not good.",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "いやぁ、\nキョウカちゃん、\nそのぉ……\nこればっかりは、\nリュウジの言うことも一理あるかなって……\n冷静に考えてほしいんだけど、\n爆発はまずいって。"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Good job, Miss Suzume.\nThanks to you, Ryuuji and the villagers\nseem to be getting along well on something.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『よかったな、\nスズメの嬢ちゃん。\nおまえのおかげで、\nリュウジと村人が仲良くなれそうだぞ』"
+    },
+    {
+      "name": "Suzume",
+      "text": "It's not good at all～!\nBut, what everyone is saying makes sense too...\nSo maybe I shouldn't do it after all...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ちっともよくないですよ～！\nでも、\nみなさんの言うことももっともですし……\n私、\nやっぱりやらない方がいいんでしょうか……"
+    },
+    {
+      "name": "Ayane",
+      "text": "It's only been a few days since you started, is it okay to give up so easily?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "まだ始まってから数日しか経ってないのに、\n簡単に諦めちゃっていいの？"
+    },
+    {
+      "name": "Ayane",
+      "text": "At times like this, the Suzume always encourage me,\nsaying, \"It will surely be okay!\"",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "こういう時、\nスズメはいつも\nきっと大丈夫です、\nって\n励ましてくれるのに！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ryuuji-san, everyone. \nCould you wait just a little longer? I think Suzume-san will make fewer mistakes as she gets used to the job!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "リュウジさん、\nみなさん。\nもうちょっとだけ待ってもらえませんか？\nスズメさんも、\n仕事に慣れてくれば\nドジも減ると思うので！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Well... I understand how you feel, but we can't.\nIt might only be funny now,\nbut it will be too late once someone gets hurt.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "だがな……\n気持ちは分かるが、\n流石にダメだ。\n今はご愛敬で済んでるが、\nケガ人が出てからじゃ遅いんだよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "But, um...!\nSuzume-san is really doing her best...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "でも、\nあの……！\nスズメさんだって\nがんばってるし……！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Kyouka-chan, I understand your feelings,\nbut Ryuuji-san's argument is correct.\nJust asking is not enough to convince him.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "キョウカちゃん。\n気持ちは分かるッスけど、\nリュウジさんの言い分は正しいッス。\nただお願いするだけじゃ、\n納得してもらうのは難しいッスよ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Matsuri-san......",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "マツリさん……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So first, let's try to think of a way to prevent Suzume-san's mistakes!\nAnd then, after getting good results,\nhow about asking everyone again?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "だからまず、\nスズメさんのドジを防ぐ方法を考えてみるッス！\nそれで\nちゃんと結果を出してから、\n改めてみんなにお願いしてみるのはどうッスかね？"
+    },
+    {
+      "name": "Pukichi",
+      "text": "I'm counting on you too, Flower Guy-chan.\nGive Suzume a chance to make amends.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『俺からも頼むぜ、\n花の兄ちゃん。\nスズメの嬢ちゃんに、\n挽回のチャンスをやってくれ』"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "You guys... But, I can't wait forever.\nThe flower festival is at the end of this month,\nso there's no time to stop and rest.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "お前らなぁ……\nつっても、\n長々とは待てねぇぞ。\n花祭りの開催は今月末で、\n手を止めてる暇はねぇんだからな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yeah, that's right... Can you at least wait for about three days?\nIf it's just that much, it won't have a big impact on the work, right?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そうッスね～……\nせめて\n３日くらい待ってもらえないッスか？\nそれくらいだったら、\n作業に大きな影響も出ないッスよね？"
+    },
+    {
+      "name": "Male Villager",
+      "text": "Well, since there is some flexibility in the work schedule,\nI can wait long.",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "まぁ、\n作業日程には多少余裕を持たせてあるから、\nそれくらいなら待ってもいいよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Well, then, please wait for us!\nRyuuji, you're okay with this too, right?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "じゃあ、\nそれでお願いするッス！\nリュウジさんも\n大丈夫ッスよね？"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "If you can manage it somehow.\nI don't expect much, but do your best and maybe a miracle can happen.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "それでなんとかなるならな。\n期待してねーけど\n精々がんばって、奇跡を起こしてくれや。"
+    },
+    {
+      "name": "Suzume",
+      "text": "I'm sorry, I'm sorry! \nI'll do my best for three days to get rid of my clumsiness～!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "すみません、\nすみません！\n３日間、\nドジがなくなるようがんばりますので～！"
+    },
+    {
+      "name": "Suzume",
+      "text": "......Thank you, Maturi-chan～!\nThanks to you, I managed to avoid getting fired somehow～......",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……マツリちゃん、\nありがとうございます～！\nおかげでなんとか、\nクビにならずに済みました～……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Even though you were dealing with an adult,\nyou persuaded them so well...\nI think it's amazing!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "大人の人が相手なのに、\n上手く説得しちゃうなんて……\nすごいと思います！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "You're welcome～!\nI was trained by the Knights of the Royal Palace, Nightmare!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "いや～\nどういたしましてッス！\n【王宮騎士団（NIGHTMARE）】で鍛えられたッス！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Everyone, thank you for helping me.\nBut how can I fix my clumsiness...?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "みなさん、\n助けてくれてありがとうございました。\nでも、\n私、\nどうやってドジを直したらいいんでしょう……？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's the problem, right?\nI was debating whether to ask for a few more days, but considering the date of the Flower Festival, we can't make everyone wait too long...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "問題はそこッスよね～\nもうちょっと日数お願いしようか迷ったッスけど、\n花祭りの日取りを考えたら、\nあんまり長い期間待ってもらうのも……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "We can't stop her being a klutz completely,\nbut we must show results convincing enough\nfor Ryuuji-san and the others!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "完璧にドジを直すのは無理でも、\nリュウジさんたちを説得できるだけの結果は出さないと！"
+    },
+    {
+      "name": "Ayane",
+      "text": "If we don't, they'll confiscate the costume...\nIt suits Suzume so well...",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "じゃないと、\n衣装を没収されちゃう……\nせっかくスズメに似合ってるのに……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ayane-chan......",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "アヤネちゃん……"
+    },
+    {
+      "name": "Suzume",
+      "text": "If I give up, it would mean betraying Ayane-chan's expectations.\nShe's the one who asked me to wear the costume.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "諦めたら、\nアヤネちゃんの期待を裏切ることになるんですよね。\n私に衣装を着てほしいって言ってくれたのも、\nこの子ですし。"
+    },
+    {
+      "name": "Suzume",
+      "text": "...After all, I can't just keep disappointing the people around me!\nI have to think about what I can do in my own way!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……やっぱり、\n周りの人たちをがっかりさせっぱなしじゃダメです！\n私なりに、できることを考えないと！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hmm... Is there any good way, I wonder～\nIf only the more mistakes I make, the more work I get done.",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "う～ん……\n何かいい方法、\nないですかね～\nいっそ、\nドジをすればするほど、\nお仕事が片付いていけばいいのに。"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Suzume, you seem to be really struggling.\nYour words and actions are getting stranger and stranger.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『スズメの嬢ちゃん、\n相当まいってるみてーだな。\nいよいよ言動がおかしくなってるぞ』"
+    },
+    {
+      "name": "Kyoka",
+      "text": "......No!\nIt might not be a bad idea!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……いえ！\n悪くないアイデアかもしれません！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Wait, are you serious?\nI think maybe Suzume is just saying random things.",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "えっ、\n本気なの？\n多分スズメ、\n適当なこと言ってるだけだと思うよ？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That's not true!\nEven in the book I read recently, it said it's important to think flexibly and change your way of thinking when you're stuck!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そんなことありません！\nこの前読んだ本にも、\n行き詰ったときは\n頭を柔らかくして、\n発想を逆転させることが大事だって書いてありました！"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Amazing. Just by hearing it, you can tell it's a book written to trick children filled with haphazard, fluffy stuff.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『すげーな。\nそれを聞いただけで、\n適当にふわふわしたことが書いてある、\n子どもだましのインチキ本だって分かるぜ』"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Listen to me, please!\nFirst, remember the outcome of Suzume's blunders!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "いいから聞いてください！\nまず、\nスズメさんのドジの『結果』を思い出すんです！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Things fly everywhere, explode,\nand then the villagers are screaming.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あらゆるものをぶちまけ、\n爆破し、\n村の人たちから悲鳴があがってるッス。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh...\nIt's really painful when it's put into words again...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "うぅ……\n改めて言葉にされると\n辛すぎます～……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "On the contrary,\nif we asked Suzume-san to do a job like \"spilling something everywhere\"\nor \"blow something up\", that would be great!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "逆に言えば、\nスズメさんに\n『なにかをぶちまける仕事』とか、\n『何かを爆破する仕事』をお願いすればいいんですよ！"
+    },
+    {
+      "name": "Pukichi",
+      "text": "I get it now... but, it'll be trouble to underestimate Suzume! \nShe always messes up the work assigned to her,\neven when you anticipate that!",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『なるほど……\nでも、\nスズメの嬢ちゃんを舐めてもらっちゃ困るぜ！\nそれを見越して仕事を振っても\nしっかりドジるからな！』"
+    },
+    {
+      "name": "Suzume",
+      "text": "Please do not say mean things in a cheerful way!\nI don't need you to trust me to fail～!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "爽やかな感じでヒドイこと言わないでくださ～い！\nそんな負の信頼、\nいらないですよ～！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Certainly, I don't think it's enough to just ask.\nSo, I will create a user manual for Suzume-san!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "確かに、\nただお願いするだけじゃダメだと思います。\nだから私が、\nスズメさんの取り扱い説明書を作ります！"
+    },
+    {
+      "name": "Ayane",
+      "text": "A... user manual...?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "と、\n取り扱い\n説明書……？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "We're going to make sure we control Susume-san's clumsiness.\nIf she makes the mistakes we expect,\nwe should be able to turn the damage into good results.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "スズメさんのドジを、\nコントロールできるようにするんです。\n想定してた通りにドジをしてくれれば、\n被害を成果に変えられるはずですから。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "T-the conversation suddenly got confusing...\nBut, it's better than just doing nothing\nand letting three days pass like this!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "きゅ、\n急に難しい話になってきたッスね……\nでも、\nこのまま何もしないで３日後を迎えるより\nマシッス！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I haven't spent as much time with Suzume-san as you all have...\nIf you know things like Suzume-san's habits or clumsy tendencies,\nI would like you to tell me!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "私は、\nみなさんほどスズメさんと過ごしてないですから……\nスズメさんのクセとか、\nドジの傾向とか、\nそういうのがわかれば教えてほしいです！"
+    },
+    {
+      "name": "Ayane",
+      "text": "If that's all, leave it to me!\nI think I can remember about a hundred of them!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "それなら任せて！\n100個くらい思い出せると思うよ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "T-This is so embarrassing～......\nTohoho～......",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "お、\nお恥ずかしい限りですぅ～……\nとほほ～……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I'll help out too, of course!\n...But, what specific things should I do to be helpful?\nI don't know much about Suzume-san's clumsiness.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分ももちろん手伝うッス！\n……でも、\n具体的に\nなにをやったらよさそうッスかね？\nスズメさんのドジについては\n詳しくないし。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Matsuri, could you tell me what we need to be careful about regarding the paperwork?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "マツリさんは、\n書類仕事で気をつけた方がいいことを\n教えてもらえませんか？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "When we are helping with that kind of work,\nI feel like Matsuri-san had the fewest mistakes.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "私たちがそういう仕事のお手伝いをしてるとき、\n一番ミスがなかったのって、\nマツリさんな気がするんです。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Certainly, since I'm usually entrusted with paperwork,\nI think I can give some advice!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "確かに、\n自分は普段から書類仕事を任されてるんで、\nアドバイスできることがあると思うッス！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Please support Suzume by strengthening her!\nSince we are short on time, please have her handle a lot of work\nwhile also making a lot of clumsy mistakes...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あなたは、\n強化でスズメさんをサポートしてあげてください！\n時間がないので\nスズメさんにはいっぱいお仕事をこなしつつ、\nドジもたくさんしてほしいんですけど……"
+    },
+    {
+      "name": "Ayane",
+      "text": "Well, it'll be tiring, won't it?\nPlease use your power to make Suzume stronger, Onii-chan!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "まぁ、\n疲れちゃうよね。\nお兄ちゃんの力で、\nスズメを元気にしてあげてね！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Thank you everyone...\nI can't believe you went this far for me... Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "みなさん、\nありがとうございます……\nここまでしてもらえるなんて……\nうぅ……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "It's still too early to celebrate, you know?\nLet's all help Suzume and have the villagers praise her!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "喜ぶのはまだ早いですよ？\nみんなでスズメさんを手伝って、\n村の人たちに褒めてもらいましょう！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Oh~!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "お～！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hmm, first I need to investigate the pattern of her blunders...\nAre there any instances where you have noticed\nsomething from your usual blunders?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっと、\nまずはドジのパターンを調べないと……\n普段のドジで、\nなにか気付いたりしたことってありますか？"
+    },
+    {
+      "name": "Ayane",
+      "text": "Umm... When Suzume carries luggage,\nthere are various patterns in how they stumble.\nIt's to do with where she walks,\nwhat luggage she's carrying, and even the season!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "え～っと……\nスズメが荷物を運ぶ時のこけ方って\nいろいろパターンがあって、\n歩く場所とか、\n持ってる荷物とか、\n季節なんかも関係あるんだよ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Having my own blunders explained to me\ngives me mixed feelings～......\nBut, I have to overcome it and do my best...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "自分のドジを解説されるのって、\n複雑な気分ですぅ～……\nでも、\nがんばって克服しないと……！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh, thank you so much～!\nSuzume never gives up until the end!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "うぅ、\nありがとうございます～！\nスズメは、\n最後まで諦めませんので！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Make a note of the items that should be checked,\nand when the documents are ready,\nyou should inspect them while referring to itm!\nThat's best because Christina-san and the chief clerk said so!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "チェックした方がいい項目をメモして、\n書類ができたら\nそれを見ながら点検すればいいッス！\nクリスティーナさんや、\n係長が言ってたから\n間違いないッス！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Certainly, I think it's a great idea!\nCan we use the notes that Matsuri-san made as a reference?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "確かに、\nいいアイデアだと思います！\nマツリさんが作ったメモとか、\n参考にしてもいいですか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Of course!\nI always make sure to include a caricature of a tiger in my notes,\nso I'll teach you how to draw that too!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "もちろんッス！\n自分、\nメモにはトラタイガーの似顔絵も入れるようにしてるんで、\nその描き方も伝授するッスよ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Based on the patterns so far, if you take two more steps,\nyou'll fall and drop the bag with the seeds...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "これまでのパターンからして、\nあと二歩歩いたら転んで\n種の入った袋を落とすので……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Kyaa!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "きゃあっ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "As expected, the information from Ayane-san is correct...\nTo make effective use of this...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "やっぱり、\nアヤネさんからの情報通りですね……\nこれを有効活用するには～……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Whaaat? All I was doing was cleaning the warehouse!\nWhy did it explode?!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ひぇ～、\n倉庫のお掃除をしてただけなのに～！？\nどうして爆発しちゃうんですか～！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "This blunder is dangerous, but I want to make good use of it...\nIt's a blunder that uses magic, so if I can just control the flow...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "このドジは、\n危ないですけど上手く活用したいですね……\n魔法を使ったドジなので、\n流れだけ制御できれば……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh... I accidentally blew up the food stall this time...\nBecause I'm such a klutz, I'm exhausted both mentally and physically...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あうぅ……\n今度は屋台を爆発させちゃいました……\nドジし過ぎたせいで、\n心も体もクタクタですぅ……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ahh... Thank you ♪\nFeeling your support, I'm full of energy now!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あっ……\nえへへ、\nありがとうございます♪\nあなたの力を感じられて、\n元気いっぱいになりました！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Then, please continue to make mistakes!\nThe more samples we collect,\nthe more accurate the instruction manual will be!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "では、\n引き続きドジを繰り返してください！\nサンプルが多いほど、\n正確な説明書になると思いますから！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Leave it to me!\nFor the sake of everyone supporting me,\nI will keep making more and more mistakes～!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "任せてください！\n支えてくれてるみなさんのためにも、\nどんどんドジしていきますよ～！"
+    },
+    {
+      "name": "Ayane",
+      "text": "...How should I put it?\nMaybe it's a little strange to have such an earnest face while determined to make mistakes.",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "……なんていうか。\n真面目な顔でドジの決意を固めるって、\nちょっとヘンかも。"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Well, for now, believe in the little miss Kyouka's plan.\nMaybe it'll lead to surprisingly good results, you know?",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『まぁ、\n今はキョウカの嬢ちゃんの計画を信じてやれ。\n案外、\nびっくりするような結果になるかもしれないぜ？』"
+    },
+    {
+      "name": "Narration",
+      "text": "And on the promised day...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして約束の日……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Whew... it's finished!\nThis is the \"Suzume-san User Manual\"!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ふぅ……\n完成しました！\nこれが\n『スズメさん取り扱い説明書』です！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "While helping out with various tasks, I documented all sorts of clumsy patterns, and it turned into a massive work, over eight hundred pages long!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分もいろいろ手伝いながら\nあらゆるドジパターンを記載して、\n800ページ超えの超大作に仕上がったッス！"
+    },
+    {
+      "name": "Suzume",
+      "text": "W-Wow, thank you so much～!\nI wonder what's written in there...?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "す、\nすごい……\n本当にありがとうございます～！\nどんなことが書いてあるんでしょう……？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Hmm, first of all......\n\"Before working with Suzume-san, be sure to read this manual carefully.\\Aim for zero accidents by handling it correctly!\"",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "えーっと、\nまず最初に……\n『スズメさんとお仕事をする前に\nこの説明書をよく読み、\n正しく接することで\n事故ゼロを目指しましょう！』"
+    },
+    {
+      "name": "Suzume",
+      "text": "......What can I say?\nAm I being treated like a tool for civil engineering and construction?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "……なんていうか。\n土木建築の道具みたいな扱いになってませんか、\n私？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Actually, I referred to such an explanatory book.\nIt had a lot of information on how to prevent accidents written in it,\nand Matsuri-san told me that it was helpful.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "実は、\nそういう解説書を参考にしました。\nどうしたら事故を防げるのかがたくさん書いてあって、\n参考になるとマツリさんに教えてもらったんです。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Christina-san said, \"It's useful on the battlefield,\"\nand forced me to read it, but I never thought it would be useful like this...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "クリスティーナさんが\n『戦場で役に立つ』\nとか言って\n無理やり読ませてきたんスけど、\nまさか\nこんな形で役に立つとは……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh, that makes me feel a bit conflicted～\nBut I'm happy that there are items I can practice by myself!\nWith just this, I can finally break free from clumsiness...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "うぅ、\nちょっと複雑な気分です～\nでも、\n私自身でも実践できる項目があるのはうれしいですね！\nこれさえあれば、\n私もついにドジ脱却……"
+    },
+    {
+      "name": "Pukichi",
+      "text": "Wait a minute. Can you work while reading an 800-page manual?\nEven if you memorize it, you promised to show the results to the villagers today.",
+      "choice_data_list": [],
+      "orig_name": "ぷうきち",
+      "orig_text": "『ちょっと待て。\n……800ページもある説明書を読みながら作業は\n無理じゃないか？\n暗記するにしても、\n村の連中には今日成果を見せる約束だろ』"
+    },
+    {
+      "name": "The Three",
+      "text": "Ahhh......",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "あ～……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I didn't think that far ahead.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そこまで考えてなかったッス。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Alright, let's do this!\nI roughly remember the contents of the manual,\nso I will give instructions on what to do!\n",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "じゃあ、\nこうします！\n私は説明書の中身は大体覚えてるので、\nどう動けばいいのか指示を出します！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh... I'm really sorry... \nFor making Kyouka-chan do all that...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "うぅ……\n本当にすみません……\nキョウカちゃんにそこまでさせちゃって……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "It's okay!\nLet's show the results to Ryuuji and the others right away!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "大丈夫です！\n早速、\nリュウジさんたちに成果を見てもらいましょう！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Thank you.\nUh, I'm starting to get nervous...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ありがとうございます。\nうぅ、\n緊張してきました……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Suzume, please have confidence! \nEven your clumsiness, when we all work together, \ncan become a strength!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "スズメさん、\n自信を持ってください！\nスズメさんのドジだって、\nみんなで力を合わせれば\n強みになるって証明するんです！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Well, you've done so much for me!\nI will do my best not to waste everyone's help!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "そうですね、\nここまでしてもらったんですから！\nみなさんの助けを無駄にしないよう、\nがんばります！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "......What is it?\nI was told something about a 'Suzume manual' by that person,\nbut... I have no idea what they were talking about at all.\n",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "……なんだ？\nそいつからスズメの説明書がどうたらこうたらとか\n言われたんだが……\nさっぱり意味が分からねぇ。"
+    },
+    {
+      "name": "Male Villager",
+      "text": "For now, have we come up with a plan to deal with Suzume's blunders... Is it okay if I put it like that?",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "とりあえず、\nスズメちゃんの\nドジへの対応策ができた……\nってことでいいのかい？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I think it's better for you to see it in person.\nEveryone, please take your positions!\nIt's on page 158 of the manual, in the 'Sowing' formation!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "実際に見てもらった方がいいと思います。\nみんな、\n配置についてください！\n説明書\n158ページ、\nフォーメーション\n『種まき』です！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Roger that!\nAcknowledged!\nRoger that!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "了解ッス！\n了解です！\n了解！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Wait, what's going on?\nWhy are these guys acting like a military unit?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "えっ、\nなに、\nどういうことだ？\nなんでこいつら、\nこんな軍隊じみた動きになってんの？"
+    },
+    {
+      "name": "Male Villager",
+      "text": "Unless you went that far, could you do anything?\nIt is Suzume's blunders.",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "そこまでしないと、\nどうにもなんなかったの？\nスズメちゃんのドジ。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ugh...!\nWhen I receive a reasonable opinion again, it hurts my heart～!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "うぅ\n……！\n改めてもっともなご意見を頂戴すると、\n心が痛いですぅ～！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Don't worry, please focus!\nAlright, Suzume-san, please start sowing seeds!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "気にしないで、\n集中してください！\nそれではスズメさん、\n種まきをどうぞ！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Yes!\nUm, this time, I will plant these seeds in that flower bed... Eek!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい！\nええっと、\n今回はそこの花壇にこの種を……\nき\nゃあっ！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "You're suddenly falling down, aren't you?!\nAre you just going to throw away the seeds and call it a day?!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "いきなりこけてんじゃねぇか！\nまた種をぶちまけて終わりかよ！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "This pattern... take three steps back from there,\nthen kick the bag towards Matsuri-san!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "このパターンは……\nそこから３歩下がって、\nマツリさんの方向に\n袋を蹴り飛ばしてください！"
+    },
+    {
+      "name": "Male Villager",
+      "text": "What!?\nHe's skillfully kicking the bag up that Suzume tossed!",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "なっ！？\nスズメちゃんが放り投げた袋を、\n彼が華麗にリフティングしたぞ！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "You're saying they predicted the direction she'd throw the bag,\nand placed the others there...!?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "嬢ちゃんが袋を放り出す方向をあらかじめ予測して、\nそこに他の連中を配置しているってのか……！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Matsuri-san, please step back two steps towards 7 o'clock and receive it!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "マツリさん、\n７時の方向に２歩下がって\nレシーブしてください！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Leave it to me!\nYes, got it!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "任せるッス！\nはい、\nレシーブ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "The bag has now landed right above the flower bed!\nAyane-san, the rest is up to you!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "これで袋は、\n花壇の真上に来ました！\nアヤネさん、\nあとはお願いします！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Okay!\nPuukichi, full swing!",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "オッケー！\nぷうきち、\nフルスイ～ング！"
+    },
+    {
+      "name": "Male Villager",
+      "text": "Th-This is...!",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "こ、\nこれは……！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "She tossed the bag and then burst it at just the right moment,\nto finish planting the seeds in an instant...!?",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "嬢ちゃんが放り投げた袋を適切なタイミングで破裂させ、\n一瞬で種まきを終わらせただと……！？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Phew, somehow it's a success～!\nThank you, everyone!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ふぅ、\nなんとか成功です～！\nみなさん、\nありがとうございました！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "This is an idea that everyone came up with...\nIt's a way to streamline the work through Suzume's blunders!\nWe also have countermeasures prepared for other types of blunders!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "これがみんなで考えた……\nスズメさんのドジで、\n作業を効率化する方法です！\n他のパターンのドジにも、\n全て対応策を用意してますから！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "I can't believe they actually did it... For a moment, I thought, \"Can't I just throw it normally and do the same thing?\" but it would be thoughtless h to say that to the people who have come this far!",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "まさか、\n本当にやりやがるとは……\n一瞬\n『普通に放り投げても同じことできるよな？』って思ったけど、\nここまで仕上げてきた連中に言うのも野暮ってもんだ！"
+    },
+    {
+      "name": "Ayane",
+      "text": "Just now, wasn't this someone who just said whatever came into his head?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "今回さ。\n思ったこと全部口から出る人しかいなくない？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A-Anyway!\nI also prepared a manual that covers Suzume's mistakes\nand summarizes ways to utilize them in other tasks.\n",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "と、\nとにかく！\n他の作業についても、\nスズメさんのドジをカバーしたり、\n逆に利用できる方法をまとめた説明書も用意したんです。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "If you work based on this,\npreparing for the Flower Festival will also become easier, like before.\nSo, please don't fire Suzume-san...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "これを参考に作業をすれば、\nさっきみたいに\n花祭りの準備も楽になります。\nだから、\nスズメさんをクビにしないでください……！"
+    },
+    {
+      "name": "Suzume",
+      "text": "Um, please...!\nEveryone has helped me this far,\nso if I get excluded from helping, I...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "その……\nお願いします！\nみんなにここまでしてもらったのに、\nお手伝いから外されちゃったら、\n私……！"
+    },
+    {
+      "name": "Ryuuji",
+      "text": "Well, it depends on the contents of that instruction manual.\nI feel like asking her about it.",
+      "choice_data_list": [],
+      "orig_name": "リュウジ",
+      "orig_text": "まぁ、\nその説明書とやらの中身次第だが。\n話を聞いてみる気にはなった。"
+    },
+    {
+      "name": "Male Villager",
+      "text": "Sure.\nLet's hold off on making a decision about Suzume-chan for now.",
+      "choice_data_list": [],
+      "orig_name": "村の男性",
+      "orig_text": "そうだな。\nスズメちゃんへの判断は、\n一度保留にしよう。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Oh, thank you! \nIt's all thanks to Kyouka-chan and everyone else～!!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あ、\nありがとうございます！\nキョウカちゃんたちのおかげですよ～！！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yes ♪\nBut, the real hard work starts now!\nLet's tighten our focus!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "はい♪\nでも、\nがんばっていくのはこれからです！\n気を引き締めていきましょう！"
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "title": "Miyako (Halloween) Episode 4",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "With Halloween drawing to an end, Miyako watches sadly\nas the city returns to its usual, undecorated state.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ハロウィンが終わり、街がいつもの風景に戻る様を、\nミヤコは寂しそうに眺めていた。"
+    },
+    {
+      "name": "Miyako",
+      "text": "Halloween was a crazy time, but lots of fun.\nFeels lonely to think it's all over already...",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ハロウィン、\nいろいろあったけど楽しかったの。\nもう終わっちゃうと思うと、\nちょっとだけ寂しいの。"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hmm?! What now?! It's so shiny! Can't look at the light!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "んっ！？　\nなんなの！？　\n眩しいの！　\n目が開けられないの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "That Halloween pumpkin pudding...\nWho knew we'd have to line up for a whole hour for it?",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "ハロウィン限定カボチャプリン……\nまさか一時間も並ぶとは思わなかったの。"
+    },
+    {
+      "name": "Miyako",
+      "text": "Miyako thought we might die of boringness...\nBut we got pudding in the end!\nGood work, {0}!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "宮子、\n退屈で死にそうだったの～\nでも無事にゲットできてよかったの！\n{0}もよくやったの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Pudding~! ♪ Pudding~! ♪\nHmm? What's this shiny shop over here?",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "プリン～♪\n　\nん？\n　なんかピカピカしたお店があるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "A \\\"gaming arcade\\\"? Miyako never saw one before!\nLooks like fun! Let's go inside!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "ゲームセンター？　\nはじめて見たの！\n面白そうだから入ってみるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Ooh, wow! Big, cuddly animals... and anime figures!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "すごいの～！　\nおっきなぬいぐるみとか、\nフィギュアがあるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Ohhh! That machine has sweet things in it!\n\\\"Get all your Halloween candy here,\\\" it says!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "あぁっ！　\nあっちの景品はお菓子なの！\nハロウィンお菓子大量ゲットって書いてあるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "{0}! Look at this!\nThere's ice cream, jellies... even puddings inside the game machine!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "{0}！　これ見るの！\nアイスにゼリー、\nそれにプリンまで入ってるゲームがあるの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "This is a trove of treasures!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "ここは宝の山なの～♪"
+    },
+    {
+      "name": "Miyako",
+      "text": "Miyako's gonna slip inside and grab the puddings!\nThen eat them with the pumpkin pudding we got!",
+      "choice_data_list": [
+        "Stealing is wrong.",
+        "Isn't the pumpkin pudding enough?"
+      ],
+      "orig_name": "宮子",
+      "orig_text": "すり抜けて中のプリンを貰うの！\nカボチャプリンと一緒に食べるの～"
+    },
+    {
+      "name": "Miyako",
+      "text": "Miyako is no dirty thief!\nAll puddings in the world belong to Miyako!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "人聞きの悪いこと言うななの！\nこの世のプリンは全部宮子のものなの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "You're talking crazy nonsense!\nMore puddings is always better than less puddings!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "オマエはなにもわかってないの！\nプリンはあればあるだけ幸せなの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hmmm... The game looks fun too though...\nHow do you play this machine?",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "んー、\nでもゲームも気になるの……\nこれはどうやってやるの？"
+    },
+    {
+      "name": "Miyako",
+      "text": "Press buttons to move the crane... and grab prizes?\nYour explanations are confusing!\nShow Miyako how it works!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "ボタンでクレーンを操作して、\n景品を取る……\nそう言われてもわからないの！\n宮子にやって見せるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "*staaaare*... Ooh! The crane grabbed the pudding!\nAmazing! Insta-win!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "じー……\nお～！　\nクレーンがプリンを掴んだの！\nすごいの！\n　一発なの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Now it's Miyako's turn!\n{0}, put 100 yen in the slot!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "宮子もやるの～♪　\n{0}、百円を入れろなの～"
+    },
+    {
+      "name": "Miyako",
+      "text": "...Stop there! Now to grab!\nHere it comes... Here it comes...!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "……ストップなの！　\n……ここなの！\nドキドキ、\nドキドキ……"
+    },
+    {
+      "name": "Miyako",
+      "text": "Ah... Aaaahhh! So close!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "あっ、\nあ～……\n惜しいの～"
+    },
+    {
+      "name": "Miyako",
+      "text": "Time for a second try!\n{0}, 100 more yens!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "もう一回チャレンジするの！\n{0}、百円なの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "First line up the crane in front of the pudding...\nNow look from the side... Right there!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "まずはプリンの正面にクレーンを持っていくの……\n次は横から見るの……\nここなのー！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Aaaahhhhh! The crane hit a stupid jelly and stopped going down!\n{0}, next 100 yen, quick!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "あああああ！　\nゼリーに当たってクレーンが途中で止まったの～！\n{0}、次の百円をよこすの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Not another fail!\n100 yen coin, quick quick!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "またダメなの！　\nはやく百円入れるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Why does it hate Miyako?!\nUrghhh... Hurry and come out already! Next 100 yen!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "どーして取れないの～！？\nう～、もたもたするななの！\n　百円なの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "This time, no failing... Next time...!\n{0}, put 500 yen in this time!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "次こそは取るの……\n次こそは……\n{0}、五百円入れろなの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Why why why?! It never works! This is too annoying!\nHey, why are you trying to press buttons now?!\nThis is Miyako's challenge! Miyako will get it!",
+      "choice_data_list": [
+        "P... Please let me help..."
+      ],
+      "orig_name": "宮子",
+      "orig_text": "なんなの！　\n全然ダメなの！　\nイライラしてきたの！\nって、なんで{0}がやろうとするの！？\nこれは宮子の勝負なの！　\n宮子が取るの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hrmph... All right then... We can play together!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "む～、\nしょうがないの……\n一緒にやってやるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Urk... Your hand goes on top of Miyako's?\nThis feels pretty funny...",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "うっ……\n宮子の手の上に手を乗せるの？　\nちょっと緊張するの。"
+    },
+    {
+      "name": "Miyako",
+      "text": "But this way you can do the timing part!\nPudding crane, go!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "でも、\nこれならタイミングを{0}に任せられるの！\nクレーン発進なの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Aaahhh... This position isn't really over the pudding.\nYou think it's good? Oh! The arm hooked onto it at a funny angle!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "あわわ、\nちょっと景品の場所より離れてる気がするの。\nこれでいいの？　\nあっ、アームが上手い具合に引っかかったの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Whoaaaa! Amazing! Pudding is Miyako's!\nYou must be a game genius!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "おおおおおっ！　\nすごいの～！　\nプリンゲットなの～！\nオマエはゲームの天才なの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "But in the end, we spent about 3,000 yens...\nMore moneys than the pumpkin pudding cost.",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "でも結局、\n三千円くらい使ったの……\n限定カボチャプリンよりも高かったの。"
+    },
+    {
+      "name": "Miyako",
+      "text": "There's lots of other games in here that look fun!\nLet's play something else now!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "他にもおもしろそうなゲームがいっぱいありそうなの！\nもっと遊びたいの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Oh!\nLet's try that... \\\"pudding club\\\" machine!\nIt must have lots of puddings inside! ♪",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "あ！\nあのプリン……\nなんとかってやつに行くの！\nきっとプリンをたくさん食べられるの～♪"
+    },
+    {
+      "name": "Miyako",
+      "text": "Hmm? That says \\\"print club,\\\" not \\\"pudding club\\\"?\nT-too shocking...\nBut come in anyway! Take a snapshot with Miyako!",
+      "choice_data_list": [
+        "Are you even visible in photos?"
+      ],
+      "orig_name": "宮子",
+      "orig_text": "んん？\n　これ、\nプリンじゃなくて、写真を撮る機械なの？\nしょ、\nショックなの……\nでもせっかくだし、\nオマエと写真を撮るの。"
+    },
+    {
+      "name": "Miyako",
+      "text": "No problems at all! I can show up if I want to!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "大丈夫なの！　\n自分から写ろうとすれば写れるの～"
+    },
+    {
+      "name": "Miyako",
+      "text": "Now get in here and take the picture!\n\\\"Halloween Frame\\\"...? Let's use this one!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "それじゃあさっそく撮ってみるの！\nハロウィンフレーム……\nこれにするの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Pose settings can be whatever...\nWahhh! The machine says to squeeze together!\nYou, come over here!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "ポーズは適当に選ぶの……\nわわっ！\n機械がくっつけって命令してきたの！　\nお前もこっちにくるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Now make a happy face! ♪",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "楽しそうな顔しろなの～♪"
+    },
+    {
+      "name": "Miyako",
+      "text": "Picture snapped! Ummm...\nNext we do drawings and writings on top!\nA bit here, a bit there...",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "撮れたの！　\nえっと……\nここで落書きとかできるみたいなの！\nこれをこうして、\nこうして……"
+    },
+    {
+      "name": "Miyako",
+      "text": "Pffft! The \\\"long leg\\\" option makes you look too funny!\nYou're like a space alien!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "ぷふっ！　\n足長にしたらとんでもないことになったの～！\n{0}、エイリアンみたいなの～！"
+    },
+    {
+      "name": "Miyako",
+      "text": "This is gonna be a masterpiece!\nLet me try to make you look super hot!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "これは傑作の予感なの～！\nせっかくだから、\nオマエをイケメンにしてやるの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Eye size at biggestest... Stretch out the chin... There! All done!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "目を最大サイズにして、\n顎を伸ばして……\n完成なの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Oh, the photos popped out!\nW-wow... You look like a different person!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "あ、\n写真が出てきたの～！\nすごいの、\nオマエが完全に別人なの！"
+    },
+    {
+      "name": "Miyako",
+      "text": "Eheheh. Miyako never took photos with people before.\nThis will be Miyako's treasure! ♪",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "えへへ、\n誰かと写真を撮るなんて初めてなの。\nこれは宝物にするの～♪"
+    },
+    {
+      "name": "Miyako",
+      "text": "Even ghosts can have precious memories~!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "幽霊でも、\n思い出が残せるの～"
+    },
+    {
+      "name": "Woman 1",
+      "text": "Eww... That guy's using the machine on his own...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "うわ、\nあの人一人で撮ってる……"
+    },
+    {
+      "name": "Woman 2",
+      "text": "What a loser... Doesn't he have any friends?",
+      "choice_data_list": [],
+      "orig_name": "女性２",
+      "orig_text": "かわいそ～。\n友達いないのかな？"
+    },
+    {
+      "name": "Miyako",
+      "text": "This was so many funs!\nNow to go home and eat pudding!",
+      "choice_data_list": [],
+      "orig_name": "宮子",
+      "orig_text": "とっても楽しかったの！\n帰ってプリンを食べるの～"
+    },
+    {
+      "name": "Ameth",
+      "text": "And... welcome back.\nI whipped up that little dream based on your old memories.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "はい、お疲れ様。\nいまのはあんたの記憶をもとに作った夢みたいなものよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Photos are a fine thing, aren't they?\nThey can bring even the haziest of memories back into focus.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それにしても、写真っていいわよね。\n色褪せた記憶も、写真一枚あれば思い出せるでしょ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Since she became a wandering spirit,\nMiyako can't have had much opportunity to leave her mark.\nThis might be the greatest treasure she could ask for.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "幽霊になってからの宮子ちゃんには、\nそういう思い出を振り返ることのできるものってなかったのよね。\nきっと最高の宝物になったと思うわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Unlike pudding, it won't be gone before she knows it.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "プリンと違って、なくなったりもしないんだから。"
+    },
+    {
+      "name": "Miyako",
+      "text": "Mmnhh... Did we both fall a-sleepy...?\nMiyako thinks... there was special Halloween pudding in the dream too!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "うーん、\nミヤコたち寝ちゃってたの～？\nなんだか、\n夢の中でもハロウィン限定プリンを食べてたの……"
+    },
+    {
+      "name": "Miyako",
+      "text": "But Halloween is over now...\nSo there will be no more Halloween pudding for eating...",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ハロウィンが終わっちゃったってことは、\nもうハロウィン限定プリンは食べられないってことなの……"
+    },
+    {
+      "name": "Miyako",
+      "text": "No pudding is sad... But next year Miyako will eat twice as much!\nNext year Halloween will be even more funner than this year!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "やっぱり残念だけど、\n来年は今年の倍食べてやるの！\nもっともっと、\n楽しいハロウィンにしてやるのー！"
+    },
+    {
+      "name": "Miyako",
+      "text": "You better be there too!\nAll Miyako's fun this year was because you were there!\nSo you gotta give Miyako lots and lots of pudding next year too! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "もちろん、オマエも一緒なの！\n　\nこんなに楽しかったのは、\nオマエがいたおかげなの！\n来年も、\nミヤコにたーくさんプリンをよこすの～♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Smiling happily at the memory of this year's fun times,\nand in anticipation of those to come,\nMiyako bid farewell to the Halloween season.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミヤコは今年の思い出と来年への期待でニコニコとしながら、\nいつもの日常へと戻っていくのだった。"
+    }
+  ]
+}

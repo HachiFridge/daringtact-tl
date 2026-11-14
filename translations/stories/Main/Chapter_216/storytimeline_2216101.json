@@ -1,0 +1,628 @@
+{
+  "title": "New Idol, Shinacchi-tan",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} was showing Shinatsu around, after she expressed interest in sightseeing through the \"Base World's\" Landosol. As they wandered past the street stalls, the two took in the city's lively atmosphere firsthand.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『こちら』のランドソルを観光したいというシナツのため、\n案内役を務める{0}。\n露店を見て歩きながら、\n二人は街の活気を肌で感じていた。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Sorry for taking up your time today. And for making you guide me around on top of that...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "今日は時間を取らせてすまないな。\n案内まで任せてしまって。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Still, Landosol is thriving. The people all look cheerful. ...A good sign. The city is functioning as it should.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "しかし、\nランドソルは盛んだな。\n人々の表情も明るい。\n……\n良い兆候だ。\n街は健全に動いている。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "That sound just now... swords clashing. The strikes are relentless, and the ring of steel is sharp. It's a one-on-one duel, but neither fighter is ordinary.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "今の音……\n剣戟だ。\n打ち合いが途切れない、\n刃音も鋭い。\n一対一だが、\nどちらも只者ではないな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "This is a place for people to relax. We need to stop them before someone gets hurt... Come, {0}.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ここは人々の憩いの場だ。\n事故が起きる前に止めねば……\n行こう、{0}。"
+    },
+    {
+      "name": "Christina",
+      "text": "There, there! Hahahaha! Nothing beats this for blowing boredom away☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そらそらッ！　\nハーッハッハッ！\n退屈を吹き飛ばすにはこれが一番だ☆"
+    },
+    {
+      "name": "Iroha",
+      "text": "Eigh! Toryaaa! Ahaha♪ This is fun~! Now it's Iroha's turn~!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "えいっ！　\nとりゃーっ！\nあっははっ♪　\nたのし～っ！\n次はイロハの番だよ～っ！"
+    },
+    {
+      "name": "二人",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Apologies, that may have been presumptuous of me. But clashing swords in a crowd like this is dangerous!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nすまない、\n差し出がましい真似をした。\nだが、\nこの人混みで剣を振るのは危ない。"
+    },
+    {
+      "name": "Christina",
+      "text": "Ohhh... You controlled the distance in an instant. And not through brute force either, you redirected it with pure technique... Interesting. Now I'm fully awake☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほう……\n一瞬で間合いを制したな。\nしかも力任せではない、\n技術で弾くとは……\n面白い、\n目が冴えてきたぞ☆"
+    },
+    {
+      "name": "Iroha",
+      "text": "Wow! Onee-chan, you're strong! Hey, hey! Are you a swordsman?! Let's play together!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "わーっ！　\nおねーちゃん強い！\nねえねえ、\n剣士さん！？　\nいっしょに遊ぼっ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Play...? Wait, let me sort this out. Are you not fighting?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "遊び……？　\n待て、\n状況を整理させてくれ。\nこれは喧嘩ではないのか？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Either way, swinging swords around in a crowded place like this is dangerous. Could you at least put them away first?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "いずれにせよ、\nこの人混みで剣を振るのは危険だ。\nまず剣を収めてもらえないか。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "If you have your reasons, I will listen. We can change locations, mediate or... if there is anything I can do to help, I shall assist.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "事情があるなら聞こう。\n場所を変えるなり、\n仲裁するなり……\n……私にできることがあれば、\n手伝う。"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh? Help, you say? Well then... I'll gladly accept your help without restraint☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほう？　\n手伝うと言ったな？\nならば……\n遠慮なく手伝ってもらおうか☆"
+    },
+    {
+      "name": "Christina",
+      "text": "This was no fight, it's a lesson☆ We're bringing swordsmanship to the stage. \"A brand-new kind of idol who sings, dances, and dazzles with the blade♪\"",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "これは喧嘩ではない、\nレッスンだ☆\n剣技をステージに持ち込む。\n『歌って踊って斬って魅せる、\n新感覚アイドル』のな♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "An idol... you say?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "アイドル………………\nだと？"
+    },
+    {
+      "name": "Christina",
+      "text": "That's right, nameless woman... Hmm? Do we really not know each other? ...It seems you have a very unusual background. Yet that presence, that face... Could it be...?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そうだ、\n名も知らぬ女……\nん？　\n本当にワタシはオマエを知らないのか？\n……\nどうやら余程特殊な出自のようだが。\nその気配、\nその面立ち……\nまさかな──"
+    },
+    {
+      "name": "Christina",
+      "text": "But! Such things do not matter! What matters most is swordsmanship so dazzling it leaves people spellbound! And on top of that, you've got top-tier looks☆ Polish yourself up and you'll shine brilliantly, I guarantee it!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "だが、\nそんなことはどうでもいい！\n何より大事なのは、\n誰もが見惚れるほどの剣の腕！\nその上、\n顔も一級品だ☆　\n磨けば眩しく光るぞ？　\nワタシが保証する！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Me... an idol?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "私が…………\nアイドル？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Outrageous. Absolutely not. I have never even considered dancing in front of people. And beyond being embarrassing, I am simply not suited for it.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nとんでもない。\n絶対に無理だ。\n人前で踊るなど、\n考えたこともない。\n恥ずかしい以前に、\n向いていない。"
+    },
+    {
+      "name": "Iroha",
+      "text": "It's okay! Iroha is right next to you! If we do it together, we can share the embarrassment!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "大丈夫！　\nイロハが隣にいるよ！\n一緒にやれば、\n恥ずかしいのも半分こ！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Big sister Chris plays with me so much! She says this is a game that will make me stronger! In other words... training! Idol training!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "クリスおねーちゃんね、\nすっごく遊んでくれるの！\n強くなれる遊びなんだって！\nつまり──\n修行！　\nアイドル修行～っ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "No, are you not simply being tricked here...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "いや、\n騙されてないか……？"
+    },
+    {
+      "name": "Christina",
+      "text": "Don't say such awful things. You said it yourself just now, didn't you? That it was \"embarrassing.\"",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "人聞きの悪い事を言ってくれるな。\nキサマも先ほど言っただろう？　\n「恥ずかしい」と。"
+    },
+    {
+      "name": "Christina",
+      "text": "Conversely, overcoming those feelings can be a form of mental training. If you want to become stronger, start by becoming an idol☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "裏を返せば、\nその気持ちを克服することは──\n精神の鍛錬にもなるということ。\n強くなるなら、\nまずアイドルだ☆"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Kh... Somehow, it makes sense...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "くっ……\n筋は、\n通っているか……"
+    },
+    {
+      "name": "Christina",
+      "text": "BOY! If you're an outfielder here, can't you quiet down for a second?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "坊や！　\n外野なら少し黙っていてくれないか？"
+    },
+    {
+      "name": "Christina",
+      "text": "Witness this! A producer is engaged in serious one-on-one negotiations with a future idol superstar!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "これは！　\nプロデューサーが！　\nアイドルの原石と！\n一対一で、\n真剣に交渉しているんだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "And besides... you said it earlier, didn't you? \"If there is anything I can do to help, I shall assist\". Surely you're not going to go back on your word, are you?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それに……\nキサマ、\n先ほど言ったな。\n「できることがあれば手伝う」と。\nその言葉、\n反故にしてくれるわけではあるまいな？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Mm...! No, I will uphold it. I did say I would help, after all.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nいや、\n引き受けよう。\n確かに手伝うと言ったからな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Promises... must be kept. I will try to do what I can.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\n約束は、\n守らなければならない。\nできる範囲で、\nやってみよう。"
+    },
+    {
+      "name": "Christina",
+      "text": "First comes the smile. A smile is what fires up the audience☆ Train your expressions before your swordsmanship.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "まずは笑顔だ。\n観客は笑顔で熱くなる☆\n剣より先に表情を鍛えろ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "A smile, huh... Understood. ...L-Like this...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "笑顔か……\n了解した。\n……\nこう、\nか……？"
+    },
+    {
+      "name": "Christina",
+      "text": "Are your facial muscles made of steel?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "オマエの表情筋は\n鋼でできているのか？"
+    },
+    {
+      "name": "Iroha",
+      "text": "Big Sis Shinatsu, your face is scary! You look like you're getting into a sword stance! No, no, smile more~!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "シナツおねーちゃん、\n顔こわい～っ！\n剣の構えみたい！\nちがうちがう、\nもっとにこーって！"
+    },
+    {
+      "name": "Iroha",
+      "text": "See, like this! Like Iroha~♪",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ほら、\nこうっ！\nイロハみたいに～♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...This is my limit. A sword obeys me easily enough... but the muscles in my cheeks are another matter entirely.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nこれが\n限界だ。\n剣なら自在だが……\n頬の筋肉は、\n勝手が違う。"
+    },
+    {
+      "name": "Christina",
+      "text": "Can't be helped, I'll set an example for you. A smile should shine brighter☆ Like it's piercing straight through the audience.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "仕方ない、\n手本を見せてやろう。\n笑顔はもっと眩しく☆　\n客席を射抜くように、\nだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "Watch closely. This is what a true smile looks like... HYAH!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "見ておけ。\n本当の笑顔とは──\nこうやるッ！"
+    },
+    {
+      "name": "Iroha",
+      "text": "WHOAAAAAA! AMAZING! Big Sis Chris's face went all SHIIIINE~! Was that her true power!?",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "うわぁぁ！　\nすっご～い！\nクリスおねーちゃんの顔、\nピカーーッてした！\nほんりょーはっき！？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Her smile... glowed? Is such a thing even possible...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "笑顔が、\n光るだと……？\nあり得るのか、\nそんなことが……"
+    },
+    {
+      "name": "Christina",
+      "text": "Heh... they do call it a \"radiant smile\", don't they? Once you draw out your potential as an idol, this much is effortless☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "フッ……\n輝く笑顔、\nというだろう？\nアイドルとしてのポテンシャルを引き出せば、\n造作もない☆"
+    },
+    {
+      "name": "Christina",
+      "text": "Whoops☆ Did I dazzle you, Boy? Seems my smile was simply too brilliant. Forgive me♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "おっと☆　\n坊やの目を眩ませてしまったか。\nワタシの笑顔がまぶしすぎたようだな。\n許せよ♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...So this is... an idol.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nこれが、\nアイドル……\nなのか。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Iroha can do it too! Watch me! Here goes! ...Huh? I'm not shining... WHY?!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "イロハもできるよ！　\n見ててねっ！　\nえいっ！\n……\nあれ？　\nピカってしない……\nなんで～！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmph, I'm not expecting you two to reach this level just yet. For now, being able to introduce yourselves on stage is more than enough.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "フッ、\nオマエたちにここまでは要求はしない。\nまずは\nMCとしての自己紹介ができる程度になれば十分だろう。"
+    },
+    {
+      "name": "Christina",
+      "text": "Now! Let the smiling lesson begin♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さあ──\n笑顔のレッスンを始めるぞ♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I am Shinatsu... Nice to meet you. ...No, I need to be a little more cheerful... Shinatsu here! Ah... how difficult.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "シナツだ……\nよろしく。\n……\n違う、\nもう少し\n明るく……\nシナツ、\nだよ……\n……\n難しいな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I will cut and protect... your smile. Born in Togoku... a wind of hope. Everyone's idol... I am, Shinacchi!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "斬って守る……\nあなたの笑顔。\nトーゴク生まれの……\n希望の風。\n皆のアイドル……\nしなっち、\nだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "With blades that cut through the wind, I shall protect your future. ...Kyapi!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "風切る刃で、\nキミたちの未来を\n守っちゃうぞ。\n………………\nきゃぴっ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Aaah... please do not encourage me. It makes it even more embarrassing...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\n励まさないでくれ。\n余計に恥ずかしい……"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh? So you're starting to get it now, Boy☆ Exactly... stiff. Painfully stiff. But loop all the way around, and that awkwardness becomes a charm point in itself.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほう、\n坊やも分かってきたじゃあないか☆\nそうだ……\n硬い。\n最高に硬い。\nだが、\n一周回ってその不器用さは武器にもなる。"
+    },
+    {
+      "name": "Christina",
+      "text": "\"The Fresh-Faced Steel Idol\"... now there's a whole new genre♪ Gap moe is a powerful weapon. Keep charging forward like this☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "『初々しい鋼鉄系アイドル』\n……\n新ジャンルだな♪\nギャップは強力な武器だ。\nこのまま突き進め☆"
+    },
+    {
+      "name": "Christina",
+      "text": "Alright, that's enough of the smiling lesson for now. We have tons of other things to do. Let's move on.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "よし──\n笑顔のレッスンはここまでにしておく。\n他の課題も山ほどあるからな。\n次へいくぞ。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Big Sis Shinatsu, you were so cute up there! Iroha's gonna try it too! Kyapi☆ How's that? Cute? Hey, praise me! Praise me!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "シナツおねーちゃん、\nかわいかったよ！\nイロハも真似する～！　\nきゃぴっ☆\nどうどう？　\nかわいい？　\nねえ、\n褒めて褒めて～っ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Just... do as you like...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……もう、\n好きにしてくれ……"
+    },
+    {
+      "name": "Narration",
+      "text": "After that, Christina's harsh lessons continued...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それからも、\nクリスティーナによる厳しいレッスンは続いた──"
+    },
+    {
+      "name": "Christina",
+      "text": "Next up, move while singing. Don't just slash, captivate☆ That's the idol image we're aiming for!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "次は歌いながら動け。\n斬るな、\n魅せろ☆　\nそれが\n今回求めるアイドル像だ！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Understood! Here I gooooo! Sing! Dance! Swords gleam! Everything's on full display! This is the Isurugi style secret technique!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "りょーかいっ！　\nいっくよ～っ！\n歌って！　\n踊って！　\n剣もキラッ！　\nぜーんぶ盛り！\nイスルギ流奥義だ～っ！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Like this? Hey, hey! Did you see that just now?! Was Iroha able to do it right?!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "こんな感じ？　\nねえねえ、\n今の見てた！？\nイロハ、\nちゃんとできてた！？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Spinning her body like a top to sharpen the slash even further... Natural talent...? What a terrifying girl.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "身体を独楽のように回して、\nより鋭い斬撃を……\n天性の素質か……\n末恐ろしいな。"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahh, that relentless drive to aim higher... I'll praise you for that☆ But choreography has intent behind it as well. Try toning the movement down a little mo--...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ああ、\n絶え間なく上を目指す姿勢……\nそこは褒めてやろう☆\nだが\n演出の意図もある。\nもう少し動きを抑え──"
+    },
+    {
+      "name": "Iroha",
+      "text": "Oh, it's break time!? THEN! I'll go check out my insect traps! There might be some stag beetles in there! Be right baaaaaack!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "あっ、\n休憩の時間！？\nじゃあ\n虫の罠、\n見に行ってくる！　\nクワガタいるかも！\nすぐ戻るからね～っ！"
+    },
+    {
+      "name": "Christina",
+      "text": "So free-spirited, that one... But... the wilder the horse, the greater the satisfaction when you tame it. I'm getting more and more excited☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "自由だな……\nアイツは……\nだが、\n暴れ馬ほど乗りこなした時の快感も大きい。\nますます愉しみになってきた☆"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, after days of intense training with Christina, the day of the new idols debut arrived.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてクリスティーナの特訓の日々を経て──\nデビュー当日を迎えた。"
+    },
+    {
+      "name": "Christina",
+      "text": "Look! Admire this crowd... They're all starved for stimulation. Very well, we'll show them a feast that will get their blood pumping☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "見ろ、\nこの群衆……\n皆、\n刺激に飢えている。\nいいだろう、\nワタシが血沸き肉躍る宴を見せてやる☆"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "So then... where is Iroha? It is almost time for the live to start.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "それで……\nイロハは？　\n開演までもうすぐだぞ。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Sorry for the wait! Iroha-san's here!!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "お待たせっ、\nイロハさんじょーう！！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "So you have arrived. Let us get ready...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "来たか。\nでは準備を──"
+    },
+    {
+      "name": "Iroha",
+      "text": "Huge stag beetle haul~♪ Ehehe, I totally lost track of time! I even found Miyamas and Hiratas!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "クワガタ大漁～っ♪\nえへへ、\n夢中になっちゃった！\nミヤマも\nヒラタもいるよっ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Iroha... That appearance, what in the world... Why are you covered in mud?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "イロハ……\nその姿は一体……\n……なぜ泥だらけなんだ。"
+    },
+    {
+      "name": "Iroha",
+      "text": "This? There was this swamp deep in the forest! I found the ultimate stag beetle spot! I sank right into the mud up to my whole body! But look at this haul~♪",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "これ？　\n森の奥の沼地でね！\n最高のクワガタスポットを見つけたの！\nズボって全身はまっちゃった！　\nでも大収穫～っ♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...On the battlefield, mud serves as camouflage. On a stage, however, it is a different story. This is... catastrophic.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\n戦場なら泥は迷彩になるが、\n舞台では違う。\nこれは……\n致命的だな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "We need to wash the mud off, dry your hair, and change your costume. ...Wait. Do we even have a spare outfit? If not, we may have no choice but to cancel...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "泥の洗浄、\n髪の乾燥、\n衣装の替えも必要だ。\n……待て、\n予備衣装はあるのか？\nなければ、\nもう中止にするしか……"
+    },
+    {
+      "name": "Christina",
+      "text": "Cancel? Ha, what a boring choice. Covered in mud? No costumes? So what? In fact, it's convenient~ Let's change our plans!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "中止？　\nハッ、\nつまらん選択だな。\n泥まみれ？　\n衣装がない？　\nそれがどうした。\nむしろ好都合だ──\n予定変更でゆく！"
+    },
+    {
+      "name": "Christina",
+      "text": "If the idol act won't work, then we'll give them a different performance. Audiences hate boredom. All we need to do is show them something exhilarating☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "アイドルがダメなら、\n別の演目にすればいい。\n観客は退屈を嫌う。\n心躍るものを見せるだけだ☆"
+    },
+    {
+      "name": "Christina",
+      "text": "How sharp of you, Boy☆ Indeed! From now on, Shinatsu and I are going to have a swordfight show. Follow me! Shinatsu!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "流石、\n坊や。\nそのまさかだ☆\n今からワタシとシナツで、\n剣戟ショーをやる。\nついてこい、\nシナツ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "How did things turn out this way?! ...No, I am more used to swordfighting, but this is wrong!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "なぜそうなる！？\n……いや、\n剣なら慣れているが、\nそれは違うだろう！"
+    },
+    {
+      "name": "Christina",
+      "text": "This meeting is over! I can't wait any longer! It's time for a dance on the brink of death☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "打ち合わせは終了だ！\nもう我慢できん！　\n死線で踊る舞台の時間だ☆"
+    },
+    {
+      "name": "Spectators",
+      "text": "What's this?! A fighting performance?! Wow! It looks like the real thing!",
+      "choice_data_list": [],
+      "orig_name": "観客",
+      "orig_text": "なに！？　\n演出！？\nすごい！　\n本物っぽい！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Ahaha, AMAZING! BIG SIS SHINATSU, GOOD LUCK! GET ONE OVER BIG SIS CHRIS!!!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "あははっ、\nすっごーい！\nシナツおねーちゃん、\nがんばれ～っ！\nクリスおねーちゃんをやっつけちゃえ～っ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Why is this happening on an idol stage? Iroha, you should not sit there covered in mud--...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nアイドルの舞台が、\nなぜこうなる。\nイロハ、\n泥まみれで座ってはいけない──"
+    },
+    {
+      "name": "Christina",
+      "text": "Oi there♪ If you look away, your head will be chopped off! Come on, let's settle this with swords!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そぉら♪　\nよそ見してると首が刎ね飛ぶぞ？\nさあ、\n剣で語り合おうじゃないか！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...For now, I have no choice but to respond with my sword. It cannot be helped... I suppose this will be an opportunity to hone my skills against one of the Seven Crowns...!!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\n今は、\n剣で応じるしかないか。\n仕方ない──\n七冠相手に\n修練を積める機会と、\nそう思うことにしよう……！"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahaha☆ The party has just begun! That's great, Shinatsu... ENTERTAIN ME MORE!!!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あははは☆　\n宴は始まったばかりだ！\nいいぞシナツ、\nもっとワタシを愉しませてくれ！"
+    },
+    {
+      "name": "Iroha",
+      "text": "Wow, they're both in serious mode! Iroha wants to join in too! A three-way battle! Maybe a new secret technique will be born from muddy swordsmanship? Toryaaaaah!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "うわぁ～っ、\n二人とも本気モードだ～！\nイロハも混ざりたい！　\n三つ巴の勝負っ！\n泥んこ剣術で\n新しい奥義が生まれちゃうかも？　\nとりゃーっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, Shinatsu's idol debut was completely derailed. However, the intensely realistic sword-fighting show became a massive hit as a \"next-generation stage performance\". In the end, the event turned out to be an overwhelming success.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてアイドルとしてのデビューは台無しになったシナツ。\nだが、\n迫真の剣戟ショーは『新感覚ステージ』として大ウケ。\n結果的には、\n大成功となってしまったのだった。"
+    },
+    {
+      "name": "Narration",
+      "text": "As a side effect of all this, Shinatsu ended up catching the entertainment industry's attention as a \"serious acting talent\", leading to her being relentlessly pursued afterward... But that is a story for another day.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "なお、\nこれをきっかけに、\nシナツが『実力派女優』として\n業界から目をつけられ、\n追いかけ回されることになるのは……\nまた別の話である。"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "title": "Guildhouse Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A while has passed since {0} and his companions\nmoved into the guildhouse.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちがギルドハウスを利用し始めてから、\nしばらくが経過した。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It still bothers me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "やっぱり、\n気になりますね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh? What does?\nI-I'm not plotting anything!\nI'm just one of your guild pals, right, Koro?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えっ、\n何が？\nあああ、\nあたしは\n何も悪巧みとかはしてないわよっ？\nあんたたちと同じ\nギルドの仲間よ、\nそうでしょコロ助！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*sigh*\nI'm sorry, Miss Karyl. I know I've said this many times before,\nbut can you stop calling me \\\"Koro?\\\"",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はぁ……\nすみませんキャルさま、\n何度も言っておりますが\nコロ助と呼ぶのをやめていただけると。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "These days, my lord has started copying you\nand is calling me \\\"Koro\\\" as well.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "近ごろ主さままで真似して、\nわたくしをコロ助と呼ぶことがあるのですよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I want him to refer to me as \\\"Kokkoro,\\\"\nhis voice gentle and full of love. ♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "もっとちゃんと愛情をこめて、\nコッコロ\nと呼んでいただきたい……♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Aren't we getting a bit off-topic?\nWhat's bothering you, Kokkoro?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "話が逸れてません？\n何が気になるんですか～、\nコッコロちゃん？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well, we elvenfolk are gifted with exceptional hearing.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nわたくしたちエルフは、\n種族的に聴力が優れているのですけれど。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "And I seem to hear a disturbing sound coming from upstairs.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "どうも上の階から、\n不穏な物音が\n聞こえてくる気がするのですよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Like that of a growling beast...\nAm I imagining things?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "怪物の、\n唸り声のような……\nわたくしの、\n気のせいでしょうか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm...\nIf it's bothering you, wanna go check?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん～……\n気になるなら、\n見に行ってみる？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What? Karyl, you shouldn't!\nDidn't Karin from the Guild Association\nsay that the upper floors are off limits?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっ、\n駄目ですよキャルちゃん！\n上の階は使用禁止って、\n【ギルド管理協会】のカリンさんに言われてるでしょう？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm...\nThat lady also seems to be hiding something\nand I gotta say it's bothering me.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん～……\nあいつも微妙に隠し事をしてるみたいで、\nちょっと引っかかってるのよね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "She's more than happy to accommodate us with everything else,\nbut, for some reason, she's totally against us going upstairs.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "他のことだったら手厚く対応してくれるのに、\nなぜかかたくなに上の階には行かせたがらないし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Something's definitely going on.\nLet's go upstairs and investigate.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "これは何かがある気がするわ、\n上の階に。\n調べてみましょうよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "If nothing's wrong up there,\nwe could use the second floor as a hangout area too.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何も問題がなさそうだったら、\n二階も溜まり場として活用できるし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Since the first floor is starting to get crowded,\nwouldn't it be convenient to use the second floor as well?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "一階はもうだいぶ手狭になってきちゃったしさ、\n上の階が使えるようになれば便利じゃない？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Of course it would.\nBut we've got to get permission from Karin first.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それはそうですけど～、\nちゃんとカリンさんに\n許可を取らないといけませんよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If we break the rules,\nwe could get kicked out of this guildhouse.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "規則違反をしたら、\nこのギルドハウスから\n追いだされちゃうかも？"
+    },
+    {
+      "name": "Karyl",
+      "text": "We're just gonna check it out.\nI'm sure she'll forgive us if we apologize later.\nKarin seems like a nice lady, after all.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと様子を見るだけよ。\nあとで謝れば許してくれるんじゃないの、\nカリンってお人好しみたいだしさ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's why we [i]shouldn’t[/i] make trouble for her.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "良いひとだからこそ、\n迷惑をかけちゃ駄目ですよ～……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "It's fine! I'll take responsibility.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いいでしょ、\n責任はあたしがとるわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Karin just so happens to be out on a shopping run right now.\nLet's use this opportunity to clear up any suspicions.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "カリンのやつ、\nちょうど買い出しに行ってて不在だしね……\n今のうちに、\n気になる疑問点をとことん潰してやりましょ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Truth is, I can sense some disturbing magic coming from upstairs...\nIt's making me restless and uneasy.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "実際たしかに、\n上の階から不穏な魔力を感じるのよね……\n落ち着かないし、\n不安になるわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I just can't stand not knowing every nook and cranny\nof my territory.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしの縄張りに、\n自分の把握してない\n部分があるのって\n我慢できないのよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm?\nThere's a pretty powerful seal on the stairs\nleading to the second floor.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "むっ……？\n二階への階段、\nけっこう強力に封鎖されてるわね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "But, you know, breaking a seal of this level\nis just a walk in the park for me!\nHmhmhmmm... ♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "でも\nあたしの手にかかれば\nこの程度の封印、\nお茶の子さいさいで突破できるのよ！\nふんふふ～ん♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, Karyl!\nI told you, you shouldn't do that!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁ、\nキャルちゃん！\nだから駄目ですってば！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Personally, I think we should let her.\nAfter all, there seems to be\nsome terrifying conspiracy surrounding my lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "まぁ、\n宜しいのではないでしょうか。\nどうも\n主さまを中心にして、\n何か途方もなく恐ろしい陰謀が\n巡らされているようですし。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Nay.\nPerhaps I should call it\nthe fate he is destined to carry.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "否。\nどうやらそれが、\n主さまの抱えておられる\n運命でございます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "That is why we must nip any potential threat in the bud.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "だからこそ。\n不安の種は、\n早めに取り除いておくべきかと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It will be too late for regrets\nonce fate has already taken him from me.\nThat is what I believe.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "因縁に絡め取られ、\n大事なものを喪ってから\n後悔しても\n遅いのです。\nわたくしは、\nそう思います。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Karyl, I will assist you in breaking the seal.\nDespite my appearance, I am very dexterous.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\n封印の解除を手伝います。\nこれでも、\n手先は器用なのですよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, [i]you too[/i], Kokkoro?\nMmm... Would it be heartless of me\nto be the only one not getting their hands dirty?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁ、\nコッコロちゃんまで。\nう～……\nこれでわたしばっかり真面目ぶって、\n手を汚さないのは不人情でしょうか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "After all, we're all guildmates. We're in this together.\nWh-what do you think, {0}?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "同じギルドの仲間です、\n一蓮托生ですもんね。\nど、\nどうしましょう……{0}くん？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "To be honest, I [i]am[/i] curious about the upper floors.\nShould we help Karyl and— Eep!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "たしかに上の階は気になりますし、\nわたしたちもキャルちゃんたちに協力して……\nうひっ！？"
+    },
+    {
+      "name": "Karin",
+      "text": "Hello, everyone!\nAnd what might you be up to?",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "皆さん？\n何をしてらっしゃるのでしょう？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Eeek, Karin?\nYou're back!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ひぃいっ、\nカリン！？\n帰ってきたのね！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I-it's not what it looks like!\nWe just heard a strange sound coming from upstairs,\nand we got curious!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちちち、\nちがうのよ！\nちょっと上の階から変な物音がしたから、\n気になっちゃって……！？"
+    },
+    {
+      "name": "Karin",
+      "text": "Hehe.\nWell, it's natural to be curious, but try to avoid acting on your own.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ふふ。\nまぁ当然の疑問でしょうけど、\nあまり勝手な行動をされては困ります。"
+    },
+    {
+      "name": "Karin",
+      "text": "At the very least, please consult me first.\nIt's not like I'm going to be upset...\nbecause I understand how you feel.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "せめて私に相談してくださいね、\nべつに怒ったりしませんし……\n気持ちはわかりますから。"
+    },
+    {
+      "name": "Karin",
+      "text": "I was under pressure from my boss,\nso I couldn't give you a detailed explanation...\nbut the upper floors are a little dangerous.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "私も上司に厳しく念押しされていて、\n詳しく説明できなかったんですけど……\n上の階は、\nちょっと危険なんです。"
+    },
+    {
+      "name": "Karin",
+      "text": "For starters, this building didn’t even have an owner\nand it was an abandoned property.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "そもそも。\nこの建物はもともと、\n誰のものでもない空き家だったんですけど。"
+    },
+    {
+      "name": "Karin",
+      "text": "That's why, fortunately, the government requisitioned it\nand gifted it to the Guild Association.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "だからこそ、\nこれ幸いにと国が接収して……\n私たち【ギルド管理協会】に、\n下賜されたんですよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "By the way, the seal on the stairs leading to the upper floors\nwas already there when we took over as management.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ちなみに。\n上の階へ繋がる階段に施された封印は、\n私たちが\nこの建物を管理し始めたころから存在しました。"
+    },
+    {
+      "name": "Karin",
+      "text": "To be honest, we're not even sure what the seal is for,\nor what's hidden on the upper floors.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "何のための封印なのか、\n上の階に何が隠されているのかは……\n正直、\n私たちにもわからないんです。"
+    },
+    {
+      "name": "Karin",
+      "text": "As long as you don't touch the seal, though,\nthere shouldn't be any problem.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "封印にさえ触らなければ、\nとくに不都合はないんですけどね。"
+    },
+    {
+      "name": "Karin",
+      "text": "Hehe.\nAnd actually, since it was a somewhat suspicious property,\nwe decided to lend it to a dubious guild like your own.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ふふ。\nそういうちょっと怪しげな物件でしたので、\n皆さんのような\n素性の知れないギルドに\n貸し与えられたわけです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Right, I thought the place seemed a little too grand...\nSo it [i]was[/i] one of those houses with a shady history.\nIf it sounds too good to be true, it probably is, right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あぁ、\nやけに豪華な建物だと思ったら……\nやっぱり、\n曰くつきの物件だったんですね。\nおいしい話には裏がありますよね～、\nわかります。"
+    },
+    {
+      "name": "Karin",
+      "text": "Hehe.\nI'm sorry I kept quiet about this.\nI should've explained properly from the start.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ふふ。\n黙っていて申し訳ありません、\n最初からちゃんと説明しておけば\n良かったですね。"
+    },
+    {
+      "name": "Karin",
+      "text": "It's just that I wasn't sure if you could be trusted.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ただ\n皆さんが、\n信用できる相手かどうか\nわかりませんでしたので。"
+    },
+    {
+      "name": "Karin",
+      "text": "I was planning to tell you when the timing was right.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "折を見て、\nそのうち話すつもりではいたんですけど。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's not your fault! You're a civil servant, after all.\nYou can't go against your boss and the government.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "仕方ないですよ～、\nカリンさんは公務員ですもん。\n上司の、\nお国の意向には逆らえないでしょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm more than grateful that you gave us\na proper explanation just now.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "今ちゃんと説明してくれただけで、\n有り難い話ですよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "Thank you for your understanding!\nSo, umm... Sorry, but I'm going to have to ask you\nnot to touch the seal.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ご理解いただけて幸いです～\nだからそのう……\nたいへん恐縮ですが、\nほんとに\n封印には手を触れないでくださいね。"
+    },
+    {
+      "name": "Karin",
+      "text": "After all, there's a chance that a vicious monster\nis sealed within.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "凶悪な魔物とかが、\n封じられてる可能性がありますし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, sorry. Too late.\nI already popped off the seal a while ago.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっごめん、\nもう遅いわ。\n封印、\nとっくにサクッと解除しちゃったから。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wha—? That was fast!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ええっ、\n無駄に手際が良い……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Be careful, Karyl!\nA dangerous monster might jump out at you!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "気をつけてくださいねキャルちゃんっ、\n危険な魔物が飛びだしてくるかも！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm?\nNo monster from the looks of it.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん～？\nいや見た感じ、\n魔物なんかいないわよ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "In fact, there's nothing of note here on the second floor.\nIt's totally empty.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ていうか。\n二階、\nめぼしいものが何もないわ。\nがらんどう、\nって感じ。"
+    },
+    {
+      "name": "Karin",
+      "text": "What? That can't be...\nPlease, let me take a look!",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "えっ、\nそんなはずは……？\nすみません、\n私にも拝見させてください！"
+    },
+    {
+      "name": "Karin",
+      "text": "You're right...\nIt's dirty and worn with age,\nbut otherwise it's just a vacant room.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "本当ですね……\n経年劣化して汚れてはいますけど、\n単なる空き部屋に見えます。"
+    },
+    {
+      "name": "Karin",
+      "text": "Of course, there's no vicious monster\nsealed up here either.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "もちろん\n封じられていた凶悪な魔物、\nみたいなのもいませんね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh?\nThen why was it sealed off?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふむ？\nじゃあ何で、\n封印されていたんでしょう？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hm...\nLook at this.\nThere's a magic circle drawn on this wall.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あっ……\nご覧ください、\n壁に魔法陣が描かれておりますよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm?\nThis is a teleportation circle.\nIt instantly transports you somewhere far away.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "んん。\nこれは、\n空間転移の魔法陣ね。\n遠くへ、\n一瞬で移動するための……"
+    },
+    {
+      "name": "Karyl",
+      "text": "It was banned by international treaty\nafter it was deemed too dangerous if militarized.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "軍事利用でもされたら危険すぎるからって、\n国際条約で使用を禁止されてるはずの魔法よ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm...\nIt's not working. Looks like it was meant for a single use.\nIt's been used already, so the circuit's fried.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん～……\n駄目ね、\n一回こっきりの使い切りの魔法陣みたい。\nいちど発動して、\n回路が融解してる。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It won't activate, even if I pour magic into it.\nAnd who knows where it connects to...\nIt's basically graffiti now.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔力を注いでも起動しないわ、\nどこに繋がってるかもわかんない……\nもはやこれ、\n単なる壁の落書きね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I see.\nThe monster, or whatever was sealed here,\nused this teleportation magic to escape... or so I can deduce.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ。\nここに封じられていた魔物か何かが、\nその空間転移の魔法とやらを用いて脱出した……\nと推測できます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This place shows signs of being lived in.\nWe can be certain \\\"something\\\" was here,\nbut it probably left long ago.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "生活の痕跡などは、\nありますし。\nここに「何か」がいたのは確実ですが、\nもう\n遠い昔に立ち去ってしまったのでしょう。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm. Well, that was disappointing.\nPoor ol' Guild Association.\nAll this time, they were trembling in fear over an empty box.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふぅん、\n拍子抜けね。\n【ギルド管理協会】も良い面の皮じゃないの、\nずっと空っぽの箱を\nびくびくしながら過剰に警戒してたのね。"
+    },
+    {
+      "name": "Karin",
+      "text": "Hehe.\nWell, as long as there's no dangerous monster,\nthen that's fine by me.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "ふふ。\nまぁ危険な魔物がいなかったなら、\nそれはそれで結構なことですよ。"
+    },
+    {
+      "name": "Karin",
+      "text": "From the looks of it, if we do some repairs here and there,\nwe'll be able to use it as a regular room.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "見た感じあちこち補修すれば、\n普通に部屋として使えそうですし……"
+    },
+    {
+      "name": "Karin",
+      "text": "I'll have a contractor come by and work on it.\nWe'll make this floor just as usable as downstairs.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "業者を呼んで工事してもらって、\n一階と同様に\n便利に活用できるように取りはからいますね。"
+    },
+    {
+      "name": "Karin",
+      "text": "As an apology for the worry we caused you,\nthe Guild Association will cover all construction costs.",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "皆さんを不安にさせてしまったお詫びに、\n工事の費用などは\n【ギルド管理協会】が負担しますので。"
+    },
+    {
+      "name": "Karyl",
+      "text": "My, how generous!\nYup, bye-bye worries, and hello second floor!\nAll's well that ends well, as they say. Happily ever after! ♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あら、\n気前が良いじゃない。\nうんうん、\n不安もなくなったし\n二階も開放されて……\n結果オーライってやつよね、\nめでたしめでたし～♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You know, I've been wondering...\nIf the second floor was empty,\nthen why did we hear strange sounds coming from upstairs?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あのう、\nふと疑問に思ったんですけど……\n二階が何もない空き部屋だったなら、\nどうして上の階から不穏な物音がしたんでしょう？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...The third floor, huh.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……三階ですね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Look, there's a seal on the stairs to the third floor as well.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あっ……\n三階に繋がる階段にも、\n封印が施されておりますよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This, along with the noise we heard,\nmeans that the third floor is unlikely to be empty.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そして\n物音がするということは、\n三階はおそらく\n空き部屋ではありませんね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "In other words, there's a good chance [i]something[/i] like\nwhat was sealed here, is still living on the third floor.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "二階に封印されていたのと同じような\n「何か」が、\n今でも三階には居座ってる可能性が高い……\nってことね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmm. Whatever's sealed on the third floor\nis similar to or worse\nthan what was here...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふむ。\n三階に封印されているのが、\n二階に封印されていた「何か」と同程度か、\nそれ以上の存在なら……"
+    },
+    {
+      "name": "Karyl",
+      "text": "This could be bad.\nTeleportation is a highly advanced and forbidden magic.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと、\nまずいかもね。\n空間転移は禁術、\n高等魔法よ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Being able to draw a magic circle\nmeans that it may be an intelligent and powerful monster.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "魔法陣を描けたってことは、\n知性の高い強力な魔物か何かかも。"
+    },
+    {
+      "name": "Karyl",
+      "text": "One that, if provoked,\ncould easily destroy a small village.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うっかり怒らせたら、\nちいさな村ぐらい滅ぼされるレベルのね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "We'd better not carelessly tamper\nwith the seal to the third floor.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "三階へ繋がる階段の封印には、\n迂闊に手をださないほうがいいかも。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It bothers me though...\nWhat on earth is sealed away in this guildhouse?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "気になるけどね～……\n本当にいったい、\nこのギルドハウスには何が封じられているのかしら？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I can't go back to business as usual\nnow that I know some unknown creature is lurking above us.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "得体の知れないもんが頭上に潜んでるのに、\n呑気に日常生活なんか送れないわよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, I'd like to properly investigate the third floor one day.\nOf course, we'll ask Karin for permission when we do.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……\n三階、\n日を改めてちゃんと調べてみたいわ。\nもちろん、\nその際にはカリンの許可をとるから。"
+    },
+    {
+      "name": "Karyl",
+      "text": "This guildhouse is starting to feel pretty cozy,\nso it's not like I wanna break the rules and get us evicted.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "このギルドハウス、\nけっこう居心地が良いし……\nべつにルール違反して、\n追いだされたいわけじゃないから。"
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "title": "Loyal Retainer's Resolve & Drastic Measures",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Meanwhile, under Kokkoro's guidance, Lyrael and Croce visited an area lined with many pavilions...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方、\nライラエルとクローチェはコッコロの案内で、\n多くのパビリオンが立ち並ぶエリアを訪れていた──"
+    },
+    {
+      "name": "Croce",
+      "text": "Wooow! Lady Lyrael! This street gets livelier by the minute! There are all kinds of shops too♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わあっ、\nライラエルさまっ！\nこの通りはますますにぎやかですねっ！\n色んなお店もありますよっ♪"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ehehe, Croce. Please make sure not to lower your guard down too much.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ふふ、\nクローチェ。\nあまり羽目を外しすぎないように。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Heh... That said, just looking from afar is not very satisfying. Let us take a break.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "……\nですが、\n見ているばかりだけでも\n物足りませんね。\nコッコロ。\n少し休憩しましょうか。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Understood. Well then, let us pick a stall to stop at... Oh my? I spot a lot of people I know around.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "承知いたしました。\nそれでは\nどこかお店に……\nおや。\n見知った方が、\nたくさんいらっしゃいますね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Step right up~! How about some \"Zabuton Cookies\", handmade by everyone at the Sarendia Orphanage? They're not just tasty, you can even sit on them when you're tired~!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "さあ、\nサレンディア救護院のみんなで作った\n『座布団クッキー』は\nいかがですか～？\n美味しいだけじゃなく、\n疲れた時は座れちゃいますよ～っ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Ohhh... Gio Nivlhel's special crimson tomato juice for vampires, huh? Kukuku, I am left uncertain whether it truly is tomato juice or not, but I shall take a sip. This is... actually just tomato juice! How delightful!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ほう……\nジオ・ニヴルヘルの\n吸血鬼特製・\n深紅のトマトジュースか。\nくくくっ、\n本当に\nトマトかどうか怪しいものじゃが、\nどぉれ\n一口。\nこれは……\nシンプルにトマトジュースじゃ！　\n美味じゃが！！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Hello! Labyrinth's brand new crepe shop has officially opened for business~♪ Just for this occasion, we have a special menu! Underworld collaboration parfaits are also on sale~☆",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "どーも\n新装開店・\nクレープ屋\n【ラビリンス】だよ～♪\n今回だけの特別メニュー！\n裏世界コラボパフェも販売中～☆"
+    },
+    {
+      "name": "Rino",
+      "text": "The most popular offering is currently the Gio Teogonia Pudding Parfait! It's made with a generous amount of smooth, fairytale-like pudding... WAIT, IT'S NOT THERE! Our pudding has been... HONEY HIDDEN!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "一番人気は\n王道のジオ・テオゴニアプリンパフェ\nですねっ！\nメルヘンななめらかプリンをふんだんに使った……\nってあれ、\nないっ！　\nプリンがハニ隠し状態ですっ！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Or rather, you meant to say \"spirit away\"☆ Speaking of \"honey hiding\", aren't you a little too obsessed with Honey Honey-chan, Rino-chan? Well I can see how she's a little cute, although still creepy.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "それを言うなら\n神隠し\nだよっ☆\nハニ隠しってリノちゃん、\nハニハニちゃんにはまりすぎてない～？\nたしかに\nちょっとキモかわいいけど。"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "Eh... I knew it, I really am creepy.",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "ええ……\nやっぱりキモイのかな、\nあたし。"
+    },
+    {
+      "name": "Rino",
+      "text": "SO YOU WERE THERE ALL ALONG, HONEY HONEY-CHAN?! I'm a fan! Please shake my hand!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "いたんですかハニハニちゃんっ！\nファンですっ！　握手してください！"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "Of course, honey. Here's a handshake♪ More importantly... There's been a string of reports of pudding disappearing at other stores as well. Could this be some kind of hidden incident brewing behind the scenes, honey...?",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "もちろんハニよ、\nはい握手♪\nそれより……\n他のお店でもプリン消失の報告が相次いでるハニ。\nこれは裏で何か大きな思惑が動いてるハニか……？"
+    },
+    {
+      "name": "Miyako",
+      "text": "*munch munch* Lots of pudding can only make me more happy♪ Next, I'll take a peek at that shop over there~♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "もぐもぐ。\nプリンいっぱい幸せなの♪\n次はあっちのお店を覗くの～♪"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Ehehe. With so many charming shops all around, picking one proves difficult. ...Oh my? That stall over there...",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ふふ、\nどこも魅力的なお店で\n目移りしてしまいますね。\n……あら？　\nあそこの屋台は……"
+    },
+    {
+      "name": "ユキノ",
+      "text": "ゆ、\n雪女の\n作った……\nほ、\n本物の、\nひんやり\nかき氷……\n食べて\nかね……？",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ゆ、\n雪女の\n作った……\nほ、\n本物の、\nひんやり\nかき氷……\n食べて\nかね……？"
+    },
+    {
+      "name": "Yukino",
+      "text": "...Cold, delicious shaved ice... ...P-Please try it, huh... ...uuu.",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "……冷たくて、\nおいしいかき氷……\n食べて\nか……\nうぅぅ。"
+    },
+    {
+      "name": "Yukino",
+      "text": "I-It's no use... I'm so nervous in front of all these people... that I can't even speak... W-What's more... all this heat is melting me...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "だんめだ……\n人さいっぺえで緊張しちまって\n声さでねえよぉ……\nそ、\nそれに\n人の熱気で……\n溶けちまう……"
+    },
+    {
+      "name": "Yukino",
+      "text": "P-Princess-chan asked me to set up a food stall at the Expo, but... To think that a country bumpkin like me would come out to a big city like this... It's just impossible to strike success...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "姫ちゃんにお願いされて、\n万博で屋台さ出したけど……\nあてみたいな田舎もんが一人、\nこんな\n大都会さ出てくるなんて\n……土台無理な話だ……"
+    },
+    {
+      "name": "Yukino",
+      "text": "Uuuu, Princess-chan. Satsuki-chan... I-I wanna go back to my home, Gio Nivlhel... I'll wait another minute... if no more customers show up I'll pack up and return home...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "うううっ、\n姫ちゃん。\nサツキちゃん……\nあて、\nジオ・ニヴルヘルさ\n帰りてぇ……\nあと一分待って\nお客さ来なかったら、\n荷物まとめて\n田舎さ帰ろう……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Good day, Yukino. There are three of us. Do you have any seats?",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ごきげんよう、\nユキノ。\n３人ですが、\n席はありますか？"
+    },
+    {
+      "name": "Yukino",
+      "text": "Heh...!? Ah...! T-The angel Princess I met back in Oedo...! K-Kokkoro-sa... O-Of course...!!",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "へっ……！？　\nあ……！\nオ、\nオーエドで会った、\n天使の姫さに……\nコッコロさ……！\nも、\nもっ……\nもちろんっ！！"
+    },
+    {
+      "name": "Yukino",
+      "text": "I-I finally have customers... I-I know them, but... They're such kind customers... I guess I'll try my best just a little longer... in this big city...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "お……\nお客さんだ……\nか、\n顔見知りだけど……\nはんじめてのお客さん……\n……\nも少しだけ、\nあて、\n頑張ってみっかな……\nこの\n大都会で……"
+    },
+    {
+      "name": "Miyako",
+      "text": "A wonderful story of a country bumpkin success in the big city has begun~ But there's no pudding here, so I'll skip this place~",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "上京物語はじまってるの～\nでも\nプリンがないからここはスルーなの～"
+    },
+    {
+      "name": "Lyrael",
+      "text": "──Thunderous Night.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "──崩雷夜天。"
+    },
+    {
+      "name": "Miyako",
+      "text": "NHIIIIIIIIIII?! Stop that, Miyako didn't even do anything wrong this time!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "んひぃぃいっ！？\nやめろなの、\nミヤコは悪いことしてないの～っ！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Hmph... So you dodged that. Accursed evil spirit that wiped out nearly all of my castle's pudding... There will be no next time for you.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "……\n逃したか。\n我が城下からプリンを根こそぎにした悪霊め……\n次は無いぞ。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "...Now then, what should we have? This \"Death Metal Skull Blue Hawaii\" has drawn my attention. Kokkoro, please do not hesitate to pick whatever you like...",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "──さて、\n何を頂きましょうか。\n『冥界巡り\nデスメタル髑髏ブルーハワイ』\nなどは\n惹かれてしまいますね。\nコッコロ、\nあなたも遠慮なく\n好きなものを……"
+    },
+    {
+      "name": "コッコロ",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Kokkoro... please do not look so sad.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "……コッコロ。\n寂しい顔をしないでください。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Hah. S-Sorry, Lady Lyrael.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はっ。\nす、\nすみませんライラエルさま。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "You do not have to apologize... I assure you we will do our best to make Princess Pecorine feel better.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "……何も、\n心配はいりません。\nペコリーヌ姫が\n早く元気を取り戻せるよう、\nわたしたちも\n最善を尽くしますから。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Your thoughtfulness is greatly appreciated. Lady Lyrael, once again. In spite of such an impolite request...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……お心遣い、\n痛み入ります。\nライラエルさま、\n改めまして。\nこのような不躾なお願いにもかかわらず……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "For agreeing to participate in the \"Bistro Princess\"... I truly cannot thank you enough!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "『ビストロプリンセス』への参加をご快諾いただき\n本当に、\n感謝の念に堪えません……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmm... A \"worldwide food expo\", you say?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "──……ふむ。\n「世界の食の祭典」……\nでございますか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't tell me your big plan is to gather all the food in the world in the hope one of them will be able to make her appetite return? ...Hmph, if that was enough to solve this problem, we'd have already done it.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まさか、\n世界中のおいしいものを集めれば、\nあいつがご飯を食べられるようになるとか言うんじゃないでしょうね？\n……ふんっ、\nそれで解決するなら\n苦労はしないわよ。"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "Ugh, you hit the nail on the head, honey...",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "ううっ、\n図星ハニ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I'm sorry for the bluntness, Honey Honey-chan, but Kyaru's right. What we need here is a real solution...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……ごめんなさい\nハニハニちゃん。\nでも\nキャルの言う通り。\n本当に解決しなくちゃならないのは──"
+    },
+    {
+      "name": "Karyl",
+      "text": "Exactly so. ...Sorry, but we're busy enough looking for a solution that can solve more than that.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そゆこと。\n……悪いけど、\nあたしたちは他にできることを探しに行くわ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Wait just a minute, Nekosuke. ...I'm well, extremely, painfully aware that a simple food event won't be enough to solve this deeply rooted issue.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ちょー\nっとお待ちなさいなネコ助。\n……単なる食のイベント程度ではどうにもならないことなど、\n百も\n千も、\n一億那由多も承知しておりますわ。"
+    },
+    {
+      "name": "Creditta",
+      "text": "...This is where we'll talk real business. Please take a look at this proposal...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……本題はここからです。\nこちらの企画書をごらんあそばせ──"
+    },
+    {
+      "name": "The Three",
+      "text": "\"Bistro Princess\"...?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "「「「『ビストロプリンセス』……？」」」"
+    },
+    {
+      "name": "Sheffy",
+      "text": "A gourmet battle where Princesses from different worlds fight for their country's prestige. The head judge will be the Guild Master of the Gourmet Guild, Her Royal Majesty, Princess Eustiana...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……「各国のプリンセスたちが\n己の国の威信をかけて戦うグルメバトル。\n審査員長は【美食殿】ギルドマスターであり、\nランドソルのプリンセスである\nユースティアナ陛下……」"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wait a minute...! Do you really think I'd let you go through with something like this?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと待ちなさいよ……っ！\nこんなの許せると思ってんの！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Kyaru...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "The venue will be packed with spectators... The food itself shall be prepared by the Underworlds Princesses... You're basically creating a situation that she cannot refuse to attend!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "会場には満員の観客。\n各国のプリンセスが用意した料理。\n絶対断れない状況を作るってことじゃない！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't act so smug and simply call it a plan! You're dragging even Lyrael and the others into this and cornering Pecorine even more, there's no way I can agree to be a part of that!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ドヤ顔で策とか言ってんじゃないわよ。\nライラエルたちまで巻き込んで、\nペコリーヌをさらに追い詰めるだなんて、\n加担できるわけないでしょ！"
+    },
+    {
+      "name": "クレジッタ",
+      "text": "ええ、\n存じてますとも。\n荒療治になることは承知の上ですわ！\nそのうえでの決断でしてよっ！",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "ええ、\n存じてますとも。\n荒療治になることは承知の上ですわ！\nそのうえでの決断でしてよっ！"
+    },
+    {
+      "name": "Creditta",
+      "text": "You're all doing everything you can trying to find a way to help Her Majesty. I know that. But, even so! There are adult solutions in this world that rely on financial power and connections, which are impossible for you brats to put into place!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "あなたがたも陛下のため力を尽くしている。\nそれはわかっておりますわ。\n──ですが！　\nですが！　\n世の中にはお子様なあなたがたには不可能な、\n財力と人脈にモノを言わせた\nオトナのやり方ってのがあるんですのよ！！"
+    },
+    {
+      "name": "Creditta",
+      "text": "It may indeed be a burden to Her Majesty. However... Even so! I can't just sit back and do nothing while she suffers. Even if Her Majesty were to resent me...",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "陛下にはご負担かもしれませんわ。\nそれでも、\n何もできずにただ、\n手をこまねいているだけなんて\nできません。\n仮に陛下に恨まれたとしても……"
+    },
+    {
+      "name": "Creditta",
+      "text": "I'll do anything for Her Majesty's sake... I've steeled myself for any outcome beyond that.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "陛下のためならば何でもすると……\nとっくに腹をくくっておりますの。"
+    },
+    {
+      "name": "Karyl",
+      "text": "......!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……っ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Creditta~...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "クレジッタさま──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Touched by Lady Creditta's loyal and fierce determination, we also agreed to proceed with this plan. However...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "──クレジッタさまの\n鬼気迫る覚悟に触れ、\nわたくしたちも\nこの策を進めることに賛同いたしました。\nですが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We cannot accomplish this plan on our own. It is all thanks to you Princesses that this plan may have any merit. I really cannot thank you and the others enough, Lady Lyrael.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "この計画は、\nわたくしたちだけでは成しえません。\nプリンセスのみなさまの\nご助力あってのもの。\nライラエルさまたちには本当に、\n感謝してもしきれません。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Please raise your head. Every single one of us, including me, owes all of you and Princess Pecorine a great debt of gratitude. This much is nothing.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "頭を上げてください。\nわたしも含め、\n皆\nペコリーヌ姫や\nあなたたちには大きな恩があります。\nこれくらいのことは\n何でもありませんよ。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "...Besides.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "……それに。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Hehe. Speaking truthfully... I am quite fired up. For the \"Bistro Princess\", that is.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ふふ。\n実は……\n結構燃えているんです。\n『ビストロプリンセス』──\nこの、催しに。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Cooking is the crystallization of \"culture\" and \"pride\", was it? As a catchphrase for the \"Bistro Princess\", that is quite an effective one.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "“料理は文化と矜持の結晶”──\nですか。\n『ビストロプリンセス』のキャッチコピー\n良い言葉ですね。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Food is a reflection of a country's history, culture, lifestyle and pride... it encompasses everything and is truly a reflection of the country itself.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "食事はその国に根付く\n歴史、\n文化、\n生活様式、\nそして矜持……\nあらゆるものを内包している、\nまさに\n国そのものです。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "All of the other Princesses and I harbor a deep love for our own country... That is why excitement for such a competition naturally wells up.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "わたしも、\n他のプリンセスも皆、\n自国に対する\n深い愛を持っている……\nだからこそ、\n自然と湧いてくるのです。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Even if it is simply cooking. As long as I am here representing my country, I harbor a burning spirit that cannot afford to lose.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "たとえ料理と言えど。\n国を背負う以上は\n負けられないという、\n熱い気持ちが。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Lyrael... I believe that could be known as a \"Princess's pride\", may it not?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ライラエルさま……\n……それが、\nプリンセスの矜持なのですね。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "...Indeed. And... I think it will prove useful for the future. The act of reexamining the burdens I carry.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "──ええ。\nそして……\nこれからのことに、\nきっと役立つと思うのです。\n自らが背負うものを、\nあらためて見直すという行いは。"
+    },
+    {
+      "name": "Yukino",
+      "text": "...U-Umm. A-Are they done talking...? C-C-Could it be about time... for me to take their order...?",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "……え、\nえと。\nお、\nお話し\n終わったかな……？\nそろそろ注文さ、\n取りに行っても\nいいんかな……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile, {0} and Creditta had taken Pecorine out to explore the city.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして{0}とクレジッタは、\nペコリーヌを街に連れ出していた。"
+    },
+    {
+      "name": "Creditta",
+      "text": "YOUR MAJESTY! This is the newly discovered gourmet food that's the talk of town! It's known as the \"Dragon Tail Skewers\"!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "陛下！　\nこちらが話題の新発見グルメ！\n『ドラゴンテイルの串焼き』ですわ～っ！"
+    },
+    {
+      "name": "Creditta",
+      "text": "It even received an amazing 4.6☆ in reviews from the Expo's visitors, with rave reviews such as \"It's so good your clothes will fly off\" and \"They actually did fly off!\" Please enjoy! I'll even treat you while I'm at it, Boy!",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "万博来場者レビューでも驚異の☆4.6をたたき出し、\n「服がはじけ飛ぶほどうまい」\n「実際はじけ飛んだ」\nと大絶賛っ！\nどうぞお召し上がりを！　\n少年にも奢って差し上げますわ\n特別にっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thank you very much. But... your feelings are more than enough...♪ Please eat it with everyone else.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ありがとうございますっ。\n……でも、\nお気持ちだけで充分ですよ……♪\nみなさんで食べちゃってください。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Ah, please don't worry about me! As you probably know, I've had Kyaru-chan cast a spell on me that will make it so I don't need to eat...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あ、\n心配なさらないでくださいねっ！\nご存じかと思いますが\nキャルちゃんに\n『食べなくても済む魔法』をかけてもらっているので……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Once it's casted, the effects will make me feel fine for a week! Really, it's nothing to worry about☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "一回かけてもらうと\n一週間は平気なんですよ。\n本当に何ともありません☆"
+    },
+    {
+      "name": "Creditta",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Mm... {0}, Creditta-san. I'm sorry you went out of your way to invite me.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……\n{0}くん、\nクレジッタさん。\nせっかく誘ってくれたのに\nごめんなさい。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I'm going back to the castle. There's going to be a meeting about the \"Bistro Princess\" soon. Ah, you two, please make sure to enjoy the Expo while I'm away☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……わたし、\nお城に戻りますね。\n『ビストロプリンセス』の打ち合わせがあるそうなので。\nあ、\nお二人は\nランドソル万博、\n楽しんできてください☆"
+    },
+    {
+      "name": "Creditta",
+      "text": "As expected... It seems we have no choice but to place our bets on the \"Bistro Princess\".",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "……やはり、\n『ビストロプリンセス』に賭けるしかないようですわね。"
+    },
+    {
+      "name": "Creditta",
+      "text": "Absolutely... I WILL make sure it succeeds. ...I hope you'll also help with it, Boy.",
+      "choice_data_list": [],
+      "orig_name": "クレジッタ",
+      "orig_text": "必ず。\n必ず、成功させますわよ。\n……あなたも、\nどうかよろしくお願いいたしますね。\n少年。"
+    },
+    {
+      "name": "Narration",
+      "text": "And then, three days later, the day of the \"Bistro Princess\" had finally arrived.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──そして、\n３日後。\n『ビストロプリンセス』開催日がやってきた。"
+    },
+    {
+      "name": "Yukino",
+      "text": "EEEEHHHH...! S-SO MANY PEOPLE, AMAZING...! D-D-Did everyone from all the worlds gather here...? S-So many people are making this too hot... I-I'm melting...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ひえぇぇ……\n人\nすごいぃぃ……\nせ、\n世界中の人さ\n集まってんでねえか……？\n人いきれ、\n暑すぎて\n溶けちまうよぉ……"
+    },
+    {
+      "name": "Naana",
+      "text": "WAAAAHHHH?! YUKINO-CHAN'S ALREADY MELTING! Here! Some cold noodles!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "わぁぁっ！？\nユキノちゃんもう溶けかかっちゃってるよぉ！\nはい、\nひょーのーっ！"
+    },
+    {
+      "name": "ユキノ",
+      "text": "あ、\nありがと、\nナーナさ。\nまた助けられちまって……\nはふぅ。",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nありがと、\nナーナさ。\nまた助けられちまって……\nはふぅ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Welcome! To the Bistro Princess!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ようこそ♪\n『ビストロプリンセス』へ～っ♪"
+    },
+    {
+      "name": "ナーナ",
+      "text": "クルルちゃんっ！\nいつもの支配人癖がでちゃってるよぉ～？",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "クルルちゃんっ！\nいつもの支配人癖がでちゃってるよぉ～？"
+    },
+    {
+      "name": "Naana",
+      "text": "But, but...! I'm also really looking forward to it~! Because, because... I mean, it's OBVIOOOOOOUS that Nella-chan will win~♪",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "でもでも、\nすごく楽しみだね～！\nだってだってぇ。\n勝つのは\nずぇ\n～\nったいネラちゃんだもん♪"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ugh...! I-I wonder about that~! P-Personally...! I think Lady Lyrael might just snatch the win, you know...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "っ！　\nそ……\nそれは\nどうですかね～？\nわたしは\nライラエルさまが勝つと思いますですけどー……っ！"
+    },
+    {
+      "name": "Yukino",
+      "text": "...Ah, u-umm... I-I-I think... our Princess might be the winner...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "……や、\nあ、\nあの……\n優勝は……\nうちの姫ちゃんかな\nって……"
+    },
+    {
+      "name": "Kururu",
+      "text": "As expected, it's only natural, quite natural, that each of us would favor the Princess of our own world! Let's be fair and ask a Landosolian for their opinion!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "やっぱり\n自分の世界のプリンセスをご贔屓しちゃうのは\n当然ですますっ！\nここは公平に、\nランドソルの方のご意見を伺ってみましょうっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "U-Umm, excuse me for the question! Who do you think is going to win today?!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あ、\nあの\n突然すみませ～ん！\n今日は\n誰が優勝すると思いますですか！？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Anyone will do.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "誰でもいいわ。"
+    },
+    {
+      "name": "The Three",
+      "text": "EHHHHHHH?!\" \"PIIIIIIIIIII!?\" \"HIEEEHHHHHH...?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "「えええ～っ！？」\n「ぴぃぃ～っ！？」\n「ひえっ……！？」"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Darling, just for today, I'll let you eat another girl's cooking. But please come back half-full. I'll have lots of darling-like food prepared just for you!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ダーリン、\n今日だけ他の女の子の手料理食べるの許してあげる。\nでも\n腹八分目で帰ってきてね。\n私もダーリンのために\nたっくさんお料理作って待ってるから。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Of course, the main dish is going to be... ME♪ Ehehe... eheheheh...♪",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "もちろんメインディッシュは……\nわ・\nた・\nし♪\nえへへ……\nえへへへへ……♪"
+    },
+    {
+      "name": "Jun",
+      "text": "Louise Marie-chan, could you follow me for some questioning? We've received a report that there's a suspicious person around.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "ルイズマリーちゃん。\nちょっと職質いいかな？\n不審者がいるって、\n通報があってね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Whaaat?!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "えええっ！？"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "NOW! Less than 82 minutes are left until the event starts! Build up the excitement everyone, honey!!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "さあっ！　\nスタートまで82分を切ったハニっ！\nみなたま、\n盛り上がってくハニよ～っ！！"
+    },
+    {
+      "name": "Spectators",
+      "text": "OHHHHHHHHHHHHHHHHHHH!!!",
+      "choice_data_list": [],
+      "orig_name": "観客たち",
+      "orig_text": "おおおおおおおお！！！"
+    }
+  ]
+}

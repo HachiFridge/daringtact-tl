@@ -1,0 +1,584 @@
+{
+  "title": "Lou Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Lou watches from afar as Anne gives\nmagic lessons to the children of the Sarendia Orphanage.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【サレンディア救護院】の子どもたちに魔法教室を開くアン。\nルゥはその様子を、遠巻きに眺めていた。"
+    },
+    {
+      "name": "Lou",
+      "text": "Wow...\nShe's amazing.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "はぇ～……\nすごいですぅ……"
+    },
+    {
+      "name": "Lou",
+      "text": "Oh, {0}!\nI was just watching Anne teach the kids magic!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "あ、{0}さん！\n今、\nアンせんぱいがみんなに魔法を教えてるのを見てたです！"
+    },
+    {
+      "name": "Lou",
+      "text": "She really is amazing!\nUsing magic's one thing, but she can teach it as well!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "アンせんぱいは本当にすごいですぅ！\n魔法もいっぱい使えて、\nみんなにも上手に教えてるです！"
+    },
+    {
+      "name": "Lou",
+      "text": "All the kids really look up to her, too...\nI'm kind of jealous.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "それに、\n子どもたちにすっごく\nそんけいされてて……\nいいですねぇ～"
+    },
+    {
+      "name": "Girl",
+      "text": "Hey hey, Lou!\nYou go to the same academy as Anne, right?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ねぇねぇ、\nルゥちゃん。\nルゥちゃんも\n魔法の学校にかよってるんだよね？"
+    },
+    {
+      "name": "Lou",
+      "text": "Huh? Oh. I do!\nWe're both students at the Mysteria Academy of Magic!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ふぇ？　\nはい、\nそのとおりですぅ。\nルゥもアンせんぱいたちと同じ、\nマナリア魔法学院の生徒ですよ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Oh, ohhh! Then please teach us more magic!\nThe same way Anne did!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "じゃあさじゃあさ、\nルゥちゃんも魔法、\n教えてよ！\nアンお姉ちゃんみたいに！"
+    },
+    {
+      "name": "Lou",
+      "text": "Uh. You want... [i]me[/i] to teach you?\nHm... I'm not really the best at academic stuff.\nI'm kind of allergic to it, I guess?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ほぇ、\nルゥが\nですか？\nうーん、\nでも\nルゥはお勉強とか授業とかはちょっと……\nアレルギーが出ちゃうといいますか……"
+    },
+    {
+      "name": "Boy",
+      "text": "Aww, come on! Please!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "えーっ、\nそんなこと言わないで！　\nおねがーい！"
+    },
+    {
+      "name": "Girl",
+      "text": "I bet you're just as good as Anne! Super good!\nWe want lessons from Ms. Lou! Right now!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "アンお姉ちゃんと同じ学院の、\nゆーしゅーな魔法使いなんでしょ？\nルゥせんせいの授業、\nききたいききたーい！"
+    },
+    {
+      "name": "Lou",
+      "text": "Super good...\nMs. Lou...!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ゆーしゅー……\nせんせい……！"
+    },
+    {
+      "name": "Lou",
+      "text": "Heh... Heh heh... Heh heh heh!\nYou leave me with no choice!\nI'll just have to show my cool side!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ふっ……\nふふふ……\nうっふっふふ……！\nそこまで言うならしかたないですねぇ！\nルゥの\nちょっといいとこ、\n見せちゃいますよ！"
+    },
+    {
+      "name": "Boy & Girl",
+      "text": "Woooooo!",
+      "choice_data_list": [
+        "You sure about this?"
+      ],
+      "orig_name": "男の子・女の子",
+      "orig_text": "やったー！！"
+    },
+    {
+      "name": "Lou",
+      "text": "Well. You never know until you try!\nIt'll all work out!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "まあ、\nなにごともやってみるですよ！\nきっと\nどうにかなるですぅ！"
+    },
+    {
+      "name": "Lou",
+      "text": "They don't know much about magic, plus they're kids!\nEven I should be able to teach them a thing or two!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "魔法の初心者で、\nしかもみんなくらいの年の子になら、\nルゥでもだいじょぶなはずですぅ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Right then! Time for class!\nGather around, everyone!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "それじゃあ、\n授業をはじめるですぅ！\nみんな\nあつまってくるがいいです！"
+    },
+    {
+      "name": "Boy",
+      "text": "Yaaay!\nThis'll be so good!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "わぁ～い！　\nよろしくお願いしま～す！"
+    },
+    {
+      "name": "Lou",
+      "text": "Heh!\nJust leave it to Ms. Lou!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "えっへん！　\nルゥせんせいに\nお任せですよぉ～！"
+    },
+    {
+      "name": "Lou",
+      "text": "Hee hee. This feels great.\nI never realized being a teacher would be such an ego boost.\nI could get used to this!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "……んっふっふ、\nなにやら気分がいいですぅ。\nせんせいって\nこんなにいばれるものだったんですね！\nなんだか\nやみつきになってしまいそうですぅ。"
+    },
+    {
+      "name": "Lou",
+      "text": "Right then. Where should I start?\nHm? Are these... notes from Anne's lessons?\nPerfect! I'll gladly use them!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "それじゃあ、\nなにからはじめるですかねぇ……\nおっ、\nこれは……\nアンせんぱいが授業に使ったメモです？\nちょうどいいです、\n使わせてもらうですぅ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Uhh... Let's see here...\n...? ...?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "えーっと、\nなにが書いてあるですか……\n…………？　\n……？？　\n？？"
+    },
+    {
+      "name": "Girl",
+      "text": "Ms. Lou? What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ルゥせんせい？　\nどうしたの？"
+    },
+    {
+      "name": "Lou",
+      "text": "E-err, uh...\nI was just... a bit surprised.\nYou're learning pretty tricky stuff, huh?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "い、\nいやぁ……\nそのー、\nなんていうか……\nみんな、\nけっこうむずかしいことを\nお勉強してるですね……？"
+    },
+    {
+      "name": "Boy",
+      "text": "Really?\nAnne made it all super fun and interesting!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "そうかな？\nアンお姉ちゃんのおはなし、\nすっごく楽しくて面白いよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Urgh... She really is amazing.\nBut, well...\nI just need to go all out! It'll be fine if I do that!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "うぅ、\nアンせんぱい、さすがですぅ……\nまあ\nまあまあっ、\nルゥだって\n本気でやれば\nこれくらい……！"
+    },
+    {
+      "name": "Lou",
+      "text": "Uhh... Basic foundations... of magic...\nTh-the three... prin... principles?\nIs that how you read it? Urgh...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "えっと、\n魔法の……\nきその……\nさ、\nさ、\nさん、\nげんそく？\nうぅぅ、\nこれ、なんて読むんでしたっけ……"
+    },
+    {
+      "name": "Boy",
+      "text": "Hey.\nHow come you're struggling to read it?",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ねぇ、\nなんでそんなに読みにくそうなの？"
+    },
+    {
+      "name": "Girl",
+      "text": "Are you one of those students that isn't good at studying, Lou?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ルゥちゃん、\nもしかして、\nお勉強が苦手だったり……？"
+    },
+    {
+      "name": "Lou",
+      "text": "N-No way, no way!\nI'm one of Mysteria Academy's best students!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そ、\nそそそ、\nそんなことないですよぉ！\nルゥだって、\nマナリア魔法学院の生徒なんですぅ！"
+    },
+    {
+      "name": "Girl",
+      "text": "I knew it!\nYou have to be good if you're at the same academy as Anne!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "そうだよね！\nアンお姉ちゃんと同じ学校の人だし、\nそんなわけないよねー！"
+    },
+    {
+      "name": "Girl",
+      "text": "Hey hey.\nAnne taught us something earlier that I wanna ask about.\nIs that okay?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ねえねえルゥちゃん、\nこの前\nアンお姉ちゃんが言ってたことで\n質問しても\nいーい？"
+    },
+    {
+      "name": "Lou",
+      "text": "Something that Anne taught you?\nErm. O-Of course! Bring it!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "アンせんぱいの……！？\nぬぐぐ……\nい、\nいいですとも！　\nどーんとこいですぅ！"
+    },
+    {
+      "name": "Girl",
+      "text": "So there's these herbs that help replenish your magic.\nAnne said there's lots of them.\nBut just how many are there?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "魔力を回復させるお薬の材料になる薬草って、\nいーっぱいあるって聞いたけど……\n何種類ぐらいあるの？"
+    },
+    {
+      "name": "Lou",
+      "text": "Huh?!\nErr, um!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ええっ！？　\nううーん、\nうーん……！"
+    },
+    {
+      "name": "Lou",
+      "text": "Th-there's tons of them!\nYou can even replenish magic with snacks, if you wanted to!\nJust look at me! I do it all the time!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "……ほ、\n星の数ほどあるですよ！\nその気になれば、\n魔力はおかしでも回復するですぅ！\n現にルゥは、\nおかしを食べれば\n元気満点ですぅ！"
+    },
+    {
+      "name": "Girl",
+      "text": "Huh? Really?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "えっ、\nそうなの……？"
+    },
+    {
+      "name": "Boy",
+      "text": "Okay then!\nTeach us how to draw a summoning circle for water spirits!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "じゃあじゃあ、\n水の精霊の召喚陣の書き方、\n教えてー！"
+    },
+    {
+      "name": "Lou",
+      "text": "W-well, that's... uh...\nI-I don't really do summoning magic,\nso I kind of... forgot!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そ、\nそれは……\nえっと、\nえっと……\nルゥ、\n召喚魔法は専門じゃないから……\nわ、\nわすれてしまったですぅ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Oh...\nThen how about those greater spirits Anne told us about?\nTell us what those are!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "そっかー\nじゃあ、\nアンお姉ちゃんの言ってた\n英霊って\nなんだか教えてよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Greater... spirits?\nErr... Well... O-of course I know what they are!\nJust wait a minute! I'll give you a proper explanation!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "えい……\nれ……？\nえっと……\nそれは……\nアレ、\nアレのことですぅ！\n今説明するですから、\nちょっと待ってるですよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "{0}!\nTell me the answer to that question! Sneakily!",
+      "choice_data_list": [
+        "You're asking the wrong guy.",
+        "You should just tell them you don't know."
+      ],
+      "orig_name": "ルゥ",
+      "orig_text": "{0}さん……！\nさっきの質問の答え、\nルゥに\nこっそり教えてほしいですぅ……！"
+    },
+    {
+      "name": "Lou",
+      "text": "Then make yourself the right guy!\nGive me something! Anything! I just need a hint!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そこをなんとかしてほしいです！\nなんでもいいから、\nヒントになりそうなことでもいいですぅ！"
+    },
+    {
+      "name": "Lou",
+      "text": "No way! Are my five minutes of teacher fame over already?!\nI want five more!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そんなー！？　\nルゥのせんせいタイムは\nもうおしまいですか！？\nもうちょっとだけ\nえばっていたかったですよぉ……！"
+    },
+    {
+      "name": "Lou",
+      "text": "Urgh... I get it. This isn't right.\nI should just let it go.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ううぅ……\nだめ\nですね。\nこれはもう\nお手上げですぅ……"
+    },
+    {
+      "name": "Lou",
+      "text": "Hey. I need to tell you all something.\nSomething really important.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "みんな、\nちょっと聞いてほしいですよ。\nルゥからみんなに\nだいじなことを伝えなきゃいけないですぅ……"
+    },
+    {
+      "name": "Narration",
+      "text": "Lou reveals the truth to the children.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ルゥは、自分のことを正直に子どもたちに話した──"
+    },
+    {
+      "name": "Girl",
+      "text": "So... you're actually a terrible student,\nand you don't know anything about magic?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ということは、\nルゥちゃんは学校でも落ちこぼれで、\n魔法のことも\nぜんぜんわからないってこと？"
+    },
+    {
+      "name": "Lou",
+      "text": "Th-that's one way to put it, yeah.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そ、\nそういうことになるですね……"
+    },
+    {
+      "name": "Girl",
+      "text": "Aww! Come on, Lou!\nYou shouldn't have pretended, then!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "も～、\nルゥちゃんてば！\nじゃあなんで最初にできるなんて言ったの？"
+    },
+    {
+      "name": "Lou",
+      "text": "I got a bit... carried away.\nAlso, being called Ms. Lou just felt really good, you know?\nI'm sorry for lying!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ちょっと\n見栄をはっちゃったです……\nあと、\nせんせいって気持ちいいな～って\n思っちゃったですぅ……\nごめんなさいですぅ……！"
+    },
+    {
+      "name": "Girl",
+      "text": "I'm more worried about if you're going\nto graduate or not at this point.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ルゥちゃん、\nその学校、\nちゃんとそつぎょうできるの？"
+    },
+    {
+      "name": "Lou",
+      "text": "Urgh...\nYour words slay me.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ううぅ……\n返すことばもないですぅ……"
+    },
+    {
+      "name": "Girl",
+      "text": "Oh! Everyone, I've got a great idea!\nLet's teach Lou magic ourselves!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "そうだ、\nねぇみんな！　\nいいこと思いついた！\n今から私たちで、\nルゥちゃんに魔法を教えてあげようよ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah!\nLet's teach her everything we know!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん！　\nルゥちゃんにいーっぱいお勉強させてあげよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Teach me?! Everything you know?!\nI, uh, well.\nI'd kind of rather not!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "お勉強！？　\nいーっぱい！？\nあ、\nあの\nあのあの、\nルゥ、\nそれは\nちょっと……！"
+    },
+    {
+      "name": "Boy",
+      "text": "You as well, {0}!\nYou should both learn about magic!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "お兄ちゃんもだよ！\nふたりとも魔法のこと、\nちゃんとお勉強しようね！"
+    },
+    {
+      "name": "Lou",
+      "text": "Waaahhh!\nWhy'd it come to this?!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "うわぁあああん！　\nどうしてこんなことになったですかー！？"
+    },
+    {
+      "name": "Girl",
+      "text": "Come on, Lou.\nYou gotta focus!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "もー。\nルゥちゃん、\nちゃんと集中してくださーい！"
+    },
+    {
+      "name": "Lou",
+      "text": "I-I am focusing!\nLook at my focused scribbles!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "し、\nしてるですよ！\nこうして\nノートにだいじそうなことを書いてるですぅ！"
+    },
+    {
+      "name": "Girl",
+      "text": "You were just doodling last time you said that!\nShow me your notes!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "さっきもそう言って、\nラクガキしてたじゃん！\nノート見せてよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Ahhh!\nYou can't look yet!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "あぁっ！　\nまだ見ちゃだめですぅっ！"
+    },
+    {
+      "name": "Girl",
+      "text": "I knew it! You're doodling!\nCome on, Lou! Take this seriously!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "やっぱりまたラクガキしてる！\nもぉ～！　\nルゥちゃん、\nちゃんとしなきゃだめだよー！"
+    },
+    {
+      "name": "Girl",
+      "text": "{0} hasn't even written anything in his notes!\nYou're both as bad as each other!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "お兄ちゃんのノートは真っ白だし！\nふたりとも、\nもっとちゃんとしてよ～！"
+    },
+    {
+      "name": "Lou",
+      "text": "Urgh!\nI can't! I can't take this torture anymore!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ううぅ……！\nこんなの……！　\nこんなの……！　\nたえられないですぅぅ！"
+    },
+    {
+      "name": "Boy",
+      "text": "We're giving you a test later, too!\nSo pay attention!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あとで小テストもするんだから！\nちゃんと覚えなくちゃだめだよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "A test?!\nImpossible... This can't be...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "テストぉ！？\nそんな……\nはううぅ……"
+    },
+    {
+      "name": "Lou",
+      "text": "A test means resits...\nResits means more resits... They never end...\nI'll be trapped in an endless recursion of resits...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "テストがあるなら追試があって……\nそして\n追試\n追試\n追試追試追試……\n追試がいつまでも終わらなくて……"
+    },
+    {
+      "name": "Lou",
+      "text": "I'll grow old, and they'll still haunt me.\nThe shadow of resits, constantly following me...\nNever letting up, until I turn into a skeleton...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "きっとルゥがおばあちゃんになっても……\n追試はいつまでもつづくんですぅ……\nそして最後に\nルゥはスケルトンになって……"
+    },
+    {
+      "name": "Lou",
+      "text": "How terrible... I'm shaking in fear...\nThis is too much for someone allergic to tests.\nIt's over. I'm finished!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ああぁ……\nそう考えたら手が震えてきたですぅ……\nテストアレルギーのルゥには\nこれはきびしいしうちですよぉ……\nもうだめですぅ……\nもう終わりなのですぅ……！"
+    },
+    {
+      "name": "Girl",
+      "text": "L-Lou?\nShe's kind of just mumbling away now... Is she okay?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ル、\nルゥちゃん……？\nなんだか\nぶつぶつ言ってるけど……\n大丈夫？"
+    },
+    {
+      "name": "Lou",
+      "text": "Actually. This isn't Mysteria Academy.\nIt's not even Rivenbrandt.\nWhy do I need to suffer this inhumane torture?!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "だいたいここは\nマナリア魔法学院でも、\nミスタルシアでもないのに……\nどうしてルゥがこんな目にあわなきゃいけないですかぁ！？"
+    },
+    {
+      "name": "Lou",
+      "text": "Yeah!\nThis is all messed up!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そうです！\nこんなの絶対おかしいですぅ～！！"
+    },
+    {
+      "name": "Girl",
+      "text": "L-Lou?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ル、\nルゥちゃん？"
+    },
+    {
+      "name": "Lou",
+      "text": "AHHHHHH!\nTests are unhealthy! I'm against them!\nIn fact, I'm gonna rid the world of them entirely!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "あああぁっ！　\nルゥを苦しめるテスト反対ですぅ！\nこの世界から\nテストをなくしてやるですよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Being stuck doing resists all by yourself is a lonely, lonely experience!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "独りぼっちの\nいのこり、\nらくだいすんぜんの\n再々追試……！"
+    },
+    {
+      "name": "Lou",
+      "text": "I never, ever wanna go through it again!\nIf you all wanna call me the Empress of Retakes,\nthen witness my true power!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そんなつらい思い、\nルゥはもうしたくないです！\nこうなったら、\n追試の女帝と呼ばれたルゥの力、\n見せてやるですよぉぉっ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Do your thing, Mr. Gawker!\nAnd come forth, Mr. Jumbo Gawker!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "いくですオメメちゃん！\n追加でジャンボオメメちゃんも\n召喚ですぅ～！"
+    },
+    {
+      "name": "Girl",
+      "text": "Eeek?!\nThat thing's huge!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "きゃー！　\nなになに、\nすっごくおっきいのが……！？"
+    },
+    {
+      "name": "Boy",
+      "text": "Whoa?!\nYou can do that, Lou?!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "すっごー！？　\nルゥちゃん、\nこんなことできたの！？"
+    },
+    {
+      "name": "Lou",
+      "text": "So long as tests exist in this world,\nmy rage will never subside! I'll eradicate them all!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "テストというテストを\n世界からくちくするまで、\nルゥはあばれまくってやるですよぉ～！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Lou's rampage continued on,\nuntil Anne and Grea arrived to help calm her down.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "この後、ルゥは大暴走し、\n駆けつけてきたアンとグレアの二人になだめられたのだった。"
+    }
+  ]
+}

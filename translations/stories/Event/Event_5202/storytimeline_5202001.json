@@ -1,0 +1,796 @@
+{
+  "title": "Irregular Einsatz",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The monsters sudden rampage is seemingly caused by Ranpha's chanting techniques, to help her and resolve the problem, {0} and everyone else decide to lend her their strength...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔物の暴走はランファの唱喚術が原因とわかり、\n一同は解決のため力を貸すことになったのだが──"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san, before today... have you ever studied song summoning chanting techniques?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさんはこれまで、\n唱喚術の勉強をしたことがありますか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "No, I haven't... To begin with, I didn't even know the term \"song summoning\"... until you asked me, Chika-chan...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "いいえ、\nないわ……\nそもそも、\n唱喚術\nという\n言葉も……\nチカちゃんに聞くまで、\n知らなかったし……"
+    },
+    {
+      "name": "Chika",
+      "text": "I knew it... That'd explain why her technique has turned so unstable. And yet, she still channels so much power into it. ...I'm sure it's putting a lot of strain onto her.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "やっぱり……\nだから不安定な感じがするのね。\nそれなのに、\nこれだけの力があるんだもの。\n……\nきっと負荷も大きいはず。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "But why did she suddenly become unable to use that technique properly? Did her magic go out of control or something like that?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "でも、\nどうして急に魔法がうまく使えなくなったんでしょう？\n暴走とかって\nありえるんですか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "On that topic... Could something have happened on the spirit's side? Like it has with me, once before.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そのことなのですが……\n精霊の側に\n何かあったのではないでしょうか？\n以前の、\nわたくしのように。"
+    },
+    {
+      "name": "Chika",
+      "text": "...Hmm. To give you all a general answer, there's actually one reason I can think of that's behind all of this.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "…………\nそのことなんですが、\n実は一つだけ、\n思い当たる理由があるんです。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...! W-What would that be...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！\nな、\nなに\nかしら……"
+    },
+    {
+      "name": "Chika",
+      "text": "Not yet, I still don't know for sure. I'd like to investigate a little more, so could you please wait until then? And if my guess is correct...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "まだ、\n私も確信は持てなくて。\nもう少し調べてみたいので、\n待ってもらえますか？\nそれで、\nもし。\n私の推測が当たっていたら……"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san, there's something I'd like you to try.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさんには、\n挑戦してもらいたいことがあるんです。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...If it's something I can do, then I'll do my very best...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……わたしに、\nできる\nことなら。\nがんばる、\nわ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Chika, is your guess in some ways connected to the spirits? If that is the case, then I know just the perfect place that can give us a lead. I shall guide you all there.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "チカさま。\nそれは精霊についてのことでしょうか。\nであればわたくし、\n丁度良い場所を知っております。\nみなさまのことも\nご案内いたしますよ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "The elven village... This must be Kokkoro-san's hometown. It is said this is the perfect place to learn more about spirits...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "エルフの里……\nここが\nコッコロさんの故郷なのね。\n精霊に関する資料が一番揃っているっていう……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Uwah, what a beautiful atmosphere! Singing here would feel so good... I'm also curious about traditional elven fabrics and outfits!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "わぁっ、\nキレイな空気～！\nここで歌ったら気持ちよさそう……\nエルフの伝統の生地とか、\n衣装とかも気になるっ！"
+    },
+    {
+      "name": "Chika",
+      "text": "Thank you for bringing me here, Kokkoro-san. Here, the presence of the spirits is closer than ever before... It feels as though the spirits are breathing even within the very village itself.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "連れてきてくれてありがとうございます、\nコッコロさん。\n本当に、\n精霊の気配が近いところ……\n村の中にまで、\n精霊たちが息づいている感じがします。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Welcome, and thank you. I have already spoken to everyone in the village. They said they don't mind if you read the shrine's tomes.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ようこそいらっしゃいました。\n里のみなさまには\nすでに話をしてあります。\n社の書物も閲覧して構わない、\nとのことですよ。"
+    },
+    {
+      "name": "Chika",
+      "text": "Thank you very much. I'll have to go offer those thanks to the villagers too.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ありがとうございます。\n里の方たちにも、\nお礼を言いに行かなくてはいけませんね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Hauu...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………はうぅ……"
+    },
+    {
+      "name": "Chika",
+      "text": "...Ranpha-san? You're all hunched over, what's wrong?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……ランファさん？\n縮こまって、\nどうしましたか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I can't allow myself to be nervous... Everyone's helping me... I have to... hurry and fix this problem...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "緊張\nしてちゃ\nだめ……\nみんな、\n助けて\nくれてるんだもの……\nわたしも……\nはやく、\nなおさなきゃ……"
+    },
+    {
+      "name": "Elven woman",
+      "text": "Everyone! Welcome to the elven village. Who are the ones here for some special training? We're all ready for you! I'm sure the training you will undertake at this shrine shall offer you the results you're looking for.",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "みなさま\nようこそエルフの里へ！　\nどなたが特訓にいらした方ですか？\nもう準備はすっかり整っていますよ！\nこの社での修練が、\nきっと良い結果をもたらしてくれることでしょう。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "KYAH...!? S-Special training...?!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "きゃっ……！？\nと、\n特訓……！？"
+    },
+    {
+      "name": "Chika",
+      "text": "Don't worry, Ranpha-san. I'll be joining you in that training.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "大丈夫ですよランファさん、\n私もご一緒しますから。"
+    },
+    {
+      "name": "Elven woman",
+      "text": "I was so happy to hear that someone was coming here to train after such a long time that I couldn't help but be excited about it! Now, now, hurry up and come with me. The clothes you shall be wearing have also been prepared! This way!",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "久しぶりに修行される方がいらっしゃると聞いて、\nうれしくてつい！\nさ\nあさあ、\nお早くこちらへ。\nお召し物も\nすべて整えてございますからね！　\nこちらですよ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ummm... W-Well, wh-what should I do...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ええっと……\nその、\nわ、\nわたし、\nどう\nしたら……？"
+    },
+    {
+      "name": "Elven woman",
+      "text": "Aaah, it seems I've startled you, my deepest apologies...! I'm the one tasked with managing various things around our shrine. I have something I'd like to give to those who are taking on the training, so I've been waiting for you.",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "ああっ、\n驚かせてしまい\n申し訳ありません……！\n私、\n社で様々なものを管理している者です。\n修行に挑む方に、\nお渡ししたいものがあって\nお待ちしておりました。"
+    },
+    {
+      "name": "Ranpha Chika",
+      "text": "Something... you want to give us?",
+      "choice_data_list": [],
+      "orig_name": "ランファ・チカ",
+      "orig_text": "お渡し、\nしたいもの……？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Hmm~♪ This fabric! No matter how many times I look at it, it's simply amazing! It's soft to the touch and delicate, yet very strong. Not to add I've never seen such a decorative design anywhere else! And it's the perfect size for the two of you!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "う～ん♪　\nこの布、\n何度見てもすごい！　\n手触りは柔らかくて\n繊細なのにすごく強くて。\n飾りの意匠も他では見たことがありません！\nしかもお二人に、\nサイズもぴったりで！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-But...! This outfit is s-so embarrassing... Hyaa!?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでも……！\nこの\n衣装、\nは、\nはずか\nしくてっ……\nひゃぁっ！？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "We should try to have your waist tightened a little. If we do that, it'll match with your body just right! Maybe we should adjust the length too... like that♪",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ウエストのところ、\nちょっとだけ\n詰めましょうか。\nそうするともっと体に沿うようにできますからね！\n丈も少しだけ調整して……\nっと♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "A-Am I... going to wear this while I train...? So much of my bare skin can be seen... though...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わ、\nわたし……\nこれを\n着て、\n特訓、\nするの……？\nこんなに、\n肌が透けてる……\nけどっ……"
+    },
+    {
+      "name": "Chika",
+      "text": "This is a bit much for me too... My sides and feet both feel a little chilly... and isn't my back completely exposed...?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私も\nこれはちょっと……\n脇腹も\n足元もスースーするし……\n背中も\nこんなに大きくっ……？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Not you too, Chika-san! It suits you so well, so try to wear it with confidence! Come on, puff out your chest a little more. If you don't, it'll just make your size gap against hers widen, you know?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "チカさんまで！\nせっかく似合ってるんですから、\nもっと堂々としましょうよ！\nほら、胸を張って。\nそうしないと余計に隙間が空いちゃいますよ？"
+    },
+    {
+      "name": "Chika",
+      "text": "Hold on, Tsumugi, don't just grab my waist out of nowhere, it tickles--Wait, kya...!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "待ってツムギ、\n腰を掴まないで、\nくすぐったいから──\nって、\nきゃっ……！"
+    },
+    {
+      "name": "Chika",
+      "text": "U-Umm... Well...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "え、\nえっと……\nその……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "H-Hauuuu...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "は、\nはうぅぅ～……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "What do you think, everyone?! Aren't those two simply beautiful?!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "どうですかみなさん！\nお二人、\nすっごく素敵じゃないですか！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Hey, those clothes--they're supposed to be for their special training, right? Not a set of dancer outfits.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……ねぇ\nこれ、\n一応特訓用の衣装なのよね？\n踊り子さんの衣装じゃなくて。"
+    },
+    {
+      "name": "Elven woman",
+      "text": "What a poorly thought out comment! Those are genuine, ancient and honorable garments.",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "何を言ってるんですか！\n正真正銘、\n古くから伝わる\n由緒正しいお召し物ですよ。"
+    },
+    {
+      "name": "Elven woman",
+      "text": "It is said that such a style of outfit was once worn by a famous spirit user when he trained his own disciples.",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "こちらは、\nかつてさる高名な精霊使いが\n自身の弟子を鍛える際に\n共に纏ったとされているんです。"
+    },
+    {
+      "name": "Elven woman",
+      "text": "He dressed his disciples in white robes, and had them learn with minds as pure as these robes. While he himself wore black robes, and stood by his disciples like a shadow, supporting them.",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "弟子には白い衣を纏わせ、\nこの衣装のように\nまっさらな心で学ぶように。\n自身は\n黒い衣を纏い、\n影のごとく弟子に寄り添い、\n支えようと。"
+    },
+    {
+      "name": "Elven woman",
+      "text": "The thinness of those clothes is imbued with a wish... to be able to communicate with the spirits. Of course, they're also endowed with divine protection, and although they might feel as light as air, they also have very high defensive power.",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "この布の薄さは、\n精霊たちと心を通わせられるように……\nという願いが\n込められているとか。\nもちろん\n加護が付与されていて、\nまるで空気の\nように軽いのに、\n防御力もとても高いんですよ。"
+    },
+    {
+      "name": "Elven woman",
+      "text": "This is, without a doubt...! A testament to the love and determination of the master towards his disciples. I'm sure it will be of great use to you two!",
+      "choice_data_list": [],
+      "orig_name": "エルフの女性",
+      "orig_text": "これはいわば──\n師匠から弟子への、\n愛と決意の証なのです。\nきっと\nお二人のお役に立つでしょう！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I-I see... But I don't really think any of that explains why their skin has to be so exposed... Wait, what's wrong, you two?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "な、\nなるほど……\nでもそれって\n露出とは関係ないんじゃ……\nって、\n二人とも？"
+    },
+    {
+      "name": "Chika",
+      "text": "...I didn't understand anything. This outfit is filled with the sincere feelings of our ancestors... And yet to be ashamed of it... I can't find words to excuse my rudeness.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……\n私、\nなにも分かっていませんでした。\nこの衣装には、\n先人の真摯な想いが込められている……\nなのにそれを恥ずかしがるだなんて……\nこんなの、\n失礼ですよね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "A mind as pure as those robes... I hadn't even thought about that at all...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "まっさらな\nこころで……\nわたし、\nそんなこと\n全然\n考えてなかったわ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "What?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "えっ？"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san, we shouldn't be ashamed of those outfits... Once more, let's do our best together!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさん。\nこの衣装に恥じないように……\n改めて、\n一緒に頑張りましょう！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Yes... I hope I can live up to the history behind this outfit... I'll be in your care...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ええ……\nこの衣装に\n応えられるように……\nよろしく\nお願いします……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Could it be, am I the only one who's being weird about it?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……もしかして、\nおかしいのは私のほうなの？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Just a moment ago, I saw you looking through the shrine's tomes, Lady Chika. Did they offer you any insight?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "さきほど、\nチカさまは書物も確認されていましたが。\nなにか手掛かりはありましたか？"
+    },
+    {
+      "name": "Chika",
+      "text": "Yes. After examining those ancient scriptures, it seems that my guess from before was proven correct. Therefore, Ranpha-san...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ええ。\nやはり、\n文献を調べてみたら、\n私の予想した通りだったようです。\nですから、\nランファさんには──"
+    },
+    {
+      "name": "Ranpha",
+      "text": "A Song Summoner's... song? And you want me to compose it...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "唱喚士の、\n歌……？\nそれを、\nわたしが\n作るの……？"
+    },
+    {
+      "name": "Chika",
+      "text": "Indeed. In the first place, it's common practice for us Song Summoners to start our role by chanting up a spirit with a song we created ourselves, then form a contract with it to borrow its powers... atleast, that's the general flow of things.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ええ。\nそもそも私たち唱喚士は、\n最初は自ら作り出した歌で精霊を唱喚し、\n契約して力を借りる……\nというのが\n一般的な流れです。"
+    },
+    {
+      "name": "Chika",
+      "text": "So, in a normal flow, once a Song Summoner forges a contract with a spirit, they don't need to create a new song on their own past that... To tell the truth, when I was quelling those monsters, I witnessed a spirit I'd never seen before.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ですから本来唱喚士は\n一度契約をすれば、\nそれ以降自分で新しい歌を生み出す必要はないのですが……\n実は魔物を鎮めていたとき、\n過去に見たことない精霊を目撃したんです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "So, could the strange feeling Lady Ranpha felt be due to...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "では、\nランファさまが抱かれた違和感は、\nもしや……"
+    },
+    {
+      "name": "Chika",
+      "text": "Yes. Most likely it's because that spirit was trying to connect with Ranpha-san. Though I don't know the reason why...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ええ。\n恐らくその精霊が、\nランファさんと繋がろうとしたせいだと思います。\n理由は分からないけれど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Spirits, unless absolutely necessary, do not initiate contact with others. Perhaps there's something that spirit wants to tell Lady Ranpha.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "精霊というのは\nよほどでない限りは、\n自分からかかわりを持とうとはしないものです。\nランファさまに\n何かしら伝えたいことがあるのかもしれませんね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Because of that spirit’s influence, Ranpha-san is unable to control the magic channeled through her song... I guess that’s how it is.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "その精霊の影響で、\nランファさんの歌の魔力も\nコントロールができなくなっているかもしれない……\nってことかしら。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Umm... then... if I were to make a Song Summoner's song for that spirit... Will I be able to... ...return to normal?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっ\nと……\nそれじゃ……\nその\n精霊さんの\nための、\n唱喚士の歌を、\n作れば。\nわたしは、\nもとに……\n戻れる？"
+    },
+    {
+      "name": "Chika",
+      "text": "If that'll lead you to form a contract with it, I'm sure you will. Otherwise, things might get even worse. That's why, let's make sure to do our best together, Ranpha-san.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "契約を交わせれば、\nきっと。\nそうでなければ\nもっと悪くなってしまうかも。\nだから、\n一緒に頑張りましょう、\nランファさん。"
+    },
+    {
+      "name": "Chika",
+      "text": "Yes, that's what I've always known. The song used to become a Song Summoner has to be composed by the singer herself. It's a necessary step to form a strong bond with the spirits.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ええ、\n私はそう聞いています。\n唱喚士になるための歌は、\n自分一人で作るもの。\n精霊たちと強い絆を結ぶために、\n必要なことなんです。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "But if Song Summoners are as amazing as you make them sound, I feel like there might actually be some amazing power behind the craft nobody knows about. Like if you were all to sing together, just imagine what kind of power you'd generate...! Stuff like that.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "でも唱喚士がこんなに特殊なら、\n実は誰も知らないすごい力とか、\nあってもいい気がしますけどね。\nみんなで一緒に歌ったらすごい力が……！　\nとか。"
+    },
+    {
+      "name": "Chika",
+      "text": "I wonder about that... It's rare for multiple Song Summoners to gather together in the first place. Maybe it's just knowledge I'm not aware of.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "どうでしょう……\nそもそも唱喚士が何人も揃うことがまれですし。\nもしかしたら、\n私が知らないだけかもしれないですけどね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-Besides... To sing together is one thing, but to be using chanting techniques together... that sounds impossible...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでも……\n一緒に\n歌うだけじゃなく、\n唱喚まで\nなんて、\n無理\nだと\n思うわ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "That just goes to show how things might not always go as planned. Being a Song Summoner sure sounds tough...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "なかなか思う通りにはいかないってことなのね。\n唱喚士って\n大変ね……"
+    },
+    {
+      "name": "Chika",
+      "text": "Ah, that said... It's true that us Song Summoners don't have many comrades or knowledge to go by, but we do know how to have fun.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "あっ、\nですが……\n確かに唱喚士は仲間も資料も少ないですけど、\nちゃんと楽しいこともあるんですよ。"
+    },
+    {
+      "name": "Chika",
+      "text": "For example, when I'm chanting, I feel like I'm connected to this world through the breath of nature and the spirits.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "例えば唱喚をしているとき。\n自然の息吹と、\n精霊たちを通して──\n自分がこの世界と繋がっているんだと感じるんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "To a Song Summoner, a song... is a way to exchange their innermost feelings with nature and the beings who live within it. That's exactly why, one needs to take their time to compose a new song properly.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "唱喚士にとって歌は、\n自然や共に生きる存在と想いを交わすもの。\nだからこそ、\n時間をかけてちゃんと向き合う必要があります。"
+    },
+    {
+      "name": "Chika",
+      "text": "It may take some time for us to resolve this matter, but... Fear not, Ranpha-san. As a fellow Song Summoner, I'll do my best to support you!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "解決には時間がかかるかもしれませんが……\n安心してくださいね、\nランファさん。\n同じ唱喚士として、\n私も精いっぱいサポートしますから！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "S-Sure...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "え、\nええ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "\"Singing is a way to exchange my innermost feelings with nature and the beings who live within it\"... I've never thought about it like that...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "歌は、\n自然や\n共に生きる存在と\n想いを\n交わすもの……\n……\nそんなこと、\n考えたこと\nなかったわ……"
+    },
+    {
+      "name": "ランファ",
+      "text": "それに、\n精霊と\n契約なんて……\nわたし、\nしたこと\nあったかしら……？　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "それに、\n精霊と\n契約なんて……\nわたし、\nしたこと\nあったかしら……？　"
+    },
+    {
+      "name": "Sheffy",
+      "text": "But, that brings up a question... what kind of training should she do to compose a proper song? It's hard to give form to what's in your heart...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "でも、\n歌を作る特訓なんて\n何をすればいいのかしら？\n心の中を形に、\nっていうのも\n難しいわよね……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "To start, how does singing in front of a crowd sound? She should begin by simply singing normally, and eventually try with her chanting technique.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "とりあえず、\n人前で歌ってみるとかどうですか？\nまずは唱喚術じゃなくて、\n普通の歌で。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "True enough, singing for spirits means singing to an invisible crowd... If you have someone in front of you and sing as if you're directing your feelings towards that person, then what you want to communicate might become a little clearer.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "確かに、\n精霊は普段見えないし……\n目の前に誰かいてもらって、\nその人に向けるつもりで歌えば\n伝えたいことも多少は明確になるかもしれないわね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "{0}-kun, it's okay... I'll try singing... As long as I don't put magical energy behind it... it probably won't have any effect on monsters...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "{0}くん、\n大丈夫よ……\nわたし、\n歌って\nみるわ……\n魔力を\n乗せなければ、\n魔物にも……\nたぶん、\n影響は\nない\nから……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "It's just, umm... would it be okay if I sung in front of you all...? Singing in front of strangers... it's still a little too...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ただ、\nその……\n歌うのは、\nあなたたちの\n前で\nいい……？\n他のひとの前は、\nまだ、\nちょっと……"
+    },
+    {
+      "name": "ランファ",
+      "text": "……～～♪",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……～～♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "It's okay... If it's in front of {0}-kun and everyone else, I can sing... There is only a calm atmosphere and gentle sounds in here...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "大丈夫……\n{0}くんや\nみんなの前なら、\n歌える……\nここには\n穏やかな\n空気と、\n優しい音だけ……"
+    },
+    {
+      "name": "ランファ",
+      "text": "あとは、\n歌を……\n想いを……\n届ける……\n……\nでも、\nどんな\n想いを……？　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あとは、\n歌を……\n想いを……\n届ける……\n……\nでも、\nどんな\n想いを……？　"
+    },
+    {
+      "name": "Elven Boy",
+      "text": "Huh? Wow! Hey, Papa! I can hear a really beautiful song coming from here!",
+      "choice_data_list": [],
+      "orig_name": "エルフの少年",
+      "orig_text": "あれ？\nわぁ～～～！　\nねぇパパ！　\nすっごくきれいな歌が聞こえるよ！"
+    },
+    {
+      "name": "Elven Man",
+      "text": "Oh, you're right. Are you all travelers? Could we stop by to hear this too?",
+      "choice_data_list": [],
+      "orig_name": "エルフの男性",
+      "orig_text": "おお、\n本当だ。\n旅の人だろうか。\n私たちも聞かせてもらえるかな。"
+    },
+    {
+      "name": "ランファ",
+      "text": "…っ！\nえ、\nえっと……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…っ！\nえ、\nえっと……"
+    },
+    {
+      "name": "Elven Girl",
+      "text": "Onee-san, you sure are good at singing! Hey, is that one of the songs they sing in the royal capital? What other songs can you sing? I want to hear more!",
+      "choice_data_list": [],
+      "orig_name": "エルフの少女",
+      "orig_text": "おねえさんお歌じょうずね！\nねぇねぇ、\nそれ王都の歌なの？　\n他にはどんな歌が歌えるの？\nもっと聞きた～い！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah, uuu...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あ、\nうぅ……っ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I-I'm so sorry...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ご、\nごめん\nなさ\nいっ……！"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san? Please wait!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさんっ？\n待ってください！"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san, she looked so sad...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさん、\n落ち込んでたな……"
+    },
+    {
+      "name": "Chika",
+      "text": "After that, {0}-san managed to find Ranpha-san...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "あの後、\n{0}さんが\nランファさんを捜し出してくれたけど……"
+    },
+    {
+      "name": "Chika",
+      "text": "As her Song Summoner-senpai, I should be there to encourage her. And yet, I couldn't find the proper words to tell her even when she came back. I couldn't even find a lead on that spirit through those tomes...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "唱喚士の先輩として、\nちゃんと励ましてあげなきゃいけないのに。\nなのに、\n咄嗟に言葉が出てこないなんて。\nあの精霊の文献も見つからないし……"
+    },
+    {
+      "name": "Chika",
+      "text": "Hah...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "は\nぁ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Chika, I've brought you a warm drink. Staying up too late can be bad for your health.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "チカさま、\n温かい飲み物をお持ちしました。\nあまり遅くまで起きていると\nお体に障りますよ。"
+    },
+    {
+      "name": "Chika",
+      "text": "Kokkoro! Thank you very much. But, right now, you should probably be worrying more about Ranpha-san than me.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "コッコロさん！\nありがとうございます。\nでも今は、\n私よりランファさんのことを心配してあげてください。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "However... To my eyes, Lady Chika seems just as depressed as Lady Ranpha is.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ですが……\nわたくしには、\nチカさまも\nランファさまと同じくらい\n落ち込んでいるように見えますよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Besides, even if I were to talk to her now, Lady Ranpha would only blame herself more. ...That's why, this course of action is indeed correct.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それに\n今話しかけても、\nランファさまはかえって\nさらにご自分を責めてしまいますから。\n……\nですから、\nこれぐらいで良いのです。"
+    },
+    {
+      "name": "Chika",
+      "text": "Kokkoro-san, you really a pro when it comes to being aware of your surroundings... Um, Kokkoro-san. From your experience, is there any secret behind guiding someone?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "コッコロさんは\n本当に周りをよく見ているんですね……\nあの、\nコッコロさん。\n誰かを導く時に、\n極意とかって\nあるんでしょうか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "A secret, you ask...? ...If I had to say: \"Observe the other person carefully, think about them and make sure to exchange words\". ...I suppose.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "極意、\nですか……？\n……\n強いて言うなら\n「相手をよく見て、\n考え、\n言葉を交わすこと」\n……でしょうか。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "And in that regard... I can guarantee that you're an hard worker, Lady Chika.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "その点で言えば……\nチカさまは\nとてもがんばり屋でいらっしゃいますね。"
+    },
+    {
+      "name": "Chika",
+      "text": "What?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "えっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm not a Song Summoner, so I can't pretend to understand all of your current feelings, Lady Chika. But... I think I can understand a little bit about that loneliness you feel generated from solitude.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしは\n唱喚士ではありませんから、\nチカさまのお気持ちすべては理解できません。\nですが……\n孤独の寂しさは、\n少し分かるつもりです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As a lone Song Summoner, you never forgot your aspirations and are single-mindedly devoted to your mission. I think that in and of itself is a great example of \"hard-work\".",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "孤高の唱喚士として、\nどんなときも志を忘れず、\n自らの使命にひたむきに取り組んでいらっしゃる。\nそれは\n立派な『がんばり』だと、\nわたくしは思いますよ。"
+    },
+    {
+      "name": "Chika",
+      "text": "Kokkoro-san...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "コッコロさん……"
+    },
+    {
+      "name": "Chika",
+      "text": "It's as if she's willing to accept even my worst flaws... So this is Kokkoro-san's famous tolerance...! By hearing such genuine kind words, I...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "まるでダメなところすら\n受け入れてくれそうな……\nこれがコッコロさんの包容力……！\nこんな優しい言葉を聞いたら、\n私……"
+    },
+    {
+      "name": "Chika",
+      "text": "M-Mama...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "マ、\nママ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh my...? You must be really tired, it seems. In that case, you should stop scouring through those tomes and take a break together with me. There, there...♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おや……？　\nやはりお疲れだったのですね。\nであれば\n文献探しの手を止めて、\n一緒に休憩しましょう。\nよしよし……♪"
+    },
+    {
+      "name": "チカ",
+      "text": "こんな、\nダメなのに……\n年下の子に頭をなでなでされて……\n恥ずかしいのに、\n抗えない……！　",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "こんな、\nダメなのに……\n年下の子に頭をなでなでされて……\n恥ずかしいのに、\n抗えない……！　"
+    },
+    {
+      "name": "Chika",
+      "text": "So there are ways to get closer to someone like this... For now, I'll take advantage of this kindness she's showing me if only for a little longer... No, I mean, I'll learn from it...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "こうやって相手に寄り添う方法もあるのね……\n今はもう少しだけ、\nこの優しさに甘えさせて……\nじゃなくて。\n勉強させてもらおう……"
+    },
+    {
+      "name": "Narration",
+      "text": "Chika talked with Kokkoro and was able to ease some of the tension in her heart. Meanwhile, somewhere else...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "チカがコッコロと共に話をし、\n心の緊張を少しだけ解いた、\nその一方──"
+    },
+    {
+      "name": "Sheffy",
+      "text": "*yawn*... I can't sleep for some reason. Maybe it's because I read so much text all at once after such a long time...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ふぁ……\nなんだか眠れないわ。\n久々に文字を一気に読んだせいかしら……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Ah.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……あっ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Umm...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……えっと……"
+    },
+    {
+      "name": "Narration",
+      "text": "Ranpha was staring blankly at the night sky when she happened to come across Sheffy, who was out for a walk. Unable to immediately converse, an awkward silence fell between the two.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ぼんやり夜空を見上げているランファと、\nそこに出くわしてしまった、\n散歩中のシェフィ。\n咄嗟に会話ができない二人の間には、\n気まずい沈黙が流れるのだった。"
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "title": "Wandering Armor",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Meanwhile, back at the palace...\nHeading through the gate to investigate the commotion,\nJun finds herself faced with a disturbing sight.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方そのころ……\n異変を察知して『王宮』内部に踏みこんだジュンは、\n不可思議な光景を目撃していた。"
+    },
+    {
+      "name": "Royal Knight?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "Wh-what's wrong, soldier?\nWhy're you attacking me? Is this an uprising?! ...Nguaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士",
+      "orig_text": "な、\n何なんだ貴様は？\nどうして攻撃してくるっ、\nまさか謀反か\n……\nうぎゃあああ！？"
+    },
+    {
+      "name": "Royal Knight?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Royal Knight?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士？？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Jun",
+      "text": "What in the world is going on here?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……どういう状況だ、\nこれは？"
+    },
+    {
+      "name": "Jun",
+      "text": "My fellow knights of Nightmare are attacking one another?\nAnd they're striking to kill? Why would they do such a thing?",
+      "choice_data_list": [
+        "Jun!"
+      ],
+      "orig_name": "ジュン",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】のみんなが、\n互いに斬り結んでいる……\n殺しあっているのか？\n仲間同士で、何故？"
+    },
+    {
+      "name": "Jun",
+      "text": "Hm?\nAh—young man. I thought I told you it's too dangerous here.\nYou should follow your elders' instructions.",
+      "choice_data_list": [
+        "I'm sorry.",
+        "I was worried about you..."
+      ],
+      "orig_name": "ジュン",
+      "orig_text": "……むっ？\nあぁ少年、\n危険かもしれないから帰れと言っただろう？\n年長者の言うことは聞いてほしいよ。"
+    },
+    {
+      "name": "Jun",
+      "text": "Yes, that's the right attitude.\nIf you were to be injured, I would never forgive myself.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "うん。\n反省してほしい。\n君が怪我でもしたら、\n私はずうっと後悔してしまう。"
+    },
+    {
+      "name": "Jun",
+      "text": "This may be a selfish request...\nBut I would like you to put your own safety first, for me.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "我が侭な話ではあるけど……\n私のために、\n今後はもっと自分の身を大事にしてほしいな。"
+    },
+    {
+      "name": "Jun",
+      "text": "...I see. Your concern touches me, but it is not necessary.\nThis is, after all, my job. I am prepared to face danger.\nYou, however, are a mere civilian, are you not?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……\nそうか。\n嬉しくはあるけど、\n気遣いは無用だ。\nこれが私の仕事だしな、\n危険は承知の上ではある。\nでも君は、\n平和に暮らすべき善良な市民だろう？"
+    },
+    {
+      "name": "Jun",
+      "text": "...Still, this is no time to stand around talking.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……おっと、\n呑気にお喋りしてはいられないな。"
+    },
+    {
+      "name": "Jun",
+      "text": "With all these knights fighting wildly,\nwe must take swift but considered action.\nYou should try to stay behind me, young man.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あちこちで暴れているものがいるし、\n迂闊に動かないほうがいいだろう。\n私の後ろに隠れていてほしい、\n少年。"
+    },
+    {
+      "name": "Jun",
+      "text": "The situation is far from clear,\nbut first, I should attempt to stop the fighting.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "状況はよくわからないけど、\nまずは戦っているみんなを止めないと。"
+    },
+    {
+      "name": "Jun",
+      "text": "Comrades! What is the meaning of this?\nI order you to desist from combat at once!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "おまえたち！　\nこれは何の騒ぎだっ？\n即刻、\n戦闘行為を中断せよ！"
+    },
+    {
+      "name": "Jun",
+      "text": "The royal palace, where our esteemed monarch dwells,\nis no place for unrestrained brutality!\nHave you no shame?!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "高貴な方々がおわす『王宮』で\n乱痴気騒ぎを繰り広げるなど言語道断、\n末代までの恥だぞ！"
+    },
+    {
+      "name": "Royal Knight Captain",
+      "text": "Ahhh, Captain! Are you still yourself?\nTh-these knights started attacking us out of nowhere... Aaghh!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士隊長",
+      "orig_text": "あぁあっ、\n団長！　\n団長は正気ですかっ？\nこ、こいつら、\nなぜかいきなり襲いかかってきて……\nひぇっ！？"
+    },
+    {
+      "name": "Jun?",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ジュン？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Jun",
+      "text": "...Hmm?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……むっ？"
+    },
+    {
+      "name": "Royal Knight Captain",
+      "text": "Wh-wha...?\nAm I seeing double?",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士隊長",
+      "orig_text": "あ、\nあれ？\n団長がふたり……？"
+    },
+    {
+      "name": "Jun?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "ジュン？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Royal Knight Captain",
+      "text": "Aaaghhh!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士隊長",
+      "orig_text": "ひぃいっ！？"
+    },
+    {
+      "name": "Jun",
+      "text": "Look out!\nDon't just run around like a headless chicken—\nput up some resistance!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "危ない！\nおまえも怯えて逃げ惑っていないで、\n抵抗ぐらいしろ！"
+    },
+    {
+      "name": "Jun",
+      "text": "What do you think all your rigorous training is for?!\nIt's so you can handle emergencies like this!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "何のために日頃から厳しい訓練を受けているんだっ、\nこういう緊急事態が発生したときのためだろうが！"
+    },
+    {
+      "name": "Royal Knight Captain",
+      "text": "R-right!\nI'm sorry! I just don't understand what's happening—?!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士隊長",
+      "orig_text": "は、はい！\nすみませんっ、\nでも\n何がなんだかわからなくて……！？"
+    },
+    {
+      "name": "Jun",
+      "text": "Nor do I.\nBut we must nonetheless take action!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "それは私も同じだ。\nでも対応しないわけにもいかないだろう？"
+    },
+    {
+      "name": "Jun",
+      "text": "Preserving the peace within the palace\nis our very highest priority as Nightmare, Defenders of the Throne.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "『王宮』内部の平穏を保つのは、\n我ら【王宮騎士団（NIGHTMARE）】の最優先事項だ。"
+    },
+    {
+      "name": "Jun",
+      "text": "So save your complaints for later!\nAll knights of Nightmare, if you hear and understand my words,\ndraw your blades and stand firm!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "泣き言は後にしろ！\n【王宮騎士団（NIGHTMARE）】総員、\n私の言葉が理解できるなら\n構えて対応しろ！"
+    },
+    {
+      "name": "Jun",
+      "text": "In the name of peace and justice, we must overcome this crisis!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "正義と平和のために、\n最善を尽くせ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahahah! ☆\nYou're as respectable and deathly serious as ever—\nor should I say, no fun at all! Eh, Captain?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あっははは☆\n相変わらず生真面目というか優等生というか、\nまったく面白味のないことばかり言うね……\n団長？"
+    },
+    {
+      "name": "Jun",
+      "text": "Ah—Chris! I mean, Vice-Captain Christina!\nI should have known you would not miss such a chaotic situation.\nHowever do you do it?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あっ、\nクリスちゃ……\nクリスティーナ副団長！\nこういう混沌とした状況だと\n必ず当たり前のように顔を見せるなぁ、\nむしろ感心するぞ？"
+    },
+    {
+      "name": "Christina",
+      "text": "Oh, I just happened to be around.\nThe chaos naturally finds me!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "いや、偶々だけどね。\n混沌がワタシを呼ぶのさ。"
+    },
+    {
+      "name": "Christina",
+      "text": "In fact, I was enjoying a cup of tea with Her Majesty,\nso this interruption is frankly quite irritating.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "『陛下』と個人的にお茶を楽しんでいる最中だったので、\nそれを邪魔されてなかなか腹が立っているよ。"
+    },
+    {
+      "name": "Jun",
+      "text": "And are you... ah, how to say... entirely sane?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "おまえは、\nえぇっとそのう……\n正気なのか？"
+    },
+    {
+      "name": "Christina",
+      "text": "I get asked that a lot.\nBut really, how can anyone be expected to judge their own sanity?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "よく聞かれるけれど。\n実際、\n正気かどうかの判断などいったい誰につけられる？"
+    },
+    {
+      "name": "Christina",
+      "text": "By what standards should I measure it?\nEven a god cannot know the state of his own mind! Ahahah! ☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "どんな物差しを使えばいい？\n神さまですら区別するのは無理だろうさっ、\nあっはは☆"
+    },
+    {
+      "name": "Christina",
+      "text": "So for mere mortals like ourselves, the best we can do\nis to follow the ideals we believe in.\nIs that not the way of Nightmare, my dear captain? ♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "神ならぬ我らにできることは、\n己の物差しで……\n己の正義に基づき行動することのみ。\nそれが【王宮騎士団（NIGHTMARE）】の流儀だろう、団長♪"
+    },
+    {
+      "name": "Jun",
+      "text": "Yes... I suppose so.\nI'm glad to see your mind seems clear, Chris.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あぁ……。\nそれはそうだ。\n良かった、\nクリスちゃんは冷静だな。"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmph.\nI've told you enough times,\nonly my friends may address me in that way.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ふん。\n何度も言っているが、\nワタシを『クリスちゃん』と呼んでいいのは友達だけだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "And it irritates me to receive such praise\njust for plainly speaking my mind.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "それにテキト～なことを言っただけだし、\n感心されると背中がかゆくなるよ。"
+    },
+    {
+      "name": "Jun?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "ジュン？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Christina",
+      "text": "...Well, well. Bold of you to interrupt my banter\nwith our uncharacteristically agitated captain.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……\nおっと。\n野暮だね、\nせっかく珍しく口下手な団長とお喋りを楽しめていたのに。"
+    },
+    {
+      "name": "Christina",
+      "text": "Still, I must say, if you must imitate her, at least do a better job!\nYou'll earn no applause with that third-rate act, irritating clown!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "しかしまぁ、\n物真似をするならするで\nもっと上手にすることだ！\n拍手をしてやる価値もないねっ、\nあぁ忌々しい！"
+    },
+    {
+      "name": "Christina",
+      "text": "Your swordplay, your movements—all unrefined and hopelessly\ninadequate! How shameful! Do you mean to kill me with laughter?\nIf this is your best impression of our captain, you'll never be an actor!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "その剣筋も体捌きも、\n何もかもが洗練されていなくて貧弱！　\n不様！\n臍で茶が湧くねっ、\nそれで団長のふりをしているつもりなら\n猿真似も良いところだ！"
+    },
+    {
+      "name": "Christina",
+      "text": "This is an insult to the woman I begrudgingly respect—\nno, to all knights of this realm! I'll free your head from\nthose shoulders, so kiss the filthy ground and repent!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ワタシもそれなりに認めている団長に対しての、\nいいや\n騎士に対しての有り得ん侮辱だ！\n首を落としてやるから、\n床にキスをしながら不敬を恥じるといいよ！"
+    },
+    {
+      "name": "Jun?",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "ジュン？",
+      "orig_text": " ──ギャオオオオオッ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmm? That felt a little [i]too[/i] easy...",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……むっ、\n手応えが薄い。"
+    },
+    {
+      "name": "Jun",
+      "text": "Ahh... It's more than a little uncomfortable to stand and watch\nas a foe with my own appearance is summarily beheaded.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "うわ……\n自分と同じ外見をしたものが首を切り落とされる光景は、\nあんまり見ていて気持ちの良いものじゃないな。"
+    },
+    {
+      "name": "Jun",
+      "text": "And if I may, Chris, it seems unwise to execute the enemy\nbefore we are even certain of its nature.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "あとクリスちゃん、\n相手が何者かもわからないのに\n問答無用で殺しちゃ駄目だ。"
+    },
+    {
+      "name": "Christina",
+      "text": "Well, aren't you the saint.\nBut alas, it seems these foes may not fit so neatly\ninto your preconceptions of morality.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……お優しいことで。\nしかしまぁ、\nどうやらそういう常識的な気遣いをしても仕方がない相手のようだぞ？"
+    },
+    {
+      "name": "Jun?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "ジュン？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Jun",
+      "text": "It stood back up?\nAfter its head was sliced clean off?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……復活した？\n首を落とされたのに？"
+    },
+    {
+      "name": "Royal Knight?",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Christina",
+      "text": "Hmm. And what's more, it seems to be gathering\nseveral more of its kind.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ふむ。\nおまけに、どんどん同じように様子がおかしい連中が集まってくる。"
+    },
+    {
+      "name": "Christina",
+      "text": "What are these beings?\nTheir strength is hardly impressive...\nBut their nebulous nature is a little unnerving.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "何なんだろうこいつらは、\nあまり強くはないようだが……\n正体不明でやや不気味だな？"
+    },
+    {
+      "name": "Jun",
+      "text": "Hmm...\nThey are like phantoms from a bad dream.\nCould they perhaps be the \\\"Shadows\\\" I have heard rumors of?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "う～ん……\nわからない、\n悪い夢のようだ。\nあれだろうか、\n近頃噂の『シャドウ』というやつか？"
+    },
+    {
+      "name": "Christina",
+      "text": "Ah, those strange monsters that have appeared of late,\ntaking the form of other living souls... I've faced them\na few times myself, but these phantoms seem a little different.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あぁ\n実在する人物とほぼ同じ見た目をした、\n魔物のようなもの……\nというやつか。\nワタシも何度か交戦したことがあるが、\nあれとも異なる存在のような？"
+    },
+    {
+      "name": "Christina",
+      "text": "Or so it feels to me. At least, the Shadows I've encountered\ncould be felled with an ordinary fatal blow.\nBut these, it seems, are able to recover from any injury.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "勘だがね。\nすくなくとも、\n『シャドウ』は常人なら死ぬ程度のダメージを与えれば倒せたぞ。\nだが、\nこいつらは首を落としても手足を飛ばしても平然としている。"
+    },
+    {
+      "name": "Christina",
+      "text": "What's more, if my eyes do not deceive me,\nthere is nothing inside that armor.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "しかも。\n先ほどちらりと見えたが、\n鎧のなかみは空っぽだったな。"
+    },
+    {
+      "name": "Christina",
+      "text": "Shadows, though mere imitations, do possess physical bodies.\nBut these beings are all deceptive appearances.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "『シャドウ』は曖昧ながら肉体のようなものを有しているはずだが、\nこいつらは上っ面だけの張りぼてだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "How tedious.\nWhat use is a foe with no flesh to rend,\nand no screams nor blood to garnish the taste of victory?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "つまらないね。\n肉を切り刻む手応えを感じながら、\n悲鳴や返り血を浴びて戦うのが愉しいのに。"
+    },
+    {
+      "name": "Jun",
+      "text": "I fear I may never understand your tastes, Chris...\nBut if these are not Shadows, the question remains: what are they?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "クリスちゃんの嗜好にはついていけないが……\n『シャドウ』ではないなら、\nこいつらは何者なんだろう？"
+    },
+    {
+      "name": "Christina",
+      "text": "Who knows? Do I look like a scholar or philosopher?\nI have little interest in classifications.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さぁ？\nワタシは学者じゃないからわからないよ、\nあまり興味もないしね。"
+    }
+  ]
+}

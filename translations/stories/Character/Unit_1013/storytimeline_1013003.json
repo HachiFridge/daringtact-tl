@@ -1,0 +1,533 @@
+{
+  "title": "Nanaka Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Today, Nanaka has asked {0} to meet her\non the Esterella Road.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}はナナカに呼ばれて、\nエステレラ街道に来ていた。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Hey hey! There you are, my trusty mascot! Perfect timing!\nHave you learned to transform into a cute animal yet?",
+      "choice_data_list": [
+        "Aren't we doing your usual rounds today?"
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "やあやあ！　\nよくぞ参ったマスコットくん！\n待ってたよ～！　\n小さい動物に変身する技は会得出来た？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Doing the rounds is great, but today I have other plans!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "定期巡回もいいけど、\n今日は違う用事なのだー！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "You remember I told you I work at a second-hand shop?\nWell, occasionally we get customers looking for lost items.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "私、\n古物屋で働いてるって話したことあったじゃん？\nたまーにお客さんから探し物の依頼がくるわけよ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "When I actually accepted one of their requests, it was such a success,\nI ended up turning it into a sort of side business.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "一回人助けのためにやったのが評判良くてさー\nそっからは仕事として請け負うことにしたんだー"
+    },
+    {
+      "name": "Nanaka",
+      "text": "So that's what we're doing today.\nI called you out here to help me track down the treasure!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "んで、\n今回も依頼が入ったから、\n相棒の君にも手伝って貰おうと思って声をかけたなり！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I haven't found any leads on our mystery man,\nso until there's progress on that front,\nI thought we could make this our team activity!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "例の謎の男の情報も入って来ないから、\nなにか動きがあるまで、\n君と仕事をして親交を深めたいのだよー"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Now, let's join hands and overcome the shackles of despair!",
+      "choice_data_list": [
+        "In the shadow of despair lies hope!",
+        "Despair is your destiny, magical girl!"
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "さあ、\n共に手を取り合い絶望に立ち向かおうではないか！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ooh! That line's straight out of the manga I'm reading!\nHow come you know it too?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "おー！　\n私が読んでる漫画の台詞！\nなんで君が知ってるのー？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Noooo! That's the villain's line from volume two!\n...Wait, why do you know the lines from the manga I'm reading?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ちっがーう！　\nその台詞は二巻の敵のだよー！\n……って、\nなんで君が私の読んでる漫画の台詞を？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "You've been studying up on my favorite series, Magical Girl Celly?\nWhoaaa! Awesome! You're a god among men!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "密かに私の好きな\n『魔法少女セリイちゃん』を見て勉強してた……？\nおおー！　\n神！　\nなんという俺得展開！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I knew you were a great partner, but you're a true comrade too!\nI am in awe of your nerd cred right now!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "最高の相棒だと思ってたけど、\n本物の同志だなんて……！\n私は今、\nモーレツに感動している……！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "We must get together and share notes!\nOoh! I am so hyped for this!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "今度是非語り合う会を開いて……\nくはー！\n　たー\nまー\nりー\nまー\nせんなー！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Hm? We've veered off topic?\nBahah! Sorry about that!\nYou know how I get carried away sometimes!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "え？　\n話が逸れてる？\nキャハー、\nこれは失敬！\nテンションが上がりすぎてしまいましたな！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "All righty then, why don't we head into the woods?!\nPrivate {0}! Forward march!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "でわ早速、\n依頼のあった森に向かうとしますぞ！\n{0}隊員よ！　いざ出陣！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Our client for this job...\nis looking for a pendant her husband gave her.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "今回の依頼主はねー\n旦那さんから貰ったペンダントを探してるんだって。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "She was attacked by a monster while gathering herbs in these woods.\nand lost the pendant as she fled the scene.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "この森で薬草採取してる時に魔物に襲われて、\n逃げてる最中に落としちゃったみたい。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "She said it's an important memento,\nso I want to get it back to her without fail!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "大切な思い出の品って言ってたから、\n絶対見つけてあげたいなって思ってるわけよ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I mean, this item's full of memories, right?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "だって、\n思い出が詰まった物なんだよ？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "So that's like... Right!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "それは\nまるで……\nそう！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Like losing limited merch that you lined up all day to buy\nin the blazing heat of summer!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "猛暑の中で並んで、\n苦労して買った限定グッズを\n無くしちゃうのと同じくらいツラいと思うの！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "So I won't accept anything but a successful outcome!\nNow, let's work together and recover our client's lost smile!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "だから、\nこの依頼は絶対成功させたいってわけ！\nさあ、\n二人で協力して依頼主の笑顔を取り戻そうではないか！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Hmm... This is weird.",
+      "choice_data_list": [
+        "What's up?",
+        "No pendants to be seen..."
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "んー……\nおっかしいなー"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Don't you sense it? This strange atmosphere...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "気付かない？　\n森の違和感に……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Oh, well, that's an issue too, yes,\nbut there's something else bugging me...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あ、\nうん\nそれもそうなんだけど、\nそれ以上に不思議なことが……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "These parts should be teeming with monsters,\nbut we haven't run into a single one...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "この辺りって魔物が多いはずなんだけど、\n今のとこ一匹も遭遇してない件……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Could it be they all ran away\nwhen they realized the incredible Nanaka was here?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "もしや、\nサイカワナナカちゃんに\n恐れおののいて隠れちゃったとか？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Bahah!\nWho'da thunk even monsters know my reputation?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "たはー！\n私ってば、\n魔物にも名が知れ渡ってたのか～！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Actually, this might make it easier to search—",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "これなら、\n割と平和に探し物をできそ……"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Yes, of course. It would never be that easy.\nThe noise came from thattaway, right...?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ですよねー。\nそう簡単にいきませんよねー\n奥の方から聞こえたよね……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Why do I feel like we're dealing with a big nasty?\nLet me just go and take a peek...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "なんか、\nすごい大物の予感が……\nちょっと様子を見てみよっか……"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "...Ah. There it is.\nOhhh boy, it sure doesn't look happy.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "……あ、\nいた。\nあちゃー、\n派手に暴れてますなー"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Maybe the lack of monsters nearby\nis that big guy's fault. He's going pretty berserk.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "この辺りに魔物がいなかったのって、\nあいつのせいかもねー。\nかなり凶暴化してるし。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Did he wake up on the wrong side of the lair?\n...Wait, huh?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "なんか悪いもんでも食べたのかねー\nって、\nあれ……？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Is it just me... or is that monster wearing a necklace on its leg?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "気のせいかな……\n魔物の腕に探してるネックレスがついてるような……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ueghh... Definitely not just me.\nThat's gotta be the item we're looking for...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うへぇ、\n気のせいじゃないや。\n本当に魔物がネックレスを持ってるよー……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Guess we've got no choice but to defeat it...\nOh well! Let's get this over with!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "倒さないことにはどうしようもなさそうだし……\nしゃーない！　\nいっちょやりますか！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "You're on support duty, 'kay?\nI'll take the front lines!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "君はサポートをよろしく！\n私が前衛に立つから！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "And, um...\nWhen this battle is over, there's something I need to tell you...",
+      "choice_data_list": [
+        "Say what now?"
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "……私、\nこの戦いが終わったら、\n君に伝えたいことがあるんだ……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ahah! I always wanted to try saying that line!\nNot that I really plan on dying today!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "いやー、\n一生に一度は言ってみたかったんだよね！\nまあ死ぬ気はさらさらないけども！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Now, Mr. Monster!\nLet's see how you match up to the great Nanaka,\nAstrum's strongest and cutest magical girl!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "さー、魔物くん！\nこのアストルム最強のサイカワサイツヨ魔法少女、\nナナカちゃんが相手をするよ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "With a cybernetic flash—",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "電脳の閃光で──"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Whoa whoa whoa! Interrupting the catchphrase is a no-no!\nDon't they teach these things in monster school?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ちょちょちょ！　\n名乗りを妨害するのはルール違反！\nそこんとこちゃんと勉強してきてよー"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Not interested, eh...?\nAll right! Then have a taste of the ol' Nanaka magic!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "聞く耳持たずか……\nよーし！\nナナカちゃん渾身の魔法を食らえー！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Charging straight into my attacks, huh?\nHas it really gone crazy? Get back, dummy!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "魔法を食らっても突っ込んできてるし……\n錯乱状態ってやつ？　\nこっちくんなー！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Still, Granny always said that berserk enemies\nare easy pickings if you keep your cool!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "まあ、\nこういう怒り狂った相手は\n冷静に対処するのが一番ってばっちゃが言ってた！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I gracefully dodge the charging monster... And theeeen...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "華麗に魔物の攻撃をかわしてー、\nかーらーの！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Fire off that new spell\nthat I learned from the thief the other day!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "がら空きの横っ腹に、\nこないだひったくりから貰った魔法をどーん！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "With my super-spell and your support ability combined,\nwe're unbeatable!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "強力な魔法と君のサポート能力が合わさって最強に見える。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Taaaake thiiiis!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "くーらーえー！"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Woohoo! Check that out!\nIt went down in a single blast!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うひょー！　\nすっごい威力！\n一撃で倒せちゃったよ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Well then, let's just retrieve the necklace...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そんじゃ、\nネックレスを回収して……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Wait! Stop stop stop! Stay back, kid!\nYou shouldn't touch that necklace!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "って、\nちょちょちょ、\nちょい待ち、君！\nそのネックレス触っちゃらめぇ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I'm sensing magical energy from inside it...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "まだ魔力が残ってるっぽいんだよね……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I think there must have been a spell on this necklace\nthat was making that monster go crazy.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "多分、\nそのネックレスにかけられた魔法の影響で、\nさっきの魔物も凶暴化したんだと思うわけよ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "And this sensation...\nIt's similar to my new super-spell...\nNo, it's not just similar. It's... the same?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "それにこの感じ……\nひったくりから貰った魔法と似てる……\nううん、\n似てるというより、\n同じ……？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "My client wouldn't cast a spell like this,\nso could it be the work of our mystery man?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "依頼主がこんなことするわけないし、\nだとすると例の謎の男の仕業なのかなぁ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "He found the pendant in the forest, enchanted it,\nand used it on that monster, maybe?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "男が森に落ちてたペンダントに魔法をかけて、\nそれを魔物につけた……\nとか？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "The lingering energy in the the pendant is only faint,\nbut I can feel powerful magecraft behind it...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ペンダントから感じる魔力は残り火みたいなもんだけど、\nそれでもかなりの使い手だってわかる……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I don't know his reasons, but I can't let him abuse his power!\nLet's track him down and teach him a lesson!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "目的は分からないけど、\n魔法を悪用してるなんて許せない！\n見つけ出して私たちでとっちめよう！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "If he were to get his hands on the legendary spellbook,\nwho knows what he'd do with it...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そいつが仮に伝説の魔導書を手に入れたりでもしたら、\n本当にシャレにならないしね……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "For the moment, this necklace goes... like so!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "とりあえずこのネックレスは……\nそーれ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Nasty spell, go away! Moe moe... kyun! ♪",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "悪い魔法よさらばだ！　\n萌え萌え……\nキュン♪"
+    },
+    {
+      "name": "Nanaka",
+      "text": "There! That should clear up the lingering magic!\nThat's our Nanaka! Perfect to a fault! ♪",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "よし！　\nこれでペンダントの魔法は解けたよー！\nさっすがナナカちゃん！　\nカンペキだね♪"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Now we just need to hand this baby over to the client!\nWhew... This was a pretty tiring day!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あとはこれを依頼主に渡せばお仕事完了！\n……いやー、\n今日はもう疲れたでござるよー"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I need to go home and recharge with 2D content... Oh! I know!\nNext time you're free, we should go on my rounds together!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "これは帰って二次元成分を補給しなければ……\nあっ！\nそうだ！　\n今度のお休みにさ、\n一緒に定期巡回にいこーよ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Since you've shown an interest in my the stuff I'm into!\nI want to teach you all the tricks of the trade!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "せっかく君が、\n創作作品に興味持ってくれたんだし！\n私が定期巡回の極意を教えてしんぜよー！"
+    },
+    {
+      "name": "Narration",
+      "text": "Thrilled to have found a friend she can share her hobbies with,\nNanaka headed back to the city with {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "共通の趣味ができて上機嫌のナナカと共に、\n街へと戻る{0}であった。"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "title": "Arisa Episode 1",
+  "text_block_list": [
+    {
+      "name": "???",
+      "text": "Huh. Well, this is weird...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あれ？　\nおっかしいなぁ……"
+    },
+    {
+      "name": "???",
+      "text": "I've been walking around for ages now,\nbut Landosol's pretty much nowhere in sight.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ずーっと歩いてるのに、\n見えてこないよ……\nランドソル、\nどこにあるのかなぁ……？"
+    },
+    {
+      "name": "???",
+      "text": "The map's fine, right?\nWhich means I'm... just lost.\nDefinitely not a thing I want to be.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "地図、\nあってるよね？\n……迷っちゃったのかなぁ。\nどうしよう……"
+    },
+    {
+      "name": "???",
+      "text": "Oh no. It's getting pretty dark, too.\nS-sure hope I don't have a run-in with any monsters...",
+      "choice_data_list": [
+        "Call out to her."
+      ],
+      "orig_name": "？？？",
+      "orig_text": "……うっ、\nなんか周りも暗くなってきたような。\nも、\nもしかして魔物なんか出ちゃったりして……"
+    },
+    {
+      "name": "???",
+      "text": "Aaaaahhhhh!\nI-it's a monster!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ひゃあああーーーっ！？\nま、\n魔物！？"
+    },
+    {
+      "name": "???",
+      "text": "Or... not?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………じゃ、\nない？"
+    },
+    {
+      "name": "???",
+      "text": "I-I'm so sorry!\nI thought you were a monster...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ご、\nごめんなさい！\nびっくりしちゃって、\n魔物と勘違いしちゃいました……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Oh, right! I'm Arisa!\nDo you mind if I ask your name?",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あっ！　\n私、\nアリサって言います！\nあなたは……？"
+    },
+    {
+      "name": "Arisa",
+      "text": "Hm? What's that's noi—\nAh! It must be one of your friends!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あれ、\n物音……\nそっか！\nあなたのお仲間さんですね！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Hello!\nMy name's Arisa—",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "こんにちは！\n私、\nアリサって言いま――"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRRAAAAGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Eeek?!",
+      "choice_data_list": [
+        "Protect Arisa.",
+        "Fight the monsters off."
+      ],
+      "orig_name": "アリサ",
+      "orig_text": "きゃぁっ！？"
+    },
+    {
+      "name": "Arisa",
+      "text": "Th-thank you!\nI owe you one!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あ、\nありがとうございますっ……！\n助かりましたっ……！"
+    },
+    {
+      "name": "Arisa",
+      "text": "...!\nAre we taking them head on? \nGot it! I'll help you out!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……っ！\n戦うんですね！　\n分かりました！\n私も頑張ります！"
+    },
+    {
+      "name": "Arisa",
+      "text": "I got caught off guard earlier,\nbut that won't happen again! I'm strong enough to fight monsters!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "ちょっと油断しちゃったけど……\n魔物の相手くらいなら、\n私だって！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Yah!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "やぁっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRRRUOOOOOOGGGHHH...!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "――ギャオオオオオッ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Woo!\nI did it!\nWait, what?!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "よっし！\nやりました！\n……って、\nえぇっ！？"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRAAAAAGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Th-there's more?!\nLots more, too!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "ま、\nまたっ！？\nしかも何匹もっ……！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Take this! And this!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "このっ！　"
+    },
+    {
+      "name": "Arisa",
+      "text": "Urgh, they just keep coming!\nBut that won't stop me!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "くぅっ、\nキリがないよ……！\nでも……！"
+    },
+    {
+      "name": "Arisa",
+      "text": "I won't give in!\nI can't! Not now!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "諦めたりしない……！\nだって、\n私は……！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Because I'm gonna save Losaria, no matter what!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "私は、\nロザリアを助けるんだから！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRAAAAAGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "――ギャオオオオオッ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Th-there we go!\nThis is kinda weird, though.\nMy body feels super light.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "や、\nやった！\n……あれ？　\nでも、\nなんでだろう。\n体がすっごく軽いような……"
+    },
+    {
+      "name": "Monster",
+      "text": "GGRRRUOOOOOOGGGHHH...!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "――ギャオオオオオッ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Yeah, I knew it!\nBut how come?!",
+      "choice_data_list": [
+        "Tell her about your Princess Knight ability."
+      ],
+      "orig_name": "アリサ",
+      "orig_text": "うん、\nやっぱり軽い！\nこれってどうして……！？"
+    },
+    {
+      "name": "Arisa",
+      "text": "Wait, really?!\nYou've got the ability to\npower up anyone near you?",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "えっ！？\nこれって\nあなたの能力なんですか！？\n近くにいる人をパワーアップさせることができるんですね……！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Th-that's incredible!\nNow I really have nothing to worry about!\nA swarm of monsters should be no problem if we work together!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "す、\nすごい……！\nそれならもう、\n絶対大丈夫ですよ！\n二人で協力すれば、\n魔物の群れもどうにかなります！"
+    },
+    {
+      "name": "Arisa",
+      "text": "I'll fire off a bunch of arrows,\nthen we can run the second there's an opening!\nRight... ready when you are!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "私、\nたくさん矢を撃つので！\n隙ができたら逃げましょう！\n……それじゃあ、\nよろしくお願いしますっ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "*huff, huff*\nW-we managed to get rid of them, right?\nPhew...",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "はぁ……\nも、\nもう追ってこないよね……？\n……よかったぁ。"
+    },
+    {
+      "name": "Arisa",
+      "text": "Thank you so much for your help.\nI can only imagine what would have\nhappened if you weren't there to help.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "ありがとうございます。\nあなたのおかげで、\n逃げきれました……\n私一人だったら、\n今頃……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Get a grip, Arisa. Now's not the time to feel sorry for yourself.\nFocus on getting to Landosol, first and foremost.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……いけない、いけない。\n今は落ち込んだりしてる場合じゃないよね。\nランドソルを目指さないと……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Umm. Thank you again for the help.\nI'm sort of in a hurry, though,\nso I need to get going!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "えっと、\n本当にありがとうございました！\n私、\n行かなきゃいけないところがあるので、\nこれで失礼します！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Wait... Huh?\nWh-where are we, even?",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "………………って、\nあれ？\nこ、\nここって……\nどこ？"
+    },
+    {
+      "name": "Arisa",
+      "text": "A-ahhhhhh! Not good!\nWe sped off without even consulting the map,\nso now I'm even more lost than I was before!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "わ、\nわぁぁぁっ！　\nどうしよう！\n地図見ないで走ってきちゃったから、\nぜんぜんよく分かんないところに出ちゃったよぉ……"
+    },
+    {
+      "name": "Arisa",
+      "text": "I'm never gonna make it to Landosol at this rate...\nArgh! Why am I such a—",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "こんなんじゃ、\nいつまでたってもランドソルにつかないよ……\nもう、\nどうして私ってばいつも……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Huh?\nY-you're from Landosol?!\nF-for real?!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……え？\nあ、\nあなたってランドソルから来たんですか！？\nほ、\n本当ですかっ！？"
+    },
+    {
+      "name": "Arisa",
+      "text": "U-umm!\nSorry to ask for another favor when you've already helped me\nout a ton, but would you mind showing me the way to Landosol?",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あ、\nあのっ！\n助けてもらったのに、\nまたお願いしちゃってごめんなさい！\n私をランドソルまで連れて行ってくれませんかっ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "I [i]have[/i] to get there, no matter what.\nSo please! Help me out!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "私、\nどうしてもランドソルに行かなきゃいけないんですっ。\nだから、\nだからお願いしますっ！"
+    },
+    {
+      "name": "Arisa",
+      "text": "Landosol's just beyond this highway, then?\nThank you again for the help!\nI honestly have no idea how to repay you...",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……この街道を真っ直ぐいけば、\nランドソルなんですね。\nありがとうございますっ！\nもう、\nなんてお礼を言ったらいいか……"
+    },
+    {
+      "name": "Arisa",
+      "text": "But now I can finally see her again.\nI'll be there soon, Losaria.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……これでようやく、\n会えるかも。\n待っててね、\nロザリア……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Oh. Sorry about that.\nI'm actually here in search of someone.\nMy best friend Losaria, to be precise.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……あ、\nごめんなさい。\n実は私、\nロザリアっていう親友のこと、\nずっと探してて……"
+    },
+    {
+      "name": "Arisa",
+      "text": "The two of us lived together in the same village.\nWe were super close, and even promised to\nbecome forest guardians together.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "ロザリアと私は、\n同じ「隠れエルフの里」に棲んでて、\n森番になろうって約束してて、\nずっと、\n仲良しで……"
+    },
+    {
+      "name": "Arisa",
+      "text": "But then she just disappeared one day.\nAll without a single word to anyone. Not even me.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "でも、\nある日突然、\nロザリアはいなくなっちゃったんです。\n私にも、\n誰にも何も言わずに……"
+    },
+    {
+      "name": "Arisa",
+      "text": "That's why I'm here. I swore I'd find her, no matter what!\nIt's been rough going, but I finally\nfound something resembling a lead.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "だから私、\nロザリアを探す旅に出たんです！\nちょっと大変でしたけど、\nでも最近ようやく、\n手がかりが見つかって……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Nothing truly solid, but rumors say she's in Landosol.\nThey could end up being false, but I don't have\nany other choice but to believe them.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "ロザリア、\nランドソルにいるかもしれないんです。\n……ただの噂ですけど、\nでも私、\n信じたくて。\nだからここまで来たんです。"
+    },
+    {
+      "name": "Arisa",
+      "text": "Oh. That city in the distance is all lit up...\nIs that Landosol? It's really pretty...",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あっ……\nあの街の明かり……\nあれがランドソル？\nすっごくキレイですね……"
+    },
+    {
+      "name": "Arisa",
+      "text": "But also a bit intimidating, too.\nMy village never had lights like that.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……でも、\nちょっと怖いかも。\n里はあんなに明るくなかったから……"
+    },
+    {
+      "name": "Arisa",
+      "text": "U-umm...",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……あ、\nあの。"
+    },
+    {
+      "name": "Arisa",
+      "text": "I, uhh... \nI feel really bad asking this after\nhow much you've already helped me, but...",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あの、\nその……\n助けてもらって、\n道まで教えてもらって、\nこんなこと頼むなんて恥ずかしいですけど……"
+    },
+    {
+      "name": "Arisa",
+      "text": "You live there, right?\nTo tell the truth, I've never been to a city that big.\nSo... Would you mind showing me around?",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "あなたはランドソルの方、\nなんですよね？\n……その、\n私、\nあんな大きな街に行くの、\n初めてで。\nもしよかったら、\n案内してもらえませんか……？"
+    },
+    {
+      "name": "Arisa",
+      "text": "R-really?!\nYay! Thank you so much!\nYou really are a nice guy.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……い、\nいいんですかっ！\nやったぁ！\n　\nありがとうございます！\nあなたってとっても優しいんですねっ。"
+    },
+    {
+      "name": "Arisa",
+      "text": "Oh. That reminds me.\nI never did ask for your name, did I?\nNot calling you by it might get a little bit awkward.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……あ、\nそういえば。\nあなたの名前って、\nなんですか？\n……ずっとあなたじゃ、\n変かなぁって。"
+    },
+    {
+      "name": "Arisa",
+      "text": "{0}?\nHehe. That has a nice ring to it.\nI'd say it fits you well.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……{0}？\nふふっ、\nなんかあなたらしい名前ですね。\n優しい響きで……"
+    },
+    {
+      "name": "Arisa",
+      "text": "Hm?\nI don't need to worry about formalities?\nR-really?",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……え？\n堅苦しくしなくていい？\nそ、\nそうですか……？"
+    },
+    {
+      "name": "Arisa",
+      "text": "Ehehe.\nTruth is, I've never been that fond of them, myself.\nSo... Thanks! I'll take you up on that.",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "……えへへ。\n実は、\n私も堅苦しいの苦手なんです。\nだから……\nえっと……\nうん！"
+    },
+    {
+      "name": "Arisa",
+      "text": "{0}!\nWe've basically just met, but let's get along!",
+      "choice_data_list": [],
+      "orig_name": "アリサ",
+      "orig_text": "{0}さん！\nじゃなくて……{0}くん！\nこれからよろしくねっ！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "Arisa, whose naivety begets her new ambition.\n{0}, whose kindness knows no bounds.\nThis was the story of how they first met.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "これが天真爛漫な少女アリサと\n{0}の出会いだった。"
+    }
+  ]
+}

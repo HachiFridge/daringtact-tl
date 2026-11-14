@@ -1,0 +1,936 @@
+{
+  "title": "Part 2 Ch. 6 Ep. 8",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} finds himself in a tight spot after the onslaught of the \"Rage Legion\". {0} is in danger, but his friends rush in.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【レイジ・レギオン】の猛攻（？）を受け、\n窮地に陥った{0}。\nしかしそこに、\n仲間たちが駆け付ける。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "my Lord!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま！"
+    },
+    {
+      "name": "Yui",
+      "text": "Kishi-kun!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クンッ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Ah...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……あっ……"
+    },
+    {
+      "name": "Kariza",
+      "text": "Tch...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "チッ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Misora... I knew it was you guys who were behind this....",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ミソラ……\n先回りしていたのは、\nやっぱりあなた達だったのね。"
+    },
+    {
+      "name": "Misora",
+      "text": "Sheffy, and everyone else, too. ★ What a coincidence to meet you here♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "シェフィさん、\nそれにみなさんも★\nこんなところで、\n奇遇ですね♪"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "The infiltration into {0}-kun's dream... Looks like it worked somehow. I'm glad.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "{0}くんの夢の中への潜入……\nどうにか、\nうまくいったみたいね。\n良かったわー"
+    },
+    {
+      "name": "Kuuka",
+      "text": "This is the inside of Mr. Sadist's dream...? In other words... it's a sadistic space!?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ここが、\nドSさんの\n夢の中……？\nつまり……\nドS空間～っ！？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Hmm... It's a pretty peaceful scene, though...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ん～……\n……にしては、\n平和な光景ですけど……"
+    },
+    {
+      "name": "Ninon",
+      "text": "I mean, where am I? Since I'm in Oedo, I'd like to be in Odedo in my dreams too! Odedo! Odedo!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "というか、\nここどこデスか？\nせっかくオーエドにいますから、\n夢の中もオーエドがいいデース！\nオーエドッ！　\nオーエドッ！"
+    },
+    {
+      "name": "シェフィ",
+      "text": "……！？",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Huh?! The scenery around us has changed...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっ！？\nまわりの景色が、\n変わっちゃった……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I wonder if the strength of your mental image or thoughts affects the space? My clothes have gone from new to the usual. ...It must be a phenomenon that only occurs in dreams, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "へえ～♪　\nイメージの強さや思い込みが\n空間に影響するのかしら？\n私の服も、\n新しいのからいつものに戻っちゃってるし……\n夢の中ならではって現象ね、\n面白いわ♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Oh, my... You guys are so noisy...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ああ、\nもう……\nうるさいひとたち……"
+    },
+    {
+      "name": "Yui",
+      "text": "Kishi-kun! Are you all right?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン！\n大丈夫！？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Mr. Sadist... It looks like that black-haired woman has caught him!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ドSさん……\n黒髪の女のひとに、\n捕まっちゃってるみたいです～！"
+    },
+    {
+      "name": "Ninon",
+      "text": "It's terrible! We have to help him as soon as possible!!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "大変デス！\n早く助けなきゃデース！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "...It looks like he's just resting his head on her lap...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……\n膝枕してるだけに見えるけど……"
+    },
+    {
+      "name": "Yui",
+      "text": "Regardless, give Kishi-kun back...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "とにかく、\n騎士クンを返してっ……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Heh! I'm not going to say, \"Yes, I see\" let me give him back to you! No! I'm going to capture you as well!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "へっ！\n「はいそうですか」\nって返してやるもんかよ！\nテメーらなんざ、\nオレ様がしばいてやらぁ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "They're coming! What are we going to do?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "来るわ！\nどうするのっ？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Well then... Kuuka-chan, can I ask you to do it?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "それじゃあ……\nクウカちゃん、\nお願いしていいかしら？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Huh? Are you sure?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "えぇっ？\nいいんですかぁ？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Oraaa!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──オラァッ！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Haahn♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "はぁんっ♪"
+    },
+    {
+      "name": "Kariza",
+      "text": "──One more shot!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──もう一発ッ！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Ihyaanh♪ Aaah~ Even in my dreams, Kuuka is... Kuuka's~!!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ぃひゃあんっ♪\nあぁ～っ\n夢の中でもクウカは、\nクウカは～ッ！！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Whoa?! What's with this girl?!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "うぉぁっ！？\nなんだこいつ……\nキッメェェ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm... It might be too early for you to get it, Kariza-kun",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "んー……\nカリザくんには、\nあのテのシュミはまだ早いかもですねー"
+    },
+    {
+      "name": "Ninon",
+      "text": "There's an opening! Ninpou: Cloud of Dust Dance! Bobobobobooo!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "スキありデス！\n忍法・\n土煙の舞！\nぼぼぼぼぼっー"
+    },
+    {
+      "name": "Kariza",
+      "text": "!? A smoke screen!?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "っ！？\n煙幕かっ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Cough, cough...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……こほっ、\nこほっ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "{0}, I'm coming! Frost Path!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "{0}、今行くわ！\n──『霜の道』っ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あっ……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I did it! I got {0} back!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "{0}のことは、\n返してもらったわよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "Wow, it's amazing how fast you can slide on ice, Sheffy! ♪ Ranpha-san and I nearly fell over! ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わぁ～、\nあんなに速く氷の上を滑れるなんて\nスゴイですねシェフィさん♪\nわたしやランファさんなら\n転んじゃってるかもしれないです★"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ahh... I was trying so hard to get along with {0}...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ああ……\nせっかく、\n{0}くんと\n仲良くしようとしていたのに……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Lady Ranpha. I see the way you are soothing my Lord... but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……ランファさま。\n先ほど少々、\nあなたが主さまを\nあやす手並みを拝見いたしました……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm sorry, I can't leave the care of my Lord to anyone else!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "申し訳ありませんが──\nあのような拙い手際の方に、\n主さまのお世話を任せるわけには参りません！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Th-That's...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そ、\nそんなっ……"
+    },
+    {
+      "name": "Misora",
+      "text": "That's mean! You're doing your best too, Ranpha-san!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ひどーいっ！\nランファさんも、\n頑張ってるんですよ？"
+    },
+    {
+      "name": "Kariza",
+      "text": "...Ahh, what's with these guys...? They're so unnerved that I'm losing my fighting spirit...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……あー、\nなんなんだかなコイツら……\n緊張感なさすぎて気合が抜けてきちまうぜ……"
+    },
+    {
+      "name": "Yui",
+      "text": "A-Anyway! Just like what happened to me earlier, this time I'm going to have you all leave your dreams...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "と、\nとにかく！\nさっきわたしがやられちゃったみたいに、\n今度はあなたたちに、\n騎士クンの夢から出ていってもらいます……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Heehee. I can't do that. ★ Since this is a rare opportunity, I'm sure Kishi-kun will feel sorry for you! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うふふ、\nそうはいかないです★\nせっかくの機会なんですし、\n騎士さんはばっちりセンノーしちゃいますよっ♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I won't let you do that...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そんなこと、\nさせない……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Here I come! My Lord, give me your power...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "参ります！\n主さま、\nわたくしに力を……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Damn it, you're just doing whatever you want...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "っくしょぉ、\n好き勝手しやがって……"
+    },
+    {
+      "name": "Misora",
+      "text": "Oh, Kariza's back!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あっ、\nカリザくん\n戻っちゃいましたねー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...She was so cute...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……かわいかったのに……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I am still as small as Lady Nebbia...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしは、\nネビアさまのように\n小さくなってしまったままです……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kokkoro-san...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "コッコロさん……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Bah. Looks like you won't be able to properly use the power of the Princess Knight in your dreams, huh?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "はんっ。\n夢の中じゃ、\nプリンセスナイトの力は\nちゃんと発揮できねーみてーだなぁ？"
+    },
+    {
+      "name": "Misora",
+      "text": "Maybe the effects of brainwashing magic are starting to take effect? It's all thanks to Ranpha-san's hard work. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "もしかしたら、\nちょっとだけ洗脳魔法の効果が出始めてるのかも？\nランファさんのがんばりのおかげですね★"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I-Is that so...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そ、\nそうかしら……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Shogun's resting, so shut up! Let's do it again, daaaa! Seighi Daikan!!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショーグンは休んでいてクダサイ！\nもう一回\nデアエ、\nデアエ！\nセイギダイカーン！！"
+    },
+    {
+      "name": "Seigidaikan",
+      "text": "Uooooooohhh!",
+      "choice_data_list": [],
+      "orig_name": "セイギダイカン",
+      "orig_text": "うおおおーーーっ！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Tch, not again!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ちっ、\nまたかよ！"
+    },
+    {
+      "name": "Misora",
+      "text": "Then this is... Ranpha-san, do your best♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それじゃあコッチは……\nランファさん、\nがんばれがんばれ♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Yes...! I'll try harder...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ええ……！\nもっと、\nがんばって\nみるわね……！"
+    },
+    {
+      "name": "ランファ",
+      "text": "♪～",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "♪～"
+    },
+    {
+      "name": "セイギダイカン",
+      "text": "……！？\n…………！！",
+      "choice_data_list": [],
+      "orig_name": "セイギダイカン",
+      "orig_text": "……！？\n…………！！"
+    },
+    {
+      "name": "Akudaikan",
+      "text": "Ak dai khan! Uooohhhh!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "アク・\nダイ・\nカーン！\nウオオオオーッ！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Fuaaaahhhh!?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ふあああーーーんっ！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Aaah! The Seigi Daikans! They've returned to Akudaikan!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "アアッ！\nセイギダイカンたちが！\nアクダイカンに戻ってしまったデース！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "That song... It's affecting my heart!?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あの歌……\n心に作用するのっ！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ugh...!?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うっ……！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Sheffy?! Hang in there!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "シェフィさま！？\nしっかり！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Uu... uuuu...!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……う……\nぅぅぅっ……！！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Mamaaaa♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ままーっ♪♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Fuah?!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふぁっ！？"
+    },
+    {
+      "name": "シェフィ",
+      "text": "……？\nまま、\nちっちゃーい♪\nねびー♪　\nはむっ♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……？\nまま、\nちっちゃーい♪\nねびー♪　\nはむっ♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ahh, Miss Sheffy! Don't put my wings in your mouth...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ああっ、\nシェフィさま！\nわたくしの、\nわたくしの羽をくわえてはなりません……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Aaah...! She's acting like a baby again...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ああぁっ……！\nシェフィちゃんが、\nまた赤ちゃんみたいに……！"
+    },
+    {
+      "name": "Yui",
+      "text": "What should I do? If we don't do something soon.... at this rate...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "どうしよう、\nこのままじゃ……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Everyone! Let's pull back for now!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "みんな！\nここはいったん引きましょう！"
+    },
+    {
+      "name": "Yui",
+      "text": "Mitsuki-san?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ミツキさんっ？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "We got {0} back... There's no telling what might happen in this unstable dream! We shouldn't stay here much longer!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "{0}くんのことは取り返したんだし……\nこの不安定な空間じゃ、\n何が起きるかわからないわ！\n長居は無用よ！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "In the dream of Mr. Sadist, I'm sorry to leave, but.....",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ドSさんの中、\n名残惜しいですけど……"
+    },
+    {
+      "name": "Ninon",
+      "text": "The Thirty-six best defense is not to run away! Like before, oshikura manjyu des",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "三十六計\n逃げるにシカず！　\nデスね！\nさっきみたいに、\nおしくらマンジェウデース！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kiaaa♪ Okkura Anjuuu♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "きぁー♪\nおっくらあんじゅー♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I won't... let that happen...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そうは……\nさせません……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "うっ……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hyahn...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ひゃんっ……！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Leave him... behind...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "彼の\nことは……\n置いていって……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Wow, Ranpha-san, you're so powerful! ♪ Love, love! ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わぁーランファさん、\nすごいパワーです♪\n愛ですねー\n愛★"
+    },
+    {
+      "name": "Kariza",
+      "text": "Heh! It's rare to see a scoundrel like that.",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "へっ！\n珍しくヤル気じゃねーか陰キャ女が。"
+    },
+    {
+      "name": "Kariza",
+      "text": "I don't want to touch that redheaded masochist... she's so creepy, but... I'll take care of you! Heey!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "あの赤毛ドMはキショイから触りたくねーけど……\n手ェかしてやるぜ。\nオラァ！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Hyaaaa!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "──ひゃいいんっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Auh...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あぅっ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Kariza-kun? You mustn't kill Mr. Kishi-san and Yui-san",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "カリザくーん？\n騎士さんとユイさんは、\n殺っちゃダメですよ？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Huh? Tch, what a pain... Then what are we gonna do?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "あぁ？\nちっ、\nめんどくせーな……\nじゃどーすんだよ？"
+    },
+    {
+      "name": "Misora",
+      "text": "Yes.......then let's change the location again....★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はい♪\nそれじゃ場所を、\nまた変えちゃいましょう★"
+    },
+    {
+      "name": "Misora",
+      "text": "*slurp slurp*♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "どるるるるるーんっ♪"
+    },
+    {
+      "name": "Ninon",
+      "text": "Ahh! The town of Odedo is going to be destroyed!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あーっ！\nオーエドの町が、\n壊されちゃうデースっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "And that's not all! The scenery is changing again...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "それだけじゃないみたい！\nまた景色が、\n変わってく……！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "...?! Something's wrong...!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……！？\nなにか、\n変よ……！"
+    },
+    {
+      "name": "Everyone",
+      "text": ".........!?",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "…………っ！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Wh-What...?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "え、\nえぇっ……！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Where am I...!?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ここ、\nどこデスか……！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Don't tell me this place is real... *Jyu!*!?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ここはまさか、\n現じっ……\nぢゅっ！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Mamaaaa! Scary, scary...!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ままぁー！\nこわぃ、\nこわいぃ……っ！！"
+    },
+    {
+      "name": "Yui",
+      "text": "I feel like... I know this place... Ugh! My head... hurts...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "なんだか、\nこの場所……\n知ってる気がする……\nうっ！\nあ、\n頭が……\nいたいっ……！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "*yawn*...! I-It's a pain I've never felt before... It's throbbing so much, it's squeezing me!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ふぁぁ～っ……！\nみ、\n未体験の痛みっ……\nなんだか\nグラグラズキズキ、\nギュルギュルします～っ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Wh-What's this headache...? It doesn't seem like it's a change in air pressure, contracting blood vessels, or... trauma... But...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "な、\n何かしら……\nこの頭痛？\n脳圧の変化、\n血管の収縮や……\n外傷でも、\nないみたい……\nだけど……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yeah, that's exactly what I'm after♪ The memory repairs and the scene I saw contradict each other... My perception is bugging me. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うん、\n狙いどーりです♪\n……記憶の修整作用と、\n目にした光景がムジュンして……\n認識がバグっちゃってますね★"
+    },
+    {
+      "name": "Misora",
+      "text": "...Hehe. This is going to be tough without a guide fairy's protection, isn't it...?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……ふふ。\nガイド妖精の守りもナシじゃ、\nコレはきついですよね……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Misora...chan...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ミソラ、\nちゃん……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Oh, ★Ranpha-san and Kariza-kun are fine, aren't they? As expected, they're chosen by that person♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "おっと★\nランファさんと、\nカリザくんはへーきみたいですね？\nさっすが、\nあの方に選ばれるだけのことはありますね♪"
+    },
+    {
+      "name": "カリザ・ランファ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "カリザ・ランファ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Come on, Kariza? Ranpha-san and I slowed Yui-san and the others down, so...please take a proper shot at them, okay?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ほらほら、\nカリザくん？\nわたしとランファさんが、\nユイさんたちの動きを鈍らせたんですから……\nちゃーんと狙ってくださいね？"
+    },
+    {
+      "name": "Kariza",
+      "text": "...Heh! I'll hit them better than you can shoot!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……へっ！\nテメーの射撃よりかはマトモに当ててやらぁ！"
+    },
+    {
+      "name": "ランファ",
+      "text": "♪～",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "♪～"
+    },
+    {
+      "name": "クウカ",
+      "text": "あっ、\nあっ！\nいくらクウカでも、\nこれ以上はぁ～っ！",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "あっ、\nあっ！\nいくらクウカでも、\nこれ以上はぁ～っ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Th-This is bad...! At this rate...!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "や、\nやばい、\nわね……！\nこのままじゃ……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Waaah, waaaah...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ふぇぇんっ、\nうぇぇぇ～んっ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Ugh, ahhhh...!!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うう、\nあああぁっ……！！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yui-sama...?! Protecting us...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ユイさま……！？\nわたくしたちを、\n庇って……っ？"
+    },
+    {
+      "name": "Yui",
+      "text": "Everyone... run away...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "みんな……、\n逃げ、\nて……！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Yui...san...?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ユイ、\nさんっ……？"
+    },
+    {
+      "name": "Yui",
+      "text": "I-I don't really get it, but... if they can't kill me...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "よ、\nよく、\nわからないけど……\nあのひとたちが、\nわたしを殺せないなら……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yui-san, of all people? She's a very important person, isn't she?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "よりにもよって、\n『ユイさん』ですかぁ。\nこれはまた、\n扱い注意なヒトですねー"
+    },
+    {
+      "name": "Yui",
+      "text": "In that case, if I... become everyone's shield...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "なら、\nわたしが……\nみんなの盾に……\nなれば……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yui-sama! That's reckless...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ユイさま！\n無茶です……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Yui!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ゆいーっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Kuah! Uuuu...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "くぁっ！\nうぅ～っ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Ah. Kariza-kun, Stop! Stop!",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "あっ。\nカリザくんっ、\nすとっぷ、\nすとっぷですよ～っ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Heh, it's too late to stop now! Pink hair, you're taking care of my shitty monsters! I'll take care of that grudge right here and now!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "へっ、\n今さら止めんじゃねーっつの！\nピンク髪にゃあ、\nウチのクソ魔獣どもも世話になってんだっ！\nその恨み、\nここで晴らしてやらぁ！"
+    },
+    {
+      "name": "Yui",
+      "text": "...Run! Run, everyone, Kishi-kun!!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……逃げてぇっ！\n逃げて\nみんな、\n騎士クンッ！！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Onii-tan...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "おにー、\nたんっ……！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Shogun...!?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショーグン……！\nっ……！？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Wh-What? This light...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "な……\nなに？\nこの光っ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This... can't be!?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "これは……\nまさかっ！？"
+    }
+  ]
+}

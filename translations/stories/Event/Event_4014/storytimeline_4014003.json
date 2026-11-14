@@ -1,0 +1,551 @@
+{
+  "title": "Re:Start SAGA",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Thanks to Sakura, Pecorine, and the others' relentless attacks, the branded monster-cow was finally cornered. Go, Sakura! Win, Pecorine! Peace in the town and delicious food are right within reach...!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サクラやペコリーヌたちの度重なる攻撃により、\nブランド魔物牛を\n追い詰めることに成功。\nいけいけサクラ。\n勝つんだペコリーヌ。\n街の平和とおいしい食事は、\nもう目の前だ……！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Haah...! Alright, just a little more and we'll defeat it...!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "はぁ\nっ……！\nよしっ、\nもう少しで、\n倒せそう……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes...! But... that \"little more\" still feels so far away...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はいっ……！\nけど、\nそのもう少しが、\n遠いです……！"
+    },
+    {
+      "name": "Precia",
+      "text": "Town. In danger.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "まち。\nしんぱい。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "True... we've managed to hold it back for now, but if this keeps up, the city's going to take serious damage.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "確かに……\n今はなんとか抑えられてますけど、\n戦い続けてたら\n街にとんでもない被害が出ちゃいそうです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It might even try to head for the evacuees again. And besides...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "避難している人たちのほうへ、\nまた行こうとするかもしれないですし。\nそれに──"
+    },
+    {
+      "name": "Precia",
+      "text": "I want meat. Hungry...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "おにく。\nもとむ。"
+    },
+    {
+      "name": "Sagataurus",
+      "text": "SAAAAAGAAAAAAAAA!",
+      "choice_data_list": [],
+      "orig_name": "サガタウロス",
+      "orig_text": "サーーーガーーー！"
+    },
+    {
+      "name": "Sakura",
+      "text": "If only we could get it to settle down a bit!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "せめてもうちょっとおとなしくさせられたらっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Yes, leave it to me! It's just... I don't know why, but the effect is gradually weakening. The song I used before isn't working anymore... it's not even looking my way...",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "はい、\n任せてください！\nでも……\nなんでか分からんけど、\nだんだん効果が弱まってて。\nさっきの歌はもう\n効果が……\n全然、\nこっち向いてくれん……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Perhaps... the monster has gotten used to it? If that's the case, then we need to come up with another plan...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかして、\n魔物が慣れちゃったんですかね？\nだとすると\n次の手が必要ですけど……"
+    },
+    {
+      "name": "Sagataurus",
+      "text": "SAAAAAGAAAAAAAAA!",
+      "choice_data_list": [],
+      "orig_name": "サガタウロス",
+      "orig_text": "サーーーガーーー！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Waaah?! Excuse me! Precia-chan and I will do our best to contain it, so I'd like you and {0}-kun to come up with a good idea...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わああっ！？　\nすみません、\nわたしとプレシアちゃんで\nなんとかおさえ込みますから、\n{0}くんと二人で\n良い案をお願いします……！"
+    },
+    {
+      "name": "Precia",
+      "text": "A very. Good plan.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "いいあん。\nよろです。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Umm, umm... Come on, think! Even if I've got nothing -- just think, Sakura!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "えっと、\nえっとぉ～……\n考えろ私っ！\n持っとらんでも、\n何にもなくても！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Something that's not a song... confusion... monster... cow... meat... and meat means... pork... chicken ( tori )... Ah!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "歌やなくても……\n混乱……\n魔物……\n牛……\n肉……\n肉といえば、\n豚……\n鶏……\nあっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "What about that thing from my last job...? Maybe that'll get its attention...",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "前のお仕事でやったアレは……？\nもしかしたら、\nこっちば向いてくれるかも……"
+    },
+    {
+      "name": "Sakura",
+      "text": "But it didn't react to my song at all before... so maybe it won't work this time either...",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "だけどもう、\n私の歌に全然反応せんやったし、\nもしかしたら次もダメかもしれん……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "YAAAAAAAH...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やぁぁぁぁっ……！"
+    },
+    {
+      "name": "Precia",
+      "text": "...Mm.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……ん。"
+    },
+    {
+      "name": "Sakura",
+      "text": "...This is no time to be hesitating. Get a grip, Sakura! Even if it's a long shot, you'll never know unless you try!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "…………そやんかこと言いよる場合やなか。\nしっかりしろ、\nサクラ！\nイチかバチかでも、\nやってみらんと結果は分からんちゃけん！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Phew... All right!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "ふぅ～……\nよしっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Try the yakitori plain, or a chicken riceful♪ Healthy and delicious salads too♪ Great service with a smile♪ Stop by and stay a while♪ Yay♪ Drive in, dine in, take it to go♪ From Saga, dear home♪ Every day is yummy♪ cock-a-doodle-doo♪ At Drive-In Tori♪",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "『焼き鳥1番　\nとりめし2番　\n3はサラダで　\n4い健康\n5もニコニコ\n鳥で満腹　\n新鮮　\n美味しい　\n楽しい　\nみんなで行こう\n今日も元気だ　\nドライブイン\n鳥』"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wow, what was that☆ That song and dance really sticks in your head! How crazy is that♪ I hope it'll be enough to distract the monster cow, though that might be a little difficu--...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わぁ～っ、\nなんですか今の☆\n妙に頭に残る歌とダンスでしたよ！　\nやばいですね♪\nあの魔物牛の気が引ければいいんですが……\nさすがに難し──"
+    },
+    {
+      "name": "Sagataurus",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "サガタウロス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "IT'S WORKING! Its movements stopped and its now looking at Sakura-chan!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "できてますっ！\n動くのやめて、\nめちゃくちゃサクラちゃんのこと見てますよ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Working. Good.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "こうか。\nありあり。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Yay♪ I'll sing it again so I can grab its attention and get it to stand still!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "やったっ♪\nもう一度歌って、\nもっともっと注意ばひいておとなしくさせますねっ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Okay. We also sing. Dance.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "お\nけ。\nうたう。\nおどる。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Thank you very much! Then, let's go!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "ありがとうございます！\nそしたら、\nいきますよーっ！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Try the yakitori plain, or a chicken riceful♪ Healthy and delicious salads too♪ Great service with a smile♪ Stop by and stay a while♪ Yay♪ Drive in, dine in, take it to go♪ From Saga, dear home♪ Every day is yummy♪ cock-a-doodle-doo♪ At Drive-In Tori♪",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "『焼き鳥1番　\nとりめし2番　\n3はサラダで　\n4い健康\n5もニコニコ\n鳥で満腹　\n新鮮　\n美味しい　\n楽しい　\nみんなで行こう\n今日も元気だ　\nドライブイン\n鳥』"
+    },
+    {
+      "name": "Sakura",
+      "text": "All right! One last push~",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "よーし！\n最後の一押し──"
+    },
+    {
+      "name": "Sakura",
+      "text": "COCK-A-DOODLE-DOOOOOOOOOOO...!!!!!!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "コ\nケコッコー……！！！！！！！"
+    },
+    {
+      "name": "Sagataurus",
+      "text": "SAAAAAGAAAAAAAAA!",
+      "choice_data_list": [],
+      "orig_name": "サガタウロス",
+      "orig_text": "サーーーガーーー！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Yay! It's charging towards us... or rather, TOWARDS ME!?",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "やった！\n私たちのほうに……\nっていうか、\n私に突進してきよるっ！？"
+    },
+    {
+      "name": "Sakura",
+      "text": "GUFUAAAH......!?",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "ぐふっ……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Sakura-chan!? She's hanging onto the monster's head~",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "サクラちゃんっ！？\n魔物の頭にしがみついて──"
+    },
+    {
+      "name": "Precia",
+      "text": "Stopped. Its movements.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "うごき。\nとめてる。"
+    },
+    {
+      "name": "Sakura",
+      "text": "I-I'm... Whoa, UWAAAAHWAAA?! I-It's thrashing around!? At this rate, things might get ugly... WHAT DO I DO?! JUST WHAT?!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "わ、\n私はっ……\nうわっ、\nわわわっ！？\nが、\nがば暴れよる～っ！？\nこのままだと\nまずいかも……\nどやんすどやんすどやんすーっ！？"
+    },
+    {
+      "name": "Precia",
+      "text": "Her courage. Impressive. True grit.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ゆうき。\nすごい。\nどこんじょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Sakura-chan's courage... I WILL NOT let it go to waste! Hah! Fah! YAAAAAAH...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "サクラちゃんの勇気を、\n決して無駄にはしませんっ！\nはっ、\nふっ、\nやああぁぁっ……！"
+    },
+    {
+      "name": "Sagataurus",
+      "text": "SAAAAAGAAAAAAAAA!",
+      "choice_data_list": [],
+      "orig_name": "サガタウロス",
+      "orig_text": "サーーーガーーー！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Mm!? That monster is trying to attack Sakura-chan who is clinging on! Sakura-chan, please run away!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っ！？\nあの魔物、\nしがみついてるサクラちゃんに攻撃しようとしてます！\nサクラちゃん、\n逃げてくださいっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "R-Run away she says, but how...?",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "に、\n逃げろって言われても、\nどうやって……"
+    },
+    {
+      "name": "Sakura",
+      "text": "GAHAH...!?",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "がふっ……！？"
+    },
+    {
+      "name": "Precia",
+      "text": "Unforgivable. SHADOW SPLIT...!",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ゆるさない。\nシャドウ・スプリット……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Super full power, full throttle☆ PRINCESS STRIKE...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "超全力全開☆　\nプリンセスストライク……！"
+    },
+    {
+      "name": "Precia",
+      "text": "The monster. Defeated.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "まもの。\nたおせた。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes... However, Sakura-chan is... U-Ugh, *sniff*...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい……\nですけど、\nサクラちゃんが……\nう、\nうぅ……"
+    },
+    {
+      "name": "サクラ",
+      "text": "……………………",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "……………………"
+    },
+    {
+      "name": "Sakura",
+      "text": "...Whoa. I really went and did it...",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "……うわ、\nやっちゃった……"
+    },
+    {
+      "name": "Sakura",
+      "text": "My head, my head... okay, back on it goes...",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "頭、\n頭……\nよいしょっと……"
+    },
+    {
+      "name": "Sakura",
+      "text": "Phew... Man, that sure was close!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "ふぅ…………\nいやー、\n危ないところでした！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "HE'S COMPLETELY RIGHT! No matter how you look at it, your head was completely torn off!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですよっ！\nどこからどう見ても\n頭が吹っ飛んでましたしっ！"
+    },
+    {
+      "name": "Precia",
+      "text": "You're not... human?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "にんげん。\nじゃない？"
+    },
+    {
+      "name": "Sakura",
+      "text": "I knew I couldn't hide it... you saw right through me, huh?!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "やっぱり誤魔化せませんよねっ、\nそうですよねっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Aaah, what do I do, what do I dooo!? Now that you know I'm a zombie, everyone's gonna hate me...! What if you try to salt-grill me or something!? NO, ANYTHING BUT THAT...!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "あぁ、\nどやんすどやんす～っ！\n……ゾンビだってバレちゃったし、\nみんなに嫌われる……？\nもしかして、\n塩焼きされるとかもありえる……？　\nそれは、\nやだーっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Sakura-chan... you are a zombie!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "サクラちゃん、\nゾンビなんですかっ！？"
+    },
+    {
+      "name": "Sakura",
+      "text": "I-In that case...? ...*gulp*",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "そ、\nそういうことなら……？\n……ごくり。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Huh...? That's all...? B-But I'm a zombie, you know?",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "え……\nそれだけ……？\nわ、\n私、\nゾンビなんですけどっ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We're acquainted with ghosts and undead alike, so we would never be scared of you for being a zombie, Sakura-chan. Besides, there's no reason for us to grill you with salt☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたち、\nアンデッドや幽霊とも知り合いなので、\nサクラちゃんがゾンビでも\n怖がったりとかしませんよ。\nそれに、\n塩焼きにもしませんからね☆"
+    },
+    {
+      "name": "Sakura",
+      "text": "Eeeeh...? Undead... ghosts...? Just what kind of place is this Landosol...?",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "えぇ～……\nアンデッドに、\n幽霊……？\nランドソルって、\nどやんかところと……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well, I guess it did surprise me how your head just came off like that...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まぁ、\nいきなり首が取れたのは、\nさすがに驚きましたけど……"
+    },
+    {
+      "name": "Precia",
+      "text": "Just a little. Surprised. However, still friends.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ちょっと。\nびっくり。\nでも。\nおともだち。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Everyone...",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "みなさん……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "More importantly, Sakura-chan...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それよりも\nサクラちゃん……"
+    },
+    {
+      "name": "Sakura",
+      "text": "Y-Yes... What is it... *gulp*",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "は、\nはい……\nなんでしょうか……\nごくり。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's about time we turn this branded monster-cow into a branded beef♪ I'm so hungry, I can't take it anymore♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "倒したブランド魔物牛を食べましょうっ♪\nわたしもう、\nお腹がぺこぺこすぎて\n限界なんですっ♪"
+    },
+    {
+      "name": "Precia",
+      "text": "Barbecue. I'm going to eat. Lots.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ばーべきゅー\nたべる。\nいっぱい。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Alright! I'll make quick work of butchering it, so let's all have a barbecue♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "よーしっ！\nそれじゃあ、\nぱぱぱっと捌いちゃいますから、\nみんなでバーベキューをしましょう♪"
+    },
+    {
+      "name": "Sakura",
+      "text": "Huh? Are you implying that this branded monster-cow turned beef is way more important than the fact I'm a zombie?!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "え、\nこれって、\n私がゾンビだってことより、\nブランド魔物牛のほうが重要なニュースになってませんっ？"
+    },
+    {
+      "name": "サクラ",
+      "text": "……………………",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "……………………"
+    },
+    {
+      "name": "Sakura",
+      "text": "...A-Ahaha♪ Back in Saga I had to keep my zombie identity hidden, so I never imagined I'd meet people in the capital who'd accept me like this!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "……あ、\nあははっ♪　\nサガでもゾンビバレせんようにしよったとに、\nまさか王都でゾンビば受け入れてくれる人たちがおるなんて、\n思いもしませんでした。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Moreover, here in Landosol, zombies aren't even unique, right? I came here all fired up to stand out, and... wow, talk about irony! Ahaha!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "しかも、\nランドソルだと\nゾンビは没個性ってことですよね？\n気合ば入れてランドソル来たとに、\nすごすぎませんか、\nそれ？\nあははっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "With people like you around, I feel like I can really give it my all in my solo work here in the royal capital! Ah, but I'll still be careful not to let my zombie secret slip, of course!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "なんだか、\nみなさんみたいな人たちがおらすとなら、\n王都でのソロ活動、\nがんばれそうな気がしてきました！\nあ、\nもちろんこれからも、\nゾンビバレには気を付けますけどっ。"
+    },
+    {
+      "name": "Sakura",
+      "text": "Thank you so much! If my \"uniqueness\" is dead here in Landosol, maybe that's my cue to start fresh -- as the me who doesn't have one!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "ありがとうございます！\nランドソルで私の個性が死んじゃってるなら、\nもう一度『持っとらん私』としてチャレンジする\nいい機会なのかも。"
+    },
+    {
+      "name": "Sakura",
+      "text": "I'll give my all to my idol activities here in Landosol!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "ランドソルでのアイドル活動、\nが\nんばっていきますねっ！"
+    },
+    {
+      "name": "Sakura",
+      "text": "Sakura here! We somehow managed to beat that monster♪ What a relief, truly♪ Even though my zombie secret got out, everyone was so kind that it all worked out in the end! Therefore I'm planning to do my best for my idol activities, Ohhhh! To be continued!",
+      "choice_data_list": [],
+      "orig_name": "サクラ",
+      "orig_text": "サクラです！　\nなんとか魔物ば倒せて、\nよかったよかった♪\nゾンビバレはしちゃったけど、\n大らかな人たちやったけん\n結果オーライ！\nアイドルのソロ活動もがんばっていくぞー、\nおーっ！　\nつづく！"
+    }
+  ]
+}

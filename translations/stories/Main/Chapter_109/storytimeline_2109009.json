@@ -1,0 +1,908 @@
+{
+  "title": "Part 2 Ch. 9 Ep. 8",
+  "text_block_list": [
+    {
+      "name": "Hiyori",
+      "text": "Yui, Yui-chan, hang in there!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃん、\nユイちゃんしっかり！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kokkoro, use healing magic!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "コッコロちゃん、\n回復魔法を！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, sir!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい！"
+    },
+    {
+      "name": "Chika",
+      "text": "I'll help, too...!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私も、\n手伝います……！"
+    },
+    {
+      "name": "Rei",
+      "text": "You...! Why did you shoot Yui?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "貴様……！\n何故、\nユイを撃った！？"
+    },
+    {
+      "name": "エリス",
+      "text": "……\n…………",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "……\n…………"
+    },
+    {
+      "name": "Rei",
+      "text": "......! ......what......? This strange feeling......",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……っ……\nなんだ……？\nこの違和感は……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Who was that woman...? Why did you shoot Yui?...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あの女のひとは……\nいったい誰？\nいきなり、\nユイさんを撃つなんて……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...I don't know who you are. You're wearing a strange mask...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……知らないヤツね。\nなんか、\n妙な仮面してるけど……"
+    },
+    {
+      "name": "Tomo",
+      "text": "...Be careful. She's not normal...!",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "……\n気をつけて。\nあいつ、\n普通じゃないよ……！"
+    },
+    {
+      "name": "Jun",
+      "text": "An unbelievable amount of magical energy. A density I've never felt before...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "信じられないほどの魔力だ。\nこれまで、\n感じたことがない密度の……！"
+    },
+    {
+      "name": "Rei",
+      "text": "...Magic power is the same. Why? I feel like I know her... very clearly...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……魔力もそうだが。\n何故だ？\n私は、\n彼女を知っている気がする……\nそれも、\nとてもはっきりと……"
+    },
+    {
+      "name": "Muimi",
+      "text": "H-Hey. Is she a member of the [Rage Legion], too...?",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "な、\nなぁ。\nあいつも、\n【レイジ・レギオン】の一員なのか……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Uhh...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっと……"
+    },
+    {
+      "name": "Kariza",
+      "text": "I-I don't know anyone like that!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "し、\n知らねーよそんなやつ！"
+    },
+    {
+      "name": "Zane",
+      "text": "...Yeah.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……ああ。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Hey, Misora! Who's that?!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "おいミソラ！\n誰だよそいつァ！？"
+    },
+    {
+      "name": "Misora",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Misora-...chan...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラ、\nちゃん……？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Heheh.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……ふふっ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Honestly, it's still too early for that, isn't it? It looks like she couldn't take it anymore. Geez, Lady Eris...★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "本当は、\nまだ早いんですけどねー？\n我慢できなかったみたいです。\nもう、\nエリスさまったら……★"
+    },
+    {
+      "name": "アゾールド",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Eris...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "エリス……？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Eris, if I'm not mistaken...",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "エリスって、\nそりゃ確か……"
+    },
+    {
+      "name": "Zane",
+      "text": "It's the name of our supporter...",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "我々の、\n支援者の名だが……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "That person...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あの人が……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The members of the [Rage Legion] seem confused...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "【レイジ・レギオン】のひとたち、\nなんだか\n戸惑ってるみたいですね……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Other than Misora, I didn’t know anyone named Eris... I guess that means...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ミソラ以外は、\nエリスという人を知らなかった……\nって\nことなのかしら……？"
+    },
+    {
+      "name": "Kariza",
+      "text": "...Tch. You've never let us see your face before, so why are you making a fuss here and now?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "……チッ。\nこれまで一度もオレらの前にツラ拝ませなかったテメーが、\nなんで今ここでしゃしゃってくるンだよ？"
+    },
+    {
+      "name": "Eris",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kariza",
+      "text": "You bastard!! Don't ignore me!!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "テメーっ！！\nシカトこくんじゃねーっ！！"
+    },
+    {
+      "name": "Zane",
+      "text": "Kariza, stop. Don't let your guard down.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "カリザ──\n止めろ。\n警戒を怠るな。"
+    },
+    {
+      "name": "Kariza",
+      "text": "Zane...?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ゼーンっ……？"
+    },
+    {
+      "name": "Azold",
+      "text": "Hmm, in other words... Eris is here to impeach us for failing to abduct the Kaiser Insight. Is that right, Miss Misora?",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "フム、\nつまり……\nエリスという方は、\n覇瞳皇帝の拉致に失敗した我々を弾劾しに来たと。\nそういうわけですかな、\nミソラ嬢。"
+    },
+    {
+      "name": "Misora",
+      "text": "No, no? I don't think it's for that reason. But...it's not.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "いえいえ？\nそんなことのために──\nなんて、\nわたしは思ってないですけど。\nでも……\n違いますよ。"
+    },
+    {
+      "name": "Misora",
+      "text": "After all, there’s only one thing in the world that Lady Eris cares about...right? ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "だって\nエリスさまが気に掛けることは、\nこの世でたった一つだけですから……\nね★"
+    },
+    {
+      "name": "Eris",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま？"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "──ふふっ……"
+    },
+    {
+      "name": "Homare",
+      "text": "There's only one thing in this world... huh? You're so cold, after all you've done for me...♪ Heheh. Heheheheh...♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "この世でたったひとつだけ……\nかぁ。\nつれないなぁ、\nせっかく出てきてくれたのに……♪\n……ふふっ。\nふふふふふっ……♪"
+    },
+    {
+      "name": "Kaya",
+      "text": "Boss? Wh-What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ボスっ？\nど、\nどうしたんだよ？"
+    },
+    {
+      "name": "Inori",
+      "text": "What's wrong, Boss? Your smile is creepier than usual...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なんですかボス、\n笑顔がいつもより気持ち悪いですよ……？"
+    },
+    {
+      "name": "Homare",
+      "text": "I mean, hey? I finally got to see you.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "だって、\nねえ？\nようやくお目に掛かれたんだもん。"
+    },
+    {
+      "name": "Homare",
+      "text": "The reason I've continued to bein Astrum. The reason for this world's...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "私がアストルムを続けてきた理由。\nこの世界の──……"
+    },
+    {
+      "name": "エリス",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Homare",
+      "text": "...!!?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……ッ！！？"
+    },
+    {
+      "name": "Kaya & Inori",
+      "text": "Boss?!",
+      "choice_data_list": [],
+      "orig_name": "カヤ・イノリ",
+      "orig_text": "ボス！？"
+    },
+    {
+      "name": "Homare",
+      "text": "...Whoops, that was close♪ If I hadn't been careful, I'd be electronic waste right now...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……っとと、\n危ない危ない♪\n用心してなかったら、\n今ので電子の藻屑だったよ～"
+    },
+    {
+      "name": "Homare",
+      "text": "You don't look like you're back to normal yet, but that's scary... Then...!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "まだ本調子じゃなさそうなのに、\nこっわいな～\n……それじゃあ……！"
+    },
+    {
+      "name": "Homare",
+      "text": "I'm scared, so I'll run away♪ See you later~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "──こわいから、\n逃げちゃおーっと♪\nじゃあね～♪"
+    },
+    {
+      "name": "Kaya",
+      "text": "Boss?! Where are you going?!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ボスっ！？\nどこ行くんだよっ！？"
+    },
+    {
+      "name": "Inori",
+      "text": "Are you going to spy on them from afar with your dragonglass eyes? Hey!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "続きは龍眼で覗き見しやがる気ですかっ！？\nお\nいこらーっ！"
+    },
+    {
+      "name": "Jun",
+      "text": "...D-Did she... run away?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……に、\n逃げた……\nのか？"
+    },
+    {
+      "name": "Tomo",
+      "text": "I can't trust him after all...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "やっぱりあの人は、\n信頼できないっ……"
+    },
+    {
+      "name": "Misora",
+      "text": "...Phew. Homare-san, that she's gotta be careful. ...She seems to have connections with a really troublesome person...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……ふぅ。\nホマレさん──\nあのひとは、\n要注意ですねぇ。\n……とーっても厄介なひとと、\nコネがありそうですし……"
+    },
+    {
+      "name": "Yui",
+      "text": "......uu, uu......",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……\nう、\nぅぅ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui-chan! Thank goodness, She's awake...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃん！\n良かった、\n気が付いた……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kokkoro, Chika, thank you very much...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "コッコロちゃん、\nチカちゃん、\nありがとうございます……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I was doing the best I could, but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "既のところで、\n急所を外しておりましたが……"
+    },
+    {
+      "name": "Chika",
+      "text": "If I'd been just a little further off, her life might have been in danger. That's how bad the wound was...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "あとほんの少しずれれば、\n命が危なかったかもしれません。\nそれほどの傷でした……"
+    },
+    {
+      "name": "Rei",
+      "text": "Ugh... How dare you...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くっ……\nよくも、\nユイを……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Heheh. Don’t get the wrong idea, okay? It’s not like Lady Eris missed her target. There’s no way she could’ve killed Yui-san. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふっ。\n勘違いしないでくださいね？\nエリスさまは別に、\n狙いを外したわけじゃありませんから。\nユイさんを殺しちゃうなんて、\nできるわけないじゃないですか★"
+    },
+    {
+      "name": "Misora",
+      "text": "After all... If we do that, I'll have to redo the situation I'm in right now. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "だって……\nもしそんなことをしちゃったら。\nせっかくイイ感じに進んでる今の状況が、\nやり直しになっちゃいますからね★"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Redo? Does that mean...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やり直し？\nそれって……"
+    },
+    {
+      "name": "Muimi",
+      "text": "I don't really know what you're talking about, but... I know this Eris guy's a bad guy! Misora hasn't given up either, so I'll take care of them both!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "オマエが何言ってるのか、\nよくわからないけど……\nそのエリスってやつも、\n悪いやつなことはわかったぞ！\nミソラも諦めてないみたいだし、\n二人ともアタシがやっつけてやる！"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm... I don't want to talk to Muimi-san anymore, but...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ん～……\nわたしとしてはもう、\nムイミさんとは\nお喋りしたくないな～\nってカンジなんですけど……"
+    },
+    {
+      "name": "Misora",
+      "text": "If you really want to get in my way, I'll use these bullets to answer your call♪ Here we go! ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "どうしてもお邪魔虫がしたいようでしたら……\nこの弾丸で、\nお返事させてもらいますね♪\nよっこいしょっと★"
+    },
+    {
+      "name": "Zane",
+      "text": "...Wait, Misora.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……待て、\nミソラ。"
+    },
+    {
+      "name": "ミソラ",
+      "text": "？",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "？"
+    },
+    {
+      "name": "Zane",
+      "text": "The battle is over. After all, we lost after putting so much effort into it.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "戦いは、\nもう終わりだ。\nこれだけ死力を尽くし、\n敗れたのだから。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Y-Yeah... Misora... Please. Let's stop...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "う、\nうん……\nミソラちゃん……\nお願い。\nもう、\nやめましょう……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Huh? Hmm...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えっ？\nん～……"
+    },
+    {
+      "name": "Misora",
+      "text": "Okay ★ I understand♪ Well then~",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はい★\nわかりました♪\nそれじゃ──"
+    },
+    {
+      "name": "Misora",
+      "text": "[Rage Legion] loses. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "──【レイジ・レギオン】は、\n負けってことで★"
+    },
+    {
+      "name": "Zane",
+      "text": "...Yeah.",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……ああ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Th-Thank goodness...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……よ、\n良かった……"
+    },
+    {
+      "name": "Misora",
+      "text": "Hehe. But",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふ。\nでも──"
+    },
+    {
+      "name": "Jun",
+      "text": "Watch out! Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "──危ないっ！\nくっ……！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Jun-san!?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ジュンさんっ！？"
+    },
+    {
+      "name": "Kariza",
+      "text": "Misora, you...?",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "ミソラ、\nてめー……？"
+    },
+    {
+      "name": "Zane",
+      "text": "......didn't she admit defeat?",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……負けを認めたのでは、\nないのか。"
+    },
+    {
+      "name": "Misora",
+      "text": "I'm sorry? I'd like to follow the guild master's...Zane's orders. But...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ごめんなさい？\nギルドマスターの……\nゼーンさんの指示には、\n従いたいところなんですけど。\nでも……"
+    },
+    {
+      "name": "Misora",
+      "text": "I'm leaving the [Rage Legion]. ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わたし、\n【レイジ・レギオン】を抜けちゃいますので♪"
+    },
+    {
+      "name": "ゼーン・カリザ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ゼーン・カリザ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huh?! Misora?!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっ……！？\nミソラちゃんっ……！？"
+    },
+    {
+      "name": "Azold",
+      "text": "............I knew....... it would come to that.",
+      "choice_data_list": [],
+      "orig_name": "アゾールド",
+      "orig_text": "……\n……やはり……\nそうなりますか。"
+    },
+    {
+      "name": "Tomo",
+      "text": "I don't know what's going on between you two, but... I'd like you to put an end to this internal conflict.",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "君たちの事情は知らないけど……\n内輪揉めは、\nそこまでにしてもらいたい。"
+    },
+    {
+      "name": "Jun",
+      "text": "...As I said before, I will restrain you. And that masked woman over there.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……先も言ったように、\n貴方たちを拘束する。\nそちらの仮面の女性もだ。"
+    },
+    {
+      "name": "Misora",
+      "text": "Hehe♪ I'm not sure I want to be sent to jail....",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふっ♪\n牢屋送りなんて、\n困っちゃいますね……"
+    },
+    {
+      "name": "Misora",
+      "text": "What should we do, Lady Eris?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "どうしますか？\nエリスさま。"
+    },
+    {
+      "name": "Eris",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Yui",
+      "text": "Uh...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ぅ、\n……？"
+    },
+    {
+      "name": "ユイ",
+      "text": "わ、\nわたし……\n気絶、\nしちゃってた……？　",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わ、\nわたし……\n気絶、\nしちゃってた……？　"
+    },
+    {
+      "name": "Yui",
+      "text": "...Ngh...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……っ……"
+    },
+    {
+      "name": "Yui",
+      "text": "That attack just now... really... really hurts. My head is pounding...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "今の攻撃……\nすごく……\nすごく痛くて。\n頭が、\nがんがんする……"
+    },
+    {
+      "name": "ユイ",
+      "text": "痛い……\nだけじゃない……\nとっても強い気持ちが乗ってるみたいだった……\n気持ち……\nわたしへの……\n憎悪……？　",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "痛い……\nだけじゃない……\nとっても強い気持ちが乗ってるみたいだった……\n気持ち……\nわたしへの……\n憎悪……？　"
+    },
+    {
+      "name": "ユイ",
+      "text": "あ……\nあの仮面の、\n人……\nなに？\n誰なの……？　",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あ……\nあの仮面の、\n人……\nなに？\n誰なの……？　"
+    },
+    {
+      "name": "Eris",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Karyl",
+      "text": "...! This is bad...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "！\nなんか、\nやばっ……！"
+    },
+    {
+      "name": "巨大な魔物",
+      "text": "────！！！",
+      "choice_data_list": [],
+      "orig_name": "巨大な魔物",
+      "orig_text": "────！！！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Wha...!?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "なっ……！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "What the hell is that!!?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "なんですかあれっ！！？"
+    },
+    {
+      "name": "Nozomi",
+      "text": "It's so big...!!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "大きい……！！"
+    },
+    {
+      "name": "Chika",
+      "text": "Summoning magic...?! I’ve never seen anything of that scale before...!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "召喚魔法……！？\nあんな規模のもの、\n見たことがありません……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This is the first time I’ve seen such a sinister monster...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あれほど禍々しい魔物も、\n初めて見ます……！"
+    },
+    {
+      "name": "巨大な魔物",
+      "text": "────！！！",
+      "choice_data_list": [],
+      "orig_name": "巨大な魔物",
+      "orig_text": "────！！！"
+    },
+    {
+      "name": "Muimi",
+      "text": "! Everyone, get back!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "っ！\nみんな、\n下がれ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I-It's going to shoot!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う、\n撃ってきますっ──！"
+    },
+    {
+      "name": "巨大な魔物",
+      "text": "────！！！",
+      "choice_data_list": [],
+      "orig_name": "巨大な魔物",
+      "orig_text": "────！！！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Ngh!!!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "っっ！！！"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "U-Ugh...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "う、\nぅぅ……"
+    },
+    {
+      "name": "Tomo",
+      "text": "Ow ow ow...",
+      "choice_data_list": [],
+      "orig_name": "トモ",
+      "orig_text": "い、\nったた……"
+    },
+    {
+      "name": "ムイミ",
+      "text": "……くぅっ",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "……くぅっ"
+    },
+    {
+      "name": "Nozomi",
+      "text": "A-A monster...!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ば、\n化物……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord, I'm glad you're safe...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま、\nご無事でしたか……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "{0} seems to be the least injured. Thank goodness...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "{0}が、\n一番軽傷みたい。\n良かった……"
+    },
+    {
+      "name": "Jun",
+      "text": "No, not really...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "いや、\nというよりも……"
+    },
+    {
+      "name": "Rei",
+      "text": "...Did they... miss the target... or was he not it...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……{0}のことだけ、\n狙いを外した……\nのか……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh? The [Rage Legion] members are being attacked...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっ？\n【レイジ・レギオン】のひとたちも、\n攻撃されちゃってるのに……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Wh-Why...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ど、\nどうして……"
+    },
+    {
+      "name": "Misora",
+      "text": "Hehe, isn't that obvious? ★ Lady Eris would never hurt the Kishi-san♪ If you hadn't tried to protect everyone, you wouldn't have been scratched",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふっ、\n当然じゃないですか★\nエリスさまが、\n騎士さんを傷つけるはずがありません♪\nみなさんを庇おうとしなければ、\nかすり傷も負わないで済みましたよ？"
+    },
+    {
+      "name": "Yui",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっ……？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wh-What do you mean by that...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そ、\nそれって、\nどういう……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Does that mean they're not hostile to {0}...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}に敵対しているわけじゃ、\nないってこと……？"
+    },
+    {
+      "name": "Rei",
+      "text": "In the first place... Just who is Eris...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そもそも……\n彼女は、\nエリスとはいったい、\n何者なんだ……？"
+    },
+    {
+      "name": "Eris",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Muimi",
+      "text": "Ah! Are you trying to finish me off...!?",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "あっ！\nトドメを、\n刺すつもりかっ……！？"
+    },
+    {
+      "name": "Yui",
+      "text": "K-Kishi-kun...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "き、\n騎士クンっ……！"
+    }
+  ]
+}

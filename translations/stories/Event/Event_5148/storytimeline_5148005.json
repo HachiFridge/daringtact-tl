@@ -1,0 +1,866 @@
+{
+  "title": "Prelude: The Night Before Summer",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A little while ago... after the Misora Quest incident in Landosol took place:\nMisora, thought to have been defeated by Alter Maiden, was on the run alone.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "少し前──ランドソルでの『ミソラクエスト』騒動後。\n【アルターメイデン】に退治されたはずのミソラは、\n独り逃亡生活を送っていた。"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "There've been reports of someone believed to be Misora being seen in these ruins.\nShe was supposed to have been struck down by Alter Maiden, but if she's still alive, we must capture her.",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "廃墟に、\nミソラと思わしき人物の目撃情報があった。\n彼女は【アルターメイデン】に退治されたはずだが、\nもし生きているなら\n逮捕しなければならない。"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "One who conducted terrorist attack as a member of the Rage Legion.\nAnd the culprit behind the Misora Quest incident to boot.\nStay on guard during your investigation!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "『【レイジ・レギオン】によるテロ』。\nそして、\n『ミソラクエスト』を起こした犯人だ。\n注意して調査にあたれ！"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Roger...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "はっ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "*sigh*...\nGuess I'm moving again.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はぁ……\nまた引っ越しじゃないですかー"
+    },
+    {
+      "name": "Misora",
+      "text": "If they find out I'm alive, I'll be a wanted girl, won't I?\nMaybe I'll just go hide in the woods.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "生きてるのバレたら、\n指名手配ですし？\nいっそ、\n森に隠居でもしましょうかねー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Misora-chan...\nIt's been... a while...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラ\nちゃん……\n久しぶり……\nね。"
+    },
+    {
+      "name": "Misora",
+      "text": "Wow, Ranpha-san!♪\nWhat a coincidence!\nDid you come here to help me move out?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わぁ、\nランファさん♪\n偶然ですねー\nもしかして、\nお引っ越しのお手伝いしにきてくれたんですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "M-Moving out...?\nUmm... No, I...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "お、\nお引っ越し……？\nええと……\n違う、\nわ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I, umm...\nI was looking for you, Misora-chan...\nI wanted to talk to you...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたし、\nその……\nずっと\nミソラちゃんを、\n捜していたの……\nお話し\nしたくて……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "When I heard about... the commotion in Landosol that happened the other day...\nI was... really worried.\nSo...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "この前の、\nランドソルでの\n騒ぎを知って……\nとっても、\n心配で。\nそれで……"
+    },
+    {
+      "name": "Misora",
+      "text": "...Aha.\nWas there something like that?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……あはっ。\nそんなこともありましたっけ～"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Knowing you, Misora-chan...\nYou were just playing... the part of a villain.\nFor the sake of the members of Alter Maiden...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラちゃんの\nことだから……\n自分から、\n悪者を\n演じたんじゃ……\nって。\n【アルターメイデン】の\n子たちの\nために……"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm...\nSounds like a misunderstanding to me.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "んー\n勘違いじゃないですかー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-But Misora-chan, you...\nYou told me before──",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでもね。\nミソラちゃん……\n前に、\n言っていたわ──"
+    },
+    {
+      "name": "Misora",
+      "text": "There may or may not be things I plan on doing in the future, you see?\nSo──that's──why★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "わたしこれから、\nやらなくちゃなコトが\nあったりなかったり？\nなので★"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huh?\nDo you mean──",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっ？\nそれって──"
+    },
+    {
+      "name": "Misora",
+      "text": "So that's why I'll be looking forward to another beach date with you, Ranpha-san♪ ...If we're still alive by then, that is★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "なので、\nランファさんとの海デートは\nまたのお楽しみです♪\n──お互い生きてたら、\nですけど★"
+    },
+    {
+      "name": "Misora",
+      "text": "...You remember me promising you a date at the beach, but...\nDid I really say something like that?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……海デートの約束は覚えてますけど。\nそんなコト、\n言いましたっけ？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "You did... so...\nI want you to stop trying to do good things...\nIn a way that... hurts me...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ええ……\nだから……\nもう\n自分が\n傷つくようなやり方で……\nイイコトをしようとするのは……\nやめて\nほしい、\nの……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Those kinds of methods...\nThey won't please anyone...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そんな、\nやり方じゃ……\n誰も\n喜ばない、\nわ……"
+    },
+    {
+      "name": "Misora",
+      "text": "...Huuuh?\nCould it be I'm... being lectured right now?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……あれ？\nもしかして、\n今\nお説教されてます？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "This isn't a lecture...\nI'm worried about you, Misora-chan...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "お説教じゃなくて……\nミソラちゃんが、\n心配で……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "So, umm... won't you come back to the Rage Legion...?\nBeing alone... must be hard...\nI'm sure even you──",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "それで、\nその……\n【レイジ・レギオン】に\n戻らない……？\nひとりでいるのは、\n大変だと\n思うし……\nきっと、\nミソラちゃんも──"
+    },
+    {
+      "name": "Misora",
+      "text": "There's no way I'm coming back.\nBesides, you know, don't you, Ranpha-san?\nI hate it when people try and sympathize with me.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "戻るわけないじゃないですかー\nそれに、\nランファさんも知ってますよね？\nわたしが、\n同情されたりするの\nキライだってこと。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Um, well...\n...I'm not... sympathizing...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっと、\nその……\n……同情、\nなんかじゃ……"
+    },
+    {
+      "name": "Misora",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Misora",
+      "text": "Hehe, just kidding★\nYour reactions are so fun, I can't help but tease you, Ranpha-san♪\nI'm not angry at all, you know?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふ、\nなーんて★\nランファさんが面白いんで、\nからかっちゃいました♪\nゼンゼン怒ってないですよー？"
+    },
+    {
+      "name": "Misora",
+      "text": "Well, I'll be leaving it at that for now.\nGoodbye, Ranpha-san★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "じゃ、\n今日はこんなところでー\nさようなら、\nランファさん★"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah... Misora-chan...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あっ……\nミソラちゃん……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "*sigh*...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……はぁ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I couldn't... talk to her properly today, either...\nWhenever we talk about something serious, she always dodges the topic...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "今日も……\nきちんと\nお話し、\nできなかった……\n真面目な話題になると、\nいつも\n誤魔化されちゃう……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I wonder... what I can even do...\nEven if I find Misora-chan again... she'll probably just teleport away...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "どうしたら、\nいいのかしら……\nまた、\nミソラちゃんを見つけても……\nテレポーテーションで、\n逃げられちゃう\nだろうし……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "But... if things continue like this, Misora-chan will...\nI have to do something...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "でも、\nこのままじゃ、\nミソラちゃんは……\nなんとか、\nしないと……"
+    },
+    {
+      "name": "Nea",
+      "text": "So then I thought that maybe with your help, sis, we could get something done.",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ってカンジでさ～　\nおねーちゃん巻き込んだら、\n何かできるかな～\nと思って。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "My oh my.\nAs has always been the case, my next of kin is acting strangely.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "やれやれ。\n常日頃ながら\n我が妹子の、\nなんと頓狂なことよ喃。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Furthermore... Lady Ranpha, is it not?\nI have heard tales of your exploits from Nea.\nA one of a kind songstress, with song steeped in mystique and elegance.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "して……\nお前さまが\nランファ殿でありんすな。\n玄妙にして\n風趣極まる、\n類い稀な歌姫と\nネアより聞き及んでおりまする。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Eh, ah, y-y-yes...\nP-Pleased to meet you...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "え、\nあ、\nは、ははははい……\nは、\n初めまして……"
+    },
+    {
+      "name": "Nea",
+      "text": "Hehehe~\nYou're too nervous, Ranpha-chan~\nRelax, relax~♪",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ンフフ～\nランファちゃん緊張しすぎ～\nリラックス\nリラックス～♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...B-But... N-Nea-chan...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……だ、\nだって……\nネアちゃん……"
+    },
+    {
+      "name": "ランファ",
+      "text": "だって、\nこんな音……\n聴いたことない……\nまるで、\n底知れない、\n地鳴りのような……\nネフィ＝ネラさんの\n体は、\nどうなって\nいるの……？　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "だって、\nこんな音……\n聴いたことない……\nまるで、\n底知れない、\n地鳴りのような……\nネフィ＝ネラさんの\n体は、\nどうなって\nいるの……？　"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Fufufu...\nThe songstress' hearing is truly remarkable.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "コロコロコロ……\n歌姫の聴覚、\nいといみじけ也。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "But that is neither here nor there.\nYou wish for this traitor named Misora to return to your guild...\nIf memory serves, young Kariza is also part of this Rage Legion, is he not?",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "とまれかくまれ。\nミソラなる背徳の徒を、\nお前さまらの『ぎるど』に戻したいとの云い……\n確か、\nカリザ坊も\n【レイジ・レギオン】だったかと存じまするが？"
+    },
+    {
+      "name": "Nea",
+      "text": "About that...\nKariza-kyun is against it, so I dunno what to do next~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "あーねー\nカリザきゅんには、\n反対されちっててさー\nどーしよー\nって悩みちゅ～"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Hmm... though it carries some risk, there is one method.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "フム……\n些とばかり、\n危うき橋なれど。\n活計がひとつ御座りんす。"
+    },
+    {
+      "name": "Nea",
+      "text": "For real?\nThat's my big sister♪",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "マ？\nさっすが、\nおねえちゃん♪"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "If my darling little sister asks something of me, 'tis only natural I oblige.\nNow then...",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "可愛い妹子の頼みとあらば、\n一肌脱がざるを得まいよ。\nさりとて……"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Where were those ruins?\nMia? Come──",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "件の遺跡、\n何処だったか。\nミーアや？　\nこれ──"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Um... is this...\nPottery...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっと……\nこれは……\n土器……？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Nay. This is a magical artifact... resting at the bottom of this case, not unlike a waste basket. It interferes with dark desires and inclinations, making it rather difficult to handle.\nWhether it can be tamed or not... that falls to it's user.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "否。\nこれなるは魔道具……\n屑入れの如き匣に御座りんす。\n暗い欲望や衝動に干渉する力を持つ故、\n扱いに難儀していて喃。\n上手く扱えるかは、\nお前さまら次第であり申す。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "This world is most unstable currently. Just this once, I believe it wise to consider extreme measures. You may be able to transfer the destructive desires of Misora into the artifact, sealing them away.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "今の現世は\n不安定極まれり。\n多少の無茶も利きしかと。\nミソラなる者の破滅を望む心を\n魔道具に移し、\n封じることも\n叶うやもしれませぬ。"
+    },
+    {
+      "name": "Nea",
+      "text": "Hmm... So basically, it's a dangerous magic macguffin?\nWe gonna be okay?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ン～　\nつまり\nやべー魔道具ってコト？\nコレ大丈夫なやつ？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Remain vigilant, and do not let your guard down.\nIf the case warps or overflows, the 'body' inside will flow unto itself.\nWith such force, the whole island, or even the continent in it's totality, will be annihilated.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "用心、\n厳として怠るべからず。\n匣が歪むか、\n或いは溢れ申さば……\n中に収めた『身』が逆流し。\nその衝動に比して\n島一つ、\n能うせずは\n大陸一つが\n消し飛び候。"
+    },
+    {
+      "name": "Nea",
+      "text": "Geh.\nThat's bad.\nI'd rather not deal with this thing~",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "げ。\nヤバじゃん。\nそんなん触りたくね～"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "There's no need to cower.\nYou must simply hold it down, and prevent it from overflowing.\nStore it deep within your ooze.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "竦む必要はありんせん。\n逆流を起こさぬよう、\n押さえこめば宣。\n入れ子細工の如く、\n汝の軟泥深くに\n格納してまいれ。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "One last thing... Nea?\nMagical artifacts like these can cause great strife in the future.\nOnce you are finished with it's use, destroy it post-haste.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "かてて加えて……\nネアや？\n斯様な魔道具は、\n後の危難の憂い也。\n用が済めば、\n疾く破壊したもれ。"
+    },
+    {
+      "name": "Nea",
+      "text": "Hmm...\nGot it.",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ンー……\nりょ。"
+    },
+    {
+      "name": "Nea",
+      "text": "By the way, sis, you wouldn't be saddling us with these magic items so you don't have to deal with getting rid of them yourself, would you?\nWell, I suppose that's just give-and-take.",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "てかおねえちゃん、\nヤババなマジックアイテムの処理がメンドーだから\nアタシに押し付けてる的な？\nまー\nギブアンドテイクってやつだけどー"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "──Ufufufu.\nI assure you, that's not the case... Fufu.\nNot at all.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "──コロコロコロ。\n然様な筈も……\nフフ。\nありんせん。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "On another note, Lady Ranpha:\nIt appears that this Misora is a well-renowned criminal.\nIn that case, we will have to temporarily deceive the world.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "して、\nランファ殿。\nミソラなるは\n顔の知れた咎人とのこと。\nなれば暫しの間、\n世を欺く必要がありんしょう。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "I have heard that you possess the ability to alter one's perception with song.\nIf this is more than a mere wives' tale, then I believe it would be a trivial task for you to haze the minds of onlookers.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "お前さまの魔歌は、\n夢の道理を意のままにする程と\n聞きし及び。\nであれば\n聴く者の思索を僅かばかり\n曖昧にする等、\n造作も無き仕儀かと拝察せん。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "...That's right.\nIf everyone saw this Misora as but a normal girl, you will be able to weave plenty of fond summer memories together.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "……そうさ喃。\n一里の広きに渡り、\nミソラなるを\n普通の女子と認識さすれば\n夏の佳き記憶も\n紡げることでありんしょう。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-But...\nHypnotizing such a large area... would be..",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでも……\nそんなに\n広い範囲に催眠をかけるなんて……\nとても……"
+    },
+    {
+      "name": "Nea",
+      "text": "Hmm~\nMaybe if we tweak your communication magic a little, we could make it work?\nI'll help you make sure Misora-chan doesn't notice, okay?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ン～\n通信魔法をちょいイジればイケんじゃねー？\nミソラちゃんに気づかれないよーにするんは、\nアタシも手伝うしー？"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "However... if the song halts for even a moment,\nMisora will once again be seen as the criminal she truly is.\nUltimately, whether you fail or succeed is a question of vitality.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "されど……\n歌がひとたび途切れれば、\nミソラなるは再度、\n咎人と認識されるが故。\nとどのつまり──\n成否はお前さまの\n体力次第かと存じまする。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I-I see...\nUm... So, there are... two things to take care of...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "な、\nなるほど……\nえっと……\nつまり、\n大事なのは、\n二つ\nね……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "One is to seal away Misora-chan's bad impulses... with a magical tool...\nThe other is to keep everyone under hypnosis... especially Misora-chan...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "一つは、\nミソラちゃんの\n悪い衝動を……\n魔道具で、\n封じ込める……\nもう一つは、\nミソラちゃんを\n中心に……\nみんなに、\n催眠を\nかけ続ける……"
+    },
+    {
+      "name": "Nea",
+      "text": "Hmm...\nThis plan feels pretty dicey.\nWhat do you think, Ranpha-chan?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "ン～\nやっぱ、\nヤバイ作戦な気もするけど。\nどーする、\nランファちゃん？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I...\nI want to talk to Misora-chan properly...\nAs her friend...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わ、\nわたしは……\nきちんと、\nお話し\nしたい……\nミソラちゃんと、\nお友だちと\nして……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...But if that doesn't work...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……それが、\nだめなら……"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "We've finally made it...\nThe person thought to be Misora must be lurking in this forest...!\nWe'll definitely find her!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "ようやく、\nたどり着いたぞ……\nミソラと思わしき人物が、\nこの森に潜んでいるはずだ……！\n必ず、\n見つけ出すぞ！"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Roger...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "はっ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "You're so persistent.\nIt's getting a little annoying.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "いい加減しつこいですねー\nほんと、\nやんなっちゃいます。"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "Gwaaah...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "ぐわあぁ……！"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "What's wrong!?\nWha...!?",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "どうした！\nなっ……！？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "Monsters...?!\nDamn it... We're surrounded...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "魔物だと……！？\nくそうっ……\n囲まれた……！"
+    },
+    {
+      "name": "Misora",
+      "text": "*sigh*...\nYou won't be able to catch me like that...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はぁ……\nそんなんじゃ、\n捕まえられませんよー……"
+    },
+    {
+      "name": "Misora",
+      "text": "...Geez.\nCan't be helped...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……もう。\nしょーがないですね……"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "Woaaah...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員たち",
+      "orig_text": "うわぁぁ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "Dorururuuuuun♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "どるるるる～ん♪"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "Huh...?\nWe're saved...?",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "はえっ……？\n助かった……？"
+    },
+    {
+      "name": "NIGHTMARE Captain",
+      "text": "M-Misora?!\nTo think you're still alive...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団隊長",
+      "orig_text": "ミ、\nミソラ！？\n本当に生きていたとは……！"
+    },
+    {
+      "name": "Knights of the Royal Palace",
+      "text": "You saved us...?\nCaptain, what should we do...?",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員",
+      "orig_text": "我々を\n助けたのか……？\n隊長、\nどうしましょう……"
+    },
+    {
+      "name": "Misora",
+      "text": "No, no, I didn't save anything.\n'Cause next up... is you two★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "いえいえ、\n助かってないですよ？\n次は、\nあなたたちですから★"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員たち",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Here goes!\nDorurururun~♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それっ！\nどるるるる～ん♪"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "Waaaaah...!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士団員たち",
+      "orig_text": "うわぁぁあ……！"
+    },
+    {
+      "name": "Misora",
+      "text": "......Haa.\nWe've been found.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "…………はぁ。\n見つかっちゃいましたねー"
+    },
+    {
+      "name": "Misora",
+      "text": "Now we're back on the wanted list...\nNow that I'm done with the forest, maybe I'll just retire to the underworld.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "これでまた、\n指名手配ですか……\n森の次はいっそ、\n裏世界に隠居ですかねー"
+    },
+    {
+      "name": "Misora",
+      "text": "──Ranpha-san, got any nice ideas?\nFor places to go, I mean.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "──ランファさんは、\nどこがイイと思います？\n次の引っ越し先。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Misora-chan...\nSo you noticed...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラちゃん……\n気づいていたの、\nね……"
+    },
+    {
+      "name": "Misora",
+      "text": "So, what are you doing here?\nDo you wanna arrest me too?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "で、\nわざわざどーしたんです？\nわたしを逮捕しに来たとか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...No.\nI want to continue...\nOur talk from the other day...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ううん。\nこの前の……\n話の\n続きがしたいの……"
+    },
+    {
+      "name": "Misora",
+      "text": "...Again?\nWhy bother, you already know the answer, dont you?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……またですか？\n続きもなにも、\n結論出てましたよね？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Misora-chan...\nDon't hurt yourself anymore... just stop...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラちゃん……\nもう\n自分が\n傷つくようなことは……\nやめて……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Just now...\nYou spared those Royal Knights... there's no need to fool them into thinking otherwise...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "さっきも、\nそう……\n【王宮騎士団（NIGHTMARE）】を助けたのに、\nわざわざ、\n誤解されるような真似\nしなくたって……"
+    },
+    {
+      "name": "Misora",
+      "text": "*sigh*\nI'm not fooling anyone, I'm a criminal, y'know?\nIt's natural for them to hate me.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はぁ……\n誤解もなにも、\nわたし犯罪者ですよ？\n正しく嫌われるのが、\nトーゼンですから。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "If you did something good, you don't have to hide it...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "イイコトをしたなら、\n別に\n隠さなくたって\nいいと思う、\nわ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Huh?\nDoesn't that seem gross to you?\nWhether they do good things or not, bad people are still bad people.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えー？\nそれって\nキモチ悪くないですか？\nイイコトしようがしまいが、\n悪人は悪人じゃないですかー"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Misora-chan...\nThen, what are you going to do now...?\nHow are you... going to live...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラちゃん……\nそれじゃあ、\nミソラちゃんは\nこれから、\nどうするの……？\nどうやって、\n生きていく、\nの……？"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm...\nActually...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "うーん……\nというかー……"
+    },
+    {
+      "name": "Misora",
+      "text": "I'm getting tired of this back and forth, so let's just kill each other instead★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "そろそろ、\nギロンとかロンパとかウザいんで、\nコロシアイでもしましょうか★"
+    },
+    {
+      "name": "ランファ",
+      "text": "……！？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Just kidding.\nI just can't get in the mood for it with you, Ranpha-san...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……なーんて。\nランファさんとは、\nあんまり気乗りしないってゆーか……"
+    },
+    {
+      "name": "Misora",
+      "text": "...I wonder why?\nHmm... Ah, mind laying a hand on me, Ranpha-san?★\nI think then I'll be able to Dorurururuun without any worries♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "なんででしょーね？\nん～……\nあ、\nランファさんから手出ししてもらっていいですか？★\nそれなら気兼ねなく\n「どるるるる～ん」できそうです♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Wh-Why...\nWhy can't we just talk...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ど、\nどうして……\nどうして、\n話し\n合えない、\nの……"
+    },
+    {
+      "name": "Misora",
+      "text": "...If we could solve everything by just talking,\nif everything we've done could be forgiven, just like that.\nThis world would be way more fun... and full of bad people.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……話し合いで、\nぜーんぶ解決するんだったら。\nやっちゃったことが、\nチャラになるなら。\nもっとこの世界は、\n楽しくて……\n悪人だらけになっちゃうんでしょうね。"
+    },
+    {
+      "name": "Misora",
+      "text": "Well.\nGoodbye, Ranpha-san──",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "じゃ。\nさようなら、\nランファさん──……"
+    },
+    {
+      "name": "Misora",
+      "text": "!\nTeleportation disruption──",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "！\n転移妨害っ──"
+    },
+    {
+      "name": "Nea",
+      "text": "I can't lay a hand on you, so how about some slime instead?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "手出しの代わりに～、\nスライムとかどう？"
+    },
+    {
+      "name": "ミソラ",
+      "text": "……！？",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Misora",
+      "text": "Nea-san?\nI'm not really a fan of slimes, so.........",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ネアさん？\nわたし、\nスライム責めは\nシュミじゃな──"
+    },
+    {
+      "name": "ミソラ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Nea",
+      "text": "Sorry for the surprise.\nI had to use this macguffin on you ASAP.\nMisora-chan is pretty strong...",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "いきなりごめんね。\nソッコーで魔道具使わせてもらった。\nミソラちゃんつえーし……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Misora-chan...\nI'm sorry... things turned out like this.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ミソラちゃん……\nこんなやり方で……\nごめんなさい。"
+    },
+    {
+      "name": "Nea",
+      "text": "Are you ready, Ranpha-chan?\nWe've hit the point of no return...",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "準備はいい、\nランファちゃん？\nもー後戻りはできないよ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Yeah...I'm fine.\nIt's for Misora-chan's sake... and mine...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "うん……\n大丈夫。\nミソラちゃんの\nためだもの……\n……それに、\nわたしの……"
+    },
+    {
+      "name": "ランファ",
+      "text": "──～♪",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "──～♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Misora fell asleep due to the side effects of the magic artifact.\nRanpha nodded at Nea’s words, steeled herself, and began chanting.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔道具の副作用で、眠りにつくミソラ。\nランファは、ネアの言葉に頷くと\n覚悟を決めて、詠唱を始めるのだった。"
+    }
+  ]
+}

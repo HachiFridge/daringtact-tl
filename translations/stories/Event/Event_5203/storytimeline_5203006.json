@@ -1,0 +1,950 @@
+{
+  "title": "Gigantic's Last Day",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Gigantic Croce faces off against the kaiju in a burning Landosol. The silence between them is broken by...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "燃えるランドソルで怪獣と向かい合うギガンティックローチェ。\n両者の間に流れる沈黙を破ったのは──"
+    },
+    {
+      "name": "Aoi",
+      "text": "Kh... DAAAAAAAHHHHHHHH!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『っ、\nだああぁぁぁーーーーっ！！』"
+    },
+    {
+      "name": "Modified Gedon",
+      "text": "Gwooooooooohhhh!",
+      "choice_data_list": [],
+      "orig_name": "改造ゲドン",
+      "orig_text": "グオオオオオオオオオッ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh?! This one's skin is harder than the one we faced before... Kyaaaaah!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あれっ！？\n皮が前より硬くなっててっ……\nきゃあああああっ！！"
+    },
+    {
+      "name": "Cry",
+      "text": "I'm disappointed. Your reaction speed and emotional synchronicity are still lacking! Is this really the extent of your abilities?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "がっかりね。\n反応速度も感情同調もまだ甘い！\n貴方たちの実力はこの程度！？"
+    },
+    {
+      "name": "Cry",
+      "text": "Be more serious... come at me with the intention to kill. If you don't, you won't be able to protect what's important to you!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "もっと本気で……\n殺すつもりでかかってきなさい。\nそうじゃないと、\n大切な物を守れないわよ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "That kaiju... it really does look like a powered up form of a Gedon. Its power and hardness have increased by an order of magnitude, what's more, its tail...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あの怪獣……\nやっぱりゲドンの強化形態みたいですっ。\nパワーも硬さも桁違いに上がってますし、\n尻尾も……！"
+    },
+    {
+      "name": "Croce",
+      "text": "That tail's spinning as if it's a drill, so even if I were to guard against it, it'll just scrape the armor off my arms!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "尻尾がドリルみたいにギュインギュイン回ってて、\nガードしても腕の装甲が削られちゃいます～っ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "We don't even know if this'll be the last enemy we have to face--If this continues, the damage to the city will increase! In that case, Croce-san!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "敵がこれで終わりかどうかも分からないですし──\nこのままじゃ街の被害も増えちゃいます！\nならっ、\nクローチェさんっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Yes! We're aiming for a short-term decisive battle! Let's go, Aoi-san!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はいっ、\n狙うは短期決戦ですねっ！\nいきましょうっ、\nアオイさんっ！！"
+    },
+    {
+      "name": "Cry",
+      "text": "I see, so you're already trying to finish this fight. Very well... Show me your power!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "『そう、\n勝負を決めるつもりなのね。\nいいわ……\n貴方たちの力を見せて頂戴！』"
+    },
+    {
+      "name": "Cry",
+      "text": "...The modified Gedon... lost...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……改造ゲドンが、\n負けた……"
+    },
+    {
+      "name": "Aoi",
+      "text": "...With that, I'll have you tell me your reasons, Master.",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『……これで、\n話してくれますね。\n師匠。』"
+    },
+    {
+      "name": "クライ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Aoi",
+      "text": "MASTER!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『師匠っ！！』"
+    },
+    {
+      "name": "Cry",
+      "text": "Fine. That was a complete defeat on my part. Aoi, Croce-san...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "いいわ、\nこれ以上ない完敗だもの。\nアオイ、\nクローチェさん……"
+    },
+    {
+      "name": "Cry",
+      "text": "...Thank you.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……ありがとう。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Why are you suddenly thanking us...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『どうして、\nお礼なんて……？』"
+    },
+    {
+      "name": "Cry",
+      "text": "That's because...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "それは────"
+    },
+    {
+      "name": "改造ゲドン",
+      "text": "────────",
+      "choice_data_list": [],
+      "orig_name": "改造ゲドン",
+      "orig_text": "────────"
+    },
+    {
+      "name": "Cry",
+      "text": "Wha... This is... The core's going berserk...!?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "なっ……\nこれは、\nコアが暴走を……！？"
+    },
+    {
+      "name": "Cry",
+      "text": "Both of you, push that modified Geddon out towards the suburbs! If this thing keeps going out of control, the whole area will be turned into a wasteland!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "二人とも、\nあの改造ゲドンを郊外に押し出して！\nこのままじゃ辺り一帯、\n更地になるわ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『えっ？』"
+    },
+    {
+      "name": "Cry",
+      "text": "HURRY!!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "早くっ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Understood! We'll just have to carry it outside!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わかりましたっ！　\n外に運べばいいんですねっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Croce-san?! Don't just believe her so easily...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『クローチェさんっ！？\nそんな簡単に信じちゃ……』"
+    },
+    {
+      "name": "Croce",
+      "text": "Aoi-san, please just pilot! Skirt booster, full throttle!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "アオイさんっ、\n操縦をお願いしますっ！\nスカートブースター、\n全・\n開っ！"
+    },
+    {
+      "name": "Croce",
+      "text": "I've never seen Cry-san wear that expression before now. We don't have much time, do we? We have to hurry!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あんなクライさん、\n初めて見ましたっ。\n時間がないんですよね？　\n早くしないとっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "T-That might just be another one of Master's lies, you know? What if she tricked us once more?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ま、\nまた師匠の嘘かもしれないんですよ？\n今度も騙されてたらどうするんですか！"
+    },
+    {
+      "name": "Croce",
+      "text": "Cry-san is also Aoi-san, isn't she? In that case, I'll believe in her.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "クライさんもアオイさんなんですよね？\nなら、\nわたし信じちゃいますっ。"
+    },
+    {
+      "name": "Croce",
+      "text": "I mean... Both of you are \"Aoi-san\".",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "だって……\nどっちもアオイさんですからっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Ah, Geez! If you put it on those terms, then I have no choice but to believe in her, too!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……ああもうっ！\nそんなふうに言われたら、\n信じるしかないじゃないですかっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "The core temperature of the Gedon is rising rapidly...! If it goes any further than this, we'll be in danger too... But! We can't retreat just yet...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "っ、\nコア温度、\n急激に上昇……！\nこれ以上は私たちも危ないですけど……\nでもっ！\n今離脱するわけには……！"
+    },
+    {
+      "name": "Croce",
+      "text": "If it goes off here, Landosol will still be damaged! We have to go far away...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ここじゃまだ、\nランドソルに被害が出ちゃいますねっ！\n遠くへ行かないとっ……"
+    },
+    {
+      "name": "Aoi",
+      "text": "Please increase the output! Let's keep going like this together--",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "出力、\n上げてください！\nこのまま、一緒に──"
+    },
+    {
+      "name": "Croce",
+      "text": "...Aoi-san, I'm so sorry! Pilot ejection!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……アオイさん、ごめんなさいっ！\nパイロットを緊急射出っ！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Eh---",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "え────"
+    },
+    {
+      "name": "Croce",
+      "text": "If the task is just to carry away this modified Gedon, I'll be fine on my own! I mean, I'm strong♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "この改造ゲドンを運ぶだけなら、\nわたしだけでも大丈夫ですっ！\nだってわたし、\n力持ちですからっ♪"
+    },
+    {
+      "name": "Croce",
+      "text": "Aoi-san, as for you, please wait for me right there!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "アオイさんはそこで待っててくださいねーっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Hah! CROCE-SAN!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "っ……\nクローチェさんっ！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Why?! Didn't I just tell you I wouldn't leave you behind?! That we'd be together forever...!! I told you that we'd be... friends...!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "どうしてっ！　\n置いて行かないって言ったじゃないですか！\nずっと、\n一緒だって……！！\nと……\nと、\nともだっ……\nって！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Despite that, I'm still a machinefolk. Unlike you, Aoi-san, my body is very sturdy. As long as the memory unit is safe, I can be revived again! Therefore--",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "やっぱり、\nわたしは機械ですから。\nほら\nアオイさんと違ってボディも頑丈ですしっ。\nメモリーユニットが無事なら\nまた復活できるのでっ！　\nなのでっ──"
+    },
+    {
+      "name": "Aoi",
+      "text": "And what happens if you were unable to...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "できなかったら、\nどうするんですかっ……"
+    },
+    {
+      "name": "Cry",
+      "text": "Core temperature rising even higher! There's no time left!!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "コア温度、\nさらに上昇！\nもう時間がないわ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Aoi-san, get down at once! Convert all energy into thrusting power! Maximum acceleration──!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "アオイさんっ、\n伏せてくださいっ！\n全エネルギーを推力に変換っ！\n最大加速でっ──！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "CROCEEE-SAAAAAAAAAN!!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "クローチェさあぁぁぁぁーーーーん！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "CROCE-SAN, PLEASE ANSWER ME! CROCE-SAN!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "クローチェさんっ、\n返事をしてくださいっ！\nクローチェさんっ！！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "...It can't be. There's no way this is true. You said you wouldn't leave me behind, that we'd be together. Are you... going to leave me alone again?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……そんな。\nそんなのってないですよ。\n置いて行かないって、\n一緒だって言ったじゃないですか。\n私のこと……\nまた一人にするんですか。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Such an outcome is the worst. It's just too terrible...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "そんなの、ひどいです。\nひどすぎます……っ。"
+    },
+    {
+      "name": "Cry",
+      "text": "...Yeah. With this, it's over.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……ああ。\nこれで、\n終わりだわ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "...It's over? Master, what are you saying...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……終わり？\n師匠、\n何を言ってるんですか……"
+    },
+    {
+      "name": "Cry",
+      "text": "...Sure. This may be merely a fairy tale to you. But it's worth listening to.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……ええ。\nこれは、\n貴方たちにはおとぎ話かもしれない。\nでも、\n聞いておくといいわ。"
+    },
+    {
+      "name": "Cry",
+      "text": "As I said before... I come from a different world than this one. Not Gio Teogonia or Gio Gehenna, those that you know as the \"Underworlds\"... I come from another Astrum.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "さっきも言ったとおり……\n私はこことは異なる世界から来た。\n貴方たちが裏世界と呼んでる、\nジオ・テオゴニアや\nジオ・ゲヘナでもない……\n別のアストルムから。"
+    },
+    {
+      "name": "Cry",
+      "text": "My world... was one just as peaceful as this one here. There were so many people... who accepted me, even if I was a loner. The BB Brigade had grown so numerous, with so many members... It was so much fun, almost like a dream...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "私の世界も……\nここと変わらない平和な世界だったわ。\nぼっちの私を受け入れてくれる人が……\nたくさんいて。\nＢＢ団も、\nすごい人数になって……\n夢みたいに、\n楽しかった……"
+    },
+    {
+      "name": "Cry",
+      "text": "But, one day... everything was destroyed. A group of giant monsters suddenly appeared and attacked us.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "だけど、\nあの日。\nすべてが壊されてしまった。\n突然現れた巨大な魔物の群れに襲われて。"
+    },
+    {
+      "name": "Cry",
+      "text": "...Monsters, like the kaiju you all just fought.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……貴方たちが戦ったのと同じような、\n怪獣たちによって。"
+    },
+    {
+      "name": "Cry",
+      "text": "At first, I had no idea what was happening. Right after... a lot of people died. Burned by a beam of light, or smashed by the falling buildings...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "初めは何が起きたか分からなかった。\n次に……\n多くの人が死んだ。\n光線に焼かれ、\n建物ごと踏みつぶされて……"
+    },
+    {
+      "name": "Cry",
+      "text": "Almost no one who went to help returned. The total population had fallen... to less than 10%.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "助けに向かって、\n帰ってきた者なんてほとんどいなかった。\n──総人口は一割以下にまで減ってしまった。"
+    },
+    {
+      "name": "Cry",
+      "text": "...If I had a power like the other Administrators did, I might have been able to save more people. However... I couldn't become one with Minerva. Probably because I'm a loner.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……私に、\n他の管理者のような力があれば\nもっと助けられた人がいたかもしれない。\nだけど……\n私はミネルヴァと、\n一体化できなかった。\n多分ぼっちだから。"
+    },
+    {
+      "name": "Cry",
+      "text": "But because of that, the authority of the Administrator, the power of the Sol Orbs and even the Minerva in my world were all devoured... by the kaiju.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "でもそのせいで、\n管理者の権限も、\nソルオーブの力も、\n私の世界のミネルヴァもすべて、\n怪獣たちに……\n喰われてしまった。"
+    },
+    {
+      "name": "Cry",
+      "text": "After that, time passed in the blink of an eye--I tried my best to resist, but there was no way I could hold my own.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "それからはあっという間──\n抵抗を試みたけれど、\n太刀打ちなんてできるはずもない。"
+    },
+    {
+      "name": "Cry",
+      "text": "Ugh... No good, we can't maintain this base anymore! We have to retreat!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "くっ……\nだめ、\nこの拠点はもう維持できない！\n撤退しないと！"
+    },
+    {
+      "name": "Soldier in the Unit",
+      "text": "You take the ones who can move and go back first! We'll try to hold back those things a little...",
+      "choice_data_list": [],
+      "orig_name": "部隊の兵士",
+      "orig_text": "お前は動ける奴を連れて\n先に戻れ！\nこっちは少しでも足止めを──"
+    },
+    {
+      "name": "Modified Gedon",
+      "text": "Gwooooooooohhhh!",
+      "choice_data_list": [],
+      "orig_name": "改造ゲドン",
+      "orig_text": "グオオオオオオオオオッ！"
+    },
+    {
+      "name": "Soldier in the Unit",
+      "text": "WAAAAAAHHHGHHHH!!",
+      "choice_data_list": [],
+      "orig_name": "部隊の兵士",
+      "orig_text": "うわああああ！！"
+    },
+    {
+      "name": "Cry",
+      "text": "E-Everyone...? That can't be... Ah, AAAAHHHHHHH...!!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "み、\n皆……？\nそんな……\nあ、\nあぁぁぁぁ\nぁ……！！"
+    },
+    {
+      "name": "Cry",
+      "text": "Ironic, isn't it? When the kaiju appeared, I wasn't a loner anymore. I gained comrades, friends to fight alongside... but... I'm sure that one day, everyone will surely die, and I'll be alone, again...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "皮肉よね。\n私は怪獣が現れて、\n再び一人ぼっちじゃなくなった。\n戦友を、\n共に戦う仲間を得たから……\nでも。\n……きっといつか、\n皆死んでしまって、\nまた、\n一人に……"
+    },
+    {
+      "name": "Cry",
+      "text": "...So I searched. A way to save my world, a way to save everyone who was back there, my friends.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "──だから、\n探した。\n世界を救う方法を、\n皆を、\n私の仲間を助けられる道を。"
+    },
+    {
+      "name": "Cry",
+      "text": "And then... I found it. Within some kaiju I had miracolously managed to defeat. Remnants of Minerva's power that still lingered in its core.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "そして……\n見つけたの。\n奇跡的に倒せた、\n何体かの怪獣。\nそのコアに、\nミネルヴァの力の残滓が残っていた。"
+    },
+    {
+      "name": "Cry",
+      "text": "The power... to open the gate to the Base World. I desperately gathered all the remnants I could find together--",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "基本世界へのゲートを開くための……\n力が。\n私はそれを、\n必死にかき集めて──"
+    },
+    {
+      "name": "Aoi",
+      "text": "Then, the reason Master came to this world was... to save the world she comes from...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "じゃあ、\n師匠がこの世界へやってきたのは……\n師匠の世界を、救うため……"
+    },
+    {
+      "name": "Aoi",
+      "text": "But if that's the reason, then why...!? Why didn't you just say so from the start? That you wanted our help?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "でも、\nじゃあどうして！\n最初から、そう言ってくれなかったんですか。\n力を貸してほしいって。"
+    },
+    {
+      "name": "Cry",
+      "text": "Because I had realized something. At that point, you were all too inexperienced to hold your own against a Gedon.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "ここにきて気が付いた。\n貴方たちはゲドンを倒す力なんてない、\n未熟な存在だということに。"
+    },
+    {
+      "name": "Cry",
+      "text": "But, that alone--wasn't a sign that things were meant to stay like that.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "でもそれは──\n今後もそうなる、\nという確証でもなかった。"
+    },
+    {
+      "name": "Cry",
+      "text": "Which is why. I decided to train you. Using the monsters that hail from my world.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "だから。\n鍛えることにしたのよ。\n私たちの世界で捕獲した怪獣を使って。"
+    },
+    {
+      "name": "Cry",
+      "text": "Training... it was probably too harsh to be called as such, I'm sorry. And I also apologize for not asking for your help from the beginning. Even if I had told you everything, if you had refused back there, it'd have been all over...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "訓練……\nというには過酷だったことは、\n申し訳なく思っている。\n最初から、\n助力を願うことをしなかったことも。\n全てを話したところで\n受け入れてもらえなければおしまいだし……"
+    },
+    {
+      "name": "Cry",
+      "text": "Besides, in order for you to grow, I had to push your mental fortitude to its limit.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "それに、\n貴方たちが成長するためには、\n精神を極限状態まで追いつめる必要があった。"
+    },
+    {
+      "name": "Cry",
+      "text": "...Because, you're me--So I'd understand that much.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……貴方は、\n私だから──\nそれがよく分かる。"
+    },
+    {
+      "name": "Cry",
+      "text": "I'm scared to reveal my true feelings, and I'm always worried that I'm making a mistake... I'm worse at making friends than most people. But at the same time, that's also why I know I can do my best when I want to protect those bonds.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "心を晒け出すのが怖くて、\nいつも間違ってないか不安で……\n人一倍、\n友達を作るのが苦手。\nだからこそ、\n絆を守るためなら一番力が出せる。"
+    },
+    {
+      "name": "Cry",
+      "text": "It's because of \"me\" that I thought it'd have been possible for \"you\" to synchronize with Croce. Aoi, I had no choice but to place my trust in you.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "そんな貴方だから、\nきっとクローチェさんとシンクロは可能だと考えたの。\nアオイ、\n貴方に懸けるしかなかった。"
+    },
+    {
+      "name": "Cry",
+      "text": "But, as a result... I ended up taking away your precious friend's life. I'm truly sorry for that.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "でも、\n結果として……\n貴方の大切な友達を奪ってしまった。\n本当にごめんなさい。"
+    },
+    {
+      "name": "Aoi",
+      "text": "...No way. Such a thing cannot be true. Me, Croce, and the people of this town... Are you saying we were all sacrificed for the sake of your TRAINING?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……そんな。\nそんなのってないですよ。\n私もクローチェさんも、\nこの街の人たちも……\n練習のために、\n犠牲になったって言うんですか！"
+    },
+    {
+      "name": "クライ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I don't think there was really any sacrifice involved.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "別に\n犠牲にはなってないと思いますよ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Huh? Wyrm-san?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……へ？\nヴルムさん？"
+    },
+    {
+      "name": "Cry",
+      "text": "...I'm glad the evacuation notice arrived in time.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……避難勧告が間に合ってよかったわ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "What do you mean by that?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "どういうことですか？"
+    },
+    {
+      "name": "Nobleman",
+      "text": "This town really gets destroyed every other month! If this is how it is to live here, I should have set up my mansion further out on the outskirts...!",
+      "choice_data_list": [],
+      "orig_name": "貴族の男",
+      "orig_text": "毎度毎度、\nよく壊される街ですね\n本当にっ！\nこんな事なら\nもっと辺境に屋敷を構えておくべきでしたっ……！"
+    },
+    {
+      "name": "Noblewoman",
+      "text": "Indeed! My prized dress has been soiled with dust! How are you going to take responsibility for this!?",
+      "choice_data_list": [],
+      "orig_name": "貴族の女",
+      "orig_text": "ええ！　\n自慢のドレスが埃で汚れてしまいましたわ！\nどう責任を取ってくださいますの！？"
+    },
+    {
+      "name": "Knights",
+      "text": "Hey, this report... Are you sure it's not wrong? Despite all the damage, there were zero casualties...",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "おい、\nこの報告……\n間違ってないのか？\nこれだけの被害にも関わらず、\n死者ゼロとは……"
+    },
+    {
+      "name": "Aoi",
+      "text": "The people of the city...? Are you all right?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "街のみなさん……？\n無事、だったんですか。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "When I was summarizing the damage done to Gio Teogonia to report back to Lady Lyrael, I thought something was strange.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ライラエルさまへ報告するため\nジオ・テオゴニアの\n被害状況を\nまとめてた時、\nおかしいと思ったんですよね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Even though those monsters went on such a spectacular rampage──There were no fatalities, let alone injuries.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あれだけ派手に暴れてくれたのに──\n死者どころか、\n負傷者さえ居なかったんですから。"
+    },
+    {
+      "name": "Cry",
+      "text": "I... If it's for the sake of my friends, I'll do anything. But that doesn't mean I want to increase the number of people who're like me... I didn't want to cause any unnecessary damage.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……私は、\n仲間のためならなんでもやる。\nだけど、\n私みたいな人間を増やしたい訳じゃない……\n無駄な被害を出したくは、\nなかったの。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, as far as the buildings and the like are concerned... They've suffered a fair amount of damage. This seems to be an area where wealthy people live, so I think it'll recover quickly compared to some downtown area.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "まあ、\n建物とかは……\nそこそこ被害出ちゃってますけど。\nここ\nお金持ちの人の住む地域っぽいんで、\n普通の人が暮らす繁華街とかに比べれば\n復興も早そうですね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "The point being, no one was actually sacrificed. ...Though, I'm sure, that the Chief Administrator Creditta-san will have a hole in her stomach from hearing those news.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "てわけで、\n誰も犠牲になんてなってないんですよ。\n……\n行政長官のクレジッタさんは\n胃に穴あくと思いますけど。"
+    },
+    {
+      "name": "Aoi",
+      "text": "But, Croce-san... what about Croce-san! She's not coming back!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "でもっ、\nクローチェさんは。\nクローチェさんは！\nもう帰ってこないじゃないですか……！"
+    },
+    {
+      "name": "Cry",
+      "text": "I know that's not something you can forgive me just by apologizing, however... I'm sorry.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "……謝って許されないのは分かってる。\nだけど……\nごめんなさい。"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Croce-san, ugh...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……クローチェさんっ、\nうう……！"
+    },
+    {
+      "name": "Croce",
+      "text": "Did you call for me?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "呼びました？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "へっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "Croce:Aerial! Back and ready to go!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "クローチェ、\nエアリアルっ！　\nただいま戻りましたっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "CROCE-SAN!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "クローチェさんっ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Visor off... Phew. Sorry for that, Aoi-san. It took me a while to get out of there!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "バイザー解除っ……\nふ\nうっ。\nごめんなさい、\nアオイさんっ。\n脱出に時間かかっちゃいましたっ！"
+    },
+    {
+      "name": "Croce",
+      "text": "I was transferring my data to a new body that was stored inside the Gigantic Croce, but I couldn't leave until the transfer was complete...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ギガンティックローチェの中で\n格納してあった新ボディにデータを移行してたんですけど、\n完了するまで出られなかったんです～……"
+    },
+    {
+      "name": "Aoi",
+      "text": "IN THAT CASE, JUST TELL ME...! I-I believed that you were really gone, Croce-san...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "だったら言っておいてください～っ……！\nわ、\n私っ、\nクローチェさんが居なくなっちゃったって……っ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Wow, I'm so sorry! Ah! Umm, normally you'd feel sad at a time like this, right!?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わわっ、\nごめんなさいっ。\nあ！　\nえっと、\nこういう時って\n普通は悲しむんですよねっ！？"
+    },
+    {
+      "name": "Croce",
+      "text": "T-This expression... what do you think? Am I looking sad?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "こ、\nこんな表情で……\nどうですかっ？\nわたし、\nちゃんと悲しめてますかっ？"
+    },
+    {
+      "name": "Croce",
+      "text": "You believe I should just smile? That's a simple order♪ Ehehe, I'm back! Aoi-san♪ Knight-san♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "笑えばいいんですかっ？\nなら、\n簡単ですっ♪　\nえへへ、\nただいま戻りましたっ！\nアオイさん♪　\nナイトさん♪"
+    },
+    {
+      "name": "Croce",
+      "text": "...And with that! Let's go save Cry-san's world right away!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "──というわけでっ！\n早速、\nクライさんの世界を助けに行きましょうっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh? ...Eh? EEEEEHHHHHH?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "へ？　\n……え、\nえぇぇぇぇぇっ！？"
+    },
+    {
+      "name": "Cry",
+      "text": "W-Wait a minute...!? Do you even know what you're saying?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "ちょ、\nちょっと待って……！？\n貴方、\n自分が何を言ってるか分かってるの？"
+    },
+    {
+      "name": "Croce",
+      "text": "Yes♪ Oh, I'll probably be away for an extended period of time, so I'll have to check with Lady Lyrael just to be sure. Is that okay with you, Lady Lyrael?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はいっ♪　\nあ、\n長期外出になるので、\n念のためライラエルさまに確認してからですけどっ。\nいいですかっ？　\nライラエルさま！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "I rushed over, and yet... Ah, I can't help but get worried. However it seems it cannot be helped. {0}, Aoi, please take care of Croce for me.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "急いで駆け付けてみれば……\nもう、\n心配をさせて。\nですが、\n仕方ありません。\n騎士、\nアオイ。\nクローチェを頼みますよ。"
+    },
+    {
+      "name": "Cry",
+      "text": "No, that's not really the issue... I was your enemy, you know? Not to add how Gigantic Croce was also destroyed...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "いや、\nそうじゃなくて……\n私、\n貴方たちの敵だったのよ？\nそれに、\nギガンティックローチェだって壊れちゃって……"
+    },
+    {
+      "name": "Croce",
+      "text": "But, but... Your friends are in trouble, aren't they, Cry-san? If so, then we have to go!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "でもでも、\nクライさんの仲間が困ってるんですよねっ？\nそれじゃあ行かなくちゃ！"
+    },
+    {
+      "name": "Cry",
+      "text": "I don't get your actions at all... Why?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "意味が分からない……\nどうして？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Your world is overrun with monsters like the one that appeared earlier... There's no doubt about that fact. If that's the case, eradicating the problem at its core sounds wise.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "あなたの世界には、\n先ほどのような魔物が跋扈している……\nその事実に、\n相違はありませんね。\nであれば、\n禍根を断つべきです。"
+    },
+    {
+      "name": "Cry",
+      "text": "A-Are you really... going to help us...?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "ほ、\n本当に……\n私たちを、\n助けてくれるの……？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "If you keep being skeptical, you'll lose your friends, you know.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "疑い深いと友達なくしますよ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Wyrm-san, um, I understand that those words are aimed at Cry-san, but... that kind of stray bullet actually ends up hitting me too, so... how should I put it, I'd like it if you minced words a little...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ヴルムさん、\nあの、\nクライさんに向けた言葉って分かるんですけど\n流れ弾で\n私にもダメージが入っちゃうので、\nもう少しこう\n何というか、\n手心というか……"
+    },
+    {
+      "name": "Croce",
+      "text": "You won't lose anyone♪ Because we're all friends now--And friendship is eternal♪",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "なくなりませんよ♪\nだってわたしたちはもうお友だちだし──\n友情は永遠なんですからっ♪"
+    },
+    {
+      "name": "Croce",
+      "text": "Good deeds come back to you, so let's go! Ah, Lady Lyrael, I'm off!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "善は急げです、\nそれじゃあ行きましょうっ！\nあっ、\nライラエルさまっ！　\nいってきますっ！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Croce... Be sure to come back. And without anyone missing, with everyone!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "クローチェ……\n必ず戻ってくるのですよ。\n一人も欠けることなく、\n皆で。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Looks like we'll be keeping up this night going for a while... Leave the Gigantic Croce to us! We'll definitely repair it and deliver it to you!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "これはしばらく宵っ張りが続きそうじゃな……\nギガンティックローチェはワシらに任せろ。\n必ず修理して届けるぞー！"
+    },
+    {
+      "name": "Cry",
+      "text": "Everyone... Thank you... so much, truly.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "皆…………っ。\n……ありがとう、\n本当に。"
+    },
+    {
+      "name": "Narration",
+      "text": "With that, the curtain fell on the monster commotion that spanned through both Gio Teogonia and Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてジオ・テオゴニアとランドソルを股にかけた\n怪獣騒ぎは幕を閉じた。"
+    },
+    {
+      "name": "Narration",
+      "text": "Aoi, Croce and {0} are on their way towards the final battle to save Cry's world.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そしてアオイとクローチェは、\nクライの世界を救う決戦に向かう──"
+    },
+    {
+      "name": "Aoi",
+      "text": "Next time... Last Episode Preview!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "最後のっ、\n次回予告！"
+    },
+    {
+      "name": "Aoi",
+      "text": "A final battle after the final battle?! It's a given that there will be a secret boss, but I don't feel like I'm going to lose!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "最終決戦の次に最終決戦！？\n裏ボスはお約束ですけど、\n負ける気がしません！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "After all, Croce and I are fri-... fried enough to go on this journey together!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "なにせ私とクローチェさんは\nと、\nとと\nともっ……\nともにっ！　\n旅立つんですからっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Aaah, that was the perfect chance for me to say it! Fr-Fr-Fr... Ugh, I still can't say it!! But it's okay! I'll tell her properly when I get back!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ああっ、\nせっかく今言うチャンスだったのに！\nと、\nととと……\nうぅ、\nやっぱりまだ言えません～～～っ！！\nでもいいんですっ！　\n帰ってきたらちゃんと言いますからっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Let's go, Croce-san! This time, it's really, truly, the end! Even if a mountain of monsters come, we'll defeat them all!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "いきますよ、\nクローチェさんっ！\n今度こそ、\nホントのホントに最後ですっ！\n怪獣が山盛り来たって\nみんなやっつけてやりますよっ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Next time, the final episode! \"We're Back Home!\"!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "次回、\n最終話っ！　\n“オ力エリナサイ”！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "For our tomorrow... Gigantic Punch!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "私たちの明日に……\nギガンティックパーンチ！"
+    }
+  ]
+}

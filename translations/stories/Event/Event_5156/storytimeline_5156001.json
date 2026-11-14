@@ -1,0 +1,768 @@
+{
+  "title": "The Reckless Group of the Flame Nation",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "To get funds for rebuilding the Bandi Shark,\nYamato said, \"We’re picking up unowned treasure.\"\nThe place {0} and others were taken to──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "バンディシャーク号の再建資金を得るため、\n「持ち主のない宝を拾いに行く」と言うヤマト。\n{0}たちが連れられてやってきたのは──"
+    },
+    {
+      "name": "Wakana",
+      "text": "Sister, Fubuki-chan, past there is…",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "姉さん、\nフブキちゃん、\nこの先って……"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Lady Arachno's former hikikomori room~.\nGeez, I got cobwebs stuck.\nSo nasty~",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "レディ・アラクソの～、\n元・ヒキコモリ部屋で～す。\nげっ、\n糸カスついちった。\nきったな～"
+    },
+    {
+      "name": "Wakana",
+      "text": "Fubuki-chan, don't wipe your hands on my skirt...!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "フブキちゃんっ、\nわたしのスカートで手を拭かないで……！"
+    },
+    {
+      "name": "Yamato",
+      "text": "It's not as good as royal equipment.\nThat big spider sure hoarded some quality treasures.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "王家の装備ほどじゃあないが。\nあのデカ蜘蛛のヤツ、\n質の良い財宝をしこったま貯めこんでやがったからねぇ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "If the owner is gone,\nshouldn't we take it so the treasure doesn't cry?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "持ち主がいなくなっちまったんなら、\n奪ってやらなきゃお宝が泣くってもんだろ？"
+    },
+    {
+      "name": "Wakana",
+      "text": "So that's what you mean by 'lying around'...\nCertainly, in that case, it isn't stealing, right?\n──Wait, does that mean we can take all the gems we want!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "落ちてるってそういうこと……\nた、\n確かに、\nそれなら泥棒じゃあない……\nのかな？\n──え、\nてことはもしかして、\n宝石の取り放題！？"
+    },
+    {
+      "name": "Yamato",
+      "text": "Kakaka, I like it.\nLet's fill our bags with the treasure that stupid spider gathered!\nIt's like picking rice with wet hands!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "カカカッ、\nいいねぇ。\nクソ蜘蛛が苦労して集めた宝の山を、\n袋いっぱいに詰め込んでやんな！\n濡れ手で粟ってヤツさ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "──Now, it's up ahead!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "──さぁ、\nこの先だよ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "......!? \nWha......",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……！？\nなっ……"
+    },
+    {
+      "name": "Wakana",
+      "text": "Huh? The jewels......gone...?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "あれ？　\n宝石……\nは……？"
+    },
+    {
+      "name": "Yamato",
+      "text": "What the hell is this...\nIt's completely empty! There were definitely tons of treasures here...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "んだいこりゃあ……\nスッカラカンじゃないか！　\n確かにここには宝が山ほど……"
+    },
+    {
+      "name": "Fubuki",
+      "text": "......Hmm?\nThese look like tire tracks?\nMaybe someone got here before us...",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "……ん～？\nコレって、\nタイヤの跡っぽい？\nひょっとして、\n誰かがぼくたちより先に……"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………！",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………！"
+    },
+    {
+      "name": "Wakana",
+      "text": "That sound!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "あの音は！？"
+    },
+    {
+      "name": "Yamato",
+      "text": "......!? \nHurry! We have to chase them!!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……！？\n急げ！　\n追うんだよ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} and company chased the faint sound,\nand rushed out of the cave.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "微かに聞こえた音を追って、\n鍾乳洞を飛び出した{0}たち。"
+    },
+    {
+      "name": "Wakana",
+      "text": "Whoa! \nSuch a huge cloud of dust...!\nThat car got here before us...?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ひゃあん！\nす、\nすごい土煙……！\nあのクルマが、\nわたしたちより先にここに……？"
+    },
+    {
+      "name": "Yamato",
+      "text": "You're not going anywhere----!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "行ぃかせるかぁぁぁぁーーーー！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Hey, get off!",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "おい、\n降りな！"
+    },
+    {
+      "name": "Monstress",
+      "text": "W-what do you want...",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "な、\nなんの、\nご用で……"
+    },
+    {
+      "name": "Yamato",
+      "text": "The spider's treasure you just stole, give it to us!\nOr else──",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "今さっきアンタが盗んだ蜘蛛の財宝、\nこっちに寄越しな！\nでないと──"
+    },
+    {
+      "name": "Monstress",
+      "text": "Eek! A-all right, I'll give it! I'll give it~~!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "ひ、\nひぃぃぃぃ！\nわ、\nわかった、\n渡すから！　\n渡すから～！"
+    },
+    {
+      "name": "Yamato",
+      "text": "You're not unreasonable──alright♪",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ハナシのわかるガマじゃないか──\nどれ♪"
+    },
+    {
+      "name": "Yamato",
+      "text": "...... Huh?\nIs this it? Just this small amount.\nThere was supposed to be a mountain of treasure in that nest. If you're hiding it...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……って、\nうん？\nたったのこれっぽっちかい。\nあのねぐらには山ほどお宝があったはずだよ。\n隠してるってんなら……"
+    },
+    {
+      "name": "Wakana",
+      "text": "......! \nSis! Sis!!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "……！\nねねねね、\n姉さん！！"
+    },
+    {
+      "name": "ヤマト",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……？"
+    },
+    {
+      "name": "ワカナ",
+      "text": "うううう、\n後ろ……！！",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "うううう、\n後ろ……！！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "──！\n────！",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──！\n────！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "There's some intimidating cars,\ncoming in droves!",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "なんかイカツイ車が、\nたいりょーに来てるんですけど～！"
+    },
+    {
+      "name": "Wakana",
+      "text": "O-one, two, three, four... Whaaat!? \nIt looks like there are around 100 of them～～～!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "いちにいさんしぃ……\nえええ！？\n見た感じ、\nひゃ、\n100台くらいいますよ～～～！？"
+    },
+    {
+      "name": "？？？",
+      "text": "Stop it!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "止めぇぇい！！"
+    },
+    {
+      "name": "？？？",
+      "text": "............Hey. What's the hold-up?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………おい。\n何モタモタしてやがんだ。"
+    },
+    {
+      "name": "Monstress",
+      "text": "B-boss...! \nSorry for being late...",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "カ、\nカシラ……！\n遅れとってすんません……"
+    },
+    {
+      "name": "？？？",
+      "text": "............What happened to the treasure?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………財宝はどうした。"
+    },
+    {
+      "name": "Monstress",
+      "text": "Well, uh, this is......! \n............Ugh, \nI got mugged......",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "いや、\nあの、\nこれは……！\n…………\nうぅ、\nすんません、\nカツアゲくらいました……"
+    },
+    {
+      "name": "？？？",
+      "text": "............What? Mugged, you say?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………あ？　\nカツアゲだ？"
+    },
+    {
+      "name": "Monstress",
+      "text": "Eek!? W-wait a minute!\nI was just a little careless, that's all...",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "ひっ！？　\nま、\n待ってください！\nこれはその、\nちょっと油断しただけっていうか……"
+    },
+    {
+      "name": "Monstress",
+      "text": "Hey! Give it back!\nIf you make the boss mad, you'll lose your life!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "おいっ、\n返せ！\nカシラ怒らせると、\n命がねぇぞ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Huh? You want us to give back what we took? \nI don't know who you are, but you're really optimistic.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "アン？　\n盗人に盗ったモン返せってのかい。\nどこの誰だか知らないが、\n随分とオメデタイねぇ。"
+    },
+    {
+      "name": "Monstress",
+      "text": "Thieves...? \nWait, does that mean you guys──",
+      "choice_data_list": [],
+      "orig_name": "妖魔人",
+      "orig_text": "盗人……？\nえ、\n……\nってことは、\nアンタらも──"
+    },
+    {
+      "name": "？？？",
+      "text": "......I see?\nI don't recognize you, but you're fellow thieves too, huh?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……なぁるほど？\n見慣れねぇが、\nおたくらも同業者かい。"
+    },
+    {
+      "name": "？？？",
+      "text": "Kah-ha!! \nThen there's no way you don't know me, right?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "カッハー！！\nなら俺サマを知らねぇなんてことはねぇよなぁ！？"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "The hottest thief gang in Gio-Gehenna,\nthe 'Grogorou Gang's Mad Joe! \nKaa-haaa!!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "こ\nのジオ・ゲヘナ一、\nヒャッホウな盗賊団、\n『グロゴ団』の\nマッド・ジョー様をよ！\nカァッハァァァァ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Grogorou Gang...?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "グロゴ団……？"
+    },
+    {
+      "name": "Yamato",
+      "text": "......Ahh...... \nCome to think of it......",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……ああ……\nそういえば……"
+    },
+    {
+      "name": "Yamato",
+      "text": "A gang known for driving combat vehicles,\nmercilessly stealing from the weak, and running over everything\nto claim their loot... they're insane.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "戦闘車輛を乗り回す、\n大窃盗集団。\n弱ったヤツからも容赦なく盗み、\n獲物を手に入れるためなら\n全てを轢き殺す、\nイカれた連中だとか……"
+    },
+    {
+      "name": "Yamato",
+      "text": "As expected of Gio-Gehenna.\nI thought there'd be some with backbone,\nbut huh, is it just you guys?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "さすがジオ・ゲヘナ。\nちったぁホネのあるのもいるもんだと思ったが、\nはんっ、\nなんだいアンタらのことかい。"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "......By the way, don't you guys have wheels?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "……ところでてめぇら。\nアシはねぇのか？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Huh? \nNo way~ You guys are staring at my feet...\nAre you perhaps perverts?",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "ハァ？\nやだ～\nおじさんたち、\nぼくの足ジロジロ見ちゃって……\nもしかして、\nヘンタイさんなのぉ？"
+    },
+    {
+      "name": "Member 1",
+      "text": "That's not it! Cars!\nWheels mean cars!\nYou see, our gang has one combat vehicle per person! Isn't that amazing!",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "ちげー\nって！　\n車だよ！\nアシってクルマのこと！\nほら、\nウチは戦闘車輛が一人に一台！　\nすげーだろ！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Ahaha... Armored cars?\nWe have them, but due to circumstances right now,\nwe literally lack 'wheels.'",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ああ……\n装甲車のことかい。\nあるにゃああるが……\n今はちいとばかり事情があってね。\n文字通り、\nアシが『不足』しちまってるのさ。"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Whaaa!? \nSo you're planning to steal without wheels!?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "はぁぁ！？\nんじゃてめぇら、\nアシなしで盗みやろうってのか！"
+    },
+    {
+      "name": "Yamato",
+      "text": "......Is that a problem?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……悪いかい。"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Oh come on... Pfft, kahaha!\nKa-ha-ha-ha-ha-ha!!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "そっりゃオマエ……\nぷっ、\nカッハッ！\nカ\nァァッハァァァァァァ！！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Ugh.\nHow annoying...",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "ぅゎ。\nなんか腹立つ～……"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Listen! You need cars to attack, escape, \nor transport stolen treasures. In this insane land,\nwithout vehicles, you can't do anything.\nCars are a thief's proof! The strongest wheels are the proof of strength!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "いいか！？　\n攻めるにも逃げるにも\n奪った宝を運ぶにも、\nこのイカれた大地じゃあ\nクルマがなきゃハナシになんねぇ。\nクルマこそが盗賊の証！　\n最強のアシこそが\n最強の証なんだよ！"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Look at this!\nOur armored beauties filled to the brim with weapons.\nA magnificent sight, isn't it!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "見ろや！\nバッキバキの\nメッキメキに武装りたてたウチのアシを。\n見事なもんだろうが！"
+    },
+    {
+      "name": "Wakana",
+      "text": "......They seem to have a serious obsession,\nwith cars......",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "……なんだか、\nクルマにものすごいこだわりがあるみたいですね……"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "So anyway, hey, you bugs!\nYou have no right to take that treasure.\nHand it over before our crazy engines do the talking!",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "というわけで、\nおい、\nムシケラども！\nてめぇらにその財宝を奪う権利はねぇ。\nウチのイカれたエンジンたちが火を噴く前に、\nとっとと返しな！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "──！\n────！！\n──────！！！！",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──！\n────！！\n──────！！！！"
+    },
+    {
+      "name": "Wakana",
+      "text": "We're surrounded 360 degrees! \nSis, we should return the treasure──",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "さ、\n360度囲まれちゃってます！\n姉さん、\n財宝は返した方が──"
+    },
+    {
+      "name": "Yamato",
+      "text": "──Heh heh.\nIt seems luck hasn't abandoned us yet.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "──ふふん。\nどうやら、\nまだツキには見放されてないみたいだねぇ。"
+    },
+    {
+      "name": "Wakana",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "Yamato",
+      "text": "Hey, Mad Joe.\nAbout your 'wheels.'\nDon't you think they're a little too dull to brag about?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "なぁ、\nマッド・ジョーさんよ。\nその『アシ』のことだけど。\n自慢げに見せびらかすには、\nちいとしみったれちゃいないかい？"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "......What did you say?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "……んだとぉ？"
+    },
+    {
+      "name": "Yamato",
+      "text": "──Oops, sorry about that.\nJust couldn't help but compare it......\nto our beloved ride, the 'Bandishark.'",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "──おっと、\n悪いね。\nつい比べちまったよ……\nアタシたちの愛車、\n『バンディシャーク号』と。"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Bandishark!? \nIsn't that... the one rumored to have come from another world?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "バンディシャーク号！？\nっていやァ──\n違う世界から来たっつうウワサの、\nアレか……！？"
+    },
+    {
+      "name": "Member 1",
+      "text": "So you guys are the [Bandy Sisters]!? \nThe notorious evil trio rampaging all over Gio-Gehenna,\ndisrupting monster and bandit territories......?",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "じゃあてめぇらが、\n【バンディ・シスターズ】！？\n最近ジオ・ゲヘナのあちこちで\n盗みまくりの暴れまくり、\n魔物や賊のナワバリを荒らし回ってるっつう\n極悪三姉妹……！？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Kyahaha♡\nLooks like we've become quite the hot topic~\nThat's right~ We're the [Bandy Sisters]~♡",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "きゃはは♡\nなんかウワサになっちってんじゃーんｗ\nそうでーす、\nぼくたちが\n【バンディ・シスターズ】でーす♡"
+    },
+    {
+      "name": "Wakana",
+      "text": "The notorious evil sisters... Hard to deny...\nYet, Yamato really liked this world\nand got quite wild...",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ご、\n極悪三姉妹……\n否定したいけど、\n否定しにくい……\nヤマト姉さん、\nこの世界を気に入ったって言って\nジオ・テオゴニアのときよりだいぶやんちゃしてたから……"
+    },
+    {
+      "name": "Yamato",
+      "text": "Mad Joe of the Grogorou Gang, that croc.\nHe's quite the combat vehicle enthusiast...\nI figured he'd know about us and the Bandishark.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "グロゴ団の、\nマッド・ジョーとかいう鰐野郎。\nずいぶんな戦闘車輛マニアみたいだからね……\nアタシらとバンディシャーク号のことも、\n知ってると思ったよ。"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Hmm, indeed~?\nWith junk materials and a tacky design?\nIt's no wonder Yamato makes fun of it~",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "ん～\n確かに～？\n素材はゴミだし\nデザインはだっさいし？\nヤマ姉がバカにするのもトーゼンかも～"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Your guys' car is like... \npfft, a fossilized poop~? \nCompared to the shark I built♡",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "おじさんたちのクルマなんて……\nぷぷっ、\nうんちの化石みたいなもんだもんね～？ｗ\nこのフブキちゃんが作ったサメちゃんに比べたら♡"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "Fubuki... you're the...!?\nThe genius engineer of the notorious evil sisters...!?",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "フブキ……\nって、\nてめぇが！？\n極悪三姉妹の、\n天才エンジニア……！？"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "H-hmm... \nCertainly matches the descriptions I heard.\nCute, foul-mouthed... and big... no, never mind.",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "ふ、\nふむぅ……\n確かに聞いた特徴通りだ。\nかわいい、\n口が悪い……\nついでにでかい……\nいや、\n何でもない。"
+    },
+    {
+      "name": "Yamato",
+      "text": "You don't seem to believe it, huh?\nThen let's prove it──",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "にわかには信じられないって顔だねぇ。\nそんなら証拠代わりに──"
+    },
+    {
+      "name": "Yamato",
+      "text": "Fubuki.\nMake a new combat vehicle for Mad Joe.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "フブキ。\nマッド・ジョーに新しい戦闘車輛を作ってやんなよ。"
+    },
+    {
+      "name": "マッド・ジョー",
+      "text": "……！？",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Eehh, that's tedious~ It's hot~\n...But if Yamato tells me to do it, I will~",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "え～\nメンドーだよ～\n暑いし～\n……\nでも、\nヤマ姉がやれって言うんなら、\nやるけど～"
+    },
+    {
+      "name": "マッド・ジョー",
+      "text": "え、\nえ……！\nウワサの\n天才エンジニアが、\n俺の\nアシを……！？",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "え、\nえ……！\nウワサの\n天才エンジニアが、\n俺の\nアシを……！？"
+    },
+    {
+      "name": "Yamato",
+      "text": "Take it as compensation for touching your treasure.\nWell, if you don't like it, we're not forcing you...",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "アンタの宝に手ェつけた落とし前代わりさ。\nま、\n嫌だってんなら無理にとは言わないが……"
+    },
+    {
+      "name": "Mud Joe",
+      "text": "N-n-n-no! Wait.\nIf you guys are the real deal...\nI'd like to see your skills.",
+      "choice_data_list": [],
+      "orig_name": "マッド・ジョー",
+      "orig_text": "や、\nやややや！　\n待て待て。\nお前たちがホンモノだってんなら……\nお手並みを……\n見て、\nやらなくもねぇ。\nぞ。"
+    },
+    {
+      "name": "フブキ・ヤマト",
+      "text": "「……♡」\n「……♪」",
+      "choice_data_list": [],
+      "orig_name": "フブキ・ヤマト",
+      "orig_text": "「……♡」\n「……♪」"
+    },
+    {
+      "name": "Yamato",
+      "text": "Then it's settled.\nOh right, Joe, sorry for barging in like this...\nI have a favor to ask. Can you listen?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "じゃあ、\n決まりってことで。\nああそうだ、ジョーさん、\nついでにと言っちゃあナンだが……\n一つ頼みがあるんだ。\n聞いてくれないかい？"
+    },
+    {
+      "name": "ナレーション",
+      "text": "──！\n────！！",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──！\n────！！"
+    },
+    {
+      "name": "Member 1",
+      "text": "Hold tight. We're almost at the Grogorou Gang's hideout, so bear with it!\nDamn, why am I driving these brats...!",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "ちょいと揺れるぜ。\nグロゴ団のアジトまですぐだからガマンしな！\nクソッ、\nなんで俺がこんなガキどもの運転手なんか……！"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Aw~ My butt hurts~\nIsn't there a fluffy cushion~?",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "やぁ～\nだ～\nお尻いたい～\nふわふわクッションないの～？"
+    },
+    {
+      "name": "Member 1",
+      "text": "There's no such thing!\n──Ouch! Waaah! \nWhat's with this long white thing? Ouch, it bit me!",
+      "choice_data_list": [],
+      "orig_name": "団員１",
+      "orig_text": "んなもんはねぇ！\n──イタッ\nイタタッ！\nんだその長くて白い生き物は！？　\nぎゃっ\n噛んだ！"
+    },
+    {
+      "name": "Wakana",
+      "text": "Sister, are you serious?\nWhile making a new car, \nyou're asking us to join the Grogorou Gang!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "……姉さん、\n本気ですか？\n新しいクルマを作ってあげるついでに、\nわたしたちをグロゴ団の仲間にしてほしい、\nだなんて！"
+    },
+    {
+      "name": "Yamato",
+      "text": "What's so bad about forming a team?\nWe're thieves, they're thieves.\nOur goals aren't any different.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "徒党を組んで何が悪いんだい？\nアタシたちも盗賊、\nアイツらも盗賊。\nやるこたぁ変わんないだろうが。"
+    },
+    {
+      "name": "Fubuki",
+      "text": "Zako Onii-san, you're special,\nI'll make you my bodyguard♡\nThose guys seem like real bad guys? Ugh~ Scary♡",
+      "choice_data_list": [],
+      "orig_name": "フブキ",
+      "orig_text": "ザコお兄さんは特別にぃ、\nぼくのボディーガード\nってことにしてあげる♡\nあのおじさんたち、\nけっこー悪党っぽいし？　\nやだ～\nコワ～い♡"
+    },
+    {
+      "name": "Wakana",
+      "text": "Y-yes...!\nThese people are completely insane bad guys, you know?\nEven smiling while robbing the poor!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "そ、\nそうです……！\nこの人たち、\nめちゃくちゃな悪党ですよ？\n貧しい人たちからも笑って身ぐるみ引っぺがしちゃう人たちですよ！？"
+    },
+    {
+      "name": "Wakana",
+      "text": "Besides, wasn't it just about\npicking up abandoned treasures?\nThat's what you said, sis!",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "それにそもそも……\n持ち主のいなくなったお宝を拾いに行くだけだって……\n姉さん、\nそう言ってたじゃないですかぁ～！"
+    },
+    {
+      "name": "Yamato",
+      "text": "Yeah, that's the plan.\nOur goal hasn't changed at all.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ああ、\nそのつもりさ。\n目的は変わっちゃいないよ。"
+    },
+    {
+      "name": "Wakana",
+      "text": "Then why join these dangerous people──",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "だったらどうして、\nこんな危ない人たちの仲間になんか──"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Tsk.\nYou're as fussy as ever.",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……チッ。\n相変わらずお前は小うるさいねぇ。"
+    },
+    {
+      "name": "Yamato",
+      "text": "Listen.\nJoining is just an excuse.\nDo you think I could ever ride in the same car as others?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "いいかい。\n仲間入りってのは、\n方便さ。\nアタシが他人と同じクルマになんか、\n乗れると思うかい。"
+    },
+    {
+      "name": "Wakana",
+      "text": "A-an excuse?\nA lie, you mean...?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "ほ、\n方便？\nウソ、\nってこと……？"
+    },
+    {
+      "name": "Yamato",
+      "text": "...Yeah. \nPretend to join hands and infiltrate...\n",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "……ああ。\n手を繋ぐフリをして取り入るのさ……"
+    },
+    {
+      "name": "Yamato",
+      "text": "We'll seize the moment when they drop their guard and not only take the spider's treasure,\nbut also all the spoils they've hoarded, all at once♪",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "ヤツらが油断した隙を狙って、\nアラクネの財宝のみならず、\nコイツらが今までしこったま貯め込んだ戦利品を、\n全部まとめて頂こう\nってコンタンさ♪"
+    },
+    {
+      "name": "Wakana",
+      "text": "Whaaat!? \nYou're planning to betray these scary people!?\nAwawa...",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "えええ！\nこんな怖そうな人たちを裏切るっていうんですか！？\nあわわわ……"
+    },
+    {
+      "name": "Yamato",
+      "text": "Idiot! Keep your voice down! ...Even if it's betrayal,\nthese are stolen goods. They're not theirs.\nTaking that is not wrong, right?",
+      "choice_data_list": [],
+      "orig_name": "ヤマト",
+      "orig_text": "バカ！　\n声がデカいよ！　\n……裏切るっつったって、\n元は盗品だ。\nこいつらの持ちモンじゃない。\nそいつを頂いたところで、\nだろう？"
+    },
+    {
+      "name": "Wakana",
+      "text": "Ah... That's true...\nOriginally stolen stuff...\nWe’re just stealing it back...",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "あ……\nそ、\nそうか……\n元はと言えば、\n盗まれたもの……\nそれを、\nさらにわたしたちが盗む、\nだけ……"
+    },
+    {
+      "name": "Wakana",
+      "text": "Uh, uh, hmm...?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "えーと、\nえーとぉ……？"
+    },
+    {
+      "name": "Wakana",
+      "text": "Then it's okay, I guess.",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "なら、\nいっか、\nうん。"
+    },
+    {
+      "name": "Wakana",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Wakana",
+      "text": "──No! But isn't this plan\nway too thrilling~~~~!?",
+      "choice_data_list": [],
+      "orig_name": "ワカナ",
+      "orig_text": "──いや！　\nにしてもその作戦、\nスリリング過ぎませんかぁ～～！？"
+    },
+    {
+      "name": "Narration",
+      "text": "Ignoring Wakana's worries, the car carrying {0} and the others accelerates towards the thieves' den.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ワカナの心配をよそに、{0}たちを乗せたクルマは\n盗賊団のアジトに向かって加速するのであった。"
+    }
+  ]
+}

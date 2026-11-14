@@ -1,0 +1,522 @@
+{
+  "title": "Emilia Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One afternoon in Landosol, a certain silver-haired girl\nis standing in the street and glancing around nervously.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "昼下がりのランドソルの街中、\nきょろきょろと辺りを見回す銀髪の少女がいた。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Umm, I took a right turn here, so...\nHuh? This... isn't where I ended up last time?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええっと、\nさっきここを右に曲がって……\nあれ？\n　さっきと違うところに出ちゃった？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Then if I retrace my steps...\nWait! Which way did I come from just now?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "じゃあ、\nきた方に戻って……\n待って、\n私、\nどっちからきたんだっけ……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ohhh... which way was it?\nI'm right-handed, so... I would probably have turned right...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "う～ん、\nどっちだったかしら。\n私、\n右利きだから、\n右を選びそうな気がする……"
+    },
+    {
+      "name": "Emilia",
+      "text": "But without actually asking myself,\nI can't feel all that sure about it...",
+      "choice_data_list": [
+        "What are you doing?"
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nさっきまでの私に聞かないと、\n本当にそうか\nちょっと自信ないかも……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Huh? Oh, {0}!\nWhat a funny coincidence meeting you here.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "え？\n　あ、{0}！\nこんなところで会うなんて\nすごーく奇遇ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Actually, I should ask what [i]you're[/i]... Wait, I know!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "{0}こそ、\nこんなところで何して……\nあ、\nわかった。"
+    },
+    {
+      "name": "Emilia",
+      "text": "You must be lost, right?\nAnd so you came to me to ask for directions!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "迷子になっちゃったのね。\nそれで、\n心細くて\n私に話しかけてきたんでしょう。"
+    },
+    {
+      "name": "???",
+      "text": "Really now, Lia.\nOf course he isn't lost. Don't say such silly things.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──こらこら、リア。\nそんなわけないじゃない、\n変なこと言わないの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh—Puck!\nWhy would you call it silly?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "む、\nパック！\n変なことってどういう意味なの？"
+    },
+    {
+      "name": "Puck",
+      "text": "Isn't that obvious?\nThis boy clearly saw you panicking in the street.\nHe came over because he was worried about you.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "どういう意味も何も、\nこの子は\n挙動不審なリアを心配してくれたんだよ。\nそれで話しかけてきてくれたに決まってるじゃないか。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I-I was not panicking at all!\nI was... just a little bit unsure which way to go...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "き、\n挙動不審なんてことありません！\nただ、\nほんのちょっぴり、\n道に迷っちゃっただけ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Just the tiniest bit unsure where in the world I was. That's all.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ほんのちょっとだけ、\n右も左もわからなくなってただけなんだから。"
+    },
+    {
+      "name": "Puck",
+      "text": "It's cute how she tries to act tough, this daughter of mine!\nDon't you think so too?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "強がるところが可愛いよね、\nボクの娘。\n君もそう思わない？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Puck!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "パック！"
+    },
+    {
+      "name": "Puck",
+      "text": "Yes, yes, don't get angry.\nReally, it's your fault to begin with.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "はいはい、怒らない怒らない。\n大体、\nリアが悪いんじゃないか。"
+    },
+    {
+      "name": "Puck",
+      "text": "You're the one who insisted on proving\nyou could get by without my help for once, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "たまにはボクに頼らず、\n自分一人でちゃんとしてるところを証明するんでしょ？"
+    },
+    {
+      "name": "Puck",
+      "text": "And yet, you've done nothing but make me worry!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "なのに、\nボクは見ててずっとハラハラしちゃってたよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Well... it's been a while since we got here,\nso I thought it would be wrong\nto keep relying on all of you for everything...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "だって、\nこっちにきてしばらく経つし、\n私も\nいつまでも\nパックやラムたちに甘えてられないって……"
+    },
+    {
+      "name": "Puck",
+      "text": "The sentiment's admirable, but it's not safe.\nStill, let's see... Oh, I just had a good idea!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "それは立派な考えだけど、\n危ないからね。\nでも、\nそうだな……\nあ、\nいいこと思いついた。"
+    },
+    {
+      "name": "Puck",
+      "text": "Hey there, kid.\nYou got some time? Could you help Lia out for a bit?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ねえねえ、君。\n今、時間はある？\n　\nリアに付き合ってくれないかい？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hold on! Puck, wait.\nWe can't make trouble for {0}!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ちょっと、\nパックったら、\n{0}を困らせちゃダメよ。"
+    },
+    {
+      "name": "Puck",
+      "text": "It's not trouble, it's a proposal!\nYou don't want to rely on me today, right?\nThen why not try relying on him for a while instead?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "折衷案だよ、\n折衷案。\n今日のリアはボクに頼りたくない日なんでしょ？\nだったら、\nこの子に頼るしかないじゃないか。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hmm...\nBut that feels a bit too much like cheating...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "うーん、\nでも、\nそれってなんだか\nズルっこじゃないかしら……"
+    },
+    {
+      "name": "Puck",
+      "text": "No worries, no worries.\nSo, what do you say, kid? You up for the job?",
+      "choice_data_list": [
+        "I'll do it."
+      ],
+      "orig_name": "パック",
+      "orig_text": "気にしない気にしない。\nそれで、\n君はどうかな？\n　引き受けてくれる？"
+    },
+    {
+      "name": "Puck",
+      "text": "See? He's a good boy, this one.\nWell then, take care of Lia for me! ♪",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ほら、\nこの子はいい子だ。\nじゃあ、\nリアのことをよろしくね～♪"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ohhh, why does Puck have to say these things...?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "もうっ、\nパックったら言いたい放題なんだから……"
+    },
+    {
+      "name": "Emilia",
+      "text": "I'm sorry for mixing you up in this.\nIf you're busy, you really don't need to worry...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ごめんね、\n巻き込んじゃって。\n用事があるなら、\n気にしないでくれていいから……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh...? You really aren't busy at all?\nWell, then... Mm, I suppose I'll accept your help.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう？\n　本当に用事はないの？\nそっか……\nん、\nそれなら甘えちゃおうかな。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Actually, it was lonely walking alone,\nso I was starting to wish I had someone to talk to.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "実は\n一人で歩くのも寂しくて、\nそろそろ誰か話し相手が欲しかったところなの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "That's right. It's been days now since we all arrived here, hasn't it?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そうなの。\n私たちも\nこっちにきてから何日も経ったでしょ？"
+    },
+    {
+      "name": "Emilia",
+      "text": "If we're going to stay here for a while,\nI'd really like to learn a little more about this world.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "戻るまでもう少しこっちにいるなら、\nもっとちゃんと\nこの辺りのことを勉強したいなって。"
+    },
+    {
+      "name": "Emilia",
+      "text": "But I just ended up getting myself lost...\nI tried to use signs and maps,\nbut the writing you use here is nothing like ours...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nさっそく一人で困っちゃって……\n街の看板とか地図なんだけど、\n書いてある文字が全然違って読めなかったの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I should do what Subaru does\nand at least try to learn some simple writing.",
+      "choice_data_list": [
+        "Well then, shall I show you around?"
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "簡単な読み書きくらい、\nスバルを見習ってちゃんと勉強しなくちゃダメね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes, Mr. Guide!\nI'll be relying on your expert knowledge!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "はい、\n先生！\nこれから、\nしばらくよろしくお願いします。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Heheh... This feels kind of funny.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ふふっ、\nなんだかへんてこね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, are they selling appas over there?\nHuh? Those aren't appas, they're \\\"apples\\\"?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ、\nあれってもしかしてリンガじゃない？\nえ？\n　リンガじゃなくて、\nリンゴ？"
+    },
+    {
+      "name": "Emilia",
+      "text": "They look just the same,\nand even the names sound alike? How strange...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "すごーくそっくりで、\n名前までそっくりなんて不思議……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Still... \\\"apples\\\"? Hee hee.\nThat's such a funny-sounding name. It's sort of cute.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nリンゴ……\nくすくす。\nそれ、\nとっても変な響きね。\nちょっと可愛い。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, a cat!\nThe animals here are mostly the same as ours.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ、\n猫！\n動物はこっちも似たような感じなのね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Here, kitty kitty...Myahh... Myahh...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ほら、\nこっちこっち……\nにゃ～\nにゃ～"
+    },
+    {
+      "name": "Emilia",
+      "text": "Myahh~! Ah—oh dear... The kitty ran away...\nI never have been very good with animals...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "にゃ～\nって、\nああ、\n逃げられちゃった……\n昔から、\nあんまり動物は懐いてくれないのよね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Huh? Oh, you're right.\nI'll always have Puck, so I should ask him to let me pet him later.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "え？\n　\nうん、\nそうね。\nパックがいてくれるから、\nあとでいっぱい、\n背中を撫でさせてもらわなきゃ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ahh, that was fun.\nIt's so exciting seeing all these new things.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "はぁ、\n楽しかった。\n色んなものがあってやっぱり新鮮ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Shall we take a little rest, {0}?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ちょっと休んでいかない、{0}？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Here we go...\nI'm tired out from all that walking.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "よっこいしょ……\nたくさん歩いて疲れちゃった。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Still, I was really surprised.\nWherever we went, you seemed to find people you know!\nYou really do have a lot of friends.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nすごーく驚いちゃった。\nだって、\nどこにいってもあなたの顔見知りがいるんだもの。\nあなた、\nとっても顔が広いのね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Is this city where you grew up?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "この街が\nあなたの故郷なの？"
+    },
+    {
+      "name": "Emilia",
+      "text": "You don't think so?\n\\\"Think\\\"... That's a funny way to put it.",
+      "choice_data_list": [
+        "Well, I lost all my memories."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "違うと思う？\n思うって、\nなんだか変な言い方ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, you lost your...\nHuh?! You mean you don't remember anything?!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "記憶がないって……\nえ！\n　それ、\n何にも覚えてないってこと？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Nothing about your past, or even your family?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "昔のこととか、\n家族のこととかも覚えてないの？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh... I had no idea...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう、\nそうなんだ……"
+    },
+    {
+      "name": "Emilia",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Mm... That's another big surprise.\nBut thank you. For sharing it with me.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ううん、\nすごーくビックリ仰天しちゃった。\nでも、\n話してくれて\nありがとう。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Actually... I'm not all that different myself.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "実はね、\n私も\nあなたとちょっと似てるの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "There was a time when I slept for years and years.\nAnd I still don't remember much from before then.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "私、\nちょっと長い間、眠ってたことがあって。\n眠っちゃう前のこととか、\nあんまり覚えてないの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "That's why I'm so lucky to always have Puck by my side.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "だから、\nずっと一緒にいてくれるパックが大切で。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I guess it's like how you are with Kokkoro.",
+      "choice_data_list": [
+        "Like family."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "きっと、\nあなたとコッコロちゃんの関係と一緒ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes! We're family!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう！\n　家族なの！"
+    },
+    {
+      "name": "Emilia",
+      "text": "It's so strange watching you. When I can't remember things,\nit makes me all nervous, but you seem fine and dandy!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……なんだか、\nあなたって不思議ね。\n思い出せないことがあって、\n私はすごーく不安だったのに、\nけろっとして見えるもの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh? You're still learning lots of things?\nYes, I guess you would be...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "じゃあ、\nあなたも色々と勉強中なんだ？\nうん、\nそうなのね……"
+    },
+    {
+      "name": "Emilia",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hey, {0}.\nIf you wouldn't mind, could we get together for walks like this again?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ねえ、{0}。\nもしよかったら、\nまたこうやって\n一緒に出歩かない？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Watching how hard you try\nmakes me feel like I have to work harder myself, too!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "頑張ってるあなたを見てたら、\n私もなんだか、\nもっと頑張ろうって思える気がするの！"
+    },
+    {
+      "name": "Emilia",
+      "text": "You're such a very good, very hardworking boy!",
+      "choice_data_list": [
+        "I do always try my very best.",
+        "Thanks for saying that."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "あなたって、\nホントにすごーく立派な頑張り屋さんね！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Mm-hm! You should be proud of yourself.\nI want to be more like you!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "うんうん、\nいっぱい胸を張っていいと思うの。\n私も見習わなくっちゃ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "It's good to hear praise when you've worked hard.\nAnd anyone can see you've earned plenty of it.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "すごいことをしたら褒めてもらいたいもの。\nあなたはもっともっと、\n褒められていいぐらいなの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I think I'll make working hard like you a goal of my own!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "私も、\nあなたみたいな\n立派な頑張り屋さんを目指すわね！"
+    },
+    {
+      "name": "Puck",
+      "text": "Maybe you should start by working on your sense of direction.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "そのためにも、\nまずは方向音痴からなおしていかないとだね～"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ohhh~!\nWhy do you come out at the silliest times?!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "もうっ！\nこんな時ばっかり出てこないの！"
+    },
+    {
+      "name": "Emilia",
+      "text": "You big tease, Puck!\nYou nincompoop!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "パックの意地悪！\nアンポンタン！"
+    },
+    {
+      "name": "Narration",
+      "text": "And moments later, all three of them broke out laughing.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "三人の笑い声が公園に響いていった。"
+    }
+  ]
+}

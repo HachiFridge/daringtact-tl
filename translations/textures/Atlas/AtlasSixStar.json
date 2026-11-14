@@ -1,0 +1,784 @@
+{
+  "atlas_name": "AtlasSixStar",
+  "sprites": [
+    {
+      "name": "TwinkleSixStar_star",
+      "x": 489,
+      "y": 472,
+      "width": 40,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_add",
+      "x": 609,
+      "y": 474,
+      "width": 80,
+      "height": 76,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_001",
+      "x": 455,
+      "y": 631,
+      "width": 49,
+      "height": 48,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_002",
+      "x": 506,
+      "y": 629,
+      "width": 49,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_003",
+      "x": 916,
+      "y": 836,
+      "width": 100,
+      "height": 93,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_004",
+      "x": 867,
+      "y": 699,
+      "width": 100,
+      "height": 93,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_005",
+      "x": 916,
+      "y": 931,
+      "width": 100,
+      "height": 93,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_006",
+      "x": 406,
+      "y": 451,
+      "width": 81,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_007",
+      "x": 691,
+      "y": 491,
+      "width": 81,
+      "height": 59,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_008",
+      "x": 969,
+      "y": 748,
+      "width": 35,
+      "height": 41,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star_gloss_009",
+      "x": 969,
+      "y": 791,
+      "width": 35,
+      "height": 43,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TwinkleSixStar_star6",
+      "x": 969,
+      "y": 708,
+      "width": 40,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_bgFog",
+      "x": 0,
+      "y": 681,
+      "width": 563,
+      "height": 111,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        6,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_bgLight01",
+      "x": 565,
+      "y": 622,
+      "width": 170,
+      "height": 170,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_Button",
+      "x": 737,
+      "y": 592,
+      "width": 216,
+      "height": 70,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_ButtonAdditive",
+      "x": 0,
+      "y": 610,
+      "width": 180,
+      "height": 69,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_flash",
+      "x": 0,
+      "y": 806,
+      "width": 310,
+      "height": 218,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        22,
+        10,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_fx_crossLight",
+      "x": 737,
+      "y": 664,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText",
+      "x": 312,
+      "y": 794,
+      "width": 602,
+      "height": 114,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_add",
+      "x": 312,
+      "y": 910,
+      "width": 602,
+      "height": 114,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0000",
+      "x": 916,
+      "y": 800,
+      "width": 7,
+      "height": 10,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        29,
+        202,
+        3
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0001",
+      "x": 916,
+      "y": 812,
+      "width": 14,
+      "height": 22,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        17,
+        195,
+        3
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0002",
+      "x": 879,
+      "y": 664,
+      "width": 28,
+      "height": 33,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        5,
+        181,
+        4
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0003",
+      "x": 955,
+      "y": 663,
+      "width": 34,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        4,
+        175,
+        4
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0004",
+      "x": 406,
+      "y": 512,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0005",
+      "x": 0,
+      "y": 520,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0006",
+      "x": 182,
+      "y": 601,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0007",
+      "x": 588,
+      "y": 552,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0008",
+      "x": 203,
+      "y": 500,
+      "width": 201,
+      "height": 39,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        2,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0009",
+      "x": 385,
+      "y": 582,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0010",
+      "x": 182,
+      "y": 641,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0011",
+      "x": 0,
+      "y": 480,
+      "width": 201,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0012",
+      "x": 0,
+      "y": 560,
+      "width": 201,
+      "height": 39,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        2,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0013",
+      "x": 791,
+      "y": 551,
+      "width": 201,
+      "height": 39,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        2,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0014",
+      "x": 203,
+      "y": 541,
+      "width": 201,
+      "height": 39,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        2,
+        8,
+        1
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0015",
+      "x": 385,
+      "y": 643,
+      "width": 68,
+      "height": 36,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        140,
+        3,
+        9,
+        3
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0016",
+      "x": 955,
+      "y": 625,
+      "width": 50,
+      "height": 36,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        158,
+        3,
+        9,
+        3
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0017",
+      "x": 932,
+      "y": 802,
+      "width": 35,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        173,
+        5,
+        9,
+        5
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0018",
+      "x": 909,
+      "y": 674,
+      "width": 22,
+      "height": 23,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        186,
+        5,
+        9,
+        14
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_mainText_hilight.png0019",
+      "x": 867,
+      "y": 689,
+      "width": 10,
+      "height": 8,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        198,
+        5,
+        9,
+        29
+      ]
+    },
+    {
+      "name": "UnlockSixStarRankUp_whiteRect",
+      "x": 933,
+      "y": 677,
+      "width": 20,
+      "height": 20,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

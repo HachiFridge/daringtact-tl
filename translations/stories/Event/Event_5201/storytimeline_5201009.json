@@ -1,0 +1,964 @@
+{
+  "title": "Crowns fusion",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The girl who formed the basis for Ames: Sumika Yukisame, has her memories targeted. Something strange starts happening to her, and {0} catches a glimpse of her overflowing memories.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "自身の記憶が狙われているという、\nアメスの元となった少女、\n幸雨澄花。\n彼女に異変が起き、\nあふれ出す記憶を垣間見る{0}。"
+    },
+    {
+      "name": "Narration",
+      "text": "As this was happening──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その同時刻──"
+    },
+    {
+      "name": "Christina",
+      "text": "……Huh?\nWhat's with these tremors, what's going on?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……うん？\nこの揺れはなんだ、\nなにが起きている？"
+    },
+    {
+      "name": "過去のクリスティーナ",
+      "text": "……──",
+      "choice_data_list": [],
+      "orig_name": "過去のクリスティーナ",
+      "orig_text": "……──"
+    },
+    {
+      "name": "Christina",
+      "text": "Ah, wait! Don't go disappearing on your own!\nWe were just getting to the fun part...!\n...No, this presence...all of this was just the opening act, how exciting☆",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あっ、待て！　\n勝手に消えるんじゃない！\nここからが愉しいところだというのに……！\n……\nいや、\nこの気配……\nここまでは前座か、\nときめかせてくれる☆"
+    },
+    {
+      "name": "過去のネネカ",
+      "text": "……──",
+      "choice_data_list": [],
+      "orig_name": "過去のネネカ",
+      "orig_text": "……──"
+    },
+    {
+      "name": "Neneka",
+      "text": "It disappeared...I somehow doubt that this situation is resolved.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "消えた……\n事態が収束したとは到底思えませんね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Let's hurry a bit, Gregor.\nMy hunches tend to be on their mark, much to my dismay.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "少し急ぎますよ、\nグレゴール。\n嫌な予感というのは、\nどうにも的中率が高くて\n嫌になりますね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "An earthquake...this isn't.\nTo put it simply, this feels like a lag spike...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "地震……\nじゃないなこれ。\n雑に言ってしまえば処理落ち、\nって感じかな……"
+    },
+    {
+      "name": "過去のラビリスタ",
+      "text": "……──",
+      "choice_data_list": [],
+      "orig_name": "過去のラビリスタ",
+      "orig_text": "……──"
+    },
+    {
+      "name": "Labyrista",
+      "text": "……Have their priorities changed?\nIt looks like things are being taken to the next level.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……行動の優先順位が変わった？\n事態がもう一段進行したってとこか。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "……Can't be helped.\nI'm not really keen on this idea, but I'll give it a shot.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……仕方がない。\nあんまり気乗りはしないけど、\n手は打っておこう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I have to do everything I can...to protect this world.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "全力を尽くさないとね……\nこの世界を守るために。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Ngh...",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……っ……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Nn...was I seeing memories again…?\nIt's rare for you to wake up before me, isn't it...?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ん……\nまた、\n記憶を見てた……？\nあんたがあたしより先に起きるなんて、\n珍しいわ、\nね……？"
+    },
+    {
+      "name": "Ameth",
+      "text": "This area...!\nActually, I remember seeing this place in her memories...!\nWhat's going on, Sumika?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "景色が……！？\nていうかここって、\n記憶の中で見た……！\nどうなってるのよ、澄花！？"
+    },
+    {
+      "name": "Sumika",
+      "text": "The test field from development...\nThe memory overrides...have extended to space itself...\nAny more than this and…!",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "開発中だった頃のテストフィールド……\n記憶の、\n上書きが……\n空間にまで及んで……\nこれ以上\nは……っ！"
+    },
+    {
+      "name": "Past Seven Crowns",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "過去の七冠",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Are those...the fake Seven Crowns?!\nWhy are they gathering...?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あれって、\n偽の七冠！？\nどうして集まって……？"
+    },
+    {
+      "name": "Sumika",
+      "text": "DOOOOON'T──!",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "ダメぇぇぇぇぇぇぇぇぇ\nぇ──っ！"
+    },
+    {
+      "name": "？？？",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Hold on...what the heck is that!\nDid the fake Seven Crowns fuse into that thing?!\nThey can do that?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ちょっと……\nなによあれ！\n偽の七冠が一つになったように見えたんだけど！？\nあいつら合体とかできたわけ！？"
+    },
+    {
+      "name": "Sumika",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Hey, Sumika! Hang in there!\nAre you okay?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ねぇ、\n澄花！　\nちょっと！\n大丈夫なの！？"
+    },
+    {
+      "name": "Sumika",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "W-What should we do...!\nThere's no response from this girl...!\nHave all of her memories been stolen...?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "ど、\nどうしよう……！\nこの子の反応がない……！\n記憶が、\n全部\n奪われちゃったの……！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "No it isn't!\nNo one could make a decision like that...!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "違うわよ！\nあんな決断、\n誰にも……！"
+    },
+    {
+      "name": "Sumika",
+      "text": "……It's okay.\n...I'm still...here...",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "……だいじょう、\nぶ。\n……まだ、\n私は……\nここに、\nいる……"
+    },
+    {
+      "name": "Sumika",
+      "text": "But...now...only...a...few...memories...left...",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "でも、\nもう、\n残る、\n記憶は、\nわず、\nか……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Sumika! Hey!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "澄花！　\nねぇ！"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Metamorph Regnant.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『変貌大妃』。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Kyaa!?\nThis attack…Neneka's!?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "きゃあっ！？\nこの攻撃……\nネネカの！？"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Leap King.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『跳躍王』。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Kh! ...This way!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "っ！　\n……こっち！"
+    },
+    {
+      "name": "Ameth",
+      "text": "That was close, that punch just now used the Leap King's Spatial Leap...!\nCan that thing use all of the Seven Crowns' powers?\nEven just one is unfair～!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "危なかったわね、\n今の拳は\n『跳躍王』の空間跳躍だわ……！\nまさか、\n七冠の権能が全部使えるってわけ？\nそんなの、一つでも反則だってのに～～～！"
+    },
+    {
+      "name": "Ameth",
+      "text": "All of them…?\nThat’s bad, wouldn't that mean...Regina Geas too...?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "全部……？\nまずい、\nじゃあまさか、\n『誓約女君』のアレも……！？"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Regina Geas.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『誓約女君』。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Christina's sword…an absolute attack!\nWe can't dodge this──",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "クリスティーナの剣……\n絶対攻撃！\nこれは避けられない──"
+    },
+    {
+      "name": "？？？",
+      "text": "──Then we simply won't!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──ならば避けねばいい！"
+    },
+    {
+      "name": "七冠融合体",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Neneka",
+      "text": "Chris, I'll be firing everything at once.\nDo be careful.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "クリス、\nまとめて撃ちます。\n気を付けてくださいね。"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahaha☆\nI'd love to see you try and hit me!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あっはっは☆\n当ててみろ、\nと返そうか！"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Kaiser Insight.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『覇瞳皇帝』。"
+    },
+    {
+      "name": "Christina",
+      "text": "Hoh, aiming as if you can see the future, is that Hadou Tensei at work?\nHmm, I see, I see.\nAn amalgamation of the Seven Crowns' data, in short.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほう、\n未来を見通すかのごとき位置選択、\nあれは覇瞳天星か？\nふぅむ、\nなるほどなるほど。\n我々七冠のデータの融合体、\nというわけだ。"
+    },
+    {
+      "name": "Christina",
+      "text": "Hey boy, how envious I am of you to come across such an enjoyable opponent. Perhaps I'll join the fray as well...♪",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "やぁ坊や、\nこんなにも愉しい相手と逢瀬とは羨ましい。\nワタシも混ぜてもらおうか……♪"
+    },
+    {
+      "name": "Neneka",
+      "text": "It seems the situation is only getting worse.\nThis space...even things that were never implemented are starting to show up.\nThat’s most likely the work of a data collection program, isn’t it?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "どうやら状況は\n悪化の一途をたどっているようですね。\nこの空間……\n実装外のものまで現れてしまうとは。\nさしづめあれは、\nデータ収集プログラムですか？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Two Seven Crowns...!\nBut, over there...",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "七冠が二人……！\nだけど、\nあっちは……"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Leap King, Regina Geas.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『跳躍王』、\n『誓約女君』。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Several at once...!",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "同時実行……！"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Metamorph Regnant, Kaiser Insight.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『変貌大妃』、\n『覇瞳皇帝』。"
+    },
+    {
+      "name": "Christina",
+      "text": "This thing...color me impressed!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "コイツはっ、\n大したものだ！"
+    },
+    {
+      "name": "Ameth",
+      "text": "To completely subdue those two...!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あの二人を\n完全に抑え込むなんて……！"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Practice: Queen Labyrinth.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "実行、\n『迷宮女王』。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Are you alright?!\nThat thing...it tried to use Akira's Object Manipulation to trap her...!\nIt's still aiming for the rest of the memories...in Sumika's body?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "大丈夫！？\nあいつ……\n晶のオブジェクト生成でこの子を捕らえようと……！\nあくまで狙いは残りの記憶……\n澄花の体ってわけ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "Well done, boy!\nSorry, but I can't help you even if I wanted to!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "よく守った坊や！\n悪いが\nそちらにまで手が回りそうもない！"
+    },
+    {
+      "name": "Neneka",
+      "text": "I'll leave her safety to you.\nIt seems your Guide Fairy over there is the key.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "彼女の守りは任せますよ。\nどうやらそちらのガイド妖精が鍵のようですから。"
+    },
+    {
+      "name": "七冠融合体",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Eh, wah...!?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "え、\nちょっ……！？"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "Queen Labyrinth, Metamorph Regnant,\nKaiser Insight, Regina Geas,\nLeap King, Great Guidance.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "『迷宮女王』、\n『変貌大妃』、\n『覇瞳皇帝』、\n『誓約女君』、\n『跳躍王』、\n『嚮導老君』。"
+    },
+    {
+      "name": "Neneka",
+      "text": "That joke isn't very funny...!",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "笑えない冗談を……！"
+    },
+    {
+      "name": "Christina",
+      "text": "This is incredible...!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "これは壮観……！"
+    },
+    {
+      "name": "Seven Crowns Fusion Form",
+      "text": "──Practice.",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "──実行。"
+    },
+    {
+      "name": "Everyone",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "'Arms Creation'!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "『武装生成』！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "──I've kept you waiting, boy!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "──待たせたね、\n少年！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Akira!\nYou're late! Just what were you doing?! Nice timing!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "晶！\nっ、\n遅いわよ！　\n何やってたのよ！　\nナイスタイミング！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Sorry, sorry, your emotions are all over the place, Fio.\nI've been struggling over here too~\nBut thanks to that──",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ごめんごめん、\n感情ぐっちゃぐちゃだねフィオ。\nこっちはこっちで色々大変だったんだよ～\nでもおかげでさ──"
+    },
+    {
+      "name": "Christina",
+      "text": "Akira! This is no time for leisurely chatter!\nThat thing isn't done attacking!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "晶！　\nのんびり話してる場合じゃないぞ！\nアイツの攻撃はまだ終わっていない！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Hm? Ah, that's no problem──",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ん？　\nああ、\n問題ないよ──"
+    },
+    {
+      "name": "Rajraj",
+      "text": "What a troublesome object.\nLet's smash it to pieces.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "邪魔なオブジェクトですね。\n砕けてしまいなさい。"
+    },
+    {
+      "name": "七冠融合体",
+      "text": "──！",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "──！"
+    },
+    {
+      "name": "Neneka",
+      "text": "…Professor!?\nAkira, you didn't…",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……教授！？\n晶、\n貴方まさか……"
+    },
+    {
+      "name": "Zora",
+      "text": "As perceptive as ever, Utsushimi Neneka.",
+      "choice_data_list": [],
+      "orig_name": "ゾラ",
+      "orig_text": "相変わらず察しがよいな、\n現士実似々花。"
+    },
+    {
+      "name": "Zora",
+      "text": "...Hmm, it seems my data is incomplete.\nBeing a remnant of our development days, I suppose that’s inevitable.",
+      "choice_data_list": [],
+      "orig_name": "ゾラ",
+      "orig_text": "……フム、\n私のデータは\n不完全と見える。\n開発当時のものであるならば、\n必定か。"
+    },
+    {
+      "name": "Zora",
+      "text": "In that case, let us stop for a moment.\nRajkumar Rajinikanth. Spatial Leap is not──",
+      "choice_data_list": [],
+      "orig_name": "ゾラ",
+      "orig_text": "ならば少々、足を止めてもらおう。\nラジクマール・ラジニカーント。\n空間跳躍は──"
+    },
+    {
+      "name": "Rajraj",
+      "text": "──I understand, Elder. If it’s copying our abilities,\nit would be privy to the coordinates of my destination.\nIntercepted at my destination before I can even reach it...how troublesome.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "──分かっていますよ、長老。\n権能をコピーしているなら、\n向こうに転移座標が筒抜けなのでしょう。\n発動した瞬間、\n転移先に先回りされる……\n面倒なことです。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "In that case, we will crush it with sheer force.\nI will show it violence that doesn't rely on any special ability.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "となれば、\n純粋な力で叩き壊すまで。\n権能など一切関係のない暴力を\n見せてあげましょう。"
+    },
+    {
+      "name": "七冠融合体",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "七冠融合体",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Ameth",
+      "text": "\"Leap King\", and that's...\"Great Guidance\", right?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "『跳躍王』に、\nあれは……\n『嚮導老君』、\nよね？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Whaddya think?\nHow's that for an excuse for being late?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "どうだい？\nこれなら遅刻の理由になるってもんでしょ。"
+    },
+    {
+      "name": "Christina",
+      "text": "Quite the surprise, Akira!\nYou've managed to gather five of the Seven Crowns in a single place!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "とんだサプライズだな\n晶！\nよくもまぁ\n七冠を５人も一つ所に集めたものだ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Eh? Nah, actually──",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ん？　\nいや、\n実は──"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Wha!? Kaiser Insight...!?\nAnother fake!? How many times will it keep coming back, so persistent!\nGet rid of it now, Akira! The bad memories are all coming back to me!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "っ！？　\n覇瞳皇帝……！？\nまたニセモノ！？　\n何回復活してくるのよ、\nしつっこいわね！\nさっさと倒しちゃいなさい晶！　\nあたしヤな思い出あんのよ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Uhhh, Fio, that’s...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あ～\nフィオ、\nそれは……"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "──Chirp, chirp, the insect shrills.\nI think I'll pluck it's wings now.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "──ピィピィ喧しいわよ羽虫。\nその羽もいでやろうかしら。"
+    },
+    {
+      "name": "Ameth",
+      "text": "......They're the real deal?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……これ本物？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Yeah.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "うん。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Kyaaah!? If that’s the case, then why didn't you say so sooner!?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "きゃああっ！？\nそれならそうと早く言いなさいよ！？"
+    },
+    {
+      "name": "Christina",
+      "text": "…Surprising. Not even a surprise, but a miracle.\nMana, no...Kaiser Insight.\nTo think even you would come running.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "……驚いた。\nもはやサプライズではなく奇跡と呼ぼうか。\n真那さ……\nいいや、\n覇瞳皇帝。\nアナタまで駆けつけるとは。"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "I just came to get rid of my data.\nNot something I could leave to someone else, could I?\nEspecially not to any of the OTHER Seven Crowns...right?",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "自分の情報を始末しに来ただけよ。\n他人任せにできることじゃないでしょう？\nましてや\n他の七冠任せなんて……\nねぇ？"
+    },
+    {
+      "name": "Neneka",
+      "text": "…Please don't look at me when you say that, Mana.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……私を見ながら言うのをやめてください、\n真那。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "It seems we've gathered our forces.\nThough not all the Seven Crowns are here,\nit should be more than enough to destroy that eyesore.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "戦力は揃ったようですね。\n七冠が一堂に会する\nとまではいきませんが、\nあの目障りな塊を破壊するには十分でしょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "What is it?\nTime is not on our side, so make it brief.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "なんでしょう。\n今は時間がありませんので\n手短に。"
+    },
+    {
+      "name": "Christina",
+      "text": "Don't rush him, Neneka.\nThe boy's eyes...they seem full of resolve.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そう急かしてやるなネネカ。\n坊やの目……\nなにかを覚悟しているようだ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You...\n...That's right, she asked us to do it.",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "あんた……\n……\nそうよね、\nあたしたちが頼まれたんだもんね。"
+    },
+    {
+      "name": "Zora",
+      "text": "Akira's...Labyrista's Princess Knight.\nThe oncoming battle will be a clash of the Seven Crowns' abilities.\nNo matter how strong your resolve, I must say this is reckless.",
+      "choice_data_list": [],
+      "orig_name": "ゾラ",
+      "orig_text": "晶……\nラビリスタのプリンセスナイトよ。\nここより先の戦いは\n七冠の権能の衝突となる。\n如何に強き覚悟を携えど、\n無謀と言わざるを得まい。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "You lack both strength and technique.\nI do not intend to fight while covering for dead weight.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "あなたには\n力も技術も足りていません。\n足手まといのフォローをしながら戦うなど\n私は御免です。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You know, there are ways to phrase these things, Rajiraji.\n...Well, can't say I expected you to bother with them.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あのねぇ、\n言い方ってものがあるでしょラジラジ。\n……\nまぁそんな気遣い期待しちゃいないけどさ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "…I understand how you feel, boy, but with your current status,\nit's impossible for you to handle that thing on your own.\nWe would still really appreciate your support, though.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……気持ちは分かるけど\n少年、\nキミの今のステータスじゃ、\nアイツを倒しきるのは不可能だ。\nアタシたちのサポートに徹してくれると助かるよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "…This is all karma coming back to bite me, y'know.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……アタシの因果でもあるわけだし、\nね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Even Akira...What is it with everyone?!\nThe Seven Crowns are still as self-centered as ever!\nIt'd be nice if you just worked with us here!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "晶まで……\nなんなのよみんなして！\n相変わらず七冠ってやつは\n自分本位な連中ね！\n少しくらい協力してくれたっていいじゃない！"
+    },
+    {
+      "name": "Labyrista and the others",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタたち",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "That power of yours, use it.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "『あの力』を使いなさい。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "…Mana?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……真那？"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "Before reconstruction, you had been bothering me a lot with it──",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "再構築より以前、\nこの私を散々邪魔してくれた──"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "──Your sword from the past.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "──過去のあなたの剣を。"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "That sword, created to defeat us Seven Crowns.\nA power even I have analyzed and copied for myself.\nI understand it all too well...it should be effective against that thing too.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "アレは、\n私たち七冠を倒すための剣。\n私自身が解析してコピーしたことのある力だもの。\nよく分かる……\nあいつにも特効のはずよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "…You...why…?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……あんた……\nなんで……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "…True, that sword would be much more effective than brute force. But what's your game here, Mana? Never in my wildest dreams would you, the most selfish Seven Crown, be the first to stand by the boy's side.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……確かに\nあの剣なら、\nアタシたちが力押しで破壊するより効果的かも。\nけど\nどういうつもりなのかな、\n真那。\nまさか七冠の中で、\n自分本位の最たるアンタだけが少年の側に立つとは思わなかったよ。"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Neneka",
+      "text": "Even if we accept Mana's proposal, how do we call upon the power of the past?\nWe received that data from that Guide Fairy before,\nbut I doubt she has the capacity to do so now.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "真那の提案に乗るとして、\nどうやって過去の力を呼び出すのです？\n私たちは\nあのガイド妖精からデータを受け取りましたが、\n今の彼女にそんな余力があるとは\nとても思えませんが。"
+    },
+    {
+      "name": "澄花",
+      "text": "……──",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "……──"
+    },
+    {
+      "name": "フィオ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Sumika",
+      "text": "──Fio──",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "──フィオ──"
+    },
+    {
+      "name": "Ameth",
+      "text": "Eh? This voice...Sumika?\nCould this be...the Guide Fairy communication channel?!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "えっ？　\nこの、\n声……\n澄花？\nこれって……\nガイド妖精用の通信チャンネル！？"
+    },
+    {
+      "name": "Sumika",
+      "text": "......I'm sorry.\nReturning him to the past...would be difficult for me right now.",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "……ごめんなさい。\n彼を過去に回帰させること……\n今の私では、\n難しい。"
+    },
+    {
+      "name": "Ameth",
+      "text": "…No way…!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "……そんな……！"
+    },
+    {
+      "name": "Sumika",
+      "text": "So, Fio...I entrust that role to you.",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "だから、\nフィオ……\nその役目は、\nあなたに任せるよ。"
+    },
+    {
+      "name": "Sumika",
+      "text": "As the fairy guiding him, grant him strength──",
+      "choice_data_list": [],
+      "orig_name": "澄花",
+      "orig_text": "彼を導く妖精として、\n彼に力を──"
+    },
+    {
+      "name": "Ameth",
+      "text": "Eh? My body...it's glowing...!?",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "えっ？\nあ、\nあたしの体が光って……！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "I see, because this body is also data from the past…?\nNo, this on it's own isn't enough...I have to supplement it.\nWith the power I once held in the past──",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "そっか、\nこの体も過去のデータだから……？\nいや、\nそれだけじゃ足りないのね……\n補完しなきゃ。\n過去のこいつが持ってた力を──"
+    },
+    {
+      "name": "Ameth",
+      "text": "──With my own memory!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "──あたしの記憶で！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Take this, {0}...!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "受け取りなさい、{0}──！"
+    },
+    {
+      "name": "Ameth",
+      "text": "──Hmph!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "──っ！"
+    },
+    {
+      "name": "フィオ",
+      "text": "データの受け渡しって、\nこれでいいのよね……？\n前にも\nおなじようなことやってたもんね？\n勢いでやっちゃったけど、\nあたし、\nすごいことやっちゃってない！？　",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "データの受け渡しって、\nこれでいいのよね……？\n前にも\nおなじようなことやってたもんね？\n勢いでやっちゃったけど、\nあたし、\nすごいことやっちゃってない！？　"
+    },
+    {
+      "name": "Christina",
+      "text": "Hohoh, my oh my.\nIs this what they call a fairy's blessing? What a show off.\nHey Neneka, do you think this Christina-san should impart her blessing too?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ほほう、\nこれはこれは。\n妖精の祝福というやつかな？　\n見せつけてくれる。\nなぁネネカ、\nここはクリスティーナさんも祝福を与えるべきだと思うか？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Don't mix in unnecessary impurities.\nThat aside, it seems he's almost ready, so let us prepare for battle as well.\nIt doesn't look like the Professor can wait much longer either.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "余計な不純物を混ぜないように。\nそれよりも\n彼の準備も整いそうなことですし、\nこちらも戦闘準備を。\n教授も待ちきれないようですしね。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "I have no plans on giving him his flowers.\nI will destroy anything that gets in my way.\n...Be sure to watch your back, Mana.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "私は彼に花を持たせる気などありません。\n邪魔をするものは全て壊します。\n……\nせいぜい\n背中には気を付けることですね、\n真那。"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "Oh, Professor.\nHave you become underhanded enough to try attacking from behind?\nIf you love sneak attacks so much, surely you won't need those useless muscles anymore?",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "あら教授。\n背中から撃とうとするなんて\n姑息になったものね？\n闇討ちが好きなら、\nその無駄な筋肉はいらないんじゃない？"
+    },
+    {
+      "name": "Zora",
+      "text": "The Seven Crowns are as harmonious as ever.\nEven their souls, isolated within this temporary world, are ensnared by their nostalgia for it. Hmm...Labyrista, no, Akira: are you glad?",
+      "choice_data_list": [],
+      "orig_name": "ゾラ",
+      "orig_text": "七冠は相変わらず仲睦まじきかな。\n仮初の地に離隔された魂でさえ、\n現世の懐古に囚われる。\nフム……\nラビリスタ、\nいや\n晶よ、\nうれしそうだな？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "…Glad? I don't know about that...\nWe didn't part on the best terms, and even now people have it out for me, you know?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……うれしい？　\nそうなのかな……\nロクな別れ方じゃなかったし、\n今でも命狙われたりするよ？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "…But...well. We're a hopeless and disorganized bunch...\nBut every now and then, when a big bad shows up that we have to take down, we end up coming together.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……でも、\nまぁ。\nロクでなしでバラバラなアタシたちなんだけどさ、\nこうして倒すべきボスが現れた時は、\n力を合わせることもある。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Moments like these are the greatest part of this game we made.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "こういう瞬間こそが、\nアタシたちが開発したゲームの醍醐味だな\nって。"
+    },
+    {
+      "name": "Seven Crowns",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "七冠",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Data transfer...complete!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "データの受け渡し、\n終わったわ！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Now let's go!\nTo fulfill that girl's wish!",
+      "choice_data_list": [],
+      "orig_name": "フィオ",
+      "orig_text": "さぁ行くわよ！\nあの子の願いを、\n叶えるために！"
+    }
+  ]
+}

@@ -1,0 +1,2019 @@
+{
+  "atlas_name": "AtlasMiniGameBsmCommon",
+  "sprites": [
+    {
+      "name": "bsm_balloon_chat",
+      "x": 1810,
+      "y": 1731,
+      "width": 183,
+      "height": 99,
+      "border": [
+        32,
+        32,
+        32,
+        32
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_balloon_chat_triangle",
+      "x": 2017,
+      "y": 1940,
+      "width": 27,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_bg",
+      "x": 1018,
+      "y": 1854,
+      "width": 562,
+      "height": 44,
+      "border": [
+        0,
+        16,
+        0,
+        16
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_machine_shadow",
+      "x": 1018,
+      "y": 1730,
+      "width": 259,
+      "height": 68,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_arrow",
+      "x": 271,
+      "y": 1518,
+      "width": 58,
+      "height": 92,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        3,
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_bg_name_1",
+      "x": 722,
+      "y": 1575,
+      "width": 324,
+      "height": 39,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_bg_name_2",
+      "x": 1048,
+      "y": 1575,
+      "width": 324,
+      "height": 39,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1058",
+      "x": 1813,
+      "y": 1675,
+      "width": 217,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        26,
+        5,
+        21,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1059",
+      "x": 1813,
+      "y": 1623,
+      "width": 178,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        47,
+        8,
+        39,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1060",
+      "x": 578,
+      "y": 1603,
+      "width": 142,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        64,
+        4,
+        58,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1064",
+      "x": 1089,
+      "y": 1619,
+      "width": 175,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        46,
+        6,
+        43,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1264",
+      "x": 870,
+      "y": 1616,
+      "width": 217,
+      "height": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        24,
+        4,
+        23,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1265",
+      "x": 347,
+      "y": 1599,
+      "width": 229,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        22,
+        4,
+        13,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1277",
+      "x": 1673,
+      "y": 1674,
+      "width": 138,
+      "height": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        68,
+        4,
+        58,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1278",
+      "x": 582,
+      "y": 1659,
+      "width": 139,
+      "height": 56,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        65,
+        2,
+        60,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1296",
+      "x": 833,
+      "y": 1674,
+      "width": 189,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        41,
+        4,
+        34,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1297",
+      "x": 582,
+      "y": 1717,
+      "width": 249,
+      "height": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        4,
+        7,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1309",
+      "x": 1024,
+      "y": 1673,
+      "width": 143,
+      "height": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        63,
+        4,
+        58,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1313",
+      "x": 1810,
+      "y": 1844,
+      "width": 92,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        90,
+        5,
+        82,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1314",
+      "x": 723,
+      "y": 1617,
+      "width": 145,
+      "height": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        63,
+        4,
+        56,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_1315",
+      "x": 347,
+      "y": 1655,
+      "width": 186,
+      "height": 57,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        44,
+        2,
+        34,
+        1
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_charaname_unknown",
+      "x": 1673,
+      "y": 1748,
+      "width": 130,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        68,
+        5,
+        66,
+        5
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_index_base_2",
+      "x": 1619,
+      "y": 1632,
+      "width": 48,
+      "height": 36,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_item_base",
+      "x": 668,
+      "y": 1774,
+      "width": 348,
+      "height": 124,
+      "border": [
+        24,
+        24,
+        24,
+        24
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_label_character",
+      "x": 148,
+      "y": 1452,
+      "width": 98,
+      "height": 20,
+      "border": [
+        8,
+        0,
+        8,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_machine_unknown",
+      "x": 348,
+      "y": 1714,
+      "width": 232,
+      "height": 132,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_text_clear",
+      "x": 1266,
+      "y": 1618,
+      "width": 135,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        6,
+        4,
+        7,
+        6
+      ]
+    },
+    {
+      "name": "bsm_battle_quest_text_next",
+      "x": 0,
+      "y": 1471,
+      "width": 75,
+      "height": 29,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "name": "bsm_bonus_icon_attack",
+      "x": 148,
+      "y": 1488,
+      "width": 19,
+      "height": 21,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_bonus_icon_hp",
+      "x": 2020,
+      "y": 1735,
+      "width": 19,
+      "height": 16,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        4,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "bsm_bonus_label_attack",
+      "x": 1798,
+      "y": 1601,
+      "width": 72,
+      "height": 20,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_bonus_label_hp",
+      "x": 56,
+      "y": 1436,
+      "width": 72,
+      "height": 20,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_arrow",
+      "x": 1995,
+      "y": 1732,
+      "width": 23,
+      "height": 19,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_btn_middle_sub",
+      "x": 82,
+      "y": 1511,
+      "width": 88,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_btn_middle_sub_selected",
+      "x": 172,
+      "y": 1474,
+      "width": 88,
+      "height": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_character_icon_unit_flame",
+      "x": 185,
+      "y": 1526,
+      "width": 84,
+      "height": 84,
+      "border": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_character_sd_unknown",
+      "x": 1911,
+      "y": 1832,
+      "width": 104,
+      "height": 216,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_character_texticon_leader",
+      "x": 463,
+      "y": 1537,
+      "width": 84,
+      "height": 29,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_character_texticon_member",
+      "x": 463,
+      "y": 1568,
+      "width": 84,
+      "height": 29,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_choice",
+      "x": 262,
+      "y": 1460,
+      "width": 85,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_choice_2",
+      "x": 349,
+      "y": 1460,
+      "width": 63,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_finger",
+      "x": 0,
+      "y": 1563,
+      "width": 183,
+      "height": 167,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_disassemblyicon",
+      "x": 1619,
+      "y": 1595,
+      "width": 40,
+      "height": 35,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_tabicon_body",
+      "x": 1374,
+      "y": 1598,
+      "width": 32,
+      "height": 18,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        7,
+        0,
+        7
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_tabicon_gadget",
+      "x": 1251,
+      "y": 1680,
+      "width": 25,
+      "height": 21,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        6,
+        3,
+        5
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_tabicon_tire",
+      "x": 549,
+      "y": 1573,
+      "width": 26,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        3,
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_tabicon_weapon",
+      "x": 549,
+      "y": 1545,
+      "width": 23,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        5,
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_texticon_body",
+      "x": 436,
+      "y": 1477,
+      "width": 85,
+      "height": 28,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_texticon_gadget",
+      "x": 262,
+      "y": 1488,
+      "width": 85,
+      "height": 28,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_texticon_tire",
+      "x": 349,
+      "y": 1488,
+      "width": 85,
+      "height": 28,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_machine_texticon_weapon",
+      "x": 463,
+      "y": 1507,
+      "width": 85,
+      "height": 28,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_custom_tab_off",
+      "x": 1169,
+      "y": 1674,
+      "width": 80,
+      "height": 54,
+      "border": [
+        30,
+        0,
+        30,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "name": "bsm_custom_tab_on",
+      "x": 0,
+      "y": 1502,
+      "width": 80,
+      "height": 59,
+      "border": [
+        30,
+        0,
+        30,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "bsm_custom_text_bg",
+      "x": 1018,
+      "y": 1800,
+      "width": 398,
+      "height": 52,
+      "border": [
+        60,
+        0,
+        60,
+        0
+      ],
+      "padding": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "bsm_effect_flash",
+      "x": 1418,
+      "y": 1730,
+      "width": 123,
+      "height": 122,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "name": "bsm_effect_glow_circle",
+      "x": 1543,
+      "y": 1670,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_ed",
+      "x": 1603,
+      "y": 1510,
+      "width": 68,
+      "height": 65,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        11,
+        3,
+        13,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_equip_lock",
+      "x": 684,
+      "y": 1568,
+      "width": 31,
+      "height": 33,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "bsm_icon_equip_lock_list",
+      "x": 414,
+      "y": 1443,
+      "width": 30,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_equip_unlock",
+      "x": 523,
+      "y": 1470,
+      "width": 30,
+      "height": 35,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "bsm_icon_gadget",
+      "x": 1526,
+      "y": 1508,
+      "width": 75,
+      "height": 67,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        3,
+        5,
+        2,
+        8
+      ]
+    },
+    {
+      "name": "bsm_icon_machinename_1",
+      "x": 1995,
+      "y": 1809,
+      "width": 36,
+      "height": 21,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        8,
+        0,
+        7
+      ]
+    },
+    {
+      "name": "bsm_icon_machinename_2",
+      "x": 1543,
+      "y": 1831,
+      "width": 36,
+      "height": 21,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        8,
+        0,
+        7
+      ]
+    },
+    {
+      "name": "bsm_icon_op",
+      "x": 1459,
+      "y": 1446,
+      "width": 58,
+      "height": 68,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        17,
+        0,
+        17,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_playername_1",
+      "x": 1543,
+      "y": 1804,
+      "width": 25,
+      "height": 25,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        6,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "bsm_icon_playername_2",
+      "x": 1251,
+      "y": 1703,
+      "width": 25,
+      "height": 25,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        6,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "bsm_icon_Reward",
+      "x": 82,
+      "y": 1458,
+      "width": 64,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        9,
+        0,
+        4
+      ]
+    },
+    {
+      "name": "bsm_icon_status_down_attack",
+      "x": 1993,
+      "y": 1640,
+      "width": 30,
+      "height": 33,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_status_down_cost",
+      "x": 1995,
+      "y": 1753,
+      "width": 42,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_status_down_hp",
+      "x": 446,
+      "y": 1448,
+      "width": 33,
+      "height": 27,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_status_up_attack",
+      "x": 1993,
+      "y": 1605,
+      "width": 30,
+      "height": 33,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_status_up_cost",
+      "x": 1995,
+      "y": 1781,
+      "width": 42,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_status_up_hp",
+      "x": 481,
+      "y": 1448,
+      "width": 33,
+      "height": 27,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_time_count",
+      "x": 550,
+      "y": 1514,
+      "width": 25,
+      "height": 29,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "bsm_icon_tire",
+      "x": 582,
+      "y": 1777,
+      "width": 70,
+      "height": 69,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        5,
+        6,
+        5,
+        5
+      ]
+    },
+    {
+      "name": "bsm_icon_unknown",
+      "x": 1279,
+      "y": 1670,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_icon_weapon",
+      "x": 1459,
+      "y": 1516,
+      "width": 65,
+      "height": 80,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        7,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "name": "bsm_index_base",
+      "x": 965,
+      "y": 1736,
+      "width": 48,
+      "height": 36,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_item_List_select_fubuki",
+      "x": 2017,
+      "y": 1966,
+      "width": 26,
+      "height": 22,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "bsm_item_list_select_pieces_confirm_icon_bg_alert",
+      "x": 1526,
+      "y": 1577,
+      "width": 91,
+      "height": 91,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "bsm_item_List_select_pieces_confirm_icon_bg_bonus_alert",
+      "x": 578,
+      "y": 1493,
+      "width": 104,
+      "height": 108,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_item_list_select_sd",
+      "x": 1409,
+      "y": 1598,
+      "width": 115,
+      "height": 130,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_joint_gadget",
+      "x": 0,
+      "y": 1424,
+      "width": 54,
+      "height": 45,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_joint_weapon",
+      "x": 1374,
+      "y": 1504,
+      "width": 83,
+      "height": 92,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_joint_wheel",
+      "x": 1673,
+      "y": 1559,
+      "width": 123,
+      "height": 113,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_line_text_dot_1",
+      "x": 1251,
+      "y": 1674,
+      "width": 9,
+      "height": 4,
+      "border": [
+        2,
+        0,
+        2,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_line_text_dot_2",
+      "x": 1266,
+      "y": 1674,
+      "width": 9,
+      "height": 4,
+      "border": [
+        2,
+        0,
+        2,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_num_gold_comma",
+      "x": 1526,
+      "y": 1704,
+      "width": 15,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_num_gold_pt",
+      "x": 535,
+      "y": 1675,
+      "width": 39,
+      "height": 37,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "bsm_result_bg",
+      "x": 348,
+      "y": 1848,
+      "width": 318,
+      "height": 200,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_skill_texticon_skill",
+      "x": 833,
+      "y": 1747,
+      "width": 130,
+      "height": 25,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_skill_texticon_skill_1",
+      "x": 331,
+      "y": 1572,
+      "width": 130,
+      "height": 25,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_skill_texticon_skill_2",
+      "x": 331,
+      "y": 1545,
+      "width": 130,
+      "height": 25,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_skill_texticon_ub",
+      "x": 331,
+      "y": 1518,
+      "width": 130,
+      "height": 25,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_subindex_base_1",
+      "x": 2017,
+      "y": 2020,
+      "width": 28,
+      "height": 28,
+      "border": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_subindex_base_2",
+      "x": 2017,
+      "y": 1990,
+      "width": 28,
+      "height": 28,
+      "border": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_text_result_draw",
+      "x": 723,
+      "y": 1677,
+      "width": 103,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "bsm_top_button_custom",
+      "x": 668,
+      "y": 1900,
+      "width": 320,
+      "height": 148,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_top_button_friend",
+      "x": 1297,
+      "y": 1900,
+      "width": 305,
+      "height": 148,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_top_button_quest",
+      "x": 990,
+      "y": 1900,
+      "width": 305,
+      "height": 148,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_top_button_rival",
+      "x": 1604,
+      "y": 1900,
+      "width": 305,
+      "height": 148,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "bsm_top_fubuki_button",
+      "x": 185,
+      "y": 1612,
+      "width": 160,
+      "height": 118,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "bsm_top_fubuki_frame",
+      "x": 1582,
+      "y": 1800,
+      "width": 226,
+      "height": 98,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "bsm_top_fubuki_icon",
+      "x": 1872,
+      "y": 1595,
+      "width": 32,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_top_fubuki_icon_gray",
+      "x": 1798,
+      "y": 1573,
+      "width": 32,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bsm_top_title",
+      "x": 0,
+      "y": 1732,
+      "width": 346,
+      "height": 316,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

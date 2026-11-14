@@ -1,0 +1,999 @@
+{
+  "title": "Haunted House Renovation!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Since then, the ghosts have steadily grown, and \nthey were finally about to greet the first day of the reopening.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "あれからお化けたちは着実に成長を遂げ、\nいよいよリニューアル開館の初日を迎えようとしていた。"
+    },
+    {
+      "name": "Matthew",
+      "text": "Haa... It's finally here... I'm getting nervous...",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "はぁ……\nいよいよだね……\n緊張するな……"
+    },
+    {
+      "name": "Victor",
+      "text": "Um, yeah... I wonder if I can do it well...",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "そ、\nそうだね……\nうまくできるかな……"
+    },
+    {
+      "name": "Hughes",
+      "text": "I won't move, I won't move...",
+      "choice_data_list": [],
+      "orig_name": "ヒューズ",
+      "orig_text": "動かない、\nオレサマは、\n動かない……"
+    },
+    {
+      "name": "Eddie",
+      "text": "Guide the customers smoothly to the right... \nGuide the customers smoothly to the right...",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "お客をうまく誘導して右へ……\nお客をうまく誘導して右へ……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Oh! What are you so nervous about? You've practiced so much, so you'll be fine! Believe in yourself!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "もう！\n　何緊張してるんですか！\nあれだけ練習してきたんだから大丈夫です！\n自分を信じましょう！"
+    },
+    {
+      "name": "レイ",
+      "text": "私はかよわい女幽霊……",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "私はかよわい女幽霊……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Miss Rei, please calm down! Everything will be alright!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "レイ様も落ち着いてください！\n　大丈夫ですから！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's right! Practice doesn't betray you, pal!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そうッスよ！\n　練習は自分を裏切らないッス！"
+    },
+    {
+      "name": "Rei",
+      "text": "W-Why can Matsuri be so confident like that?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ど、\nどうしてマツリは\nそんなに自信満々でいられるんだい？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I am a fan of hero shows, pal! Even though it's different,\nit's fun to be on the performing side!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分はヒーローショーのファンッスからね！\nモノは違えど、\n演じる側になれるのは\nなんか楽しいんス！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Yes, that's it! It's natural to feel nervous! \nBut first, please try to enjoy yourself! \nTo entertain the customers, you have to start with yourself!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "そう、\nそれです！\n　緊張するのは仕方ありません！\nでもまずは自分が楽しもうとしてください！\nお客さんを楽しませるには\nまず自分からですよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "But in this case, I have to make them scared, right?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "でもこの場合は\n怖がらせる、\nッスよね。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I don't care about the details!!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "細かいことはいいんです！！"
+    },
+    {
+      "name": "Ghost Father",
+      "text": "You seem lively since the morning, young lady.",
+      "choice_data_list": [],
+      "orig_name": "ゴーストファーザー",
+      "orig_text": "朝から威勢がいいなぁ、\n嬢ちゃん。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ghost Father. Do you need something?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ゴーストファーザーさん。\n何か用ですか？"
+    },
+    {
+      "name": "Ghost Father",
+      "text": "I'm just checking on them. How's it going? It's a little better...",
+      "choice_data_list": [],
+      "orig_name": "ゴーストファーザー",
+      "orig_text": "ちょっとあいつらの様子を見にな。\nどうだ？\n　少しはマシに……"
+    },
+    {
+      "name": "Ghosts",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "お化けたち",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ghost Father",
+      "text": "I can't see that you've changed. \nI've heard that you've become able to endure a little bit of screaming.",
+      "choice_data_list": [],
+      "orig_name": "ゴーストファーザー",
+      "orig_text": "なったようには見えねぇな。\n多少は悲鳴を食えるようになったとは聞いてるが。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Even though I'm still a cast member at the haunted house, I've been steadily growing. I've reached a level where I'm not embarrassed to be in front of the customers. I'll show you what I'm capable of.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "あれでもお化け屋敷のキャストとしては\n着実に成長してますよ。\nお客さんの前に出しても恥ずかしくないレベルにはなりました。\nあなたのことを見返してやりますよ。"
+    },
+    {
+      "name": "Ghost Father",
+      "text": "Well, that's gonna be fun. \nWell, Miss Rei, please bring in lots of customers for us.",
+      "choice_data_list": [],
+      "orig_name": "ゴーストファーザー",
+      "orig_text": "そりゃあ楽しみだな。\nまぁ\nせいぜいたくさんの客を呼び込んでくれや。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Yes, even without being told.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "えぇ、\n言われなくても。"
+    },
+    {
+      "name": "Ghosts",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "お化けたち",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Come on, come on! Don't just stand there, let's open the shop already! Kishi-san, please go around the town and advertise vigorously!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ほらほら！\n　いつまでも固まってないで開店しますよ！\n騎士さんは町を回ってじゃんじゃん宣伝してきてくださいね！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Let's entertain the customers together, everyone!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "みんなでお客さんを楽しませましょう！"
+    },
+    {
+      "name": "Male 1",
+      "text": "It's surprisingly a well-made haunted house, huh? \nThe receptionist lady earlier was also really into it.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "意外としっかりしたお化け屋敷だね。\nさっきの受付のお姉さんも凝ってたし。"
+    },
+    {
+      "name": "Women 1",
+      "text": "S-So, that's right...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "そ、\nそうね……"
+    },
+    {
+      "name": "Male 1",
+      "text": "You don't have to be so scared.\nI've heard that this place isn't that scary.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "そんなに怖がらなくても大丈夫だよ。\nここはそんなに怖くないって話だから。"
+    },
+    {
+      "name": "Women 1",
+      "text": "But, darkness is still scary after all...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "でも、\n暗いのはやっぱり怖いわ……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Isn't the ground beneath your feet bright enough? \nIf you're scared, just look down.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "ちゃんと足元は明るいじゃないか。\n怖ければ下向いてればいいよ。"
+    },
+    {
+      "name": "Women 1",
+      "text": "Well, that's just wasteful, isn't it!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "そ、\nそれはそれでもったいないじゃない！"
+    },
+    {
+      "name": "Male 1",
+      "text": "If that's the case, then I'll hold your hand.\nCome on, let's move forward.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "それなら、\n手を繋いであげるから。\nほら、\n先へ進もう。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ah! Another customer, I presume?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あ～！\n　またお客さんッスか～！"
+    },
+    {
+      "name": "Victor",
+      "text": "Welcome! Come play with us~!",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "いらっしゃ～い！\n　オイラたちと\nあそぼ～！"
+    },
+    {
+      "name": "Women 1",
+      "text": "Wha- Who are these kids?",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "な、\n何この子たち？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hey, sis! If you're free, why don't you play with us? \nWhat do you think would be a fun game to play?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "おねえさん、\nヒマなら自分たちと遊ぶッスよ！\n何して遊ぶのがいいッスかね～"
+    },
+    {
+      "name": "Women 1",
+      "text": "Um, well, if that's the case,\nI'll adjust to your pace, okay?",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "え、\nえっと、\nそれならあなたたちに合わせるわよ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "We're just so hungry, aren't we~\nSo...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分たち\nちょうどお腹空いてるんスよね～\nだから～……"
+    },
+    {
+      "name": "女性１",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Can you be my snack?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "おやつになってもらってもいいッスか？"
+    },
+    {
+      "name": "Victor",
+      "text": "Delicious-looking snacks, here I go!",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "おいしそうなおやつ、\nいただきま～す！"
+    },
+    {
+      "name": "Women 1",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "へ？"
+    },
+    {
+      "name": "Victor",
+      "text": "GUOOOOOOH",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "グオオオオオッ！"
+    },
+    {
+      "name": "Women 1",
+      "text": "AAAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "きゃーーーーー！！"
+    },
+    {
+      "name": "Male 1",
+      "text": "Ahaha, it's cute how you get scared so easily like this.\nHey, don't go ahead alone, okay?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "あはは、\nこれくらいで怖がっちゃってかわいいなー\nおーい、\n一人で先に行かないでよー"
+    },
+    {
+      "name": "Victor",
+      "text": "Nom nom... Scream... Delicious...",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "あむあむ……\n悲鳴……おいしい……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hahaha, that's great, isn't it? \nBut Victor, your howling is getting better and better. \nIs it because you're growing by eating screams?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あはは、\nよかったッスね。\nそれにしてもビクターさん、\n吠えるのどんどんうまくなってるッスね。\n悲鳴を食べて成長してるってことなんスかね？"
+    },
+    {
+      "name": "Victor",
+      "text": "I'm sure it's all thanks to Matsuri being with me~ \nThank you~ Let's keep doing our best!",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "きっと\nマツリちゃんが一緒に居てくれるおかげだよ～\nありがと～\nもっとがんばろうね～"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's right! Our battle has only just begun!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そうッスね！\n　自分たちの戦いは\nまだ始まったばっかッス！"
+    },
+    {
+      "name": "女性１",
+      "text": "はぁ……\nびっくりした～",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "はぁ……\nびっくりした～"
+    },
+    {
+      "name": "Male 1",
+      "text": "Hey now, it's dangerous to run, you know.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "こらこら、\n走ると危ないよ。"
+    },
+    {
+      "name": "Women 1",
+      "text": "I-I'm sorry.",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "ご、\nごめんなさい。"
+    },
+    {
+      "name": "Male 1",
+      "text": "I didn't think you were such a scaredy-cat. \nYour frightened expression is cute though. \nYou don't have to force yourself, just follow after me.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "君がこんなに怖がりだとは思わなかったよ。\n怖がる姿もかわいいけどね。\n無理しなくていいから\n僕のあとについてきな。"
+    },
+    {
+      "name": "Women 1",
+      "text": "Thank you.\nUgh, I really hope you can spare me from being scared anymore.",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "ありがとう。\nはぁ～\nもう怖いのは勘弁してほしいわ。"
+    },
+    {
+      "name": "Eddie",
+      "text": "Oh my, is there something troubling you?",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "おやおや、\n何かお困りかい？"
+    },
+    {
+      "name": "Women 1",
+      "text": "EEK!?",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "ひっ！？"
+    },
+    {
+      "name": "Male 1",
+      "text": "Another incredibly adorable one has appeared, huh? \nThe same trick won't work this time, you know?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "またずいぶんとかわいらしいのが出てきたね。\nさっきと同じ手は通じないよ？"
+    },
+    {
+      "name": "Eddie",
+      "text": "I don't understand what you're talking about. \nI'm just here as a guide.",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "なんのことを言っているのか分からないな。\nオレはここで水先案内人をしてるだけだからね。"
+    },
+    {
+      "name": "Eddie",
+      "text": "There are two paths ahead. \nOne leads to light, the other to hell. \nWhich one is better?",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "この先には二つの道がある。\n片方は光へ続く道、\nもう一つは地獄へ続く道。\nどっちがいい？"
+    },
+    {
+      "name": "Women 1",
+      "text": "The path continues towards the light!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "光へ続く道！"
+    },
+    {
+      "name": "Male 1",
+      "text": "Since we're already here,\nlet's go to the scary-looking place.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "せっかくだから怖そうな方に行こうよ。"
+    },
+    {
+      "name": "Women 1",
+      "text": "No! I don't want to be surprised anymore!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "いや！\n　もうびっくりしたくない！"
+    },
+    {
+      "name": "Eddie",
+      "text": "Ahaha, I see, I see. In that case, it's over there.",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "あはは、\nそうかいそうかい。\nそれならあっちだよ。"
+    },
+    {
+      "name": "Women 1",
+      "text": "Over there, got it!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "あっちね、\n分かったわ！"
+    },
+    {
+      "name": "Hughes",
+      "text": "Who dares disturb my slumber?!",
+      "choice_data_list": [],
+      "orig_name": "ヒューズ",
+      "orig_text": "オレサマの眠りを妨げるのは誰だぁぁああ！！"
+    },
+    {
+      "name": "Women 1",
+      "text": "Uwaaaahhhhh!?",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "うわぁあぁあああ！？"
+    },
+    {
+      "name": "Eddie",
+      "text": "Hahaha! You fell for it!\nThere's no way I'd tell you the true path so easily!!",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "ははは！\n　ひっかかってやんの！\nそんな素直に本当の道教えるわけないじゃん！！"
+    },
+    {
+      "name": "Women 1",
+      "text": "This is terrible...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "ひどい……"
+    },
+    {
+      "name": "Eddie",
+      "text": "This is just part of the job, you know.",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "これが仕事なもんでね。"
+    },
+    {
+      "name": "Women 1",
+      "text": "If that's the case,\nthen this must be the path that leads to light...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "それなら\nこっちが光へ続く道なのね……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Don't be so scared, it's okay. \nLook, this time I'll go first.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "そんなに怖がらなくても大丈夫だよ。\nほら、\n今度は僕が先に行くから。"
+    },
+    {
+      "name": "Eddie",
+      "text": "Please take care!",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "お気をつけてー"
+    },
+    {
+      "name": "Hughes",
+      "text": "Phew, somehow we managed to succeed.",
+      "choice_data_list": [],
+      "orig_name": "ヒューズ",
+      "orig_text": "ふぅ、\nなんとか成功したな。"
+    },
+    {
+      "name": "Eddie",
+      "text": "Ah, I missed out on devouring that scream just now!",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "あ、\n今悲鳴食い損ねちまった！"
+    },
+    {
+      "name": "Hughes",
+      "text": "It's true! I forgot! \nWell, next, next! We can do it, Miss Rei!",
+      "choice_data_list": [],
+      "orig_name": "ヒューズ",
+      "orig_text": "ほんとだ！\n　忘れてた！\nまぁ次だ次！\n　オレサマたちなら\nできる！"
+    },
+    {
+      "name": "Eddie",
+      "text": "Is that so!",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "だな！"
+    },
+    {
+      "name": "Women 1",
+      "text": "Sigh... I really want to go outside soon...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "はぁ……\n早く外に出たいわ……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Hahaha, there's no need to be so scared, you know.\nThey were just adorable little ghosts, weren't they?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "ははは、\nそんなに怖がることないだろ。\nかわいらしいお化けたちだったじゃないか。"
+    },
+    {
+      "name": "Women 1",
+      "text": "Well, even if you say that, \nit's natural to be surprised, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "そ、\nそんなこと言われても\nビックリするものはするんだから仕方ないじゃない。"
+    },
+    {
+      "name": "Male 1",
+      "text": "Then, hide behind me.\nIf you do that, you should be fine, right?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "じゃあ、僕の後ろに隠れてなよ。\nそれなら平気だろ？"
+    },
+    {
+      "name": "Women 1",
+      "text": "Y-Yeah...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "う、\nうん……"
+    },
+    {
+      "name": "Rei",
+      "text": "Ah... Where did that person go, leaving me behind...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ……\nあの人は\n私を置いてどこに行ってしまったんだろう……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Oh, the next trap, huh? Let's go and check it out.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "おお、\n次の仕掛けか。\n行ってみよう。"
+    },
+    {
+      "name": "Rei",
+      "text": "Even though I've been waiting here for so long... \nWhy hasn't that person come yet...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ずっとここで待っているというのに……\nあの人はどうして……"
+    },
+    {
+      "name": "Women 1",
+      "text": "Oh, this time it's a woman...",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "こ、\n今度は女の人……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Wow, I didn't know there was something like this.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "へぇ、\nこういうのもあるんだね。"
+    },
+    {
+      "name": "Rei",
+      "text": "Ah, you finally came.\nI've been waiting for you all this time...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ、\nやっと来てくれたんだ。\nずっと待っていたんだよ……"
+    },
+    {
+      "name": "Male 1",
+      "text": "It's a case of mistaken identity. There's no way I could forget meeting a beautiful girl like you.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "人違いだよ。\n君みたいなきれいな子と知り合ってたら\n忘れるわけないもん。"
+    },
+    {
+      "name": "Women 1",
+      "text": "Hey, what are you saying while I'm here!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "ちょっと、\n私が居るのに何言ってるのよ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Who... those people... \nYou always... seem to enjoy yourself with lots of women...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "誰……\nその人たち……\nあなたはいつもそう……\nたくさんの女の人と楽しそうに……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Ahaha, that's great. It really sets the mood.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "あはは、\nいいね。\n雰囲気出てるよ。"
+    },
+    {
+      "name": "Rei",
+      "text": "You always... leave me behind and only play with other people... Even I want to play together...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あなたはいつもそう……\n私を置いて他の人とばかり……\n私だって一緒に遊びたいのに……"
+    },
+    {
+      "name": "Male 1",
+      "text": "Hm? Wait a minute. Who are those people...?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "ん？\n　待てよ？\nその人、\nたち……？"
+    },
+    {
+      "name": "Matthew",
+      "text": "Sorry to keep you waiting!",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "お待たせ！"
+    },
+    {
+      "name": "Male 1",
+      "text": "Wow!?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "わあっ！？"
+    },
+    {
+      "name": "Matthew",
+      "text": "Why are you scared? We came all the way here together, didn't we? Look, let's play together! It's fun when everyone plays together! Forever and ever, forever.",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "なんで怖がるの？\n　ここまで一緒に来たじゃないか！\nほら、\nキミたちも遊ぼう！\n　みんなで遊べば楽しいよ！\nず～～っと、\n永遠に、\nね。"
+    },
+    {
+      "name": "Male 1",
+      "text": "W-Waaaaaaahhh!! What is this!? \nDon't come near! Don't come over hereeee!!",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "わ、\nわあぁあああああ！！\n　なんだこれ！？\nくるな！\n　こっちにくるなぁあああ！！"
+    },
+    {
+      "name": "Women 1",
+      "text": "Ah, wait, wait!! Don't leave me behind!!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "あ、\nちょ、ちょっと！！\n　置いてかないでよー！！"
+    },
+    {
+      "name": "Matthew",
+      "text": "Amph, amph... Huh? \nThis scream, it tastes different somehow... \nIt's tastier than what I ate at the graveyard...",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "あむあむ……\nあれ？\nこの悲鳴、\nなんだか味が違う……\nお墓で食べたのより、\nおいしい……"
+    },
+    {
+      "name": "Rei",
+      "text": "I-Is that so...?\nWell, as long as it's delicious, it's all good, right?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そ、\nそうなのか……？\nまぁ、\nおいしいならいいんじゃないかな？"
+    },
+    {
+      "name": "Male 1",
+      "text": "Hah...",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "はぁ……"
+    },
+    {
+      "name": "Women 1",
+      "text": "Don't leave me behind anymore.\nBut... hehe, I found it amusing to see you scared,\nso I'll forgive you.",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "もぅ、\n置いてかないでよ。\nけど……\nふふっ、\n怖がるあなたが面白かったから許してあげる。"
+    },
+    {
+      "name": "Woman 2",
+      "text": "Hey, there's a haunted house that looks interesting. \nWon't you come in?",
+      "choice_data_list": [],
+      "orig_name": "女性２",
+      "orig_text": "ねぇ、\nなんか面白そうなお化け屋敷があるよ。\n入ってみない？"
+    },
+    {
+      "name": "Male 2",
+      "text": "Huh? But this isn't the popular haunted house, you know?",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "え？\n　でも\n人気のお化け屋敷はここじゃないよ？"
+    },
+    {
+      "name": "Woman 2",
+      "text": "Isn't it okay to have a little fun? Right? Let's go!",
+      "choice_data_list": [],
+      "orig_name": "女性２",
+      "orig_text": "ちょっとくらいいいじゃん！\n　ね？　行こう！"
+    },
+    {
+      "name": "Ghost Father",
+      "text": "Ho, looks like we're off to a good start with the customer turnout. Eat up plenty of screams and grow stronger. I'm looking forward to it.",
+      "choice_data_list": [],
+      "orig_name": "ゴーストファーザー",
+      "orig_text": "ほぅ、\n出だしは順調な客入りじゃねぇか。\nたくさん悲鳴を食って成長しろよ。\n期待してるぜ。"
+    },
+    {
+      "name": "Woman 2",
+      "text": "Wow, unexpected. You have quite the atmosphere.",
+      "choice_data_list": [],
+      "orig_name": "女性２",
+      "orig_text": "わぁ、\n意外。\nけっこう雰囲気あるわね。"
+    },
+    {
+      "name": "Male 2",
+      "text": "That's right.\nBut I wonder why there's no one at the reception...?",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "そうだね。\nでも、\n受付の人はいないのかな……？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ah, another customer...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ああ、\nまたお客人ですか……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Welcome, please come in. \nWe will provide you with the finest hospitality at our establishment.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ようこそおいでくださいました。\n当館では\n極上のおもてなしを\n提供させていただきます。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "But I do not recommend it, you know? \nThe way of hospitality is quite unique.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ですがおすすめはいたしませんよ？\nもてなし方が一風変わっておりますので。"
+    },
+    {
+      "name": "Female 3",
+      "text": "AAAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "女性３",
+      "orig_text": "きゃーーーーー！！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ah, it seems someone is raising their voice in joy again. \nIf you wish to follow that voice...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ああ、\nまたどなたかよろこびの声を上げていらっしゃいますね。\nあの声に続きたいというのであれば……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Please proceed following the light of guidance.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "どうぞ、\n導きの光に従いお進みください。"
+    },
+    {
+      "name": "Rei",
+      "text": "Whew... Somehow, the first day is over, huh.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "はぁ……\nなんとか初日が終わったね。"
+    },
+    {
+      "name": "Matthew",
+      "text": "Wow!\nThis is the first time so many customers have come to visit!",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "すごい！\n　こんなにお客さんが来てくれたの初めてだよ！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yeah, that's right. I've been working almost non-stop.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そうッスね。\nほとんどひっきりなしに働いてたッス。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "It seems like kishi-san did a good job promoting it over there, huh?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "そこは騎士さんがうまいこと宣伝してくれたみたいですね。"
+    },
+    {
+      "name": "Rei",
+      "text": "I would be happy if you could say that to me.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "キミにそう言ってもらえるとうれしいな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I'll respond to your efforts, pal!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あんたのがんばりに応えるッス！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Kishi-san, I have been giving you various tasks to do, so this is your line, but...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "騎士さんにはいろいろな仕事をやってもらっているので\nそれはこちらの台詞なんですけど……"
+    },
+    {
+      "name": "Rei",
+      "text": "Should I help you too, Miss Rei?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "やっぱり私も\nキミを手伝おうか？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Miss Rei~~?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "レイ様～～？"
+    },
+    {
+      "name": "Rei",
+      "text": "It's just a joke. If we've come this far, we must fulfill our duty until the end. We can't afford to lose, you know.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "冗談だよ。\nここまで来たら最後まで役目を全うするさ。\n負けていられない、\nからね。"
+    },
+    {
+      "name": "Matthew",
+      "text": "Onii-chan!\nThank you for bringing so many customers with you!",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "おにいちゃん！\n　たくさんのお客さん連れてきてくれて\nありがとう！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Kishi-san's absent-minded atmosphere may not be very intimidating, but it seems to have lured them into a false sense of security. It's a rare fine play, Kishi-san.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "騎士さんのぼんやりした雰囲気があまり怖くないのかも、\nっていい意味で油断を誘ってくれたみたいですね。\n珍しくファインプレーです、\n騎士さん。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So you've gotten hooked on {0}'s vibe, and your first pairing with Victor. Thanks, pal.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "{0}さんの雰囲気と、\n最初の\n自分とビクターさんのコンビがうまいこと\nハマったってワケッスね。\n感謝ッス。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "The business has just begun, so there are still plenty of areas for improvement. Let's tighten our focus.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "営業は始まったばかりですし、\n改善点はまだまだあります。\n気を引き締めていきましょう。"
+    },
+    {
+      "name": "Hughes",
+      "text": "Well, I've moved a few times in front of the customers, haven't I? It's surprisingly tough to stay still, you know.",
+      "choice_data_list": [],
+      "orig_name": "ヒューズ",
+      "orig_text": "そうだなー\nオレサマお客さんの前で何度か動いちまったしなー\n動かないのって\n案外キツイなー"
+    },
+    {
+      "name": "Eddie",
+      "text": "I also made a few mistakes in guiding you.",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "オレも何回か\n案内の仕方間違えた。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Yes, if you fail, you can just use it as a learning experience for the next time. In fact, being able to reflect on your mistakes is a remarkable form of growth.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "そう、\n失敗したら次に活かせばいいんです。\nむしろ反省できるようになっただけすごい成長です。"
+    },
+    {
+      "name": "Hughes",
+      "text": "Yeah! Let's keep devouring screams more and more!",
+      "choice_data_list": [],
+      "orig_name": "ヒューズ",
+      "orig_text": "だな！\n　どんどん悲鳴食っていこうぜ！"
+    },
+    {
+      "name": "Matthew",
+      "text": "By the way, today's screams were delicious, weren't they?",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "そういえば、\n今日の悲鳴おいしかったよね？"
+    },
+    {
+      "name": "Victor",
+      "text": "By the way... I have a feeling...",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "そういえば……\nそんな気がする……"
+    },
+    {
+      "name": "Eddie",
+      "text": "Is it because it's the first day?",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "初日だからじゃねぇか？"
+    },
+    {
+      "name": "Matthew",
+      "text": "Is that so? Somehow,\nit feels like it had a faint sweetness to it.",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "そうかなぁ？\n　\nなんか、ほんのり甘かった気がするんだよね。"
+    },
+    {
+      "name": "Eddie",
+      "text": "Ah, I understand. \nIt was sweeter than what I ate in the graveyard.",
+      "choice_data_list": [],
+      "orig_name": "エディ",
+      "orig_text": "あ、それは分かる。\n墓場で食ったのより甘かった。"
+    },
+    {
+      "name": "Victor",
+      "text": "I wonder what it could be~",
+      "choice_data_list": [],
+      "orig_name": "ビクター",
+      "orig_text": "なんなんだろうね～"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "We have no idea what you're talking about,\nbut please don't get too obsessed with eating screams, okay?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "私たちにはまったく分からない話ですけど、\n悲鳴食べるのに夢中になったりしないでくださいね。"
+    },
+    {
+      "name": "Matthew",
+      "text": "It's okay! It's the first time things are going well,\nyou know! I won't slack off! Let's do our best tomorrow too!",
+      "choice_data_list": [],
+      "orig_name": "マシュー",
+      "orig_text": "だいじょうぶ！\n　初めてうまくいってるんだもん！\n手は抜かないよ！\n明日も一生懸命がんばろうね！"
+    },
+    {
+      "name": "Ghosts",
+      "text": "Ohhh!!",
+      "choice_data_list": [],
+      "orig_name": "お化けたち",
+      "orig_text": "おー！！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, the first day of the haunted house\ncame to a close without incident.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてお化け屋敷の初日は無事に幕を下ろした。"
+    }
+  ]
+}

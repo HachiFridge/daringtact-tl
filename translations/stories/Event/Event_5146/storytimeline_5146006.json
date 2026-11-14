@@ -1,0 +1,992 @@
+{
+  "title": "Monsters causing a big panic!?",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "To get them to participate in the parade, Kururu, who was tasked with persuading the monsters, was encouraged by Maho to invite the monsters to 'Grand Dream Park'.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "パレードに参加してもらうため、\n魔物たちを説得することになったクルルは、\nマホの勧めで魔物たちを『グランドリームパーク』に招待した。"
+    },
+    {
+      "name": "Baromets",
+      "text": "Wow, such a wonderful amusement park.\nIt's fluffy and cute, I've never seen anything like this before!",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "わあ、\nとっても素敵な遊園地。\nふわふわでかわいくて、\nこんなの初めて見た！"
+    },
+    {
+      "name": "Maho",
+      "text": "Barometz, who has traveled to many places, must be seeing it for the first time, such a mysterious amusement park.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "いろんなところを\n旅してきた\nバロメッツはんでも\n初めて見るやろ、\nこんな不思議な遊園地。"
+    },
+    {
+      "name": "Baromets",
+      "text": "Yeah, but...I'm still hesitant about participating in the parade.\nAll of my friends were taken away just because they're rare.\nAlso, I'm scared of being chased again...",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "うん、\nだけど……\nやっぱりパレードの参加は迷ってるよ。\nぼくの仲間はみんな、\n珍しいからって連れ去られちゃったから。\nまた、\n追いかけられるのは怖いんだ……"
+    },
+    {
+      "name": "Chuuji",
+      "text": "We, too, perform on stage under the bright sun after coming out from the dark underfloor. Actors are great, but I couldn't accept being treated as mere entertainment. \n",
+      "choice_data_list": [],
+      "orig_name": "チュウジ",
+      "orig_text": "俺らもよ、\n薄暗い床下から出て\nお天道様の下で芝居をやってるが。\n役者はいいが見せもんにされるってのは\n承服できねえって思ってたとこよ。"
+    },
+    {
+      "name": "Chuuza",
+      "text": "You're right, boss!\nI was just thinking the same thing!\nThe parade looks fun and all, but let's focus on this for now...",
+      "choice_data_list": [],
+      "orig_name": "チュウザ",
+      "orig_text": "ですよねえ\n親分っ！\n俺もちょうどそう思ってたとこでしてっ！\nパレード、\n何やら楽しそうですけどそれはそれ、\nこれはこれ……\nっと。"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "When I come, I wonder if I'm inviting too much again?\nInvite and invite, I hope the amusement park doesn't get broken.",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "あっしがきたら、\nまた招きすぎたりしないかにゃあ？\n招いて招いて、\n遊園地が壊れたりしないかにゃああ？"
+    },
+    {
+      "name": "Good monster 1",
+      "text": "Do you worship...?",
+      "choice_data_list": [],
+      "orig_name": "いい魔物１",
+      "orig_text": "オマエドウスル……？"
+    },
+    {
+      "name": "Good Creatures 2",
+      "text": "Everyone, if you don't do it, turn into a frog...",
+      "choice_data_list": [],
+      "orig_name": "いい魔物２",
+      "orig_text": "ミンナ、\nヤラナイナラ、\nカエルカ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wait, wait everyone!\nIf we all work together, surely...\nAh! Excuse me for a moment!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "み、\nみなさんお待ちくださいっ！\nみんなでやればきっと……\n……あっ！　\nちょっと失礼しますねっ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Haa, haa...!!\nI'm pretty sure I heard crying from over here...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はぁ、\nはぁ……っ！！\n確か\nこっちから泣き声が聞こえました……っ！"
+    },
+    {
+      "name": "Girl",
+      "text": "Eh?! Kababan-kun is here!!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "え～んっ！　\nかばばん君が～っ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh! Please don't cry!\nWhat happened?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ああっ！　\n泣かないでくださいっ！\nなにがあったんですますっ？"
+    },
+    {
+      "name": "Mother",
+      "text": "This stuffed animal, it got torn when it scratched on a branch...\n...Oh, you're the manager here, right?\nCould you guide me to the stuffed animal shop to buy a new one?",
+      "choice_data_list": [],
+      "orig_name": "母親",
+      "orig_text": "このぬいぐるみ、\n小枝に引っ掻けて破けちゃって……\n……あ、\nあなたここの支配人さんよね？\n新しいの買うから\nぬいぐるみ屋さんに案内してくださる？"
+    },
+    {
+      "name": "Kururu",
+      "text": "...No.\nThere is definitely no one who can replace this child.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……\nいえ。\nきっとこの子に代わりはいませんですっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Hey, hey. Can you lend me that frog bag, big sister? \nActually, big sister is a stuffed animal doctor~♪",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ねぇねぇ。\nそのかばばん君、\nお姉ちゃんに貸してくれますか？\n実はお姉ちゃん、\nぬいぐるみのお医者さんなんですよ～♪"
+    },
+    {
+      "name": "Girl",
+      "text": "...Really? Can it be fixed...?\nBig sister, your fingers are covered in wounds.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……ほんと？　\nなおせる……？\nお姉さん、\n指、\n傷だらけだけど。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Ah...haha! \nI got injured while practicing because I'm a bit clumsy... \nBut I'm okay. I'm fine!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "っ！！　\nあ……\nあははっ！\nちょっと不器用で練習中に怪我を……\nで、\nでも大丈夫。\n大丈夫ですっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Huff, huff...\nLike this... like this...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "んしょ、\nんしょ……\nこ\nこを\nこうして……\nこ\nこをこうして……"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "It would be nice if you could buy something new, but they don't do that.\nAs a store clerk, that's not a bad thing,\nMonika and Tamaki said.",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "新しいものを買ってもらえばいいのに、\nそうはしないのにゃあ。\nそれは\n店員として悪いことじゃないって、\nモニカとタマキが言ってたにゃあ。"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "The most important thing is to make the customer happy...\neven though I'm a born merchant at heart.\nThat person...isn't a bad guy at all.",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "お客が喜ぶことを一番にするのは……\n根っからの商売人なのにゃあ。\nあいつ……\n悪い奴じゃないのにゃあ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Oh no, the stuffing is coming out... ugh...\nI can't do it as well as Maho-chan...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あわわっ、\n中綿が出て……\nううぅ……\nマホちゃんさんみたいに\n上手にできないですぅ……"
+    },
+    {
+      "name": "Maho",
+      "text": "Yes. I wanted you to tell me just in case.\nI've been practicing alone even after the amusement park's closing hours.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うん。\nもしもの時のために\n教えてほしいって。\n遊園地の営業時間が\n終わってからも、\n一人でずっと\n練習してはったの。"
+    },
+    {
+      "name": "Maho",
+      "text": "Of course, it's not just sewing.\nWhat should I do to make people smile?\nI was thinking about it without sparing any sleep.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "もちろん\nお裁縫だけやあらへんよ。\n人を笑顔にするためには\nどうしたらええか。\n寝る間を惜しんで\n考えてはったわ。"
+    },
+    {
+      "name": "Baromets",
+      "text": "That girl's.\n... It's for the customer, right!",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "あの女の子の。\n……お客さんのため、\nなんだね！"
+    },
+    {
+      "name": "Maho",
+      "text": "Correct answer ♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "大正解♪"
+    },
+    {
+      "name": "マホ",
+      "text": "クルルはんはな、\nお客はんのためなら、\nどんな努力も\n惜しまへん。\n……ちょっと\n度が過ぎて\n危なっかしいところもあるんやけど……\nでもね。\nそういうお人なんよ。",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはんはな、\nお客はんのためなら、\nどんな努力も\n惜しまへん。\n……ちょっと\n度が過ぎて\n危なっかしいところもあるんやけど……\nでもね。\nそういうお人なんよ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Put others before yourself.\nEveryone will fall for you♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "自分のことより\n人のため。\nそら\nみんな惚れてまうわ♪"
+    },
+    {
+      "name": "Baromets",
+      "text": "...Kururu-chan!\nUse my fluffy cotton for the stuffed animal...!",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "……クルルちゃん！\nぬいぐるみに、\nぼくのふわふわの綿\n使ってよ……！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Barometsu-san.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "バロメッツさんっ。"
+    },
+    {
+      "name": "Baromets",
+      "text": "I'll do it. I'm a little nervous, but...\nI want to make everyone smile too!",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "……ぼく、\nやるよ。\nちょっと不安もあるけど。\nぼくもみんなを笑顔にしてみたいんだ！"
+    },
+    {
+      "name": "Chuuji",
+      "text": "...Tsk, showing off their spirit...! \nThere's no way the Chuuji family can stay silent! \nYou guys! We'll keep going too! Got it!",
+      "choice_data_list": [],
+      "orig_name": "チュウジ",
+      "orig_text": "……けっ、\n心意気見せやがる……！\nこのチュウジ一家も黙ってられるかってんだ！\n野郎ども！　\n俺らも続くぞ！　\nいいな！"
+    },
+    {
+      "name": "The Mouse Family",
+      "text": "Ssshh!!",
+      "choice_data_list": [],
+      "orig_name": "ネズミ一家",
+      "orig_text": "チューッ！！"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "I'll help too nya~.\nI'll take the customers here to \"Nashkatze\" while I'm at it nya!",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "あ\nっしもにゃあ～。\n手伝ってやるのにゃあ。\nついでにここのお客を\n『ナッシュカッツェ』にも\n連れて行ってやるのにゃあ！"
+    },
+    {
+      "name": "Maho",
+      "text": "How will everyone else do it?\nThe monster who will help me, raise your voice and come along ♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "他のみなはんは\nどないする～？\n一緒にやってくれるって魔物はんは\n声上げてな～♪"
+    },
+    {
+      "name": "Good creatures",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "いい魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Maho",
+      "text": "From there, it was a tumultuous daily life.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そこからは、\n怒涛の日々やったわ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Business hours are packed with work. After that, prepare for the parade all night long.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "営業時間は\nみっちり働いて。\nその後は\n夜通しパレードの準備。"
+    },
+    {
+      "name": "Maho",
+      "text": "Kuroche and Popo Grandpa helped as well.\nWe're thinking of a way that looks good without costing too much money.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クローチェはんや\nポポおじいはんも\n手伝ってくれて。\nなるべく\n予算がかからん方法で\n見栄えがええの\n考えて。"
+    },
+    {
+      "name": "Maho",
+      "text": "Kululu tried too hard, so the prince stayed by her side.\nThat backfired, and in the end, both of them tried their best.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはんは\n頑張りすぎんように、\n王子はんに\n隣でいてもらったけど。\nそれは\n逆効果で、\n結局\n二人とも、\n一生懸命\n頑張ってしもたなぁ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Sure, Pecorine and Lyril El seem to have arranged it, but amazingly, guests will be coming from Landosol! If this could be the start of cultural exchange, I'd be so happy♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうそう、\nペコリーヌはんと\nライラエルはんの計らいで、\nなんと\nランドソルからも\nお客はんが来てくれるみたいどす♪\nこれが\n異文化交流のきっかけになれたら\nうれしいわぁ♪"
+    },
+    {
+      "name": "Maho",
+      "text": "We've been entrusted with leading the parade.\nWe're really fired up!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うちは\nパレードの先頭を任されて。\nとっても気合が入っとるんよ♪"
+    },
+    {
+      "name": "Maho",
+      "text": "We all worked hard together to create \"Monster Parade.\"\nI will definitely make everyone smile, so look forward to it♪",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "全員で一生懸命頑張って作り上げた\n『魔物のパレード』\n絶対にみなはんを\n笑顔にさせてみせるから、\n楽しみにしとってな♪"
+    },
+    {
+      "name": "Maho",
+      "text": "Alright, we'll be waiting for you at \"Grand Dream Park\" on the day♪\n── Deputy Manager Maho from \"Grand Dream Park\".",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ほな\n当日、\n『グランドリームパーク』で\nお待ちしとります♪\n──『グランドリームパーク』\n副支配人・\nマホ。"
+    },
+    {
+      "name": "Friend 1",
+      "text": "Hey, over here!\nLet's hurry up and save a spot!",
+      "choice_data_list": [],
+      "orig_name": "ダチ１",
+      "orig_text": "おい\nこっちこっち！\n早く場所取りしようぜ！"
+    },
+    {
+      "name": "Friend 2",
+      "text": "Yes!\nIt's about to start soon! I'm so excited!",
+      "choice_data_list": [],
+      "orig_name": "ダチ２",
+      "orig_text": "うんっ！\nもうすぐで始まるよね！　\n楽しみ～！"
+    },
+    {
+      "name": "Girl",
+      "text": "I'm happy to receive an invitation from the fox lady. \nBut, there are so many customers... \nAnd lots of people from Astrum too.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "キツネのおねーさんからのお誘い\nうれしいな♪\nでも、\nすっごいお客さんだな……\nしかも\nアストルムの人もたくさん♪"
+    },
+    {
+      "name": "Customer 3",
+      "text": "Wow, is all of this made out of candy!?",
+      "choice_data_list": [],
+      "orig_name": "お客さん３",
+      "orig_text": "すっげー\nこれ全部お菓子でできてるよ！？"
+    },
+    {
+      "name": "Customer 4",
+      "text": "Hehe. I can't believe such a world exists!",
+      "choice_data_list": [],
+      "orig_name": "お客さん４",
+      "orig_text": "うふふ。\nこんな世界があったなんて！"
+    },
+    {
+      "name": "アヤネ",
+      "text": "う……\n羊さん大丈夫かなぁ？\n私の方が緊張してきちゃったよ。",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "う……\n羊さん大丈夫かなぁ？\n私の方が緊張してきちゃったよ。"
+    },
+    {
+      "name": "Kurumi",
+      "text": "I'm also... the mice are doing their best...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "私もぉ……\nネズミさんたち頑張ってぇ……"
+    },
+    {
+      "name": "Croce",
+      "text": "Popo grandpa, looking forward to the parade♪\nAnd that special thing.\nWill Kururu-chan be happy!?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ポポおじいさんっ、\nパレード楽しみですね♪\nそれにとっておきのあれっ。\nクルルちゃん喜んでくれますかねーっ！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Hahaha! Of course, you'll be pleased!\nAfter all, that's my masterpiece!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "がははっ！　\nそりゃ喜んでくれるさ！\nなんたってあれは\nワシの集大成じゃからなっ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Young piglet girl!\nI'm going to go save our spot now!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "子ブタ娘！\nもう\n場所取り行くですよっ！"
+    },
+    {
+      "name": "Precia",
+      "text": "After Frankfurt. Cough. Only.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "あと\nフランクフルト。\nごほん。\nだけ。"
+    },
+    {
+      "name": "Inori",
+      "text": "When it comes to times like these, it's always the norm to have just one!\nBut you've already eaten five of them!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "こういう時は１本と相場は決まってやがるですよ！\nって\nもう５本食べやがりましたっ！？"
+    },
+    {
+      "name": "Narration",
+      "text": "At that time, in the backyard──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その頃、バックヤードでは──"
+    },
+    {
+      "name": "Kururu",
+      "text": "Uuuuuu......",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ううう\nぅぅぅ……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Listen, I'm so nervous.\nWhen I saw a full house for the first time,\nsomething is overflowing from various places~.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "きき、\n緊張ですぅっ。\n初めての満員のお客さんを見たら、\n色んな所から\n何かが溢れ出してますです～っ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Kururu, stand up straight.\nThis parade will determine the future of \"Grand Dream Park.\"",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはんっ、\nしゃんとしてな。\nこのパレードが\n『グランドリームパーク』の\n明日を\n決めるんよ。"
+    },
+    {
+      "name": "Baromets",
+      "text": "It's okay... I'm sure, it's okay.\nBecause I practiced a lot.",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "大丈夫だよ……\nきっと、\n大丈夫。\nだって\nたくさん練習したんだから。"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "Yes, indeed! Even though I didn't invite them,\nI managed to gather this many customers, meow!",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "そ\nうにゃ！　\nあっしが招かなくても、\nこれだけのお客さんを集めたんだからにゃあ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Whooaahh!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ひゃい\nぃぃっっっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Alright, then everyone, let's form a circle!\nEveryone linked arms, right?! Ready, set...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "そそ、\nそれではそれでは\nみなさん円陣を！！\nみなさん\n肩組みましたね～っ！　\nせーの……"
+    },
+    {
+      "name": "Kururu",
+      "text": "That's a lie!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "って、\nタンマですっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Um... the staff is not here.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あの……\nスタッフさんがいないんです。"
+    },
+    {
+      "name": "Baromets",
+      "text": "Huh...?\nOh, you're right.",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "え……？\nあ、\nほんとだ。"
+    },
+    {
+      "name": "Chuuji",
+      "text": "Have you gone to the bathroom?\nI was just here until a moment ago.",
+      "choice_data_list": [],
+      "orig_name": "チュウジ",
+      "orig_text": "トイレでも行ってんじゃねえか？\nさっきまでここにいたしよ。"
+    },
+    {
+      "name": "Chuuza",
+      "text": "That's right. Even the snacks from the park,\nthey brought us some delicious dumplings.",
+      "choice_data_list": [],
+      "orig_name": "チュウザ",
+      "orig_text": "ですね。\nパークからの差し入れだって、\n美味しい団子、\n俺たちに持ってきてくれて。"
+    },
+    {
+      "name": "Kururu",
+      "text": "...Eh? A gift of rice cakes from Park? I didn't hear about it though...",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……え？　\nパークからの差し入れで\nお団子……\nですか？\nわたしは聞いてないですけど……"
+    },
+    {
+      "name": "Maho",
+      "text": "Don't we also have rice cakes prepared?\n......The prince wouldn't understand, would he......?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "うちも\nお団子は\n用意しとらんよ？\n……王子はんも、\n分からんよね……？"
+    },
+    {
+      "name": "Good monster 1",
+      "text": "Why are you so good at everything separately?\nDango was really delicious... right?",
+      "choice_data_list": [],
+      "orig_name": "いい魔物１",
+      "orig_text": "ベツニ、\nナンデモヨクネ？\nダンゴ、\nメッチャ、\nウマカッタシ……\nナ？"
+    },
+    {
+      "name": "Good Creatures 2",
+      "text": "Ah, that was delicious.\n...One more...One more, please...",
+      "choice_data_list": [],
+      "orig_name": "いい魔物２",
+      "orig_text": "アア、\nウマカッタ。\n……モウヒト\nツ……\nモウ、\nヒト……"
+    },
+    {
+      "name": "Good Creatures 2",
+      "text": "Uh…………\nUgh......Aah......",
+      "choice_data_list": [],
+      "orig_name": "いい魔物２",
+      "orig_text": "ウ…………\nウグ……\nアア……"
+    },
+    {
+      "name": "Good monster 1",
+      "text": "Ah... Ah...",
+      "choice_data_list": [],
+      "orig_name": "いい魔物１",
+      "orig_text": "アア……\nア……"
+    },
+    {
+      "name": "Kururu",
+      "text": "Wow...?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ほぇ……？"
+    },
+    {
+      "name": "Inori",
+      "text": "...Huh? The starting time has already passed.\nIs the parade not starting?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……ん？　\n開始時間もう過ぎてますよ。\nパレードは始まりやがらねーんですか？"
+    },
+    {
+      "name": "プレシア",
+      "text": "……\nいやな。\nにおい……\n…ぷい。",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……\nいやな。\nにおい……\n…ぷい。"
+    },
+    {
+      "name": "Inori",
+      "text": "Huh? Unpleasant smell...?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "え？　\n嫌な匂い……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Dogan!!!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ドガァァァァァンッ！！！"
+    },
+    {
+      "name": "Guests",
+      "text": "Ahhhhhhhhhhhhhhh!!!?",
+      "choice_data_list": [],
+      "orig_name": "客たち",
+      "orig_text": "きゃああああ～～～っ！！？"
+    },
+    {
+      "name": "Kurumi",
+      "text": "What...?\nThe loud noise from earlier... and the customers are running away...",
+      "choice_data_list": [],
+      "orig_name": "クルミ",
+      "orig_text": "な、\nなに……？\nさっきの大きな音……\nそれに\nお客さんが逃げて……"
+    },
+    {
+      "name": "Monsters",
+      "text": "──Roooooooooooar!\n──Roooooooooooar!\n──Roooooooooooar!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！\n──グオオオオオッ！\n──グオオオオオッ！"
+    },
+    {
+      "name": "Ayane",
+      "text": "What!?\nIs this... one of the parade participants!?\nWhy are they causing a ruckus!?",
+      "choice_data_list": [],
+      "orig_name": "アヤネ",
+      "orig_text": "ええっ！？\nこれって……\nパレード参加者の！？\n何で暴れてんの！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I don't know what's going on but Croix!!\nLet's evacuate the customers right now, not launch a counterattack!!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "……どういうことか分からんがクローチェ！！\n今すぐ反撃を……\nじゃなかったわい、\n客の避難誘導をするんじゃっ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "I got it!!\n...Everyone!! Calm down slowly!!\nStarting from the little children---!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わかりましたっ！！\n……みなさーんっ！！　\nゆっくり落ち着いてっ！！\n小さなお子さんから順番にーーーっ！！"
+    },
+    {
+      "name": "Staff",
+      "text": "Oh no!\nI'm going to be eaten by a monster!",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "ひいぃ～！\n魔物に食われるぞ～～っ！"
+    },
+    {
+      "name": "Croce",
+      "text": "Staff-san!\nYou should also run away quickly!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "スタッフさんっ！\nあなたも早く逃げてくださいっ！"
+    },
+    {
+      "name": "Staff",
+      "text": "...Yes!\nI'll do as you say...",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "……はいっ！\nそうさせてもらいます……"
+    },
+    {
+      "name": "Precia",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……"
+    },
+    {
+      "name": "Staff",
+      "text": "...\nWhat is it?",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "……っ。\nなんです？"
+    },
+    {
+      "name": "Precia",
+      "text": "I don't like this smell.\nLet's go.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "いやな、\nにおい。\nここから。"
+    },
+    {
+      "name": "Staff",
+      "text": "...Hey, don't go through the trash can without permission... ...Ugh!!",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "……あ、\nおいっ\nゴミ箱を勝手に漁るな……\n……ぐっ！！"
+    },
+    {
+      "name": "Precia",
+      "text": "This...\nThese dango.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "これ……\nこの、\nお団子。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Haa, haa...!!\nDid the staff member come here...\nWhat on earth is this...!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はぁ、\nはぁ……っ！！\nスタッフさん\nここにいたんですか……\nこれは\n一体……っ！？"
+    },
+    {
+      "name": "スタッフ",
+      "text": "……………………\n……………………",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "……………………\n……………………"
+    },
+    {
+      "name": "Staff",
+      "text": "Kuku... Kukuku.",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "ククッ……\nクククッ。"
+    },
+    {
+      "name": "Inori",
+      "text": "...Old man. I thought I had seen you somewhere before from the start...\nNow I finally understand. The true identity of this old man...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……おっさん。\nはじめから、なんか見たことあると思ってたです……\n今やっと分かりました。\nこのおっさんの正体……っ！"
+    },
+    {
+      "name": "Staff",
+      "text": "Kuku... At last, you've noticed, boy!!",
+      "choice_data_list": [],
+      "orig_name": "スタッフ",
+      "orig_text": "ククッ……\nようやく気付いたか小僧っ！！"
+    },
+    {
+      "name": "Gino",
+      "text": "Hahaha!!\nThat's right, it's meeeee!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "ハーハッハァッ！！\nその通りだよ、\nオレだァァっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "The Casino King, Gino",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『カジノ王・ジーノ』"
+    },
+    {
+      "name": "Narration",
+      "text": "The owner who manages a flashy casino. However, that's just for show - behind the scenes, a pretty shady character who was making a decent amount of money illegally. When Ayumi and Inori, who are disguised as phantom thieves, steal the secret ledger from the main vault, his evil deeds are exposed and he falls from grace...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ド派手なカジノを経営するオーナー。\nしかしそれは表向きで、裏では\n相当あくどい金儲けをしていた悪党。\n怪盗に扮するアユミとイノリに\n大金庫の裏帳簿を盗まれたことで、悪事を暴かれ失墜するが……"
+    },
+    {
+      "name": "Gino",
+      "text": "Haha, it's been a while since I last saw you in this form, young man!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "クククッ、\nこの姿で会うのは久しぶりだな小僧！"
+    },
+    {
+      "name": "Gino",
+      "text": "Hmph, I gave them some medicine and had them cause a little trouble.\nWell, they'll be back to normal in a few hours.",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "フッ、\n奴らには薬を仕込んで\nちょっと暴れてもらったのさ。\nま、\n数時間後には元通りだがな。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Why... why would you do such a thing!?",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "な……\n何のためにそんなことをっ！？"
+    },
+    {
+      "name": "Gino",
+      "text": "Oh? I'm thinking of taking over this amusement park!\nAnd then, I'll build a new casino resort!!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "ああ？　\nこの遊園地をぶん捕ってやろうと思ってよぉ！\nそして新たに\nカジノリゾートを作ってやんのさぁ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Whaaat?!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "えええっ！？"
+    },
+    {
+      "name": "Inori",
+      "text": "Did you sneak in pretending to be a janitor for that?\nIt's quite roundabout...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そのために清掃員のフリして潜り込んでやがったですか？\nずいぶん回りくどいですね……っ！"
+    },
+    {
+      "name": "Gino",
+      "text": "Hmph, yes. I had another purpose.\n...Kid, I'm going to throw you into the depths of despair!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "ふっ、\nああ。\n目的はもう一つあったからな。\n……小僧、\nてめえを絶望の淵に叩きこんでやることだ！"
+    },
+    {
+      "name": "Maho",
+      "text": "The prince...!?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "王子はんを……っ！？"
+    },
+    {
+      "name": "Gino",
+      "text": "Have you ever thought of infiltrating as a part-timer to steal something important? That's right...\nWhat you guys did at my casino! You thieves!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "バイトとして潜入し\n大切なものを奪う……\n思い当たらないか？\nそうだ……\nオレのカジノでお前らがやったことさっ！\nこの泥棒どもめっ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmph! We are the great phantom thieves of justice,\nand we have exposed the evidence of your ill-gotten gains!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふ、\nふんっ！　\nあたしたちは正義の大怪盗として、\nおまえがあくどく儲けた証拠を明るみに出してやったまでです！"
+    },
+    {
+      "name": "Gino",
+      "text": "I don't want to argue. Anyways. I wanted to make this guy taste the humiliation I felt at that time!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "口喧嘩をしたいんじゃない。\nとにかく、\nだ。\nオレはあの時に味わった屈辱を\nこいつに味わわせたかったのさ！"
+    },
+    {
+      "name": "Gino",
+      "text": "I was betrayed by the staff I trusted.\nWhat do you think? Have you been shocked, young man?",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "信用していたスタッフに裏切られる。\nどうだ？　\nショックを受けてくれたかな、\n小僧？"
+    },
+    {
+      "name": "Gino",
+      "text": "Ha ha ha ha!!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "ハーッハッハッハッ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Staff-san... Why did this happen!?\nWe've been working hard together...\nBut to scare the customers like this...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "スタッフさん……\nどうしてなんですかっ！？\n一緒に、\n頑張ってきたのにっ……\nお客さんを、\nこんなに怖がらせてっ……！"
+    },
+    {
+      "name": "Gino",
+      "text": "Oh, I see. That woman was just unlucky.\nI ended up drawing the short straw.\nNow, come on you monsters, let's go wild!!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "ああ、\nそうだな。\nその女は運が悪かった。\nオレっていうスカを引いちまったのさ。\nさあ、\n暴れろ魔物どもーーっ！！"
+    },
+    {
+      "name": "Monsters",
+      "text": "──Roooooooooooar!\n──Roooooooooooar!\n──Roooooooooooar!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！\n──グオオオオオッ！\n──グオオオオオッ！"
+    },
+    {
+      "name": "Maho",
+      "text": "What is this, a bad joke...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "なんやのこれ、\n悪い冗談やんね……？"
+    },
+    {
+      "name": "Gino",
+      "text": "Manager, assistant manager. You've worked hard so far.\nYour performance is outstanding. I'll take care of the job hunting for you.\nBoth of you, come work at our casino, maybe even as bunnies!!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "支配人、\n副支配人。\nこれまでの業務\nご苦労だった。\nその働きぶりは目を見張る。\n再就職の面倒は見てやるよ。\n二人まとめてうちのカジノで\nバニーでもやりなァ！！"
+    },
+    {
+      "name": "Gino",
+      "text": "Come on, burn this into your eyes.\nToday is the last day of 'Grand Dream Park'!!\nHa ha ha ha ha!!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "さあ、\n目に焼きつけておけ。\n今日が『グランドリームパーク』最期の日だ！！\nハーッハッハッハッハァ！！"
+    },
+    {
+      "name": "Maho",
+      "text": "Kururu, please pull yourself together.\nWe don't have time to grieve.\nThis is the time to stay sharp and not give up.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはん、\nしっかりしておくれやす。\nうちら、\n嘆いてる場合やあらへんわ。\nこんなときこそ、\nしゃっきりせなあきまへん。"
+    },
+    {
+      "name": "Kururu",
+      "text": "......Yes!\nI can't afford to cry!\nBecause it's not the end...!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "……\nはい！\n泣いてなんかいられないですますっ！\n最期なんかじゃ、\nありませんから……っ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "I want to make everyone smile...\nAt this \"Grand Dream Park\"...!\nI won't give up on this dream, no matter what happens.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "わたしはみんなを笑顔にしたい……\nこの\n『グランドリームパーク』で……っ！\nこの夢だけは、\nなにがあっても譲れませんっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "So, I will definitely succeed!\nI will make the audience smile with \"Monster Parade\"!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "だから、\n絶対に成功してみせますっ！\n『魔物のパレード』で\nお客さんを笑顔にしてみせますっ！！"
+    },
+    {
+      "name": "Gino",
+      "text": "What? Don't say such foolish things in a blue way! \nLook at reality! All the monsters are being controlled...",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "はぁ？　\n青くせえこと言ってんじゃねえ！\n現実を見ろよ！　\n魔物はみんな操られちまって……"
+    },
+    {
+      "name": "Baromets",
+      "text": "...Kururu-chan!\nWe'll be okay...!!",
+      "choice_data_list": [],
+      "orig_name": "バロメッツ",
+      "orig_text": "……クルルちゃん！\nぼくたちは大丈夫だよ……！！"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "I'm a cat too~",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "あっしもにゃあ～"
+    },
+    {
+      "name": "Gino",
+      "text": "What...!?",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "なっ……！！？"
+    },
+    {
+      "name": "Chuuji",
+      "text": "There's no way I'm gonna let you do that to me so easily!\nI haven't lived underground for years for nothing!",
+      "choice_data_list": [],
+      "orig_name": "チュウジ",
+      "orig_text": "てやんでぇっ！　\nそんなに簡単にやられてたまるもんかよ！\n伊達に長年地下生活してねえぜ！"
+    },
+    {
+      "name": "Chuuji",
+      "text": "Chuza! Welcome cat! Brother of the plant sheep!\nWe're gonna wake up the eyes of the people who have been manipulated by us!!",
+      "choice_data_list": [],
+      "orig_name": "チュウジ",
+      "orig_text": "チュウザ！　\n招き猫！　\n植物羊の兄ちゃん！\n俺らで操られちまった連中の\n目ェ覚まさせるぞ！！"
+    },
+    {
+      "name": "Inori",
+      "text": "We will go too!!\nThe casino king left it to Kururu and the others!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……あたしたちも行くですっ！！\nカジノ王はクルルたちに任せたですよ！！"
+    },
+    {
+      "name": "Beckoning Cat",
+      "text": "Well, let's finish this quickly.\nI guess I'll start over.\nThis is my once-in-a-lifetime shining moment...!!",
+      "choice_data_list": [],
+      "orig_name": "招き猫",
+      "orig_text": "ほんじゃ、\nサクッと終わらせて。\n仕切り直すとするかにゃあ。\nあっしらの\n一世一代の晴れ舞台……！！"
+    },
+    {
+      "name": "Good creatures",
+      "text": "Join the Monster Parade!!!",
+      "choice_data_list": [],
+      "orig_name": "いい魔物たち",
+      "orig_text": "『魔物ノパレード』ヲ！！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Yes, of course!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "はいですっ！！"
+    },
+    {
+      "name": "Maho",
+      "text": "Kururu, let's go!\nI am also right next to you!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "クルルはん、\nいきまひょ！\nうちも隣にいますえ！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Staff-san... I will make you open your eyes.",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "スタッフさん……\nあなたの目、\n覚まさせてみせますですっ。"
+    },
+    {
+      "name": "Kururu",
+      "text": "Even if you deny it!\nThe staff is an important part of us!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "あなたが否定したとしても！\nスタッフさんはわたしたちの、\n大事な仲間ですからっ！！"
+    },
+    {
+      "name": "Gino",
+      "text": "Hah......!? Don't joke around!!",
+      "choice_data_list": [],
+      "orig_name": "ジーノ",
+      "orig_text": "はあ……！？　\nふざけるなぁーーー！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "Eeeek!!\nI...I'm scared but I'm scared!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "ひえぇぇっ！！\nこ……\n怖いですけど怖いですけどっ！！"
+    },
+    {
+      "name": "Kururu",
+      "text": "I will definitely win~~~!!",
+      "choice_data_list": [],
+      "orig_name": "クルル",
+      "orig_text": "絶対勝ちます\nです～～～っ！！"
+    }
+  ]
+}

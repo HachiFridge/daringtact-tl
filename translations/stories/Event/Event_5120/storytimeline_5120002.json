@@ -1,0 +1,761 @@
+{
+  "title": "The Legend's Return",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "In the land where legends of the legendary vampire has been passed down, Illya is now worshipped as their ruler. As she sits on her throne, many monsters starts arriving.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "伝説の吸血鬼が語り継がれる地にて、主として祭り上げられたイリヤ。\n玉座に座る彼女の元には、魔物たちがひっきりなしに訪れていた。"
+    },
+    {
+      "name": "Monsters",
+      "text": "All hail Illya-sama!\nAll hail Illya-sama!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "イリヤ様、\nばんざーい！\nイリヤ様、\nばんざーい！"
+    },
+    {
+      "name": "Illya",
+      "text": "Hahaha! Are you watching, {0}? You might not have known this before, but demons originally worshipped me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ハッハッハ！　\n見ておるか{0}よ。\nこれまではちゃんと伝わっておらんかったかもしれんが、\nわらわは本来、\nこうして魔の者たちに崇められる存在だったのじゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "What do you think? Do you understand how great I am now?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "どうじゃ、\nわらわの偉大さが改めて分かったか？"
+    },
+    {
+      "name": "Illya",
+      "text": "Yes, yes.\nYou really are my precious familiar.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむうむ。\nやはりお主は愛いやつじゃの。"
+    },
+    {
+      "name": "Illya",
+      "text": "But you don't have to add \"-sama\", you know? ...You're my special familiar after all.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "じゃが\nお主はさま付けなどせんでよいぞ？\n……\nお主は特別じゃからな。"
+    },
+    {
+      "name": "Yuki",
+      "text": "You’re in a good mood, Illya.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ご機嫌だね、\nイリヤ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Not you, Yuki... you still have to add \"-sama\" when referring to me. You can join the rest of the monsters over there. Come on, get on with it── bow before me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "いやユキ、\nお主はさまを付けぬか。\nなんならそこで魔物たちに交ざって\nひざまずいてもいいくらいじゃぞ。\nほれほれ、\nあのように頭を下げてわらわを崇めよ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "What are you talking about? Don't you see that they're bowing because of my lustrous hair?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "なに言ってるのさ。\n彼らはボクの髪の艶めきに目がくらんで\n頭を下げてるんだよ？"
+    },
+    {
+      "name": "Illya",
+      "text": "How did you get that conclusion when they're shouting my name!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "イリヤ様万歳言うとるのに！？"
+    },
+    {
+      "name": "Illya",
+      "text": "...Well even though I said that, I'm in a good mood so I'll pretend I didn't hear that. Well then, I said that I'll reign over this city but I wonder what exactly I'll be doing?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……とまぁ、\nひとしきりいい気分になってみたはよいが。\nこやつらを率いるとは言うても、\n何をしたらいいんじゃろうな。"
+    },
+    {
+      "name": "Brad",
+      "text": "If you're looking for a schedule, one's already been made.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "スケジュールでしたら、\nすでに決まっております。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hmm, let us hear it then.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふむ、\n申してみよ。"
+    },
+    {
+      "name": "Brad",
+      "text": "News of the legendary vampire's return to the city has already been spread throughout the land using the information network of those who lived in the darkness.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "伝説の吸血鬼が復活し、\nこの地に降臨された件。\n闇を生きる者たちの情報網によって、\nすでに各地に広がっております。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow, I didn’t know Illya was that famous.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "へぇ～、\nそんなに有名なんだね、\nイリヤって。"
+    },
+    {
+      "name": "Brad",
+      "text": "Why, of course. For us demons and monsters of the dark, your return is our long-cherished wish.\nWe've longed for Illya-sama to finally come back to this land.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "無論です。\n我ら魔族、\nそして闇の魔物たちにとってその復活は悲願。\nそしてそんなイリヤ様が御座すこの地は、\nまさに憧れの地。"
+    },
+    {
+      "name": "Brad",
+      "text": "Even now, there are many of them trying to come here one after another to try find an audience with Illya-sama.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "今もこの地に移住したいと申し出る者たちが続々と訪れております。\nそういった者たちに\nイリヤ様との謁見をさせたいのです。"
+    },
+    {
+      "name": "Illya",
+      "text": "But it hasn't even been a day since I arrived?!\nHmm, seeking audience with me...\nI don't feel like being so formal...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "まだわらわが来て一日も経っとらんのにもう来とるのか！？\nううむ、\n謁見……\nあまり堅苦しいのは気が乗らんのじゃが……"
+    },
+    {
+      "name": "Brad",
+      "text": "Pardon me. It's just that if you could build a relationship with visitors coming from various places then Illya-sama's status will improve, your name will become more famous, and it'll help you in restoring your power.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ご容赦ください。\n各地より訪ねてくる者たちとの関係を築き上げ、\nうまく従えることができれば、\nイリヤ様の地位は上がり、\n名声は轟き、\n伝説の復活も早まることになりましょう。"
+    },
+    {
+      "name": "Yuki",
+      "text": "And if you fail. Then your status will drop, your reputation will be ruined, and the restoration plan will ultimately fail... Right?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ここで嫌われちゃったら、\nイリヤの地位は下がり、\n名声はガタ落ち、\n伝説の復活は潰えるってわけだね。"
+    },
+    {
+      "name": "Illya",
+      "text": "Why are you putting more pressure on me?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なぜわらわにプレッシャーをかけた！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Hmm, I don't feel like doing it even more now.\nMy familiar, do you have any good ideas?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ううむ、\n余計に気が乗らなくなってきたわ。\n眷属よ、\nなにかいいアイデアはないかの？"
+    },
+    {
+      "name": "Illya",
+      "text": "I see, you'll speak to them in my place? That's a good idea!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なるほど、\nお主がわらわの代弁者として謁見を進めるわけか。\nそれはよい考えじゃのう！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Leave it to me♪ I'll make everyone a prisoner of my beauty!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "まかせてよ♪\nみーんな\nボクの美しさの虜にしてあげるよ！"
+    },
+    {
+      "name": "Illya",
+      "text": "All right, then I'll leave it all to you and relax in the meantime!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "よし、\nでは任せた！\nわらわはその辺でふんぞり返っておこう！"
+    },
+    {
+      "name": "ブラド",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Putting that joke aside...\nIf that's the shortcut to getting my power restored, then I'd rather just do it myself.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……などという冗談はさておき。\nそれがわらわの完全復活への近道というならば\nやるしかあるまい。"
+    },
+    {
+      "name": "Illya",
+      "text": "Bring me those who have come to see me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわに会いに来た者どもを\n連れてくるがよい。"
+    },
+    {
+      "name": "Brad",
+      "text": "Understood. Then I'll start bringing them.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ハッ。\nでは、\nお通しします。"
+    },
+    {
+      "name": "Illya",
+      "text": "Now then, I wonder what kind of demons they are──",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "さて、\n一体どんなやつが──"
+    },
+    {
+      "name": "Monster 1",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Illya",
+      "text": "WHA-...!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なっ！？"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Ah, my apologies.\nI let out a roar out of habit...",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "あっ、\n失礼いたしました。\nつい習性で声をあげてしまいました……"
+    },
+    {
+      "name": "Yuki",
+      "text": "So that's a habit...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "あれって習性だったんだ……"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Illya-sama Ornstein. Let me congratulate your return in this occasion. It is an honor to make your acquaintance!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "イリヤ・オーンスタイン様。\nこの度はご復活おめでとうございます。\nお目通りが叶い\n光栄にございます……！"
+    },
+    {
+      "name": "Illya",
+      "text": "It is a pleasure too.\nThere's no need to be so formal, you can raise your head.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ。\nそう畏まる必要はないぞ、\n面を上げよ。"
+    },
+    {
+      "name": "Monster 1",
+      "text": "I can't believe it, so this is the legendary vampire!\nShe's so generous, even to ordinary monsters like us!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "さ、\nさすがは伝説に語られる吸血鬼さま……！\n我々のようなただの魔物にさえ寛大なお心遣い……！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Today, I have brought tributes for Illya-sama from my family.",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "本日は、\nイリヤ様に我が一族より献上品をお持ちしました。"
+    },
+    {
+      "name": "Illya",
+      "text": "Tributes? That's a good attitude.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "献上品か。\nうむうむ、\nよい心がけじゃな。"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Please accept these tributes.\nMy family raised only the highest quality of these──",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "どうぞこちらをお受け取りください。\n我が一族が育てている、\n最上級の──"
+    },
+    {
+      "name": "Monster 1",
+      "text": "──Garlics.",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "──ニンニクです。"
+    },
+    {
+      "name": "Illya",
+      "text": "Garlics?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ニンニク！？"
+    },
+    {
+      "name": "Monster 1",
+      "text": "...Is something the matter?",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "……どうかしましたか？"
+    },
+    {
+      "name": "Illya",
+      "text": "U-Umm... Um, I...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "え、\nええと……\nその、\nわらわは……"
+    },
+    {
+      "name": "Yuki",
+      "text": "Come to think of it, aren't vampires weak to garlics?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "あれ？\nそういえば吸血鬼って\nニンニクが弱点じゃなかったっけ？"
+    },
+    {
+      "name": "イリヤ",
+      "text": "おお、\nよう言うたぞユキ！\nわらわが直接苦手と口にするわけにはいかんからな、\nユキよ、\nその調子でやんわりと伝えるのじゃ……！　",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "おお、\nよう言うたぞユキ！\nわらわが直接苦手と口にするわけにはいかんからな、\nユキよ、\nその調子でやんわりと伝えるのじゃ……！　"
+    },
+    {
+      "name": "Brad",
+      "text": "No, that's not it. It might be true for a normal vampire, but the legendary vampire would have no such weaknesses.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "いえ、\nそれは違いますな。\nただの吸血鬼であるならそうかもしれませんが、\n伝説の吸血鬼に\n弱点などございません。"
+    },
+    {
+      "name": "Illya",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "えっ。"
+    },
+    {
+      "name": "Monster 1",
+      "text": "According to the legends passed down amongst demons, it says that \"For the legendary vampire, even garlics are their favourite foods instead, they even like eating them raw\".",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "はい、\n魔族の間に伝わっている話によりますと、\n伝説の吸血鬼は\n『弱点であるはずのニンニクを好んで食べる、\nしかも生で』\nと伝わっております。"
+    },
+    {
+      "name": "Illya",
+      "text": "Who spread a rumor like that?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "誰じゃ\nそんな噂を広めたの！？"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Could it be... Illya-sama is...?",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "もしやイリヤ様……\nニンニクが……？"
+    },
+    {
+      "name": "Illya",
+      "text": "Eh? Ah, no... That's not true...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "えっ？\nあ、いや……\nそんなことはない、\nぞ……？"
+    },
+    {
+      "name": "Yuki",
+      "text": "And if you fail. Then your status will drop, your reputation will be ruined, and the restoration plan will ultimately fail... Right?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ここで嫌われちゃったら、\nイリヤの地位は下がり、\n名声はガタ落ち、\n伝説の復活は潰えるってわけだね。"
+    },
+    {
+      "name": "イリヤ",
+      "text": "ぐぬぬ……\nわらわの頭の中のユキが囁いておる……！\nどこまでもはた迷惑なやつじゃ……！　",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぐぬぬ……\nわらわの頭の中のユキが囁いておる……！\nどこまでもはた迷惑なやつじゃ……！　"
+    },
+    {
+      "name": "Yuki",
+      "text": "Huh? What is it, Illya? Why are you glaring at me...?\nI didn’t even say anything...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "えっ、\nなにイリヤ、\nどうしてボクをにらんでるの……？\nボク何も言ってないけど……"
+    },
+    {
+      "name": "イリヤ",
+      "text": "ここで突っぱねるのも\n夜を統べる者としての威厳が……！\nええい、\n腹をくくるしかあるまい……！　",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ここで突っぱねるのも\n夜を統べる者としての威厳が……！\nええい、\n腹をくくるしかあるまい……！　"
+    },
+    {
+      "name": "Illya",
+      "text": "Th-That's right... It looks really good...!\nI-I'll... have some...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そっ、\nそうじゃな……\nとてもおいしそうなニンニクじゃ……！\nい、\nいただくと……\nしよう……"
+    },
+    {
+      "name": "Illya",
+      "text": "M-My familiar...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "おっ、\nお主……！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Aaah, what are you saying...!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "ああっ、\nなんということを……！"
+    },
+    {
+      "name": "イリヤ",
+      "text": "{0}よ……\nお主、\nわらわのために……！　",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "{0}よ……\nお主、\nわらわのために……！　"
+    },
+    {
+      "name": "Illya",
+      "text": "Heh, it seems my familiar are overjoyed as well. This tribute is indeed of a high quality.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふっ、\nどうやら我が眷属も喜んでおるようじゃ。\n此度の献上品、\n実に良いものであったぞ。"
+    },
+    {
+      "name": "Illya",
+      "text": "I, the ruler of the night, has deemed you worthy of becoming my brethren!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "お主たちを\n夜を統べる者の同胞として、\n認めようぞ……！"
+    },
+    {
+      "name": "Monster 1",
+      "text": "Hahaa! I'm overjoyed!",
+      "choice_data_list": [],
+      "orig_name": "魔物１",
+      "orig_text": "ははーっ！\nありがたき幸せ……！"
+    },
+    {
+      "name": "Illya",
+      "text": "*sigh*... I can't believe they brought garlic of all things.\nStill, I'm glad it worked out somehow. Thankfully I have a very good familiar! Hahaha~",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふぅ……\nまったく、\nよりによってニンニクを持ってくるとは。\nじゃが、\n何とかなってよかったわい。\nこれもよい眷属を持ったおかげじゃな！　\nハーッハッ──"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hey, Illya. The legends said that the legendary vampire really likes garlic, right?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ねぇイリヤ。\n伝説の吸血鬼は\nニンニクが好物って伝わってるんだよね？"
+    },
+    {
+      "name": "Yuki",
+      "text": "In that case, wouldn't you keep getting garlic tributes?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "だったらさ、\nこのあともずっとニンニクじゃない？"
+    },
+    {
+      "name": "Illya",
+      "text": "Huh!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ハッ──"
+    },
+    {
+      "name": "Monster 2",
+      "text": "Congratulations on your return, legendary vampire! Take a look at the extra-large garlic that our race is so proud of──",
+      "choice_data_list": [],
+      "orig_name": "魔物２",
+      "orig_text": "伝説の吸血鬼さま、\nご復活おめでとうございます！\n我が種族自慢の\n特大ニンニクをご覧ください！"
+    },
+    {
+      "name": "Monster 3",
+      "text": "This is a stir-fried garlic as a tribute!",
+      "choice_data_list": [],
+      "orig_name": "魔物３",
+      "orig_text": "こちら\n献上品のニンニク炒めでございます！"
+    },
+    {
+      "name": "Monster 4",
+      "text": "Here's a garlic-patterned dress I knitted all night!",
+      "choice_data_list": [],
+      "orig_name": "魔物４",
+      "orig_text": "夜なべして編んだ\nニンニク柄のドレスをどうぞ！"
+    },
+    {
+      "name": "Monster 5",
+      "text": "A garlic scented dakimakura──",
+      "choice_data_list": [],
+      "orig_name": "魔物５",
+      "orig_text": "匂い付きニンニク抱き枕を──"
+    },
+    {
+      "name": "Illya",
+      "text": "──Am I in Hell!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "──地獄かっ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Rather than an audience with the legendary vampire, this looks more like a procession for handing out garlics.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "謁見っていうか、\n「伝説の吸血鬼にニンニクを渡す会」\nみたいになっちゃってるね。"
+    },
+    {
+      "name": "Illya",
+      "text": "This legend... There's something weird with this legend! How did it spread around this much in the first place?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "伝説が……\n伝説の伝わり方がおかしいのじゃ……！\n一体なにがどうなってこんな話が伝わっておるのじゃ……！？"
+    },
+    {
+      "name": "Brad",
+      "text": "...Ahem.\nIllya-sama, the next guest is waiting──",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "……こほん。\nイリヤ様、\n次のお客様がお待ちで──"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "Yo, sorry for bothering...!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "よぉ、\n邪魔するぜ……！"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "Heh, so you’re the legendary vampire I've heard about?\nI was wondering what kind of monster you would be, but hmm... you don't look that different from a human.",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "へぇ、\nあんたが伝説の吸血鬼か。\nなんだ、\nどんなバケモノかと思ったが、\nニンゲンと大して変わらねぇじゃねぇか……"
+    },
+    {
+      "name": "Yuki",
+      "text": "Oh, there's a simpleton here. I still can't tell them apart from the other monsters, though.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "なんかわかりやすいのが来たよ。\nボクには他の魔物との見分けがつかないけど。"
+    },
+    {
+      "name": "Illya",
+      "text": "Ahh── you're one of those types, aren't you? When you heard that the legendary vampire has returned, you thought you'd beat me and make a name out of yourself.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あー、\nお主はアレじゃろ？\n伝説の吸血鬼が復活したと聞き及び、\n倒して名を上げようと思ったのじゃろう？"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "I knew you'd see through my ambitions! That's right, I will personally put an end to this legend!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "さすがだな、\nこのオレサマの野望も\n全部お見通しってワケか！\nそうだ、\n伝説とやらを\nこのオレサマが終わらせてやろうってワケさ！"
+    },
+    {
+      "name": "Illya",
+      "text": "This one not carrying any garlic already feels much better.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ニンニクを持ってないだけで癒されるのう。"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "W-Why are you so relieved?!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "なっ、\nなぜ癒されてやがる！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Shouldn't it be obvious? There's no way I wouldn't treat a guest who came all the way over here.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "決まっておろう？\nわざわざ足を運んできた来客をもてなさぬわけにはいくまい。"
+    },
+    {
+      "name": "Illya",
+      "text": "I’ll show you the true power of the ruler of the night!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "夜を統べる者の力を、\n存分に見せてやるのじゃ……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Aren't you just taking out your anger on him?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ニンニクの恨みをぶつける、\nの間違いだよね？"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "I don't really get it, but you're taking up my challenge right!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "へっ、\nよく分からねぇが、\n挑戦を受けるってことでいいんだよな！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Fine. Let's play around a little.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "よい。\n──少し遊んでやろう。"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "Ugh...! That's quite the power...\nAs expected of the legendary vampire!\nWhoops, I need to be careful from this distance!!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "……！\n大した気迫だ……\nさすがだぜ……！\nおおっと、\n間合いには気を付けねぇとな……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Heh. You're quite the coward for such a big fellow.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふっ、\nでかい図体の割に\n随分と臆病ではないか。"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "Of course. I know all about you, you know! That the legendary vampire can stretch their necks to an unbelievable distance and suck their blood! It can even reach all the way to the moon!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "当然だ。\n知ってるんだぜ？\n伝説の吸血鬼は、\nとんでもない距離まで首を伸ばして吸血できるんだろ？\nあの空に浮かぶ月にまで届いたっていうじゃねぇか！"
+    },
+    {
+      "name": "Illya",
+      "text": "...Eh?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……んっ？"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "And not only that! A beam of light that burns anything in its path from your eyes and a breath that decays anything it touches from your mouth!\nThere’s no way I can approach you carelessly...!",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "それに、\n目からはあらゆるものを焼き尽くす怪光線、\n口からはどんなものでも腐らせる吐息を吐き出すんだろ！？\n迂闊に近寄れるわけがねぇ……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow, you’re so amazing!\n...Maybe I should keep my distance from you.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "わぁ、\nイリヤすごーい！\n……\nボクもちょっと離れようかな。"
+    },
+    {
+      "name": "Illya",
+      "text": "Wait a second Yuki, I'm not like that!\nAnd my familiar, why are you looking at me with those sparkling eyes!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "待つのじゃユキ、\nわらわはそんなことできぬぞ！？\nそれに眷属よ、\nなぜキラキラした目でわらわを見ている！？"
+    },
+    {
+      "name": "Illya",
+      "text": "You! Where did you learn a legend like that?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "おい貴様！\nそんな伝説をどこで知った！？"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "Huh? Well it was written in a book called “Understanding the Legendary Vampire” that I bought in this city... \nYeah, it's this book.",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "えっ？　\nこの街で売ってた\n『よく分かる伝説の吸血鬼』って本に書いてあったが？\n……\nああ、\nこれだ。"
+    },
+    {
+      "name": "ブラド",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Let me take a look! Now what does it say?\n “The Legendary Vampire has overcame all of her weakness, she built a house out of wooden stakes, and tap dances under the sunlight...\"",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ちょっと見せてみよ！　\nなになに？\n『伝説の吸血鬼はおよそあらゆる弱点を克服していて、\n白木の杭で家を建て、\n日差しの下でタップダンスを踊る……』"
+    },
+    {
+      "name": "Illya",
+      "text": "What is this?!\nWho the hell wrote this book...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なんじゃこりゃあっ！？\n誰がこんなもの書いて……"
+    },
+    {
+      "name": "Brad",
+      "text": "Ohh, Illya-sama! Come to think of it, today's a good day so why don't we take a walk──",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "おおイリヤ様！\nそういえば\n本日は御日柄もよいので外に散歩にでも──"
+    },
+    {
+      "name": "Illya",
+      "text": "──Author: Brad.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "──著者、\nブラド。"
+    },
+    {
+      "name": "Brad",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Illya",
+      "text": "It's youuuuuuuu!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "お主かぁぁぁぁぁぁぁぁぁぁぁぁぁ！"
+    },
+    {
+      "name": "Brad",
+      "text": "I just wrote the facts I found while investigating about the legendary vampire! ...And added a little flavour to the stories to make it easier to spread...",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "私はただ、\n伝説を調べるにあたって見つけた事実を、\n少しばかり\n伝わりやすいよう色を加えて書き記しただけで……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Vermilion Bite!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ヴァーミリオンバイトォッ！"
+    },
+    {
+      "name": "Brad",
+      "text": "Nwaaaaah?!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ぬおぉぉぉぉぉっ！？"
+    },
+    {
+      "name": "Fiendish-looking Monster",
+      "text": "Why me too!?",
+      "choice_data_list": [],
+      "orig_name": "凶悪そうな魔物",
+      "orig_text": "なんでオレサマまでーーーっ！？"
+    },
+    {
+      "name": "Narration",
+      "text": "Illya received various demons and monsters who had heard news of her return. Thanks to her hard work, more and more of them came to the city.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "復活の報を受け訪れる様々な者たちと交流したイリヤ。\nその苦労の甲斐もあり、\nこの地に集う闇の者たちの数は大きく増加したのであった。"
+    }
+  ]
+}

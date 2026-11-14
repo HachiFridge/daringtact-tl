@@ -1,0 +1,539 @@
+{
+  "title": "My True Feelings",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having reclaimed Arthur, the party sets\nout to recover the rest of Maho's plushies.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アーサーを取り戻した{0}たち。\n残るぬいぐるみたちを取り戻すため、行動を開始した。"
+    },
+    {
+      "name": "Maho",
+      "text": "The plan is for us to split into two groups.\nI assume we're all fine and dandy with that?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ここからは\n二手に分かれてってことで、\nよろしおす？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Sure thing!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "もちろん、\n大丈夫さ～！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yup. Makes sense now that we know how to proceed,\nand that'll help us deal with the sheer number of plushies.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ。\n対処法が分かった以上、\n数が数だし、\n分かれて動いた方が効率的だろうな。"
+    },
+    {
+      "name": "Maho",
+      "text": "I'll leave Makoto in your capable hands, my prince.",
+      "choice_data_list": [
+        "No problem.",
+        "I'll take good care of her."
+      ],
+      "orig_name": "マホ",
+      "orig_text": "王子はん。\nマコトはんのことを\nよろしゅうな？"
+    },
+    {
+      "name": "Maho",
+      "text": "You really are as reliable as they come, ain't ya?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ほんま、\n王子はんは頼りになるわぁ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey now. If anything, I'll be the one protecting him.\nI mean, sure, he is reliable...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "いやいや、\nどっちかってーと守ってやるのはあたしの方だろ？\nそりゃ、\nこいつだって\n頼りになるところはあるけどよ……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Wh-where'd that come from?!\nYou should save those sort of lines for Yui!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おまっ、\n何言っちゃってんの！？\nそういうのはユイに言ってやれよ！？"
+    },
+    {
+      "name": "Kaori",
+      "text": "You're as red as a tomato, Makoto. ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "マコト、\n顔真っ赤さ～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "Anyway, let's meet up later.\nWe'll rendezvous at the beach before sunset.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "それじゃあ、\nまたあとで。\n日が暮れる前に、\n浜辺で合流な？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Don't let yourselves get distracted, okay? ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "二人とも、\n道草食わないように気を付けるさ～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "Look who's talking!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そっちの方が心配だよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Sheesh. C'mon, let's get going.\nWe're checking out the wharf, which is farther into the village.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ったく。\nほら、\n行こうぜ。\nあたしらは漁村の奥、\n漁船を泊めてある桟橋の方だ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hmm. Nothing seems out of the ordinary here.\nNotice anything on your end?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ん～、\n見た感じ\n特に異常はないな。\nそっちはどうだ？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Guess not, judging from your expression.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "その様子じゃ、\nこっちと同じみたいだな。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh well. No sense in wandering around aimlessly,\nso let's wait for a bit and see what happens.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "仕方ねぇ。\n闇雲に動き回っても意味ねぇし、\n少し待ってみるか。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hm? What's wrong? You can sit down, you know.",
+      "choice_data_list": [
+        "Sit I will."
+      ],
+      "orig_name": "マコト",
+      "orig_text": "ん？　\nどうした、\n座れよ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "You feeling nervous or something?\nDon't worry. I'll protect you if anything pops up. ♪",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なんだよ緊張してんのか？\n大丈夫だよ。\n何が出てきても\nあたしが守ってやるって♪"
+    },
+    {
+      "name": "Old Lady",
+      "text": "Oh? It's rare to see a young couple here.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "おやおや、\nこんなところにカップルかい？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Couple?!\nN-nah, you got it all wrong!\nWho are you, even?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "かっ！？\nちち違うっての、\nいきなり誰だよ！？"
+    },
+    {
+      "name": "Old Lady",
+      "text": "Oh, just a regular old lady.\nI haven't seen you folks around before, so I came by to make\nsure you're not trying to do anything funny with our boats.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "なぁに。\n見知らぬ若いもんがいたからね。\n漁船に悪さでもする気かと思って見に来たのさ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh, makes sense.\nSorry about that, miss. I guess we are kind of suspicious.\nThat's not the case, though. We're with Caon—",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あー、\nそうか。\nそりゃ悪かったな、\nバアちゃん。\nたしかに怪しいよな。\nでも誤解だ。\nあたしらは【自警団（カォン）】……"
+    },
+    {
+      "name": "Old Lady",
+      "text": "It's fine, it's fine.\nI'm not senile enough to interrupt a young couple on their date.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "分かっとる分かっとる。\n私も若いカップルの逢瀬を邪魔するほど野暮じゃないさ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Didn't I just tell you that's not the case?!\n{0}! Back me up here!",
+      "choice_data_list": [
+        "I have no idea who she is.",
+        "I'll take good care of her."
+      ],
+      "orig_name": "マコト",
+      "orig_text": "だーかーら違うって言ってんだろ！？\n{0}も誤解を解こうとしろよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "U-uh...\nI wasn't expecting you to put that much distance between us.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お、\nおう……\nそこまで距離を離せとは言ってねぇ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "That's literally the opposite of what I asked!\nYou gotta... Argh! Whatever!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なんで誤解を深めようとする！？\nそういうのは……\nあぁもういい！"
+    },
+    {
+      "name": "Old Lady",
+      "text": "Hohohoh. I jest.\nDo take care, though. A Majimun was spotted around here.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "ほっほっほ。\n冗談じゃよ。\nだが、\n気を付けなされよ。\nこの辺りにはマジムンが出るからの。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh, so you heard about all that?\nThat Majimun is why we're here, actually.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お、\nバアちゃんも知ってんのか。\n気を付けるも何も、\nあたしらはそのマジムンを探しに来たんだよ。"
+    },
+    {
+      "name": "Old Lady",
+      "text": "Oh?\nI assume it's more than just a simple test of courage, by the sound of things.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "ほお。\n肝試し、\nというわけでもなさそうだねぇ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "You seem like you know your stuff,\nso mind if I ask you a question?\nWhat exactly is a Majimun, anyway?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なあバアちゃん、\n知ってんなら教えて欲しいんだけどよ、\nマジムンってのは何なんだ？"
+    },
+    {
+      "name": "Old Lady",
+      "text": "I haven't seen one myself, alas.\nAll I can tell you are the legends passed down here.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "私も見たことあるわけじゃないから、\n村に伝わる話になるけどね……"
+    },
+    {
+      "name": "Makoto",
+      "text": "That's fine.\nWe need as much info as we can get right now.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "それで構わねぇ。\n今は少しでも情報が欲しいんだ。"
+    },
+    {
+      "name": "Old Lady",
+      "text": "The term \\\"Majimun\\\" refers to evil spirits, yokai,\nand all sorts of terrifying things.\nIt's said that they appear in all shapes and forms.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "マジムンは\n悪霊や妖怪、\n恐ろしいもの、\n怖いものを指す言葉でね。\nそれは色々な姿で現れると言われておる。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Just like Kaori said.\nWhat makes them steal people's souls, then?\nThey must have a reason.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "カオリの言ってた通りだな。\nそれで、\nなんでそいつらは魂を奪うんだ？　\n目的は何なんだよ。"
+    },
+    {
+      "name": "Old Lady",
+      "text": "Who knows?\nAll I can say for sure is that Majimun are attracted to benevolent souls.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "さぁてね。\nただ\n一つ分かるのは、\nマジムンが\n善い魂に\n惹かれるってことさ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Benevolent souls...\nThat might explain why the plushies were targeted in the first place...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "善い魂に……\nじゃあもしかして、\n最初にぬいぐるみが狙われたのは……"
+    },
+    {
+      "name": "Old Lady",
+      "text": "Regardless, don't flirt too much, okay?\nOtherwise you'll attract a Majimun yourselves.",
+      "choice_data_list": [],
+      "orig_name": "老婆",
+      "orig_text": "とにかく、\nいちゃいちゃするのもほどほどにするんだよ。\nマジムンに\n狙われてしまうでな。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Enough with that already!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "それはもういいっての！"
+    },
+    {
+      "name": "Makoto",
+      "text": "So much for finding clues about the plushies, I guess.\nShe didn't see any around either.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "結局、\nぬいぐるみ探しの手掛かりはナシだったな。\nバアちゃんもぬいぐるみは見てないって言ってたし。"
+    },
+    {
+      "name": "Makoto",
+      "text": "What's our next plan of action?\nIt's starting to get late, so should we meet up with the princess and Kaori?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "これからどうすっかな。\nそろそろ日も傾いてきたし、\n一旦姫さんたちと合流するか？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey, what's with the blank stare?",
+      "choice_data_list": [
+        "Look over there."
+      ],
+      "orig_name": "マコト",
+      "orig_text": "おい、\nどうしたんだよ？　\nキョトンとした顔して？"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Huh? Those are the princess's plushies...\nLancelot and Gawain!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あれ？　\nありゃ姫さんの……\nランスロットとガウェインじゃねぇか！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hm? Wh-what is it?\nAm I not allowed to remember their names or something?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ん？\n　な、\nなんだよ。\nあたしがぬいぐるみの名前覚えてちゃ悪いかよ？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Don't give me that look!\nI know what you're thinking, and it's wrong!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なんだその優しげな顔は！\n変な誤解してんじゃねぇぞ！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Argh, we ain't got the time for this!\nLet's go!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "って、\nそんなことしてる場合じゃねぇ！\n　\n行くぞ！"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey there, Lancelot. Gawain.\nThe princess is super worried about you two.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "よぉ\nランスロットにガウェイン。\n姫さんが心配してたぜ……？"
+    },
+    {
+      "name": "Makoto",
+      "text": "We just gotta give them a good scare, right?\nLet's do it!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "驚かせればいいんだよな……\n行くぜ！"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Tch! They're both coming at us at once!\nAnd they're fast, to boot!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ちっ、\n二体同時かよ！\nしかも……\n速ぇ！"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Guess they don't want us getting too close!\n{0}! Stick by my side!",
+      "choice_data_list": [
+        "Got it!"
+      ],
+      "orig_name": "マコト",
+      "orig_text": "近づけさせねぇってか！\nおい{0}！\n　あたしから離れるなよ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Actually, don't stick too close!\nMy swimsuit's kinda coming loose...!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あっ、\nやっぱ少し離れろ！\n水着が緩んでっ……！"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Shoot! We let them close the distance!\nWhat's going on?! It's like something's entering my body!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "しまった、\n近づかれて……！\nなんだこれ、\nあたしの中に何か入ってくる……！？"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "I'm losing all my strength!\nThis is bad. Are they taking my soul?!\n{0}, run!",
+      "choice_data_list": [
+        "No can do."
+      ],
+      "orig_name": "マコト",
+      "orig_text": "力が抜ける……！\nやべぇ、\nこれが魂を奪われるってことか……！？\n{0}は、逃げろ……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "What're you...?!\nWhy are you coming closer? Aaaahhh?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "{0}、何を……っ！？\nなんでそんな近づいて……\nひゃあああっ！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Y-you're way too close!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ち、\n近い、\n近いって……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Quit it! This isn't right...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "やめろよ、\nこういうのは……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Ahhh! Calm down! Calm down, Makoto!\nHe does realize I'm in my swimsuit, right?! ",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あああ、\n収まれ、\n収まれあたしの胸の鼓動！\nっていうかあたし今水着だぞ！？　"
+    },
+    {
+      "name": "Makoto",
+      "text": "Both of us can feel all sorts of stuff like this!\nWhat the heck's going through his head?! ",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "こんなに近づいたら、\nいろいろ伝わっちまうじゃねぇか！\n何考えてんだこいつ……！　"
+    },
+    {
+      "name": "Makoto",
+      "text": "Huh...? Why's he bringing his face closer?\nNo way... This can't be happening...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "え……？\n　なんで顔、近づけて……？\n嘘、\nだよな……？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Is he really gonna...? ",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "まさか、\n本当に……？　"
+    },
+    {
+      "name": "Makoto",
+      "text": "I'm sorry, Yui! ",
+      "choice_data_list": [
+        "WAH!"
+      ],
+      "orig_name": "マコト",
+      "orig_text": "ごめん、\nユイ……！　"
+    },
+    {
+      "name": "Makoto",
+      "text": "?!\nHuh?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "！？\n　へっ？"
+    },
+    {
+      "name": "Lancelot & Gawain",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "ランスロット・ガウェイン",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Lancelot and Gawain are back to normal?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……ランスロットとガウェインが、\n解放された？"
+    },
+    {
+      "name": "Makoto",
+      "text": "I feel a lot better, too...\nHow come?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あたしも体が楽に……\nなんでだ？"
+    },
+    {
+      "name": "Makoto",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Ohhh, now I get it! You did that to help me, didn't you?\nAnd I fell right for it,\nwhich pushed the Majimun out of my body.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あー、\nなるほど！\n　\nつまりさっきのはあたしを助けるために？\nそれであたしは見事に驚かされて、\nマジムンも飛び出してったと、\nそういうわけだな？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Makes sense, yeah.\nCome here for a sec, will ya?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なるほど、\nなるほどなぁ。\nおまえ、\nちょっと耳貸せ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "What if my soul had popped out along with the Majimun?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "あたしの魂が飛び出したらどうすんだーっ！"
+    }
+  ]
+}

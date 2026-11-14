@@ -1,0 +1,992 @@
+{
+  "title": "Dance of Water and Flame",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "People are scrambling for the magic lamp. A huge crowd swept away the guards as the country fell into chaos.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔法のランプへ我先にと押し寄せる民たち。\n群衆の大きなうねりは衛兵を押し流し、国は大混乱に陥っていた。"
+    },
+    {
+      "name": "Saren",
+      "text": "Everyone's getting so excited, it feels like we're right on the brink of a riot...\nPeople are panicking because of the wishes being granted...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "熱気が高まり過ぎて暴動寸前って雰囲気ね……\n叶った願いのせいで、\nあちこちでパニックが起きてるし……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Looks like the guards and soldiers are swept by the crowds, the locks also doesn't seem to be functioning, and I can't find Ruka and Chika either...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "警備の兵士も人波に流されちまって、\nロクに機能してないみたいだね。\nチカやミフユともはぐれちまったし……"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "N-Next person, please.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "つ、\n次の方、\nどうぞっ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "And you need to stop granting wishes! Any more than this would be dangerous, you should wait for the situation to settle down... Look, you're already this pale yourself.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタも\nいったん願い事を叶えるのはやめな！\nこのままじゃ危ない。\n事態が落ち着くのを待つんだ。\n……\nホラ、\nこんなに顔色が悪いじゃないか。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "I-I won't stop...! I have to grant everyone's wish...\nI've already taken a long rest after all this time.\nI can do at least this much!",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "だ、\nだめです……！\nボクは、\nみなさんの願い事を叶えなくちゃ……\nずっと\n長いことお休みしてたんです。\nこのくらい、\nへっちゃらですよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Don't keep forcing yourself! At least take some breaks...!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "無理しちゃダメよ！\nせめて、\n休憩くらい……！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Sorry to keep you waiting.\nPlease tell me what you wish for.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "さあ、\nお待たせしました。\nあなたの願いを教えてください。"
+    },
+    {
+      "name": "？？？",
+      "text": "Ahh, I've been waiting for awhile.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ああ、\nずいぶん待ったぜ。"
+    },
+    {
+      "name": "Saren",
+      "text": "What── Aren't they the bandits we captured in the oasis!?\nWhy are they here!?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょっと！　\nあれ、\nオアシスで捕まえた盗賊たちじゃない！\nなんでここにいるの！？"
+    },
+    {
+      "name": "Bandit",
+      "text": "Haa? Well it's because that genie boy granted my wish earlier.\nI simply told him \"I have someone I want to meet\".",
+      "choice_data_list": [],
+      "orig_name": "盗賊",
+      "orig_text": "あ？　\nそりゃあ、\nさっき魔神の坊やに叶えてもらったからさ。\n言ったろ、\n会いたい人がいる、\nって。"
+    },
+    {
+      "name": "Bandit",
+      "text": "Boss, we should give him our thanks.\nI didn't expect he'd even bring the others too with you, hehehe...!",
+      "choice_data_list": [],
+      "orig_name": "盗賊",
+      "orig_text": "カシラを助けてくれて\n感謝してるぜ？\n他の仲間まで一緒に連れてきてくれるたァ\n思わなかったけどよ。\nへへへっ……！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "...I granted... Your wish...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "……ボクが叶えた……\nあなたの、\n願い……"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "That's right. I'm grateful for your help letting me out of prison, genie boy.\nNow we can return to being bandits, and my wish is──",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "そうさ。\n助け出してくれてありがとよ、\n魔神の坊主。\nこれでまた、\n俺たちは盗賊稼業に復帰できるってもんだ。\n俺の願いは──"
+    },
+    {
+      "name": "Saren",
+      "text": "There's no need to follow what a bad guy like him says!\nDon't listen to it!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "悪党に耳を貸す必要なんかないわ！\nそいつの言うことを聞いちゃダメ！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Saren-neechan! But... I have to grant their wish...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "サレンおねえちゃん！\nだけど、\nボクは、\nお願いを叶えなくちゃ……"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "...Boy. Can I ask something before my wish? Even though you've brought this much chaos, you still haven't rejected any wishes even now. Why is that?",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "……なあ坊主。\n願い事の前に\n質問していいか？\nこれだけの騒動を引き起こしておきながら\nお前は誰の願いも拒まなかった。\n今もだ。\nそれはなんでだ？"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Perhaps... you can't reject a wish? No matter what the wish is, as long as you can grant it then it'll be granted.\nNo matter what kind of evil wish it is.",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "もしかして、\nお前……\n拒めないんじゃねぇのか？\n誰のどんな願いだって、\n叶えられる範囲なら叶えちまう。\nたとえそれが、\nどんな悪党の願いであってもな。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "T-That's... Uhh.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "そ、\nそれは……\nうぅっ。"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Hahaha, so I was right...\nThen I'm not going to hold anything back, I will use that power to its fullest!",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "くくくっ、\nやっぱりな……\nなら\n遠慮なく、\nその力を使わせてもらうぜ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Don't listen to him! Close your ears!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "聞いちゃダメ！\n耳をふさいで！"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "──I want to obtain everything on this country!\nGrant me the power to do that!",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "──俺は、\nこの国のすべてを手に入れる！\nそれができる力ってやつを\n寄こしやがれ！！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "...So that's your wish.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "……それが、\nあなたの願い\nですね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "...!? The ground is shaking...\nWhat is happening!?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "！？\n地響き……\nいったい\n何が起きてるっていうんだい！？"
+    },
+    {
+      "name": "Narration",
+      "text": "*menacing sound*────!!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ゴゴゴゴゴゴ────！！"
+    },
+    {
+      "name": "古代ゴーレム",
+      "text": "──────",
+      "choice_data_list": [],
+      "orig_name": "古代ゴーレム",
+      "orig_text": "──────"
+    },
+    {
+      "name": "Ruka",
+      "text": "What is huge thing...\nIs it a monster...?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なんだい、\nあのデカブツは……\n魔物、\nなのか……？"
+    },
+    {
+      "name": "Saren",
+      "text": "Ruka-san, that monster...\nIt looks like it's gathering power in its arms toward here...\nOh no, run!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ルカさん、\nあの魔物……\n腕をこっちに向けて、\n力を溜めてるみたい……！\n逃げて、\n危ない！"
+    },
+    {
+      "name": "古代ゴーレム",
+      "text": "──────！！",
+      "choice_data_list": [],
+      "orig_name": "古代ゴーレム",
+      "orig_text": "──────！！"
+    },
+    {
+      "name": "Crowd",
+      "text": "Uwaaaaaah!?",
+      "choice_data_list": [],
+      "orig_name": "群衆",
+      "orig_text": "うわあああああああっ！？"
+    },
+    {
+      "name": "Saren",
+      "text": "Kyaaa!? ...Are you okay? You're hurt anywhere?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "きゃあ！？\n……\n大丈夫？　\nケガはないわね？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "I-I'm fine... This is... Did that came out because of me... Because I granted that wish...?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "は、\nはい……\nこれは……\nボクが、\n出してしまったんでしょうか……\nボクが、\n願いを叶えて……？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Why is this happening... I just...\nI just wanted everyone to be happy...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ボクは……\nなんてことを……\nただみんなに、\n幸せになってほしかっただけなのに……"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Hey, what's with that face? That thing is awesome!\nIt opened a hole in the castle walls, that thing has even more power than I expected!",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "おいおい、\n何しけた顔してんだ？\nこいつはゴキゲンじゃねぇか！\n城壁に穴が開いちまった。\nこの威力、\n期待以上だぜ！"
+    },
+    {
+      "name": "Women 1",
+      "text": "That monster... was summoned from the wish just now?\nYou're kidding me, this country is going to perish!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "あの化け物は……\n今の願いで呼び出されたの？\n冗談じゃないわ、\n国が滅びてしまうじゃない！"
+    },
+    {
+      "name": "Male 1",
+      "text": "You're not a wish granting genie...\nYou're more like the angel of death...!",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "何が願いを叶える魔神だ……\nとんだ疫病神じゃないか……！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "This is everyone's voice... I can hear their inner voices...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "これは、\nみなさんの声……\n心の声が\nこんなにも聞こえて……"
+    },
+    {
+      "name": "Male 2",
+      "text": "Because of you...!",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "あんな物があるから……！"
+    },
+    {
+      "name": "Woman 2",
+      "text": "If only the genie never came...!",
+      "choice_data_list": [],
+      "orig_name": "女性２",
+      "orig_text": "魔神なんかいなければ……！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "If that's what you wish for... Then I will...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "それがみなさんの願い……\nなら、\nボクは……"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Tch, did he run out of magic?\nThat genie kid, where did he go──",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "ちっ、\n魔力切れか？\nあの魔神のガキ、\nどこに行きやがった──"
+    },
+    {
+      "name": "Saren",
+      "text": "Let go of that lamp!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そのランプを放しなさい！"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Gah! Oh no...!",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "ぐっ！　\nしまった……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Nice!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "よくやった、\nお前さん！"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Did they took the lamp...\nOh well, there's no point in a tool you can't use anyway.",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "ランプを取られたか……\nまあいい、\n使えねえ道具に用はねえ。"
+    },
+    {
+      "name": "Bandit",
+      "text": "Ah, boss! Where are you going?",
+      "choice_data_list": [],
+      "orig_name": "盗賊",
+      "orig_text": "あっ、カシラ！　\nどこに行くんで？"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "As long as we have that big thing, we can conquer not only Salasaria but the whole world itself.\nLike that, it'll end up just the same as getting all of my wishes granted.",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "あのデカブツさえ居れば、\nサラサリアどころか世界中の国を従えられる。\nそうなりゃ、\nどんな願いだって叶えられるも同然だろ。"
+    },
+    {
+      "name": "Saren",
+      "text": "The bandit lord is retreating...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "盗賊の首領が退いていく……？"
+    },
+    {
+      "name": "Ruka",
+      "text": "They're heading out of the country...\nWhich means it's only a matter of time before that ridiculously big monster starts moving.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "国の外に向かってるよ。\n……\nってことは、\nあのバカみたいに\n大きな魔物が動き出すのも\n時間の問題だろうね。"
+    },
+    {
+      "name": "Saren",
+      "text": "...That's right, we can't simply leave him alone.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……そうよね。\nこっちの問題も放っておけないわ。"
+    },
+    {
+      "name": "ランプの魔神",
+      "text": "ごめんなさい……\nボクが願いを叶えたばっかりに……\nまた……\nこんなことに……",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ごめんなさい……\nボクが願いを叶えたばっかりに……\nまた……\nこんなことに……"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "...Again? I see, I think this has happened before.\nIt was... a long time ago...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "……また？　\nそう、\n前にもあった気がする。\nあれは……\nずっと昔の……"
+    },
+    {
+      "name": "Narration",
+      "text": "A long time ago in Salasaria──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "遥か昔のサラサリアにて──"
+    },
+    {
+      "name": "King From Ancient Times",
+      "text": "Genie of the Lamp, please listen to my wish. Just one wish.\nI wish for an oasis to be brought here.\nThe oasis nearby has all dried up...",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の国王",
+      "orig_text": "ランプの魔神よ、\nわしの願いを聞いておくれ。\n一つだけで良い。\nここに\nオアシスを持ってきてほしいのじゃ。\n近くのオアシスは全て水が枯れてしまってな……"
+    },
+    {
+      "name": "King From Ancient Times",
+      "text": "Our citizens have to draw water from far away every day.\nAnd while holding such heavy waters, there are many monsters along the way... I can't bear to see everyone in such danger anymore.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の国王",
+      "orig_text": "民たちは、\n日々遠くまで水を汲みにいかねばならぬ。\n重い水を抱えての道中、\n魔物も多くてな……\n皆が危ない目に遭うのが\nやり切れんのじゃ。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "I understand! If that's your wish, then I shall grant it!! Hyahh!!",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "わかりましたっ！　\nそれがあなたの、\nお願いですね。\nじゃあ、\nいきますよ～！！　\nえ～～～～いっ！！"
+    },
+    {
+      "name": "Person From Ancient Times 1",
+      "text": "Ohh, an oasis has shown up nearby! Now we can get water much faster...! The fields will also come back to life.\nThank you, King and Genie!",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の民１",
+      "orig_text": "おお、\n近くにオアシスが！\nこれですぐに水が使えるようになる……！　\n畑も生き返ります。\n王様、\n魔神さま、\nありがとうございます！"
+    },
+    {
+      "name": "Person From Ancient Times 2",
+      "text": "King and Genie, farming under the hot sun is so hard. Even though we have the water source nearby, maintaining the fields and growing the crops is a lot of hard work... So can we simply wish for the crop to come out? So I don't have to do the hard work of farmwork.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の民２",
+      "orig_text": "王様、\n魔神さま。\n炎天下の農作業は大変です。\n水が近くにあろうと、\n畑を維持して作物を育てるのは……\nだから、\n作物を出してもらえませんか？　\n農作業をしなくていいように。"
+    },
+    {
+      "name": "Advisor From Ancient Times",
+      "text": "King, I advise you to use the genie's power to develop our country even more. Our ore mining will be more efficient if we use the genie's power.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の大臣",
+      "orig_text": "王よ、\nランプの魔神の力を使い\n我が国をさらに発展させるよう進言します。\n鉱石の採掘も、\n魔神を使えばもっと効率が良いでしょう。"
+    },
+    {
+      "name": "Advisor From Ancient Times",
+      "text": "Peace for our citizens, luxury for the king, and prosperity to the country. Surely you can do it, Genie of the Lamp.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の大臣",
+      "orig_text": "民には安寧を、\n国王には贅を。\nそして\n国には繁栄を。\nランプの魔神、\nあなたならできるのでしょう。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Is that your wish?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "それが、\nあなたのお願いですか？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Everyone have became dependant on my magic...\nAt this time, the country's view separated into two sides.\nWhether to keep using the magic lamp... or to seal it.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "みんな、\nボクの魔法頼りになってしまって……\nこの時、\n国のみなさんの意見は\n二つに割れました。\n魔法のランプを\n利用すべきか……\n封印すべきか。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "And the king from this time made a decision.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "そして、\nこの時代の王様は、\n決断をくだしました。"
+    },
+    {
+      "name": "King From Ancient Times",
+      "text": "──At this rate, we wouldn't be able to do anything without your power. Sorry, we have relied on you too much.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の国王",
+      "orig_text": "──\nこのままではお前の力なくして\n何事もできんようになってしまうだろう。\nすまぬ、\n我々はお前に頼り過ぎた。"
+    },
+    {
+      "name": "King From Ancient Times",
+      "text": "To have everyone forget about the oasis and magic lamp and simply think of it as fairy-tales...\nThat is my final wish.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の国王",
+      "orig_text": "いっそみな\nオアシスもランプの存在も忘れて\nおとぎ話だと思ってくれたら……\nこれが、\nわしの最後の願いじゃ。"
+    },
+    {
+      "name": "King From Ancient Times",
+      "text": "At the least, the next time you wake up...\nI'll do my best so that the people in this country will not repeat our foolish mistakes.",
+      "choice_data_list": [],
+      "orig_name": "遥か昔の国王",
+      "orig_text": "せめて、\nお前が次に目覚める時は……\nこの国の民が\n愚かな願いを繰り返さぬよう、\nわしも\n手を尽くそうと思う。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "...And like that, I feel into a long sleep. The next time I woke up, was when I heard Saren-neechan's voice.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "……そうして、\nボクは長い眠りにつきました。\n次に目が覚めたのは、\nサレンおねえちゃんの声を聞いたときでした。"
+    },
+    {
+      "name": "Saren's Voice",
+      "text": "Hey, do you hear me...? If you hear me, say something...!",
+      "choice_data_list": [],
+      "orig_name": "サレンの声",
+      "orig_text": "ねえ、\n聞こえる……？\n聞こえたら返事して……！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "This is... Saren-neechan's voice?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "これは……\nサレンおねえちゃんの\n声？"
+    },
+    {
+      "name": "Ruka's Voice",
+      "text": "I'm also here. So please show your face.",
+      "choice_data_list": [],
+      "orig_name": "ルカの声",
+      "orig_text": "アタシたちはここにいるよ。\nだから、\n顔を見せとくれ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "You're finally out. Are you okay?\nEveryone's been worrying about you.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やっと出てきた。\n大丈夫かい？\nみんな、\nアンタのことを心配してたんだよ。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Sorry, all of this happened because of me...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ごめんなさい。\nボクのせいで\nこんなことになってしまって……"
+    },
+    {
+      "name": "Ruka",
+      "text": "You... can't reject someone's wishes.\nRegardless of whether you want to grant it or not, every wish must be granted... That must've been rough...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタ、\n頼まれたら\n拒めないんだね。\n自分が望むかどうかに関わらず、\n頼まれた願いは\n全部叶えちまう。\n……\nそいつは、\n辛かったろうね……"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "I couldn't do anything about it, after all I'm the Genie of the Lamp.\nBut... if this is the result, it would've been better if I had just stayed in the lamp. That way I wouldn't be a bother to everyone──",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "しょうがないです。\nだって、\nランプの魔神ですから。\nだけど……\nこんなことになるなら、\nずっとランプの中にいた方が\nよかったですね。\nそうすれば、\nみなさんにご迷惑も──"
+    },
+    {
+      "name": "Ruka",
+      "text": "What do you want to do?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なあ、\nアンタはどうしたい？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "What I... want to do?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ボク……\nですか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yes. Granting other people's wishes, being a bother to others... Isn't it always someone else you're thinking of?\nBut what about your own feeling?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ああ。\n他人の願いを叶える、\n他人の迷惑になる……\nいつも中心は\n誰か別のヤツじゃないか。\nアンタの気持ちは\nどこにある？"
+    },
+    {
+      "name": "Ruka",
+      "text": "If you're always granting other people's wishes while forgetting about your own wish, then I'll grant you your wish.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "もし、\n誰かの願いを叶えてばっかりで\n自分の願いを忘れちまってるなら、\nアタシが叶えてやる。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "My own wish...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ボクの\n願い……"
+    },
+    {
+      "name": "Saren",
+      "text": "We've spent a lot of time together.\nWe're basically like a family already, aren't we?\nWe too would like to see your wishes granted.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "これだけ一緒に過ごしてきたんだもの。\nもう家族みたいなもんでしょ、\nあたしたち。\nあたしたちも、\nあなたの願いを\n叶えたいわ。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Saren-neechan... Everyone...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "サレンおねえちゃん……\nみなさん……"
+    },
+    {
+      "name": "Ruka",
+      "text": "I think even a child's selfish wishes is worthy of listening to. Or do we really look that unreliable to you?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "子どものワガママくらい、\n聞いてやる甲斐性はあるつもりだよ。\nそれとも、\nアタシたちは\nそんなに頼りないかい？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "N-No, you're not...!\nI...!",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "いえ……\nいいえっ！　\nだったら、\nボクは……！"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "I want everyone to be happy. The people of this country, Saren-neechan and Ruka-neesan too!",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ボクは、\nみなさんに\n笑顔でいてほしいですっ。\nこの国の人にも、\nサレンおねえちゃんや\nルカおねえさんにも。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "So can you please stop those bandits?\nThat is what I wish for!",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "だから、\nあの盗賊さんたちを止めてくれますか？\nこれがボクの、\nお願いです！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Haha, you finally said it.\nWell then, guess I'll try to grant it.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ははっ、\n言えたじゃないか。\nさて、\nそれじゃ\n一丁やるとするかね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Yeah, it'd be really uncool if we came this far and couldn't grant your wish.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ええ、\nここまでやってダメでした、\nなんて\n格好がつかないものね。"
+    },
+    {
+      "name": "Saren",
+      "text": "...However, the remaining bandits are causing mayhem in the country while we also have to chase down that person running away through the desert. What should we do...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……とはいえ、\n国の中は\n盗賊の残党騒ぎ。\n砂漠に逃げた相手も追わなきゃいけないし、\nどうしたら……"
+    },
+    {
+      "name": "Farida",
+      "text": "Please leave the bandits here to us!",
+      "choice_data_list": [],
+      "orig_name": "ファリーダ",
+      "orig_text": "ここはわたくしたちにお任せください！"
+    },
+    {
+      "name": "Saren",
+      "text": "Farida-san and Saeed-san!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ファリーダさん！　\nサイードさんも！"
+    },
+    {
+      "name": "Saeed",
+      "text": "We'll stop the bandits inside the country. Right now, the guards from both factions can be mobilized together.",
+      "choice_data_list": [],
+      "orig_name": "サイード",
+      "orig_text": "国内の騒ぎは、\n僕たちが食い止めます。\n今なら、\n両派閥の兵士を連携させて\n動かすこともできますから。"
+    },
+    {
+      "name": "Farida",
+      "text": "Genie... You've guided the people of this country.\nNow it's our turn to pay back that guidance.",
+      "choice_data_list": [],
+      "orig_name": "ファリーダ",
+      "orig_text": "魔神さま……\nあなたが、\nみなさんをこの国へ導いてくださったのよね。\nそれが巡り巡って、\nわたくしたちの縁を結んだ……"
+    },
+    {
+      "name": "Farida",
+      "text": "That's the reason why we can even help you guys out now.\nIt's thanks to you that both me and Saeed can join hands like this.",
+      "choice_data_list": [],
+      "orig_name": "ファリーダ",
+      "orig_text": "だから今、\nあなたたちを助けることができます。\nわたくしとサイードが\nこうして手を取り合えるのは、\nあなたのおかげです。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Thanks to me...?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ボクの\nおかげ……？"
+    },
+    {
+      "name": "Farida",
+      "text": "Yes, that's right! So please be more proud of yourself.\nLet's go, Saeed. It's time for our first job!",
+      "choice_data_list": [],
+      "orig_name": "ファリーダ",
+      "orig_text": "ええ、\nそうです！\nだから、\nどうか胸を張ってください。\nさあ、\nサイード。\n参りましょう、\nわたくしたちの初仕事よ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "So everyone's here!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "みんな、\nこんなところにいたのね！"
+    },
+    {
+      "name": "Saren",
+      "text": "Mifuyu-san? Where have you been?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ミフユさん？　\n今まで何してたの？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Where... I've been continuing my part-time job as a guard! Both faction's guards are able to move out now! It's an emergency preparation but it should be enough!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "何って、\n衛兵のアルバイトの続きよ！\nどっちの派閥の兵士もそれなりに動けるようにしてきたの！\n非常時のにわか仕込みだけど、\nそれなりにいけるわ！"
+    },
+    {
+      "name": "Chika",
+      "text": "Sorry, I need to pass through...! Haah, we're finally able to meet up. The city is in a bad state, if we don't stop that thing soon...!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "すみません、\n通してください……！\nはぁ、\nやっと合流できました。\n街はひどい有様です。\n一刻も早く止めないと……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "...Looks like we don't have much time left.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……あまり時間もなさそうだね。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "Yeah, we don't have time for chatter. Are you going to be taking down that thing? Then I shall accompany you.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "ええ、\n無駄話をしている時間はありません。\nあれの討伐に向かうのでしょう？　\n私も同行します。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "Well, I haven't went through the ruins around this area yet.\nAnd if that thing runs amok, those precious ruins can end up destroyed.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "サラサリア周辺の史跡は\nまだ回り切っていませんからね。\nあれに暴れ回られては、\n貴重な文化遺産が破壊されかねませんから。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "Understood? If you do, then hold onto me.\nI'll jump right away.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "理解できましたか？　\nできたなら掴まってください。\n一気に跳びますよ──"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "I've finally figured out how to move this thing, what a good performance.\nAs long as I have this thing, everything will go as planned.",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "ようやく動かし方がわかってきたぜ。\nなかなかいい性能だ。\nこいつがあれば\nだいたいのことは思い通りになりそうだな！"
+    },
+    {
+      "name": "Bandit",
+      "text": "B-Boss! It's womans from the sky! Guaaaah!!",
+      "choice_data_list": [],
+      "orig_name": "盗賊",
+      "orig_text": "カ、\nカシラ！　\n空から女が！　\nぐわあぁぁっ！！"
+    },
+    {
+      "name": "Saren",
+      "text": "Gack... Did we really need to fall down from the sky?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "げほっ、\nげほっ……\nやっぱり空から落ちるのは無しじゃない？"
+    },
+    {
+      "name": "Rajraj",
+      "text": "The enemy will come while you're complaining.\nPrepare yourself for battle.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "文句を言ってる間に敵が来ますよ。\n戦闘態勢を。"
+    },
+    {
+      "name": "Bandit",
+      "text": "You people keep getting in our way over and over again!\nI won't forgive you this time!",
+      "choice_data_list": [],
+      "orig_name": "盗賊",
+      "orig_text": "手前ら何度も何度も邪魔しやがって！！\n今度という今度は許さねえぞ！"
+    },
+    {
+      "name": "Hanzou",
+      "text": "So you're finally here. We'll take the bandits here.\nYou guys focus that golem down.",
+      "choice_data_list": [],
+      "orig_name": "ハンゾウ",
+      "orig_text": "ようやく来たか。\n賊の相手はこちらで引き受けよう。\n貴様らはゴーレムに専念しろ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Alright! Then, let's go and destroy that golem!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "よし来た！　\nそれじゃあ、\nこっちで\nあのゴーレムとやらをぶっ壊すとしようか！"
+    },
+    {
+      "name": "Bandit Lord",
+      "text": "Tch, underestimating me... Big guy, crush them completely!",
+      "choice_data_list": [],
+      "orig_name": "盗賊の首領",
+      "orig_text": "ちっ、\n舐めた真似を……\nおいデカブツ、\nそいつらをぶっ潰しちまえ！"
+    },
+    {
+      "name": "古代ゴーレム",
+      "text": "──────！！",
+      "choice_data_list": [],
+      "orig_name": "古代ゴーレム",
+      "orig_text": "──────！！"
+    },
+    {
+      "name": "Saren",
+      "text": "Everyone, avoid it!!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "みんな、\n避けて！！"
+    },
+    {
+      "name": "Saren",
+      "text": "So powerful...! He's just going around destroying anything...! Our vision is limited because of this sandstorm too, this is just the worst...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "なんて威力なの……！\n好き放題暴れてくれちゃって……！\n砂塵で視界は悪くなるし、\n最悪だわ……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Be careful, I've seen that move before.\nIt tore a hole in the castle walls. There won't be anything left of you if you eat that directly.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "気を付けな。\n前にも似たようなのと戦ったことがある。\n城壁に穴をあけてた\nあの光線、\n食らったらひとたまりもないよ。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "...Seems it's an anti-magic weapon from old literatures.\nIt might be a bit difficult of an enemy to fight against.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "……古い文献にあった\n対魔星獣兵器の兵装でしょうね。\n少々\n厄介な相手かもしれません。"
+    },
+    {
+      "name": "Chika",
+      "text": "Even if we fight it, it doesn't look like we can get close to it easily...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "戦うとしても、\n簡単には近づけそうにありませんね……"
+    },
+    {
+      "name": "Ruka",
+      "text": "...But even so, we have no choice but to do it.\nIsn't that right?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……だとしても、\nやるっきゃない。\nそうだろう\nお前さん？"
+    },
+    {
+      "name": "Saren",
+      "text": "That's right, let's do it together!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そうね。\nあたしたちで\nやってやりましょう！"
+    },
+    {
+      "name": "Knights",
+      "text": "Thank you for your cooperation.\nWe'll take care of transporting the bandits ourself.",
+      "choice_data_list": [],
+      "orig_name": "兵士",
+      "orig_text": "みなさま、\nご協力感謝します。\n盗賊団は\n我々が責任をもって移送しますので。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Thank you, everyone.\nFor granting my wish.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "ありがとうございます、\nみなさん。\nボクの願いを\n叶えてくれて。"
+    },
+    {
+      "name": "Saren",
+      "text": "Next time, don't just run away from the problem, okay?\nFinally, everything's solved for real now.\nHaah... what an unbelievable honeymoon this turned out to be.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "今度こそ、\n逃がしちゃダメよ？\nこれで本当の本当に、\n全部解決よね。\nはぁ……\nとんだ新婚旅行になっちゃったわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Oh, I meant... a trip! Yeah, I meant a trip. It was just a slip of the tongue, don't mind me.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あっ、\nいや……\n観光旅行！　\n観光旅行ね。\n単なる言い間違いだから。\n気にしないで。"
+    },
+    {
+      "name": "Ruka",
+      "text": "...Saren, surely you're not still under that magic?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "…………サレン、\nアンタ、\nまさかまだ魔法にかかってるんじゃないだろうね？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Saren-neechan, is that your wish?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "それが、\nサレンおねえちゃんのお願いですか？"
+    },
+    {
+      "name": "Saren",
+      "text": "T-That's not it at all! You got it all wrong! And besides my wish has already been granted, so I had enough already.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そっ！　\nそんなんじゃないったら！　\n言い間違いよ！\nそれに、\nあたしの願いはもう叶えてもらったわ。\nだからもう十分よ。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Oh, that's right...\nOnii-san, do you have anything you wish for?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "あ……\nそうだ、\nおにいさん。\n何か願い事はありませんか？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "Right now, I only have a bit of my magic back but a bit later I'll be able to grant you a big wish...",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "まだ、\nちょっとしか魔力が戻ってないので\n大きな願い事は\n少し後になっちゃいますけど……"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "For me to be able to not grant a wish...\nWhat do you mean by that...?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "願いを\n叶えなくて\nいい……\nって\n願い？\nそれはどういう……？"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "...Is it really fine to have me choose the wishes I grant?",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "……ボクが、\n叶えたい願いを\n選んでもいいんですか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I'm sure it is. It's good to be able to say no to things you don't agree with.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "いいに決まってるさ。\n嫌なことは嫌、\nって言っていいんだよ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Hmm, if it was me I'd ask to know of a part-time job with the best salary!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "うーん、\n私だったら\nいま一番時給のいいバイトを教えてもらうわね！"
+    },
+    {
+      "name": "Chika",
+      "text": "If any wish is fine... I want to learn more about musics and arts that I haven't experienced yet. After all I'm on another country than Landosol.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "どんな願いでもいいなら……\nこの国でまだ触れてない音楽や\nアートを知りたいです。\nせっかく\nランドソルとは別の国まで来ましたから。"
+    },
+    {
+      "name": "Saren",
+      "text": "Speaking of which, we haven't done any sightseeing all this time. We were too busy with the whole oasis and ruins thing.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そういえば\nちゃんと観光ってしてないわね。\nオアシスだとか遺跡だとかで\n大騒ぎしてばっかりで。"
+    },
+    {
+      "name": "Ruka",
+      "text": "We sure kept fighting and running around everywhere in the desert. Please spare me from anymore trouble, would you?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "砂漠をあっちこっち走り回る大立ち回りだったからね。\nしばらく揉め事は御免だよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Do you actually have no desires at all...\nIn the end, that's all you wish for.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あんたって\n本当に欲がないっていうか……\n結局、\nそういうお願いになっちゃうのね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Ah well, that's just like you.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "まあいいさ、\nお前さんらしくて。"
+    },
+    {
+      "name": "Rajraj",
+      "text": "Also, please give me a guide to the ruins around this country. I would also like to hear your explanations about the ancient histories you know of.",
+      "choice_data_list": [],
+      "orig_name": "ラジラジ",
+      "orig_text": "ついでに、\nこの国の近辺にある遺跡のガイドもお願いします。\nあなたが知っている古代の歴史に関する解説も聞きたいですね。"
+    },
+    {
+      "name": "Hanzou",
+      "text": "Can you tell me of harsh lands that would be suitable for us to train in? Also presents that would be worthy for our master and Lloyd-dono.",
+      "choice_data_list": [],
+      "orig_name": "ハンゾウ",
+      "orig_text": "我々の修行に向いていそうな\n過酷な土地も教えてもらえぬか。\nあと\n我が主とロイド殿へ献上するにふさわしい土産物を。"
+    },
+    {
+      "name": "Genie of the Lamp",
+      "text": "...Yes! I'll be happy to grant those.",
+      "choice_data_list": [],
+      "orig_name": "ランプの魔神",
+      "orig_text": "……\nは\nいっ！\nボクでよければ\n喜んでっ。"
+    },
+    {
+      "name": "Narration",
+      "text": "Like this, {0} and the others enjoyed chatting on their way back to the desert country while asking the genie of the lamp for small wishes.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして{0}たちは\n砂漠の国への帰路で話に花を咲かせながら、\n思い思いの小さな願い事をランプの魔神に頼むのだった。"
+    }
+  ]
+}

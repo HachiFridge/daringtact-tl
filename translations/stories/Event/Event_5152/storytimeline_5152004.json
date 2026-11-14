@@ -1,0 +1,824 @@
+{
+  "title": "忍び寄る魔女の影",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "海でエミリアたちとはぐれてしまった{0}。\n一方そのころ、強欲の魔女とアメスは──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "海でエミリアたちとはぐれてしまった{0}。\n一方そのころ、強欲の魔女とアメスは──"
+    },
+    {
+      "name": "アメス",
+      "text": "あーっ、\nこら{0}！\n勝手に動くんじゃないわよ。",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あーっ、\nこら{0}！\n勝手に動くんじゃないわよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "In the middle of battle those girls haven't even noticed yet! I told you not to go off on your own already, geez! Go back, B-A-C-K! Look, I knew it, you're lost now!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あの子たち戦闘中で気づいてないんだから！\nうろうろしちゃだめだってば、\nもう！　\n戻りなさい、\nもー\nどー\nるー\nの！\nほら、\nやっぱり迷子になっちゃったじゃないの！"
+    },
+    {
+      "name": "Ameth",
+      "text": "That guy, the moment I took my eyes off him he turned into a baby again... What's going on? Is this going to be a recurrent thing or something?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あいつってば、\nちょっと目を離した隙にまた赤ちゃんになっちゃって……\nなんなの？　\n定期イベントかなんかなの？"
+    },
+    {
+      "name": "Ameth",
+      "text": "I really want to help him, but I'm also burdened by my own problems here right now. I wonder if that \"Witch of Greed\" really is what she claims she is. Asking me all sorts of stuff about this world and all.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "手を貸してあげたくても、\nこっちも面倒ごとを抱えこんでるのよね。\nほんとなんなのかしら、\n『強欲の魔女』\nって。\nこの世界のこといろいろ聞いてくるし。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Just now she went and said, \"I want to see the currency of this world.\" There's not even a real point to hold money while you're in a place like this...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "さっきなんて\n「この世界の通貨を見せてほしい」\nなんて。\nこんなとこでお金なんて持ってたって、\n意味ないでしょ……"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Wait.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……\nって。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Echidna? Huh? Wait, where did she go?! She was definitely sitting across from me just a moment ago... Why does everyone just wander off the moment I lay my eyes off them for a second...?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "エキドナ？　\nあれ？　\nちょっと、\nどこ行ったのよ！？\nさっきまで確かに向かいに座ってたのに……\nなんでどいつもこいつも、\n少し目を離した隙に……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Maybe she returned to her real world? Of course not. Which means...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "元の世界に帰った？\nそんなわけないわよね。\nとなると……"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Huh!? Don't tell me?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "──\nまさか！？"
+    },
+    {
+      "name": "Echidna",
+      "text": "Hmm......",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ふむ……"
+    },
+    {
+      "name": "Echidna",
+      "text": "So this is a drink from this world... What a pretty flashy color.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "これがこの世界の飲み物か……\n随分と派手な色をしているね。"
+    },
+    {
+      "name": "Echidna",
+      "text": "As for the taste... I guess I could describe it as \"stimulating\". Yeah, it's really fizzy which isn't really good for one's health.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "味は……\n刺激的、\nと表現すべきかな。\nうん、\nしゅわしゅわしていて実に体に悪そうだ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Now then, I wonder how Ameth is doing back there? I wanted to apologize for leaving our joyous tea party unannounced like that, but...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "さて、\n今頃アメスはどうしているかな？\n勝手に茶会の席を立ってしまったことは申し訳ないが……"
+    },
+    {
+      "name": "Echidna",
+      "text": "An interesting subject has begun to move. If I were to leave such an occasion alone, the name 'Witch of Greed' that I hold would be put to shame.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "興味深い対象が動き出したんだ。\nこれを放っておいては\n『強欲の魔女』の名が泣くからね。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Hmm... I think it's about time.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ふむ……\nそろそろかな。"
+    },
+    {
+      "name": "Echidna",
+      "text": "I welcome you. Boy that Ameth holds in high regards.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ようこそ。\nアメスが気にかけていた少年。"
+    },
+    {
+      "name": "Echidna",
+      "text": "You've lost your memories, and your mind is regressing. Isn't that right? Therefore, why don't I help you regain what you've lost?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "君は記憶を失い、\n精神が退行している。\nだろう？\nそこで\nボクが記憶を戻す手伝いをしてあげようじゃないか。"
+    },
+    {
+      "name": "Rem",
+      "text": "Please don't follow any suspicious people.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "怪しい人について行ったりしないでくださいね。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Oh dear, I've been hurt a lot by so many misunderstandings since coming to this world. Fear not, I'm definitely not a suspicious person.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "やれやれ、\nこの世界に来てから傷つくことが多いな。\nボクは決して\n怪しい人物ではないよ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Allow me to introduce myself. My name is Echidna.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "自己紹介させてもらおう。\nボクは\nエキドナ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "...That way of calling me reminds me of a friend who passed away. If possible, I'd like you to stick with \"Echidna\".",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……その呼び方は\n死んだ友人を思い出すね。\nできれば\nエキドナと呼んでほしいな。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Anyway, please take a seat. Don't be shy. You know my name now, so couldn't you say we're already",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ともあれ、\nまずは席に着くといい。\n遠慮しなくてもいいよ。\n君はボクの名前を知ったんだ。\nもう立派な知り合いだろう？"
+    },
+    {
+      "name": "Echidna",
+      "text": "Oh, please stop patting me. The \"Tropical Juice\" I just bought will spill. I had a hard time getting this world's money from Ameth already.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ああ、\n叩くのはやめてくれたまえ。\n買ったばかりの『トロピカルジュース』がこぼれてしまう。\nアメスからもらうの苦労したんだよ、\nこの世界のお金。"
+    },
+    {
+      "name": "Echidna",
+      "text": "You even took my tea and snacks without permission... I hadn't even eaten them yet... I'm impressed at how brazenly you're stealing food from a witch like me.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ボクの茶菓子も勝手に……\nまだ\n食べてなかったんだけどな……\n魔女から食べ物を奪い取るとは\n恐れ入ったよ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Ow, ow. Stop tugging at my hair. You're being so rough. No, more than being rough, I think you lack common sense in distinguishing between right and wrong.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "いたた。\n髪の毛を引っ張るのもやめるんだ。\n乱暴だな、\n君は。\nいや、\n乱暴というよりも\n常識からなる善悪の判断がついていないのかな。"
+    },
+    {
+      "name": "Echidna",
+      "text": "...What a blunder. I came all the way here to see you because according to Ameth she has been observing you for such a long time, but I just can't seem to get through to you.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……まいったな。\nアメスがずっと観察しているので\nわざわざ会いに来たのに、\nここまで話が通じない状態とは。"
+    },
+    {
+      "name": "Echidna",
+      "text": "But that also piques my interest nonetheless. Besides, if you're going to act according to your emotions, there's another way to...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "でも、\nそれならそれで\nボクの興味をそそるよ。\nそれに、\n感情のままに行動するというのであれば\n別のやりようが──"
+    },
+    {
+      "name": "？？？",
+      "text": "Um...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──あの……"
+    },
+    {
+      "name": "エキドナ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah......I knew it...... Your memories again......umm, I'm......an acquaintance of his......",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ああ……\nやっぱり、\nまた……\n記憶を……\nその、\nわたしは……\nそこの\n彼の、\n知り合いで……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...No, more importantly...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……いいえ、\nそれよりも……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "You... what are you?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あなたは……\nなに？"
+    },
+    {
+      "name": "Echidna",
+      "text": "\"What?\", you say. Quite the philosophical question. Here I am, at a beach wearing a swimsuit. I'm just a normal maiden, correct?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "なに、\nとは\n哲学的な問いかけだね。\nこうして水着で海辺にいるんだ。\n普通の乙女だろう？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah... I suppose this is our first time meeting... I'm so sorry. However...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あ……\n初対面\nなのに……\nごめんなさい。\nでも……"
+    },
+    {
+      "name": "ランファ",
+      "text": "音が、\nおかしい。\n目の前に\nいるのに……\n聞こえない。\n命を\n刻む、\n音すらも……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "音が、\nおかしい。\n目の前に\nいるのに……\n聞こえない。\n命を\n刻む、\n音すらも……"
+    },
+    {
+      "name": "Echidna",
+      "text": "Don't worry, there's no need to apologize. Your senses aren't wrong about me.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "大丈夫、\n謝る必要はないよ。\n君のその感覚は間違ってはいないからね。"
+    },
+    {
+      "name": "Echidna",
+      "text": "First, I suppose I should answer your earlier question. My name is Echidna. I have come to this world guided by curiosity.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "まずは君の質問に答えよう。\nボクはエキドナ。\n好奇心に導かれて\nこの世界にやって来た者だ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "\"This world\"...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "この\n世界……？"
+    },
+    {
+      "name": "Echidna",
+      "text": "Ah, it seems such a statement has made you wary of me again. I suppose I'm not really the best at first greetings with new people. I'm trying to be polite and speak as honestly as possible, though.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ああ、\nまたも警戒させてしまったようだ。\nどうもボクは\n初対面の挨拶が下手らしい。\nこれでも丁寧に、\n可能な限り嘘偽りなく話しているつもりなんだけどね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "She really talks a lot... however... she's suspicious. I have to get... Lorik here by my side somehow...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "よく\n喋る人……\nだけど、\n怪しい。\n彼をなんとか、\nこちらに……"
+    },
+    {
+      "name": "Echidna",
+      "text": "Are you planning to separate him from me? I believe that'd be a problem. I'm sure you know the feeling of not wanting to let go of an important subject of observation, right?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ボクから彼を引き離したいのかな？\nでもそれは困る。\n大事な観察対象を\nみすみすと手放したくはない気持ちはわかるだろう？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...A subject of observation, you say...? I couldn't possibly leave him... to someone who calls him that.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……観察対象\n……ですか。\n彼をそんなふうに呼ぶ人に……\n任せられ、\nません。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'll be the one to take care of him.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "彼は、\nわたしが\n預かります。"
+    },
+    {
+      "name": "Echidna",
+      "text": "I suppose that was a poor choice of words on my part.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "今度は言葉選びを間違ってしまったかな。"
+    },
+    {
+      "name": "Both",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Both",
+      "text": "!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "！"
+    },
+    {
+      "name": "Echidna",
+      "text": "Why are you crying all of a sudden...? Well, it's only natural if since he's lost his memories and regressed back to an infant, but... seeing it in person is a difficult action to understand.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "なぜ\n突然泣き出すんだい……？\nいや、\n記憶を失って幼児化しているのであれば当たり前なんだが……\n実際に見ると\n理解に苦しむ行動だ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Ah, um... Here, here... Everything's going to be fine, okay? I'll be with you...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……あ、\nえっと……\nよ\nし、\nよし……\n大丈夫だから、\nね？\nわたしが、\nついてる\nから……"
+    },
+    {
+      "name": "Echidna",
+      "text": "Let me help too. What, I certainly know a thing or two about how to calm down a child. I just have to pat his head like this, don't I? I wonder if this amount of force is appropriate...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ボクも手伝おう。\nなに、\n子どもをあやす方法は知っているよ。\nこうやって\n頭を撫でればいいんだろう？\n力加減は\nどの程度が適切なんだろうか。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Aaah... He's starting to cry even more... Oh no...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ああっ……\nもっと泣き出して……\nしまっ\nたわ……"
+    },
+    {
+      "name": "Echidna",
+      "text": "What a blunder. As expected, there is a discrepancy between knowledge and practice. Not to add how his crying is extremely loud. What should I do...?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "まいったな。\nやはり知識と実践では齟齬が出る。\n泣き声もとてつもなく大きいし、\nどうしたものかな……"
+    },
+    {
+      "name": "ランファ",
+      "text": "本当に\n困ってる……？\nエキドナさん……\n悪い人ではないの……？　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "本当に\n困ってる……？\nエキドナさん……\n悪い人ではないの……？　"
+    },
+    {
+      "name": "Ranpha",
+      "text": "More importantly... I need to stop him from crying... Um... Why are you crying...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "それよりも、\n彼を泣き止ませないと……\nあの……\nどうして\n泣いているの……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...That didn't work either, huh...? I guess I'm too immature after all...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……だめ、\nね……\nやっぱり、\n未熟なわたしじゃ、\nだめなの……？"
+    },
+    {
+      "name": "Misato",
+      "text": "...Oh my.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "──あらあら。"
+    },
+    {
+      "name": "ミサト",
+      "text": "聞き覚えのある泣き声が聞こえると思ったら。\nやっぱり、\n{0}君だったのね。",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "聞き覚えのある泣き声が聞こえると思ったら。\nやっぱり、\n{0}君だったのね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "You're...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あなたは……"
+    },
+    {
+      "name": "Echidna",
+      "text": "So you're another girl who happens to know him? He seems to have a lot of connections.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "また彼の知り合いかな？\n随分と縁が多いようだ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Before I introduce myself, please let me touch him for a moment.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ご挨拶の前に、\nちょっと彼に触れさせてもらうわね。"
+    },
+    {
+      "name": "Misato",
+      "text": "...Hehehe♪ Here, you're a good boy.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……うふふ♪　\nほら、\nいい子ね。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Oh? To think you'd be able to make him stop crying by merely touching his cheek. What kind of magic did you use?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ほう。\n頬に触れるだけで泣き止ませるとは。\nいったいどんな魔法を使ったんだい？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Amazing... Such a warm, maternal love, just like Kokkoro-chan.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "すごい……\nコッコロちゃんみたいな、\n温かな\n母性……"
+    },
+    {
+      "name": "Misato",
+      "text": "Children are sensitive to the hearts of those around them. If they see people about to fight, they'll notice right away.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "子どもは周りにいる人の心に敏感なの。\nケンカしていると、\nすぐに気づかれちゃうのよ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Ah, my deepest apologies, for butting in so suddenly. I'm Misato. As a teacher, I also happen to take care of him from time to time.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あ、\nごめんなさいね、\n急に割り込んだりして。\n私はミサト。\n先生として\n時々彼のお世話をさせてもらっているわ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...My name is Ranpha. I also take care of him... from time to time...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……ランファ、\nです。\nわたしも、\n時々\n彼のお世話をさせて\nもらって……\nいます。"
+    },
+    {
+      "name": "Misato",
+      "text": "Nice to meet you, Ranpha-chan. And as for you?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "よろしくね、\nランファちゃん。\nそちらの\nあなたは？"
+    },
+    {
+      "name": "Echidna",
+      "text": "It seems this is a day where people ask for my name quite a lot. But I suppose that's a natural result of so many new meetings. It was worth coming all the way to this world.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "よく名前を尋ねられる日だね。\nしかし\nそれも出会いの結果だ。\nわざわざこの世界に来た甲斐があったというものさ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "My name is Echidna. In my original world, I'm known as the \"Witch of Greed.\"",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ボクの名前はエキドナ。\n元の世界では\n『強欲の魔女』\nなんて呼ばれているよ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Echidna",
+      "text": "Oh dear, it seems like I've made everyone wary again with my self-introduction...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "おや、\nまた自己紹介で警戒心を強めてしまった──"
+    },
+    {
+      "name": "Misato",
+      "text": "Nice to meet you, Echidna. Being known as the \"Witch of Greed\" sounds so cool~♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "よろしくね、\nエキドナさん。\n『強欲の魔女』だなんて、\nとってもかっこいいわ～♪"
+    },
+    {
+      "name": "Ranpha Echidna",
+      "text": "Cool...",
+      "choice_data_list": [],
+      "orig_name": "ランファ・エキドナ",
+      "orig_text": "かっこいい……"
+    },
+    {
+      "name": "Misato",
+      "text": "...? Oh my, is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……？\nあら、\nどうかしたかしら～？"
+    },
+    {
+      "name": "Echidna",
+      "text": "...What an interesting reaction on your part. I suppose such things can also happen.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……これはまた面白い反応だ。\nこういう結果になることもあるんだね。"
+    },
+    {
+      "name": "Misato",
+      "text": "That reminds me. Hey, Ranpha-chan and Echidna-san. You two want to take care of him, right?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "そうだわ。\nねぇ、\nランファちゃんにエキドナさん。\n二人は、\n彼のお世話をしたいのよね？"
+    },
+    {
+      "name": "Misato",
+      "text": "In that case, why don't you two learn how together with me?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "だったら、\n一緒に彼のお世話を\n学んでみない？"
+    },
+    {
+      "name": "Ranpha Echidna",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "ランファ・エキドナ",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Echidna",
+      "text": "Wait just a minute. Leaving that girl aside, I wasn't really planning on taking care of him...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "ちょっと待ってほしい。\nそっちの彼女はともかく、\nボクは別に彼の世話をしたいわけでは……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I look forward... to learn with you...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "よろしく\nお願いします……！"
+    },
+    {
+      "name": "Echidna",
+      "text": "...Pleased to join you...?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……よろしく\nお願いします……？"
+    },
+    {
+      "name": "Misato",
+      "text": "Hehe, then let's get started right away. I'm sure you two will become great Mamas...♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふっ、\nじゃあ\n早速始めましょう。\nきっと二人とも、\nいいママになれるわ……♪"
+    },
+    {
+      "name": "Echidna",
+      "text": "So it has already begun. But I suppose... this is another interesting development.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "始まってしまったじゃないか。\nしかし\nこれも面白そうな展開ではある。"
+    },
+    {
+      "name": "Echidna",
+      "text": "This is an opportunity for me to learn more about this world, and I'd never get to experience the joy of taking care of a child anywhere else.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "この世界のことを知る機会だし、\n子どもの世話を体験なんて\nそうそうあるものじゃない。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Well hey, I already know all the ways needed to handle such a situation, so I guess I'll just have to prove myself...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "なに、\nやり方はすべて知っているから、\nそれを裏付けるだけのことになりそうだけどね──"
+    },
+    {
+      "name": "Echidna",
+      "text": "...Here, I'll allow you to eat this. You're so lucky to receive alms directly from a witch.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "──ほら、\nこれを食べたまえ。\n魔女から直に施しを受けられるなんて、\n君は幸運だよ。"
+    },
+    {
+      "name": "Echidna",
+      "text": "How strange. You don't have to hold back on my behalf. There's nothing suspicious in there. It's the truth, you know?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "おかしいな。\n別に遠慮することはない。\n怪しいものなど入っていないさ。\n本当だよ？"
+    },
+    {
+      "name": "Misato",
+      "text": "Echidna, addressing him like that makes you look even more suspicious... Try to reassure him more.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "エキドナさん、\nなんだか逆に怪しいわ……？\nもっと彼を\n安心させてあげなくちゃ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Okay, I'll try it next...! Um, please... eat?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "じゃあ、\n次は\nわたしが……！\nその、\nどうぞ……\n食べて？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, oh my. You two, please watch and follow my example, okay? ...Ah, mm... Yeah, it's really good♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら。\n二人とも、\nちょっと見ててね？\n……\nあ、\nむ……\nうん、\nと～\nってもおいしい♪"
+    },
+    {
+      "name": "Misato",
+      "text": "Yes, here's some for you too♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "はい、\nあなたも♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "He ate it...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "食べた……！"
+    },
+    {
+      "name": "Echidna",
+      "text": "I see. So you've proven with your own body that there was no danger. But to have to go that far just to have him eat... Children really are suspicious creatures.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "なるほど。\n危険がないことを\n自身の身を持って証明したわけだ。\nしかし\nそこまでしないと食べないとは、\n子どもというのは実に疑り深い生き物だね。"
+    },
+    {
+      "name": "Echidna",
+      "text": "Why... do I need to carry him...?",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "なぜ、\n彼を背負う必要があるんだい……？"
+    },
+    {
+      "name": "Misato",
+      "text": "Keep it up, Echidna! If you don't carry him properly, he'll get anxious...!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "頑張って、\nエキドナさん！\nしっかりとした姿勢でおんぶしてあげないと、\n彼が不安になっちゃうわ……！"
+    },
+    {
+      "name": "Echidna",
+      "text": "My deepest apologies, but... it doesn't look like I can lift him...",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "申し訳ないけど……\nまるで\n持ち上がりそうに\nない……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ahh, Echidna's going... to get crushed~",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ああっ、\nエキドナさんが\n潰れちゃう──"
+    },
+    {
+      "name": "Echidna",
+      "text": "I see. So warm smiles are effective for comforting children. Actually, as you can see, I'm a professional at smiling.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "なるほど、\n子どもをあやすには笑顔が効果的と。\n実はこの通り、\nボクは\n笑顔が得意でね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Ahh, he's starting to cry...!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ああっ、\n彼が泣きだしちゃったわ……！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "It's like... he's sensing an instinctive fear...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "本能的な\n恐怖を……\n感じてる\nみたい……"
+    },
+    {
+      "name": "Echidna",
+      "text": "...It seems things aren't always as easy as I'm led to believe.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……なかなか知っているようにはいかないものだね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Don't get depressed, Echidna. It's okay, not everyone is good at it at first. If you were to practice more, I'm sure...!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "落ち込まないで、\nエキドナさん。\n大丈夫よ、\n最初はみんな上手くできないわ。\nもっと練習すればきっと……！"
+    },
+    {
+      "name": "ランファ",
+      "text": "不器用だけど、\nちゃんと\n頑張ってた……\n怪しいけど……\nやっぱり、\n悪い人じゃ\nない……？　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "不器用だけど、\nちゃんと\n頑張ってた……\n怪しいけど……\nやっぱり、\n悪い人じゃ\nない……？　"
+    },
+    {
+      "name": "Echidna",
+      "text": "You have my thanks, Ranpha. And you too, Misato. Regardless of the results I obtained, it was an interesting experience.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "感謝するよ、\nランファ。\nそれにミサトも。\n結果はどうあれ、\n興味深い体験をさせてもらった。"
+    },
+    {
+      "name": "Echidna",
+      "text": "...Somehow, it seems that taking care of children and I are not a good match.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……どうにも、\n子どもの世話とボクの相性は\n最悪みたいだけどね。"
+    },
+    {
+      "name": "Misato",
+      "text": "...Oh my? That doesn't seem to be the case to me.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……あら。\nそうでもないみたいよ？"
+    },
+    {
+      "name": "Echidna",
+      "text": "...! Asking for a witch to shake your hand like this...! ...You're truly a fearless one, aren't you.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "……！\n魔女に\n握手を求めるとは、\n怖れ知らずだな、\n君は。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Hehe...♪",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ふふっ……♪"
+    },
+    {
+      "name": "Echidna",
+      "text": "I'd also love to deepen our bond even further, but... It seems like it's time.",
+      "choice_data_list": [],
+      "orig_name": "エキドナ",
+      "orig_text": "このまま\nより親睦を深めたいところではあるが……\n──時間のようだね。"
+    },
+    {
+      "name": "エミリア",
+      "text": "{0}ー！\nどこに行ったのー？",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "{0}ー！\nどこに行ったのー？"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, it seems like someone's calling for him.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら。\n彼を呼んでいるみたいね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Those who were taking care of him... perhaps.",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "彼と\n一緒にいた方たち、\nかもしれません。"
+    },
+    {
+      "name": "Misato",
+      "text": "Thank goodness. Then let's take him to them with us. Oh my, oh my...? Echidna...?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "よかったわ。\nじゃあ\n彼を連れていってあげましょう。\nあらあら……？　\nエキドナさん……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "She's gone...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "いなく、\nなってます……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...What a strange person...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……\n不思議な\n人……"
+    },
+    {
+      "name": "ナレーション",
+      "text": "アメスの目を盗んで異世界に足を踏み入れた『強欲の魔女』。\n欲のままに知識を求め、\n{0}と接触したエキドナは、\nまるで初めからそこにいなかったかのように姿を消すのであった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アメスの目を盗んで異世界に足を踏み入れた『強欲の魔女』。\n欲のままに知識を求め、\n{0}と接触したエキドナは、\nまるで初めからそこにいなかったかのように姿を消すのであった。"
+    }
+  ]
+}

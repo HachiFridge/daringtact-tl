@@ -1,0 +1,817 @@
+{
+  "title": "A Promise to Connect Again!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Miho, Maho, and Erika. The future bearers of \"Tankery\", who hail from another world. Pecorine, Kokkoro, Kyaru, Sheffy, and {0}. Veteran adventurers of Astrum.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "別の世界からやってきた、\n戦車道の未来の担い手、\nミホ、\nマホ、\nエリカ。\nアストルムの歴戦の冒険者、\nペコリーヌ、\nコッコロ、\nキャル、\nシェフィ、\nそして{0}。"
+    },
+    {
+      "name": "Narration",
+      "text": "By combining the powers of two worlds, they succeeded in defeating the irregular object, the Kugel Golem.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "二つの力を一つに合わせた戦いにより、\nイレギュラー・オブジェクト、\nクーゲルゴーレムは討伐されたのだった。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I saw it! That tank actually flew♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "見てたわ！\n戦車が空を飛んだところ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Heheh♪ When all of us work together, well... this is nothing special♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふふん♪\nこのあたしたち全員が力を合わせりゃ、\nま、\nこんなもんよね♪"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Wooow... Ahaha, I didn't think you'd actually pull it off!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いや～～～\nははは、\n本当にやってのけるとはね！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "As expected of the Gourmet Guild... though those three are just as impressive...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "【美食殿】のみんなは、\nいつものことながら\nあの３人も負けず劣らず……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Maybe Homare's theory wasn't so far off after all.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "これはホマレの推測も、\nあながち間違いではないかもしれないな。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "\"Spacetime branching energy\"...? You mean that hypothetical energy that appears when destinies split, the kind you often see in science fiction? That's quite an unrealistic theory...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "時空の分岐エネルギー……？\n運命が大きく分かれたときに生じるという\n未観測のエネルギーみたいな\nSFモノでよくみるアレかい？　\nまたずいぶん現実離れした話を……"
+    },
+    {
+      "name": "Homare",
+      "text": "Ahaha, I'm just kidding~... for about half of it, atleast☆ But the idea isn't far off. It explains why those three ended up here.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あはは、\n冗談だよ～……\n半分はね☆\nでも、\n考え方としては近いかな。\nあの３人が\nこの世界に来た理由。"
+    },
+    {
+      "name": "Homare",
+      "text": "Simulating the flow of time means creating branching timelines...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "時間の流れをシミュレーションするっていうのは、\nタイムラインの枝分かれを作っていくってことで……"
+    },
+    {
+      "name": "Homare",
+      "text": "I estimated and quantified the impact of major divergence points, then used the biggest ones as markers. If I included the small ones too, it'd never end.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "いわゆる\n運命の分岐が起きるときの影響度を推測、\n数値化して、\nそのなるべく大きめのやつを、\n目印にしてたわけなんだけどね。\n小さいやつまで含めると、\nきりがないわけだし。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Miho-chan left Kuromorimine Girls' Academy and transferred to Oarai Girls' Academy. That divergence surrounding those three girls had many consequences afterward. In other words, they were one of the major \"landmarks\" flagged by the TimeLab.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ミホちゃんが、\n黒森峰女学園を離れ、\n大洗女子学園に転入した。\nあの３人を取り巻くその分岐が、\nその後、\n多くの影響をもたらした。\nつまり彼女らは、\nタイムラーベがマークした\n大きな目印の一つだったと。"
+    },
+    {
+      "name": "Homare",
+      "text": "And that \"landmark\" got pulled in along with them☆ Hmm... Guess I'll need to tweak how that system handles things~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "で、\nその『目印』ごと、\n引っ張られてきちゃったってわけ☆\nん～\nそのへんの処理は、\n見直しておかなきゃだね～♪"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Forget tweaking it, that kind of stunt isn't allowed anymore!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "だから見直しもなにも、\nそういうおイタはもうダメだってば！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Thus, the \"Kugel Golem\" created in this turmoil was defeated. With this, the object known as a \"Greater Golem\" was succesfully annihilated.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "而して、\nこの騒動で生み出された『クーゲルゴーレム』は討伐された。\nこれによって、\n『グレーターゴーレム』としてのオブジェクトは消滅──"
+    },
+    {
+      "name": "Labyrista",
+      "text": "All that's left is one heavily damaged \"Kugelpanzer\"... Ummm... Do you wish to take this back with you too?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "残ったのは、\n大破した『クーゲルパンツァー』が一台……\n……\nえ～っと……\nこれもあっちに持って帰るかな？"
+    },
+    {
+      "name": "Erika",
+      "text": "Yes. It's a very important vehicle. ...That said...",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "はい。\n大切な車輛ですから。\n……とはいえ……"
+    },
+    {
+      "name": "Erika",
+      "text": "Ugh... When I get back to school, I'll have to write a letter of apology...! Unauthorized outing and unauthorized usage of a tank... Aaah... What should I do...?",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "ううぅ……\n学校に帰ったら、\n始末書を書かなきゃ……！\n無断外出に戦車の持ち出し……\nはぁぁ\nどうしよう……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ah, right. You came here with this Kugelpanzer. Ah... I see, so that means... Erika-chan, I know the timing's bad, but I've got some good news♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あ。そうか。\nキミはこのクーゲルパンツァーごとやってきたのか。\nあ～……\nなるほど、\nってことは……\n……うん、\nエリカちゃん。\n消沈中に言うのもなんだけど、\n一つ朗報だよ♪"
+    },
+    {
+      "name": "Erika",
+      "text": "Good news...? What do you mean...?",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "朗報……？　\nそれはどういう……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You were the only one who had forgotten about her original world. Knowing you, you were probably beating yourself up over it, however... don't worry. You can relax.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "エリカちゃんだけが唯一、\n元の世界を忘れてしまっていたこと。\nきっと\nキミの性格だから、\nずいぶん気に病んでいたと思うけど、\n大丈夫。\n安心するといい。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You were the only one who was teleported along with a tank, right? The data load was just too large, so part of your memory got corrupted. The tank suffered damage too, and in trying to repair that data... it ended up fusing with a monster. That's the most likely explanation.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "キミだけは\n戦車ごと飛ばされたから、\nデータの転送量が大きすぎて、\nメモリーが一部破損してしまっていた。\nそして戦車の方も同じく破損して\nこちらはデータ補修のために\n魔物と結合した。\n……ってところだろう。"
+    },
+    {
+      "name": "Erika",
+      "text": "So... it wasn't because I was trying to run away from reality...! That's a relief... Really...",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "じゃあ……\nわたしが\n現実から目を背けようとしてたから\nってわけではないのね……\n……\n良かった……\n本当に……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "They're \"returning home\", huh...? This means that now, it's truly... Really... Oh, where are Pecorine-san and Miho-san?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "『帰る』、\nかあ……\nこれで\n本当に……\nそうね……\n本当に……\nあら、\nペコリーヌさんとミホさんは？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's over...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "終わりましたね……"
+    },
+    {
+      "name": "Miho",
+      "text": "Yeah, it's over...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "うん、\n終わったね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Um! Next time I come to visit Oarai, please introduce me to your friends. And please invite me to check your dorms again!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あのっ！\n今度、\n大洗に行くときは、\nミホちゃんのお友達も紹介してください。\nそして、\nまた寮のお部屋に招待してください！"
+    },
+    {
+      "name": "Miho",
+      "text": "Yeah! I'm sure everyone will get along with you right away, Peco-san!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "うん！\nきっとみんな、\nペコさんとなら、\nすぐ仲良くなると思う！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Also, I'd also like to ride in a tank again! This time, I'd like to try driving it and firing the cannon myself☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それから、\nまた戦車にも乗りたいです！\n今度は、\nわたしも運転したり、\n大砲を撃ったりもしてみたいですね☆"
+    },
+    {
+      "name": "Miho",
+      "text": "Of course! And if I were to visit Astrum again...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "もちろん！\nわたしもまた、\nアストルムに来たら──"
+    },
+    {
+      "name": "Miho",
+      "text": "I want to drive along all kinds of roads... see so many more sights... Next time, not for battle... but for a real journey.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "もっと、\nいろんな道を走ってみたい。\nもっともっと、\nたくさんの景色を見てみたい。\n今度は、\n戦いのためじゃなくって……\n大きな旅をしてみたいんだ。"
+    },
+    {
+      "name": "Miho",
+      "text": "Every time I discover something new, a new feeling is born inside me. That's why... I want to learn more and more about this world.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "一つ何かに出会うたびに、\n新しい気持ちが一つ、\nわたしのなかで生まれるの。\nだから、\nもっともっとこの世界のことを知りたいな。"
+    },
+    {
+      "name": "Miho",
+      "text": "I really love this world. Just thinking about all the tomorrows I haven't seen yet... my heart starts racing, I get excited, and... How do I put this? It's so...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "この世界のこと、\nわたし、\n大好きだよ。\nまだ知らない明日のことを考えるだけで、\n胸がドキドキして、\nワクワクして……\nなんていうか、\nとっても──"
+    },
+    {
+      "name": "Miho",
+      "text": "So... crazy!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "とっても──\nやばいです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe...☆ That's wonderful! I'm sure there are still many more sights waiting to meet you, Miho-chan.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ……☆　\nそれは、\nとってもよかったです！\nきっと、\nまだまだたくさんの景色が、\nミホさんに出会いたがってるって思いますよ。"
+    },
+    {
+      "name": "Miho",
+      "text": "Can we... make a promise?",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "……約束、\nしていいかな。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes! It's a promise!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！　\n約束しましょう！"
+    },
+    {
+      "name": "Pecorine Miho",
+      "text": "Pin-ky Pro-mi-se♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ・ミホ",
+      "orig_text": "ゆ\nーびきーりげーんまーん♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... Ahem. Sorry to interrupt your tearjerking moment, but... Homare is almost ready. ...To return you to your world...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……あ～、\nコホン。\nいちゃついてるとこ悪いんだけどさ。\nホマレのほう、\nもうすぐ準備ができそうだって。\nその……\nむこうの世界に、\n送っていく準備……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kyaru-chan! That's right, Kyaru-chan! Let's hug! Kyuuuu~☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃん！\nそうだキャルちゃん、\nぎゅ～ってしましょう！\nぎゅ～っ☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey, what's with the sudden hug?! You Dumborine!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょ、\nなに、\n急に！\nこのアホリーヌ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Miho-chan, over here! Please join us! Come on!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ミホちゃん、\nこっちです！　\n混じってください！\nほらっ！"
+    },
+    {
+      "name": "Miho",
+      "text": "...Okay. Kyuuuu.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "……うんっ。\nぎゅ～っ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, you too, Sheffy-chan! And Erika-san, too! Let's all hug☆ If you don't come this way, I'll pull you in!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ、\nシェフィちゃんも！　\nそれにエリカさんも！\nみんなでぎゅうぎゅうです☆\nこっちに来ないなら、\n引っ張っちゃいますよ！"
+    },
+    {
+      "name": "Erika",
+      "text": "Wha... Why should I... with the former vice-commander?! Mugyu...",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "ちょ、\nなんでわたしが、\n元副隊長と……！\nむぎゅ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Give up... If she catches you with her absurd strength, there's no way left to run...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あきらめなさい……\nこいつの馬鹿力に捕まったら、\n逃げられないわ……"
+    },
+    {
+      "name": "Miho",
+      "text": "Ehehe... Thank you, Peco-san...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "えへへ……\nありがとう、\nペコさん……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Maho, I suppose us too... should squeeze in.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "マホさま。\nわたくしたちも、\nぎゅ～っ、\nでございます。"
+    },
+    {
+      "name": "Maho",
+      "text": "Ah. Squeeze. ...Is this okay? Kokkoro. Please be well.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ。\nぎゅ～っ。\n……\nこれでいいのだろうか。\nコッコロ、\n元気でいてくれ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes. You too, Lady Maho. Make sure to stay healthy.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nマホさまも、\nどうぞおすこやかに。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Homare! Should we do it too? Come on, jump into my arms!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ホマレ、\nアタシたちもやろっか？\nほら、\nアタシの胸に飛び込んできなよ！"
+    },
+    {
+      "name": "ホマレ",
+      "text": "…………☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "…………☆"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Oh no! Mad about that outfit swap from earlier, aren't you?! Sorry, sorry, it was just a spur-of-the-moment thing.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あちゃ～～～、\nさっきのことだいぶ怒ってるね！？\nごめんごめん、\nつい出来心だったんだよ～～"
+    },
+    {
+      "name": "Maho",
+      "text": "...Labyrista-san. I would like to express my gratitude to you once again.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……ラビリスタさん。\n改めて、\nあなたにはお礼を申しあげたい。"
+    },
+    {
+      "name": "Maho",
+      "text": "Despite the extraordinary incident of being drawn into another world... the fact that we can look back on this as a fond memory, that is thanks to you.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "異世界に迷い込むという、\n大変なアクシデントだったにもかかわらず、\nよい思い出として\nこれを終えることができたのは、\nあなたのおかげだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "No, no. I'm the one who should apologize for all the trouble I caused. If it became a good memory, that's because of your own efforts, and, more than anything... the strength of your hearts.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いやいや。\n本当に、\n迷惑をかけてすまなかったね。\nよい思い出にできたのは、\nなによりキミたち自身の頑張りと、\nそうだね、\n心の在り方さ。"
+    },
+    {
+      "name": "Maho",
+      "text": "At Kuromorimine, there was something people used to say. If the three of us -- Miho, Erika, and I -- were ever to ride in the same tank... what kind of battle would we show the world?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "わたしのいる黒森峰で、\nささやかれていたことがある。\nわたし、\nみほ、\nエリカ。\n３人がもし同じ一輛の戦車に乗ったのなら、\nどんな戦いを見せることになるのだろうか──と。"
+    },
+    {
+      "name": "Maho",
+      "text": "But the truth is... all three of us were suited to be commanders. Which meant we each had to devote ourselves to that role. And so... during our time at the academy, we never once had the chance to realize that possibility.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "けれど、\nわたしたちは３人が３人とも、\n車長としての適性が高かった。\nだから、\nまずはその役割に専心しなければならなかった。\n結局、\n在学中、\nその光景を見せることは\nついになかったが──"
+    },
+    {
+      "name": "Maho",
+      "text": "If they knew... that here, in this world, that wish had been fulfilled... I imagine it would surprise them greatly.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "今日、\nこのゲームの世界で、\n彼女らのそんな願いが\n実現していたと知ったら……\nきっと、\nみんな驚くだろう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Maho-chan, perhaps that... could it also have been your own wish?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "マホちゃん……\nもしかしてそれは、\nキミ自身の願いでもあったんじゃないかな？"
+    },
+    {
+      "name": "Maho",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Labyrista",
+      "text": "This Legend of Astrum, you see... It's also known as a \"game where wishes come true\".",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "このレジェンドオブアストルムはね。\n『願いが叶うゲーム』って\n呼ばれているんだ。"
+    },
+    {
+      "name": "Maho",
+      "text": "\"Where wishes come true\", huh...? I've never been one for games... but perhaps... they are something worth believing in.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "『願いが叶う』か……\nゲームというものには疎い人生だったが……\n夢があるものかもしれないな。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Wow, that's so kind of you! To hear you say that about my game... It really makes being a developer worthwhile, yeah♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いや、ありがたいね！\nゲームのことを、\nそう言ってもらえるなんてさ。\nほんと、\n開発者冥利に尽きるよ、\nうん♪"
+    },
+    {
+      "name": "Labyrista",
+      "text": "But... I'm sorry. I have to erase the memories all three of you have of this world.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……でも、\nすまない。\nアタシはキミたちの記憶を消さないといけないんだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I can't let you take the memories of this world back to your own world. I feel really bad for imposing these \"adult rules\" on you.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "キミたちの世界に、\nこの世界の記憶を持ち帰らせるわけにいかなくてね。\nこんな大人のルールを押しつけて……\n本当に申し訳ないと思っているけれど。"
+    },
+    {
+      "name": "マホ",
+      "text": "…………\n承知した。",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "…………\n承知した。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Your memories, Miho-chan and Erika-chan's... will be sealed gradually. If they were erased all at once, it would only confuse you when you return. So... we'll ease them closed, little by little.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "キミも\nミホちゃんも\nエリカちゃんも、\n記憶のフタが少しずつ閉じていく。\nいきなり全部閉じると、\n帰ったときに混乱するからね。\nそういう処置を施させてもらうよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I thought Erika-chan might have found something here... even just a small turning point. So it's a shame she won't be able to carry that with her...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "エリカちゃんは、\nここに来て、\n何か小さなきっかけをつかんだかなって思ったから……\nそこは、\nもったいないことではあるけれども……"
+    },
+    {
+      "name": "Maho",
+      "text": "No. That won't be necessary. Today, Erika took \"flight\". Just as Miho once did... she did it in her own way.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "いえ。\nそれで構わない。\nエリカは今日、\n『飛んで』みた。\nかつてみほがやったように、\n彼女もまた、\n彼女らしく。"
+    },
+    {
+      "name": "Maho",
+      "text": "She showed us... a glimpse, however small, of the future of tankery. Even if she forgets this experience... Erika will reach that place on her own someday, and show it to the world.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "戦車道の未来を、\nほんの少しだが、\n垣間見せてくれた。\n今日の記憶がなかったとしても……\nエリカなら必ず、\nいつか本当にたどり着き、\nそれをどこかで見せてくれるだろう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I see. Yeah. I think so too.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そっか。\nうん。\nアタシもそう思う。"
+    },
+    {
+      "name": "Maho",
+      "text": "The memories of us Kokkoro and the others have...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "コッコロたちの記憶は……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Tampering with the memories of those in this world carries too great a structural risk. Therefore, they will never forget you. They'll always believe that you'll meet again someday, somewhere.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "こっちのメンバーの記憶をいじることは、\n構造上のリスクが大きくてね。\nだから、\nキミたちのことを忘れることはないよ。\nいつかどっかで、\nふらっと再会できるって\n思いつづけるんじゃないかな。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "And I don't think it's impossible. Coming from someone who's about to seal your memories, maybe that sounds a bit hypocritical, but...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そしてそれは、\nけして叶わないことだとは思わない。\n記憶にフタをしようとしてる、\nアタシが言うのは\n白々しいかもしれないけど──"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Nobody knows what the future holds. This world is full of amazing accidents like this☆",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "未来なんて、\n誰にも分らないんだからさっ。\nこんな素敵なアクシデントだって起きる、\nこの世界だもの☆"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I'm sure that your paths will be able to connect again.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "きっとまた、\nつながることができるよ。"
+    },
+    {
+      "name": "Maho",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Everyone! May I have a moment?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みなさん！\nちょっといいでしょうか！"
+    },
+    {
+      "name": "Maho",
+      "text": "...Hm? What is it...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……？　\nなんだ……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We, the Gourmet Guild, have a special farewell gift for you all, wishing you all the best in your future endeavors after returning to your own world!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みなさんが元の世界に帰ってからのご活躍を祈って、\nわたしたち【美食殿】から\nとっておきの餞別があるんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Members! In formation! Line up!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "一同、\n整列！\n一列横隊！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "While you were all diligently engaged in combat training in Astrum, we, too, were actually engaged in a certain secret special training. This dance, which we learned when we visited the town of Oarai...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさまが\nアストルムでの戦闘訓練にお励みのあいだ、\nじつはわたくしたちも、\nとある秘密の特訓に\n励んでいたのでございます。\n大洗の街に赴いた際に教えていただいた、\nこの踊りの……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "H-Hey... It's a little late to say this, but... W-We're really going to do it... Huh...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ね、\nねえ……\nいまさらだけど……\nほ、\nほんとにやるの……\nあれ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "We've come this far... We have no choice but to show them! Our resolve...!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ここまできたら……\n見せるしかないわ！\n私たちの本気……！"
+    },
+    {
+      "name": "ミホ・エリカ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "ミホ・エリカ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "アアアン、\nアン♪\nアン♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "アアアン、\nアン♪\nアン♪"
+    },
+    {
+      "name": "美食殿",
+      "text": "アアアン、\nアン、\nアン、\nアン♪",
+      "choice_data_list": [],
+      "orig_name": "美食殿",
+      "orig_text": "アアアン、\nアン、\nアン、\nアン♪"
+    },
+    {
+      "name": "Miho",
+      "text": "This is...! The \"Anglerfish Dance\" from Oarai!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "これって……！\n大洗の、\n『あんこう踊り』！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Stir it up, let it simmer, nice and hot♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "炒めて、\n煮込んで、\nほっかほか♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "The pot is bubbling hot♪",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おなべはアツアツ♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hot and tasty, piping hot♪",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "おいしくってアツアツ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Miso and soy, steaming hot♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "味噌でしょうゆでアッツアツ♪"
+    },
+    {
+      "name": "Miho",
+      "text": "Pfft... Ahahaha, ahaha...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "ぷっ……\nあははは、\nあははは……"
+    },
+    {
+      "name": "Maho",
+      "text": "Hehe... hehehe...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふふ……\nふふふ……"
+    },
+    {
+      "name": "Erika",
+      "text": "Pfft... Ugh... What's that supposed to be...? Ahahaha!",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "ぷっ……\nくっ……\nなにそれ……\nあははははは！"
+    },
+    {
+      "name": "Miho",
+      "text": "...Okay... I'll do it too...!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "……よしっ……\nわたしもやります……！"
+    },
+    {
+      "name": "Maho",
+      "text": "Miho...? If you're going to do it, I can't exactly sit this out.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "みほ……？\nみほがやるなら、\nわたしもやらないわけにはいかないな。"
+    },
+    {
+      "name": "Erika",
+      "text": "HUH?! Commander? You're really going to do it?! I... Umm...!",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "え？　\n隊長？\nやるんですか！？\nわたしは……\nそのっ……！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Haha, so that's how it is☆ Then we'll need matching outfits for everyone☆",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ははっ、\nそうきたか☆\nじゃ、衣装も全員、\nおそろいにしないとね☆"
+    },
+    {
+      "name": "Gourmet Guild",
+      "text": "Come over here, an an♪ Don't run away, an an♪ Sway with the waves, an an an♪",
+      "choice_data_list": [],
+      "orig_name": "美食殿",
+      "orig_text": "こっち来てアンアン♪\n逃げないでアンアン♪\n波に揺られてアンアンアン♪"
+    },
+    {
+      "name": "Miho",
+      "text": "Let's meet tomorrow, down by the shore♪",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "あした会いましょ、\nあの浜近く♪"
+    },
+    {
+      "name": "The Three",
+      "text": "That's it!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "あぁそれ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Your light shines bright with love♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あなたの灯は、\n恋の光♪"
+    },
+    {
+      "name": "Miho",
+      "text": "Hehehehe... You're so good at this! Both you and Erika, Big Sis!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "ふふっ……\n上手だよっ、\nお姉ちゃんも、\nエリカさんも！"
+    },
+    {
+      "name": "Maho",
+      "text": "I see... this is more intricate than it looks. The angles of the wrists and hips... the shift between stillness and motion... It uses the entire body to maximize expression with no wasted movement.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "なるほど、\n奥深いものだ。\n手首や腰の角度……\n静と動の切り替え……\n全身を使い、\n無駄なく最大となる表現を追究している。"
+    },
+    {
+      "name": "Erika",
+      "text": "Is there... really nothing we can do about this outfit...! Fine then... I'll outdance the former vice-commander! WATCH ME!",
+      "choice_data_list": [],
+      "orig_name": "エリカ",
+      "orig_text": "……\nこの衣装は……\nどうにかならないの……\n……っ。\nこうなったら……\n元副隊長より上手に踊ってやるわ……！　\n見なさいっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ohhh! Erika-san's got sharpness, Maho-san's got presence, and Miho-chan's absolutely cute☆ You're all so fresh and glossy... just like anglerfish... *drool*",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おお～！　\nエリカさんはキレがあって、\nマホさんは風格があって、\nミホちゃんはとってもキュートですね☆\nみなさん、\n新鮮ツヤツヤ、\nあんこうそのものです……\nじゅるり。"
+    },
+    {
+      "name": "Karyl",
+      "text": "HEY! DON'T JUST LET YOUR APPETITE GET THE BETTER OF YOU! Ugh... I'll never do this again... I-It's only happening when we're all together, got it!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こらー！　\n食欲を刺激されてんじゃないわよー！\nうう……\n二度とやるもんか……\nみ、\nみんながそろったときだけなんだから！"
+    },
+    {
+      "name": "Gourmet Guild",
+      "text": "Tempt me, tease me, shining bright♪",
+      "choice_data_list": [],
+      "orig_name": "美食殿",
+      "orig_text": "誘って焦らしてぴっかぴか♪"
+    },
+    {
+      "name": "Miho Maho Erika",
+      "text": "Tempt me, tease me, shining bright♪",
+      "choice_data_list": [],
+      "orig_name": "ミホ・マホ・エリカ",
+      "orig_text": "誘って焦らしてぴっかぴか♪"
+    },
+    {
+      "name": "Miho",
+      "text": "Hehe... Ahahah... Ahahaha...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "ふふっ……\nあははっ……\nあはははっ……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You're making this old lady want to join in♪ Everyone, this is truly what youth's all about♪ ...Okay, I'm counting on you, Homare.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "お姉さんも混ざりたくなっちゃったな～♪　\nみんなそろって、\n青春だね♪\n……じゃ、\nよろしくホマレ。"
+    },
+    {
+      "name": "Homare",
+      "text": "...Okay.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……おっけー"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, the tankery maidens -- Miho, Maho, and Erika -- who had wandered into Astrum by chance, returned to their own world.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、\nひょんなことからアストルムの世界に迷い込んだ、\n戦車道をたしなむ乙女たち──\nミホ、\nマホ、\nエリカは、\n元の世界へと戻っていった。"
+    },
+    {
+      "name": "Narration",
+      "text": "Even after they vanished, their laughter lingered in the air for a long time after...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "３人の姿がかき消えたあとも、\n少女たちの笑い声は、\nいつまでもあたりに響きつづけていた──"
+    }
+  ]
+}

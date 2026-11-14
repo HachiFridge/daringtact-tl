@@ -1,0 +1,1126 @@
+{
+  "atlas_name": "AtlasInvasion",
+  "sprites": [
+    {
+      "name": "invasion_battle_gauge_bg",
+      "x": 1006,
+      "y": 859,
+      "width": 16,
+      "height": 12,
+      "border": [
+        6,
+        0,
+        6,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_battle_gauge_bosshp",
+      "x": 1006,
+      "y": 873,
+      "width": 16,
+      "height": 12,
+      "border": [
+        6,
+        0,
+        6,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_battle_gauge_frame_main",
+      "x": 0,
+      "y": 582,
+      "width": 76,
+      "height": 21,
+      "border": [
+        25,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_bg_white",
+      "x": 988,
+      "y": 813,
+      "width": 32,
+      "height": 32,
+      "border": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_btn_sub_square",
+      "x": 374,
+      "y": 690,
+      "width": 96,
+      "height": 100,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_chest_back",
+      "x": 392,
+      "y": 792,
+      "width": 138,
+      "height": 141,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        59,
+        57,
+        59,
+        58
+      ]
+    },
+    {
+      "name": "invasion_chest_front",
+      "x": 0,
+      "y": 857,
+      "width": 120,
+      "height": 76,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        59,
+        122,
+        77,
+        58
+      ]
+    },
+    {
+      "name": "invasion_chest_gold_back",
+      "x": 122,
+      "y": 789,
+      "width": 140,
+      "height": 144,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        58,
+        54,
+        58,
+        58
+      ]
+    },
+    {
+      "name": "invasion_chest_gold_front",
+      "x": 264,
+      "y": 855,
+      "width": 126,
+      "height": 78,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        58,
+        120,
+        72,
+        58
+      ]
+    },
+    {
+      "name": "invasion_chestLight_1",
+      "x": 0,
+      "y": 706,
+      "width": 42,
+      "height": 149,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        10,
+        56,
+        12,
+        51
+      ]
+    },
+    {
+      "name": "invasion_chestLight_2",
+      "x": 532,
+      "y": 841,
+      "width": 187,
+      "height": 92,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        34,
+        18,
+        35,
+        18
+      ]
+    },
+    {
+      "name": "invasion_chestLight_kira",
+      "x": 721,
+      "y": 805,
+      "width": 128,
+      "height": 128,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_1",
+      "x": 218,
+      "y": 632,
+      "width": 60,
+      "height": 38,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_2",
+      "x": 944,
+      "y": 847,
+      "width": 60,
+      "height": 38,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_3",
+      "x": 0,
+      "y": 655,
+      "width": 60,
+      "height": 38,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_4",
+      "x": 218,
+      "y": 672,
+      "width": 60,
+      "height": 38,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_5",
+      "x": 280,
+      "y": 652,
+      "width": 60,
+      "height": 38,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_green",
+      "x": 794,
+      "y": 749,
+      "width": 40,
+      "height": 26,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_purple",
+      "x": 0,
+      "y": 554,
+      "width": 40,
+      "height": 26,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_red",
+      "x": 794,
+      "y": 777,
+      "width": 40,
+      "height": 26,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_small_1",
+      "x": 76,
+      "y": 605,
+      "width": 74,
+      "height": 26,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_small_2",
+      "x": 0,
+      "y": 615,
+      "width": 74,
+      "height": 26,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_circling_base_small_3",
+      "x": 138,
+      "y": 633,
+      "width": 74,
+      "height": 24,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "invasion_circling_base_small_4",
+      "x": 62,
+      "y": 669,
+      "width": 74,
+      "height": 24,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "invasion_circling_base_small_5",
+      "x": 62,
+      "y": 643,
+      "width": 74,
+      "height": 24,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "invasion_icon_clear",
+      "x": 698,
+      "y": 772,
+      "width": 94,
+      "height": 31,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        17,
+        16,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "invasion_icon_dictionary",
+      "x": 313,
+      "y": 692,
+      "width": 51,
+      "height": 54,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_icon_relic",
+      "x": 44,
+      "y": 800,
+      "width": 59,
+      "height": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        3,
+        0,
+        2
+      ]
+    },
+    {
+      "name": "invasion_label_01",
+      "x": 44,
+      "y": 731,
+      "width": 153,
+      "height": 28,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_picture_book_icon_relic",
+      "x": 755,
+      "y": 742,
+      "width": 30,
+      "height": 28,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_point_unreleased",
+      "x": 532,
+      "y": 761,
+      "width": 164,
+      "height": 78,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_quest_detail_btn_menu",
+      "x": 851,
+      "y": 838,
+      "width": 91,
+      "height": 95,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_quest_road_arrow_01",
+      "x": 864,
+      "y": 751,
+      "width": 28,
+      "height": 21,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_quest_road_arrow_02",
+      "x": 787,
+      "y": 726,
+      "width": 31,
+      "height": 21,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_quest_road_arrow_03",
+      "x": 755,
+      "y": 718,
+      "width": 28,
+      "height": 22,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_quest_road_arrow_04",
+      "x": 280,
+      "y": 692,
+      "width": 31,
+      "height": 18,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_result_newrecord",
+      "x": 44,
+      "y": 761,
+      "width": 188,
+      "height": 26,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_bg",
+      "x": 156,
+      "y": 659,
+      "width": 60,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_clear",
+      "x": 44,
+      "y": 695,
+      "width": 110,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_event",
+      "x": 199,
+      "y": 712,
+      "width": 112,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_astralshard",
+      "x": 472,
+      "y": 758,
+      "width": 32,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_astralsphere_box",
+      "x": 988,
+      "y": 746,
+      "width": 32,
+      "height": 31,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_connectpiece_1",
+      "x": 698,
+      "y": 808,
+      "width": 19,
+      "height": 31,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        8,
+        1,
+        5,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_connectpiece_2",
+      "x": 42,
+      "y": 548,
+      "width": 25,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_connectpiece_3",
+      "x": 342,
+      "y": 658,
+      "width": 29,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_connectsphere_1",
+      "x": 234,
+      "y": 755,
+      "width": 27,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_connectsphere_2",
+      "x": 988,
+      "y": 779,
+      "width": 27,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_connectsphere_3",
+      "x": 698,
+      "y": 738,
+      "width": 27,
+      "height": 32,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_hiseki",
+      "x": 836,
+      "y": 744,
+      "width": 26,
+      "height": 28,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_jewel",
+      "x": 727,
+      "y": 740,
+      "width": 26,
+      "height": 30,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_masterpieces_piece",
+      "x": 0,
+      "y": 525,
+      "width": 32,
+      "height": 27,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        3,
+        0,
+        2
+      ]
+    },
+    {
+      "name": "invasion_reward_icon_piece_p_heart",
+      "x": 119,
+      "y": 569,
+      "width": 31,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_score_bg_round",
+      "x": 152,
+      "y": 604,
+      "width": 64,
+      "height": 27,
+      "border": [
+        15,
+        0,
+        15,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_score_num_gold_comma",
+      "x": 138,
+      "y": 669,
+      "width": 15,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "invasion_score_num_gold_pt",
+      "x": 78,
+      "y": 566,
+      "width": 39,
+      "height": 37,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "invasion_stamp_relic_all_get",
+      "x": 264,
+      "y": 748,
+      "width": 108,
+      "height": 105,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_top_map_point_icon_clear",
+      "x": 851,
+      "y": 774,
+      "width": 135,
+      "height": 62,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "invasion_top_plate",
+      "x": 0,
+      "y": 935,
+      "width": 1024,
+      "height": 89,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_icon_next",
+      "x": 944,
+      "y": 887,
+      "width": 71,
+      "height": 46,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "title": "Whitewings in Bloom",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Quite some way from the city of Landosol,\nnear a rushing river and a forest rich in sturdy timber,\nlies Oedo, a town heavily influenced by the far eastern nation of Togoku.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──ランドソルより少し離れた地。\n近くを流れる川や、良質な材木などの豊富な資源に恵まれたこの地に、\n異国であるトーゴクの文化を取り入れた町、オーエド町があった。"
+    },
+    {
+      "name": "Narration",
+      "text": "As they stroll through its friendly and welcoming streets,\n{0} and the members of Weissflügel\nare taken aback by the town's exotic beauty.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その美しくもあり、なおかつどこか親しみがある町並みに、\n【ヴァイスフリューゲル　ランドソル支部】のメンバーと\n{0}は圧倒されるのであった。"
+    },
+    {
+      "name": "Monika",
+      "text": "I-incredible...! All these beautiful designs\nare unlike anything I've seen in Landosol!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "す、\nすごいな……！\nランドソルの文化とも違う\n美しい意匠が、\n町中に施されている！"
+    },
+    {
+      "name": "Ninon",
+      "text": "This town was established as an import station for foreign resources,\nand apparently its architect was a lover of Togoku culture,\nso it features a fusion of Landosol's culture and Togoku's!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ここは\nランドソルに搬入する資源を\n集めるために造られた町で、\n建築を担当した職人が\nトーゴク文化の愛好者だったから、\nランドソルと\nトーゴクが\nフュージョンした\nこのような町になったのデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "Togoku? That's... a nation that lies far east of Landosol, correct?\nI believe the clothes you wear and strange words you sometimes use\nalso come from there?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "トーゴク……\nたしか、\nランドソルから遥か東の方にある国だったな。\nニノンの来ている服や、\nたまに言う言葉も\nその国が発祥だとか。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Yes!\nTogoku culture is my favorite in the whole world!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "イエス！\nトーゴク文化は、\nワタシの\nフェイバリットデス！！"
+    },
+    {
+      "name": "Yuki",
+      "text": "What a marvelous place.\nThis scenery will surely carry my beauty to new heights! ♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "美しい町並みだね。\nこれなら、\nボクの美しさが\nより引き立つよ♪"
+    },
+    {
+      "name": "Kuka",
+      "text": "S-since it's away from the capital, it's so much quieter than Landosol.\nM-Mr. Sadist might say, \\\"I bet I can get away with anything here,\\\"\nand drag me off into some deserted back alley... Gueheheh... *drool*...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "す、\n少し離れた地にあるせいか、\n人も多すぎなくて落ち着きます。\nこ、\nここでドＳさんが、\n『いつもよりもっと凄いことができそう』\nと\n言いながら、\nクウカを路地裏に連れ込み……\nぐふふ……\nじゅる……"
+    },
+    {
+      "name": "Monika",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ninon",
+      "text": "Of course, there are sweet and delicious treats to try too! ♪",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……もちろん、\n甘くて\nおいしいお菓子も\nあるデスよ♪"
+    },
+    {
+      "name": "Monika",
+      "text": "R-really?! Oh, ah... I-I mean...\nSweet treats are hardly my style, but I am interested in foreign cuisine!\nS-so perhaps I should try just a few!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ほ、\n本当か！？　\nあ、\nいや……\nべ、\n別に\n甘くて\nおいしいお菓子はどうでもいいが、\n異国の食文化には興味があるからな！\nす、\n少しぐらいは\n食べてみようではないか！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "It's all so beautiful! Even the buildings themselves...\nIt's like I've stepped into a whole different world\nfull of romance! ...Wait, huh?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "本当にきれいな町……\nお店の造りや雰囲気も、\nまさに\n異国に迷い込んだみたいに\nとってもロマンチックで……\nあれ？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The men are wearing exotic clothes like Ninon's,\nbut all the women are in ordinary Landosol styles.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "男性はニノンさんの服と似た異国風ですけど、\n女性の服は\nランドソル風なんですね？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh... That is strange.\nI've been to this town a few times before, and I remember\nalmost all the residents wore traditional eastern clothing.",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "え……\nおかしいデスね。\nこの町には\n何度か来たことがありますが、\n町の人は\nほとんどがトーゴク文化の服、\nワフクだったはずデス。"
+    },
+    {
+      "name": "Ninon",
+      "text": "And that's not all...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "それになんだか……"
+    },
+    {
+      "name": "Townsperson 1",
+      "text": "Look, tourists! There's a group of new tourists!",
+      "choice_data_list": [],
+      "orig_name": "町人１",
+      "orig_text": "観光客だ……\n新しい観光客が来たぞ……"
+    },
+    {
+      "name": "Townsperson 2",
+      "text": "Hey... Send word to District Three, pronto!",
+      "choice_data_list": [],
+      "orig_name": "町人２",
+      "orig_text": "……おい、\n三丁目にも知らせてやれ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "The town's atmosphere feels different from usual somehow.",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……町の様子が\nいつもと違うような気がするデス。"
+    },
+    {
+      "name": "Yuki",
+      "text": "With a gorgeous visitor like me, of course the atmosphere would shift!\nNow, isn't it time we got down to some leisure activities?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "この美しいボクが来たのだから、\nいつもと同じじゃいられないさ♪\nそれより、\nボクは早くこの町で遊んでみたいね。"
+    },
+    {
+      "name": "Monika",
+      "text": "Good point. We came here to relax, after all.\nWe'd better make the most of this opportunity.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "たしかに、\nせっかくの息抜きだしな。\n時間は有意義に使った方がいいだろう。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh, absolutely, yes! Well then, allow me\nto act as your navigator and show you around town!\nOnward we go!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "それもそうデスね。\nでは\nこのワタシが、\n水先ナビゲーターとして、\nご案内ツカマツルデース！\nいざ、\nシュツジン！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "This looks like... a sort of curiosity shop.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ここは……\n道具屋さんみたいですね。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Ah yes, the heart of Togoku!\nYou can find all sorts of amazing toys and accessories here!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "これぞ\nトーゴクの神秘！\n魅力的なオモチャや\nアクセサリーが揃っているのデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "It's all so very strange. Thick playing cards with pictures,\ndiscs upon sticks, intricate wooden dolls......Ahh?!\nTh-this doll just moved!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "見慣れないものが多いな。\n絵がついた厚めのカード、\n棒が刺さった円盤や、\n精巧な木製人形……\nっ！？\nきゅ、\n急に動き出したぞ！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "That is a mechanical doll!\nRather than magic, it moves by clockwork!\nAdvanced models can even bring tea to customers, I hear!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "それは、\nカラクリ人形デス！\n魔力ではなく\n仕掛けで動く人形で、\n凄いものになると、\nお客さんに\nお茶を運んでくれるものも\nあるらしいデス！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "That really does sound impressive! Togoku must be home to\nsome amazing engineers. Oh, look at this tube!\nI thought it was a telescope, but it's full of colorful patterns!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "そんな器用なことまでできるなんて、\nトーゴクの\n物づくり技術は\n凄いですね……\nあ、\nこの筒も凄い！\n望遠鏡かと思ったら、\n中に色んな模様が描かれているんですね！"
+    },
+    {
+      "name": "Monika",
+      "text": "The patterns shift as the tube rotates... A clever trick using\nmirrors, I presume! By the way, where's our self-absorbed friend?\nI thought mirrors would be Yuki's area of interest...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "筒を回すと\n模様が変わる……\n鏡を利用した見事な仕掛けだな。\nそういえば、\nユキはどうした？\n鏡といえば、\n必ず口を出してくるかと思ったが……"
+    },
+    {
+      "name": "Kuka",
+      "text": "That's a good question...\nOh, over there! Looks like Yuki's inspecting those Togoku mirrors.",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "さっきまでここにいたんですけど……\nあ、\nあっちで\nトーゴクの鏡を見ているみたいです。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Ahhh... This is a day for celebration.\nNever have I witnessed such a wondrous sight...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "あぁ……\n今日は記念すべき日だよ。\nこんなに美しいものを見つけてしまうなんて……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Yes! Mirrors from Togoku, called \\\"wa-kagami,\\\" are very popular!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "イエス！\nトーゴクの鏡は\nワカガミと言って\n人気なのデス！"
+    },
+    {
+      "name": "Yuki",
+      "text": "My visage in this exotic glass...\nThis... this beauty is simply magical...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "異国の鏡に\n映るボク……\nなんて……\nなんて神秘的な\n美しさなんだ……"
+    },
+    {
+      "name": "Monika",
+      "text": "Um... I think it's the reflection in the mirror\nthat's gotten Yuki excited.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "いや……\nあれは、\n鏡に映った自分に酔っているだけだろう。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Y-Yuki really never does change, huh?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ユ、\nユキさんは、\nどこにいてもマイペースですね……"
+    },
+    {
+      "name": "Ninon",
+      "text": "This is a place to experience the ninja arts!\nIt might be my favorite spot in all of Oedo!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ここは\n忍術体験ができる場所デース！\nワタシとしては、\n一番のオススメの場所デス！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "N-ninja arts?\nThose are the strange techniques you use when fighting, right?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "に、\n忍術って、\nニノンさんが戦う時に使っている\n技\nですよね……？"
+    },
+    {
+      "name": "Ninon",
+      "text": "That is correct! The arts of the eastern ninja, when fully mastered,\ncan even tame the fabled Frog King that leaps over mountains!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "その通りデス！\nトーゴクのニンジャが使うワザで、\nマスタークラスになると、\n山をも越えるキングフロッグを従えられるらしいデス！"
+    },
+    {
+      "name": "Kuka",
+      "text": "D-does that mean if I mastered the ninja arts,\nI could summon my own ferocious plant monster\nto entrap me with its vines all day long...?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "と、\nということは、\nクウカも忍術をマスターすれば、\n一日中縛り続けてくれる程の強靭な蔦を持った、\n植物型の魔物を呼び出せるのでは……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Training bores me,\nbut if I could teach a light-attuned monster\nto highlight my best side at all times...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "修行はいやだけど、\nボクの美しさを一日中ライトアップしてくれる、\n光を操る魔物を使役できるなら……！"
+    },
+    {
+      "name": "Monika",
+      "text": "My knowledge may be limited, but I feel sure I can say...\nNo ninja has ever come up with techniques like those!\nAyumi, what ninja arts would you be interested in?",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……忍術を殆ど知らない私だが断言しよう。\nそんな其方たちしか喜ばない忍術は存在しない。\nアユミは興味のある忍術はないのか？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I-I'm not very good with battles,\nso special techniques aren't really my thing...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "わ、\n私は戦いとか苦手ですし、\nあんまり技とかには興味が……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Today's ninja workshop includes\ntechniques for walking on water, shuriken darts, and...\nthe elemental arts used by ninja to conceal themselves.",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "今日の忍術体験内容は、\n水の上を歩く\nミズグモや\nシュリケンダート、\nあとは、\nドトンやモクトン……\n人から隠れる忍術みたいデスね。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Ninja arts for hiding from people?!\nTell me more about those!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "人から隠れる忍術について、\n詳しく聞かせてくださいっ……！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Th-that was a sudden change of heart!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "きゅ、\n急に食いついたな！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "B-but they're just for distracting people's attention\nor trailing a target... They're not really much fun.",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "で、\nでも\nこの忍術、\n『誰にも気づかれないようにする』\nとか、\n『人を追跡する』\nぐらいで\n地味デスよ……？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Th-that's exactly what I'm looking for!\nI'll master those arts no matter how many years it takes!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ま、\nまさに私の求める技術です……！\n何年かかっても、\n必ず習得してみせます！！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "If I could hide like a real ninja,\nI might be able to watch over him\nfrom all angles, not just from behind! ",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "この忍術を\n完全に会得すれば、\n後ろだけじゃなく、\n色んな場所から\n先輩を見られるかもしれません……！　"
+    },
+    {
+      "name": "Monika",
+      "text": "I... I sense some traces of ill intent,\nbut perhaps I shouldn't pry too deeply.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "な、\nなんだか邪念のようなものを感じるが、\nあまり深入りしない方がよさそうだ……"
+    },
+    {
+      "name": "Ninon",
+      "text": "This shop sells all kinds of books!\nBooks from Togoku are intricately designed, both inside and out!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "この店は\n本を取り扱ってるみたいデスね。\nトーゴクの本は、\n見た目も\n内容も\nとっても面白いデスよ！"
+    },
+    {
+      "name": "Kuka",
+      "text": "W-wow, these Oedo bookshops\nstock some positively indecent content...\nI think I'll buy this in secret to read when no one's around... Gueheheh...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "オ、\nオーエド町の本屋さんには、\nこんな破廉恥な本が置いてあるのですね……\nこれは\n誰にも見られないよう、\nこっそり読んで楽しもう……\nぐふふ……"
+    },
+    {
+      "name": "Monika",
+      "text": "What's this Samurai Road book? Ah, an introduction to Togoku culture.\n\\\"Samurai are proud and refined Togoku warriors. To unify the nations\nand bring peace, they serve their kings, the shogun...\\\" Wait, \\\"shogun\\\"?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "こっちの本は「ＳＡＭＵＲＡＩロード」……\nトーゴク文化の紹介本か。\nサムライは\n高潔な精神を持つトーゴクの騎士。\n天下を統一し、\n世を太平へと導く\n王たるショーグンに仕え…………\nショーグン！？"
+    },
+    {
+      "name": "All",
+      "text": "Whaaaaaaa?!",
+      "choice_data_list": [],
+      "orig_name": "４人",
+      "orig_text": "えぇぇぇぇええ～！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I-isn't \\\"shogun\\\" the title that Ninon\nalways uses to address {0}?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ショ、\nショーグンって、\nいつもニノンさんが、\n先輩を呼ぶ時に使ってましたよね！？"
+    },
+    {
+      "name": "Yuki",
+      "text": "B-but that means...\nYou were a king from Togoku all along?!",
+      "choice_data_list": [
+        "No, she just calls me that."
+      ],
+      "orig_name": "ユキ",
+      "orig_text": "と、\nということは、\nキミはトーゴクの王様だったの！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "My shogun is the one true shogun!\nHis conquest is not complete, but even now his noble character\nbrings peace and smiles to us all!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショーグンは、\n本物のショーグンデス！\n天下はまだですが、\n今でも\n私たちを笑顔に……\n平和にしてくれているのデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "Haha... I see, I see.\nI suppose that would make you a fine shogun indeed.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ふふっ……\nなるほどな。\nそういうことなら、\nたしかに貴公は立派なショーグンだな。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh, if you're interested in Togoku culture,\nwhy not start with the clothing?!\nThis town has many clothing rental shops!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あ、\nトーゴクの文化に興味があるなら、\nまずは\n形から入ってみてはどうデスか！！\nこの町では\n貸衣装もやっているデス！"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-is that true...?!\nAs a dancer, I was quite intrigued by all those lovely fabrics.\nI wonder what they'd feel like to wear...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ほ、\nほんとうですか……！？\n踊り子として、\nあのきれいな柄のワフクは興味がありました。\nちょっと着てみたいかも、\nです……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Then come on, Kuka! Let's get changed together!\nI always wanted to try a real ninja costume!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "だったら\nクウカ、\nいっしょに着替えるデス！\nワタシも、\nクノイチ衣装を着てみたかったのデス！"
+    },
+    {
+      "name": "Kuka",
+      "text": "N-no, ah...\nI was only a little curious, really...\nI'd be fine just holding them up in a mirror or something...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "い、\nいやあの、\nちょっと着てみたいと思っただけで……\n体に合わせてみるぐらいでも\n満足といいましょうか……"
+    },
+    {
+      "name": "Ninon",
+      "text": "In Togoku, there is an ancient saying: \\\"Hurry up and do it!\\\"\nHesitation only leads to regret!\nCome on, let's all go to the clothing rental shop!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "トーゴクに\nこのような言葉がアリマス……\nゼンはハリーアップ！\n思い立ったら即アクションですよクウカ！\nさあ、\nみんなも\n貸衣装屋に行きまショウ！"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-I'm sure that's a very wise saying,\nbut I don't think I feel ready to wear such beautiful robes...\nO-oh, spare me!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "と、\nとっても良い言葉だと思うのですが、\nあんなきれいな服をいざ着るとなると\n心の準備が……\nご、\nご無体な～～！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Heheheh. I brought an outfit that will suit you well!\nCome on, try it on right here and now!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "フッフッフ、\nクウカに似合いそうな\nワフクを持ってキマシタ。\nさっそくここで、\nお着替えシマショウ！！"
+    },
+    {
+      "name": "Kuka",
+      "text": "Urgh... I've come too far to turn back...\nStill, though, this belt is quite difficult to tie...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "うう……\nここまで来たら覚悟を決めます……\nそれにしても、\nこの帯って\nとっても難しいですね。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Haha. They seem to be having fun in the fitting room.",
+      "choice_data_list": [
+        "Don't you guys want to try anything on?"
+      ],
+      "orig_name": "アユミ",
+      "orig_text": "ふふっ、\n更衣室が\nなんだか楽しそうです。"
+    },
+    {
+      "name": "Monika",
+      "text": "I'm fine with my usual attire.\nPracticality is my goal, after all.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "私は\nいつもの服で大丈夫だ。\n動きやすさを重視したいしな。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "W-wearing such bright and conspicuous clothes\nwould be a sort of issue for my hobbies...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "わ、\n私は\nきらびやかな服だと目立ちすぎて、\n趣味に支障をきたすといいましょうか……"
+    },
+    {
+      "name": "Yuki",
+      "text": "I never fail to coordinate my outfit\nto complete my beauty on that particular day.\nAnd alas, eastern clothes are not what call me today! ♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ボクはいつも、\nその日の状態によって\n美しさを完璧に引き出すためのコーディネイトをしているからね。\n今日のボクは\nワフクよりも、\nこっちの服なのさ♪"
+    },
+    {
+      "name": "Ninon",
+      "text": "Everyone, sorry for the wait!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "──みなさん、\nお待たせしましたデース！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Heheheh. How do I look, Shogun?!\nBehold the new Ninja Ninon and...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "フッフッフッ、\nどうデスかショーグン！\nこれぞクノイチのニノンと……"
+    },
+    {
+      "name": "Kuka",
+      "text": "K-Kimono Kuka...",
+      "choice_data_list": [
+        "You look great in that ninja outfit, Ninon.",
+        "It's a bit revealing, but it suits you, Kuka."
+      ],
+      "orig_name": "クウカ",
+      "orig_text": "ワ、\nワフクの\nクウカです……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh! Thank you very much!\nWh-why is it, I wonder? When you come out\nand say those things to my face, it's a little embarrassing!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ア、\nアリガトウゴザイマス……\nな、\nなんでしょうか……\nその、\n面と向かって\nそういうことを言われると、\n照れるデスね……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Ahhh... The honest compliment and the criticism together\nmean double the embarrassment... Ahh?! So that was your aim all along!\nY-you sadist! Depraved degenerate!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "うう……\n褒められて嬉しいのと、\n大胆と言われたことで\n二重に恥ずかしいです……\nはっ！？　\nこれが狙いだったのですね！\nこ、\nこのドＳっ！　\n人格破綻者……！！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Hm? Kuka, are you sure that belt is properly tied?\nIt looks concerningly loose to me...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ん？　\nクウカ、\nそのワフクの帯は大丈夫なのか？\nなんだか\n解けそうなのだが……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Ahhh... I tried my very best,\nbut I wasn't able to tie it very well...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "うう……\n頑張ったのですけど、\nどうも帯がうまくいかなくて……"
+    },
+    {
+      "name": "Ninon",
+      "text": "A kimono belt like this is no problem for the great Ninon!\nJust slip this bit in here... Then pull nice and tight!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "これぐらいの着付けなら、\nワタシに任せるデース！\nここを\nこっちに回しつつ……\n後は\n強く引っ張れば……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Umm, I do appreciate the crushing constriction,\nbut we're only renting this, so maybe you shouldn't pull so hard...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "あの、\n強い締め付けが\nとっても心地よいのですが、\nレンタルですし、\nそんなに強く引っ張られると……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Kimonos need to be tied very tight or they come undone!\nHmm, this isn't going very well...\nShogun! Can you pull with me from the other side?",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ワフクは\n帯を強く結んでおかないと\n落ちやすいのデス。\nうーむ、\nちょっと上手くいかないデスね……\nショーグン、\n向こうから強く引っ張ってくださいデス！"
+    },
+    {
+      "name": "Ninon",
+      "text": "All right then! On one, two, three!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "では同時に、\nセーノッ……"
+    },
+    {
+      "name": "Ninon",
+      "text": "...we'll pull as hard as we can, OK?",
+      "choice_data_list": [
+        "Oops..."
+      ],
+      "orig_name": "ニノン",
+      "orig_text": "……って、言ったら引いてクダサイネ？"
+    },
+    {
+      "name": "Kuka",
+      "text": "Eek!\nM-Mr. Sadist gave my belt a hefty tug on his own!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ひぃ……っ！？\nド、\nドＳさんだけに\n帯を引っ張られて……"
+    },
+    {
+      "name": "Monika",
+      "text": "C-could this be...?! I read about this deed in that \\\"Samurai Road\\\" book!\nA famed technique of nefarious evil magistrates!\nThe spinning belt maneuver!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "こ、\nこれはまさか！　\n先ほど見たＳＡＭＵＲＡＩロードに\n書かれていた、\nトーゴクの行政官にして悪党たる、\nアクダイカンの特技、\n帯回し！！"
+    },
+    {
+      "name": "Kuka",
+      "text": "O... Ohhhhh myyyyyyy!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "……あ、\nあーれーーっ！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Wh-what overwhelming torque!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "な、\nなんという回転力だ！"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-if you spin me this fast...\nI think... I think...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "こ、\nこんなことをされたら……\nクウカは……\nクウカは……"
+    },
+    {
+      "name": "Monika",
+      "text": "K-Kuka!\nYou're spinning all the way outside!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ク、\nクウカ！\nそっちは店の外で……"
+    },
+    {
+      "name": "Kuka",
+      "text": "I think... I'm going to leave the ground!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "クウカ、\n飛んじゃいますぅぅ～～！！！！"
+    },
+    {
+      "name": "Kuka",
+      "text": "Mr. Sadist sent me whirling through a gauntlet of agony...\nOhhh, I've never felt better! ♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ドＳさんに帯回しをされて、\nたくさんのご褒美までもらえて、\nクウカ、\n大満足ですぅ……♪"
+    },
+    {
+      "name": "Monika",
+      "text": "W-well...\nIf she enjoyed it so much, I suppose that's fine!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ま、\nまあ、\n本人が満足しているし、\nよしとするか。"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, the group continued their thrilling tour\nof Oedo's shopping district.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その後も色々なお店を回り、\nわいわい盛り上がる一行だった。"
+    }
+  ]
+}

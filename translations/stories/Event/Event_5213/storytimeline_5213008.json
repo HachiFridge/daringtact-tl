@@ -1,0 +1,866 @@
+{
+  "title": "The Princesses Return",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Three days later... At the Landosol Cooking Stadium. Kyaru, Sheffy and the three Chevaliers were crucified on the stage--",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "３日後──\nクッキングスタジアム。\nキャル、\nシェフィ、\nそして守護騎士の３人が\nステージ上で磔にされていた──"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "Slaves who have gathered here, welcome! INFINITYYYYYY!!!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "お集まりのドレイのみなたま～！\nインフィニティ～～～っ！！"
+    },
+    {
+      "name": "People",
+      "text": ".........!",
+      "choice_data_list": [],
+      "orig_name": "民衆",
+      "orig_text": "…………っ。"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "...As expected, there's not an ounce of excitement. Because right before your eyes, a gruesome execution is about to be carried out...!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "……なんて、\nそんなテンションじゃないよね。\nだって今から目の前で、\n見るも無残な処刑が執行されちゃうんだから……！"
+    },
+    {
+      "name": "Monstron 1",
+      "text": "LADY ANEMONE!! You bastard... What are you planning to do to her?!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人の男性１",
+      "orig_text": "アネモネ様！！\nてめえ……\nアネモネ様に何を！？"
+    },
+    {
+      "name": "Women 1",
+      "text": "Kyaru-chan and Sheffy-chan...! This can't be... why are those two there, too?!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "キャルちゃんにシェフィちゃん……っ！\nそんな、\nなんであの二人まで……っ！"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "...T-This was a necessary sacrifice. What would happen if they were to disrespect Melissa-tama at every turn? It was inevitable so that you all would understand, honey.",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "……これは必要な犠牲。\nメリッサたまに不敬を働いたらどうなるか。\nみなたまに分かってもらうため\n仕方ないハニ。"
+    },
+    {
+      "name": "People",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "民衆",
+      "orig_text": "……っ！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Don't screw with me...! Hey, Croce. Can't you do something to free yourself with your machine specs?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ざけんなってーの……！\nね、\nクローチェ。\n自慢のパワーで\n何とかならない訳……？"
+    },
+    {
+      "name": "Croce",
+      "text": "I'm sorry... My charge is basically over... I can't even move anymore... Piiii...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "すみません……\n充填切れで……\nもう、\n動けま……\nピー……"
+    },
+    {
+      "name": "Anemone",
+      "text": "...Umm... Grace-san... Y-You're a g-ghost. If you're... transparent, then... you can slip through those restraints, right?",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──……あの。\nグレイスさん──\nお、\nお化け、\nなんですし。\n透ければ\n枷なんて、\nすり抜けられるんじゃ──？"
+    },
+    {
+      "name": "Grace",
+      "text": "My deepest apologies, but I cannot live up to those expectations. If I were to do that in those conditions, I might really ascend up to Heaven.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ご期待に添えず申し訳ありません。\nこの体調でそれやると、\nガチで消えて成仏するかと。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Why would a ghost's physical condition even matter...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "幽霊の体調ってなによ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Ohhhh...! To think I'd receive such a sweet souvenir like a sharp retort right before my demise. Now I don't have any more regrets. Hurry up and send me off!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "おお……\n冥土の土産ツッコミいただきました。\nこれで悔いなし、\nぱらいそさ行くだ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Couldn't you... be a little more tragic about this? At this rate, we'll all be executed...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……もう少し\n悲壮感持ってくれないかしら。\nこのままじゃ\n処刑されちゃうのよ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Hmph. There's no way I'd beg that Melissa for my life, so there's no point in making this dramatic.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ふんっ。\nメリッサに命乞いなんてするわけないんだから、\n嘆いたってしょうがないじゃない。"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's right. There's no point in lamenting. ...There's nothing Dumborine can do to help us.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そうよ、\n嘆いてたってしょうがない。\n……\nしょうがないのよ、\nアホリーヌ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Kyaru.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……\nキャル。"
+    },
+    {
+      "name": "キャル",
+      "text": "……あんたさ、\nもうとっくに切れてんでしょ。\n『ご飯を食べなくても済む魔法』……\nったく、\nちゃんとご飯食べれてるんでしょうね？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……あんたさ、\nもうとっくに切れてんでしょ。\n『ご飯を食べなくても済む魔法』……\nったく、\nちゃんとご飯食べれてるんでしょうね？　"
+    },
+    {
+      "name": "Karyl",
+      "text": "That depressed face of yours... I'm tired of seeing it. Hurry up and show me that usual stupid mug of yours again!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……もうあんたのへこんだ顔見んのは\n飽き飽きしてんの。\nいつものアホ面で、\nさっさと聞かせなさいよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Your... \"Then I'll dig in\"...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんたの\n「いただきます」をさ……"
+    },
+    {
+      "name": "Melissa",
+      "text": "Hey, Eustiana. Why aren't you eating? To think I even made sure to bring you some delicious snacks every day. Do you hate honey toast?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "ねー、ユースティアナ。\nなんで食べないの？\nせっかく毎日差し入れ持ってきてやってんのにさ。\nハニートースト嫌い？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Mm... I'm on a diet.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……\nダイエット中なので。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Kyahaha, seriously? Maybe I should start one too. I'm not even getting 30 steps a day... pretty crazy, right?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "きゃはは、\nまじ？\nあたしもダイエット始めよっかなー\n一日の歩数30いかないんだけど、\nさすがにヤバいよね～？"
+    },
+    {
+      "name": "メリッサ",
+      "text": "　　　　よっと！",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "　　　　よっと！"
+    },
+    {
+      "name": "メリッサ",
+      "text": "　　　　見て見て\n『エアメリッサ82』！\n　　　　\nかわいさと踏みやすさにこだわったら、\n　　　　歩き辛すぎた♪",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "　　　　見て見て\n『エアメリッサ82』！\n　　　　\nかわいさと踏みやすさにこだわったら、\n　　　　歩き辛すぎた♪"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "　　　　……会場にいたみなさんは、\n無事ですか？",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "　　　　……会場にいたみなさんは、\n無事ですか？"
+    },
+    {
+      "name": "メリッサ",
+      "text": "　　　　無視じゃん……\nま、\nいいや。",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "　　　　無視じゃん……\nま、\nいいや。"
+    },
+    {
+      "name": "Melissa",
+      "text": "...Hmm, for now, I guess. I'm going to exterminate your loyalists to set an example. Wanna see?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……んー、\n今のとこはね。\nこれから見せしめに駆除すんの。\nあんたも見たい？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...!? Please stop at once...!! What did they do to you...!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っ！？　\nやめてください……っ！！\nみなさんが何をしたっていうんですか……！"
+    },
+    {
+      "name": "Melissa",
+      "text": "I've just told you, I have to set an example. ...Now, here's a question! What is the most effective way to make a ruler's position stronger?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "だから言ってんじゃん、\n見せしめだって。\n……\nさてここで問題です！\n人を強くするのに一番効果的なものはなんでしょう？"
+    },
+    {
+      "name": "Melissa",
+      "text": "Answer number one: Fear! Number two: Fear! Number three: Fear! And so the right answer was... \"Fear\"!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "①恐怖　\n②きょうふ　\n③キョーフ\n──正解は\n恐怖でしたーっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Using fear to tie people down to your rule... That's just wrong!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……恐怖で人を縛るなんて、\nそんなの間違ってます……！"
+    },
+    {
+      "name": "Melissa",
+      "text": "Really? But, but... The Melissa Empire is doing amazing right now♪ Everyone's working their hearts out☆",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "そう？　\nでもでもメリッサ帝国、\nただいま絶好調よ？\nみーーんな一生懸命働いてくれてるもん。\nやっぱ強さ＆恐怖が大優勝案件でしょ☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "History disagrees with you... There are many countries in Landosol, but no country has ever seen a reign of terror flourish.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "歴史はそうは言っていません……\nこのランドソルにも多くの国がありますが\n恐怖政治が栄えたためしはありませんよ。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Ahaha♪ History is just the past! Just because no one's done it before doesn't mean no one ever can. Don't you think that kind of thinking is... weak?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "あはっ♪　\n歴史ってのは過去なわけ！\n今まで誰もできなかったから、\nこれからも誰もできないなんて、\nよわよわな考えだと思わない？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Perhaps. But at the very least, you won't be the one to prove it right. We will stop you.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……\nそうですね。\nですが少なくとも、\nそれを成し遂げるのはあなたじゃありません。\nわたしたちが、\n絶対に阻止しますから。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A country built on fear... it just shouldn't exist.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "恐怖の上に成り立つ国なんて、\nあっちゃいけないんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A country is a place where people live their lives, work hard each day, receive blessings, eat good food and end the night with gratitude and care for one another... That is what a country should be built upon!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "国民みなが懸命に日々を営んで、\n恵みを得て、\nおいしいごはんを食べて\n感謝と労わりと共にその日を終える……\nそれが国という場所なんです。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Kyahahaha! Now that's what I call THE ultimate pacifist♪ But in the end, that naivety of yours couldn't protect your country. Your precious friends are on the verge of execution. So... am I still wrong?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "きゃはははっ、\nThe・平和主義だっさ♪\nでもさ、\nあんたは結果的に、\nこうして国を守り切れなかった。\n大事なお仲間は処刑目前。\nそれでもあたしが間違ってんのかな？"
+    },
+    {
+      "name": "Melissa",
+      "text": "Without power, you can't rule a country. ... Ah, but you're different. You DO have power, you just chose to give it up of your own accord.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "力がなきゃ、\n国は治められない。\n……あ、\nあんたは違うか。\n力があるのに自分から放棄してるんだった。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Hey, can I ask you something? About this thing I confiscated... About \"Gula\".",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "ね、\nいっこ聞いていい？\n没収してたコレ──\n『暴食』のこと。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Kh. That's...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "…………\nそれは。"
+    },
+    {
+      "name": "Melissa",
+      "text": "...Hey, why aren't you using this? If you had used it back then... wouldn't you have put up a good fight against me?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……ね、\nなんであんたこれ使わないの？\nあの時使ってたらさ。\nあたしといい勝負できたんじゃね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I can't use it. That thing... I never could.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……\n使えません。\nわたしには、\nとても。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That sword... it steals and consumes the power others have. Sacrificing someone for my own strength... I can't do that...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "その剣は、\n他人の力を食べちゃうから。\n強さのために誰かを犠牲にするなんてこと\nわたしにはできません……"
+    },
+    {
+      "name": "Melissa",
+      "text": "............Gweh.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "…………\n……ぐえ。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Crap, that was so disgusting I almost threw up some honey. ...I really do hate you. I hate you so much. By far the most out of all the Princesses.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "やっば、\n気持ち悪くてハチミツ吐くとこだったわ。\n……\nやっぱあたし、\nあんたのことがキライ。\n大キライ。\nプリンセスの中でもダントツで。"
+    },
+    {
+      "name": "Melissa",
+      "text": "...As the Princess of a country, you stand above others. And with your \"Royal Family's Equipment\" you're granted an immense power that only a chosen few can possess which makes it possible. You were born with it.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……一国のプリンセスとして人の上に立つ立場。\nそしてそれを可能にする\n強大な力を持った『王家の装備』\n選ばれた者しか持てないものを、\nあんたは持って生まれてきた。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Without even trying to use that power properly, you think you can rule with some soft, half‑baked idea like \"loyalty\"!? You should lick the honey off the gr~...",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "その力を正しく使おうともせず、\nチューセー心とかいう生ぬるい価値観で、\n国を治めようっての！？\n舐めんのはハチミツだけにしとけ──"
+    },
+    {
+      "name": "Melissa",
+      "text": "......Kh! Uuu......!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……っ。\nうう……っ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Melissa-san? Is something wrong with...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……\nメリッサさん？\nどこか具合が……？"
+    },
+    {
+      "name": "Melissa",
+      "text": "*sigh*... It's none of your business. I won't lose... NEVER...!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "ふう……\nあんたに関係ない。\nあたしは負けない……\n絶対に……っ！"
+    },
+    {
+      "name": "Melissa",
+      "text": "I won't make the same mistake as you. ...Dear Mother.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "あなたと同じ轍は踏まないわ。\n……お母さま。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "Melissa",
+      "text": "...Ah! ...Now then, it's about time for execution☆ You wait here. Quietly.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……っ！\n……\nさーて、\nそろそろ駆除の時間ね☆\nあんたはここで待ってなさいね、\nおとなしく。"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "メリッサさん！！\n待ってください、",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "メリッサさん！！\n待ってください、"
+    },
+    {
+      "name": "Pecorine",
+      "text": "......Kh! Just what... should I do......?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……っ。\nどうすれば……\nわたしは……っ。"
+    },
+    {
+      "name": "Melissa",
+      "text": "...But you're different. You DO have power, you just chose to give it up of your own accord.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "あんたは違うか。\n力があるのに自分から放棄してるんだった。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I know that... Better than anyone else... I really do...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "分かってます……\nそんなこと……\n分かってるんです……っ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Lady...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "────\n──さま……"
+    },
+    {
+      "name": "？？？",
+      "text": "...Lady Pecorine...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──……リーヌさま……"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "Sorry to keep you waiting, everyhoney! Melissa-tama has arrived!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "みなたまお待たせハニ～～！\nメリッサたまのご登場ハニっ！"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "Which is why, finally... e-execution time can start, honey!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "そんなわけでついに！　\n処刑を執行しちゃうハニ！"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "F-F-First up... let's start with the one who shows the least guilt, the machinefolk, Croce-tama...",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "まま、\nまずは\n一番罪悪感の少ない、\n機械のクローチェたまから……っ。"
+    },
+    {
+      "name": "Anemone",
+      "text": "Cr-... Croce-san...",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──クッ──\nクローチェさん──……"
+    },
+    {
+      "name": "Croce",
+      "text": "...Pi... pipi...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……ピ……\nピピ……"
+    },
+    {
+      "name": "Croce",
+      "text": "...Lady Lyrael. I'm... sorry...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……ライラエルさまっ。\nすみま、\nせ……"
+    },
+    {
+      "name": "Melissa",
+      "text": "GO AHEAD AND DO IT!!!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "やっちゃえっ！！"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "O-Okay, honey...! I-I-I'll just do it! C-Croce-tama, prepare yourselffff...!!!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "わ……\n分かったハニ……！　\nええい、\nママよ！\nクローチェたま、\nご覚悟ぉぉ～～～っ！！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "WHITE LIGHTNING NIGHT SKY!!!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "白雷夜天！"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "HOGYAAAAAAHHHHH!!?",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "ほぎゃわぁぁぁ～っ！！？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Croce! To not give up hope in such despair and call out for me, I am overjoyed.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "クローチェ。\n希望を捨てず、\nよく待っていてくれましたね。"
+    },
+    {
+      "name": "Croce",
+      "text": "...! Lady Lyrael...!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……っ。\nライラエルさま……っ！"
+    },
+    {
+      "name": "People of Gio Teogonia",
+      "text": "UOOOOH! LADY LYRAEEEEEL!!!",
+      "choice_data_list": [],
+      "orig_name": "ジオ・テオゴニアの民たち",
+      "orig_text": "うおおおおっ！！\nライラエル姫～～～っ！！！"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Transformation: Vajra Palm",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "滅裂万化・\n輪廻転掌。"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "HONGEEEEEEEEEEEHHHHHHH!!?",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "ほんげぇぇぇ～っ！！？"
+    },
+    {
+      "name": "Anemone",
+      "text": "...! Even though I'm your Chevalier... I was... worthless...",
+      "choice_data_list": [],
+      "orig_name": "アネモネ",
+      "orig_text": "──っ。\n近侍なのに──\n不甲斐ない、\nです──"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "All is well. As a flower borne of my castle, you withstood the wind and rain without withering or being picked, which is truly fortunate.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "事も無し。\n我が城の花、\n枯れず摘まれず\n風雨に耐え抜いた次第、\n誠幸い也。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Now then, dear Mone. It is high time to turn the tables. Let us raise the flames of our counterattack.",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "──扨てモネや。\n捲土重来を期すは今。\n反撃の狼煙を上げようぞ。"
+    },
+    {
+      "name": "People of Gio Gehenna",
+      "text": "UOOOOOOHHHHH!!! PRINCESS NEPHY NELLAAAAA!!!!",
+      "choice_data_list": [],
+      "orig_name": "ジオ・ゲヘナの民たち",
+      "orig_text": "うおおおおっ！\nネフィ＝ネラ媛～～～っ！！"
+    },
+    {
+      "name": "Violet",
+      "text": "Grace... Thank you for waiting.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "グレイス……\nお待たせしました。"
+    },
+    {
+      "name": "Grace",
+      "text": "...Princess Violet. For causing you such plight... I humbly apologize.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……ヴァイオレット姫。\nお手を煩わせてしまい、\n申し訳ありません。"
+    },
+    {
+      "name": "Violet",
+      "text": "Nothing of the sort, there is much I am indebted to you for. I will not allow you to die on my watch until I return the favor.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "いいえ。\nあなたには\nまだまだ恩がありますから。\n全てお返しするまで\n死ぬことは許しませんよ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Hehe, then you don't have to worry. I'm already dead.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ふふっ、\n安心してください。\n死んでますので。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Thank you...! I knew and believed you'd come back for us.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あ\nりがとう……！\nきっと来てくれるって信じてた。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Hehe, seriously... you sure took your time. Don't make me wait so... Ugh. Ouch... I'm still poisoned...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ふふっ、\nったく\n遅いってのよ。\n待たせてんじゃ……\nううっ。\nいったた……\nまだ毒が……"
+    },
+    {
+      "name": "Lyrael",
+      "text": "...We are back for you. Prepare yourself, \"Prison Bee\".",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "……戻ってまいりましたよ。\n覚悟はいいですね、\n『獄蜂』。"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "T-This is bad, honey!! Melissa-tama, run away!!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "ヤ……\nヤバいハニっ！！\nメリッサたま\n逃げるハニっ！！"
+    },
+    {
+      "name": "Melissa",
+      "text": "............Kyaha.",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "…………\n……きゃはっ。"
+    },
+    {
+      "name": "Melissa",
+      "text": "KYAHAHAHAHAHA! YOU IDIOTS!!!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "きゃはははははっ！\nバーカッ！！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Eek...!",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "ひ……っ！"
+    },
+    {
+      "name": "Melissa",
+      "text": "Anyone who acts on their own... will be punished♪ I wonder if I can get a good shot from here with my nail gun!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "勝手な行動するやつは──\nお仕置きだよ♪\nネイルガン当たるかな～っ。"
+    },
+    {
+      "name": "Melissa",
+      "text": "It seems the tough Gehenna guys endured it with sheer willpower, but what about those frail slaves from Teogonia? ...TAKE THIS!!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "がんじょーなゲヘナ連中は\n根性で耐えてたみたいだけど、\nテオゴニアのドレイちゃんはどうかな？\n……\nそれっ！！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "...! STOP AT ONCE!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "おやめなさい！"
+    },
+    {
+      "name": "Lyrael",
+      "text": ".........!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "っ\n…………！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "...Eh...? Lady... Lyrael?",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "…………え……？\nライラエル、\nさま？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "You are not hurt, right? Thank goodness... Now, get somewhere safe.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "怪我はありませんね？　\nよかった……\nさあ、\n早く安全な場所へ。"
+    },
+    {
+      "name": "Melissa",
+      "text": "Kyahahaha! What a massive success!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "きゃはははっ！　\n大成功！"
+    },
+    {
+      "name": "Melissa",
+      "text": "I mean, you're such a big idiot to fall for such an OBVIOUS trap! It's unthinkable that the head of a country would risk her life to save her vassals and citizens!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "ってかバカすぎ！　\nこんな見え見えの罠にかかるなんて！\n家来や国民助けるために\n国のトップが命張るとかありえないから！"
+    },
+    {
+      "name": "Melissa",
+      "text": "...It's the exact same situation like when you fought my Slave Dragon. If those weaklings are in danger, you simply can't fight. Once again, I've made sure this field was full of slaves♪",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……こないだのドレイドラゴンの時と同じだよ。\nあんたたちはこいつらを犠牲に戦うことはできない。\nドレイだらけのフィールド再び、\nってね♪"
+    },
+    {
+      "name": "Melissa",
+      "text": "Do you understand now? YOU are the ones who better be prepared for this! Kyahahaha!!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "分かった？\n覚悟すんのはあんたらよ！\nきゃははははっ！！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "Ahh...! Because of a lowly being like me...! Even Lady Lyrael got poisoned...!",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "ああっ、\n私なんかのせいで……っ！\nライラエルさまにまで、\n毒が……っ！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "...Hehe.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "────ふふっ。"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Put your worries at rest. I had prepared for this ahead of time.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "ご安心を。\n事前に備えをしてきていますから。"
+    },
+    {
+      "name": "Honey Honey-chan",
+      "text": "HOGYAWAH?! She stood up, honey bunny?! Melissa-tama's poison isn't working?!",
+      "choice_data_list": [],
+      "orig_name": "ハニハニちゃん",
+      "orig_text": "ほぎゃわっ！　\n立ち上がったハニバニっ！？\nメリッサたまの毒が効いてないっ！？"
+    },
+    {
+      "name": "Melissa",
+      "text": "No no no no... what's going on here!? After being poisoned so much, you can still stand up!?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "いやいやいやいやいや、\nどういうことっ！？\nあんだけ毒くらって、\nまだ立ち上がれるわけ！？"
+    },
+    {
+      "name": "Lyrael",
+      "text": "KNIGHT! Follow my lead and charge Croce up!!",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "騎士！\nわたしと共に、\nクローチェの充填を！！"
+    },
+    {
+      "name": "Croce",
+      "text": "...Yes... The virus... ...was exterminated... ...so... What happens next...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……は、\nい……\n機械毒は……\n駆除、\nできた、\nので……\nあと、\nは──"
+    },
+    {
+      "name": "Croce",
+      "text": "Aaaall right, rapid recharge complete! Thank you very much! Now, here I go!! MEGATON... ULTRA...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "──よーし、\n急速充填完了ですっ！　\nありがとうございますっ！\nそれじゃいきますよーっ！！\nメガトン……ッ！　\nウルトラ……ッ！！"
+    },
+    {
+      "name": "Croce",
+      "text": "ROCKET PUUUUUUUUUUUUUUUUUNCH!!!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ロケットパーーーンチッッ！！！"
+    },
+    {
+      "name": "Melissa",
+      "text": "Hehe, where are you aiming? Your FCS (Frame Check Sequence) is broken!",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "ふふん、\nどこ狙ってんの？\nFCS壊れてんじゃ──"
+    },
+    {
+      "name": "Melissa",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "……っ！？"
+    },
+    {
+      "name": "Croce",
+      "text": "Alriiiight, I've smashed the outer wall right open! Now everyone, evacuate from here!!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "よーし、\n外壁粉砕できましたっ！\nさあみなさん、\nここから避難をっ！！"
+    },
+    {
+      "name": "Giant Man",
+      "text": "...Okay! Let's get out of here!",
+      "choice_data_list": [],
+      "orig_name": "巨人族の男性",
+      "orig_text": "……よしっ！\nみんな逃げるぞっ！"
+    },
+    {
+      "name": "Kobold Man",
+      "text": "But...! To leave Lady Lyrael behind like this...!!",
+      "choice_data_list": [],
+      "orig_name": "コボルトの男性",
+      "orig_text": "でも、\nライラエルさまを置いてなんて……！！"
+    },
+    {
+      "name": "Halfling Woman",
+      "text": "...That's wrong! If we stay behind like this, we'll just get in the way of their fight...!",
+      "choice_data_list": [],
+      "orig_name": "ハーフリングの女性",
+      "orig_text": "……違うっ！\n私たちがいたら姫さまたちの邪魔になるわ……！"
+    },
+    {
+      "name": "Croce",
+      "text": "Lady Lyrael! Me and the other Chevaliers will lead the evacuation from here! Can we leave the \"Prison Bee\" to you?!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ライラエルさまっ！\nわたしはシュヴァリエのみなさんと避難誘導をっ！\n『獄蜂』はお任せしちゃっていいですかっ！"
+    },
+    {
+      "name": "Lyrael",
+      "text": "Of course. I am counting on your efforts, Croce.",
+      "choice_data_list": [],
+      "orig_name": "ライラエル",
+      "orig_text": "もちろんです。\nそちらは頼みますよ、\nクローチェ。"
+    },
+    {
+      "name": "Nefi-Nera",
+      "text": "Now then. The time for your punishment has arrived, accursed \"Prison Bee\".",
+      "choice_data_list": [],
+      "orig_name": "ネフィ＝ネラ",
+      "orig_text": "扨て──\n仕置きの時間ぞ、\n『獄蜂』や。"
+    },
+    {
+      "name": "Violet",
+      "text": "Of course, I too will join this fight. Using my \"Compassion\", I shall stop you.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "もちろんわたくしも。\n慈しみの心を持って、\nあなたを止めます。"
+    },
+    {
+      "name": "Violet",
+      "text": "Prepare yourself...!",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "お覚悟を……！"
+    },
+    {
+      "name": "Melissa",
+      "text": "...Things got pretty bad, didn't they?",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "…………\n……やばくね？"
+    }
+  ]
+}

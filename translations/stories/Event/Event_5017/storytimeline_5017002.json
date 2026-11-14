@@ -1,0 +1,535 @@
+{
+  "title": "Watcher in the Shadows",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Just a few days after their arrival at the Sarendia Orphanage,\nEmilia and her companions are already getting along well\nwith the other residents.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【サレンディア救護院】で生活するようになって数日、\nエミリアたちはすっかり救護院のメンバーと打ち解けて過ごしていた。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Mmm, the weather still looks lovely!\nA perfect day for shopping!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ん～、\n今日もすごーく良い天気！\n絶好の買い物日和ね！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, you are right, my lord.\nIt seems Miss Emilia has become well accustomed to life in this world.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい、\nそうですね、\n主さま。\nエミリアさまも、\nこちらの生活にだいぶ慣れてくださったようです。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes, I'm ever so grateful.\nThis is all thanks to the lovely people at the Sarendia Orphanage\nand all of you who so kindly introduced us to them!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ、\nホントに感謝してるわ。\nそれもこれも、\n良くしてくれる【サレンディア救護院】のみんなや、\nサレンさんたちを紹介してくれたコッコロちゃんたちのおかげね！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Thank you so much! Good girl, good girl~! ♪",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "すごーくありがと。\nいい子いい子♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "E-ehm... Please do not pat my head.\nWell, I suppose I do not dislike it, but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\nあの……\n頭を撫でないでください。\nいえ、\n別に嫌というわけではないのですが……"
+    },
+    {
+      "name": "Rem",
+      "text": "Just look, dear sister.\nMiss Emilia has become so attached to Miss Kokkoro.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "見てください、\n姉様。\nエミリア様、\nすっかりコッコロ様がお気に入りですね。"
+    },
+    {
+      "name": "Ram",
+      "text": "Well, their race and even appearances are so similar.\nShe must feel as if she has a new little sister.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "同じエルフで、\n髪や瞳の色まで同じなんだもの。\n妹ができたような気分になっても不思議はないわ。"
+    },
+    {
+      "name": "Ram",
+      "text": "As a fellow elder sister, I understand...\nHaving a sweet little sister is the greatest happiness in the world.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "姉力の高いラムには分かる……\nかわいい妹のいる姉とは、\n世界で最も恵まれた存在よ。"
+    },
+    {
+      "name": "Rem",
+      "text": "No, dear sister. That isn't quite right.\nThose who have a wonderful elder sister are the happiest of all.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "いいえ、\n姉様。\nそれは違います。\n素敵な姉様のいる妹こそ、\n世界で一番の幸せ者です。"
+    },
+    {
+      "name": "Ram",
+      "text": "My, you've become assertive, Rem.\nHow adorable.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "あら、\n言うようになったわね、\nレム。\nかわいいわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Oh, dear sister...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "姉様……"
+    },
+    {
+      "name": "Saren",
+      "text": "Well, well, everyone.\nAren't you just having the sweetest conversation.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あらあら、\nあんたたち。\n往来でずいぶんと仲良しなのね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh—Miss Saren?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あれ、\nサレンさん？"
+    },
+    {
+      "name": "Saren",
+      "text": "Hello, Emilia. Ram and Rem, too.\nIt's nice to see you're getting along with our Kokkoro.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "はあい、\nエミリア。\nそれにラムとレムも。\nコッコロとは仲良くしているみたいね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, yes. We're all such good friends! Right?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ。\n私たち、\nすごーく\n仲良し。\nね？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I-I think I asked you to stop patting my head...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\n頭を撫でるのはやめてくださいと……"
+    },
+    {
+      "name": "Saren",
+      "text": "Lovely. Friendship is a beautiful thing!\nI'm glad you're getting along so well with the kids as well.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "うんうん、\n仲良きことは美しきかなってね。\nうちの子たちにも良くしてくれてるみたいで助かってるわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "We are so lucky to be guests at your orphanage.\nMiss Suzume and the children have made us feel very welcome.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "レムたちは救護院のお世話になっている立場ですから。\nスズメ様や子供たちにも仲良くしていただいています。"
+    },
+    {
+      "name": "Ram",
+      "text": "Suzume is such a klutz, it's always entertaining.\nI don't know how she used to manage without Rem to help her.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "スズメは危なっかしくて、\n見ていて飽きないわ。\nレムが手伝う前、\n救護院はどう回っていたのかしらね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Ayane and Kurumi often help out as well.\nBut since you all arrived, Suzume's been working extra hard.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "普段はアヤネやクルミが手伝ってたのよ。\nでも、\nあなたたちがきてからは\nスズメも張り切ってるみたい。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, about that...\nI, ehm... heard Miss Kurumi lamenting the recent increase\nin broken plates and charred pans...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それでなのですね……\nその……\nクルミさまが割れる皿や焦げる鍋が\n増えたと嘆いておられまして……"
+    },
+    {
+      "name": "Rem",
+      "text": "M-Miss Suzume has been doing her very best...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "す、\nスズメ様は\n一生懸命な方ですから。"
+    },
+    {
+      "name": "Emilia",
+      "text": "But thanks to her, Ayane and Kurumi are both so reliable!\nIt's amazing how good they are at cooking and cleaning for their age!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nおかげでアヤネちゃんもクルミちゃんもしっかりさんよね。\nあんなに小さいのに料理も掃除もできて、\nすごーくお利口！"
+    },
+    {
+      "name": "Emilia",
+      "text": "None of the children are scared of me, either...\nI know it's not the time, but I feel so happy here.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "子供たちも私を怖がらないでくれるし……\nそんな場合じゃないのに、\n私、\nちょっぴり幸せなの。"
+    },
+    {
+      "name": "Saren",
+      "text": "Timing doesn't matter when it comes to happiness.\nIf you feel comfortable, isn't that more than enough?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "幸せになるのにタイミングなんて関係ないわよ。\nエミリアが楽しくて幸せなら、\nそれだけで十分なんだから。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, Miss Saren...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "サレンさん……"
+    },
+    {
+      "name": "Saren",
+      "text": "It makes me happy too, hearing such praise for my kids.\nFeel free to stay as long as you like.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あたしも、\nあの子たちを褒めてもらえて嬉しいしね？\nいつまでだっていてくれて構わないわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "I don't like to let race sway me too much,\nbut there's nothing wrong with us elves sticking together, is there?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "同じエルフのよしみってわけじゃないけど、\nエルフ同士、\nそんな風に助け合ったっていいでしょ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well said, Miss Saren.\nMy lord and I admire your attitude.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ご立派です、\nサレンさま。\nわたくしや主さまも、\n感服しております。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes, you made me feel a lot better.\nYou're an amazing person, Miss Saren.",
+      "choice_data_list": [
+        "That's our Mama Saren!",
+        "She's done so much for us, too."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "ん。\nすごーく勇気づけられちゃった。\nホント、\nサレンさんってすごいのね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Oh, don't you start calling me that too.\nI'm still only seventeen, you know!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あんたまでママって呼ばないでよね。\nあたし、\nまだ17歳よ？"
+    },
+    {
+      "name": "Emilia",
+      "text": "S-seventeen... I need to work much harder...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "じ、\n17歳……\n私、\nもっとがんばらないと……"
+    },
+    {
+      "name": "Saren",
+      "text": "Oh, don't you start getting all polite.\nIt's no big deal. We're basically family at this point.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あら、\nあんたまで改まったこと言っちゃって。\nいいのよ。\nもう、\n家族みたいなものなんだしね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ahh... Family... A fine word indeed.\nI can only pray that my lord and I too might share such a deep bond.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おお、\n家族……\n素晴らしい言葉です。\nわたくしと主さまも、\nそれぐらい深い絆で結ばれたいものです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Still, I must say, Miss Saren,\nit is rare to see you at this hour of the day.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それにしても、\nサレンさま。\nこんな時間にいらっしゃるなんて珍しいですね。"
+    },
+    {
+      "name": "Saren",
+      "text": "I was called to take care of something at Nightmare...\nBut I just had to drop in here on the way, to see all your faces.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ちょっと【王宮騎士団（NIGHTMARE）】にお呼ばれしちゃってねー\n途中、\n救護院のみんなの顔が見たくて\n寄り道してきたとこ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Nightmare...? Are you an important person from the palace?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "王宮……\nサレンさんはお城の偉い人なの？"
+    },
+    {
+      "name": "Saren",
+      "text": "Well, I wouldn't go that far.\nI used to be Nightmare's vice-captain, that's all.\nSo they still call me in to take care of things sometimes.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そういうわけじゃないんだけどね。\n【王宮騎士団（NIGHTMARE）】で副団長をやってたの。\nその関係で、\n今でも何かあると呼び出されることが多くて。"
+    },
+    {
+      "name": "Saren",
+      "text": "It seems recently, in a village near Landosol,\nthere've been a few incidents involving\nstrange sightings and disappearances.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "なんだか最近、\nランドソルの近くの村で、\n人が行方不明になったり、\n変な目撃例がいくつもあるらしいのよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Nothing too awful has happened just yet,\nbut we can't wait for that, can we?\nSo I've been called to help look into it.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "今はまだ大きな騒ぎになってないけど、\n何かあってからじゃ遅いでしょ？\nそれで、あたしにも\nお声がかかったってわけ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Disappearances, and strange sightings...\nHey, Ram, Rem. You don't think this could be...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "行方不明に、\n変な目撃例……\nねえ、\nラム、\nレム。\nもしかしてそれって……"
+    },
+    {
+      "name": "Ram",
+      "text": "I quite agree, Miss Emilia.\nIt seems most likely that you're correct.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そうですね、\nエミリア様。\n十中八九、\nラムもそうだと思います。"
+    },
+    {
+      "name": "Rem",
+      "text": "The Sin Archbishop...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "大罪司教……"
+    },
+    {
+      "name": "Saren",
+      "text": "...?\nWhat's the matter, all of you?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "──？\nどうかしたの、\nあんたたち。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Listen, Miss Saren.\nAfter your meeting at the palace,\ncould you share the details with us, too?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あのね、\nサレンさん。\nお城での話し合いなんだけど、\nどんな話があったか後で聞かせてもらえる？"
+    },
+    {
+      "name": "Rem",
+      "text": "The person behind those strange incidents\nmight be one of the same people we're searching for.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "その、\nおかしな事件の犯人が、\nレムたちの探している相手かもしれないんです。"
+    },
+    {
+      "name": "Saren",
+      "text": "Oh? All right, then. Anything for you girls.\nI'll tell you all the details I can share.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そう、\n分かったわ。\nあんたたちのためだもの。\n詳しい話を聞いてきてあげる。"
+    },
+    {
+      "name": "Saren",
+      "text": "But don't do anything rash, all right?\nThat's the one condition I really must set.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ただし、\nそれまで無茶は禁止よ。\nそれがあたしからあんたたちに出す条件。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Mm, all right.\nWe're counting on you, Miss Saren.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ん、\n分かったわ。\nお願いね、\nサレンさん。"
+    },
+    {
+      "name": "Saren",
+      "text": "Excellent. It's a promise!\nThen I'll head off now to the palace.\nYou take care on your shopping trip, as well!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "よしよし、\nいい返事ね。\nそれじゃ、あたしは\n王宮に行ってくる。\nあんたたちも、\n気をつけて買い物してらっしゃい。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Miss Saren is such a splendid person.\nWe're both elves, but I could never be like that...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "サレンさん、\nやっぱりすごーく立派ね。\nおんなじエルフなのに、\n私とは大違い。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please do not allow yourself\nto be disheartened by comparisons with others.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "サレンさまとご自分を比べて、\nそう卑下なさる必要はないかと思います。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Saren is Miss Saren.\nAnd you have your own wonderful points, Miss Emilia.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "サレンさまにはサレンさまの。\nエミリアさまにはエミリアさまの良いところがありますから。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, Kokkoro...\nYes... thank you. That does make me feel better.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "コッコロちゃん……\nうん、\nありがとう。\nなんだか元気が出てきたかも。"
+    },
+    {
+      "name": "Ram",
+      "text": "Our easily satisfied Miss Emilia aside,\nit sounds like word of the Witch Cult has reached the palace.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "立ち直りの早いエミリア様はいいとして、\n魔女教のことは王宮でも話題になっているようね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Disappearances and sightings...\nWhat exactly could the Archbishop be plotting?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "行方不明に目撃証言……\n一体、\n大罪司教は何をたくらんでいるんでしょうか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "I can't answer that, but we should be careful.\nAfter all, we still haven't found any sign of Subaru, either.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それは分からないけど、\n注意しておかなくちゃ。\nそれに、\nスバルの居場所もてんで分かってないんだし。"
+    },
+    {
+      "name": "Ram",
+      "text": "That boy causes problems wherever he goes.\nHe's the king of troublemaking.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "本当に、\nどこにいても迷惑をかける男ね。\nあれは問題行動の王様だわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Being a king of anything is a fine achievement!\nThat's Subaru for you! His potential is boundless!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "どんなことでも王様になるのは良いことです。\nさすがスバルくん、\n伸び代の塊です！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Rem, you certainly are fond of this Master Subaru.\nI can relate. I feel much the same way about my lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "レムさまは、\nそのスバルさまをお慕いしているのですね。\n分かります。\nわたくしも\n主さまへ同じ気持ちでおりますから。"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, Miss Kokkoro!\nI'm so glad to find someone who understands!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はいっ！\n　コッコロ様！\n分かっていただけて嬉しいです！"
+    },
+    {
+      "name": "Ram",
+      "text": "Rem may be my perfect sister,\nbut I will never be able to understand her taste in men.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "レムはかわいい妹だけど、\nバルスを選ぶその趣味だけは理解不能だわ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "At any rate, we should try to find Subaru quickly.\nIt's almost as if he's making sure we don't find him on purpose.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "とにかく、\n早くスバルも見つけてあげなくちゃ。\nなんだか、\nまるで避けられてるみたいに見つからないんだもの。"
+    },
+    {
+      "name": "Ram",
+      "text": "If he doesn't hurry, we might defeat the Archbishop\nand return home to the mansion without him.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "早くしないと、\n大罪司教を倒して\nラムたちだけで屋敷へ帰ってしまいますからね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, silly Ram.\nYou shouldn't be so mean!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "もう、\nラムったら。\nそんなイジワル言わないの！"
+    },
+    {
+      "name": "???",
+      "text": "...",
+      "choice_data_list": [
+        "Hmm...?"
+      ],
+      "orig_name": "？？？",
+      "orig_text": "────"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord? Why did you suddenly stop moving?\nThe others will leave us behind at this rate.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま？\n　立ち止まってどうされましたか？\n皆さまに置いていかれてしまいますよ？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh yes, we should move quickly!\nWe have to finish the shopping Suzume asked of us,\nand get back to help out with work at the orphanage!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そうそう、\nテキパキ動かないと。\nスズメちゃんにお願いされた買い物を終わらせて、\n私たちも救護院の仕事を手伝ってあげなくちゃね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Of course. You can leave all manner of cleaning and cooking to me!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\n掃除に洗濯、\nお料理はレムにお任せください！"
+    },
+    {
+      "name": "Ram",
+      "text": "And I'll keep watch over you as you do it.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そして、\nそれを監督するのがラムの役目ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Kokkoro, will you hurry along with us?\nWe need your help with all this shopping!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ほら、\nコッコロちゃんも行きましょう？\nお買い物、\nすごーく頼りにしてるから。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, of course I will.\nWell then, my lord, shall we?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ええ、\n分かっています。\nでは主さま、\nわたくしたちも。"
+    },
+    {
+      "name": "???",
+      "text": "Whew, that sure was close.\nThought I'd been spotted. That guy's a sharp one...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ふぅ、\n危ねぇ危ねぇ。\n見つかるかと思ったぜ、\n勘のいい奴だな。"
+    },
+    {
+      "name": "???",
+      "text": "Now, this is where things kick off.\nI can't go messing this one up. Fate, I'm coming for ya!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "さて、\nこっからだ、\nこっから……\nしくじってくれるなよ、\n俺。\n運命様、\n上等だ。"
+    }
+  ]
+}

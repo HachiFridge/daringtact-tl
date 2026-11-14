@@ -1,0 +1,614 @@
+{
+  "title": "Dragon Maid",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day... two people visit the Castle of Parfait of 'Gio Teogonia' .",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ある日……\n『ジオ・テオゴニア』の城下町にある二人が訪れた。"
+    },
+    {
+      "name": "Inori",
+      "text": "Hehehe... So this is 'Gio Teogonia', huh? It's just as sweet as I heard from Onii-san...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふっふっふ……\nここが『ジオ・テオゴニア』ですか。\nお兄さんに聞いた通り、\n甘ったるそうな街ですね……！"
+    },
+    {
+      "name": "Inori",
+      "text": "It makes me want to eat at least one of the doors. Oh, there's lots of chocolate around here, and they all looks delicious! Let's see, which side I should eat first~♪",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ドアの一つでも食べてやりたくなるです。\nあ、\nこの辺なんかチョコたっぷりでおいしそうですよ！\nどれどれ、\nガブッと──♪"
+    },
+    {
+      "name": "Kaya",
+      "text": "Wait, wait. Don't do something that can cause trouble. We're not here to pick a fight today, okay?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "待て待て。\n騒ぎ起こすようなことすんじゃねえよ。\n今日はケンカ売りに来たわけじゃないんだからな？"
+    },
+    {
+      "name": "Inori",
+      "text": "Huh?! Really? Knowing Kaya-pii, I thought she'd come to a new world to pick a fight...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "えっ！？　\nそうなんですか？\nカヤぴぃのことだから、\n新しい世界へケンカしに来たのかと……"
+    },
+    {
+      "name": "Kaya",
+      "text": "'That's what I'm here for', is what I'd like to say. However ever since Boss left, we've been so busy with running the guild while being shorthanded... Ugh, I'm so itching for a fight right now..",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そりゃしたいけど、\nそうも言ってらんないんだよ。\nボスがいなくなってから人手不足で、\nギルドの運営に追われてばっかでさ……\nくうう～、\nケンカしてえ……"
+    },
+    {
+      "name": "Kaya",
+      "text": "For now, my first priority is to get rid of labor shortage! According to {0}, there are dragonfolks in this castle.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "けど、\n今は人手不足解消が先だ！\n{0}の話じゃ、\nあの城にドラゴン族がいるらしいからな。"
+    },
+    {
+      "name": "Inori",
+      "text": "So you're here to recruit new members, huh? Now that you said it, I do want my henchmen soon. 'Boss Inori'... What a nice ring to it!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "新メンバーを勧誘しにきたってことですか。\nたしかにあたしも、\nそろそろ子分がほしいところですね。\n「イノリ親分」……\nいい響きじゃねーですか！"
+    },
+    {
+      "name": "Inori",
+      "text": "All right! Then let's go meet our dragon friends! Charge!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "よーし！\nじゃあさっそく\nそのドラゴン族を仲間にしてやるですよー！\n突撃です～っ！！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, hey! I alreaedy told you not to cause troubles, and isn't going through the front door is the exact opposite of that?! We're coming through the back door today!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あ、\nコラ！　\n騒ぎ起こすなって言ってんのに、\n正面からツッコむヤツがいるか！　\n今日は裏口からだ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Geez... Half the reason I had to work so much is because Inori keeps doing whatever she want... Hah... I want to go on a rampage too...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ったく……\n仕事が多い原因の半分くらいは、\nイノリが好き勝手やるせいなんだよなぁ……\nはぁ……\nオレもひと暴れしたいぜ……"
+    },
+    {
+      "name": "Lind",
+      "text": "Wurm. Next is cleaning the reception hall. Let's finish this quickly.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ヴルム。\n次は大広間の掃除よ。\n急いで終わらせましょう。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Hah... How boring...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "はぁ……\nだる……"
+    },
+    {
+      "name": "Inori",
+      "text": "Ah, there they are! Our dragonkin!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "あ、\nいましたです！　\nドラゴン族ですよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Wow, this is the first time I've seen twins. It looks like the two of them are cleaning the room together...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へえ、\n双子なんて初めて見るな。\n二人で部屋の掃除をしてるみたいだけど……"
+    },
+    {
+      "name": "Inori",
+      "text": "Piiiii...! Cleaning reminds me of when the boss used to work me to the bone...! They're being abused by the guys in the castle too, aren't they?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴいぃ……！　\n掃除なんて、\nボスにビシバシこき使われてた頃を思い出します……！\nあいつらも、\n城のヤツらにパシられてるですね！？"
+    },
+    {
+      "name": "Inori",
+      "text": "Wait for me...! My future henchmen! I'll set you free right now!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "待ってろです……！\nおまえたちは未来の子分！\nこのあたしが今、\n自由にしてやりますよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hey, hey. Hold on. We don't know if they're actually working or not, do we? They might be here because they want to...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おいおい。\n待てよ。\nこき使われてるかどうかは、\nオレたちにゃ分かんないだろ？\n望んでここにいるかもしんないし……"
+    },
+    {
+      "name": "Inori",
+      "text": "Huh? But I don't think anyone would want to do the cleaning. They're definitely being made to it! That's how I was!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "えー？　\nでも、\n掃除なんて誰もしたくないはずです。\n絶対やらされてますよー！　\nあたしはそうでしたっ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "That's for you specifically. Just wait and see. I don't know if we'll be able to get her to join us.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そりゃおまえの話だろ。\nいいから、\nまずは様子見だ。\n仲間に引き込めるかどうかな。"
+    },
+    {
+      "name": "Inori",
+      "text": "Ugh... I get it, fine...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "むぅ～……\n分かったです～"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Now then. That said, I need to observe them carefully. Dragonfolks are rare, so they're often trafficked.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……さて\nと。\nとはいえ、\nちゃんと注意して観察しなくちゃな。\nドラゴン族は珍しいから、\n人身売買されることも多いし。"
+    },
+    {
+      "name": "Kaya",
+      "text": "I'll find out what's going on with the maids.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "どんな事情でメイドしてんのか……\n探らせてもらうぜ。\n嬢ちゃんたち。"
+    },
+    {
+      "name": "Lind",
+      "text": "Oh, Wurm! You can't just lazily sweep around like that. There's already a lot of people walking through here, so it's easy to get dusted.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あ、\nヴルム！\nそんな雑に掃き掃除しちゃダメでしょう。\nここはただでさえ人通りが多くて、\n埃が舞いやすいんだから。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "But Nee-san, we're going to have to clean this room again tomorrow, aren't we? We did that already.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "でも、\n姉さんさ。\n明日もこの部屋、\n掃除するでしょ？\nどうせ。"
+    },
+    {
+      "name": "Lind",
+      "text": "You said that, you cut corners yesterday and the day before, didn't you? That's why all this dust is piling up! Today, We're going to clean it thoroughly.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "そう言って、\n昨日も一昨日も手を抜いたんでしょう？\nだからこんなに埃がたまっちゃうの！\n今日という今日は徹底的にやるわよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "*sigh*...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……はぁ……"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmm... She really doesn't like cleaning, does she?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "う～ん……\nあの子、\nやっぱり掃除を嫌がってるですね……！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "No? she's just being a pain, isn't she?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "いや、\n面倒くさがってるだけじゃねえか？"
+    },
+    {
+      "name": "Inori",
+      "text": "That’s not true! She’s doing her job as if she despises it!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そんなことないです！\nあんなに嫌そうに掃除してるですよ！？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Papapapa. Yes, it's over, Nee-san.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ぱぱぱっと。\nはい、\n終わりましたよ？　\n姉さん。"
+    },
+    {
+      "name": "Lind",
+      "text": "Really? Then I'll check it out. The head maid was mad at me for not cleaning properly last time.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "本当に？　\nじゃあチェックするからね。\nこの前もメイド長に\n「掃除が行き届いてない」\nって怒られてたし。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That guy's so loud... And he's a giant on top of that.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あの人、\nうるさいんだよな……\n巨人族なのに。"
+    },
+    {
+      "name": "Lind",
+      "text": "Geez, can you not say things like that? The head maid is also in a position where he has to take responsibility.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "もうっ、\nそういうこと言っちゃダメでしょう？\nメイド長も責任ある立場なんだから。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "You can't deny that he's annoying.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "うるさいことは否定しないんだ。"
+    },
+    {
+      "name": "Lind",
+      "text": "! D-Don't get so haughty like that!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "っ！　\nそ、\nそういう揚げ足をとらないの！"
+    },
+    {
+      "name": "Inori",
+      "text": "Look, look, They're talking about being made to do something by someone they don't like! Even that serious girl looks really dissatisfied, too!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ほらほら、\n嫌なヤツにやらされてるって話してますよ！\nあの真面目ぶってるほうも、\nホントは不満そうな感じです！"
+    },
+    {
+      "name": "Kaya",
+      "text": "She's just complaining.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あれくらい、\nただ愚痴ってるだけだろ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Geez, Kaya-pii! Are you still a member of Dragon Nest? Isn't protecting dragonfolks one of your duties?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "もー、\nカヤぴぃ！\nそれでも【ドラゴンズネスト】ですか？\nドラゴン族の保護も仕事の一つじゃねーですか！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Don't be so loud...! I'm just saying that you won't know until you observe it a little more.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "大きい声出すなって……！\nもうちょい観察しねえと分かんねえって言ってるだけだろうが。"
+    },
+    {
+      "name": "Inori",
+      "text": "Mmmmmmmm...!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "むむむ～……！！"
+    },
+    {
+      "name": "Lind",
+      "text": "Oh... Wurm, wait. The ribbon's crooked... Honestly, you need to wear it properly.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あ……\nヴルム、\n待って。\nリボンが曲がってるわ……\nまったく、\nいつも適当に着てるわね。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Aneki's too fixated on this. No one cares about this.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "姉貴はこだわりすぎ。\nこんなの誰も気にしないって。"
+    },
+    {
+      "name": "Lind",
+      "text": "Wurm... I'm sure you're already aware, but this maid outfit was specially tailor-made for us dragonfolks by Lady Lyrael. You can't wear these clothes messily like that!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ヴルム……\nわかってると思うけど\nこのメイド服は\nドラゴン族の私たちのために、\nライラエルさまが『特注』で用意して\nくださった服なんだから。\nこんな服なんて言っちゃダメでしょう！"
+    },
+    {
+      "name": "Inori",
+      "text": "Pweh?! Kaya-pii, Kayapii...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴぇっ！？\nカヤぴぃ、\nカヤぴぃ……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hm? What is it?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ん？　\nなんだよ？"
+    },
+    {
+      "name": "Inori",
+      "text": "What do you mean, “what is it”...?! Their boss is a good-for-nothing! She forced them to do troublesome cleaning duty, scolded them, made them accept their place, and finally...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なんだよ、\nじゃないですよ……！\nあいつらのボス、\nろくでもないですっ！\n面倒な掃除を押しつけ、\n叱って分からせ、\nあげくの果てに……"
+    },
+    {
+      "name": "イノリ",
+      "text": "ドラゴン族に無理やり特注のメイド服を着せる……\n変態野郎なのですーっ！？",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ドラゴン族に無理やり特注のメイド服を着せる……\n変態野郎なのですーっ！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "E-Eeeh? It does sound like a possible case, but... it depends on how you hear it, right...?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "え、\nええっ？\nたしかに聞こえようによっちゃそうだけど……\n聞こえようによっちゃ、\nな……？"
+    },
+    {
+      "name": "Inori",
+      "text": "What are you even mumbling about at this point?! If we leave something this dangerous unattended, the dragonfolks will be in danger! It would be a disgrace to us as [Dragon Nest]!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "この期に及んでなーにぐずぐず言ってるですかぁ！\nこんなヤバイの放置してたらドラゴン族の危機です！\nあたしたち【ドラゴンズネスト】の名折れですよー！"
+    },
+    {
+      "name": "Inori",
+      "text": "Argh, This is going nowhere! Now that it's come to this, instead of Kaya-pii who has lost her fangs... I'm going to step up to the task; rescue them and run away!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ええい、\nラチ明かねーです！\nこうなったら牙の抜けたカヤぴぃの代わりに……\nあたしがあいつらを連れて逃げるですっ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Wah, Inori?! If they find us out, we'll be... Wait, ah~, she's gone...!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "わ、\nイノリっ！？\n見つかったらまず……\nって、\nあ～、\n行っちまった……！"
+    },
+    {
+      "name": "Inori",
+      "text": "My future henchmen!! It's all right now! I've come to save you!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "未来の子分たちーっ！！\nもう大丈夫ですよ！　\nあたしが助けにきてやったです！"
+    },
+    {
+      "name": "Both",
+      "text": "Eh?\" \"Huh?",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "「えっ？」\n「は？」"
+    },
+    {
+      "name": "Kaya",
+      "text": "Aah, we're exposed...! Inori! Calm down!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あーあ、\n見つかっちまった……！\nイノリっ！　\nちょっと落ち着け！"
+    },
+    {
+      "name": "Inori",
+      "text": "Let go of me, Kaya-pii~! Don't you want to save these poor girls out of the clutches of those evil perverts~?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "放してください、\nカヤぴぃ～！\nド変態の魔の手から、\nこいつらを助けてやりたいとは思わないですか～っ！？"
+    },
+    {
+      "name": "Lind",
+      "text": "Those evil perverts...? Ah...! More importantly, what are you guys doing here?!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ド変態の魔の手……？\nあ……！　\nというかそれより、\n何なんですかあなたたちは！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Sorry...! We have our reasons for this...! But don't worry, we meant no harms against you guys!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ごめん……！\nオレたち、\nちょーっと事情があって……！\n悪気があったわけじゃないんだ！"
+    },
+    {
+      "name": "Inori",
+      "text": "That's right! We're here to rescue our henchmen!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ですです！\nあたしたちは子分たちのことを想って、\n決死の救出に来たですよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Don't make things complicated! Besides, They're not your henchman...!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "話をややこしくすんな！\nてか、\nまだ子分じゃねえっての……！"
+    },
+    {
+      "name": "Lind",
+      "text": "D-Don't move too much! We were cleaning up this place up until now...!",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あ、\n暴れないでください！\nここは今私たちが掃除中で……！"
+    },
+    {
+      "name": "Wyrm",
+      "text": ".........Ah. At your feet.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "…………あ。\n足元。"
+    },
+    {
+      "name": "Kaya＆Inori",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "カヤ＆イノリ",
+      "orig_text": "へ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "The trash I've been collecting, it's a mess now... and your shoes were covered in mud on top of that...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "集めたゴミ、\nぐちゃぐちゃ……\n靴もドロだらけだし……"
+    },
+    {
+      "name": "リンド",
+      "text": "な、\nな……\nなんてことするんですかーっ！！",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "な、\nな……\nなんてことするんですかーっ！！"
+    },
+    {
+      "name": "Lind",
+      "text": "-I explained the situation to Lady Lyrael. She says she'll forgive you for intruding without permission. Please thank her for her kindness, okay?",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "──ライラエルさまに、\n事情を説明してきました。\n無断で侵入した件は許してくださるそうです。\nライラエルさまの恩情に感謝してくださいね？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Sorry... Thanks.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "わりぃ……\nありがとな。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "So? You said you wanted us to join your guild?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "それで？\nあたしたちをギルドの仲間にしたい、\nとか言ってましたけど？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Yeah. That's what I came here for. But that's no longer needed. You guys serve this castle's Princess because you want to, don't you?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ああ。\nそのつもりで来たんだ。\nけど、\nその話はもういいよ。\nおまえたち、\nこの城のプリンセスに望んで仕えてるんだろ？"
+    },
+    {
+      "name": "Lind",
+      "text": "Yes. Lady Lyrael is very kind to me. We are not here because of being kidnapped or as a victim of human trafficking like you were worried about.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "ええ。\nライラエルさまには\nとてもよくしていただいています。\nあなたがたが心配していたような誘拐や\n人身売買で\nここに来たわけではありません。"
+    },
+    {
+      "name": "Kaya",
+      "text": "That's good to hear. Sorry for getting the wrong idea. Come on, Inori, say sorry.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ならよかったよ。\n勝手に勘違いして悪かったな。\nほら、\nイノリも謝れ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Mmm... I'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "むー……\nごめんなさい……"
+    },
+    {
+      "name": "Lind",
+      "text": "It's fine. It's something that Lady Lyrael has forgiven. But...looking for dragonfolks, huh? Sounds like it'll be hard to find them...",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "いえ。\nライラエルさまがお許しになったことなので。\nですが……\nドラゴン族の仲間、\nですか。\n探すのは大変そうですね……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Indeed. We, too, have never met any other dragonfolk besides you guys.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "たしかに。\nあたしらも、\nあなたたち以外のドラゴン族に会ったことありません。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Wow... Dragons are rare here, too. Got it. Thanks. Well, I'll keep searching then.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へえ……\nこっちでもドラゴン族は珍しいんだな。\n分かった、\nありがとう。\nま、\n地道に探すことにするよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "*sigh*, that was a waste of time. Thank you for your time, we'll be going home, then.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ふぅ、\n結局骨折り損でしたね。\n世話になったです、\nじゃああたしたちは帰るですよ。"
+    },
+    {
+      "name": "Lind",
+      "text": "Ah, no. Please wait. I heard from Lady Lyrael, she wants to request something of you.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "あ、\nいえ。\n待ってください。\nライラエルさまから言づてが。\nあなたたちに一つ、\nお願いがありまして……"
+    },
+    {
+      "name": "Kaya＆Inori",
+      "text": "A request?",
+      "choice_data_list": [],
+      "orig_name": "カヤ＆イノリ",
+      "orig_text": "お願い？"
+    },
+    {
+      "name": "イノリ",
+      "text": "な、\nなっ……",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "な、\nなっ……"
+    },
+    {
+      "name": "Inori",
+      "text": "What's with this outfit?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なんですかこの格好はーーーっ！"
+    },
+    {
+      "name": "Lind",
+      "text": "\"Wouldn't you be able to get along with them if they lend you a little help with cleaning duty?\" - Lady Lyrael said. We'd also appreciate it if you could help us out with the cleaning.",
+      "choice_data_list": [],
+      "orig_name": "リンド",
+      "orig_text": "少しお掃除を手伝ってもらったら\n仲良くなれるのでは？\n……と、\nライラエルさまがおっしゃったので。\n私たちも、\n掃除の邪魔をされたぶんは手伝ってもらえると助かります。"
+    },
+    {
+      "name": "Kaya",
+      "text": "I-I don't mind helping out, of course, but... Just because my clothes might get dirty doesn't mean I have to wear this... Ugh, I can't let the gang members see me like this...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "も、\nもちろん\n手伝うのはいいんだけどさ……\n服が汚れるからって、\nこんな格好……\nうう、\nギャング団のヤツらにゃ見せらんねえ……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Over here. There's still some dust left.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……こっち。\nまだ埃残ってますので。"
+    },
+    {
+      "name": "Inori",
+      "text": "Unnngh... I thought I'd make them my henchman, but instead they're working me to the bone...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "うぬぬ～……\n子分にするはずが、\nこき使われるとは……"
+    },
+    {
+      "name": "Inori",
+      "text": "I was just trying to save her!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "あたしはただ\n助けてやろうとしただけなのに～～～っ！！"
+    },
+    {
+      "name": "Kaya",
+      "text": "*sigh*... I'm going crazy...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "は～あ……\n暴れてぇ……"
+    },
+    {
+      "name": "Narration",
+      "text": "Having become maids for the day, Inori and Kaya had to clean the main hall until it was sparkling clean...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一日メイドとなったイノリとカヤは、\n大広間がピカピカになるまで掃除する羽目になったのだった……"
+    }
+  ]
+}

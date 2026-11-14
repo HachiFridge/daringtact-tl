@@ -1,0 +1,845 @@
+{
+  "title": "The Prickly Duo, Peerless",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The Dark Elf and Goblin Lady who had kidnapped Rei activate a cursed barrier and declare the opening of the cursed festival, the \"Cursed Carnival\". The battle between Masters and Slaves is about to begin within...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "レイを奪ったダークエルフとゴブリンレディは呪術結界を発動し、\n呪いの祭典\n『カースドカーニバル』開催を宣言する。\n結界内を舞台にマスターとスレイブの戦いが始まろうとしていた。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "...The cursed festival, \"Cursed Carnival\", huh? This is getting troublesome. The Master and Slaves who survive within the barrier will receive Rei-sama as a prize...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "……呪いの祭典、\nカースドカーニバルですか。\n面倒なことになってきましたね。\n結界内で勝ち残ったマスターとスレイブに、\n景品としてレイ様が……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I will NEVER allow that to happen! Rei-sama is my Rei-sama! Kanon-san! Let's put an end to this festival together! Kishi-san, ummm... you too, please...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "絶対にそんなこと許しません！　\nレイ様は\n私のレイ様なんですから！\nカノンさん！　\n私たちでこの祭りを終わらせましょう！\n……\n騎士さんも、\nその……\nお願いします。"
+    },
+    {
+      "name": "Kanon",
+      "text": "You are snorting very heavily from your nose for whatever reason, but this... \"Rei-sama\"? I do not really care for her. I cannot help but feel put off by your now overly-friendly behaviour.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "なにやら鼻息を\n盛大に噴射してますけど、\nあたくしはその\nレイ様？　\nとやらは別にどうでもいいんですのよね。\n唐突なおナカマ感出されても\nドン引き不可避ですわ～"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "...Kh! This girl really doesn't have any sense of cooperation whatsoever. Well, if she's not planning to cooperate, her loud laughing will just get in our way, so... let's store her away in your magic slate, Kishi-san.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "……っ！　\nほんっと\n協調性の欠片もありませんねこの人。\nまぁでも\n協力しないなら高笑いが邪魔になるだけですし、\n魔札に収納しておきましょうよ\n騎士さん。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Oh dear, jumping to conclusions here, are we not? I never said I would not cooperate! It is a proper lady's duty to give charity to those below her even when there is no reason to do so! Come now, let us hurry, O'Tsumugi-san!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ンもう\n早とちりですわねぇ\n協力しないとは言ってませんわよ！？\n理由がなくても\n下々に施しを授けるのが\n令嬢のたしなみ！\nさぁっ、\nいきますわよ\nおツムギさん！"
+    },
+    {
+      "name": "カノン",
+      "text": "ぐぬぬ……\nやっぱり邪魔ですわね\nあの魔札……！　",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ぐぬぬ……\nやっぱり邪魔ですわね\nあの魔札……！　"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "...TEEEEEEEEI!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "──てぇーいっ！"
+    },
+    {
+      "name": "Slave 1",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "スレイブ１",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Master 1",
+      "text": "Mmm... I can't believe my Slave lost...!",
+      "choice_data_list": [],
+      "orig_name": "マスター１",
+      "orig_text": "ムムゥ……\nまさかうちのスレイブが負けるとは……！"
+    },
+    {
+      "name": "Master 2",
+      "text": "This time I'm up! My Slave is proud of his power!",
+      "choice_data_list": [],
+      "orig_name": "マスター２",
+      "orig_text": "今度はオレだ！\nうちのスレイブは力自慢だぜぇっ！"
+    },
+    {
+      "name": "Slave 2",
+      "text": "For... Master’s sake...!",
+      "choice_data_list": [],
+      "orig_name": "スレイブ２",
+      "orig_text": "マスターの……\nために……！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "This is what happens to those who rely too much on power!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "力自慢な人には、\nこうですっ！"
+    },
+    {
+      "name": "Spectators",
+      "text": "That Slave girl is amazing! She tied up that giant man's body with string!",
+      "choice_data_list": [],
+      "orig_name": "観戦客",
+      "orig_text": "すげぇぞあのスレイブの嬢ちゃん！\nあの巨体を\n糸で縛り上げやがったー！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Phew...! I wonder how many groups we've defeated so far... 5, 6... I think we've defeated quite a few. The rules for this festival are so lax, we don't even know how many groups are participating.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ふぅっ……！\nこれで何組目ですかね……\n５、\n６……\n結構倒したはずですけど。\n何組参加してるかも分からないなんて、\nルールがザルなんですよね。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "The Masters and Slaves taking part in it so far are enjoying it as a contest of strength. There were even spectators... Honestly, the more hyped it gets, the worse it is for us...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "参加してるマスターとスレイブの人たち、\nなんか力比べするのを楽しんでるみたいですし。\n観客までいましたよね……\n盛り上がられても困るのに～……"
+    },
+    {
+      "name": "Kanon",
+      "text": "Aaaaaaaare you done yet? Are you not taking way too long on such a puny little weakling?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "や～\n～\n～\nっと終わりましたの？\nあの程度のおザコに\n時間をかけすぎではなくて？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Kanon-san, if you had helped me, I'd have wrapped this up way earlier.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "カノンさんが手伝ってくれればもっと早く終わったんですけどね。"
+    },
+    {
+      "name": "Kanon",
+      "text": "You want me to fight against an opponent of that caliber, and what is more, shoulder-to-shoulder alongside YOU? As far as jokes go, that one totally whiffed! You need to throw your punch with way more flair and impact, one-two gut-punch! Just like this!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "このあたくしが\nあの程度のお相手に、\nしかも\nアナタと肩を並べて戦えと？\nおジョークにしては\nおフックが足りませんわねぇ！\nもっと\nワンダッ\nフルかつ\nエグりこむように打つべし！　\nですわ～～～！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "\"Throw my punch\", she says. Aren't you using a sword to fight, Kanon-san?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "打つべしって。\nカノンさんが使ってるの剣じゃないですか。"
+    },
+    {
+      "name": "Kanon",
+      "text": "There is no need for me to draw my wonderful sword in a battle of this caliber♪ ...In the first place, it was just a lame weapon forced on me by Nephy...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "この程度の戦いに\n剣など抜く必要ございませんコトよ♪\n……\nそもそもネフィにおしつけられたおナマクラですし……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I don't care, but you'd better fight up next, Kanon-san. Please show us this wonderful one-two gut-punching hook you're so proud of.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "どうでもいいですけど、\n次はカノンさんが戦ってくださいね。\nワンダフルかつエグリこむおフックとやらを見せてくださいよ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "If you insist that hard, I suppose I simply must oblige~? Feast your eyes on the Manticore-style boxing that made me a gladiatorial legend~♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "そこまでお願いするのでしたら\n仕方がありませんわねぇ？\nグラディエーターとして\n猛威を振るった\nあたくし様の\nマンティコア流拳闘術を\nとくとご覧にいれて差し上げますわ～♪"
+    },
+    {
+      "name": "？？？",
+      "text": "...You're all taking part in this festival?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──アンタらも祭りの参加者か？"
+    },
+    {
+      "name": "Kanon",
+      "text": "Yes, that is correct! But too bad for you, Ms. Third-Rate Mob Slave. From now on, you will be knocked out by my fantastic boxing techniques♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ええ\nその通りですわ！　\nしかし残念でしたわね\n三流モブスレイブさん♪\nアナタはこれから\nこのあたくしの\nおファンタスティックな拳闘術で\nＫＯされる運命ですわ♪"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hmm, you're a weird one, but I guess I called out to you. Well, whatever, you look like you'd be easy to hit. Here I come, ORAAA~...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "う～ん、\n変なのに声かけちゃったな～\nまぁいいか、\n殴りやすそうだし。\nいくぜ、\nオラァ──"
+    },
+    {
+      "name": "Kaya",
+      "text": "...AAaahm? The one who's calling me...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "──ん？　\nそっちにいるのって……"
+    },
+    {
+      "name": "Kaya",
+      "text": "I knew it, it's you {0}! I didn't expect to see you here in Gio Gehenna.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "やっぱそうだ！\nこのジオ・ゲヘナで会うとは思ってもみなかったよ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "It’s called the \"Cursed Carnival\" or something, right? Look, the person hiding over there is my Master. I was told that you need a Slave to fight, so I asked for her cooperation.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "カースドカーニバルとかってヤツでしょ？\nほら、\n向こうに隠れてるのがうちのマスター\nスレイブじゃないとダメって言われたから、\n協力してもらってるんだ。"
+    },
+    {
+      "name": "Kaya's Master",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "カヤのマスター",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kaya",
+      "text": "Of course, I'm the only one who's going to fight. That girl has to just watch, that's the contract.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "もちろん戦うのはオレだけ。\nあの子は見てるだけって契約だよ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Is this savage-looking fellow an acquaintance of yours, Lowborn? ...Hmm, quite an unusual one for your clique, is she? I thought all of your associates were just peace-loving Nana-san types.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "こちらのいかにも野蛮そうな方は\n馬ボーンのお知り合いですの？\n……\nふぅん、\nなかなか珍しいですわね？\nアナタの関係者は\nみんな平和ボケした\n頭ナーナさんばかりかと。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huuuh? This new girl has some good eyes on her head! She's always ready to attack. I can't let my guard down. I wonder if she's also the kind to stab you in the back with no hesitation... how interesting.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へぇ？　\nそっちの新顔、\nいい目をしてるね！\nいつでも攻撃を仕掛けてきそうな、\n油断ならない気配だ。\n背後からでも躊躇いなく襲い掛かるタイプ\nかな……\nおもしれえ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Eeehhh... so you can sense the sharp fangs hidden within my nobility. You are quite interesting for a commoner, are you not? Well, you are still nowhere near my level, though.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "へ～え、\nあたくしの\n高貴さの中に潜む\n鋭い牙を感じ取るだなんて\n下々の癖になかなか見どころがおありですわね？\nま、\nあたくしの\n足元にも及びませんケド。"
+    },
+    {
+      "name": "Kaya",
+      "text": "That's fine... so we're gonna get down to business, right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "いいね\nアンタ──\nやる、\nってことで\nいいんだよな？"
+    },
+    {
+      "name": "Kanon",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "What is wrong with this girl...? I suddenly felt the same vibe coming from her as I do from a powerful beast lurking deep in this Gio Gehenna... ...What's more, it seems as if she is hiding some other power...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "なんですのこの方……？\nジオ・ゲヘナの奥地に住まう\nケダモノみたいな気配が\n急に……\n……\nそれも、\nまだ何か隠している力がありそうな──"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Please wait a moment. Before we begin, I just want to confirm something. Kaya-san, as for Rei-sama... are you aiming to obtain the strongest Slave?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "待ってください。\n始める前に確認なんですけど、\nカヤさんもレイ様……\n最強のスレイブを狙ってるんですか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "No, I thought I'd join in since it seems like I'll be able to enjoy some fun fights. The Boss asked me to investigate Gio Gehenna on-site, which means investigating the strength of the residents is also part of the job.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "いいや、\nオレは楽しいケンカができそうだから混ざってみようかな\nって。\nボスからジオ・ゲヘナの現地調査を頼まれてるからさ、\n住民の強さを調べるのも\n調査\nってわけ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, but... the strongest Slave, was it? If I were to get my hands on her, I guess she'd make for a fine fight.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あぁでも、\n最強のスレイブ\nだっけ？\nそれが手に入るなら、\n一戦やってみるのも楽しそうだな。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "カヤ",
+      "text": "冗談。\nキミたちの目的はそっちっぽいし、\n邪魔したりしないよ。\nダチに嫌われたくはないしさ。",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "冗談。\nキミたちの目的はそっちっぽいし、\n邪魔したりしないよ。\nダチに嫌われたくはないしさ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Thennn... Kanon, right? I hope we can have a fun fight!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そんじゃ、\nカノン\nだっけ？\n楽しいケンカができるといいな！"
+    },
+    {
+      "name": "Kanon",
+      "text": "A fun fight is nothing but a mere joke! Only I shall enjoy the pleasure of being the victor!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "楽しいおケンカとはおフザケですコト！\n勝者の愉悦を得るのは\nこのあたくし様だけですわ！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Kanon-san, your sword. Give it to me.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "カノンさん。\n剣、\n貸してください。"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Oh my, are you going to polish it for me? OH HO HO HO♪ It seems you are finally ready to appreciate my skills, are you not, Tsumugi-san?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……あら、\n磨いてくださるんですの？\nヲ～\nッホッホ♪　\nようやく\nアナタもこのあたくしの引き立て役としての\n心構えができてきたみたいですわね\nツムギさん？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I'll take care of this sword for you. Please, go ahead.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "この剣は私が預かります。\nどうぞ、行ってきてください。"
+    },
+    {
+      "name": "Kanon",
+      "text": "WHAT WAS THAAAAAT!? WHAT'RE YOU TRYING TO PULL HERE, YOU TSUNDERE O'PINK!?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ンなんですってぇ！？　\nどういうつもりですのツンデレおピンクッ！？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Wonderful one-two gut-punching hook. Manticore-style boxing. Show us. Come on, hurry.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ワンダフルかつエグリこむおフック。\nマンティコア流拳闘術。\n見せてくださいよ。\nほら\n早く。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Khhh...! You remembered everything down to the details...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "くっ\n……！\n細かいことを覚えてやがりますわね～……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ready, then? I'll be taking the first move!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "もういいかな？\n先手はもらうぜっ──\nオォラァッ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Wait, hold on... Ngh?! So heavy?! What is it with this punch...?!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ちょっ、\nお待ちになってっ……\nんぐっ！？\n重っ、\nなんですのこのおパンチ……！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Heheh, well done! Next up, your body...!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へへっ、\nよく受けた！\n次は\nボディ──！"
+    },
+    {
+      "name": "Kanon",
+      "text": "WHA-...?! Aiming for my beautiful body... Did they not teach you to have some restraint?!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ンのっ！？\nあたくし様の\nビューティッフルな\nおボディを狙うとは、\n遠慮というものが足りないのではなくてぇっ！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huh? You're wearing such exposed clothes, you're basically asking to be hit there, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "え？　\nそんな何もかもがら空きな服着てるんだし、\nいくらでもきやがれ\nってことだろ？"
+    },
+    {
+      "name": "Kanon",
+      "text": "That is completely wrong! There is no way I would wear such an outfit because I like-... Wait, time out! Relentlessly targeting exposed skin is an act that lacks tact!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ゼンッ\nゼン違いますわ！　\nこんな衣装好きで着ているわけが──\nッ、\nちょっ、\nタンマ！　\n執拗に肌の見えている部分を狙うのはっ、\nおデリカシーに欠ける行いですわよっ！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "You're saying that, but you're still trading blows so excellently! That's great, I'm starting to get excited...!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そう言いつつ\nちゃんと受けてるじゃんか！\nいいねぇ、\nたぎってきた……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "EEEK!? I sense a dangerous presence now!? Since things have come to this, I shall have you eat my sweet, deadly poison!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ひ\nっ！？　\nおデンジャラスな気配がしますわっ！？\nこうなったら、\nあたくしの\n甘く\nデッドリィな毒をお食らいあそばせっ！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ah, that's cheating! That girl just used her tail!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "あっ、\nズルッ！\n尻尾使いましたよあの人！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Ah!? My body's going numb...!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ッ！？　\n体が、\n痺れ……っ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "OH HO HO HO, as long as I win, anything is fine! Now bear witness, this is the Manticore style boxing technique: the one-two poisonous gut-punching hook!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ヲ～\nッホッホッ、\n勝ちゃあなんでもいいんですわぁっ！\nご覧あそばせ、\nマンティコア流拳闘術・\nエグりこみおフックですわぁ！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "You're just adding random names to fit the situation, aren't you?! That's cheating... Kishi-san!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "それ辻褄合わせに適当な名前で打ってるでしょっ！？\nさすがにズルですっ……\n騎士さん！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Thank you! ORAAAAAAAAAAAAAAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "サンキューッ！\nオラァァァァァァァァァァッ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "EH?!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "へ！？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Oooh... What a splendid cross counter.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "おおー……\n見事なクロスカウンター"
+    },
+    {
+      "name": "Kanon",
+      "text": "*cough*...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ごふぇ\nえ……！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ugh... Not bad.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "っぐ……\nやるじゃん。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Double knockdown. It's a draw, so no match, I guess.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ダブルノックダウン。\n引き分けにより勝負なし、\nってところですかね。"
+    },
+    {
+      "name": "Narration",
+      "text": "The unconscious Kaya was taken to a safe place by her reclusive Master...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──気絶したカヤは隠れていたマスターにより、\n安全な場所へ連れていかれた……"
+    },
+    {
+      "name": "Kanon",
+      "text": "I cannoooooooooooot believe this, you traitorous Lowborn! You are my Master... No I mean, but you are supposed to be on my side, are you not?! And yet you are strengthening my enemy...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ま～\n～\n～\nったく信じられませんわね\nこの裏切り馬ボーン！\nアナタはあたくしのマスター、\nではありませんが\nあたくしの側だった\nはずですわよね！？　\nそれが敵を強化するなんて……！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "That's your fault for trying to bring poison to a fist-fight in the first place, Kanon-san. \"As long as I win, it doesn't matter!\" isn't the kind of thing someone who deserves to win would say.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "あれは拳と拳の勝負に毒を持ちだしたカノンさんが悪いと思います。\n「勝ちゃあなんでもいいんですわぁっ！」\nって勝っていい人の台詞じゃありませんもん。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Why? I simply cannot understand. Like my fists, this elegant tail is a part of my body.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "なぜですの？\nさっぱりお理解できませんわ。\n拳同様、\nこのエレガントな尻尾は\nあたくし様の体の一部ですし。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ah, this girl... This girl's heart is just...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "あっ\nこの人……\n人の心が……"
+    },
+    {
+      "name": "Kanon",
+      "text": "Why are you now giving me that pitying look?!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "なんですのその哀れみの目は！？"
+    },
+    {
+      "name": "？？？",
+      "text": "Umm...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あの～……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ah! Our next opponent...?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "っ、\n次の相手ですか……っ？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "May this be the correct venue for the festival?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "お祭りの会場は\nこちらで合っているでしょうか～？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "S-S-SADIST-SAN?! Why are you here?! HAH! Are you planning to humiliate Kuuka in this other world too!?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ドド、\nドＳさん！？\nドＳさんこそどうしてこちらに！？\nハッ！　\nもしや\n異世界の地でもクウカを辱めようというのですか！？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Certainly, this Gio Gehenna is full of plants and monsters I've never seen before...! Have your sadistic tendencies been aroused...!?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "確かにこのジオ・ゲヘナには\n見たことのない植物や魔物が沢山……！\nドＳさんの嗜虐心が昂ってしまったのですね……！？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "With his blood boiling like the magma in this land, Sadist-san said: \"Hey Kuuka, let’s show these otherworlders how we play with fire back home...\" And then he slowly started to simmer all over Kuuka’s body...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "この地に流れるマグマのように熱い血潮を滾らせたドＳさんは、\n「おいクウカ、\n異世界の連中に見せてやろうぜ。\n俺たちの世界の\nアブない火遊びを……！」\nと言いながら\nクウカの体をフツフ\nツとォ……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Eh? Who is this girl with such crazy clothes, behavior, openly flaunting her fetishes? Is she some kind of rare animal that lives in your world, Lowborn? She also has a heart shape on her chest. Might she be your sister, Tsumugi-san?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……\nこの服装と言動と性癖が\nおイカレになっている方はなんですの？\n馬ボーンたちの世界に住まう\n珍獣かなにか？\nお胸にハートあいておりますし、\nツムギさんの姉妹なのかしら？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "That's not it, but... it's hard to explain...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "違いますけど……\n説明が……\n難しい……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Um, Kuuka-san? Are you also here to take part in this Cursed Carnival?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "えっと、\nクウカさん？\nあなたも\nこのカースドカーニバルに\n参加しに来たんですか？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Huh? \"Cursed Carnival\"?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "えっ？　\nカースド\nカーニバル？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Why are you tilting your head... Didn't you just ask about the venue for a festival?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "どうして首を傾げるんですか。\nさっき\nお祭りの会場がどうとか聞いてきたじゃないですか？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "No, what Kuuka is looking for is the \"Masochist Carnival\"...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "いえ、\nクウカが探しているのは\n『ドＭカーニバル』ですよ……？"
+    },
+    {
+      "name": "Tsumugi and Kanon",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ツムギとカノン",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Kuuka once came to this world to defeat monsters, and... at that time, she had a very exciting experience...! It was all slimy and sticky...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "クウカ、\n前にこの世界に魔物退治に来たことがあるのですが……\nそのときに、\nとても刺激的な体験をしたのです……！\nヌルヌルで、\nベッタベタな……！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "I couldn't forget that feeling, so I'm back to visit once more... Just now, I heard a loud voice from somewhere announcing that a \"Masochist Carnival\" was going to be held... and I just couldn't stay sitting still...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "その感触が忘れられず、\nもう一度訪れたのですが……\n先ほど、\nどこからか大きな声で\n『なんとかドＭカーニバル』\nを開催すると\n聞こえてきて……\nいてもたってもいられずに……！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I-I see... I don't understand it, but it makes sense. By the way, Kuuka-san, do you have a Master...?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "な、\nなるほど……\n理解はできませんが、\n納得はしました。\nところでクウカさん、\nクウカさんには\nマスターがいますか……？"
+    },
+    {
+      "name": "クウカ",
+      "text": "マスターッ！？　\nこんな場所で\n何ということを聞くのですかぁ！\nそ、\nそうですね……\nクウカの\nマスターといえば、\nもちろん……\nドＳさん、\nですが……",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "マスターッ！？　\nこんな場所で\n何ということを聞くのですかぁ！\nそ、\nそうですね……\nクウカの\nマスターといえば、\nもちろん……\nドＳさん、\nですが……"
+    },
+    {
+      "name": "Kanon",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "…………"
+    },
+    {
+      "name": "ツムギ",
+      "text": "あのカノンさんが黙って軽蔑のまなざしを……！　",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "あのカノンさんが黙って軽蔑のまなざしを……！　"
+    },
+    {
+      "name": "Kuuka",
+      "text": "N-NO WAYYYYY...! After making Kuuka’s body all hot and doing whatever you pleased with it... how could you...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "そっ、\nそんなぁ……！\nあんなにもクウカの体を熱く、\n好き放題にしておいて……！"
+    },
+    {
+      "name": "Kuuka",
+      "text": "HUH?! Don't tell me you're saying: \"Kuuka, you're nothing more than a plaything for me\", after all?! What a sadist! A total psycho! *slurp♪*",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ハッ！？　\nこれはまさか、\n「クウカ、\nお前は所詮俺の遊び道具に過ぎないんだよ」\nということですか！？　\nなんというドＳ！　\n人格破綻者ァ！　\nじゅるり♪"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Ahem. Lowborn. And also, Tsumugi-san? Since I aim to one day be the ruler of this Gio Gehenna, I hope you will not let any other super pervert like this leak out from your world?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……\n馬ボーン。\nそれにツムギさん？\nいずれこのあたくしが治めるこのジオ・ゲヘナに、\nド級の\nド変態を\nド流出させないでいただきたいものですわね？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I'm sorry... we'll send her back right where she came from.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ごめんなさい……\n元の場所に帰してきます。"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Gufu, gufufu...♪ Ah, what is it!? Where are you taking Kuuka by tying her up with thread?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ぐふっ、\nぐふふ……♪\nあっ、\nなんですかっ！？\n糸で縛って\nクウカをどこに連れていくのですか！？"
+    },
+    {
+      "name": "Kuuka",
+      "text": "There's still the MASOCHIST CARNIVAL! My festival of pleasureee...?! Ah, the thread is digging into me! This is good in its own way...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "まだ\nドＭカーニバルがっ！　\n快楽の祭典が～～～～～っ！？\nあっ、\n糸が食い込みますぅっ！\nこれはこれでっ、\nイイ……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Ugh. That said, they just keep piling up.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……\nそれにしても、\n増えましたわね。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Visitors from another world, just like you! You treat this place like some kind of resort!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "アナタがたのような、\n異世界からの来訪者ですわ！\nまるでおバカンスのごとく来ているじゃありませんの。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Just like the two girls I met earlier, every single one of you I have met is a weirdo or a handful... Such a nuisance. Though, of course, no one sparkles with brilliance quite like me!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "先ほど会ったお二人もそうですが、\n一癖も\n二癖もある方ばかり……\nまったく\nいい迷惑ですわ。\nまぁ？　\nあたくし様ほど突出した輝きを放つ者はいませんけれど！"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Hmmm. Lowborn. Answer my next question.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……\n馬ボーン。\nあたくしの質問にお答えなさい。"
+    },
+    {
+      "name": "Kanon",
+      "text": "That Tsundere O'Pink called herself an idol, did she not? Is she famous back in your world?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "あのツンデレおピンクは\n自分のことを\nアイドルとか言ってましたわね？\nそちらの世界では有名なんですの？"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Eeeh. So she really is. How dare she outshine ME. Clearly I will need to make my name known to your world’s rabble as well.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……へぇぇ。\nこのあたくしを差し置いて\n一番とは、\nやはりナマイキですのね。\nいずれそちらの下々にも、\nあたくし様の存在を示さねばなりませんわ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "But, true enough... Although she is a bit of an annoying brat, I do not sense a lowly aura coming from her. I may not want to admit it, but Tsumugi-san has something that catched my attention. ...Oh, and...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "でも確かに……\n口うるさくクソナマイキですが、\n下々オーラは\n感じませんわね。\n認めたくはありませんが、\nツムギさんは\nあたくしの目を惹く何かは持っている。\n……\nああ、\nそれと……"
+    },
+    {
+      "name": "カノン",
+      "text": "ツムギさん……\nど～\n見てもこの馬ボーンをお好きですわよね？\nそれなのにやたらギャアギャアと否定ばかり。\nきっと\nアタマの残念なおバカさんですのね……♪　",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ツムギさん……\nど～\n見てもこの馬ボーンをお好きですわよね？\nそれなのにやたらギャアギャアと否定ばかり。\nきっと\nアタマの残念なおバカさんですのね……♪　"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "...What's with you, suddenly grinning like that while looking at me? Actually, could you stop snorting like that? It goes beyond the annoying stage and makes me want to slap you.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "……なんですか、\nこっち見て急に笑って。\nていうか\nその鼻で笑う感じやめてくれません？\nムカつく段階素通りして引っぱたきたくなりますから。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Quite the weirdo, that Kanon-san. ...Kishi-san, how did you end up getting acquainted with someone like that?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ほんっと変な人ですよね、\nカノンさんって。\n……騎士さん、\nどうしてあんな人と知り合っちゃったんです？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Ah, I don't mind if this'll be a long story. How should I put it, the people here are of a different nature to those back in Landosol...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "あ、\n話が長くなりそうなら別にいいんですけど。\nなんていうか、\nランドソルにいる人たちとは\n毛色が違うというか……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "HEY! SHHHH, SHHHHHH! If you give her a funny evaluation and she hears it, Kanon-san will snap!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ちょっと！　\nシ\nーッ、\nシーッ！\n騎士さんに面白評価くらったら\nカノンさんブチギレますよ？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "But it's true... she's noisy and stupid, but strangely enough, she also has a curious aura around her. She has the determination to keep trying even when she loses. I don't want to admit it, but she'd be a good match as a solo idol... Though her fashion sense is terrible, so maybe that'd be impossible.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "でも確かに……\nやかましくてバカですけど、\n妙に気になるんですよね。\n負けても挑み続ける根性がありますし。\n認めたくはないですけど、\nソロでなら\nアイドルにも……\n服のセンスが終わってるから無理ですね。"
+    },
+    {
+      "name": "Kanon",
+      "text": "...Uhhh? What is it? Why are you looking at me and grinning all of a sudden? Actually, will you cease and stop that at once? It has gone beyond the annoying phase and makes me want to beat you up.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……\nなんですの？　\nこちらを見て急にお笑いになって。\nというか\nその口をニヤつかせる感じやめてくれませんの？\nムカつく段階素通りして\nはっ倒したくなりましてよ。"
+    },
+    {
+      "name": "ツムギとカノン",
+      "text": "…フン！",
+      "choice_data_list": [],
+      "orig_name": "ツムギとカノン",
+      "orig_text": "…フン！"
+    },
+    {
+      "name": "Assailant",
+      "text": "Hey, I found them! Let's go at 'em all at once!",
+      "choice_data_list": [],
+      "orig_name": "襲撃者",
+      "orig_text": "おい、\n見つけたぞ！\n一斉にかかれーっ！"
+    },
+    {
+      "name": "Assailants",
+      "text": "UUUOOOOOOOOOOOHHHHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "襲撃者たち",
+      "orig_text": "うおおおぉーーーっ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Here comes a grandcast of lowlives and weaklings. Well, since I am right here, I will be more than pleased to take the stage away from some lowly idol~♪",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "下々おザコ共のお出ましですわよ。\nまぁ、\nあたくしにかかれば\nどこぞの\nアイドルの出番なんて\nまるごとパクりといただいてしまいますけれど～♪"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Too bad for you~ With such slow steps you won't even get a chance to perform, let alone become a back-up dancer! Don't underestimate idols!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "残念でしたね～、\nそんなノロノロステップじゃ出番を奪うどころか\nバックダンサーにだってなれやしませんよっ！\nアイドル舐めないでくださいねっ！"
+    },
+    {
+      "name": "Tsumugi and Kanon",
+      "text": "I definitely won't get along with this girl.\" \"I shall never get along with this girl!",
+      "choice_data_list": [],
+      "orig_name": "ツムギとカノン",
+      "orig_text": "「絶対に、この人とは気が合いませんね。」\n「絶対に、この方とは気が合いませんわね。」"
+    },
+    {
+      "name": "Narration",
+      "text": "Kanon and Tsumugi. The two of them mow down the attacking Masters and Slaves. Contrary to their feelings, they work in perfect harmony.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カノンとツムギ。\n二人は襲い来るマスターとスレイブたちをなぎ倒してゆく。\n胸の思いとは裏腹な、\n息の合った連携によって。"
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "title": "The Mysterious Love Letter",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A few days after Kyaru and the others transferred in, a new transfer student arrived in the delinquent class.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "キャルたちが編入してから数日たったある日。\nダメ組に新たな編入生がやってきた。"
+    },
+    {
+      "name": "Homeroom Teacher",
+      "text": "Okay then, Introduce yourselves in order-",
+      "choice_data_list": [],
+      "orig_name": "担任",
+      "orig_text": "よし、\nじゃあ順番に\n挨拶してくれー"
+    },
+    {
+      "name": "Eriko",
+      "text": "It's a pleasure to meet you all. My name is Eriko. But you don't have to remember me. I'm not interested in anyone but *you*. Tehehe...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "みなさまお初にお目にかかります。\n私、\nエリコと申します。\nですが別に覚えてくださらなくて結構。\nこのおかた以外に興味はありませんから。\nクスクス……"
+    },
+    {
+      "name": "Rino",
+      "text": "Good morning! I'm Rino! I may not be good at magic, but I'll do my best to improve my eyesight! ...Huh? Do my best? That's what they say!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "おはようございます！　\nリノです！\n魔法は苦手ですけど、\n視力を良くして頑張ります！\n……え？　\n死力を尽くす？　\nそーとも言います！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Everyone at the Academy of Magic. Hold your horses, I am Ninon, that I am, and I have come all the way from a distant foreign land! It is a pleasure to make your acquaintance, Shubha ba-ba-ba!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "魔法学園の\n各々ガタ。\nお控えナスッテ！\n遠く\n異国の地ヨリ馳せ参ジタ、\nニノンでござるデース！\n以後お見知り置きくだサーイ！　\nシュババッ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Another dangerous bunch transferred in... It does seem like a topic of conversation, though.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まーたヤバげな連中が編入してきたわね……\n確かに話題性はありそうだけど。"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Kyahaha~♪ Hello, everyone~♪ This is going to be fun, Hidesai!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "きゃはは～♪　\nみんなヨロ～♪\n楽しくなりそーだね、\nヒデサイ！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Huh? Hidesai?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "あれ？　\nヒデサイ？"
+    },
+    {
+      "name": "Homeroom Teacher",
+      "text": "Okay, so the seats for the three of us are... Wait, hey, you guys, do whatever you want...!",
+      "choice_data_list": [],
+      "orig_name": "担任",
+      "orig_text": "よし、\nじゃあ３人の席は……\nって、\nおいお前ら、\n勝手に……！"
+    },
+    {
+      "name": "Eriko",
+      "text": "You there, please give me your seat. The seat next to Mr. {0}.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "そこのあなた、\n席を譲ってください。\n{0}様の隣の席を。"
+    },
+    {
+      "name": "Male Student 1",
+      "text": "Huh...? No, there are plenty of other seats available...",
+      "choice_data_list": [],
+      "orig_name": "男子生徒１",
+      "orig_text": "え……？\nいや他にも席いっぱい空いてるし……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Just so you know, this isn't a request, it's an order. Please pack your things and leave quickly.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "言っておきますがこれはお願いではなく強制です。\nさっさと荷物をまとめて立ち退いてください。"
+    },
+    {
+      "name": "Male Student 1",
+      "text": "Eek!",
+      "choice_data_list": [],
+      "orig_name": "男子生徒１",
+      "orig_text": "ひっ！"
+    },
+    {
+      "name": "Rino",
+      "text": "Eriko-san, I'm next to Onii-chan~! You should stay close to me too, right? There's a saying that says to keep your cute little sister by your side♪",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あーエリコさん、\nお兄ちゃんの隣は私ですよ～！\nお兄ちゃんも\n私が近くにいた方がいいですよね？\nかわいい妹は側に置けよって格言もありますし♪"
+    },
+    {
+      "name": "Ninon",
+      "text": "I don't know such a saying! It's me next to you! Shogun's right hand is unbreakable!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "そんな格言知りまセーン！　\n隣は\nワタシデース！\nショーグンの右腕は\n譲れマセーン！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Aaah, don't do that! I'm right next to Hidesai!",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "あーダメだよ～！？\nヒデサイの隣は\nうちなんだから～！"
+    },
+    {
+      "name": "Karyl",
+      "text": "What is this.... a harem school development?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何なのよこのハーレム学園展開は！！"
+    },
+    {
+      "name": "Eriko",
+      "text": "We're not getting anywhere, so... Let's decide by breaking each other, Tehehe.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "埒があきませんね、\nそれでは……\n壊し合いで決めましょうか、\nクスクス。"
+    },
+    {
+      "name": "Karyl",
+      "text": "A Battle Royal is starting?! Hey, {0}, don't be quiet and say something!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "バトロワ始まった！？\nちょ、\n{0}黙ってないでなんとか言いなさいよ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm... What's wrong? You've been looking down for a while now? Huh? What is that letter?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん……\nどうしたのさっきから下向いて？\nえ？　\n何よその手紙。"
+    },
+    {
+      "name": "Karyl",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Could that letter from your locker be a....? Eh, can I read it? Th-Then I won't hold back...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ロッカーに手紙って\nもしかして……\nえ、\n読んでいい？　\nじ、\nじゃあ遠慮なく……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Dear, Transfer Student",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "『拝啓、\n編入生の君へ』"
+    },
+    {
+      "name": "Karyl",
+      "text": "From the day I first laid eyes on you, you appear in my dreams every night. If you don’t mind, could you come to the roof after school today? I’ll be waiting until you come.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "『君を一目見た日から、\n毎晩夢に君が出てきます。\nもし良ければ\n今日の放課後、\n屋上に来てくれませんか？\n君が来てくれるまで、\nずっと待ってます』……"
+    },
+    {
+      "name": "Karyl",
+      "text": "\"I wonder what it is\"!! It's totally not a love letter or anything!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何だろうね\nじゃないわよ！！\n全力でラブレターじゃない！！！"
+    },
+    {
+      "name": "Eriko",
+      "text": ".........Huh?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "…………は？"
+    },
+    {
+      "name": "Eriko",
+      "text": "To write a love letter to you without permission is worth a thousand deaths... I will find them and tear them to shreds.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "許可なくあなた様に恋文をしたためるなど万死に値しますわ……\n見つけて八つ裂きにしてあげましょう。"
+    },
+    {
+      "name": "Rino",
+      "text": "Hmm, for someone to do that without his little sister's permission!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "むむむ、\n妹に許可なく告るなんて\n不届き千本ノックです！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Eriko-san, Rino, I'll go with you...! Come on, blow a conch, and let's go!!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "エリコさん、\nリノさん、\nワタシもお供するデス……！\nほら貝吹いて、\nいざ\n出陣デース！！"
+    },
+    {
+      "name": "Homeroom Teacher",
+      "text": "H-Hey, Eriko, Rino, Ninon!! Where are you going? Class is starting!",
+      "choice_data_list": [],
+      "orig_name": "担任",
+      "orig_text": "お、\nおい\nエリコ、\nリノ、\nニノン！！\nどこ行くんだ、\n授業始まるぞ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Even though they were arguing earlier, they united together in an instant...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "さっきまで揉めてたのに\n一瞬で団結した……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Haaah...",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "はあ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "What's wrong, suzuna?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どうしたのよスズナ？"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hmm, I don't know why... I'm happy that there are so many people who like Hidesai, but it's kind of bothering me.",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ん～、\nなんか、\nなんでだろ……\nヒデサイのこと好きな人がいっぱいで、\nそれは\nうれしいことなんだけど、\nなんか\nモヤモヤしちゃうよ……"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Hey, Kyarucchi, why...?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "ねえ\nキャルっち、\nなんでかなぁ……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I... I don't know! Besides, everyone's too shaken up just because he got a love letter!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "し……\n知らないわよ！\n大体みんな、\nこいつがラブレター貰ったくらいで\n動揺し過ぎなのよね！"
+    },
+    {
+      "name": "Suzuna",
+      "text": "Kyarucchi, you're holding your textbook upside down?",
+      "choice_data_list": [],
+      "orig_name": "スズナ",
+      "orig_text": "キャルっち、\n教科書逆さに持ってるよ？"
+    },
+    {
+      "name": "Narration",
+      "text": "And after school",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして放課後──"
+    },
+    {
+      "name": "Karyl",
+      "text": "*sigh* Another day is over! Come on {0}, let's go home!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はー\n今日も終わったわね！！\nさあ{0}、\n帰るわよ！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I can't. ...I don't even know how to get to the dorm without you.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "無理よ。\n……あんたがいないと\n寮までの道も分かんないし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Come on, let's go.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ほら、\n行くわよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I won't allow you to get a girlfriend!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "彼女作るなんて\n許さないんだからね！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I, I mean it's not in a weird way... Gourmet is a guild that takes gourmet seriously, so there's no time for romance!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "い、\nいや別に変な意味じゃなくって……\n【美食殿】は\n美食と本気で向き合うギルドだから、\n色恋沙汰なんかに浮かれてる暇ないんだからね！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wh-why are you looking at me like that...?\nFine, whatever, just go already.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "な、\nなにきょとんとしてんのよ……\nいいわよ……\nもういいからさっさと行っちゃえば？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... He really left.\nThat idiot.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ……\nほんとに行っちゃった。\n……あのバカ。"
+    },
+    {
+      "name": "Students",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "生徒たち",
+      "orig_text": "……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...What are you looking at?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "…………何見てんのよ？"
+    },
+    {
+      "name": "Male Student 1",
+      "text": "No, I mean, they were really desperate to stop them...",
+      "choice_data_list": [],
+      "orig_name": "男子生徒１",
+      "orig_text": "いや、\nすげー必死に止めてたなって……"
+    },
+    {
+      "name": "Karyl",
+      "text": "So what!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "だからなんだってのよ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm done. I'm going home!\nIf any of you gossip about this, I'll kill you, got it!?\nSee you tomorrow!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "もういい、\nあたし帰るわ！\nあんたたち\nこの後ヒソヒソ噂したらぶっ殺すからね！？\nじゃ、\nまた明日！！"
+    },
+    {
+      "name": "Delinquent Student",
+      "text": "That person acted like a different person for a moment, that darn four-eyes...",
+      "choice_data_list": [],
+      "orig_name": "不良生徒",
+      "orig_text": "猫被ってんの一瞬だったな、\nあのクソメガネ……"
+    },
+    {
+      "name": "キャル",
+      "text": "あーもうむしゃくしゃする！\n今日一日、\nまったく授業が頭に入ってこなかったわ！\n全部あいつのせいよ……！！　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あーもうむしゃくしゃする！\n今日一日、\nまったく授業が頭に入ってこなかったわ！\n全部あいつのせいよ……！！　"
+    },
+    {
+      "name": "キャル",
+      "text": "もうほんと知らないから！\n彼女でもなんでも勝手に作っちゃえばいいのよ！　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "もうほんと知らないから！\n彼女でもなんでも勝手に作っちゃえばいいのよ！　"
+    },
+    {
+      "name": "キャル",
+      "text": "そっちがその気なら\nこっちだって……！\n彼氏の一人や二人作ってやるわ！！\n……って作らないわよ！！　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そっちがその気なら\nこっちだって……！\n彼氏の一人や二人作ってやるわ！！\n……って作らないわよ！！　"
+    },
+    {
+      "name": "キャル",
+      "text": "ヤバイわね\nあたし一人で……\nあれ……\nちょっと待って……？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ヤバイわね\nあたし一人で……\nあれ……\nちょっと待って……？　"
+    },
+    {
+      "name": "キャル",
+      "text": "そういやあたし、\nなんで階段駆け上がってるの……？\n帰るんだから\n下でしょ……？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そういやあたし、\nなんで階段駆け上がってるの……？\n帰るんだから\n下でしょ……？　"
+    },
+    {
+      "name": "キャル",
+      "text": "上には屋上しかないのに……\nなんで！？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "上には屋上しかないのに……\nなんで！？　"
+    },
+    {
+      "name": "キャル",
+      "text": "なんで走ってるの、\nあたし！？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんで走ってるの、\nあたし！？　"
+    },
+    {
+      "name": "キャル",
+      "text": "どうして走り出した足が止まらないのよ～！？　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どうして走り出した足が止まらないのよ～！？　"
+    },
+    {
+      "name": "キャル",
+      "text": "{0}！！！",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}！！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I-i mean, come on...!!\nWe already finished talking about this, right!?\nI'm going home with you, after all...!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ほ、\nほほほ、\nほら……！！　\nもうお話は済んだでしょ！？\nやっぱり一緒に帰るわよ……！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wait, You need to reconsider...!\nIsn't it weird...? Your nonchalant attitude isn't the type to make someone fall in love at first sight!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "よ、\nよくよく考えればおかしいわ……！\nあんたみたいなのんびり顔、\n一目惚れされるタイプじゃないでしょ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Your good points can only be realized after spending a long time together... I mean, well! Come on, let's go home!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんたの良さは、\n長いこと一緒にいないと分かんないんだから……\nほ、\nほら！　\nいいから帰るわよ！！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Kyaru-san?\nYou've said quite embarrassing things, you know?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "……キャルさん？\nだいぶ恥ずかしいことを仰ってますよ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Eriko!? Rino and Ninon, too...\nYou're trying to stop the confession, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "エリコ！？　\nリノに\nニノンも……\nあ、\nあんたたちも告白の阻止に……？"
+    },
+    {
+      "name": "Eriko",
+      "text": "Yes, but it doesn't seem necessary.\nRight? Mr. Love-letter-sender?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ええ、\nですがその必要はないみたいです。\nですよね？　\n恋文の差出人さん？"
+    },
+    {
+      "name": "In love boy.",
+      "text": "...Yeah.",
+      "choice_data_list": [],
+      "orig_name": "恋する男子",
+      "orig_text": "……ああ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh? You're the one who fell in love with {0}...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "え？　\nあんたが{0}に一目惚れしたの……？"
+    },
+    {
+      "name": "リノ",
+      "text": "いえ、\n間違えて隣のロッカーに\nラブレターを入れちゃったんですって。",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "いえ、\n間違えて隣のロッカーに\nラブレターを入れちゃったんですって。"
+    },
+    {
+      "name": "Ninon",
+      "text": "It was a silly mistake...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "オッチョコチョイの\nスットコドッコイデース……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, I see... So, you actually wanted to give the love letter to the person next to {0}'s locker?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ああ、\nそういうこと……\n本来は{0}の隣の人にラブレターを\n渡したかったってわけね？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Um, {0}'s locker is...\n Isn't it me?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……えと、\n{0}の隣のロッカーって。\n…………\nあたし？"
+    },
+    {
+      "name": "In love boy.",
+      "text": "Kyaru-chan!!\nI fell in love with you at first sight!!\nPlease go out with me!!",
+      "choice_data_list": [],
+      "orig_name": "恋する男子",
+      "orig_text": "キャルちゃん！！\n一目見て好きになりました！！\n俺と付き合ってください！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Eeeeeh~!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えええええ～～～～～～！！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "So, wha, whe, how, eee!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そんっ、\nいきっ、\nあたっ、\nええ！？！？"
+    },
+    {
+      "name": "Rino",
+      "text": "It's quite obvious she panicking...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "分かりやすくパニくってますね……"
+    },
+    {
+      "name": "Eriko",
+      "text": "Tehehe. Isn't it nice Kyaru-san. If you go out with this person, you'll find out about their good qualities.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "クスクス。\nいいじゃありませんか、\nキャルさん。\nこのお方とお付き合いしてあげれば。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...!!\nWhy not?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……！！\nな、\nなんでダメなの……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh... Gourmet is a guild that takes gourmet seriously?\nHaha, that wasn't me who said that.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "え……\n【美食殿】は\n美食と本気で向き合うギルドだから？\n……ふふ、\nそれ\nあたしが言ったやつじゃない。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Nfuah!!!???",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぬふぁっ！！！？？？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... ahh, so as friends...?\nYou didn't fall in love with me, did you...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ……\nああ、\n友達としてってこと……？\nあんた、\n自覚なく人を殺すところよ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Heheh.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ふふっ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm sorry.\nI'm happy about your feelings,\nbut I'll have to decline.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ごめんなさい。\n気持ちはうれしいけど\nお断りするわ。"
+    },
+    {
+      "name": "In love boy.",
+      "text": "Please consider again!!",
+      "choice_data_list": [],
+      "orig_name": "恋する男子",
+      "orig_text": "そこを何とか！！"
+    },
+    {
+      "name": "Male Student 3",
+      "text": "Ah, so you were here.\nHey, you fell in love at first sight again?\nCut it out!",
+      "choice_data_list": [],
+      "orig_name": "男子生徒３",
+      "orig_text": "あー\nやっぱここにいた。\nおいお前、\nまた一目惚れしちゃったのかよ？\nいい加減にしとけー？"
+    },
+    {
+      "name": "Male Student 3",
+      "text": "Oh, Kyaru-chan, right? I'm sorry, this guy falls in love super easily. He's probably confessed to about a hundred girls by now. And, he's been rejected every time.",
+      "choice_data_list": [],
+      "orig_name": "男子生徒３",
+      "orig_text": "あー\nキャルちゃんだっけ？　\nごめんねこいつ、\n超惚れっぽくてさ。\n多分\n今まで100人くらいに告ってんだ。\nで、\n全フラれ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……は？"
+    },
+    {
+      "name": "In love boy.",
+      "text": "Sigh... It didn't work this time either, huh?\nWell, I knew today was a 100% no chance, but still.",
+      "choice_data_list": [],
+      "orig_name": "恋する男子",
+      "orig_text": "はあ……\n今回も駄目だったか～\nつかまあ\n流石に今日は、\n100パー無理ってわかっちまったけど。"
+    },
+    {
+      "name": "In love boy.",
+      "text": "Seeing Kyaru-chan sprint all the way to the rooftop with a bright red face, calling out {0}'s name, even the densest as diamond would notice it... who you really like are.",
+      "choice_data_list": [],
+      "orig_name": "恋する男子",
+      "orig_text": "真っ赤な顔で屋上まで走ってきて、\n{0}の名前を呼んだキャルちゃんを見たら、\nどんだけ鈍感な奴でも気づいちまうよ……\n君の好きな人。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Enough!! You don't have to ask!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いい！！　\n聞かなくていいから！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "D-don't touch me!\nSeriously, I can't take this anymore...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "さ、\n触ってんじゃないわよ！！\nもうほんとこれ以上は……！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "This is too much...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "これ以上は……"
+    },
+    {
+      "name": "Eriko",
+      "text": ".........Huh?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "…………は？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh!? E-Eriko...?\nWhy are you raising the axe... Gyaaah!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ひいっ！？　\nエ、\nエリコ……？\nなんで斧を振りかぶって……\nきゃあっ！！"
+    },
+    {
+      "name": "Eriko",
+      "text": "You darned cat-in-heat!!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "このメス猫めがぁああ！！！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Wait!!\nI'll smash you to pieces!!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "待ちなさい！！\n粉々にぶっ壊して差し上げますからあああ！！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hold-!\nSomeone, stop her please!!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょー！？\n誰か止めてーーーーー！！"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} watched the sudden rooftop chaos with a puzzled expression.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "突如始まった屋上での青春鬼ごっこを、\n不思議そうに見つめる{0}だった。"
+    }
+  ]
+}

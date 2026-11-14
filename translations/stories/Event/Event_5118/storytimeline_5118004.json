@@ -1,0 +1,901 @@
+{
+  "title": "New Job Change",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]錬金術師モーヴが生み出した戦士たちとの乱戦の中──\n[FFFFFFFF]隠し扉に突っ込んでしまったビカラ。彼女を助けようとしたジータと\n[FFFFFFFF]ドーマウスと共に、一行は地下へと転がり落ちてしまった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]錬金術師モーヴが生み出した戦士たちとの乱戦の中──\n[FFFFFFFF]隠し扉に突っ込んでしまったビカラ。彼女を助けようとしたジータと\n[FFFFFFFF]ドーマウスと共に、一行は地下へと転がり落ちてしまった。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]うぼ\n[FFFFFFFF]え゛ぇ……\n[FFFFFFFF]あ゛ぁぁ～……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]うぼ\n[FFFFFFFF]え゛ぇ……\n[FFFFFFFF]あ゛ぁぁ～……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ちょ、\n[FFFFFFFF]ちょっと吐いた……\n[FFFFFFFF]あ、\n[FFFFFFFF]違う出てない……\n[FFFFFFFF]でも口の中ゲボ味してる……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ちょ、\n[FFFFFFFF]ちょっと吐いた……\n[FFFFFFFF]あ、\n[FFFFFFFF]違う出てない……\n[FFFFFFFF]でも口の中ゲボ味してる……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]いったたたたぁ……\n[FFFFFFFF]ビカラちゃん、\n[FFFFFFFF]ドーちゃん大丈夫？\n[FFFFFFFF]怪我はない？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]いったたたたぁ……\n[FFFFFFFF]ビカラちゃん、\n[FFFFFFFF]ドーちゃん大丈夫？\n[FFFFFFFF]怪我はない？"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──！",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]な゛……\n[FFFFFFFF]ぅぷ、\n[FFFFFFFF]なんとか……\n[FFFFFFFF]あれ……？\n[FFFFFFFF]ジータさん、\n[FFFFFFFF]剣は……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]な゛……\n[FFFFFFFF]ぅぷ、\n[FFFFFFFF]なんとか……\n[FFFFFFFF]あれ……？\n[FFFFFFFF]ジータさん、\n[FFFFFFFF]剣は……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]へ？\n[FFFFFFFF]あっ、\n[FFFFFFFF]ない！？\n[FFFFFFFF]さっきの鎧たちに盗られちゃったのかな……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]へ？\n[FFFFFFFF]あっ、\n[FFFFFFFF]ない！？\n[FFFFFFFF]さっきの鎧たちに盗られちゃったのかな……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あばばばば……\n[FFFFFFFF]すす、\n[FFFFFFFF]すみません……！！\n[FFFFFFFF]あたしが前後不注意ポンコツダメダメ陰キャネズミなせいで、\n[FFFFFFFF]ジータさんのた、\n[FFFFFFFF]大切な剣が……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あばばばば……\n[FFFFFFFF]すす、\n[FFFFFFFF]すみません……！！\n[FFFFFFFF]あたしが前後不注意ポンコツダメダメ陰キャネズミなせいで、\n[FFFFFFFF]ジータさんのた、\n[FFFFFFFF]大切な剣が……！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]あはははっ、\n[FFFFFFFF]平気平気！\n[FFFFFFFF]ビカラちゃんが無事でよかったよ！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]あはははっ、\n[FFFFFFFF]平気平気！\n[FFFFFFFF]ビカラちゃんが無事でよかったよ！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ちょっと心もとないけど……\n[FFFFFFFF]なんとかなるよね。\n[FFFFFFFF]ううん、\n[FFFFFFFF]なんとかする！　",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ちょっと心もとないけど……\n[FFFFFFFF]なんとかなるよね。\n[FFFFFFFF]ううん、\n[FFFFFFFF]なんとかする！　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]それよりも……\n[FFFFFFFF]ここ、\n[FFFFFFFF]どこだろう……？\n[FFFFFFFF]なんだか怪しい雰囲気だけど……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]それよりも……\n[FFFFFFFF]ここ、\n[FFFFFFFF]どこだろう……？\n[FFFFFFFF]なんだか怪しい雰囲気だけど……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]それに、\n[FFFFFFFF]よく分からない道具や本がたくさんありますね……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]それに、\n[FFFFFFFF]よく分からない道具や本がたくさんありますね……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]じゃあ、\n[FFFFFFFF]モーヴの実験室か研究室なのかな。\n[FFFFFFFF]ここで錬金術の研究をしてたのかも。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]じゃあ、\n[FFFFFFFF]モーヴの実験室か研究室なのかな。\n[FFFFFFFF]ここで錬金術の研究をしてたのかも。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]そ、\n[FFFFFFFF]そうかもしれないですね……\n[FFFFFFFF]あ。",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]そ、\n[FFFFFFFF]そうかもしれないですね……\n[FFFFFFFF]あ。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]ああ……\n[FFFFFFFF]あった……！\n[FFFFFFFF]ジータさん、\n[FFFFFFFF]ありました……\n[FFFFFFFF]あたしのネズ耳……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]ああ……\n[FFFFFFFF]あった……！\n[FFFFFFFF]ジータさん、\n[FFFFFFFF]ありました……\n[FFFFFFFF]あたしのネズ耳……！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]えっ、\n[FFFFFFFF]本当！？\n[FFFFFFFF]ビカラちゃんが売ってたものじゃなくて？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]えっ、\n[FFFFFFFF]本当！？\n[FFFFFFFF]ビカラちゃんが売ってたものじゃなくて？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]間違いないです……！\n[FFFFFFFF]この耳、\n[FFFFFFFF]このリボン、\n[FFFFFFFF]この手触り……\n[FFFFFFFF]あと\n[FFFFFFFF]クンクン……\n[FFFFFFFF]ああ、\n[FFFFFFFF]この匂いはトーゴクの匂いです……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]間違いないです……！\n[FFFFFFFF]この耳、\n[FFFFFFFF]このリボン、\n[FFFFFFFF]この手触り……\n[FFFFFFFF]あと\n[FFFFFFFF]クンクン……\n[FFFFFFFF]ああ、\n[FFFFFFFF]この匂いはトーゴクの匂いです……！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]匂い判定！？\n[FFFFFFFF]と……\n[FFFFFFFF]とにかく\n[FFFFFFFF]間違いないならよかった！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]匂い判定！？\n[FFFFFFFF]と……\n[FFFFFFFF]とにかく\n[FFFFFFFF]間違いないならよかった！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ここにあったってことは、\n[FFFFFFFF]ビカラちゃんのネズ耳を調べてたんだね。\n[FFFFFFFF]神通力のことも気になってるみたいだったし。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ここにあったってことは、\n[FFFFFFFF]ビカラちゃんのネズ耳を調べてたんだね。\n[FFFFFFFF]神通力のことも気になってるみたいだったし。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]それはそれで、\n[FFFFFFFF]微妙に申し訳ないような気持ちになります……\n[FFFFFFFF]ここまで調べがいのないものもありませんし……\n[FFFFFFFF]トーゴクで作っただけの、\n[FFFFFFFF]本当にただのネズ耳ですから……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]それはそれで、\n[FFFFFFFF]微妙に申し訳ないような気持ちになります……\n[FFFFFFFF]ここまで調べがいのないものもありませんし……\n[FFFFFFFF]トーゴクで作っただけの、\n[FFFFFFFF]本当にただのネズ耳ですから……"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──！",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]どうしたの、\n[FFFFFFFF]ドーちゃん……\n[FFFFFFFF]向こうの棚に何かあるの……？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]どうしたの、\n[FFFFFFFF]ドーちゃん……\n[FFFFFFFF]向こうの棚に何かあるの……？"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]どれどれ？\n[FFFFFFFF]うーん……\n[FFFFFFFF]宝石にアクセサリーに……\n[FFFFFFFF]鏡？\n[FFFFFFFF]なんだろう、\n[FFFFFFFF]どれも高価そうな感じがするけど……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]どれどれ？\n[FFFFFFFF]うーん……\n[FFFFFFFF]宝石にアクセサリーに……\n[FFFFFFFF]鏡？\n[FFFFFFFF]なんだろう、\n[FFFFFFFF]どれも高価そうな感じがするけど……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ここにあるのは魔道具みたいです……\n[FFFFFFFF]ドーちゃんが、\n[FFFFFFFF]強い力を感じるらしくて……\n[FFFFFFFF]い、\n[FFFFFFFF]いわれてみれば……\n[FFFFFFFF]あたしもそんな気が……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ここにあるのは魔道具みたいです……\n[FFFFFFFF]ドーちゃんが、\n[FFFFFFFF]強い力を感じるらしくて……\n[FFFFFFFF]い、\n[FFFFFFFF]いわれてみれば……\n[FFFFFFFF]あたしもそんな気が……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]これも研究材料ってことなんだろうね。\n[FFFFFFFF]……そうだ、\n[FFFFFFFF]剣はないかな？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]これも研究材料ってことなんだろうね。\n[FFFFFFFF]……そうだ、\n[FFFFFFFF]剣はないかな？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]なさそうですね……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]なさそうですね……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]そう上手くはいかないか……\n[FFFFFFFF]あ、\n[FFFFFFFF]この魔法の杖なら剣の代わりに振り回せそう。\n[FFFFFFFF]長いし。\n[FFFFFFFF]ちょっと借りちゃおう。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]そう上手くはいかないか……\n[FFFFFFFF]あ、\n[FFFFFFFF]この魔法の杖なら剣の代わりに振り回せそう。\n[FFFFFFFF]長いし。\n[FFFFFFFF]ちょっと借りちゃおう。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]よし、\n[FFFFFFFF]武器の調達は完了！\n[FFFFFFFF]あとは……\n[FFFFFFFF]ビカラちゃん、\n[FFFFFFFF]今のうちにネズ耳をつけておいて！\n[FFFFFFFF]上に戻ったら、\n[FFFFFFFF]また忙しくなるよ！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]よし、\n[FFFFFFFF]武器の調達は完了！\n[FFFFFFFF]あとは……\n[FFFFFFFF]ビカラちゃん、\n[FFFFFFFF]今のうちにネズ耳をつけておいて！\n[FFFFFFFF]上に戻ったら、\n[FFFFFFFF]また忙しくなるよ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]わ、\n[FFFFFFFF]分かりました……！\n[FFFFFFFF]お見苦しいでしょうから、\n[FFFFFFFF]隅っこの方で着替えてきます……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]わ、\n[FFFFFFFF]分かりました……！\n[FFFFFFFF]お見苦しいでしょうから、\n[FFFFFFFF]隅っこの方で着替えてきます……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ビカラちゃんはこれで大丈夫……\n[FFFFFFFF]あとは二人を助けにいかないと。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ビカラちゃんはこれで大丈夫……\n[FFFFFFFF]あとは二人を助けにいかないと。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]……二人とも、\n[FFFFFFFF]無事でいてね。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]……二人とも、\n[FFFFFFFF]無事でいてね。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]ジータはひとり呟きながら、杖を持つ手に力を入れるのだった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]ジータはひとり呟きながら、杖を持つ手に力を入れるのだった。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]一方その頃──\n[FFFFFFFF]{0}とカリンは、\n[FFFFFFFF]モーヴと彼が率いる戦士たちに取り囲まれていた。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]一方その頃──\n[FFFFFFFF]{0}とカリンは、\n[FFFFFFFF]モーヴと彼が率いる戦士たちに取り囲まれていた。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]地下の彼女たちは、\n[FFFFFFFF]今頃お目当ての品を見つけた頃でしょう。\n[FFFFFFFF]順番は前後しましたが……\n[FFFFFFFF]おかげで手間は省けました。\n[FFFFFFFF]これで、\n[FFFFFFFF]あのネズ耳が持つ力の本質を直接確認できるというもの……",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]地下の彼女たちは、\n[FFFFFFFF]今頃お目当ての品を見つけた頃でしょう。\n[FFFFFFFF]順番は前後しましたが……\n[FFFFFFFF]おかげで手間は省けました。\n[FFFFFFFF]これで、\n[FFFFFFFF]あのネズ耳が持つ力の本質を直接確認できるというもの……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]察するところ……\n[FFFFFFFF]ネズ耳の謎は解明できなかったようですね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]察するところ……\n[FFFFFFFF]ネズ耳の謎は解明できなかったようですね。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]残念ながら。\n[FFFFFFFF]推測ですが、\n[FFFFFFFF]持ち主でないとその力を発揮できないのでしょう。\n[FFFFFFFF]やはりトーゴクの魔道具は、\n[FFFFFFFF]こちらの魔道具とは勝手が異なるようです。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]残念ながら。\n[FFFFFFFF]推測ですが、\n[FFFFFFFF]持ち主でないとその力を発揮できないのでしょう。\n[FFFFFFFF]やはりトーゴクの魔道具は、\n[FFFFFFFF]こちらの魔道具とは勝手が異なるようです。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]とはいえ、\n[FFFFFFFF]そのことを恥だとは思いません。\n[FFFFFFFF]知らないということは、\n[FFFFFFFF]それだけ己の知識を磨く余地があるということ。\n[FFFFFFFF]むしろ喜ばしいですよ。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]とはいえ、\n[FFFFFFFF]そのことを恥だとは思いません。\n[FFFFFFFF]知らないということは、\n[FFFFFFFF]それだけ己の知識を磨く余地があるということ。\n[FFFFFFFF]むしろ喜ばしいですよ。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ふふ、\n[FFFFFFFF]勉強熱心な方ですね。\n[FFFFFFFF]誰かの大切なものを奪ってまで\n[FFFFFFFF]知識を得ようとするなんて。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ふふ、\n[FFFFFFFF]勉強熱心な方ですね。\n[FFFFFFFF]誰かの大切なものを奪ってまで\n[FFFFFFFF]知識を得ようとするなんて。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]ははは、\n[FFFFFFFF]褒め言葉として受け取っておきますよ。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]ははは、\n[FFFFFFFF]褒め言葉として受け取っておきますよ。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]それで、\n[FFFFFFFF]この鎧たちを生み出して何をするおつもりなんですか？\n[FFFFFFFF]まさか\n[FFFFFFFF]自分のお手伝いをさせるだけではないですよね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]それで、\n[FFFFFFFF]この鎧たちを生み出して何をするおつもりなんですか？\n[FFFFFFFF]まさか\n[FFFFFFFF]自分のお手伝いをさせるだけではないですよね。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]ウワサ通りの聡いお方だ。\n[FFFFFFFF]会話の流れが心地よい。\n[FFFFFFFF]では、\n[FFFFFFFF]私も簡潔にお答えしましょうか。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]ウワサ通りの聡いお方だ。\n[FFFFFFFF]会話の流れが心地よい。\n[FFFFFFFF]では、\n[FFFFFFFF]私も簡潔にお答えしましょうか。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]統治です。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]統治です。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]私の叡智でもってして、\n[FFFFFFFF]この世界を総べるのです。\n[FFFFFFFF]戦士たちには、\n[FFFFFFFF]危険分子の排除を担ってもらいます。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]私の叡智でもってして、\n[FFFFFFFF]この世界を総べるのです。\n[FFFFFFFF]戦士たちには、\n[FFFFFFFF]危険分子の排除を担ってもらいます。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]この世界はあまりに広く、\n[FFFFFFFF]未知の知識に溢れている……\n[FFFFFFFF]しかしながら、\n[FFFFFFFF]人々はそのことを見ようとしない。\n[FFFFFFFF]己の手が届く範囲のことしか知ろうとしないのです。\n[FFFFFFFF]実に愚かだ。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]この世界はあまりに広く、\n[FFFFFFFF]未知の知識に溢れている……\n[FFFFFFFF]しかしながら、\n[FFFFFFFF]人々はそのことを見ようとしない。\n[FFFFFFFF]己の手が届く範囲のことしか知ろうとしないのです。\n[FFFFFFFF]実に愚かだ。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]知識への渇望なくして進歩はありません。\n[FFFFFFFF]愚鈍な人間が増えるほど世界は停滞し、\n[FFFFFFFF]いずれ腐敗する……\n[FFFFFFFF]嘆かわしいとは思いませんか？",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]知識への渇望なくして進歩はありません。\n[FFFFFFFF]愚鈍な人間が増えるほど世界は停滞し、\n[FFFFFFFF]いずれ腐敗する……\n[FFFFFFFF]嘆かわしいとは思いませんか？"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]……つまり、\n[FFFFFFFF]あなたはこの世界を憂えてらっしゃるんですね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]……つまり、\n[FFFFFFFF]あなたはこの世界を憂えてらっしゃるんですね。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]その通りです。\n[FFFFFFFF]だからこそ、\n[FFFFFFFF]私が人類を導くのですよ。\n[FFFFFFFF]全ての人々が真理を追究し、\n[FFFFFFFF]生きることの意義を見出す──\n[FFFFFFFF]誰しもが静かな情熱を胸に秘めた、\n[FFFFFFFF]美しき知の世界のために……！",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]その通りです。\n[FFFFFFFF]だからこそ、\n[FFFFFFFF]私が人類を導くのですよ。\n[FFFFFFFF]全ての人々が真理を追究し、\n[FFFFFFFF]生きることの意義を見出す──\n[FFFFFFFF]誰しもが静かな情熱を胸に秘めた、\n[FFFFFFFF]美しき知の世界のために……！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ふふ。\n[FFFFFFFF]独りよがりですね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ふふ。\n[FFFFFFFF]独りよがりですね。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]いずれご理解いただけますよ。\n[FFFFFFFF]あなたほど聡明なお方なら……\n[FFFFFFFF]おや。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]いずれご理解いただけますよ。\n[FFFFFFFF]あなたほど聡明なお方なら……\n[FFFFFFFF]おや。"
+    },
+    {
+      "name": "鳥型の錬金生物",
+      "text": "[FFFFFFFF]──ッ！！",
+      "choice_data_list": [],
+      "orig_name": "鳥型の錬金生物",
+      "orig_text": "[FFFFFFFF]──ッ！！"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]バルーンバードを参考に、\n[FFFFFFFF]私が錬金術で生み出した鳥ですよ。\n[FFFFFFFF]各地に飛び立ち、\n[FFFFFFFF]その目で見たものを記録し、\n[FFFFFFFF]届けてくれるのです。\n[FFFFFFFF]時には\n[FFFFFFFF]物を運んだりもしてくれますよ。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]バルーンバードを参考に、\n[FFFFFFFF]私が錬金術で生み出した鳥ですよ。\n[FFFFFFFF]各地に飛び立ち、\n[FFFFFFFF]その目で見たものを記録し、\n[FFFFFFFF]届けてくれるのです。\n[FFFFFFFF]時には\n[FFFFFFFF]物を運んだりもしてくれますよ。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]道理で私たちのことを知っているはずですね。\n[FFFFFFFF]ビカラさんのネズ耳を奪っていったのも、\n[FFFFFFFF]その鳥ですか？",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]道理で私たちのことを知っているはずですね。\n[FFFFFFFF]ビカラさんのネズ耳を奪っていったのも、\n[FFFFFFFF]その鳥ですか？"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]ええ、\n[FFFFFFFF]その通りです。\n[FFFFFFFF]長旅の後でしたので、\n[FFFFFFFF]地下の研究室で休ませていたのですが……\n[FFFFFFFF]さて、\n[FFFFFFFF]どのような報告でしょうか。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]ええ、\n[FFFFFFFF]その通りです。\n[FFFFFFFF]長旅の後でしたので、\n[FFFFFFFF]地下の研究室で休ませていたのですが……\n[FFFFFFFF]さて、\n[FFFFFFFF]どのような報告でしょうか。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]ああ……\n[FFFFFFFF]やはり、\n[FFFFFFFF]彼女たちは目的のものを見つけたようですね。\n[FFFFFFFF]安心してください、\n[FFFFFFFF]二人とも無事ですよ。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]ああ……\n[FFFFFFFF]やはり、\n[FFFFFFFF]彼女たちは目的のものを見つけたようですね。\n[FFFFFFFF]安心してください、\n[FFFFFFFF]二人とも無事ですよ。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]そうですか……\n[FFFFFFFF]ひとまず安心しておきますね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]そうですか……\n[FFFFFFFF]ひとまず安心しておきますね。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]ええ、\n[FFFFFFFF]本当に。\n[FFFFFFFF]おかげで万全な状態で、\n[FFFFFFFF]ビカラさんの実力を確認できます。\n[FFFFFFFF]戦士たちの一部を地下に向かわせましょう。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]ええ、\n[FFFFFFFF]本当に。\n[FFFFFFFF]おかげで万全な状態で、\n[FFFFFFFF]ビカラさんの実力を確認できます。\n[FFFFFFFF]戦士たちの一部を地下に向かわせましょう。"
+    },
+    {
+      "name": "鎧型の錬金生物たち",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物たち",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]さて、\n[FFFFFFFF]それではこちらも決着をつけてしまいましょうか。\n[FFFFFFFF]もちろん\n[FFFFFFFF]会話を切り上げるという意味ではありませんよ。\n[FFFFFFFF]悪しからず。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]さて、\n[FFFFFFFF]それではこちらも決着をつけてしまいましょうか。\n[FFFFFFFF]もちろん\n[FFFFFFFF]会話を切り上げるという意味ではありませんよ。\n[FFFFFFFF]悪しからず。"
+    },
+    {
+      "name": "鎧型の錬金生物たち",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物たち",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]それは……\n[FFFFFFFF]困りましたね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]それは……\n[FFFFFFFF]困りましたね。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]一方その頃──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]一方その頃──"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ラッキー！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ラッキー！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]クッキー！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]クッキー！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ビッキィ！！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ビッキィ！！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]完・全・復・活！！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]完・全・復・活！！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ジータ、\n[FFFFFFFF]きみのおかげだよ！\n[FFFFFFFF]ほんとにありがとう！\n[FFFFFFFF]さあ、\n[FFFFFFFF]手を握って！　\n[FFFFFFFF]復活したぼくと握手！！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ジータ、\n[FFFFFFFF]きみのおかげだよ！\n[FFFFFFFF]ほんとにありがとう！\n[FFFFFFFF]さあ、\n[FFFFFFFF]手を握って！　\n[FFFFFFFF]復活したぼくと握手！！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ふふっ、\n[FFFFFFFF]もちろん！\n[FFFFFFFF]ネズ耳を取り返せてよかったね、\n[FFFFFFFF]ビカラちゃん！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ふふっ、\n[FFFFFFFF]もちろん！\n[FFFFFFFF]ネズ耳を取り返せてよかったね、\n[FFFFFFFF]ビカラちゃん！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ハハッ！　\n[FFFFFFFF]もう最高だよ！\n[FFFFFFFF]今すぐ歌って踊ってパレードをしたい気分さ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ハハッ！　\n[FFFFFFFF]もう最高だよ！\n[FFFFFFFF]今すぐ歌って踊ってパレードをしたい気分さ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]おっと……？\n[FFFFFFFF]なにやらお邪魔虫の足音が聞こえてくるね。",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]おっと……？\n[FFFFFFFF]なにやらお邪魔虫の足音が聞こえてくるね。"
+    },
+    {
+      "name": "鎧型の錬金生物たち",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物たち",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]追っ手……！\n[FFFFFFFF]上に行くには、\n[FFFFFFFF]まずこの鎧たちを倒さないと！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]追っ手……！\n[FFFFFFFF]上に行くには、\n[FFFFFFFF]まずこの鎧たちを倒さないと！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]かしこみかしこみ～！\n[FFFFFFFF]この程度の連中、\n[FFFFFFFF]相手にもならないよ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]かしこみかしこみ～！\n[FFFFFFFF]この程度の連中、\n[FFFFFFFF]相手にもならないよ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ドーマウス、\n[FFFFFFFF]遠慮は無用だ！\n[FFFFFFFF]エキセントリックパレード……\n[FFFFFFFF]イン・アンダーグラウンドといこうじゃないか！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ドーマウス、\n[FFFFFFFF]遠慮は無用だ！\n[FFFFFFFF]エキセントリックパレード……\n[FFFFFFFF]イン・アンダーグラウンドといこうじゃないか！"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──ッ！！",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──ッ！！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]二人とも、\n[FFFFFFFF]すごい気迫……！\n[FFFFFFFF]私も負けてられないね！\n[FFFFFFFF]たあっ！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]二人とも、\n[FFFFFFFF]すごい気迫……！\n[FFFFFFFF]私も負けてられないね！\n[FFFFFFFF]たあっ！"
+    },
+    {
+      "name": "鎧型の錬金生物",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]くっ、\n[FFFFFFFF]ビクともしない……！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]くっ、\n[FFFFFFFF]ビクともしない……！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ジータは下がってて！\n[FFFFFFFF]ここはぼくたちに任せるんだ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ジータは下がってて！\n[FFFFFFFF]ここはぼくたちに任せるんだ！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]見ているだけなんてできないよ！\n[FFFFFFFF]倒すことはできなくても、\n[FFFFFFFF]せめて隙を作るくらいはできるはず！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]見ているだけなんてできないよ！\n[FFFFFFFF]倒すことはできなくても、\n[FFFFFFFF]せめて隙を作るくらいはできるはず！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ジータ……\n[FFFFFFFF]分かった、\n[FFFFFFFF]でも無理はしないようにね！\n[FFFFFFFF]ビッキィとの約束だよ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ジータ……\n[FFFFFFFF]分かった、\n[FFFFFFFF]でも無理はしないようにね！\n[FFFFFFFF]ビッキィとの約束だよ！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]はぁ……\n[FFFFFFFF]こ、\n[FFFFFFFF]このーっ！！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]はぁ……\n[FFFFFFFF]こ、\n[FFFFFFFF]このーっ！！"
+    },
+    {
+      "name": "鎧型の錬金生物",
+      "text": "[FFFFFFFF]…………！",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物",
+      "orig_text": "[FFFFFFFF]…………！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ナイス、\n[FFFFFFFF]ジータ！\n[FFFFFFFF]ドーマウス、\n[FFFFFFFF]そこだよ！！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ナイス、\n[FFFFFFFF]ジータ！\n[FFFFFFFF]ドーマウス、\n[FFFFFFFF]そこだよ！！"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──ッ！！",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──ッ！！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]よし、\n[FFFFFFFF]いい感じだ！\n[FFFFFFFF]……おおっと？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]よし、\n[FFFFFFFF]いい感じだ！\n[FFFFFFFF]……おおっと？"
+    },
+    {
+      "name": "鎧型の錬金生物たち",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物たち",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]いくら倒されても、\n[FFFFFFFF]頭や手足が砕かれても立ち上がってくるか……\n[FFFFFFFF]不死身の戦士は伊達じゃないね。",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]いくら倒されても、\n[FFFFFFFF]頭や手足が砕かれても立ち上がってくるか……\n[FFFFFFFF]不死身の戦士は伊達じゃないね。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]……ビカラちゃん、\n[FFFFFFFF]ドーちゃん。\n[FFFFFFFF]役に立てなくて、\n[FFFFFFFF]ごめん。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]……ビカラちゃん、\n[FFFFFFFF]ドーちゃん。\n[FFFFFFFF]役に立てなくて、\n[FFFFFFFF]ごめん。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]うん？\n[FFFFFFFF]ああ、\n[FFFFFFFF]ごめんよジータ。\n[FFFFFFFF]聞いてなかった！\n[FFFFFFFF]……でも、\n[FFFFFFFF]聞き返したりなんかしないよ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]うん？\n[FFFFFFFF]ああ、\n[FFFFFFFF]ごめんよジータ。\n[FFFFFFFF]聞いてなかった！\n[FFFFFFFF]……でも、\n[FFFFFFFF]聞き返したりなんかしないよ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]数が減らないなんて、\n[FFFFFFFF]景気がいいじゃないか！\n[FFFFFFFF]パレードは人数が多い方が楽しいってものさ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]数が減らないなんて、\n[FFFFFFFF]景気がいいじゃないか！\n[FFFFFFFF]パレードは人数が多い方が楽しいってものさ！"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──ッ！！",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──ッ！！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ビカラちゃん、\n[FFFFFFFF]ドーちゃん……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ビカラちゃん、\n[FFFFFFFF]ドーちゃん……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]こんなとき力になれないなんて……！\n[FFFFFFFF]悔しい、\n[FFFFFFFF]悔しいよ！　",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]こんなとき力になれないなんて……！\n[FFFFFFFF]悔しい、\n[FFFFFFFF]悔しいよ！　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ビカラちゃんとドーちゃんだけじゃない、\n[FFFFFFFF]カリンさんと{0}も頑張ってるのに……！\n[FFFFFFFF]助けにいかなくちゃいけないのに……！　",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ビカラちゃんとドーちゃんだけじゃない、\n[FFFFFFFF]カリンさんと{0}も頑張ってるのに……！\n[FFFFFFFF]助けにいかなくちゃいけないのに……！　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]私は今まで何のために修行してきたの！？\n[FFFFFFFF]剣がないだけで\n[FFFFFFFF]手も足も出なくなるなんて！\n[FFFFFFFF]一体、\n[FFFFFFFF]何のために……！　",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]私は今まで何のために修行してきたの！？\n[FFFFFFFF]剣がないだけで\n[FFFFFFFF]手も足も出なくなるなんて！\n[FFFFFFFF]一体、\n[FFFFFFFF]何のために……！　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]悔しい……！\n[FFFFFFFF]情けない……！\n[FFFFFFFF]でも……\n[FFFFFFFF]諦めたくない！　",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]悔しい……！\n[FFFFFFFF]情けない……！\n[FFFFFFFF]でも……\n[FFFFFFFF]諦めたくない！　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]諦めるなんて──\n[FFFFFFFF]できないよ！！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]諦めるなんて──\n[FFFFFFFF]できないよ！！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]こ、\n[FFFFFFFF]この輝きは……\n[FFFFFFFF]まさか！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]こ、\n[FFFFFFFF]この輝きは……\n[FFFFFFFF]まさか！"
+    },
+    {
+      "name": "鎧型の錬金生物",
+      "text": "[FFFFFFFF]…………！",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物",
+      "orig_text": "[FFFFFFFF]…………！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ジ、\n[FFFFFFFF]ジータ！？\n[FFFFFFFF]その輝きはどうしたんだい？\n[FFFFFFFF]まるでパレードじゃないか！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ジ、\n[FFFFFFFF]ジータ！？\n[FFFFFFFF]その輝きはどうしたんだい？\n[FFFFFFFF]まるでパレードじゃないか！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]上手く説明できないけど、\n[FFFFFFFF]大丈夫！\n[FFFFFFFF]私を信じて！\n[FFFFFFFF]これが新しい──\n[FFFFFFFF]私の力だよ！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]上手く説明できないけど、\n[FFFFFFFF]大丈夫！\n[FFFFFFFF]私を信じて！\n[FFFFFFFF]これが新しい──\n[FFFFFFFF]私の力だよ！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ジョブチェンジ、\n[FFFFFFFF]完了！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ジョブチェンジ、\n[FFFFFFFF]完了！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]わわわっ！？\n[FFFFFFFF]い、\n[FFFFFFFF]いつの間に着替えたんだい！？\n[FFFFFFFF]早着替えが得意なぼくですら気がつかないなんて……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]わわわっ！？\n[FFFFFFFF]い、\n[FFFFFFFF]いつの間に着替えたんだい！？\n[FFFFFFFF]早着替えが得意なぼくですら気がつかないなんて……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]この力はね、\n[FFFFFFFF]ジョブチェンジっていうんだ。\n[FFFFFFFF]といっても……\n[FFFFFFFF]私がそう呼んでるだけなんだけどね。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]この力はね、\n[FFFFFFFF]ジョブチェンジっていうんだ。\n[FFFFFFFF]といっても……\n[FFFFFFFF]私がそう呼んでるだけなんだけどね。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ジョブチェンジ……\n[FFFFFFFF]ああ、\n[FFFFFFFF]初めて会った日の夜に言っていたね！\n[FFFFFFFF]なるほど、\n[FFFFFFFF]これがウワサの……\n[FFFFFFFF]ぼくのイメージが変わったことにも、\n[FFFFFFFF]すぐ納得してくれるわけだよ。",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ジョブチェンジ……\n[FFFFFFFF]ああ、\n[FFFFFFFF]初めて会った日の夜に言っていたね！\n[FFFFFFFF]なるほど、\n[FFFFFFFF]これがウワサの……\n[FFFFFFFF]ぼくのイメージが変わったことにも、\n[FFFFFFFF]すぐ納得してくれるわけだよ。"
+    },
+    {
+      "name": "鎧型の錬金生物",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]おっと、\n[FFFFFFFF]ほったらかしにされたと思って彼らが拗ねてるよ。\n[FFFFFFFF]しっかり相手をしてあげないとね！\n[FFFFFFFF]ジータ、\n[FFFFFFFF]早速だけど\n[FFFFFFFF]きみの新しい力を見せてくれるかい？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]おっと、\n[FFFFFFFF]ほったらかしにされたと思って彼らが拗ねてるよ。\n[FFFFFFFF]しっかり相手をしてあげないとね！\n[FFFFFFFF]ジータ、\n[FFFFFFFF]早速だけど\n[FFFFFFFF]きみの新しい力を見せてくれるかい？"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]任せて！\n[FFFFFFFF]……力を杖に集中して\n[FFFFFFFF]……放つ！！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]任せて！\n[FFFFFFFF]……力を杖に集中して\n[FFFFFFFF]……放つ！！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]エーテルブラスト！！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]エーテルブラスト！！"
+    },
+    {
+      "name": "鎧型の錬金生物",
+      "text": "[FFFFFFFF]…………！",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物",
+      "orig_text": "[FFFFFFFF]…………！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]な……\n[FFFFFFFF]なんて威力なんだい……！\n[FFFFFFFF]あれだけいた鎧が一撃で……\n[FFFFFFFF]いや、\n[FFFFFFFF]それどころか壁まで吹き飛んでるじゃないか！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]な……\n[FFFFFFFF]なんて威力なんだい……！\n[FFFFFFFF]あれだけいた鎧が一撃で……\n[FFFFFFFF]いや、\n[FFFFFFFF]それどころか壁まで吹き飛んでるじゃないか！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ふぅ……\n[FFFFFFFF]け、\n[FFFFFFFF]結構疲れるなぁ、\n[FFFFFFFF]これ……\n[FFFFFFFF]あははは。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ふぅ……\n[FFFFFFFF]け、\n[FFFFFFFF]結構疲れるなぁ、\n[FFFFFFFF]これ……\n[FFFFFFFF]あははは。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]無理もないよ、\n[FFFFFFFF]あれだけの魔法を使えば……\n[FFFFFFFF]うん？　\n[FFFFFFFF]ジータ、\n[FFFFFFFF]見て！\n[FFFFFFFF]あの壊れた壁の向こう！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]無理もないよ、\n[FFFFFFFF]あれだけの魔法を使えば……\n[FFFFFFFF]うん？　\n[FFFFFFFF]ジータ、\n[FFFFFFFF]見て！\n[FFFFFFFF]あの壊れた壁の向こう！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]あれは……\n[FFFFFFFF]隠し部屋？\n[FFFFFFFF]戸棚の後ろに入口があったんだね、\n[FFFFFFFF]気づかなかった！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]あれは……\n[FFFFFFFF]隠し部屋？\n[FFFFFFFF]戸棚の後ろに入口があったんだね、\n[FFFFFFFF]気づかなかった！"
+    },
+    {
+      "name": "鎧型の錬金生物",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "鎧型の錬金生物",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]この鎧たち……\n[FFFFFFFF]バラバラになっても、\n[FFFFFFFF]ぼくたちの前に立とうとしているね。\n[FFFFFFFF]よっぽどあの部屋に近づかれたくないのかな。",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]この鎧たち……\n[FFFFFFFF]バラバラになっても、\n[FFFFFFFF]ぼくたちの前に立とうとしているね。\n[FFFFFFFF]よっぽどあの部屋に近づかれたくないのかな。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]……この子たちにはちょっと悪いけど、\n[FFFFFFFF]行ってみよう。\n[FFFFFFFF]何か役に立つものが見つかるかも。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]……この子たちにはちょっと悪いけど、\n[FFFFFFFF]行ってみよう。\n[FFFFFFFF]何か役に立つものが見つかるかも。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]奇遇だね、\n[FFFFFFFF]ぼくも同意見だよ！\n[FFFFFFFF]モーヴが隠し部屋に何を置いているのか気になるしね。\n[FFFFFFFF]点数の悪いテスト用紙でも隠してるのかな？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]奇遇だね、\n[FFFFFFFF]ぼくも同意見だよ！\n[FFFFFFFF]モーヴが隠し部屋に何を置いているのか気になるしね。\n[FFFFFFFF]点数の悪いテスト用紙でも隠してるのかな？"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]これは……\n[FFFFFFFF]転移魔法陣？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]これは……\n[FFFFFFFF]転移魔法陣？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]森の中にあったトラップとそっくりだね。\n[FFFFFFFF]……さて、\n[FFFFFFFF]どうしようか？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]森の中にあったトラップとそっくりだね。\n[FFFFFFFF]……さて、\n[FFFFFFFF]どうしようか？"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]素直に階段をあがっていったら、\n[FFFFFFFF]待ち伏せにあうかもしれない。\n[FFFFFFFF]だったら……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]素直に階段をあがっていったら、\n[FFFFFFFF]待ち伏せにあうかもしれない。\n[FFFFFFFF]だったら……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]飛びこんでみるしかないね。\n[FFFFFFFF]吉と出るか、\n[FFFFFFFF]凶と出るかは分からないけど……\n[FFFFFFFF]まあ、\n[FFFFFFFF]ぼくが大吉に変えてみせるよ！　\n[FFFFFFFF]ハハッ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]飛びこんでみるしかないね。\n[FFFFFFFF]吉と出るか、\n[FFFFFFFF]凶と出るかは分からないけど……\n[FFFFFFFF]まあ、\n[FFFFFFFF]ぼくが大吉に変えてみせるよ！　\n[FFFFFFFF]ハハッ！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ふふっ、\n[FFFFFFFF]心強いね！\n[FFFFFFFF]じゃあ安心して飛びこんじゃおう！\n[FFFFFFFF]いくよ、\n[FFFFFFFF]ビカラちゃん！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ふふっ、\n[FFFFFFFF]心強いね！\n[FFFFFFFF]じゃあ安心して飛びこんじゃおう！\n[FFFFFFFF]いくよ、\n[FFFFFFFF]ビカラちゃん！"
+    },
+    {
+      "name": "ビカラ・ジータ",
+      "text": "[FFFFFFFF]せーのっ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ・ジータ",
+      "orig_text": "[FFFFFFFF]せーのっ！"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]……転移魔法陣を使われましたか。\n[FFFFFFFF]まさか見つけられてしまうとは……\n[FFFFFFFF]ふふ、\n[FFFFFFFF]まさに窮鼠猫を嚙む、\n[FFFFFFFF]と言ったところですね。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]……転移魔法陣を使われましたか。\n[FFFFFFFF]まさか見つけられてしまうとは……\n[FFFFFFFF]ふふ、\n[FFFFFFFF]まさに窮鼠猫を嚙む、\n[FFFFFFFF]と言ったところですね。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]戦士たちよ、\n[FFFFFFFF]魔法陣は破壊しておきなさい。\n[FFFFFFFF]移動の手段さえ絶ってしまえば問題ありません。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]戦士たちよ、\n[FFFFFFFF]魔法陣は破壊しておきなさい。\n[FFFFFFFF]移動の手段さえ絶ってしまえば問題ありません。"
+    },
+    {
+      "name": "モーヴ",
+      "text": "[FFFFFFFF]……移動の手段、\n[FFFFFFFF]ですか。\n[FFFFFFFF]いや、\n[FFFFFFFF]あれを使えるはずはありませんね。\n[FFFFFFFF]考えすぎでしょう。",
+      "choice_data_list": [],
+      "orig_name": "モーヴ",
+      "orig_text": "[FFFFFFFF]……移動の手段、\n[FFFFFFFF]ですか。\n[FFFFFFFF]いや、\n[FFFFFFFF]あれを使えるはずはありませんね。\n[FFFFFFFF]考えすぎでしょう。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]そう呟いたモーヴの視線の先には──\n[FFFFFFFF]床に倒れた{0}とカリンの姿があるのだった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]そう呟いたモーヴの視線の先には──\n[FFFFFFFF]床に倒れた{0}とカリンの姿があるのだった。"
+    }
+  ]
+}

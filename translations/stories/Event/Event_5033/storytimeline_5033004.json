@@ -1,0 +1,993 @@
+{
+  "title": "The Third Magical Girl (?)",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Landosol—the new home of the magical girl.\nWhere its light does not shine, there lies a deep darkness.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔法少女が活躍するランドソル。\nその輝きが当たらない場所に、暗い闇があった。"
+    },
+    {
+      "name": "???",
+      "text": "...Beaten again.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……またやられちゃったんだ。"
+    },
+    {
+      "name": "???",
+      "text": "Even with all this love,\nI guess things won't always work out as I hope.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "こんなに想っていても、\n想いの通りにはいかないものだね……"
+    },
+    {
+      "name": "???",
+      "text": "But I won't give up.\nFirst, I have to eliminate the obstacles.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "でも、諦めないよ。\nまずは邪魔者を排除しなきゃ。"
+    },
+    {
+      "name": "???",
+      "text": "...Those magical girls.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──魔法少女を。"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Man",
+      "text": "Hey, look!\nIt's the magical girls! The monster went thataway!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "おい見ろ！\n魔法少女だ！　\n魔物はあっちの方だぞー！"
+    },
+    {
+      "name": "Woman",
+      "text": "Magical Detective Misty★Kasumi!\nMagical Huntress Purely★Shiori!\nGive that monster what for!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "魔法探偵ミスティ★カスミ！\n魔法狩人ピュアリー★シオリ！\n頑張ってねー！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "We will!\n...Thank you for your support...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "はいっ、\n……応援、\nありがとうございます……！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Th-thanks...",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "ど、\nどうも～……"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Kasumi, look.\nThe townsfolk are waving at us.",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "カスミさん、\nほら、\n街の人たちが手を振ってくれていますよ？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "I-I've mostly gotten used to this appearance, but still...",
+      "choice_data_list": [
+        "You're both celebrities now."
+      ],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "こ、\nこの格好もだいぶ慣れてはきたんだけどね……"
+    },
+    {
+      "name": "Mora",
+      "text": "You're right, Sir Knight!\nThey're this far from becoming bona fide magical girls!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "そうだね騎士さま！\nこれなら、一人前の魔法少女まで\nもう少しさ！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "This close?\nDoes that mean there's still something we're lacking?",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "もう少し、\nですか。\nということは、\nまだ足りないものがあるんですか？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Can't you just deem us qualified already?\n...You know, I've been wondering for a while now—\nMora, you're not just making this up as you go along, are you?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "さすがにもう一人前でいいんじゃないかな。\n……\nというか\n前から思ってたんだけど、\nモーラくん、\n君、\n適当なこと言ってないよね？"
+    },
+    {
+      "name": "Mora",
+      "text": "What an awful thing to say!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "なんてことを！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Then please tell us, o troublesome little rabbit—\nwhat is it that we're missing?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "じゃあ何が足りないのか、\n聞かせてもらおうじゃないか。"
+    },
+    {
+      "name": "Mora",
+      "text": "It's, um, yeah.\nYou're still not in the magical girl frame of mind, you see...",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "え、\nそりゃあ、\nあれだよ。\n魔法少女としての\n心構えというか……"
+    },
+    {
+      "name": "Mora",
+      "text": "Er... Ah!\nI can sense the Antibeast!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "ええと……\nあっ！\nアンチビーストの気配だ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "He ran for it.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "逃げたね。"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Flew right out of here.\n...Oh, I see it!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "逃げましたね。\n……\nあ、\n見えてきました。"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Indeed.\nLet's dispose of it quickly.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "うん。\n手早く片付けてしまおう。"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Here it comes.\nEeek!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "来ます！\n──きゃあっ！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Shiori!\nThis Antibeast is faster than the others...!\nNgh. Misty Bullet!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "シオリさんっ！？\nこのアンチビースト、\nいつもより速い……！？\nくっ、\nミスティバレット！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Wha—?! It dodged it?! Wahhh!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "なっ、\n避けられた！？　\nうわぁっ！？"
+    },
+    {
+      "name": "Mora",
+      "text": "Listen up!\nThis Antibeast is different to the ones you've fought so far!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "二人ともっ！\nこのアンチビースト、\n今までとは違うよ！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "We noticed...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "っ、\nそのようですね……！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Its speed is on another level.\nWhy so sudden...?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "速さが段違いだ。\nどうして急に……！？"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Ahhh!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "きゃっ！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Wahhh!",
+      "choice_data_list": [
+        "Step forward."
+      ],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "わぁっ！？"
+    },
+    {
+      "name": "Mora",
+      "text": "Sir Knight!\nEven though only magical girls can fight it... What bravery!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "騎士さま！\n魔法少女じゃないと戦えないのに、\nなんて勇気だ……！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "But it's too dangerous for him...!\nWe have to do something!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "でも、\nこのままじゃ助手くんが危ない……！\nなんとかしなきゃ……！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "We need to concentrate our firepower... But its movements are too fast!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "火力を集中させれば……\nでも、\n動きが速すぎて……！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "My dear assistant!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "助手くんっ！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "No...!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "ダメッ……！"
+    },
+    {
+      "name": "???",
+      "text": "Nanaka Infinite Blast!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──ナナカ・∞・ブラストーーーーーーー！"
+    },
+    {
+      "name": "Mora",
+      "text": "Wh-what the heck?!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "な、\n何っ！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Magic?! No, it's more than that!\nThe Antibeast flinched!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "魔法！？　\nいいえ\nそれよりもっ、\n今のでアンチビーストが怯みました！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "This is our chance! Shiori, concentrate your firepower!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "好機だ！　\nシオリさん、\n火力を集中させるよ！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Right! Purely Arrow!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "はいっ、\nピュアリーアロー！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Eat this! Misty Bullet!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "喰らえ、\nミスティバレットッ！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Mora",
+      "text": "...Somehow you did it.\nBut that magic just now—whose was it...?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "……なんとか倒せたね。\nでも、\nさっきの魔法は\nいったい誰が……？"
+    },
+    {
+      "name": "???",
+      "text": "You're doing it wrooooooooooooooooooong!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "なっとらーーーーーーーーーーーーーーーーんっ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Ah!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "ひゃっ！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Eh!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "ふぇっ！？"
+    },
+    {
+      "name": "Mora",
+      "text": "Wh-who are you?!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "だ、\nだれっ！？"
+    },
+    {
+      "name": "???",
+      "text": "I don't need to tell you my name!",
+      "choice_data_list": [
+        "Thanks for saving us, Nanaka."
+      ],
+      "orig_name": "？？？",
+      "orig_text": "貴様らに名乗る名前はないっ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Oh, you're welcome.\nI mean...!\n{0}, what's with the spoiler?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あ、\nどういたしまして。\nっじゃなぁーいっ！\n{0}君～、\nなんでネタバレしちゃうのさー！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Well, if I've been exposed, so be it!\nI'm just a totally OP magical girl—or rather, a magical girl who\ndreams of being a passing savior—Nanaka! ♪",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "しかし\nバレてしまったなら仕方ない、\n私は\n通りすがりの魔法少女、\nを、\n夢見るサイカワサイツヨ魔法少女、\nナナカであーるっ♪"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "That flashy outfit, the unusual behavior... Could she be the rumored\nCollector?\n...I surmise the magical girl title is self-proclaimed, however.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "あの派手な格好に珍妙な言動、\n噂に聞く『蒐集家』か。\n……魔法少女は確か自称だったように思うけれど。"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "But casting powerful exploding magic all over the place with such\nreckless abandon...\nUrgh, how dreadful... I'd rather not get involved with such a person...",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "とっても強い魔法を\nどこでもそこでも炸裂させまくるとか……\nうぅ、\n恐いなぁ……\nあんまり関わりたくないかも……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "You ladies are the magical girls that everyone's talking about, right?",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そういうお嬢ちゃんたちは\n巷で噂の魔法少女、\nだね？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Uhhh... Yes.",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "えっと……\nはい。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Heh. When I first heard the rumors, I thought that my time as a famous\nmagical girl had finally come—\nI even started practicing my autograph. I was totally stoked.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ふっ。\n魔法少女の噂を小耳にはさんだ時、\nとうとうナナカちゃんが魔法少女として有名になったかー\nサインの練習しなきゃー、\nなーんてワクテカしちゃったんだけど。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I never thought that I would be disregarded,\nand others who call themselves magical girls would show up...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "まさか\nこの私を差し置いて、\n魔法少女を名乗る輩が現れようとはねぇ……"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Apologies for the imposition.\nAnd thanks for your assistance. Well, we're in a hurry, so...",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "それは申し訳ないことをしたね。\n助力、感謝するよ。\nじゃあ\n私たちは急ぐので……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Oh no, you're not getting away that easily!\nMagical girls tried to escape! But it failed!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "おおーっと逃がさないよ！\n魔法少女たちはまわりこまれてしまった！"
+    },
+    {
+      "name": "Mora",
+      "text": "You're quite the strange one, aren't you...?\nDo you need us for something?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "なんだか\n変わった女の子だね……\nそれで、\nボクたちに何か用なの？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "That fight just now—I saw the whole thing.\nTurns out you're missing something vitally important as magical girls.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "さっきの戦い、\n見せてもらったんだけど。\nお主たちには\n魔法少女として\n致命的に欠けているものがあるっ！"
+    },
+    {
+      "name": "All",
+      "text": "?!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "\\\"And wh-what is thaaaat?!\\\"\nis what I was hoping to hear. Well, let me tell you!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そこは\nなっ、\nなんだってーーー！？\nって驚いてほしいところだけど、\n教えてあげよう！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "What you don't have...\nis a special mooooove! ",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "君たちに足りないのは！\n必・\n殺・\n技・\nだぁーーーーーーーーーーーーーーーーーーー！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "All right! The great Nanaka's special magical girl training is about to\nbegin! From now on you can call me the Undefeated—...I mean, Master!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "はーい、\nナナカちゃんの魔法少女特訓、\nはっじまっるよー！\nこれから私のことは\n東方……\nいや、\n師匠と呼ぶよーにっ！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "...Why did we come here again...?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "……どうしてついて来てしまったのだろう……"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "...We were pressured into it, so we had to...",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "……勢いに圧されて、\nつい……"
+    },
+    {
+      "name": "Mora",
+      "text": "But I think what Nanaka's saying is right, you know!\nThe Antibeasts are getting stronger, and if you keep fighting them\nusing the same magic, at this rate you'll reach your limit pretty soon.",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "でも、\nナナカちゃんの言ってることは正しいと思うよ！\nアンチビーストも強くなってきてるし、\nずっと\n同じ魔法で戦い続けるのも\nそろそろ限界だよ。"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Well, you have a point... maybe?\nBut then why in the world were we brought indoors?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "まぁ一理ある……\nのかな？\nでも、\nそれで連れて来られたのが\nどうして室内なんだい？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Right. If we're going to do special move training,\nit's too dangerous not to be outdoors...",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "そうですね。\n必殺技の練習なら、\n外じゃないと危険なのでは……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ohohoh. The reason that you're all here is...\nto see all the cool loot I've collected!",
+      "choice_data_list": [
+        "Wh-what's wrong with you?!"
+      ],
+      "orig_name": "ナナカ",
+      "orig_text": "んっふっふー。\nこれから君たちには、\n──ナナカちゃんが集めてきたコレクションを見てもらう！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ohoh.\nI love how easily shocked you are!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "おおっ、\nさっすが君、\n見事な驚きっぷり！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "My dear assistant, how do you keep up with her...? I'm already exhausted.\nHowever... we'll get to see all the things the Collector has accumulated.\nWhether it's special training or not, my interest is piqued.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "助手くん、\nよくこのノリについていけるね……\n私は疲れてきたよ。\nしかし……\n『蒐集家』の集めているものを見せてもらえるわけか。\n特訓なのかはともかく、\n興味はあるね。"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Yes... The place is full of books I've never seen before...\nIn fact, I think some of these shouldn't be here...?",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "はい……\nここに置いてある書物、\n見たことないものばかりで……\nというか、\n置いてあっちゃいけないようなものまで\nある気が……？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ohhh, you sure know your stuff.\nBut today, none of that matters!\nWhat you need to see is here!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "おおっ、\nイケるクチだねお嬢ちゃんたち？\nでもその辺は\n今日は関係なーいっ！\n見るべきは、\nこっちだー！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "This is...!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "これは……！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Magical girl... books, costumes, merchandise...?\nOh, this staff belonged to Bella-Lou...",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "魔法少女の……\n本に、\n衣装に、\nグッズ……？\nあ、\nこれ\nベルルちゃんの持ってた杖……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I also highly recommend my favorite book, Magical Girl Celly!\nPlease, read it until there are holes in it! Oh, but don't actually\nput holes in it.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "私が愛読してる\n『魔法少女セリイちゃん』もおススメだよーっ！\nさぁ、\n穴が開くほど見るがよい！　\nあ、ほんとに穴開けちゃダメだぞっ？"
+    },
+    {
+      "name": "Mora",
+      "text": "Um, Nanaka?\nWhat does this have to do with special moves...?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "あの、\nナナカちゃん？\nこれが必殺技とどういう関係があるのかな……？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "It certainly seems unrelated.\n...But just a little...",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "確かに、\nあまり関係ない気がします。\n……でも、\nちょっとだけ……"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Aaand we've lost her...!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "ああっ、\nシオリさんがフラ～っと吸い寄せられてゆく……！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "There's nothing but stuff here I've never seen before...\nLike that doll—it's so cute... I-I want to hold it...! ",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "見たことないものばかり……\nあの人形なんて、\nすごくかわいい……\nて、\n手に取って見てみたい……！　"
+    },
+    {
+      "name": "Nanaka",
+      "text": "...Go ahead. Pick it up.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "……いいんじゃよ？　\n手に取って見ても。"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "? W-well, if you say so...!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "っ、\nじゃ、\nじゃあ、\nちょっとだけ……！"
+    },
+    {
+      "name": "Mora",
+      "text": "Eek! Kasumi's gone now too!\nSir Knight, what should we do?!",
+      "choice_data_list": [
+        "This is interesting.",
+        "Admire the figurines."
+      ],
+      "orig_name": "モーラ",
+      "orig_text": "ああっ、\nカスミちゃんまで！\n騎士さま、\nどうしよう……！"
+    },
+    {
+      "name": "Mora",
+      "text": "You're already distracted?!\nUrgh, I hope this is really okay...",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "すでにくつろいでる！？\nう～ん、\nいいのかなぁ……"
+    },
+    {
+      "name": "Mora",
+      "text": "He looks so serious...!\nMaybe now's not the time to talk to him...!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "なんて真剣な顔だ……！\n話しかけられる雰囲気じゃない……！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Master, I can't seem to find the next volume...",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "師匠、\nこれ\n次の巻が見当たらないのですが……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "I think it's lost in that pile there—",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "多分\nその辺に積んでる本の中に紛れてると思われー"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Master, Magical Girl Celly's signature pose is like this, correct?",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "師匠、\n『魔法少女セリイちゃん』の決めポーズって\nこうでしたっけ？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ahhh, no, no. You need to angle your neck downward a bit.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あーダメダメ、\n首の角度は\nもうちょい下でござるよー"
+    },
+    {
+      "name": "All",
+      "text": "............",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Mora",
+      "text": "Hey, listen!\nKasumi, Shiori, have you forgotten why you're here?!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "ってこらー！\nカスミちゃん、\nシオリちゃん、\n目的を忘れてないっ！？"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Hold on a second please, I'm at the good part...\n...Huh?!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "待ってください、\n今いいところなんです……\n……はっ！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "If I can perfectly imitate these poses...\n...Ah?!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "このポージング\n完コピできたらね……\n……って！？"
+    },
+    {
+      "name": "Mora",
+      "text": "Sheesh, have you both returned?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "もう、\n二人ともやっと戻ってきた？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ohohoh!\nMen and women, young and old, all becoming entranced—\n[i]that[/i] is the allure of the magical girl!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "んっふっふー！\n老若男女が夢中になってしまう、\nこれぞ\n魔法少女の魅力！"
+    },
+    {
+      "name": "Mora",
+      "text": "Come on! What would you do if an Antibeast showed up right n—",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "もう、\n今アンチビーストが出たらどうする気──"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "A wild Antibeast appeared!\nIt's almost as if you summoned it.",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "呼ばれて飛び出てじゃんじゃじゃーん、\nといったタイミングですなぁ。"
+    },
+    {
+      "name": "Mora",
+      "text": "You see!\nWe haven't even got a plan. What're we gonna do?!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "ほらほらぁ！\nなんの対策もできてないのに、\nどうするのさっ！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "...Worry not.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "……いや。"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "...I'm sure all will be well.",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "……大丈夫、\nな\n気がします。"
+    },
+    {
+      "name": "Mora",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "え……？"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Mora",
+      "text": "This intensity... It's much worse than the last one...!\nKasumi, Shiori—will they be okay?!",
+      "choice_data_list": [
+        "Let's believe in them."
+      ],
+      "orig_name": "モーラ",
+      "orig_text": "この迫力……\nさっきのやつよりも……！？\nカスミちゃん、\nシオリちゃん、\n大丈夫なの！？"
+    },
+    {
+      "name": "Mora",
+      "text": "Sir Knight...",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "騎士さま……"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Hohohoh.\nNow go, my disciples!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ふっふっふ。\nさぁ行くがいい\n弟子たち！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Yes, Master!\nIf its movements are too swift, then first we have to put a stop to it!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "はいっ、\n師匠！\n動きが速いなら、\nまずはそれを止める！"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Solving mysteries in a heartbeat!\nBinding the culprit with the power of love. ☆\nMisty Wrapping!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "どんな謎でも一発解決！\n愛の力で犯人確保☆\n──ミスティラッピング！"
+    },
+    {
+      "name": "Mora",
+      "text": "Is this... new magic?!\nShe tied up the Antibeast with a magical ribbon?!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "これは……\n新しい魔法！？\n魔法のリボンで、\nアンチビーストを絡めとった！？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Now, Shiori!",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "さぁ、\nシオリさん！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Yes, leave it to me!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "はいっ、\n任せてください！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Focusing my aim on your heart!\nCertain death with the power of love. ☆\nPurely Aiming!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "ハート目掛けて精神統一！\n愛の力で必殺必中☆\n──ピュアリーエイミング！"
+    },
+    {
+      "name": "Mora",
+      "text": "Shiori's concentrating her power into her arrows...?!\nWhen the heck did she learn to do that?!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "シオリちゃんの力が、\n矢に集まっていく……！？\nいつの間に、\nこんな……！"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "I won't let my prey get away!",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "狙った獲物は、\n逃しません！"
+    },
+    {
+      "name": "Antibeast",
+      "text": "GROOAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "アンチビースト",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Heh. Nice work!\n[i]That[/i] is how magical girls get things done!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うむ、\nよくやった！\nこれぞ魔法少女なり！"
+    },
+    {
+      "name": "Mora",
+      "text": "I see... A magical girl's magic is born from her imagination.\nBeing exposed to your collection has broadened their magical girl\nhorizons...!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "そっか……\n魔法少女の魔法は、\nイメージから生まれる。\nナナカちゃんのコレクションに触れて、\n二人の中の魔法少女に対する世界が広がったんだ……！"
+    },
+    {
+      "name": "Mora",
+      "text": "So it really [i]was[/i] special training...!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "あれは\n本当に特訓だったんだね……！"
+    },
+    {
+      "name": "Mora",
+      "text": "Nanaka,\nyou were an amazing person all along!",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "ナナカちゃん、\nキミ、\n実はすごい人だったの……！？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Fwahahahah! I don't call myself a magical girl for nothing!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ふははは！　\n伊達に魔法少女を名乗ってはいないのだよ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Frankly, I just wanted to show off my collection\nto my new magical girl frens.\nBut somehow it went well! Woot! ",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "まぁぶっちゃけ\n魔法少女フレンズに\n自慢のコレクションを見せびらかしたかっただけだったりするけど、\nなんか上手くいったからヨシ！　"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Keep up the good work,\nMagical Detective Misty★Kasumi! Magical Huntress Purely★Shiori!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "これからも励むがよいぞ、\n魔法探偵ミスティ★カスミ、\n魔法狩人ピュアリー★シオリよ！"
+    },
+    {
+      "name": "Both",
+      "text": "Yes, Master!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "はいっ、\n師匠！"
+    },
+    {
+      "name": "???",
+      "text": "............",
+      "choice_data_list": [
+        "What was that?"
+      ],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "Is something the matter?",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "どうかしたんですか？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Hm? You feel like we're being watched?\nBut it doesn't look like there's anyone around here.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "うん？　\n視線を感じた？\n辺りには誰もいないようだが。"
+    },
+    {
+      "name": "Mora",
+      "text": "! Oh...! It's different from the Antibeast you just defeated—\nit feels much stronger... But it looks like it's gone already...",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "！　\nいや……\n今倒したアンチビーストとは違う、\n強い力を感じる……\nもういなくなってるみたいだけど……"
+    },
+    {
+      "name": "Purely★Shiori",
+      "text": "A strong power... different from the Antibeast...?",
+      "choice_data_list": [],
+      "orig_name": "ピュアリー★シオリ",
+      "orig_text": "アンチビーストとは違う……\n強い\n力……？"
+    },
+    {
+      "name": "Misty★Kasumi",
+      "text": "Hmmm.\nThere's a chance it could be some kind of reconnaissance.",
+      "choice_data_list": [],
+      "orig_name": "ミスティ★カスミ",
+      "orig_text": "ふむ。\n敵情視察、\nというやつかもしれないね。"
+    },
+    {
+      "name": "Mora",
+      "text": "This sensation... It's like the Antibeasts' power, but mixed in with\nsomething else. ",
+      "choice_data_list": [],
+      "orig_name": "モーラ",
+      "orig_text": "この気配……\nアンチビーストとは別の力が混ざって……？　"
+    },
+    {
+      "name": "Nanaka",
+      "text": "It seems like it's time to say it...",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "どうやら\nあれを言う時が来たようだね。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Our battle's only just beginning!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "──私たちの戦いは、\nこれからだー！"
+    },
+    {
+      "name": "All",
+      "text": "...*sigh*",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "……はぁ。"
+    },
+    {
+      "name": "Narration",
+      "text": "Magical girl Nanaka joined your party without your consent! Huh? That's\nit for my screen time?! There must be a mistake! Don't forget about\nme, Magical Detective Misty★Kasumi, Magical Huntress Purely★Shiori!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "新たなる魔法少女、\nサイカワサイツヨナナカちゃんを仲間にした一行！\nえっ、\n私の出番もしかしてここで終わり！？　\nそんなの絶対おかしいよ！\n忘れないで、\n魔法探偵ミスティ★カスミ、\n魔法狩人ピュアリー★シオリ！"
+    }
+  ]
+}

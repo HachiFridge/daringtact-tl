@@ -1,0 +1,971 @@
+{
+  "title": "Fluffy Strawberry Love Road",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Volgano and Wurm, who had been entrusted to greet the [Elizabeth Park Ranch] that requested to help with slaying monsters, were waiting for the party’s arrival in the castle town of Gio Teogonia",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "魔物退治を依頼した【牧場（エリザベスパーク）】の\n出迎えを任せられたヴォルガーノとヴルムは、\nジオ・テオゴニアの城下町で一行の到着を待っていた。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "*sigh* What a pain.\nIt's not like we're seeing a noble to have a greeting like this...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……はあ。\nめんどくさ。\n出迎えなんて、\nお貴族様じゃあるまいし……"
+    },
+    {
+      "name": "Volgano",
+      "text": "Hey, hey, how long are you going to keep sulking?\nCan't be helped, can you? Your sister's out and about at the moment.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "おいおい、\nいつまでふて腐れてんだ。\n仕方ねえだろ？\nお前さんの姉貴は\n出払ってるんだからよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Isn't Vol more than enough for this?\nI don't want to increase my workload alright?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ヴォルさんだけで十分じゃないですか。\n仕事\n増やさないでほしいんですけど？"
+    },
+    {
+      "name": "Volgano",
+      "text": "Haha. Well, it's fine, isn't it?\nYou don't have to worry about people scolding you if you're outside.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ははっ。\nま、\nいいじゃねえか。\n外回りなら\n小言を言われる心配もねえんだからよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Haah. So?\nWhat kind of weirdos are coming this time?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……はぁ。\nで？\n今度はどんな変人さんが来るんですか。"
+    },
+    {
+      "name": "Volgano",
+      "text": "\"Weirdos\" you say.\nWell, it's true that every acquaintance of the boy's is a bit different, but don't talk like they're comedians.\nMaybe that's the norm in 'Landosol'.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "変人さんてお前。\nまぁたしかに、\n坊主の知り合いはどいつも\nちっとばかし変わっちゃいるが、\n芸人みたいに言うんじゃねーよ。\n『ランドソル』てトコじゃ\nあれくらいがデフォかもしんないだろ。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Besides, the guys coming this time are probably 'proper' ones, aren't they? They run a ranch, after all. They say there's a skilled fighter who's good at dealing with monsters, and a legendary 'Ranger', too─",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "それに\n今回くる連中は、\nたぶんマトモなんじゃねえか？\n牧場を営んでるって話だし。\n魔物の対処が得意な腕利きや、\n伝説のレンジャーもいるって話で──"
+    },
+    {
+      "name": "？？？",
+      "text": "Heeeey! That really big cat uncle over there!\nAre you Volgano?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──お～～～いっ！！　\nそこのなまらでっけえ猫のおっちゃん！\nあんたがヴォルガーノさんだべか！？"
+    },
+    {
+      "name": "Volgano",
+      "text": "...Huh? \"Really\"?\nWait, I'm not old enough to be called \"uncle\"...\nHow are you, young miss? (TL note: Mahiru said \"Really\" in Hokkaido dialect)",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "……あん？　\nなまら？\nてか\n俺はおっちゃんなんて年齢じゃねーが……\n嬢ちゃんは？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Eya-, sorry sorry! I was so close to being late, I almost made a fool of myself!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "いやー、\nすまねぇすまねぇ！\n危うく遅刻すっとこ、\nすっとこどっこいになるとこだったべ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I'm Mahiru! Mahiru from [Elizabeth Park Ranch]! Since the name's Mahiru I got a 'paralyzed' sense of time...\nAnyway! Anyway, it's a good thing I made it in time.\nI'll be counting on you today!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラはマヒル！　\n【牧場（エリザベスパーク）】のマヒルだべ！\nマヒルだけに時間感覚がマヒしてて……\nつってな！\nなんにせよ間に合ってよかったべ。\n今日はよろしく頼むべよ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "......By \"skillful\"......did you mean a \"skillful\" comedian?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……\n腕利きって……\nもしかして腕利きの芸人、\nってことですか？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Oh, little maid, you've got it all figured out!\nIn addition to working at a ranch, I'm also a comedian!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "お、\nめんこいメイドさん、\nよくわかっただな！\nオラは牧場以外に芸人稼業もやってんだ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "This land... It's called Teogonia, isn't it?\nIf I have the chance, I'll definitely share some of my favorite jokes to the people here!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "この土地……\nテオゴニア\nっつったべか？\nここの人らにも、\n機会がありゃ取っておきのネタを披露させてくんろ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Hey, Vol.\nOur goal is to slay the monsters, isn't it?\nWhat's the point of calling in a comedian?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……ちょっと、\nヴォルさん。\n目的は魔物退治でしょう。\n芸人なんて呼んでどうするんです？"
+    },
+    {
+      "name": "Volgano",
+      "text": "Don't ask me that...\nAnyway, Miss Mahiru, there seems to be quite fewer people than I thought there would be...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "んなこと俺に聞かれてもよ……\nそれよかマヒルの嬢ちゃん。\n聞いてたよりずいぶん頭数が少ねぇみてぇだが……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Ah... About that...\nOne of our friends wandered off somewhere...\nAnd the other friends are out looking for her.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "あー……\nそれなんだども……\nオラたちの仲間の一人が、\nふらふら～\nっとどっか行っちまって……\n今、\n他の仲間で探しに行ってるとこなんだべ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I told them to gather here once it's the appointed time.\nThey should be here soon...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "約束の時間になったら、\n一旦ここへ集まるよう言ってあっから。\nもうじき来ると思うんだども……"
+    },
+    {
+      "name": "Volgano",
+      "text": "Oh, so that's how it is! Hey, Wurm, it looks like you can slack off for a while.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なーんだそういうことか！\nおいヴルム、\nしばらくサボってよさそうだぞ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Sounds good.\nBut if you don't show up at the appointed time, I'll be going home.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "いいですね。\nでも約束の時間になっても来なかったら\n帰りますから。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I-I'm sorry, Miss maid! Here, I'll do an impromptu one-liner for you, so cheer up!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "す、\nすまねぇ、\nメイドさん！\nほら、\nオラが即興で一発ネタ披露すっから、\n機嫌直してけれ！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Hahaha, don't worry about it, young lady.\nShe's got a straight look on her face, but I'm sure she's dancing on the inside having an excuse to slack off.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ははは、\n気にしなさんな、\n嬢ちゃん。\n澄ましたツラしちゃいるが、\nこいつはサボる口実ができて\n内心小躍りしてるだろうからな。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "If you keep blabbering unnecessary things, the castle will be decorated with an oversized shamisen, don't you know?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "余計なことを言うと\nお城に\n特大サイズの三味線が飾られることになりますけど？"
+    },
+    {
+      "name": "Volgano",
+      "text": "Nooooooo!?\nYou're going to beat me up with a Shamoji!!?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "いやああああっ！？\nしゃもじでベンベン鳴らされちゃう～っ！！？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Oooh, nice tsukkomi and reaction!\nTeogonia, I can't underestimate you...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "おおう、\nナイスなツッコミとリアクションだべ！\nテオゴニア、\nあなどれねえべな……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "...Ah! Looks like they made it!\nShioshio! Rin-rin! Over here!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "……あっ！　\n間に合ったみてぇだ！\nシオシオ！　\nリンリン！　\nこっちだべー！"
+    },
+    {
+      "name": "Rin",
+      "text": "Haaaah... It smells so sweet everywhere...\nEhehe, just breathing is enough to make me want to happily lie down~",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はあぁ……\nそこらじゅうから甘い香りがするぅ～……\nうへへ、\n息をするだけで幸せ～"
+    },
+    {
+      "name": "Shiori",
+      "text": "Geez, you can't, Rin-chan!\nPlease walk on your own. The meeting place is this way.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "もう、\nダメですってば、\nリンちゃん！\n自分で歩いてください。\n待ち合わせ場所はこっちですよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Are those two your friends?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……あのお二人が、\n件のお仲間ですか？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Right right.\nThe one who's dragging is Shiori, and the one being dragged is Rin.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "んだんだ。\n引きずってるほうがシオリで、\n引きずられてるほうがリンだべ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "This is the first time I've heard of such an introduction in my life.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "人生で初めて聞きましたよ、\nそんな紹介。"
+    },
+    {
+      "name": "Volgano",
+      "text": "-Hey, you two. I'm Volgano.\nThe one with a crude mouth here is Wurm.\nLooks like you're enjoying your tour of Gio Teogonia, huh?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "──よう、\nお二人さん。\n俺さまはヴォルガーノ。\nこっちの減らず口はヴルムってんだ。\n早速\nジオ・テオゴニア観光を楽しんでくれてるみてぇだな？"
+    },
+    {
+      "name": "Rin",
+      "text": "Wow... It's tough getting here, Shiorin.\nThere's a huge cat talking.\nI'm sure I must be really tired. Can't we go back to where we were and rest?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "わあ……\n大変だよ、\nしおりん。\nでっかい猫ちゃんが喋ってる。\nきっとあたし\nすごく疲れてるんだ。\nさっきのとこ戻って\n休んでちゃダメ？"
+    },
+    {
+      "name": "Shiori",
+      "text": "But you were being carried by Rima all the way here, weren't you.\n...Hah, um, I'm sorry. My apologies for making you wait...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "来る途中だってリマさんにおぶってもらってたじゃないですか。\n……はぁ、\nあの、\nすみません。\nお待たせしてしまって……"
+    },
+    {
+      "name": "Volgano",
+      "text": "Why, The appointed time hasn't come yet.\nThat bow though, that is a bow of high quality.\nThe skilled fighter I've heard about, is that you then young lady?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なに、\n約束の時間はまだ回ってないさ。\nにしてもその弓、\nかなりの上物だな。\n話に聞いた腕利きってのは、\nもしかして嬢ちゃんのことかい？"
+    },
+    {
+      "name": "Shiori",
+      "text": "No, that's not me...\nI think it's probably Rin-chan you're talking about.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "いえ、\n私はそんな……\nたぶん\nリンちゃんのことだと思います。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Yup! Shishio's archery skills are amazing...\nAnd even though Rin-rin looks like this, she's actually a pretty good fighter!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "んだ！　\nシオシオの弓の腕前だってピカイチだども……\nリンリンもこう見えて、\nなんまら腕が立つんだべ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "It's something that once happened with [Caon], the people there thought so highly of her monster exterminating skills that they sent her to help defending our ranch!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "もともとは【自警団（カォン）】\nってとこにいたんだども、\n魔物退治の腕を買われて、\nオラたちの牧場を守ってくれてんだべさ！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Heeh, that's quite surprising. Maybe we can work together one day.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "へえ、\nそいつは驚きだ。\nいつか手合わせ願いたいもんだぜ。"
+    },
+    {
+      "name": "Rin",
+      "text": "It's not that big of a deal.\nWell, if you're going to flatter me with that, I'd be more than welcome.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そんなたいそうなもんじゃないってば。\nま、\nそれで甘やかしてくれるなら大歓迎だけどね～"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Rin...? That's kind of like an older sister's name...\nAlthough it seems the exact opposite of who she is inside.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "リン……？　\nなんか\n微妙に姉貴みたいな名前……\n中身は正反対っぽいけど。"
+    },
+    {
+      "name": "Rin",
+      "text": "Oh, there's even a cute maid here. It's perfect.\nMaybe I should just live here now.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "おっ、\nかわいいメイドさんまでいるじゃん～\n至れり尽くせりだねえ。\nあたしもう\nここに住もうかな。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...Thanks. You're free to live here if you want,\nbut can you please take care of yourself?\nI don't want to bother other people.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……どうも。\n住むのは勝手ですけど、\nご自分の面倒はご自分で見てくれます？\nあたし、\nめんどくさいのはいやなので。"
+    },
+    {
+      "name": "Rin",
+      "text": "What a coincidence. I don't like being a bother to someone else either.\nHow about we slack off together as a token of our friendship?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "奇遇だね。\nあたしもめんどくさいのはきらいだよ。\nお近づきのしるしに、\nこれから一緒にサボるってのはどうどう？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...That's not a bad idea.\nI'll think about it.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……悪くない提案ですね。\n考えておきます。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Hahahaha! Looks like the two slackers are getting along well.\n...So, is this all of your friends?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "はっはっはっは！　\nサボり魔同士で気が合いそうだな。\n……で、\nお仲間は\nこれで全員か？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Ah, no, Rima is still...\nI think she'll be here soon. Ah, there she is.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あ、\nいえ、\nリマさんがまだ……\nもうすぐ来ると思うんですけど\n──あっ、\n来たみたいです。"
+    },
+    {
+      "name": "Lima",
+      "text": "Geez! Rin-chan!\nI've been looking all over for you! Where have you been all this time?!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "もー！　\nリンちゃんったら！\nすっごく捜したんだから！　\nいったいどこに行ってたのよ～！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Oh. Everyone's finally here.\nWha...?!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "おう。\nようやく全員集まったか。\n──なぁっ……！？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Volgano?\nWhat's wrong?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "？　\nヴォルガーノ……\nさん？\nどうかしましたか？"
+    },
+    {
+      "name": "ヴォルガーノ",
+      "text": "な……\nなんて──",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "な……\nなんて──"
+    },
+    {
+      "name": "Volgano",
+      "text": "What a gorgeous young lady...!!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なんてマブいお嬢さんなんだ……っ！！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……は？"
+    },
+    {
+      "name": "Rin",
+      "text": "I'm sorry, Rima. No matter where I look, it's like a dream come true.\nI couldn't help but give in to temptation.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "リマごめん～\nだって\nどこを見ても夢みたいな景色でさ。\nつい誘惑に負けちゃった。"
+    },
+    {
+      "name": "Lima",
+      "text": "Honestly, we're not here for sightseeing.\nWe're here to protect the people of this land from monsters, aren't we?\nYou should be more nervous!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "まったく、\n観光に来たんじゃないんだからねっ。\nこの土地の人たちを、\n魔物から守るために来たんでしょ？\nもっと緊張感を持たないと！"
+    },
+    {
+      "name": "Lima",
+      "text": "...Oh? You're Volgano?\nNice to meet you! My name is Rima!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "……あら？　\nあなたがヴォルガーノさん？\n初めまして！　\n私、\nリマって言います！"
+    },
+    {
+      "name": "Volgano",
+      "text": "...Y-Yeah. Rima-san, huh...\nWhat a beautiful name...\nIt feels like music to my ears...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "……お、\nおう。\nリマさん\nっていうのか……\nなんて美しい名前だ……\n耳が洗われるようだぜ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Ara, such flattery♪\n...Hehehe, I've heard about you, but you really are fluffy.\nJust like me!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "あら、\nお上手ね♪\n……うふふ、\n話には聞いてたけど、\n本当にもふもふなのね。\n私とおんなじ！"
+    },
+    {
+      "name": "Lima",
+      "text": "Let's get along as fluffy fellows, Mr. Volgano♪\nI'd like to jump straight into business, but could you guide me to the innkeeper?\nI've been carrying heavy luggage on my back, so I'm all worn out.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "もふもふ同士、\n仲良くしましょ。\nヴォルガーノさん♪\n早速だけど、\n宿屋さんに\n案内してもらえないかしら。\n重い荷物を背負ってきたから、\nもうへとへとなの。"
+    },
+    {
+      "name": "Volgano",
+      "text": "...I-In that case, leave the luggage-carrying along the way to me!\nI'm confident with my capabilities! Just some simple task!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "……な、\nなら、\n道中の荷物持ちは\n俺さまに任せてくれ！\n腕っぷしには自信があるからな！\nそれくらい\nお安い御用だぜ！"
+    },
+    {
+      "name": "Lima",
+      "text": "Well, thank you for your kindness♪\nI'll take you up on your offer.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "まあ、\nご親切にありがとう♪\nお言葉に甘えさせてもらうわね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Hmm...?\nWell, well... Could it be, could this be...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "んんー……？\nこれはこれは……\nもしかして、\nもしかするのかな？"
+    },
+    {
+      "name": "Shiori",
+      "text": "R-Rin-chan, you think so too right?\nCould this be, without a doubt...?\nVolgano to Rima─",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "リ、\nリンちゃんもそう思います？　\nこれってやっぱり、\nそうですよね……\nヴォルガーノさんは、\nリマさんに──"
+    },
+    {
+      "name": "Rin",
+      "text": "Yep, yep. This is getting interesting.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うんうん。\nおもしろいことになってきたねぇ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "? What are you two talking about?\nWe can talk later after we get to the inn!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "？　\n二人とも、\n何の話してんだ？\n話ならお宿についてからにすっべよ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "... Haa.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……はあ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Amazing! I can't believe the whole place is made of sweets...!\nJust like Rin-chan said, it really is like a dream come true♪",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "──すごい！　\nこんなところまでお菓子でできてるなんて……！\nリンちゃんも言ってたけど、\n本当に夢みたいなところね♪"
+    },
+    {
+      "name": "Volgano",
+      "text": "This is Hotel Montblanc...\nIt's the most famous inn in the castle town.\n...Do you like it?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ここは\nホテル・モンブランっつって……\n城下町ではいちばんと評判の宿なんだ。\n……気に入ってくれたか？"
+    },
+    {
+      "name": "Lima",
+      "text": "Yes, very much so!\nI'm looking forward to seeing our room!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "ええ、\nとっても！\nお部屋を見るのが楽しみだわ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "*sigh* Thank you!\nThis is the first time I've stayed at such a fancy inn!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "はー、\nありがてぇ！\nオラ、\nこんな豪華なお宿に泊まるの初めてだべ！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Rimarima and I are going to leave the luggage here and go take a look around, so Shio-shio will keep an eye on Rin-rin until we get back!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "したっけ、\nオラとリマリマでチェックインして荷物置いてくるから、\nシオシオはオラたちが戻るまで、\nリンリン見張っといてな！"
+    },
+    {
+      "name": "Lima",
+      "text": "Be a good girl and wait for me, Rin-chan~ Hehehe,\nI wonder what kind of interior design it'll be.\nI'm so excited♪",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リンちゃん、\nいい子で待っててね～\nうふふ、\nどんな内装なのかしら。\nわくわくしちゃう♪"
+    },
+    {
+      "name": "Volgano",
+      "text": "*sigh* She looks so cute from behind...\nHer pure white fur, her fluffy tail...\nNo matter how you look at it, it's like a feast for the eyes...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "……はぁ～\n後ろ姿まで可憐だ……\nあの純白の毛並み、\nふわふわの尻尾……\nどっからどう見たって\n目の保養ってやつだぜ……"
+    },
+    {
+      "name": "Rin",
+      "text": "Completely head over heels already, aren't you.\nLove at first sight for my Rima, you've got good eyes uncle~",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "──いやー、\nお熱いねぇ。\nうちのリマに一目惚れとは、\nおっちゃんお目が高いよ～"
+    },
+    {
+      "name": "Volgano",
+      "text": "Yeah, the moment I saw her, I freaked out...\nI've never felt anything like this before in my life─",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ああ、\n一目見た瞬間、\nビビッと来ちまった……\nこんな感覚は生まれて初めてで──"
+    },
+    {
+      "name": "Volgano",
+      "text": "Oy! Wh-Wh-Wh-What are you talking about, young lady?!\nI-I'm not... I'm not feeling anything that I should be ashamed with at all...!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "っ\nてオイ！\nななな、\nなに言い出すんだ嬢ちゃん！？\nお、\n俺は別に……\nそんな\nやましい気持ちなんざ\nこれっぽっちも……！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Your thoughts are leaking out. To fall in love with a guest at first sight... You can't tell me off about my habit of slacking now can you Vol?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "駄々洩れでしたよ。\nお客サマ相手に一目ぼれなんて……\nあたしのサボり癖をとやかく言えないんじゃないですか、\nヴォルさん。"
+    },
+    {
+      "name": "Volgano",
+      "text": "Ngh...! N-No!\nI just want to thank our guests for coming all the way here...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "ぐぬ\nっ……！　\nち、\n違うっ！\n俺さまはただ、\n遠路はるばる来てくれた客人を、\n労いたい\n一心でだな……"
+    },
+    {
+      "name": "Shiori",
+      "text": "I-I think it's great!\nVolgano and Lima are both fluffy, and they look like a really good match...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "わ、\n私はいいと思います！\nヴォルガーノさんとリマさん、\nもふもふ同士で、\nとってもお似合いで……"
+    },
+    {
+      "name": "Rin",
+      "text": "Mhm. It makes me want to cheer you on~",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うんうん。\n応援したくなっちゃうよね～"
+    },
+    {
+      "name": "Volgano",
+      "text": "-R-Really?! Well, I'm aware that I'd never be able to match with Rima's brilliance to become her mate, but...\nIf I could get even a little closer to her...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "──ほ、\n本当か！？　\nいや、\nリマさんのあのマブさじゃ\n俺なんぞ釣り合うワケねえことくらい\n百も承知だけどよ……\nほんのすこしでも\nお近づきになれたら……\nなんて……"
+    },
+    {
+      "name": "Rin",
+      "text": "In that case, why don't we give it a try?\nLet's give Rima a special romance as a present.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "それなら、\nあたしたちが一肌脱いであげようじゃないさ。\nとびきりのロマンスを、\nリマにプレゼントしようよ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "I-I'll help, too!\nNo, please let me!\nRima has always been helping me out...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "わ、\n私もお手伝いします！　\nいえ、\nさせてください！\nリマさんには、\nいつも助けてもらってるから……"
+    },
+    {
+      "name": "Volgano",
+      "text": "Th-Thanks!\nI'm counting on you, girls!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "あ、\nありがてぇ！\nよろしく頼むぜ、\n嬢ちゃんたち！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "I'm sorry to interrupt, but can I go home now?\nThis sounds like a pain.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "盛り上がってるとこ悪いんですけど。\nあたし\nもう帰っていいですか？　\nめんどそうなので。"
+    },
+    {
+      "name": "Rin",
+      "text": "Oh come on miss prim-and-proper maid. Don't say that.\n...If you go back to the castle, you might be forced to work again.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "まあまあ\nお澄ましなメイドさん、\nそう言わずにさ。\n……お城に戻ったら、\nまた仕事させられちゃうかもしれないよ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...You have a point.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……一理ありますね。"
+    },
+    {
+      "name": "Rin",
+      "text": "If you're with us, even just for the sake of it, that means you've been working. Besides, I'm sure their love life will be a good way to pass the time. ...What do you think? Wanna come along?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "形だけでもあたしらと一緒にいれば、\n仕事はしてたことになるし。\nそれに\nあの二人の恋路は、\nきっといい暇つぶしになるよ。\n……どう？　\n付き合わない？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "-I see.\nWell, as long as I can slack off, I don't care. Count me in.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "──なるほど。\nま、\nあたしはサボれるならなんでもいいので。\n乗ります。"
+    },
+    {
+      "name": "Rin",
+      "text": "All right! Let's have a strategy meeting right away!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "よしきた！　\nそれじゃ早速、\n作戦会議をしなくちゃね～"
+    },
+    {
+      "name": "Narration",
+      "text": "A few minutes later Volgano waits impatiently for Rima to come out of the inn, a huge bouquet of sweets in hand.\nThe group is watching him from behind the flower bed.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "数分後──\nお菓子でできた巨大な花束を手に、\nリマが宿から出てくるのを今か今かと待ちわびるヴォルガーノ。\nその姿を、一行は花壇の陰から見守っていた。"
+    },
+    {
+      "name": "Volgano",
+      "text": "-R-Rima... I love you! Please go out with me!\n...N-No, that's too frank...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "──リ、\nリマさん……\n好きだ！　\n俺と付き合ってくれ！\n……い、\nいや、\nこれはいくらなんでも率直過ぎるか……"
+    },
+    {
+      "name": "Volgano",
+      "text": "Rima, I've been trying to come up with a bouquet that reminds me of you... Do you know? This flower language means... Um, well... Dammit, no, I can't, I don't know anything fancy like flower language!",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "リマさん、\nあんたをイメージした花束を都合してみたんだが……\n知ってるかい？　\nこの花の花言葉は……\nえっと、\nその……\nくそ、\nダメだダメだ、\n花言葉なんて洒落たもん\n知るかっての！"
+    },
+    {
+      "name": "Rin",
+      "text": "Hey, Shiorin.\nIsn't that huge bouquet of flowers a little too much for their first meeting?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "──ねえ、\nしおりん。\nやっぱりほぼ初対面で\nあのでっかい花束はさすがにやりすぎじゃない？"
+    },
+    {
+      "name": "Shiori",
+      "text": "R-Really...?\nBut I think giving flowers as a present is a good idea.\nThere were a lot of scenes like that in the books I've read...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "そ、\nそうですか……？\nでも、\nお花をプレゼントするのは\nいいアイデアだと思うんです。\n私が読んだ本にも\nそういうシーンがたくさんあったし……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Besides, Lima-san likes flowers,\nso I thought she'd be happy with it...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "それに\nリマさんはお花が好きですし、\nとりあえず喜んではもらえるかな\nって……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "It's fine, isn't it?\nAt the very least it wouldn't be boring to watch.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "いいんじゃないですか。\nすくなくとも\n見てて退屈はしないですね。"
+    },
+    {
+      "name": "Rin",
+      "text": "I can say that. ...Ah!\nRima and Mahi~ came out! The fun starts here~",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "それは言えてる。\n……あっ！　\nリマとまっひ～が出てきた！　\nお楽しみはここからだよ～"
+    },
+    {
+      "name": "Lima",
+      "text": "It was like a room straight out of a fairy tail wasn't it?\nThat sweet-smelling bed, I want to relax on top of it to my heart's content once I'm done with slaying monster.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "──メルヘンなお部屋だったわね～。\nあの甘い匂いのするベッド、\n魔物退治が終わったら\n思う存分あの上でくつろぎたいわ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "It was like coming straight out of a picture book!\n...Hm? What's wrong, Volgano? Why are you just standing there...\nholding something in your hand?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "まるで絵本に出てくる部屋みてぇだったべさ！\n……ん？　\nなした、\nヴォルガーノさん？\nそんなとこ突っ立って……\nその手に持ってるのはなんだべか？"
+    },
+    {
+      "name": "Volgano",
+      "text": "U-Umm, Rima... About this bouquet...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "あ、\nあの、\nリマさん……\nこの花束なんだけどよ……"
+    },
+    {
+      "name": "Lima",
+      "text": "A flower bouquet...\nAnd it's so big...?! Could this be...",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "は、\n花束……\nそれも\nこんなに大きな……？\n！　\nこれって\nもしかして──"
+    },
+    {
+      "name": "リマ",
+      "text": "きゃーーーっ！　\nうそでしょ！\n両手いっぱいの花束……\n勘違いじゃないわよね！？\nもしかして私、\nこれから\n告白されちゃうのー！？　",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "きゃーーーっ！　\nうそでしょ！\n両手いっぱいの花束……\n勘違いじゃないわよね！？\nもしかして私、\nこれから\n告白されちゃうのー！？　"
+    },
+    {
+      "name": "Volgano",
+      "text": "I-I know it's sudden, but there's something I want to talk to you about...\nNo, something I need to tell you.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "お、\n俺さまも\n急な話だとは思うんだが、\n折り入って、\nあんたに\n話したいことが……\nいや、\n伝えたい言葉があるんだ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Oh no, Volgano's eyes are so passionate...!\nIt's not a misunderstanding after all! What should I do?\nThis is my first time being confessed to, and I don't know what to do~",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "やだ、\nヴォルガーノさんの目、\nとっても情熱的……！\nやっぱり\n勘違いなんかじゃないわ！　\nどうしよう、\n告白されるのなんて初めてで、\n私\nどうしたらいいか──"
+    },
+    {
+      "name": "Volgano",
+      "text": "Lima...! If you don't mind...\nPlease accept this bouquet of flowers, and my feelings!\nI... to you, I'm─",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "リマさん……！　\nもしあんたさえよけりゃ……\nこの花束を、\n俺さまの気持ちを受け取ってくれ！\n俺は……\n俺さまは、\nあんたに──"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Hm? Oh, if it isn't the young lad!\nI'm so happy to see you this early after arriving in Teogonia!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ん？　\nおっ、\nあんちゃんでねぇか！\nテオゴニアに着いて早々会えるなんて\n幸先いいべな！"
+    },
+    {
+      "name": "Lima",
+      "text": "Eh!?",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "──えっ！？"
+    },
+    {
+      "name": "リマ",
+      "text": "きゃーーーっ！　\n修羅場だわ！\n私\nこういうのシオリちゃんの読んでる本で見たもの！\n大変！　\nこのままじゃ\n私を巡って泥沼の恋愛劇が始まっちゃうわ！　",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "きゃーーーっ！　\n修羅場だわ！\n私\nこういうのシオリちゃんの読んでる本で見たもの！\n大変！　\nこのままじゃ\n私を巡って泥沼の恋愛劇が始まっちゃうわ！　"
+    },
+    {
+      "name": "ヴォルガーノ",
+      "text": "！　\nリマさんの坊主を見るキラキラした瞳──\n……\nひょっとして！　\nまさか！\nそ、\nそ、\nそういうことなのかっ……！？　",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "！　\nリマさんの坊主を見るキラキラした瞳──\n……\nひょっとして！　\nまさか！\nそ、\nそ、\nそういうことなのかっ……！？　"
+    },
+    {
+      "name": "Volgano",
+      "text": "Heh?! Ah, ahhhh, this?!\nThis is... L-L-L-Look, you guys are tired from the long journey, aren't you?\nYou must've missed eating some sweets after all that journey....",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "へっ！？　\nあっ、\nああああ\nこれか！？\nこれはだな……\nほほほ、\nほら、\nあんたら長旅で疲れてんだろ？\nそういうときは\n甘えのが恋しいんじゃねえかって……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Whoa, really?! The flowers are made of candy!\nI've never seen such a beautiful sweet product before!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "うおっ、\nほんとだべ！？\n花がお菓子でできてるべや！\nオラ\nこんなきれえな砂糖細工\n見たことねぇだよ！"
+    },
+    {
+      "name": "Volgano",
+      "text": "M-My feelings... Well, it's just a gift from the heart.\nRima, no, you guys have fun together.\nIf you'd like, you can have some too, boy...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "お、\n俺さまの気持ち……\nまあ、\n心ばかりの\n差し入れだ。\nリマさん──\nい、\nいや、\nあんたらみんなで\n楽しんでくれ。\nよかったら\n坊主も\n摘まんでけよ……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "What a cool idea!\nThanks for everything!\nNow, let me try one of those!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "なんて粋な計らいだべ！　\nなんからなにまであんがとな！\nどれどれ、\nオラにもお一つ食べさせてくんろ！"
+    },
+    {
+      "name": "Lima",
+      "text": "I-Is that so...? Geez, I jumped to the wrong conclusion!\nI'll have some right away! \nMmm! These flowers taste like strawberries! How wonderful!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "そ、\nそうだったの……？\nやだもう、\n私ったら\n早とちりしちゃった！　\n早速いただくわね！\nん\nん～！　\nこのお花、\nいちごの味がする！　\nなんて素敵なの！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Ye-Yeah. I'm glad you like it.\nHa, hahahaha...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "お、\nおう。\n喜んでもらえたなら\nなによりだぜ。\nは、\nはははは……"
+    },
+    {
+      "name": "マヒル",
+      "text": "……んん？　\nヴォルガーノさん、\nなして浮かねぇ顔してんだ？\nそれにリンリンとシオシオ、\nメイドさんはどこにいるんだべか？　",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "……んん？　\nヴォルガーノさん、\nなして浮かねぇ顔してんだ？\nそれにリンリンとシオシオ、\nメイドさんはどこにいるんだべか？　"
+    },
+    {
+      "name": "Rin",
+      "text": "Aww. That was close!\nI thought it'd be even more interesting, but reality was so cruel.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "──あちゃー。\n惜しかった！\nもっとおもしろいことになりそうと思ったけど、\n現実は非情だったねぇ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "*sigh*... That loser.\nYou should've said something.\nWell, I had a lot of fun, so it's fine.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "はあ……\nあのヘタレ。\n一言添えればよかったでしょうに。\nま、\nそれなりに楽しめたからいいですけどね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Well, it doesn't seem like a bad first impression.\nA passing grade, right? I have high expectations for the future. \nI need to come up with my next plan right away...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ま、\n心象は悪くなさそうだし。\n及第点でしょ\n及第点。\n今後に期待だね。\n早速、\n次の作戦を考えないと……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "-Rin-rin. Shioshio. Miss maid.\nWhat *are* you doing, hiding in the shadows like that?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "──リンリン。\nシオシオ。\nメイドさん。\nそんな物影に隠れて……\nいったいなにしてんだべ？"
+    },
+    {
+      "name": "Rin",
+      "text": "...Geh. She found us.\nCrap, crap, Mahi~ is going crazy.\nLet's retreat for now!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "……げっ。\n見つかっちゃった。\nやばいやばい、\nまっひ～激おこじゃん。\nこの場は\n一時撤退だ！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Understood. Being lectured by an older sister is more than enough for me...\nWell then, Shiori, please excuse me. See you later.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "承知しました。\nお説教なんて姉貴にされるのだけで十分ですし……\nではシオリさん、\n失礼します。\nまた後ほど。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Heeeh~~?!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "えぇ～～っ！？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Hey, you two! Why are you running away?!\nYou must have been up to some mischiefs again!\nI won't let you get away with it today! I'll beat you to a pulp!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "こら～、\n二人とも！　\nなんで逃げんだ！\nさてはまたろくでもねぇいたずらしてたんだべ！\n今日という今日は許さねぇど！　\nとっちめてやるだよ！"
+    },
+    {
+      "name": "Volgano",
+      "text": "*sigh* Love really isn't my thing, is it?\nI guess I shouldn't do things I'm not used to...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "……はーあ。\nやっぱり色恋なんざ、\n俺さまの柄じゃねぇよな。\n慣れねえことはするもんじゃねぇってことか……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Um, Volgano...\nI'm sorry. It didn't go how I expected...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あの、\nヴォルガーノさん……\nごめんなさい。\n思ったような結果にならなくて……"
+    },
+    {
+      "name": "Volgano",
+      "text": "What, you came to comfort me? Thanks. But there's no need for you to apologize, young lady. Rima has always been a flower of the highest caliber to me~",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "なんだ、\n慰めに来てくれたのか？　\nありがとうな。\nだが\n嬢ちゃんが謝ることじゃねぇさ。\nもともとリマさんは\n俺には高嶺の花だったんだ──"
+    },
+    {
+      "name": "Shiori",
+      "text": "No, um... I don't think that was a good approach!\nI don't know if it was the order or the setup...!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "いえ、\nその……\nき\nっと\nアプローチがよくなかったと思うんです！\n順序というか、\n段取りというか……！"
+    },
+    {
+      "name": "Volgano",
+      "text": "...Yeah?",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "……うん？"
+    },
+    {
+      "name": "Shiori",
+      "text": "In fact, Rima was really happy...\nI'm sure she'll realize how Volgano-san feels if we go through the steps like this!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "実際リマさんは喜んでくれましたし……\nこうやって段階を踏んでいけば、\nきっと\nヴォルガーノさんの\n気持ちに気づいてくれるはずです！"
+    },
+    {
+      "name": "Volgano",
+      "text": "Y-Yeah...",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "お、\nおう……"
+    },
+    {
+      "name": "Shiori",
+      "text": "That's why I'll continue to cooperate with you from now on, Volgano.\nI'm sure we'll be able to fulfill your love for each other!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "だから私、\nこれからも\nヴォルガーノさんに協力します。\n二人の恋路を、\nきっと成就させてみせますから！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Leave it to me. I know a lot from reading romance novels...\nI'm sure I can help! Let's do our best!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "任せてください。\n私、\n恋愛小説とか詳しいので……\nきっとお力になれると思います！　\nがんばりましょう！"
+    },
+    {
+      "name": "Volgano",
+      "text": "I-I see... Thanks.",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "そ、\nそうか……\nありがとな。"
+    },
+    {
+      "name": "ヴォルガーノ",
+      "text": "な、\nなんつーか……\nあの\nぐうたらの嬢ちゃんとヴルムが面白がってんのは察してたが……\n結局\nこのお嬢ちゃんが\nいちばん楽しんでねぇか……？　",
+      "choice_data_list": [],
+      "orig_name": "ヴォルガーノ",
+      "orig_text": "な、\nなんつーか……\nあの\nぐうたらの嬢ちゃんとヴルムが面白がってんのは察してたが……\n結局\nこのお嬢ちゃんが\nいちばん楽しんでねぇか……？　"
+    },
+    {
+      "name": "Narration",
+      "text": "Volgano's love at first sight had begun with rocky start.\nThe advice from Shiori and the others continued for a while after that.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "前途多難に始まったヴォルガーノの一目惚れ。\nシオリたちからのアドバイスは、\nそれからしばらくのあいだ続いたのだった。"
+    }
+  ]
+}

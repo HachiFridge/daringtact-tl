@@ -1,0 +1,547 @@
+{
+  "title": "A Humiliating Retreat",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Rushing out of the teahouse, {0} and the members\nof Weissflügel: Landosol Branch reach the source of the scream.\nA crowd has gathered there, and two figures stand at its center.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "茶屋を出た【ヴァイスフリューゲル　ランドソル支部】と\n{0}は、悲鳴の聞こえた場所へと辿り着く。\nそこには人だかりができており、中心には二人の人物がいた。"
+    },
+    {
+      "name": "Mayor",
+      "text": "Sir Magistrate... Right this way.",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "アクダイカン様……\nこちらです。"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Ah, so this is the establishment defying my decrees.",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "ほう、\nここが\nワシの命を無視する無礼な店か。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I guess that shop is where the trouble's happening.\nWhat exactly are those men talking about?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……騒ぎが起こってるのは、\nあのお店みたいですね。\n男の人たちが\n何か話しているみたいです……"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh! I know one of them! That's the mayor of Oedo Town!\nHe's a good Landosol man who came here\nto help the town thrive and achieve its full potential!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あっ、\n一人は知ってマス！\n　\nオーエド町の\n町長さんデス！\nランドソル出身の人で、\nこの町を\nもっと\n発展させようと頑張っている\n良い人デスよ♪"
+    },
+    {
+      "name": "Yuki",
+      "text": "And the man by his side who he's calling \\\"Sir Magistrate\\\"?\nHe looks less human than even the demonfolk.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "アクダイカンとか呼ばれている、\n隣の明らかに美しくないのは？\n人間とも、\n魔族とも違うみたいだけど。"
+    },
+    {
+      "name": "Ninon",
+      "text": "I've never seen him before either...\nBut... There's something super suspicious about him!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……ワタシも\n見たことないデス……\nでも！\nなんだか、\nものすごく怪しいデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "A \\\"magistrate\\\"... The \\\"Samurai Road\\\" book I was reading earlier\nspoke of \\\"evil magistrates\\\" whose nefarious deeds\nwould often be thwarted by the heroes of Togoku.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "アクダイカン……\n先ほどの本屋で見たＳＡＭＵＲＡＩロードには、\nトーゴクの行政官ながら\n悪事を働き、\nトーゴクの英雄に成敗されたと書かれていたな。"
+    },
+    {
+      "name": "Monika",
+      "text": "Indeed, they are so infamous\nthat the name of \\\"Evil Magistrate\\\" is synonymous with villainy.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "その悪逆非道さゆえに、\nトーゴクでは\n悪党の代名詞となっているらしい。"
+    },
+    {
+      "name": "Ninon",
+      "text": "B-but this town is run by a friendly mayor,\nand anyway, I've never seen any Evil Magistrates here before!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "で、\nですが、\nこの町を治めているのは\n町長さんデスし、\nそもそも\nこの町には\nアクダイカンなんていなかったデス！"
+    },
+    {
+      "name": "Kuka",
+      "text": "Th-then just who is that man there\nbeing called by such an ominous name?",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "だ、\nだったら、\nあの同じ名前の人は\nいったい何者なんでしょうか……？"
+    },
+    {
+      "name": "Mayor",
+      "text": "Two days late on taxes... Just a warning for now, then.\nAll right, let me call the shop's owner...",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "上納金の滞納二日目……\nならば今回は勧告ですね。\nでは、\n主人を呼んでまいります……"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "No need for that. Raze it to the ground.",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "その必要はない、\n今すぐ取り潰せ。"
+    },
+    {
+      "name": "Mayor",
+      "text": "Excuse me...?!\nDidn't we agree on up to a week's deferral?",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "そんなっ……！？\n上納金滞納は、\n一週間まで許されるはずでは……"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "And I said that there is no need for that.\nOr did you not hear me?",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "このワシが、\nその必要はないといったのだが……\n聞こえなかったかな？"
+    },
+    {
+      "name": "Mayor",
+      "text": "B-but, ah...\nAll right... As you wish...",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "し、\nしかし……\nいえ、\nわかりました……"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Heheheh. Men who would defy me\nhave no place in this town. Hahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "くっくっく……\nワシに逆らう者は\nこの町に必要ないのだ……\nは～っはっはっはっはっはっは～！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "That Evil Magistrate is trying to destroy the shop!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あのアクダイカン、\n店を壊すつもりデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "Let's stop him. Everyone follow me!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "止めるぞ、\n全員ついてこい！"
+    },
+    {
+      "name": "Yuki",
+      "text": "I'd really rather not get involved in conflicts like this, but oh well...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "こういう荒事は、\nボク的には興味ないんだけどなぁ……"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Hmm? Who are you interlopers?",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "ん？\n　なんだ貴様らは？"
+    },
+    {
+      "name": "Monika",
+      "text": "That's enough, villain! This open oppression\ndefies all that we proud soldiers of Weissflügel hold dear!\nI will apprehend you, and turn you over to Nightmare and the palace!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "そこまでだ悪党！\n　\n民を虐げるなど、\n誇り高き【ヴァイスフリューゲル】の一員である私が許さん！\n捕縛して、\n【王宮騎士団（NIGHTMARE）】に引き渡してやる！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Surrender now, and pay the piper his dues!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "いさぎよく、\nネングを\n納めるのデス！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Visitors from outside? You mustn't stand up to the Magistrate!\nIf you anger him too greatly, he could crush the town underfoot!\nPlease, just leave this place!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "別の町の住人か……\nアクダイカン様に逆らってはいけない！\nアクダイカン様が本気になれば、\nこのオーエド町ごと潰されてしまう……\n今すぐここから立ち去るんだ！"
+    },
+    {
+      "name": "Ninon",
+      "text": "So that's how it is... Everyone, have no fear!\nFor we have that hero among heroes, the mighty shogun, on our side!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "そういうことでしたか……\nみなさん\n安心するデス！\nワタシたちには、\n天下の英雄、\nショーグンがついているのデスから！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Th-the shogun...?!\nThe king of Togoku who united the nations\nand brought peace to the lands?!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "ショ、\nショーグン……！？\n天下を統一し、\n世を太平へと導くという\nトーゴクの王……！？"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Wh-what is this?! I've heard nothing of a shogun ruling here!\nI was told this town would fall easily to petty threats!\nWas that all a lie?!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "な、\nなんだとっ！？\n　この町にショーグンがおるなど聞いていないぞ！\n適当に脅せば金を巻き上げ放題と聞いておったのに、\n話が違うではないか！！"
+    },
+    {
+      "name": "Kuka",
+      "text": "...U-um, his attitude certainly shifted quickly.",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "……\nな、\nなんだか\n急に態度が変わりましたね。"
+    },
+    {
+      "name": "Monika",
+      "text": "The book did say that they're weak to authority figures...\nThis really is a classic Evil Magistrate.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "権力に弱いと\nＳＡＭＵＲＡＩロードにも書いていたが……\nまさに、典型的なアクダイカンだな。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Heheheh... Now, behold the face of the one you fear!\nThis man is the noble and mighty shogun!",
+      "choice_data_list": [
+        "H-hi, I'm the shogun...",
+        "Hello? Are there any shoguns here?"
+      ],
+      "orig_name": "ニノン",
+      "orig_text": "フッフッフ……\nさあ、\nその目にとくと焼き付けるデス！\nこれぞ\n天下のショーグン様デース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Sh-Shogun! Restrain your natural modesty!\nThe situation calls for vim and vigor!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショ、\nショーグン！\nオクユカシ過ぎマース！\n　\nもっと声を張るデース！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Shogun!\nI know you must remain undercover in your daily life,\nbut this is the time to unveil your true identity!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ショーグン！\n世を忍ぶ仮の姿として接するのは\n大事なことデスが、\n今は\nその真なる姿を\n見せつける時デス！！"
+    },
+    {
+      "name": "Townsperson 1",
+      "text": "That's the shogun?",
+      "choice_data_list": [],
+      "orig_name": "町人１",
+      "orig_text": "彼がショーグン？"
+    },
+    {
+      "name": "Townsperson 2",
+      "text": "Uh... I'm not buying it.",
+      "choice_data_list": [],
+      "orig_name": "町人２",
+      "orig_text": "いや……\n無理があるだろ……"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Heh... Heheh... Hahahahahah! What a farce!\nI should have known there would never be a king of Togoku\nin a place like this!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "ふっ……\nふふっ……\nふははははははっ！\n驚かせおって！\nよく考えれば、\nこのような町にトーゴクの王が居るわけがない！"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "As thanks for your clownery, I will play along with your little game.\nHeheheh... You may have one man,\nbut a gaggle of girls like you can never hope to overcome me!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "騙してくれた礼として、\nワシ自ら貴様らの\n戯れに付き合ってやろう。\nくっくっくっ……\n男が一人紛れているが、\n貴様らのような女どもが、\nどこまでできるか楽しみよ！"
+    },
+    {
+      "name": "Kuka",
+      "text": "Eek?!\nTh-that gaze... It sends shivers running down my spine!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ひぃ！？\nあ、\nあの目線、\nクウカにすら寒気が走りました……！"
+    },
+    {
+      "name": "Monika",
+      "text": "You think me no more than a girl?\nI am a proud soldier of Weissflügel, and—",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "女と思って\n甘く見ないことだな。\n私は誇り高き\n【ヴァイスフリューゲル】の一員で……"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Oh, you brought a brat, too.\nI have no interest in children's games!\nOut of my sight!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "む、\nガキが紛れていたか。\n貴様のようなガキなどどうでもよいわ。\nさっさと去ね！"
+    },
+    {
+      "name": "Monika",
+      "text": "I... I am a fully grown woman!!!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "わ、\n私は大人だぁぁあ～～！！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "M-Monika!\nYou can't slice him with that sword!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "モ、\nモニカさん！\nさすがに剣で斬るのは……！"
+    },
+    {
+      "name": "Monika",
+      "text": "I know, I know!\nA scabbard strike, avoiding any fatal spots... Take thiiiiis!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "分かっている！\n鞘を付けた状態で、\n急所を狙わずに……\nくらえぇぇぇ！！"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Was that a shoulder massage?\nHeheheh... You really are a little brat.",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "肩たたきの練習か？\nクックック……\nまさに\nガキの悪戯よな。"
+    },
+    {
+      "name": "Monika",
+      "text": "Wha—?!\nM-my attack had no effect whatsoever?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "なっ！？\nわ、\n私の一撃が効かないだと！？"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Now, it's time you all learned\nwhat happens to those who dare to defy me!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "このワシに歯向かうとどうなるか、\n貴様ら全員にその身をもって教えてくれるわぁ！！！！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Waahh!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……ひっ！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "A-are you OK, Ayumi?!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "だ、\n大丈夫デスか、\nアユミさん！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Y-yes... M-my legs just kind of gave out on me...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "は、\nはい……\nちょ、\nちょっと、\n腰が抜けそうになっただけで……"
+    },
+    {
+      "name": "Monika",
+      "text": "Wh-what is this ferocious aura?!\nAnd this sheer malice... Can it be?! ",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……な、\nなんなのだこの威圧感！？\nそれにこの殺気……\nまさかっ！？　"
+    },
+    {
+      "name": "Monika",
+      "text": "Everyone! Draw your weapons!\nThat's no human... It's a monster!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "総員！　抜刀許可！\nあれは人ではない……\n魔物だ！"
+    },
+    {
+      "name": "Kuka",
+      "text": "...Wh-what?!\nA... a monster in the middle of town?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "……そんな！？\nな、\nなんでこんな町の中に……！？"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "I'll take care of this girl here first!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "まずはそこの娘から片付けてやる！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Wha... Waaaaahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "え……\nきゃああぁあああ～～！！"
+    },
+    {
+      "name": "Monika",
+      "text": "A-Ayumiiiii!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ア、\nアユミ～～！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Th-that golden katana... It's so destructive!\nI thought the shockwave might send me flying!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あ、\nあの金ぴかカタナ、\nトンデモ破壊力デス！\n衝撃で吹き飛ばされるかと思ったデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "Yuki!\nBack us up and tend to Ayumi's wounds!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ユキ！\nサポートをしつつ、\nアユミの介抱を頼む！！"
+    },
+    {
+      "name": "Yuki",
+      "text": "I suppose this is no time to be avoiding conflict.\nLeave it to me!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……荒事に関わりたくないとか\n言ってられないようだね。\n分かったよ！"
+    },
+    {
+      "name": "Monika",
+      "text": "With that sheer power, it's too dangerous to approach him!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "あの破壊力を前に、\n近寄ったら\nまずい……！"
+    },
+    {
+      "name": "Ninon",
+      "text": "In that case, taste my spiky shuriken!\nShwip-shwippity-shwip!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "だったら\nこの、\nシュリケンをくらうデス！！\nシュシュシュシュ！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Th-they were all deflected!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "シュ、\nシュリケンが弾かれたデース！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Ngh... He has us outmatched.\nAll units, prepare to retreat!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "くっ……\n完全に劣勢だ。\n全員、\n撤退の準備をしろ！"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Heheheh... Do you really think I'd allow that?\nTime to get serious...",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "クックック……\nこのワシがそれを許すわけなかろう。\nそろそろ遊びは終わりにして……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Urgh...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "うう……"
+    },
+    {
+      "name": "Monika",
+      "text": "Kuka!\nD-did the shockwave before knock you out?!\nStand, Kuka! Another attack is coming your way!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "クウカ！\nさ、\nさっきの一撃の衝撃で倒れていたか！\n立てクウカ！　\nアクダイカンの攻撃が来るぞ！！"
+    },
+    {
+      "name": "Kuka",
+      "text": "A-all right... B-but my belt has gotten all tangled...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "は、\nはいぃ……\nで、\nでも、\n外れかけた帯が絡まって……"
+    },
+    {
+      "name": "Kuka",
+      "text": "Whew... I managed to stand up.",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ふう、\nようやく立てました。"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Is that... a kimono...?\nThat... belt... Nnnnggguooohhhhh!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "あれは……\nワフク……\nお……\n……び……\nぬぅうぅああぁああ！！！！"
+    },
+    {
+      "name": "Monika",
+      "text": "Wh-what now?\nHis movements suddenly became dull? ",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "な、\nなんだ？\n急に動きが緩慢になった……？　"
+    },
+    {
+      "name": "Kuka",
+      "text": "E-eeeeek!\nWhy is he only chasing after me nowwwww?!\nAh, but this revulsion is awakening new feelings in me...!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "ひ、ひぃぃいい！！\nなんだか\n私ばっかり追いかけてきますぅぅ……！！\nでも、\nこの嫌悪感が\nクウカに新たな快感を……！"
+    },
+    {
+      "name": "Monika",
+      "text": "Is this our chance?!\nNinon! Help me stage our escape!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "これはチャンスか！\nニノン！\n　撤退の援護を頼む！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "I'm on it!\nNinpo: Smoky Bomb!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "任せるデス！\n忍法！\n　スモーク玉！！！"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Nghh... A smokescreen?!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "ぬぅ……\n煙玉か！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "*cough* *cough*... N-now, everyone!\nWhile he can't see, let's... *cough cough cough*",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ゲホッゲホッ……\nさ、\nさあ、\nみなさん！！\n今のうちに逃げ……\nゲホッゲホッゲホッ！"
+    },
+    {
+      "name": "Monika",
+      "text": "Wh-why are you the worst affected by the smoke?!\n...Oh, heck! Let's just run for it!\n{0}, you grab Ayumi!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "な、\nなんで一番自分が煙を吸い込んでいるんだ！\n……\nあーもう、\nとにかく撤退しろ！\n貴公はアユミを頼む！！"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "They got away... Ah well.\nThis has served as a fine demonstration for the humans.",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "逃がしたか……\nまあよい。\nこれで、\n人間たちへの見せしめにもなっただろう。"
+    },
+    {
+      "name": "Evil Magistrate",
+      "text": "Now none will dare to defy me, and my rule will be absolute.\nHeheh... Ahahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "アクダイカン",
+      "orig_text": "これでワシに逆らうものは居なくなり、\nワシの支配は絶対となる……\nふふっ…\nふはははははっ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Though their attack had ended in failure,\n{0} and co. at least succeeded in fleeing\nfrom the Evil Magistrate's assault.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちはアクダイカンから、\nなんとか逃げ切ることに成功した。"
+    }
+  ]
+}

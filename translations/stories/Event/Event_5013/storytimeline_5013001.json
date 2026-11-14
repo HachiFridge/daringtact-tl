@@ -1,0 +1,801 @@
+{
+  "title": "The Mount Gastros Hike Begins!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the Gourmet Guild crew find themselves\nat a certain mountain after hearing rumors of\na rare ingredient that can be found there.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}は【美食殿】の３人と共に、\n噂で聞いた食材を求めて、とある山を探索していた。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Apparently you can find all sorts of special ingredients here.\nSure is exciting, isn't it, Karyl? ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "このガストロス山には色々な珍しい食材が\nたっくさんあるそうですよ、\nキャルちゃん♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Even better, there's rumors of an ultra rare ingredient, too.\nHee hee. I can't wait to find it. ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "さらに聞くところによると、\n幻のレア食材まで採れるとか……\nふふふ、\n楽しみですねぇ～♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Yeah, you've told us a thousand times.\nSo chill out and wipe that drool off your face!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "さっきも聞いたわよそれ……\nとりあえずあんたは、\nその口から溢れてるよだれをどうにかしなさいっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, sorry. It just kind of happens when I think of delicious food!\nAnd now I'm faced with the prospect of us\nfinding something ultra delish at the peak of the mountain. ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いや～、\nおいしいものを想像すると、\nなかなか止まらなくて！\n特に、\n山頂にあるという激レア食材を思い浮かべるだけで……☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please wipe your mouth with this tissue, Miss Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ぺコリーヌさま、\nこちらのちり紙をお使いください。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh! Thanks so much, Kokkoro!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ありがとうございます、\nコッコロちゃん！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "This handkerchief is for you, my lord.\nI noticed you've worked up something of a sweat, so please make use of it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまにはハンカチを。\n少し汗をかいてらっしゃるので、\n拭いて差し上げますね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "*sigh* This is more of a picnic than actual guild work, isn't it?\nThe monsters around here are supposed to be\npretty strong, so try to be a bit more carefu—",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁ……\nギルド活動っていうより、\nこれじゃまるでピクニックね。\nこの辺には強い魔物もいるらしいから、\nもうちょっと注意して──"
+    },
+    {
+      "name": "???",
+      "text": "Waaaaaaahhhhh!\nHeeeeeelp!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ひゃあああああああっ！\n　助けてほしいですうううっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wh-what the?!\nThat was someone screaming, wasn't it?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "な、なにっ！？\n今、\nとんでもない叫び声がしたけど！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Seems like something's going on farther up the mountain.\nLet's go check it out!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "上のほうで何かあったっぽいですね？\nちょっと行ってみましょう！"
+    },
+    {
+      "name": "Anne",
+      "text": "Don't panic, Lou!\nUse a multi-layered incantation to cast a compound light and wind spell!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ルゥ、\n大丈夫だよ！\nここは光と風の複合魔法の多重詠唱を使って！"
+    },
+    {
+      "name": "Lou",
+      "text": "C-compound?\nMulti-layered?!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ひ、\nひか……\nたじゅ……！？"
+    },
+    {
+      "name": "Grea",
+      "text": "...Anne.\nYou're just making her panic even more.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nアン。\n余計に混乱しちゃってる……"
+    },
+    {
+      "name": "Anne",
+      "text": "R-really?\nThen, uh... This should work!\nO Spirits! Heed my call!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あ、あれっ？\nそれじゃあ、えっと……\nこれなら！\n──英霊よ！\n　我が声に応えよ！"
+    },
+    {
+      "name": "Gigas",
+      "text": "GRRRRAAAAGHHH!",
+      "choice_data_list": [],
+      "orig_name": "ギガース",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hey there! You okay?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "こんにちはー！\n　\n大丈夫ですか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wh-what the heck was that magic? I've never seen anything like it!\nHer magic reserves are off the charts, too...\nJust who in the world is she?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "な……\nなんなの、今の魔法……\nあんなの見たことないんだけど！\nとんでもない魔力だわ……\nあの子、\n一体何者！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's help them out, Karyl!\nHit me up with the usual stuff, {0}. ☆",
+      "choice_data_list": [
+        "Leave it to me!",
+        "The usual stuff?"
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃん、\nわたしたちもあの子たちに協力しましょう！\n{0}くん、それじゃあいつもの、\nお願いしますね☆"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please do the same for myself and Miss Karyl too, my lord.\nLet us take this foe on together.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま、\nわたくしとキャルさまにもお願いします。\n全員であの魔物を倒しましょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, you! I know you're just playing.\nBut now's the time for action, so please power me up!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "またまた～。\nとぼけちゃだめですよ。\nさぁ、\nわたしたちをパワーアップしてください！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ohhh! I can feel the power surging through me!\nTime to kick some monster butt!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うぅ～ん、\nパワーがみなぎってきました！\nそれじゃ、行きますよ～！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Listen up, Pecorine.\nMe and Koro'll keep it busy, so you take that opportunity to finish it off!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぺコリーヌ、\nあたしとコロ助が足止めするから、\nあんたは隙を見てとどめを刺しなさい！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Okay-dokie!\nDon't you two worry. We're here to save the day!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わっかりました～！\n二人とも、\nわたしたちが助太刀します！"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh? Who are you?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……っ、\nあなたたちは……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "We'll save the introductions for later!\nFirst we gotta take care of this thing! Haaaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "自己紹介はあとでするから！\nまずはこいつを倒すわよ！\n　はあああっ！！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Allow me to follow your lead. Miss Karyl.\nYaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\n続きます……\nええいっ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Pecorine!\nNow!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "さあぺコリーヌさま、\n今です！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Got it! Thanks!\nDown you go!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "任せてください！\n　いっきますよ～！\nそぉーれっ！"
+    },
+    {
+      "name": "Gigas",
+      "text": "GGRUOOOGGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "ギガース",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Anne",
+      "text": "Phew!\n...Huh? Looks like it dropped something.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ふぅ！\n……\nあれ？\n　何か落ちてる？"
+    },
+    {
+      "name": "Anne",
+      "text": "A fragment of a magical crystal?\nThen maybe...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "魔石の欠片……？\nもしかして……"
+    },
+    {
+      "name": "Lou",
+      "text": "*pant, pant* *huff, puff*\nI... I was this close to becoming dinner...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "っはぁ、はぁ、\nぜぇ、はぁ、ぜぇ……！\nルゥ、\nばんごはんになっちゃうかと思ったですぅ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Now [i]that's[/i] a crazy prospect! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ばんごはんになっちゃうのはやばいですね☆"
+    },
+    {
+      "name": "Lou",
+      "text": "It is. Super crazy.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そうです、\nやばいですよぉ。"
+    },
+    {
+      "name": "Grea",
+      "text": "...\nDo you know these people, Anne?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nアン、\nこの人たちのこと知ってる？"
+    },
+    {
+      "name": "Anne",
+      "text": "Not at all.\nBut... I might have an idea of who they are.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "……知らない。\nでも、\nもしかすると……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Well, the monster's taken care of, so how about we\nhave some grub together? It'll be a good way to introduce\nourselves, plus I'm just plain hungry. ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まぁみなさん、\nとりあえず魔物は倒しましたし、\n自己紹介を兼ねて、\nひとまずごはんにしませんか？\nわたし、\nもうお腹ペコペコで〜☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "This isn't the time or the place.\nThat might not be the only monster lurking nearby.\nPlus, you're the only one here looking for some grub—",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こんな時に何言ってんのよ。\nまだ他に魔物がいるかも知れないでしょ？\nだいたいね、\nお腹がすいてるのはあんただけ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hm.\nI do believe that came from your vicinity, Miss Karyl.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ……\n今の音は、\nキャルさまから聞こえてきたような？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Q-quiet, Koro!\nI don't want any cheek from you!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うっ……\nうるっさいわね！\n　コロ助のくせに！"
+    },
+    {
+      "name": "Anne",
+      "text": "Hehe.\nUm, I'm actually pretty famished myself,\nso I'd love it if we could eat together!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "……ふふ。\nあの～、\n私もお腹がすいちゃいました。\nよければご一緒させてください！"
+    },
+    {
+      "name": "Grea",
+      "text": "A-Anne?!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ、\nアン……！？"
+    },
+    {
+      "name": "Anne",
+      "text": "Don't worry! They seem like good people!\nThat, plus we might get some good leads\non our current situation by talking to them!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "大丈夫大丈夫！\n　みんな、いい人そうだし！\nそれに、\nこの人たちと話してみれば、\nこの状況が分かるかも！"
+    },
+    {
+      "name": "Grea",
+      "text": "I mean, sure, but...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "そうだけど……"
+    },
+    {
+      "name": "Lou",
+      "text": "I ran about a bunch, so I'm starving!\nGrub! Grub! I can't wait!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ルゥも、\nいっぱい走ってお腹ぐーぐーですぅ。\nごっはん！\n　ごっはん！\n　\n楽しみですぅ～！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well then. Guess we can get started with introductions.\nI'm Karyl.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それじゃ、\n改めて自己紹介ね。\nあたしはキャル。"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's Pecorine cooking over there.\nThis squirt over here is Koro...\nErr, sorry. Kokkoro.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっちで料理してるのがぺコリーヌで、\nこっちの小さいのがコロ助……\nじゃなかった、\nコッコロよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It's a pleasure to meet you.\nMy name is Kokkoro, a humble attendant to my lord.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お初にお目にかかります。\nわたくし\n主さまのガイド役をしております、\nコッコロと申します。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Speaking of. This is {0}.\nWhen she says \\\"my lord,\\\" she means him.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あとこいつは、{0}っていうの。\n今言った主さまってのは、\nこいつのことね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My lord possesses a most mysterious power.\nIt allows him to power us up at his will.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまは、\nわたくしたちの能力を強化するという、\n不思議な力をお持ちなのです。"
+    },
+    {
+      "name": "Anne",
+      "text": "Hey, that sounds cool!\nGood to meet you, Karyl and Kokkoro!\nYou too, {0}.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "へぇ、\nそうなんだ……！\nよろしくね、\nキャル、コッコロ！\nそれに{0}さんも。"
+    },
+    {
+      "name": "Anne",
+      "text": "I'm Anne, and this is Grea!\nAnd this here is Lou!\nThe three of us are students at Mysteria Academy...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "私はアンで、\nこの子はグレア！\nそれからこの小さい子はルゥ！\nマナリア魔法学院の生徒なんだけど……"
+    },
+    {
+      "name": "Anne",
+      "text": "Do you... mind if I ask whether you've heard of that before?",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "……マナリア魔法学院って、\n知ってる？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Mysteria Academy?\nThat's not ringing a bell.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "マナリア魔法学院……？\n　そんなの、この辺りにあったっけ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I believe this is the first I've heard of it, too.\nIt's certainly not a location near Astraea.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしも\n耳にした記憶がありません。\n少なくとも、\nこのアストライア大陸の近くではなさそうですが……"
+    },
+    {
+      "name": "Anne",
+      "text": "I knew it.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "……やっぱり。"
+    },
+    {
+      "name": "Grea",
+      "text": "Can we get an explanation, Anne?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "アン……\n説明してもらえる？"
+    },
+    {
+      "name": "Anne",
+      "text": "I'll get right to the point.\nThis... probably isn't Rivenbrandt.\nWe might be in an entirely different world.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん。\nこの世界って……\nたぶん、\nミスタルシアじゃないんだ。"
+    },
+    {
+      "name": "Grea",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nっ！？"
+    },
+    {
+      "name": "Lou",
+      "text": "But... but Mr. Gigas was here!\nShouldn't that mean we're on Mount Gigas?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "でもでも、\nギガースさんがいたですよ！\nここは\nギガース山じゃないんですか？"
+    },
+    {
+      "name": "Anne",
+      "text": "That was an entirely different magical creature.\nIt turned into a magic crystal fragment, right? That should be proof enough.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あれは別の魔法生物だよ。\nその証拠に、\n倒したら魔石の欠片になったでしょ？"
+    },
+    {
+      "name": "Anne",
+      "text": "What's more, the fragment is from a magic crystal used for summoning.\nOne that calls on a magical creature based on the user's image.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "そもそもあの魔石、\nもとは使い手のイメージを読み取って\n魔法生物を召喚するものだったみたい。"
+    },
+    {
+      "name": "Grea",
+      "text": "I see.\nSo it was a catalyst for summoning magic.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "触媒は触媒でも、\n召喚魔法の触媒だったんだね……"
+    },
+    {
+      "name": "Anne",
+      "text": "Let me guess. Lou, you had Gigas on your mind while using it, didn't you?\nProbably while thinking about how fun our last trip was, I'd assume.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ルゥ、\nギガースのことを思い出しながら\nあの魔石に念を込めなかった？\n遠足楽しかったな～、\nみたいに。"
+    },
+    {
+      "name": "Lou",
+      "text": "Oh. You might be right!\nI was thinking about our trip while touching it!\nMainly about how much more fun it was than doing that assignment!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "あっ……\nこめたかもです！\n　\nルゥ、あの石をさわりながら、\n課題よりこの前の遠足の方が楽しかったなー\nって思ってたですぅ！"
+    },
+    {
+      "name": "Grea",
+      "text": "So the magic crystal picked up on that,\nresulting in it turning into Gigas...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "じゃあ、\nその時のイメージを魔石が読み取って、\nギガースの姿に……"
+    },
+    {
+      "name": "Grea",
+      "text": "But if that's the case, then why did it attack Lou?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "でも召喚獣なら、\nなんで主のルゥに襲い掛かってくるのかな？"
+    },
+    {
+      "name": "Karyl",
+      "text": "H-hold up!\nYou're trying to tell me you came from an entirely different world?!\nNo way that can be true...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょ、\nちょっと待ちなさいよ！\nあんたたち、\n異世界から来たっての！？\nなんなのそのでたらめな話……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Quite the unfathomable situation, indeed.\nCan travel between other worlds truly be possible?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "確かに、\n雲をつかむようなお話でございますね。\n本当に\nそのようなことがあり得るのでしょうか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hm... Think about it this way, you two.\nWe've run into all sorts of mysterious things so far, haven't we?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うーん……\nですけどキャルちゃん。\nコッコロちゃん。\nわたしたちってこれまで、\nたくさんの不思議なことに\n出会ってきたじゃないですか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It wouldn't be that weird if another world or two existed, would it?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかしたら異世界の一つや二つ、\n本当に存在してるのかもしれませんよ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "You might want to apply [i]some[/i] logic to your thought process, girl...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "頭やわらかすぎるわよ、\nあんた……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Okay. Let's assume, just for a second, that this is all true. If anything's\ngoing to affect the structure of someone's magic, it's coming to a whole\nnew world. That probably led to the creature going out of control.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まぁ、仮に……\n仮によ？\n　\n今の話を信じるなら……\n異世界に渡る時に、\n魔法が変質しちゃったんじゃない？\nそれで、\nただの狂暴な魔法生物になったとか。"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh. That actually makes a lot of sense.\nAnything could happen if we're genuinely in a different world.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "そっか……\n確かに、\n違う世界に渡ったっていう時点で、\nどんな異常が起きてても不思議じゃないのかも……"
+    },
+    {
+      "name": "Karyl",
+      "text": "The big question for me, though, is how you ended up here in the first place.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "けどそもそも、\nなんで異世界に渡るなんて魔法が発動しちゃったわけ？"
+    },
+    {
+      "name": "Anne",
+      "text": "W-well...\nAhaha...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "そ、それは……\nあはは……"
+    },
+    {
+      "name": "Grea",
+      "text": "...Anne went a bit overboard.\nShe poured too much magic into the crystal,\nand that seems to have led us here.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nアンが張り切りすぎちゃったんだ。\n魔石に込めた魔力の量が多すぎて……\nこんなことになったみたい。"
+    },
+    {
+      "name": "Karyl",
+      "text": "WHAT?! You can't be for real!\nJust how much magic are you packing?\nThis situation just gets crazier by the second.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁ？\n　なによそれ！？\nアンタ、どんだけ凄い魔力を持ってんのよ……\nホントにでたらめな話ね……"
+    },
+    {
+      "name": "Anne",
+      "text": "Ehehe...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "えへへ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Please don't take that as a compliment.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……褒めてるつもりないんだけど。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Okay, folks!\nSorry for the wait! Here's a special meal from a special girl!\nDig in!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "さぁ、みなさん！\nお待たせしました！\n　ぺコリーヌ特製ごはんです！\nどうぞ召し上がってください！"
+    },
+    {
+      "name": "Grea",
+      "text": "...\nI... haven't seen a dish like this before.\nIs it even edible?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\n……\n見たことない料理。\nこれって、\n食べても……"
+    },
+    {
+      "name": "Lou",
+      "text": "*munch* *munch, munch*\nW-wow!\nIt looks weird, but it's delicious!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "はぐっ！\n　\nはぐはぐっ！\nう、うまっ！\n　うまいですぅ！？\n見た目は変ですけど！"
+    },
+    {
+      "name": "Anne",
+      "text": "Hey, it really is!\nThe crispy texture makes it fun to eat,\nand the flavor spreads all through your mouth!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん、\n美味しい……！\nコリコリした食感が楽しいし、\nあとを引く旨味が、\n口いっぱいに広がっていくよ！"
+    },
+    {
+      "name": "Grea",
+      "text": "...\n...Oh. You're right.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\n……\nあっ、\nホントだ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Heh!\nA fresh and tender monster dish, just for you all!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっへん！\nこれは獲れたてプリプリの材料で作った、\n魔物料理です！"
+    },
+    {
+      "name": "Grea",
+      "text": "...M-monster?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……\nま、\n魔物？"
+    },
+    {
+      "name": "Lou",
+      "text": "Monster food, huh?\nGuess you guys eat weird things in a weird way.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "へぇー、\n魔物なんですかぁ。\n変なものを変に食べるんですねぇ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "As if!\nWe eat normal things normally!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そんなわけないでしょ！？\n普通のものを普通に食べるわよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We, the Gourmet Guild,\nare no strangers to feasting on monsters.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "魔物を食すのは、\nこちらのギルド、\n【美食殿】の活動の一環なのです。"
+    },
+    {
+      "name": "Anne",
+      "text": "Creating edible meals out of monsters isn't exactly easy.\nYou must be super good at cooking, Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "魔物をこんなに美味しく調理できるなんて……\nペコリーヌって、\nすっごく料理が上手なんだね！"
+    },
+    {
+      "name": "Grea",
+      "text": "Yeah. I'm surprised at how good it is.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うん、\n私も驚いちゃった。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Uh...\nYou guys might be a bit too open to this whole eating monsters deal.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えっと……\n魔物料理を受け入れるの早すぎない？\n　あんたたち。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Indeed.\nThe speed at which they've adapted is rather surprising.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "確かに、\n驚くべき順応の早さでございますね。"
+    },
+    {
+      "name": "Anne",
+      "text": "Monster dishes are part of Rivenbrandt's culture, after all.\nThat said, they're apparently super hard to cook properly.\nThat makes you an amazing cook!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ミスタルシアにも、\n魔物を食べる文化はあるから。\nでも、\n魔物ってとっても調理が難しいって聞くし、\nペコリーヌってすごいなー！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You sure are singing my praises. ♪\nHow crazy is that? ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "褒められちゃいました♪\nやばいですね☆"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Anyway! There's plenty left, so feel free to dig in! As for dessert,\nlet's make something out of that monster Lou brought along!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "さあさあ！\n　まだまだたくさんありますから、\nおかわりしてくださいね！\nデザートには、\nルゥちゃんが連れている魔物を食べましょう！"
+    },
+    {
+      "name": "Grea",
+      "text": "Y-you mean Mr. Gawker?\nMr. Gawker is Lou's friend, you know, so I'm not sure she'd appreciate that...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "そ、\nそれってオメメちゃんのこと……？\nあの子はルゥの友だちだから、\nそれはちょっと……"
+    },
+    {
+      "name": "Lou",
+      "text": "*drool*\nI'm really curious how it would turn out.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "……じゅるり。\nどんなデザートになるですかねぇ。"
+    },
+    {
+      "name": "Grea",
+      "text": "Lou?!\nY-you're sure about that?!\n[i]Really[/i] sure?!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ルゥっ！？\n　い、いいの？\n　ホントにいいの……！？"
+    },
+    {
+      "name": "Lou",
+      "text": "Yup!\n...Huh? Why're you shivering, Mr. Gawker?\nAre you that happy about being eaten? That's great! ♪",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "はいですぅ！\n　……\nあれ、\nオメメちゃん、\n震えてるです？\n泣くほどうれしいですか？\n　よかったですね～♪"
+    },
+    {
+      "name": "Grea",
+      "text": "Wait! You've probably got the wrong idea!\nD-don't worry, Mr. Gawker. We won't eat you!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "待って、\n多分違うから……！\nだ、\n大丈夫だよオメメちゃん、\n食べないからね……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahh. Now that hit the spot. ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "は～、\nおいしかったですね☆"
+    },
+    {
+      "name": "Anne",
+      "text": "You said it. Thanks a bunch!\nThat meal filled me right up.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん、\nありがとう、ペコリーヌ！\nお腹いっぱいになったよ。"
+    },
+    {
+      "name": "Grea",
+      "text": "Likewise.\nNow that we've got plenty of energy,\nit's about time we start thinking about how to get back home.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "元気も出たし……\nミスタルシアへ帰る方法、\n考えないとね。"
+    },
+    {
+      "name": "Anne",
+      "text": "What if I reproduce the situation that brought us here? Think that'd work?\nI remember how I did it, so we just need the materials.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "私がもう一回同じように魔法を暴走させれば、\nいけるかな？\nやり方は覚えてるから、\n材料さえそろえば……"
+    },
+    {
+      "name": "Grea",
+      "text": "By which you mean a magic crystal, right? All we've\ngot is a fragment dropped by that Gigas, so maybe we just\nneed to defeat a bunch of them and collect more fragments?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "材料……\n魔石ってことだよね。\nまださっきのギガースが持っていたひと欠片しかないから、\nたくさんギガースを倒して\n欠片を集めればいいのかな？"
+    },
+    {
+      "name": "Anne",
+      "text": "Yup. I'm sensing a number of magic sources further up the mountain,\nso we can probably find more Gigases if we follow that trail!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん、\nこの山の上に複数の魔力を感じるし、\n上に行けばギガースも見つかると思う！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh! You're aiming for the peak as well, are you?\nTruth is, we're looking for the ultra rare ingredient that can be\nfound there! What a cool coincidence! ☆",
+      "choice_data_list": [
+        "Then let's go together."
+      ],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おお、\nアンさんたちは、\n山頂を目指すんですね！\n実はわたしたちも、\n山頂で幻のレア食材を探すために\n来てるんですよ～！\n　奇遇ですね☆"
+    },
+    {
+      "name": "Anne",
+      "text": "Really?! Thanks so much!\nWe barely know anything about this world, so that's a big help.\nWhat say we get going, then?",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ホント！？\n　\nありがとう！\n不慣れな世界だし、\nとっても心強いよ。\nじゃあ、\nよろしくお願いしますっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "Having formed a new party together,\nthey set out towards the peak of the mountain.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アンたちは{0}たちとパーティーを組み、\nギガースを探しに頂上へと向かうのだった。"
+    }
+  ]
+}

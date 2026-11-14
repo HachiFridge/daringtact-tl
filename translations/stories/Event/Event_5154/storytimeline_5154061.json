@@ -1,0 +1,768 @@
+{
+  "title": "Business Trip! Alces Atelier",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Several weeks after Nozomi's solo live.\nIn between adventures, {0} visits\nAlces Atelier for the first time in a while.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ノゾミのソロライブから数週間たったある日。\n冒険の合間を縫い、{0}が久しぶりに\nアルケス錬金堂を訪れた。"
+    },
+    {
+      "name": "Sono",
+      "text": "Oh, {0}, long time no see.\nEver since we got the message that you'd come,\nRui couldn't sleep in excitement.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "お、\n{0}君、\n久しぶり。\n君が来るって連絡貰ってから、\nルイちゃん楽しみで眠れなかったみたいよ。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Hehe, Iroha could only sleep for about 10 hours!\nUncle! Long time no see♪",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "えへへ、\nイロハも10時間くらいしか眠れなかった！\nおじちゃん！　\n久しぶりーっ♪"
+    },
+    {
+      "name": "Sono",
+      "text": "Hey, Iroha! I'm super heavy, so don't hug me like a kid.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "こらイロハー！\n体は激重の\n私のなんだから、\n子ども感覚で抱きつくなっての。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Hey, what are you doing to my darling!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ちょ、\nダーリンになにしてんのよー！！"
+    },
+    {
+      "name": "Sono",
+      "text": "Darling, you say.\nBy the way, Rui, you were late.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "いや、\nダーリンて。\nつかルイちゃん、\n遅かったね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I-I know, but my bangs wouldn't go the way I wanted...\nThat's why I'm late...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "だ、\nだって\n前髪が上手にきまらなくて……\nだから遅くなって……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Boyfriend!?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "彼氏！？"
+    },
+    {
+      "name": "Sono",
+      "text": "...Are you having some weird fantasy again?\nSo, how've you been, {0}?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……またなんか妄想しちゃってんなぁ。\nで、\n{0}君は元気にしてた？"
+    },
+    {
+      "name": "Sono",
+      "text": "Yeah, same as always. The store's sales are good.\n...Though it's mostly thanks to Nozomi's perfume.\nThanks to 'Alces No. 5'.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "うん、\n相変わらずよ。\n店の売上も好調だしね。\n……っていっても\nほとんどはノゾミちゃんの香水。\n『アルケスNo.５』のおかげだけど。"
+    },
+    {
+      "name": "Sono",
+      "text": "So we were talking about developing a new product\nwith Rui, but we couldn't come up with any good ideas.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "それで新商品の開発でもしようかって\nルイちゃんと相談してたんだけど、\n中々いいアイデアが思いつかなくてさ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Well, slumps are a part of a genius's life.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ま、\n天才にスランプはつきものよね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I-I got asked out on a date!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "デ……\nデートに誘われたっ！！"
+    },
+    {
+      "name": "Sono",
+      "text": "…It's like my imagination is spilling out of my mouth.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……なんかもう、\n妄想口から出ちゃってるな。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Hey hey, Sono-chan!\nThat toy is really popular!\nIroha wants one too!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ねえねえソノちゃん！\nあのおもちゃ流行ってるんだよ！\nイロハも欲しいな～！"
+    },
+    {
+      "name": "Sono",
+      "text": "Sigh… Oh well.\nIn exchange, you have to help out at the shop, okay?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "はぁ～……\nしゃあないなあ。\nその代わり\nお店の手伝い\nちゃんとすんのよ？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Why are both Iroha-chan and Sono-san here too!?\nOur date is ruined.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "いやなんでイロハちゃんとソノさんも付いて来てんのよ！\n私たちのデートが台無しじゃないっ。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Rui-chan, okay? They say affairs are sweet as honey,\nbut that's a no-go morally.\nUncle is Sono-chan's good person, you know♪",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "ルイちゃん、\nいい？　\nフリンは蜜の味っていうけどさ、\nそれはゴジセイ的にアウトだよ。\nおじちゃんはソノちゃんのいい人なんだからさ♪"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Whaaaaat!\nW-What are you suddenly saying!?\nI only have pure and righteous relationships!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "はああ～～～っ！？\nととと突然なに言いだすのよっ！？\n私は清く正しい品行方正な恋しかしてないわよっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "…They're really getting fired up in the middle of the city.\nYou're not hanging out with dangerous people, are you?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……街中で盛り上がってるわね。\nあんた、\nヤバい連中と付き合ってんじゃない。"
+    },
+    {
+      "name": "Karyl",
+      "text": "…Ah, I see.\nSo you guys are the Alces Atelier.\nI've heard about you. Seems like this one owes you.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ああ、\nなるほど。\nそうかあんたらが【アルケス錬金堂】ね。\n話は聞いてるわ。\nこいつが世話になったみたいね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Um, if I remember correctly.\nThe shopkeeper is a responsible but slightly lazy older sister.\nWas it Sono-san?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えーと確か。\n店主は、\nちょっとめんどくさがり屋だけど\nしっかり者のお姉さん。\nソノさんだっけ？"
+    },
+    {
+      "name": "Sono",
+      "text": "Uh, hi.\nI'm Sono.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "あ、\nども。\nソノです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm not a kid!!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ガキじゃないっ！！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "So, she's really strong in swordsmanship, but she's a carefree girl who loves catching bugs. Her name is Iroha, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "で、\n剣術はめっぽう強いけど、\n天真爛漫で虫取りが大好きな女の子、\nイロハちゃんだっけ。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Yes! I'm Iroha!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "はーい！\nイロハでーす！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm not an adult!!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "大人じゃないっ！！！"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "う・\nう～、\n誰よこの女……っ！？\n妙にうちのダーリンに馴れ馴れしいわね……",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "う・\nう～、\n誰よこの女……っ！？\n妙にうちのダーリンに馴れ馴れしいわね……"
+    },
+    {
+      "name": "Karyl",
+      "text": "So, you're the guild master. The genius alchemist, Louise Marie.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "で、\nあなたがギルドマスター。\n天才錬金術師のルイズマリーさんね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Genius? Heh, you know your stuff.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "天才？\nふふ、\nあなた分かってるじゃない。"
+    },
+    {
+      "name": "Sono Iroha",
+      "text": "So easy.",
+      "choice_data_list": [],
+      "orig_name": "ソノ・イロハ",
+      "orig_text": "ちょろっ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm Kyaru. I'm a member of this guy's guild, the Gourmet Edifice. Well, nice to meet you.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしはキャル。\nこいつの所属するギルド、\n【美食殿】のメンバーよ。\nま、\nよろしくね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "…Oops, this isn't the time to be dawdling here. I can't keep Korosuke waiting, so I need to finish up quickly and head back.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……っと、\nこんなとこで油売ってる場合じゃないわ。\nコロ助待たせてるから、\n早く用を済ませて帰らないと。"
+    },
+    {
+      "name": "Karyl",
+      "text": "The door to the guild house won't open, you know? It seems like the hinges are bent, and we've been looking for a craftsman to fix it, but we haven't found one yet.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんか\nギルドハウスの扉が開かなくなっちゃったのよねー\n金具がゆがんだみたいで、\n修理してくれる職人を探してたんだけど\nなかなか見つからなくて。"
+    },
+    {
+      "name": "Sono",
+      "text": "Oh, the door. It won't open.\n...Hmm.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "へえ、\n扉が。\n開かなくなった、\nと。\n……ふむ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "What is it, Sono-san?\nSuddenly using an abacus.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "なによソノさん。\n突然そろばん弾いて。"
+    },
+    {
+      "name": "Sono",
+      "text": "Hehe. This is it.\nA new service to replace perfume.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ふふふ。\nこれだ。\n香水に変わる、\n新しいサービス。"
+    },
+    {
+      "name": "Sono",
+      "text": "Hey, Kyaru-chan.\nCan you leave that job to us?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ねえ、\nキャルちゃん。\nその仕事、\nうちらに任せてくれない？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hnnngh... Ugh, whether I push, pull, or coax it,\nit still won't open. ...Ah, Kyaru-sama.\nAnd there is the master and... who are those people?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふぬぬぬ……\nうう、\n押しても引いてもなだめても、\nやっぱり開きませんね。\n……あ、\nキャルさま。\nそれに主さまと……\nそちらの方々は？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh, you are!\nI am named Kokkoro and I take care of the master.\nPlease take care of me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おお、\nあなた方が。\nわたくし\n主さまのお世話をしております、\nコッコロと申します。\nどうぞ\nよろしくお願いいたします。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Oh, Sono-chan!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "おお、\nソノちゃんだ！"
+    },
+    {
+      "name": "Sono",
+      "text": "Well, you do look a bit similar.\nNice to meet you, Kokkoro-chan.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "いや\n確かに\nちょっと似てるけど。\nよろしくね\nコッコロちゃん。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "うう……"
+    },
+    {
+      "name": "Sono",
+      "text": "Huh!?\nWhat's wrong, Rui-chan? Why are you crouching!?\nIs your stomach hurting...!?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "っ！？\nどうした\nルイちゃん\nうずくまって！？\nお腹でも痛いの……！？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "She's calling Darling 'master'...!\nW-what kind of relationship do they have...!?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ダーリンのことを\n主さまって呼んでる……！\nい、\n一体\nどういう関係なのかしら……！？"
+    },
+    {
+      "name": "Sono",
+      "text": "I worried for nothing.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "心配して損したわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Everyone, it's very lively here.\nI would like to invite you inside for some tea, but...\nunfortunately, the door won't open.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "みなさま、\n大変賑やかでいらっしゃいますね。\nぜひ中でお茶でもお出ししたいのですが……\nあいにく\n扉が開かないのです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, about that.\nThese people here said they would do something about it.\nWith the power of alchemy.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あー\nそれなんだけどさ。\nこの人たちが何とかしてくれるんだって。\n錬金術の力でね。"
+    },
+    {
+      "name": "Sono",
+      "text": "Yes, leave it to us.\nHey, Rui-chan, you can do it, right?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ええ、\nお任せください。\nほら\nルイちゃん、\nいけんでしょ？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Humph, of course. I can whip something up with the materials on hand.\nI was asked by {0}-kun, so I'll take care of it.\n...Alright.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ふん、\nもちろんよ。\n手持ちの素材でちょちょいのちょいね。\n{0}くんに頼まれたし引き受けるわ。\n……\nよいしょっと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh... Is that\na cauldron for alchemy?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ほう……\nそれは、\n錬金術の\n釜でございますか？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Yes. It's the portable alchemy cauldron I lent to Nozomi too.\nEven though it's small, it works really well.\nNow, let's begin alchemy!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ええ。\nノゾミにも貸してた\n携帯錬金釜。\nちっちゃくても性能はしっかりしてるの。\nじゃあ早速錬金術を始めるわよ～！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "\"Original Transmutation\"!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "『基創錬成』！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...And done!\nAlchemic item 'Nurunurunurunu'!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……はい、完成！\n錬金アイテム\n『ぬるぬるぬるぬ』よ！！"
+    },
+    {
+      "name": "Kokkoro & Kyaru",
+      "text": "'Nurunurunurunu'?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・キャル",
+      "orig_text": "『ぬるぬるぬるぬ』？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Yes. This 'Nurunurunurunu' can\nmake anything slick and slippery!\nI'll make this door slide smoothly!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ええ。\nこの『ぬるぬるぬるぬ』は\nどんなものでもぬるぬる滑らせることができるの！\nこんな扉、\nぬるんと滑らせてあげるわ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Seeing is believing.\nHere we go, jet propulsion~!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "百聞は一見に如かず。\nそれ、\n噴射～っ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Swoosh!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ぬるんっ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh...! The door that wouldn't open at all just slid open!\nThis is the power of Lady Louise Marie's alchemy\nthat you were talking about, Master...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おお……！　\n全く開かなかった扉が\nぬるんと開きました！\nこれが\n主さまがお話しされていた\nルイズマリーさまの錬金術の力……！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Huh? He was talking about me...?\nHey, did he say anything other than about alchemy?\nLike maybe that I'm too cute or something... kyaah!?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "え？　\n彼が私のこと話してた……？\nねえ、\n錬金術以外のこともなにか言ってなかった？\n例えばかわいすぎるとか……\nひゃあっ！？"
+    },
+    {
+      "name": "Iroha",
+      "text": "Oh no, Rui-chan fell over!\nAre you o-... whoa!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "わ、\nルイちゃん転んじゃった！\n大丈……\nわあっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey, you got carried away and\n'swoosh swoosh swoosh' all over the ground too!?\nWhat are you doing, now we can't help but slip... kyah!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、\nあんた勢い余って、\n地面にも『ぬるぬるぬるぬ』噴射しちゃってんじゃない！？\n何してんのよこれじゃ滑って転んじゃ……\nきゃあっ！！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "E-everyone, please don't force yourselves to stand up.\nIt's like newborn fawns... eek!?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "み、\nみなさま\n無理に立ちあがらないでください。\nまるで生まれたての小鹿のようになっており……\nひあっ！？"
+    },
+    {
+      "name": "Sono",
+      "text": "...What are you all doing?",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……\nなにしてんのよ。"
+    },
+    {
+      "name": "Sono",
+      "text": "Well, the door opened, so it was a great success.\nSo how about it, 'Mobile Alchemy Service'?\nWith this, our shop will be... kyaah!!",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ま、\n扉は開いたから大成功か。\nどうよこれ\n『出張錬金サービス』\nこれできっとうちの店は……\nきゃあっ！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "'Mobile Alchemy Service'... that's a great idea!\nThen please do it right away!\nMake an anti-slip item right this instant~~~!!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "『出張錬金サービス』……\nいい考えね！\nじゃあ早速お願いするわ！\nいますぐ滑らないアイテムを作りなさ～～～いっ！！！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, the 'On-site Alchemy Service' was launched by Alces Atelier──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして『出張錬金サービス』を開始した【アルケス錬金堂】──"
+    },
+    {
+      "name": "Narration",
+      "text": "Thanks to {0}'s connections,\nAlces Atelier successfully completed several requests.\n...And then, a few days later.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}の人脈にも助けられ、\n【アルケス錬金堂】はいくつかの依頼を成功させたのだった。\n……そして数日後。"
+    },
+    {
+      "name": "Customer 1",
+      "text": "Excuse me, do you have any items for stress relief?",
+      "choice_data_list": [],
+      "orig_name": "客１",
+      "orig_text": "すみませーん、\nストレス発散のアイテムって\nありますか？"
+    },
+    {
+      "name": "Sono",
+      "text": "...Yes, I do.\nHere you go. 'Endless Punching Bag'",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……あるよ。\nはい。\n『無限サンドバッグ』"
+    },
+    {
+      "name": "Customer 2",
+      "text": "I'm lacking self-confidence...\nDo you have any items that can make me feel more confident?",
+      "choice_data_list": [],
+      "orig_name": "客２",
+      "orig_text": "自分に自信が持てなくて……\n気が大きくなるアイテムってありますか？"
+    },
+    {
+      "name": "Sono",
+      "text": "...Yes, I do.\nHere you go. 'Ultimate Strut Suit'",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……あるよ。\nはい。\n『究極・肩で風切るスーツ』"
+    },
+    {
+      "name": "Customer 3",
+      "text": "I've been feeling down lately...\nDo you have any items that can make me laugh wholeheartedly?",
+      "choice_data_list": [],
+      "orig_name": "客３",
+      "orig_text": "最近元気がなくて……\n思いっきり笑えるアイテムってありますか？"
+    },
+    {
+      "name": "Sono",
+      "text": "...Yes, I do.\nHere you go. 'Magic Paintbrush (For Tickling)'",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……あるよ。\nはい。\n『魔法の絵筆（腋こちょ用）』"
+    },
+    {
+      "name": "Iroha",
+      "text": "Ahaha, all the customers are so happy!\nRui-chan's good points really came across!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "あはは、\nお客さんみんなよろこんでくれてる！\nルイちゃんのいいとこ伝わったね！"
+    },
+    {
+      "name": "Sono",
+      "text": "Yeah. Now I don't have to rely solely on Nozomi-chan's perfume.\nI've got things settled to live in Landosol for the time being.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "うん。\nこれでノゾミちゃんの香水にだけ頼らなくても大丈夫。\n当面ランドソルで生活していく目途はたったね。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Hehe, thanks for worrying. But it's okay!\nI’ve completed the potion to return the two to normal,\n'The Forbidden Elixir: No.571'!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ふふ、\n心配ありがとう。\nでも大丈夫！\n二人を元通りにする薬、\n『禁断の秘薬：No.571』を完成させちゃったから！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "So, without further ado~!\nSpray~!!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ってことで早速～！\n噴射～っ！！"
+    },
+    {
+      "name": "Sono Iroha",
+      "text": "Waaa~~~!!?",
+      "choice_data_list": [],
+      "orig_name": "ソノ・イロハ",
+      "orig_text": "わああ～～～っ！！？"
+    },
+    {
+      "name": "Child Iroha",
+      "text": "……Wow!\nIt's a flat Iroha, that's boring~!",
+      "choice_data_list": [],
+      "orig_name": "子どもイロハ",
+      "orig_text": "……わっ！\nつるぺたイロハだ、\nつまんな～い！"
+    },
+    {
+      "name": "Adult Sono",
+      "text": "Haah…… I got a letter from a friend back home\nthat says, \"I'm married♪\". I don't care.",
+      "choice_data_list": [],
+      "orig_name": "大人ソノ",
+      "orig_text": "はあ……\n地元の友だちから\n「結婚しました♪」\nって手紙きた。\n知るかよ。"
+    },
+    {
+      "name": "Child Iroha Adult Sono",
+      "text": "Haaa~……",
+      "choice_data_list": [],
+      "orig_name": "子どもイロハ・大人ソノ",
+      "orig_text": "はああ～……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Does it sound unpleasant!?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "嫌そう！？"
+    },
+    {
+      "name": "Adult Sono",
+      "text": "……Ah, sorry. Of course, it's not unpleasant.\nIt's because Rui-chan is working hard for our sake.",
+      "choice_data_list": [],
+      "orig_name": "大人ソノ",
+      "orig_text": "……や、\nごめん。\nもちろん嫌じゃないよ。\nルイちゃんが\n私らの為に頑張ってくれてるからさ。"
+    },
+    {
+      "name": "Adult Sono",
+      "text": "But hey Rui-chan.\nFor you, Rui-chan... is it okay if you succeed?",
+      "choice_data_list": [],
+      "orig_name": "大人ソノ",
+      "orig_text": "でもさ\nルイちゃん。\nルイちゃん的には……\n成功しちゃっていいの？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Eh… well of course.\nBecause we came to Landosol\nto make the elixir to return you two to normal.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "え……\nそれは\n当然でしょ。\nだって二人を元に戻す秘薬を作るために、\n私たちはランドソルに来たんだから。"
+    },
+    {
+      "name": "Adult Sono",
+      "text": "That's why.\nOnce this medicine is successful, the goal will be achieved, right?\n...Which means.",
+      "choice_data_list": [],
+      "orig_name": "大人ソノ",
+      "orig_text": "だからだよ。\nこの薬が成功したら\n目的は達成だよね。\n……ってことはつまり。"
+    },
+    {
+      "name": "Adult Sono",
+      "text": "We don't need to be in this town.",
+      "choice_data_list": [],
+      "orig_name": "大人ソノ",
+      "orig_text": "私たちがこの街にいる必要はないってこと。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "That's right... Just as Sono said.\nOnce the elixir that restores the two of them is complete,\nwe don't need to be in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "そうだ……\nソノさんの言う通り。\n二人が元に戻る秘薬が完成したら、\n私たちがランドソルにいる必要はない。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "I was dreaming of the success of the forbidden elixir...\nI thought it was the most important thing to me.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "禁断の秘薬の成功……\nそれを夢見ていたのに。\nそれこそが\n私のなによりも大事なことだと思っていたのに。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...And yet, I.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……それなのに、\n私。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "............\nI don't want to leave...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "…………\n帰りたくない……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Because I got to know Nozomi and Christina...\nAnd so many people I met as customers.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "ノゾミや\nクリスティーナさん……\nそれに\nお客さんとして出会ったたくさんの人たちと\nせっかく知り合いになれたから。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "And most importantly, Landosol.\nThis town is...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "それに、\nなによりもランドソルは。\nこの街は……"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...because it's the town where you live...",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……あなたが住んでいる街だから……"
+    },
+    {
+      "name": "Child Iroha Adult Sono",
+      "text": "Waaa~~~!?",
+      "choice_data_list": [],
+      "orig_name": "子どもイロハ・大人ソノ",
+      "orig_text": "わああ～～～っ！？"
+    },
+    {
+      "name": "Iroha",
+      "text": "…Ah! Yay, Sono-chan's body!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "……あっ！\nやったー\nソノちゃんの体ー！"
+    },
+    {
+      "name": "Sono",
+      "text": "…It reverted back in a few minutes, huh.\nRui-chan, it seems this won't work.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "……また数分で戻っちゃったね。\nルイちゃん、\nこれじゃ駄目みたい。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "...Ehehe.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……\n……ふふっ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "…Oh, really.\nI thought we finally succeeded,\nbut we're still in the middle of success.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……あ、\nあらそう。\nせっかく成功したと思ってたのに、\nまだ成功の途中だわ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "…It looks like we'll have to stay\nin Landosol a little longer.",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……もう少し、\nランドソルにいなきゃいけないみたいね。"
+    },
+    {
+      "name": "Iroha",
+      "text": "Haha!\nYes, that's right!!",
+      "choice_data_list": [],
+      "orig_name": "イロハ",
+      "orig_text": "あははっ！\nそうだねっ！！"
+    },
+    {
+      "name": "Sono",
+      "text": "Hehe, that's a shame.",
+      "choice_data_list": [],
+      "orig_name": "ソノ",
+      "orig_text": "ふふ、\n残念だねぇ。"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "…What is it?",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "……なあに？"
+    },
+    {
+      "name": "ルイズマリー",
+      "text": "これって\n新しい街に引っ越してきた新婚夫婦！？　",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "これって\n新しい街に引っ越してきた新婚夫婦！？　"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, Alces Atelier ended up living in Landosol for a little while longer.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして【アルケス錬金堂】は、\nもう少しだけランドソルで暮らすことになったのである。"
+    },
+    {
+      "name": "Customer 4",
+      "text": "Excuse me.\nIs this \"A store that has everything?\"",
+      "choice_data_list": [],
+      "orig_name": "客４",
+      "orig_text": "すみませーん。\nここが\n無いものは無いお店の？"
+    },
+    {
+      "name": "Louise Marie",
+      "text": "Yes!\nThis is Alces Atelier!",
+      "choice_data_list": [],
+      "orig_name": "ルイズマリー",
+      "orig_text": "はい！\nこちらアルケス錬金堂です！"
+    }
+  ]
+}

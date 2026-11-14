@@ -1,0 +1,873 @@
+{
+  "title": "Eureka! The Clumsy Detective",
+  "text_block_list": [
+    {
+      "name": "Kasumi",
+      "text": "......Hmm Hmm. That's interesting.\nThe abundance of ceramics in Gio Gehenna comes from the diversity of clay.\nThe craftsmanship of the artisans is quite remarkable──",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……フムフム。\n興味深いね。\nジオ・ゲヘナの豊富な陶器は、\n陶土の多様性にあるのか。\n職人の技術も、\n大したものだ──"
+    },
+    {
+      "name": "Narration",
+      "text": "Kasumi strolls through the residential area of Gio Gehenna.\nA small shadow sneaks up behind her.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・ゲヘナの居住区を散策するカスミ。\n彼女の背後に、小さな影が忍び寄る。"
+    },
+    {
+      "name": "Lou",
+      "text": "Waa~! Long time no see! Kyaru-san!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "わぁ～！　\nおひさしぶりですぅ！　\nキャルさん！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hyaaa...!? W-who are you...!?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ひゃああっ……！？\nき、\n君は誰……！？"
+    },
+    {
+      "name": "Lou",
+      "text": "What are you saying, Kyaru-san! It's Lou!\n...Eh, you're not Kyaru-san!? Who are you!?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "なに言ってるですか、\nキャルさん！　\nルゥですよぉ！\n……\nって、\nキャルさんじゃないです！？\n誰ですか！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I see... Lou-san, you came to Gio Gehenna using the rumored transportation device.\nBut why did you mistake her for Kyaru-san?\nCould it be that you mistook her from behind with the black hair and the beastkin ears...?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "なるほど……\nルゥさんは、\n噂の転送装置でジオ・ゲヘナに来たんだね。\nでも、\nどうしてキャルさんと見間違えたんだい？\nまさか、\n後ろから見たときの黒髪と\n獣人族の耳で勘違いしたとか……？"
+    },
+    {
+      "name": "Lou",
+      "text": "Kasumi-san, that's 'brilliant reasoning'! You're right!\nSince you're correct, I'll give you a special Lou candy as a present!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "カスミさん、\n『めいすいり』ですねぇ！　\nその通りですぅ！\n正解なので、\nトクベツに\nルゥのアメをプレゼントするですよぉ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I see... Such a reason...\nBut, thank you. That's quite an unusual candy shape.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "本当に、\nそんな理由だったとは……\nでも、\nありがとう。\nずいぶん珍しい形の飴だね。"
+    },
+    {
+      "name": "Lou",
+      "text": "I heard that in Gio Gehenna, there's a shortage of sweets,\nso I broke it into pieces with a stick to avoid eating it all at once!\nMmm~ It's sweet and tasty~",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ジオ・ゲヘナでは、\n甘いものが少ないと聞いたので、\n一気に食べちゃわないように\n杖で割って小さくしたですよ！\nん～、\n甘くておいしいですぅ～"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Haha, that's a good idea.\nThen, I'll taste it immediately...\nYes, it's tasty♪",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ふふ、\nいい工夫だね。\nでは、\n私も早速いただこうかな……\nうん、\nおいしいね♪"
+    },
+    {
+      "name": "Kanon",
+      "text": "Nana-san!!!\nYou're absolutely useless as always...!\nIf this goes on like this, I'm going to ask for compensation, you hear me?! Compensation!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ナーナさん！！！\nアナタときたら\nほんッッ\nとーに何にもできないんですから……！\nどうしてくれますのこのままですとお弁償ですわよお弁償！"
+    },
+    {
+      "name": "Naana",
+      "text": "Whaaa~!\nNana doesn't know!\nNana is not bad!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "うぇ～ん！\nナーナしらないよぉ～！\nナーナわるくないよぉ～っ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "All culprits say the same thing, it's a well-known fact──\nHuh!? Could it be you're the culprit!? \nConfess, you silly oafish bunny!!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "犯人は皆そう言うと相場が決まっておりましてよ──\nハッ！？　\nひょっとして\n犯人はアナタですの！？\n白状なさいなこのおマヌケおたんこウサギさ～んっ！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Oh, I smell a case.\nIt looks like there's some arguing going on.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "おや、\n事件の匂いがする。\n何か言い争ってるみたいだね。"
+    },
+    {
+      "name": "Lou",
+      "text": "One bump on the head is enough for Lou.\nWhat's going on here, you two?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "おたんこぶができるのは\nルゥの頭だけでじゅーぶんですぅ。\n二人とも、\nどうしたですか？"
+    },
+    {
+      "name": "Kanon",
+      "text": "Ladies and gentlemen of the underworld and otherworld, listen up!\nThis Nana-san has stolen my precious treasure!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "異世界アンド下々のみなさん、\nよくぞ聞いてくださいましたわ！\nこのナーナさんが、\nあたくしの大事なお宝物を盗んだのです！"
+    },
+    {
+      "name": "Naana",
+      "text": "But, but, but, Nana isn't the culprit!\nIt's wrong to accuse Nana without any evidence, Kanon-chan!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "でもでもでも、\nナーナは犯人じゃないんだもん！\n証拠もないのに、\nカノンちゃんひどいよぅ～！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Underworld... Rather than that,\nI, as a detective, cannot overlook accusing someone without evidence.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "下々……\nいや、\nそんなことよりも\n証拠もなしに犯人扱いは、\n探偵として見過ごせないね。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Are you a detective...?\nBut, I have proof.\nNana-san's empty head is evidence enough!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "アナタ、\n探偵ですの……？\nでも、\nお証拠はありましてよ。\nナーナさんのすっからかんの頭が\n何よりのお証拠ですわ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Well... but, isn't that more like an insult than evidence?\nAlso, a detective's job is to uncover the truth.\nI'll solve any mystery with a detective's insight.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "うん……\nでも、\nそれは証拠というより悪口じゃないかな。\nあと\n探偵の仕事は、\n真実を追求することなんだ。\n如何なる謎も、\n探偵の閃きで解いてみせるよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "So, this case──",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "だから、\nこの事件は──"
+    },
+    {
+      "name": "Lou",
+      "text": "This case, leave it to 'Great Detective' Lou!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "この事件、\n『めいたんてい』ルゥに\nまかせるですぅ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Eh!? \n(T-that was my catchphrase...!)",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "えっ！？\n（き、\n決め台詞が……！）"
+    },
+    {
+      "name": "Naana",
+      "text": "Thank you, Great Detective Lou-chan!\nPlease find the real culprit for Nana and Kanon-chan!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ありがとう、\nめいたんていルゥちゃん！\nナーナのためにも、\nカノンちゃんのためにも、\n真犯人を見つけてほしーの！"
+    },
+    {
+      "name": "Lou",
+      "text": "Of course! \nThen, let's start the investigation immediately!\n...........What should I do for an investigation?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "もちろんですぅ！\nじゃあ、\n早速\nそうさですね！\n………………\nそうさって\n何をしたら\nいいんですぅ？"
+    },
+    {
+      "name": "Kanon",
+      "text": "......Are you really a great detective?\nI sense an air of incompetence similar to Nana-san...",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "……アナタ、\n本当に名探偵ですの？\nナーナさんに似た、\nおぽんこつのオーラを感じるのですけど……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "......Lou-san, first let's conduct an inquiry.\nIt's okay, I'll help you.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……ルゥさん、\nまずは事情聴取をしよう。\n大丈夫、\n私も手伝うよ。"
+    },
+    {
+      "name": "Lou",
+      "text": "Well then, Kanon-san.\nPlease tell us your alibi.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "では、\nカノンさん。\nアリバイを話してくださいですぅ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "I was taking care of my precious jewelry,\nmost valuable jewel, but forgot that I had a match at the Coliseum,\nand a colleague came to get me.\nReluctantly, I entrusted my precious jewelry to Nana-san who was nearby.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "あたくしは\n大事なお宝石のお手入れをしていたのですけど、\nコロッセオに出場するのを忘れていて、\n同僚が呼びにいらしたの。\nそれで仕方なく、\n近くにいたナーナさんにお宝石を預けたのです。"
+    },
+    {
+      "name": "Kanon",
+      "text": "Of course, the match was a grand victory against the monsters, truly beautiful.\nBut when I returned, Nana-san was gone along with my precious jewelry.\nIt's obvious that Nana-san is the culprit.",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "勿論、\n試合では魔物を斬り伏せ\nビューティフォーな勝利を収めましたわ。\nですが戻ってくると、\nナーナさんはお宝石と共に姿を消していましたの。\nどう考えても、\nナーナさんが犯人に違いありませんわ。"
+    },
+    {
+      "name": "Lou",
+      "text": "Hmm Hmm, I don’t quite understand, but I got it.\nIs this story true, Nana-san?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ふむふむ、\nよくわからないけどなるほどですぅ。\n今の話は\nほんとうですか、\nナーナさん？"
+    },
+    {
+      "name": "Naana",
+      "text": "I did receive the jewelry from Kanon-chan.\nBut, but──",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "カノンちゃんから、\n宝石をあずかったのはホントだよ。\nでもでも──"
+    },
+    {
+      "name": "Lou",
+      "text": "You confessed!\nNana-san is the culprit!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "自白しましたね！\nナーナさんが犯人ですぅ！"
+    },
+    {
+      "name": "Naana",
+      "text": "No way~!?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "そんなぁ～っ！？"
+    },
+    {
+      "name": "Kanon",
+      "text": "Look at that! \nI was right, Nana-san is indeed the culprit!\nArrest her! Arrest her!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ほらご覧あそばせ！\nやっぱりナーナさんが犯人ではありませんこと！\n逮捕よ\n逮捕！　\nお逮捕ですわ～っ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "No, no, wait a moment.\nIsn't it too soon to conclude without hearing Nana-san's story?\nRight, detective?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いやいや待ちたまえ。\nナーナさんの話も聞かずに、\n結論を出すのは早計ではないかな。\nそうだよね、\n探偵さん？"
+    },
+    {
+      "name": "Lou",
+      "text": "O-of course.\nThat was a tactic to shake things up.\nA technique of the 'Great Detective'.\nWell then, Nana-san. Please tell us your alibi!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "も、\nもちろんですぅ。\n今のは\nゆさぶりってやつですよぉ。\n『めいたんていの技』の一つですぅ。\nでは、\nナーナさん。\nアリバイを話してくださいですぅ！"
+    },
+    {
+      "name": "Naana",
+      "text": "U-um! Uh, well.\nAfter receiving the jewelry from Kanon-chan,\nI held it close to my chest.",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "う、\nうん！　\nえっとえっとー\nナーナは\nカノンちゃんから宝石をあずかった後、\nぎゅっ\nて\n宝石を抱えてたの。"
+    },
+    {
+      "name": "Naana",
+      "text": "But, for some reason, it got stuck to my arm.\nSo when I was flailing my arms around, the jewelry flew away...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "でも、\nどうしてか\n宝石が腕にくっついちゃって。\nそれで\n腕を\nぶんぶん！　\nって振り回したら\n宝石が飛んでっちゃって……"
+    },
+    {
+      "name": "Naana",
+      "text": "I went to look for it, but it was gone...\nSo, someone else must have taken the jewelry!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "探しに行ったんだけど、\nでも\n宝石はなくなっちゃってて……\nだから、\n宝石を盗んだ犯人は他にいるはずだよぅ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Not 'must have'! \nWhat did you do to my precious jewelry, Nana-san!?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "いるはずだよぅ！　\nではありませんわよナーナさんっ！\nあたくしの大事なお宝石になんてことしてくださいましたのっ！？"
+    },
+    {
+      "name": "Lou",
+      "text": "How suspicious, Nana-san!\nMy 'Great Detective’s intuition' is tingling!\nI've never heard of jewelry sticking to one's hand like that!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "あやしいですぅナーナさん！\nルゥの『めいたんていのカン』が\nビンビンしてるですぅ！\n宝石が手にくっつくなんて、\n聞いたことがないですよぉ！"
+    },
+    {
+      "name": "Naana",
+      "text": "It's true! It got sticky and stuck!\nLook, Nana's hands are sticky!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ホントだもん！　\nベタベタしてくっついたんだもん！\nほら、\nナーナの手、\nベタベタなんだよ～！"
+    },
+    {
+      "name": "Lou",
+      "text": "Wah, what are you doing?\nDon't rub that on me!\nNow Lou is all sticky too!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "わわっ、\n何するですか！\nこすりつけないでくださいですぅ！\nルゥまでベタベタになったじゃないですか！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Jewelry that gets sticky and sticks... \nDoes Nana-san have a condition like that?\nDoes her species secrete viscous sweat or something...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "宝石がベタベタして、\nくっつく……\nナーナさんはそういう体質だったりするのかい？\n種族の特徴で、\n粘性の汗が出るとか……"
+    },
+    {
+      "name": "Naana",
+      "text": "N-no, no!\nNana is not a sticky Al-mi'raj!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ち、\nちがうちがう！\nナーナはベタベタアルミラージなんかじゃないもん！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "That means there might be a reason on the jewelry side...?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "とすると、\n宝石の方に原因が……？"
+    },
+    {
+      "name": "Kanon",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Assault Jaguar women",
+      "text": "Hello~\nHave you had any luck finding the stolen jewelry?",
+      "choice_data_list": [],
+      "orig_name": "アサルトジャガーの女",
+      "orig_text": "こんにちは～\nどう、\n盗まれた宝石は見つかりそう？"
+    },
+    {
+      "name": "Lou",
+      "text": "Who are you...? \nCould you be the real culprit!? \nIs this what they call a 'confession'!?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "あなたは……？\nもしかして、\n真犯人ですか！？\n『しゅっとう』って\nやつですね！"
+    },
+    {
+      "name": "Assault Jaguar women",
+      "text": "Eh, no. I'm not like that.\nI'm Kanon-chan's work colleague.\nI came to check after hearing that the jewelry was stolen after the match.",
+      "choice_data_list": [],
+      "orig_name": "アサルトジャガーの女",
+      "orig_text": "えっ、\nやだ。\nそんなんじゃないわ。\nカノンちゃんの仕事仲間よ。\n試合の後に、\n宝石が盗まれたって聞いたから\n様子を見に来たの。"
+    },
+    {
+      "name": "Assault Jaguar women",
+      "text": "She was proudly boasting that it was an amazing piece of jewelry.\nIt was a precious gem ordered from Gio Teogonia, wasn't it?",
+      "choice_data_list": [],
+      "orig_name": "アサルトジャガーの女",
+      "orig_text": "すごい宝石だろうってうれしそうに自慢してたからね。\nジオ・テオゴニアから取り寄せた、\n貴重な宝石だったんでしょう？"
+    },
+    {
+      "name": "カノン",
+      "text": "え……\nえ！　\nそうでしてよ！　\nあの大粒なお宝石を見せつけて、\nにくらしきネフィの顔を嫉妬で歪めてやる予定でしたのに。\nナーナさんのせいで、\n台無しですわ～！",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "え……\nえ！　\nそうでしてよ！　\nあの大粒なお宝石を見せつけて、\nにくらしきネフィの顔を嫉妬で歪めてやる予定でしたのに。\nナーナさんのせいで、\n台無しですわ～！"
+    },
+    {
+      "name": "Lou",
+      "text": "So that was your purpose...\nActually, Kanon-san's face is twisted with frustration now.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そんな目的があったんですねぇ……\nむしろ、\nカノンさんの顔が\n悔しさで歪んでるですぅ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "That's right... for Kanon-san's sake,\nLet's investigate the jewelry's drop-off point.\nIt must have been a jewel larger than my fist, so there must be marks.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そうだね……\nカノンさんのためにも、\n次は、\n宝石の落下地点を調べてみよう。\n私の握り拳より大きな宝石だったそうだし、\n落下痕が残っているかも。"
+    },
+    {
+      "name": "Lou",
+      "text": "Is this where the jewelry fell?\nThere doesn't seem to be anything suspicious here...\nThere are a lot of footsteps because it's near the residential area.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ここが\n宝石が落下した場所ですか？\n特にあやしいところはなさそうですねぇ……\n居住区の近くなせいで、\n足跡もびっしりですぅ。"
+    },
+    {
+      "name": "ナーナ",
+      "text": "ぜったい、\nこの辺に落ちたはずなの！\nでも、\nナーナが来た時には、\nもう宝石はなかったんだよね……",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぜったい、\nこの辺に落ちたはずなの！\nでも、\nナーナが来た時には、\nもう宝石はなかったんだよね……"
+    },
+    {
+      "name": "Kanon",
+      "text": "Hmph.\nCould it be another one of Nana-san's silly lies?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "フン。\nどうせ、\nそちらもナーナさんのおたんこな嘘ではなくて？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "So, I brought a witness to verify the truth,\nSomeone who was around here at the time of the incident.\nCan you tell us what happened?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そこで、\n真偽を確かめるために、\n事件当時、\nこの辺りにいたという証人に来てもらったよ。\nその時の様子を聞かせてもらえるかい？"
+    },
+    {
+      "name": "Basilisk Man",
+      "text": "Of course.\nI was around here, gathering food with my companions.\nI didn't see any jewelry, but I heard a sound of something shattering.",
+      "choice_data_list": [],
+      "orig_name": "バジリスクの男",
+      "orig_text": "もちろん。\n俺はこの辺で、\n仲間と一緒に食料調達の仕事をしていたんだ。\n宝石は見なかったけど、\n近くで何かが砕け散るような音が聞こえたよ。"
+    },
+    {
+      "name": "Basilisk Man",
+      "text": "Soon after, Nana came from the residential area,\nasking if I had seen a jewelry, but I said I didn't know...\nThen Kanon came and dragged an angry Nana away.",
+      "choice_data_list": [],
+      "orig_name": "バジリスクの男",
+      "orig_text": "それで、\nそのすぐ後に居住区の方からナーナが来て、\n宝石を見てないか聞かれたけど、\n知らないって答えて……\nその後にカノンも来て、\n怒ってナーナを引きずっていってたな。"
+    },
+    {
+      "name": "Lou",
+      "text": "Thank you for your cooperation!\nNo one saw the jewelry, and there was a sound of something shattering.\nThe answer was right here!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ご協力ありがとうですぅ！\n宝石は誰も見ていない。\nそして、\n何かが砕ける音がした。\nここに、\n答えがあったですよぉ！"
+    },
+    {
+      "name": "Lou",
+      "text": "What this means is,\nThe jewelry fell and shattered into pieces.\nSo Nana-san isn't a thief, but rather, a jewelry crusher!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "この手がかりが意味するのは、\n宝石は落下して、\n粉々に壊れてしまった\nということですぅ。\nつまり、\nナーナさんは盗人ではなく、\n宝石クラッシャー犯なのですぅ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Eh, Nana broke the jewelry!?\nI'm sorry, Kanon-chan! Please forgive me~",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "えぇ、\nナーナが宝石を壊しちゃったの！？\nごめんね、\nカノンちゃん！　\n許して～"
+    },
+    {
+      "name": "Kanon",
+      "text": "Of course, Nana-san...\nI will not forgive you!\nYou will pay for it!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ナーナさん、\nもちろん……\n許しませんわ！\nきっちり、\nお弁償してもらいますからね！"
+    },
+    {
+      "name": "Naana",
+      "text": "Piii~!\nI'm so sorry!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃいい～っ！？\nごめんなさ～い！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "No, there's something still off!\nLou-san, let's pursue them!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……いや、\nまだ何か引っかかる！\nルゥさん、\n二人を追いかけるよ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "I have already thought of a way for you to compensate.\nPrepare yourself, Nana-san!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "お弁償いただく方法は既に考えてありますわ。\nお覚悟はよろしくて、\nナーナさん！"
+    },
+    {
+      "name": "Naana",
+      "text": "Piiii!? \nI'm not prepared at all~...!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃっ！？\nぜんぜんよろしくないよぉ～……！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Wait, Kanon-san!\nThe culprit is not her!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "待つんだ、\nカノンさん！\nやはり、\n犯人は別にいる！"
+    },
+    {
+      "name": "Naana",
+      "text": "Kasumi-chan...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "カスミちゃん……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Nana-san is the confirmed culprit!\nOr do you claim there's another real culprit!?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "お犯人はナーナさんで確定でしてよ！\nそれとも、\n他に真犯人がいるとでもおっしゃいますの！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "That is...sorry, I still don't know.\nBut I'm sure that Nana-san can't be considered the culprit.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "それは……\nごめん、\nまだ分からない。\nでも、\nナーナさんが犯人とは言えないことは確かだよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Think about it.\nEven if the jewelry fell onto the soil or grass, it wouldn't shatter so easily.\nIf it did, there should be fragments at the scene.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "考えてみてほしい。\n土や芝に落下しても、\n宝石はそう簡単には砕けない。\nもし仮に砕けたなら、\n現場に欠片が落ちているはずなんだ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Because Nana-san came from the residential area\nand was caught by Kanon-san soon after.\nThere should have been no time to conceal anything.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "何故なら、\n居住区から来たナーナさんは、\nそのすぐ後にカノンさんに捕まっている。\n隠ぺい工作を行う時間もなかったはずだからね。"
+    },
+    {
+      "name": "Lou",
+      "text": "Hmm Hmm...\nOh, I got it!\nThen maybe a monster took the jewelry!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ふむふむ……\nあ、\nわかったですぅ！\nじゃあ、\n宝石は\n魔物が持って行ったですよぉ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Yes, that's a possibility.\nIt's a convenient answer.\n...But there are still unsolved mysteries.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "うん、\n確かにその可能性もあるね。\nそれが都合のいい答えといえる。\n……\nでも、\nまだ解けない謎が残されているんだ。"
+    },
+    {
+      "name": "Lou",
+      "text": "Unsolved mysteries...?\nOh yes, there's also a mystery about my bump.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "解けない謎\nですか……？\nそういえば、\nルゥもたんこぶの謎が残っていたですぅ。"
+    },
+    {
+      "name": "Naana",
+      "text": "A bump's mystery?\nLou-chan, do you have a bump?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "たんこぶの謎？\nルゥちゃん、\nたんこぶがあるの？"
+    },
+    {
+      "name": "Lou",
+      "text": "That's right.\nBefore the incident, when I was taking a walk,\na large and beautiful candy fell from the sky.",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そうなんですぅ。\n事件が起きる前に、\n散歩していたら、\n空から大きくて\nきれいなアメ玉が降ってきたですぅ。"
+    },
+    {
+      "name": "Lou",
+      "text": "A candy hit my head, which caused the bump.\nWhy did candy fall from the sky...\nHah...!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "アメ玉が頭にぶつかって、\nたんこぶができたですぅ。\nどうして、\n空からアメ玉が降ってきたのか……\nはっ……！"
+    },
+    {
+      "name": "Lou",
+      "text": "The mystery of the bump is solved!\nIt was because Lou has good deeds that candy fell from the sky!\nThe candy was a reward for Lou!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "たんこぶの謎が、\nわかったですぅ！\nルゥの日頃の行いがいいから、\n空からアメ玉が降ってきたですよぉ！\nズバリ、\nアメ玉は\nルゥへのごほうびだったのですぅ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "No, it sounds like saying the bump was also a reward.\nBesides, candy falling from the sky in Gio Gehenna...\nHah...!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いや、\nその解釈だと、\nたんこぶもご褒美みたいに聞こえるけど。\nそもそも、\nジオ・ゲヘナで飴玉が降るなんて……\nはっ……！"
+    },
+    {
+      "name": "Lou",
+      "text": "What is it, Kasumi-san!?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "どうしたですぅ、\nカスミさん！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I might have figured out who the culprit is........",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "犯人が、\n分かったかもしれない…………"
+    },
+    {
+      "name": "The Three",
+      "text": "Really!? \nIs it true...!? \nWhat does this mean...?!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "ホントなの……！？\nほんとですか……！？\nなんですって……！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "But first, Kanon-san needs to tell us the truth.\n...The jewelry was not really a jewelry. \nIsn't that right?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "でも、\nその前にカノンさんに真実を語ってもらう必要がある。\n……\n宝石は宝石じゃなかった。\nそうだね？"
+    },
+    {
+      "name": "Kanon",
+      "text": "W-what are you saying?\nKasumi-san, did you empty your head too?\nHow could you be so rude!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "な、\nななな\n何を仰っているのかしら？\nカスミさんまで、\n頭すっからかんになりましたの？\nそんな疑念を向けるだなんて\nお失敬というものですわよ！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I was always puzzled as to why the jewelry stuck to Nana-san's arm.\nBut Lou-san's story connected everything.\nIf the real identity of the jewelry is candy, it explains the stickiness.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "何故ナーナさんの腕に宝石がくっついたのか、\nずっと不思議だった。\nでも、\nルゥさんの話で全てがつながったよ。\n宝石の正体が飴であれば、\nベタベタと腕にくっついた説明ができるんだ。"
+    },
+    {
+      "name": "Naana",
+      "text": "The jewelry is... candy...\nEh, eh, what does it mean?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "宝石が、\nアメ……？\nえっえっ、\nどーいうこと？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Candy has a property of melting in hot and humid conditions.\nThe hot climate of Gio Gehenna is an environment where candy melts easily.\nMoreover, Nana-san held onto the candy tightly, which made it worse.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "飴は、\n高温多湿で溶ける特性があるんだ。\nジオ・ゲヘナの暑い気候は、\n飴が溶けやすい環境といえる。\nそれに、\nナーナさんは飴をぎゅっと抱えていたのだから、\n尚更だよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "And Kanon-san's colleague gave a testimony,\nThe jewelry was ordered from Gio Teogonia, known for its sweets.\nI've heard that there's candy shaped like beautiful jewelry there.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "それに、\nカノンさんの同僚は証言していたね。\n宝石は、\nお菓子で有名なジオ・テオゴニアから取り寄せたものだと。\nあの国には、\n宝石のようにきれいな飴があると聞いたことがあるよ。"
+    },
+    {
+      "name": "Kanon",
+      "text": "G-Ghh...!? \nAre you saying I mistook a candy for jewelry!?\nIt's disrespectful to treat me, with my discerning eye, as a fool!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ギ、\nギクゥ……！？\nあ、\nあたくしがお宝石を飴と間違えて\n取り寄せたと言いたいんですの！？\n確かな審美眼を持つあたくしを\nおマヌケ扱いして、\n失礼ですわよ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The reason for that, Kanon-san, you must know it well.\nThe larger the gem, the harder it is to acquire and find. Thus,\nyou noticed Gio Teogonia's candy and faked it as jewelry.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "その理由は、\nカノンさん自身がよく知ってるはずだ。\n宝石は大きければ大きいほど\n入手も発見も難しい。\nそこで、\nジオ・テオゴニアの飴に目をつけ、\n宝石と偽ったんじゃないのかい。"
+    },
+    {
+      "name": "Kanon",
+      "text": "G-gunununu...!\nNoble as I am, there's no way I'd do such a petty trick!\nWhat about the evidence?! There's no evidence!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ぐ、\nぐぬぬぬぬっ……！\n高貴なあたくし様が、\nそんな小賢しき真似するわけがありませんわ！\nお、\nお証拠は！？　\nそれこそ、\nお証拠がないですわよ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Evidence is yet to come, but... there's something important.\nIt's known that you have a rival in Nephi Nela-san.\nSo, Kanon-san, that was your──",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "証拠はまだ、\nこれからだけど……\nその前に大事なことを一つ。\nあなたは\nネフィ＝ネラさんに、\nライバル意識があったそうだね？\nつまり、\nカノンさん。\nそれがあなたの──"
+    },
+    {
+      "name": "Lou",
+      "text": "'Motive', that's what it's called, right?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "『どうき』ってやつですよぉ。"
+    },
+    {
+      "name": "カスミ",
+      "text": "また決め台詞がっ……！？　",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "また決め台詞がっ……！？　"
+    },
+    {
+      "name": "Kanon",
+      "text": "Grrr...! \nWhy is Lou-san looking so smug!?\nEven if that's the case, who do you say the real culprit is!?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ムキー……！\nどうして、\nルゥさんが得意気な顔をしてますの！？\n仮にそうだとしても、\n真のお犯人はどなただとおっしゃるのかしら！？"
+    },
+    {
+      "name": "Naana",
+      "text": "Ah, indeed.\nEven if the jewelry is candy, Kanon-chan isn't the culprit.",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あっ、たしかに。\n宝石がアメでも、\nカノンちゃんが犯人じゃないもんね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "......Yes.\nThe culprit is...........",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……うん。\n犯人は…………"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I don't want to admit it...\nBut no matter how inconvenient the truth might be,\nI must pursue it as a detective...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "認めたくない……\nだけど、\nいかに不都合な真実だとしても、\n私は探偵として\n真実を追求しなくてはならないんだ……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The true culprits who stole Kanon-san's gem, or rather candy, are...\n...Me and Lou-san.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "カノンさんの宝石、\nもとい\n飴を盗んだ真犯人は……\n…………\n私とルゥさんだ。"
+    },
+    {
+      "name": "The Three",
+      "text": "Huh...!?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "えぇ……！？"
+    },
+    {
+      "name": "Lou",
+      "text": "W-Why are Lou and Kasumi-san the culprits!?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "な、\n何でルゥとカスミさんが\n犯人になるですか！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The candy that Lou-san and I first ate together.\nThat was Kanon-san's candy.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "最初に、\nルゥさんと私が一緒に食べた飴。\nあれこそが、\nカノンさんの飴だったんだよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The candy ball Nana-san threw hit Lou-san directly, causing a lump.\nAfterwards, Lou-san crushed it with a staff and ate it with me.\nOtherwise, the phenomenon of candy falling from the sky can't be explained.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ナーナさんが飛ばした飴玉が、\nルゥさんに直撃して\nたんこぶを作った。\nその後、\nルゥさんはそれを杖で砕いて、\n私と一緒に食べてしまったんだ。\nでないと、\n空から飴が降るなんて現象、\n説明できないからね。"
+    },
+    {
+      "name": "Kanon",
+      "text": "M-My candy… no, you mean you ate my gem!?\nThen, the main culprit is Otanko Detective Lou-san!\nAnd the accomplices are Kasumi-san and Nana-san!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "あ、\nあたくしの飴……\nいえ、\nお宝石を食べたですって！？\nでは、\n主犯はおたんこ探偵のルゥさん！\n共犯者は、\nカスミさんとナーナさんということですわね！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Lou-san will have to compensate for it!\nCome on, you'll be earning it properly!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ルゥさんには、\nお弁償をしてもらいますわ！\nさあ、\nきっちり稼いでもらいますわよ！"
+    },
+    {
+      "name": "Lou",
+      "text": "N-No way!\nWhat are you going to do to Lou~!?",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "そ、\nそんな～！\nルゥに何をするですか～！？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Hiiiii!\nPlease help meeee!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ひいいいっ！\n助けてくださいですぅぅぅっ！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Hey! As a gladiator, fight without running away!\nSince you ate my candy... I mean, my gem,\nyou'll keep fighting until you earn the compensation!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "こら！　\nグラディエーターとして、\n逃げずに戦いなさい！\nあたくしの飴……\nではなくて\nお宝石を食べたのですから、\n弁償代を稼ぐまで、\n戦い続けるのですわ！"
+    },
+    {
+      "name": "ナーナ",
+      "text": "どーしよー！\nこのままじゃルゥちゃんが食べられちゃうよ～！",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "どーしよー！\nこのままじゃルゥちゃんが食べられちゃうよ～！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Um, Kanon-san.\nIsn't there another way of compensation?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "あの、\nカノンさん。\n別の弁償方法はないのかい？"
+    },
+    {
+      "name": "Kanon",
+      "text": "No! To keep the candy incident quiet,\nI've already been lenient with you all!\nOr, are you saying you want to participate as a gladiator!?",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "ノンですわ！　\n飴のことは他言無用とすることで、\nアナタたちを情状酌量にしてあげたのですわよ！\nそれとも、\nグラディエーターとして参加したいとおっしゃいまして！？"
+    },
+    {
+      "name": "Naana",
+      "text": "......G-Good luck, Lou-chan!\nNana is cheering for you~!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "…………が、\n頑張れルゥちゃ～ん！\nナーナが応援してるよ～！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "......Even for me, that outfit is a bit embarrassing.\nAnd, if my intuition is correct, soon──......",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\n私も、\nあの恰好はちょっと恥ずかしいかな。\nそれに、\n私の勘が正しければそろそろ──……"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Lou",
+      "text": "Gyaaah~...!!\nI'm gonna be eaten~!",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "ぎゃあ～……！！\n食べられちゃうですぅ～！"
+    },
+    {
+      "name": "Narration",
+      "text": "Shining...!",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ピカッ……！"
+    },
+    {
+      "name": "Kanon",
+      "text": "Huh!? Lou-san disappeared!?\nMy compensation money~...!",
+      "choice_data_list": [],
+      "orig_name": "カノン",
+      "orig_text": "はあ！？　\nルゥさんが\n消えた！？\nあたくしの弁償代が～……！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's the time limit of the teleportation device.\nGood grief... it was a long day.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "転送装置の、\n時間制限だね。\nやれやれ……\n長い一日だった。"
+    },
+    {
+      "name": "Narration",
+      "text": "After many twists and turns, Kasumi and the others solved the mystery of the gem theft incident.\nLater, Kanon was left with an angry expression when Lou escaped,\nand she stormed into the colosseum and earned the gem (candy) compensation herself.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "紆余曲折を経て、宝石盗難事件の謎を解き明かしたカスミたち。\nその後、ルゥに逃げられてしまったカノンは、怒りで顔を歪ませて\nコロッセオに乱入し、自ら宝石（飴）代を稼いだのだった。"
+    }
+  ]
+}

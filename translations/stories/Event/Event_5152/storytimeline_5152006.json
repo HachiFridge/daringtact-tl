@@ -1,0 +1,978 @@
+{
+  "title": "Battle VS the White Whale",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A sea beast that multiplies and swims through the sky. A white whale whose shape has been twisted by acquiring factors from another world. Those who challenge it are those who wish to protect the fun summer ahead of them.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "増殖し、空を泳ぐ海の獣。\n異世界の因子を得てカタチの捻じ曲がったシロクジラ。\nそれに挑むのは、楽しい夏を守りたいと願う者たちであった。"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Beach Guest 1",
+      "text": "Wh-What's that?! A whale... is it...?!",
+      "choice_data_list": [],
+      "orig_name": "海水浴客１",
+      "orig_text": "なっ、\nなにあれ！？\nクジラ、\nなの……！？"
+    },
+    {
+      "name": "Beach Guest 2",
+      "text": "I've never seen a flying whale before! And... just how many are there?!",
+      "choice_data_list": [],
+      "orig_name": "海水浴客２",
+      "orig_text": "空飛ぶクジラなんて見たことねぇぞ！\nそれに、\n何頭いやがんだ！？"
+    },
+    {
+      "name": "Beach Guest 3",
+      "text": "It's as if the heavens and the earth have been turned upside down... W-We have to run away! Dear...!",
+      "choice_data_list": [],
+      "orig_name": "海水浴客３",
+      "orig_text": "天と地が、ひっくり返ったみたい……\nに、\n逃げないと！　\nあなた……！"
+    },
+    {
+      "name": "Rem",
+      "text": "I knew it, with such a huge body, there's no way it wouldn't cause chaos around us...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "やはりこれだけの巨体、\n周囲の混乱は避けられませんね……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As for us, I don't think we really have a plan on how to tackle them on.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "こちらとしても、\nどう攻めていいのか\n悩ましいところでございます。"
+    },
+    {
+      "name": "Karyl",
+      "text": "It's not fair that they can fly into the sky with such a big build! And they're multiplying too somehow! This is truly a nightmare...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんな図体しといて\n空まで飛んでるなんてズルでしょ！\nしかもなんか増えてるし！　\n悪夢よこんなの～……"
+    },
+    {
+      "name": "Ram",
+      "text": "Face reality, Kyaru. If you believe that this is a nightmare, I'm ready to pinch your cheek.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "現実を見なさい、\nキャル。\n悪夢だと思っているなら頬をつねってあげてもいいけど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Owowowow... Hey, wait! You're already pinching me!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いたたたっ……\nって、\nもうつねってるじゃない！"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Small monsters",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "小型の魔物たち",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rem",
+      "text": "The while whales are sending out the small monsters now...! Please be careful!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "シロクジラから小型の魔物が……！\n気を付けてください！"
+    },
+    {
+      "name": "Karyl",
+      "text": "If we end up touching one of those we'll go all 'babuu♪' or 'ogyaa♪'... This isn't a joke anymore.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あれに触れると\n「ばぶー♪」とか\n「おぎゃー♪」とか\nする羽目になるのよね……\n冗談じゃないっての。"
+    },
+    {
+      "name": "Ram",
+      "text": "Surprisingly, I agree. But their individual strength is no threat. Kyaru, step forward.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "珍しく同感ね。\nでも一匹一匹の強さは脅威ではないわ。\nキャル、\n前に出なさい。"
+    },
+    {
+      "name": "Karyl",
+      "text": "AND WHAT ABOUT MY SAFETY?! Besides, your instructions are sloppy, Ram! Just telling me to step forward is...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしの身の安全は！？\nそれに\nあんたは指示が雑なのよ、ラム！\n前に出ろったって──"
+    },
+    {
+      "name": "Rem",
+      "text": "Understood, Nee-sama. Lady Kyaru, Rem will surround those monsters with ice as you attract them.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "分かりました姉様。\nキャル様が魔物を惹き付けている間に\nレムが氷で包囲します。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well then as for me, I will match together with Lady Rem's magic.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それではわたくしは\nレムさまの氷魔法に合わせます。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh? What? Is it me? Am I just bad at listening? No, it's that pampering duo that's weird, isn't it? Hey, Ram, what's with that look?! It pisses me off how proud you are!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えっなに？　\nあたし？　\nあたしの察しが悪いの？\nいや、\nあの甘やかしコンビがおかしいのよね？\nちょっとラム、\n何よその目は！　\nやたら自慢気なのがむかつく！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Things are looking bad.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──まずいですね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...That's right. On our own we could probably do something about all this, but...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……そうね。\n私たちのことだけなら何とかできそうだけど──"
+    },
+    {
+      "name": "Beach Guest 1",
+      "text": "H-HELP MEEEEEEEEEEEEEE!",
+      "choice_data_list": [],
+      "orig_name": "海水浴客１",
+      "orig_text": "たっ、\n助け\nてーっ！"
+    },
+    {
+      "name": "Beach Guest 2",
+      "text": "*giggle*♪",
+      "choice_data_list": [],
+      "orig_name": "海水浴客２",
+      "orig_text": "きゃっきゃっ♪"
+    },
+    {
+      "name": "Beach Guest 3",
+      "text": "What's wrong with you, dear?! I-Is it because those monsters got you...?!",
+      "choice_data_list": [],
+      "orig_name": "海水浴客３",
+      "orig_text": "どうしたのあなた！？\nあ、\nあの魔物にやられたから……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The people who weren't able to escape in time are starting to get hurt. Now that it's come to this, we can't tally any longer...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "逃げ遅れた人たちに被害が出始めています。\nああなってしまうと、\nもう逃げることもできません……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh I know, Puck! Can't you defeat those little monsters all at once?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうだパックさん！\nあの小さな魔物を一気に倒せたりしませんかっ？"
+    },
+    {
+      "name": "Puck",
+      "text": "Hmm, I believe that's a little difficult. I probably can defeat them all in one fell swoop, but that'd also end up hitting the people who're currently sitting around aimlessly due to their memories being stolen.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "うーん、\nちょっと難しいかな。\n一気に倒すこと自体はできるんだけど、\n記憶を奪われて\n逃げられない人たちにも当たっちゃう。"
+    },
+    {
+      "name": "Emilia",
+      "text": "That's definitely a \"no\", then. However we really need to find a way to get rid of those small monsters.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それは絶対ダメね。\nやっぱり、\n私たちで小型の魔物を減らさないと。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes... Of course we have to defeat the small monsters, but if we don't defeat the white whales too, then those little monsters will just keep increasing.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい……\n小型の魔物を倒すのはもちろんなんですが、\nシロクジラも倒さないと、\n魔物が増え続けるだけなんですよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We're at a stalemate...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "これは本格的に……！"
+    },
+    {
+      "name": "Emilia",
+      "text": "And a really difficult one at that...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "すごーく大変、\nね……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...Indeed.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "──そうだ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Before, this is where \"The End\" would take place.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "前は『ここで終わり』だった。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Those dastardly whales overwhelming mass, mobility, and even their numbers were growing. Emilia, Pecorine, and the others are forced to fight while protecting the affected people, and as a result end up being unable to fight back as they would have liked.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "あのクジラ野郎の圧倒的な質量、\n機動力、\nしかも数まで増えるときてる。\nエミリアやペコリーヌたちは\n人々を守りながらの戦いを強いられ、\n思うように反撃ができなかった。"
+    },
+    {
+      "name": "Subaru",
+      "text": "In a situation where I was forced to defend myself, my memories suddenly returned - among the small monsters born from the white whale, there was one that bore my memories, and by chance I was able to defeat it during the battle.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "防戦を強いられる状況で、\n突如として戻った俺の記憶──\nシロクジラから生み出される小さな魔物の中に\n俺の記憶を持った個体がいて、\n戦いの中で偶然それを撃破できたんだ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "But... that was as far as I went last time. Right after my memories came back, that damn whale came towards me and...!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "でも──\n前回はそこまでだった。\n記憶が戻った直後、\n俺はあの、シロクジラに──ッ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...But thanks to that, I was able to start over with my memories. It's all thanks to everyone who didn't give up and kept fighting to protect everything.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "──けど、\nおかげで記憶をもってやり直せた。\n全部を守ろうと、\nみんなが諦めずに戦い続けてくれたおかげだぜ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "I don't know about this white whale or whatever, but I won't let it get in the way of my summer vacation with Emilia-tan!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "シロクジラだか何だか知らねぇけど、\nエミリアたんとのサマーバケーションを邪魔されてたまるかよ──！"
+    },
+    {
+      "name": "Subaru",
+      "text": "White Whale, this time is different from \"Before\". This time, we...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "前とは違うぜ、\nシロクジラ。\n今度の俺たちには──"
+    },
+    {
+      "name": "Subaru",
+      "text": "...We have our bonds!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "──絆がある！"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Small monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "小型の魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "海水浴客たち",
+      "text": "ば、\nぶ……！",
+      "choice_data_list": [],
+      "orig_name": "海水浴客たち",
+      "orig_text": "ば、\nぶ……！"
+    },
+    {
+      "name": "Emilia",
+      "text": "We have to rescue the people whose memories have been stolen...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "記憶を奪われた人たちを助けないと……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Emilia! Don't! The white whale's about to attack...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "エミリアちゃん！　\nだめですっ、\nシロクジラの攻撃が……！"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "I'll absolutely... protect you! ...Kyaaa!?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "絶対、\n守る──\nきゃあっ……！？"
+    },
+    {
+      "name": "Beachgoers",
+      "text": "...Ogya...",
+      "choice_data_list": [],
+      "orig_name": "海水浴客たち",
+      "orig_text": "……おぎゃ……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Everyone... are you okay...?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "みんな、\n無事……？"
+    },
+    {
+      "name": "Puck",
+      "text": "Lia! How reckless of you...! You cursed whales... don't think you'll be able to leave this place alive!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "リア！　\nなんて無茶を……！\nお前たち、\n生きてこの場を去ることができると思うなよ──！"
+    },
+    {
+      "name": "Rem",
+      "text": "...Nee-sama! Rem will be supporting Lady Emilia!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "──姉様！　\nレムはエミリア様の援護に！"
+    },
+    {
+      "name": "Ram",
+      "text": "I'll leave that to you, Rem. Ram and the others will handle the white whales here...! If they break through here, the equilibrium that we just barely managed to maintain will crumble.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "任せたわよ、\nレム。\nこちらのシロクジラはラムたちで……！\nここを破られると、\nギリギリで保っていた均衡が崩れるわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "How irritating...! I can't say I have any time to spare either, but...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "歯がゆいわね……！\nこっちも余裕があるとはとても言えないけど……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "If only there was some way to change the tide of battle...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "何か、\n戦況を変えるきっかけがあれば……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's no way something that convenient c-...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そんなのあるわけ──"
+    },
+    {
+      "name": "Pecorine Emilia",
+      "text": "Please don't give up!  You mustn't give up!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ・エミリア",
+      "orig_text": "「諦めないでください！」\n「諦めちゃダメ！」"
+    },
+    {
+      "name": "キャルたち",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "キャルたち",
+      "orig_text": "！？"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "こういう時、\n{0}くんは……！",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "こういう時、\n{0}くんは……！"
+    },
+    {
+      "name": "Emilia",
+      "text": "At times like this, Subaru...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "こういう時、\nスバルは……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Always, absolutely...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "絶対に──！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Wouldn't give up...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "諦めない──！"
+    },
+    {
+      "name": "Pecorine Emilia",
+      "text": "As long as you don't give up, there's always hope!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ・エミリア",
+      "orig_text": "諦めない限り、\n希望はある！"
+    },
+    {
+      "name": "？？？",
+      "text": "Yes, you can say that AGAIN!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ええ──\nその通りね！"
+    },
+    {
+      "name": "White whale",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "That attack just now...!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "今の攻撃は……！"
+    },
+    {
+      "name": "Saren",
+      "text": "Looks like things are getting out of hand over here. It's summer, and you guys are all facing such trouble!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "なんだか\nとんでもないことになってるみたいじゃないの。\nせっかくの夏だっていうのに、\nあんたたちも災難ね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Lady Saren, are you here to save Rem and the others...?!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "サレン様、\nレムたちを助けに……！？"
+    },
+    {
+      "name": "Saren",
+      "text": "It's not just me.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あたしだけじゃないわ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "E-EEEEEIIIIII! COSMO BLUE FLASH!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "え、\nええーいっ！\nコスモブルーフラーッシュ！"
+    },
+    {
+      "name": "White whale",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I-I did it! That was a clean victory!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "や、\nやったぁ！\nちゃんと当たりました！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Kyouka! Amazing! Not only is she reliable, she can also use some pretty amazing magic.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "キョウカちゃん！　\nすごい！\nしっかりしてるだけじゃなくて、\n魔法も使えるのね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Well done over there, Kyouka. If you keep this up, we'll definitely be able to hold one of them down.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "よくやったわねキョウカちゃん。\nこのままあたしたちで\n確実に一頭、\n抑え込むわよ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Lady Saren and Lady Kyouka are suppressing the white whales together...! But there are still the small monsters to worry of...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "サレン様とキョウカ様が\nシロクジラを抑えてくれています……！\nですがまだ、\n小型の魔物が……"
+    },
+    {
+      "name": "Neneka",
+      "text": "In other words, what you need are numbers right now. Well then, let me even your odds at once... Mirror Mirror",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "つまり、\n必要なのは頭数ですか。\nでは、\n手早く揃えるとしましょう──\nミラーミラー"
+    },
+    {
+      "name": "Small monsters",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "小型の魔物たち",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Ram",
+      "text": "Illusion magic... But not, I can sense a real presence coming from all of them. Splitting yourself into multiple parts and attacking monsters at the same time, it seems being a child is no reason to underestimate someone here.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "幻覚の魔法……\nではなく、\n全員から本物の気配を感じるわ。\n自身を複数に分けて魔物を同時に攻撃するなんて、\n子どもだからといって侮れないわね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...I'm not the same age as Kyouka. Anyway, I'll be the one to take care of the small fry here. I'll leave it to you to deal with the people who were unable to escape.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……私はキョウカさんと同年代ではありません。\nとにかく、\n雑魚の処理はこちらで引き受けましょう。\n逃げ遅れた人々の対応は\nお任せしますよ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Okay, everyone~ Come over to sensei and the others here... Ranpha-chan, follow my lead.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "は～い\nみんな～♪\n先生たちの所においで～♪\nほら、\nランファちゃんも一緒に。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I too want to learn more from your motherhood vibe, Misato-san... This way everyone... Come here...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしも、\nミサトさんの\n母性を、\n学ばないと……\nこっち、\nよ……\nおいで……？"
+    },
+    {
+      "name": "Beachgoers",
+      "text": "Babuu♪",
+      "choice_data_list": [],
+      "orig_name": "海水浴客たち",
+      "orig_text": "ばぶー♪"
+    },
+    {
+      "name": "Emilia",
+      "text": "Amazing... The people who have reverted to babies are all heading to their direction, almost like they were drawn in!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "すごい……\n赤ちゃんみたいになっちゃった人たちが、\nまるで吸い込まれるみたいに集まっていくわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Lady Misato and Lady Ranpha's motherly natures are truly fearsome...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ミサト様とランファ様の母性、\n鬼がかっています……！"
+    },
+    {
+      "name": "Misato",
+      "text": "Everyone, as you can see your teacher and everyone else is cheering you on... Do your best not to get hurt♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "みんな、\n先生たちが応援してるからね。\n怪我しないように\n頑張って♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Come here, come here...♪",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "おいで、\nおいで……♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Thanks to everyone's help, it seems this war situation has stabilized! How crazy is that☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みんなのおかげで\n戦況が安定しました！\nやばいですね☆"
+    },
+    {
+      "name": "Emilia",
+      "text": "To think that you'd all be here! Thank you so much! But why?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "みんな、\n来てくれたのね！　\nすごーくありがとう！\nでも、\nどうして？"
+    },
+    {
+      "name": "Saren",
+      "text": "If you're asking why I came here, the answer is the same for everyone. “He” told me to head here. He seemed really desperate, but I guess this is why.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "どうしてここに来たかって質問なら、\n答えはみんな同じよ。\n『あいつ』に\nここに向かえって言われたの。\n凄い必死だったけど、\nこういうことだったのね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Um, I don't think it's right to suddenly kneel down in front of a child you never met before... but I do know a certain person like that. ...So I instinctively have to help them.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "その、\nいきなり子ども相手に土下座するのはどうかと思いますけど……\nそういう人はよく知っていますし。\n……助けてあげなきゃって。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I had no intention of listening to what that obviously suspicious man had to say, but he was so annoying that I had no choice.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "あからさまに怪しい男の言うことなど\n聞くつもりはありませんでしたが、\nあまりにも鬱陶しくまとわりついてくるので、\n仕方がなく。"
+    },
+    {
+      "name": "Misato",
+      "text": "I had never seen him before, but he sure was doing his best, so I had to support his request♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "見たことのない男の子だったけど、\n一生懸命だったから、\n応援しなくちゃいけないわよね♪"
+    },
+    {
+      "name": "ランファ",
+      "text": "{0}くんを\n助けてくれ\nって。\n真剣な、\n声\nだった……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "{0}くんを\n助けてくれ\nって。\n真剣な、\n声\nだった……"
+    },
+    {
+      "name": "Emilia",
+      "text": "I see... So Subaru... really was doing his best.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そっか……\nスバル、\nやっぱり頑張ってくれてたんだ。"
+    },
+    {
+      "name": "Rem",
+      "text": "That’s Subaru-kun for you. Rem admires him for once more predicting this situation ahead of time and acting first.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "さすがはスバルくんです。\n状況を予測しての先回り、\nレムは感服しました。"
+    },
+    {
+      "name": "Ram",
+      "text": "It seems that whole thing about his sunscreen was a lie after all. He'll have to pay for deceiving Ram and the others later.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "やっぱり日焼け止めなんて戯れ言は嘘だったようね。\nあとでラムたちを騙した報いは受けてもらうわ。"
+    },
+    {
+      "name": "Puck",
+      "text": "Once again Subaru is trying to act and look cool.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "スバルにしちゃ、\nカッコつけすぎだよね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "So, do you know where Subaru is now?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それで、\nスバルは今どこにいるの？"
+    },
+    {
+      "name": "Saren",
+      "text": "If you're looking for him, he's over there.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あいつなら、\nあそこよ。"
+    },
+    {
+      "name": "Small Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "小型の魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...Whoa, that was close!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "──うぉっ、\nあっぶね！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Could he be trying to act as a decoy again...!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかしてまた自分を囮に……！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "What the hell is he doing...!? What if he gets surrounded again...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何やってんのよあいつ……！\nまた囲まれたらどうすんのよ……！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "No, Lady Kyaru, please take a closer look. Lord Subaru is keeping a close eye on the distance between himself and the enemy. He will then draw the flow of monsters to him and act as a decoy.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "いえ、\nキャルさま、\nよくご覧ください。\nスバルさまは\n敵との距離をしっかりと見ておられます。\nそして\n魔物の流れを引き寄せ、\n囮としての役割を果たしておいでです。"
+    },
+    {
+      "name": "Rem",
+      "text": "Subaru-kun's being amazing again! But isn't he moving a little strangely? He looks like he's looking for something...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "さすがはスバルくんです！\nですが──\n少し動きが変ではないでしょうか？\n何かを探しているような……"
+    },
+    {
+      "name": "Subaru",
+      "text": "This is not it either...! Who is it? Who has it...?! It can't have been digested yet!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "こいつは違うっ……！\nどいつだっ？　\nどいつが持ってる……！？\nまだ消化されてはないはずだ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "From the start, I'm the sole cause for all of this. I ran out on my own, and he covered for me, and then...!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "元はと言えば、\n俺が原因なんだ。\n俺が勝手に飛び出したのを、\nあいつがかばって、\nそれで……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "If it was him, it would've been miles easier for him to gather people here. He wouldn't have had to beg or prostrate himself like I did, he could have created this situation naturally...!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "あいつだったらもっと、\n仲間を集めるのも簡単だったはずだ。\n俺みたいに頼み込んだり\n土下座したりしなくたって、\nこの状況を作り出せたんだ……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "YOU, the one who has woven together all those bonds, it is you who I need!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "これだけの絆を紡いできたお前が、\n必要なんだ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "That one looks just like the one who had my memories...! I’ve finally found you!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "こいつは、\n俺の記憶を持っていたやつと同じ……！\nとうとう見つけたぜ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "PUCK, ITS THIS ONE! DESTROY IT!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "パック、\nこいつだ！\nこいつをやってくれ！"
+    },
+    {
+      "name": "Puck",
+      "text": "I don't really get it, but I won't think about it. Eiii!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "よくわかんないけど、\nお安いご用さ。\nえい！"
+    },
+    {
+      "name": "Subaru",
+      "text": "The final answer is YOU... BRO!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "最後の鍵はお前だ、\n兄弟！"
+    },
+    {
+      "name": "スバル",
+      "text": "{0}の記憶を、\n返しやがれ──！",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "{0}の記憶を、\n返しやがれ──！"
+    },
+    {
+      "name": "Small Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "小型の魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...! Do you remember who I am? Your memories...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "っ……！\n俺が分かるかっ？　\n記憶が……"
+    },
+    {
+      "name": "Subaru",
+      "text": "You're back to normal, right?!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "戻ってきたんだな！？"
+    },
+    {
+      "name": "Subaru",
+      "text": "...I see... Ah, thank goodness.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "……そう、\nか……\nあぁ、\nよかった。"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "スバル",
+      "text": "んで、\n戻ってきて速攻で悪いんだけど、\n{0}の力、\n借りてもいいか？",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "んで、\n戻ってきて速攻で悪いんだけど、\n{0}の力、\n借りてもいいか？"
+    },
+    {
+      "name": "Subaru",
+      "text": "The white whale... we have to drop it dead. With everyone's help. That'll solve everything.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "シロクジラ……\nあのデカブツを落とす。\nみんなの力でな。\nそれで、\n全部解決だ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "YEAH!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "おうよ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...Wait, I’m glad we’ve made up our mind, but which white whale should we aim for? Usually one of those should be the main body or something...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "……って、\n覚悟決めたのはいいが、\nどのシロクジラを狙えばいいんだ？\nこういうのって、\nどれかが本体、\nみたいなヤツだと思うんだけど……"
+    },
+    {
+      "name": "？？？",
+      "text": "...Hmm, it seems like the \"real one\" is really obsessed with that boy. I guess the traits it inherited from him are showing through... How interesting.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──ふむ、\nどうやら『本物』は\nよっぽどあの少年に夢中みたいだね。\n受け継いだ性質が色濃く表われているのか……\n面白いな。"
+    },
+    {
+      "name": "Subaru",
+      "text": "...!? What was that... voice just now...? Something about how \"real one\" is infatuated with someone or something...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "っ！？\nなんだ、\n今の……\n声……？\n『本物』が誰かに夢中だとかなんとか……"
+    },
+    {
+      "name": "White whale",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "シロクジラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...! That white whale... It's looking straight at me...! It's just like that monster who was drawn by my stench...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "っ……！\nあのシロクジラ……\n真っ直ぐ俺を見てやがる……！\nまるで、\n俺の臭いに引き寄せられる魔獣みたいに……"
+    },
+    {
+      "name": "Subaru",
+      "text": "Ah... Sorry for making you worry. It's all right. More importantly, I have an idea of which one's the main body. I can't explain it in detail, but...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ああ……\nすまねぇ、\n心配させちまって。\n大丈夫だ。\nそれより、本体の目星はついた。\n詳しくは説明できないんだけどよ……"
+    },
+    {
+      "name": "Subaru",
+      "text": "Would you still believe in me?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "俺を信じてくれるか？"
+    },
+    {
+      "name": "Subaru",
+      "text": "...Heheh! I knew you'd say that!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "……へへっ！\nそう言ってくれると思ってたぜ！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Did we do it?! Ah, that was close! I almost set off an ominous flag myself!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "やったか！？\nってあっぶね！　\n自分から不吉なフラグ立てるところだった！"
+    },
+    {
+      "name": "Subaru",
+      "text": "But it's safe, isn't it!? It won't come back to life, right...?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "セーフ\nだよ\nな！？\n今ので復活したりしない、\nよな……？"
+    },
+    {
+      "name": "Subaru",
+      "text": "All right! Haha... Sorry for bothering you again with this.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "よっし！\nはは……\nまた世話かけちまったな。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Yeah, that's right. That's the kind of guy you've always been.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ああ、\nそうだったな。\nそういうやつだったよな。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Thanks you, brother.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ありがとな、\n兄弟。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...Subaru!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──スバルー！"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "おーいっ！　\n{0}くーん！",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おーいっ！　\n{0}くーん！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Now then, let's go, bro. We took a bit of a detour, but it looks like we can finally start our otherworldly summer vacation.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "さて、\n行こうぜ兄弟。\nちっと遠回りしちまったが、\nようやく異世界サマーバケーションが始められそうだ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Now that we have more friends joining us, let's all have a blast!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "仲間も増えたことだし、\nみんなで盛大に\n盛り上がっとこうぜ！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "スバルと{0}は拳を軽く合わせ、\n駆けつけてくる少女たちの輪に加わるのであった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "スバルと{0}は拳を軽く合わせ、\n駆けつけてくる少女たちの輪に加わるのであった。"
+    }
+  ]
+}

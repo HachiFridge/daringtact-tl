@@ -1,0 +1,859 @@
+{
+  "title": "The First Step towards becoming a Ranger",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Ranger training camp, first day──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "レンジャー合宿初日──"
+    },
+    {
+      "name": "Shiori",
+      "text": "Good morning. The lecture will begin soon.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "おはようございます。\nもうすぐ講義が始まっちゃいますよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord, good morning. Did you sleep well?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま、\nおはようございます。\nよくお眠りになられましたか？"
+    },
+    {
+      "name": "Shiori",
+      "text": "We borrowed uniforms from the training camp, so we changed into them.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "合宿所で制服を貸し出していたので、\n着替えちゃいました。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Since I mainly use a bow, I chose clothes that would match that.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "私は主に弓を使いますから、\nそれに合わせた服にしたんです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I often use herbs, so I chose something that I could carry a lot of baggage in.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしは\n薬草などを使うことが多いので、\n荷物を多く持ち運べそうなものにいたしました。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Apparently, there are various types of uniforms for Rangers depending on their style, and it's such a deep world that it's easy to get lost in.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なんでも\nレンジャーとしてのスタイルによって\n多種多様な制服があるらしく。\n思わず迷ってしまうほど、\n奥が深い世界でございました。"
+    },
+    {
+      "name": "Shiori",
+      "text": "But once we put on these uniforms, we know that the camp is about to begin, and it pumps us up, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "でも、\nこうして制服に袖を通すと\nいよいよ合宿が始まるんだって、\n気合が入りますね。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "...Hmm, it seems that everyone is here.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "……ふむ、\n揃っているようだな。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "I'll explain the curriculum for the training camp starting now.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "今から合宿のカリキュラムを説明する。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Everyone here is going to obtain the Ranger qualification, but let's start with an explanation of what a Ranger is.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "ここにいる者にはレンジャー資格を取得してもらうが、\nその前に\nレンジャーとは何かの説明から入ろう。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "In general, those who make a living by hunting are called hunters. Although their purpose is hunting, they also undertake the task of subduing monsters if necessary, to prevent harm to people.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "一般に、\n狩猟を生業として生計を立てる者をハンターと呼ぶ。\n狩猟が目的ではあるが、\n必要があれば魔物の討伐を行い、\n人々に危害が及ばないようにする役目も担っている。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "On the other hand, Rangers work to preserve the natural environment, including the ecology of all living creatures, including monsters.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "これに対し、\nレンジャーは、\n自然環境やそこに住む動植物の生態系──\n魔物を含めた\nすべての環境の保全を目的として活動する。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "They carry out activities to capture illegal poachers and protect animals and monsters, but they may also subdue dangerous monsters if deemed necessary, as a last resort.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "違法な密猟者の捕縛や\n動物や魔物を守るための保護活動を行うが、\n必要と判断すれば\n危険な魔物を討伐することもある。\n最終手段ではあるが、\nな。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "They balance between nature and humans, without leaning too much in either direction. Therefore, the ability to respond to any situation is required. That's what a Ranger is.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "自然と人間、\nどちらにも偏り過ぎないようバランスを取る。\nそれゆえ、\nあらゆる局面に対応できる能力が求められる。\n──それがレンジャーだ。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "So, anyone who lets their guard down just because it's the first day of the training camp...",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "だから、\nこうやって初日だからと油断するような奴は──"
+    },
+    {
+      "name": "Camp Student 1",
+      "text": "Ngah?!",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒１",
+      "orig_text": "んが\nっ！？"
+    },
+    {
+      "name": "Camp Students 2",
+      "text": "Hey...the chalk hit me and shattered into pieces. What kind of crazy power...ugh!",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒２",
+      "orig_text": "お、\nおい……\n当たったチョークが粉々に砕け散ったぜ。\nどんなえげつねぇ威力……\nぐあ\nぁッ！"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Even you, who was talking nonsense, will have additional training after the lecture to reforge your lazy attitude.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "無駄口を叩いた貴様も、\n講義が終わった後に追加訓練だ。\nナメた性根を芯から鍛え直してやる。"
+    },
+    {
+      "name": "Camp Students 2",
+      "text": "My eyes, my eyes!!",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒２",
+      "orig_text": "目がっ、\n目がァっ！！"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Listen up, we guarantee your food, shelter, and clothing during this training camp, so that you can concentrate on learning.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "いいか、\nこの合宿で貴様らの衣食住を\n保証しているのは、\n学ぶことに集中させるためだ。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Everyone here needs to become someone who can be quick and readily employable.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "ここにいる者には、\n迅速に、\n可及的速やかに\n使える人材になってもらう必要がある。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "We didn't gather people just to feed them for no reason.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "我々も無駄飯を食わせるために\nこうして人を集めているわけではないからな。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Now, those who understand, come and get the textbooks.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "では、\n理解できた者から\n教本を取りに来い。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "During this period, you will learn about hunting-related laws, the ecology of monsters and birds, how to identify them, and how to handle hunting tools.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "この時間では狩猟に関する法令、\n魔物と鳥獣の生態系や判別の仕方、\n猟具の取り扱いを学ぶ。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Have all the textbooks been distributed? You in the front row there.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "教本は行き渡ったな？\n──そこの最前列の生徒。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Y-Yes. Me...?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はっ、\nはいっ。\n私……\nですか？"
+    },
+    {
+      "name": "エルフの教官",
+      "text": "こに置いたすべての罠を、\n現在のランドソルで認可されているものと、\nそうでないものに分類してみろ。",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "こに置いたすべての罠を、\n現在のランドソルで認可されているものと、\nそうでないものに分類してみろ。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Oh, the page in the textbook is──",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "ああ、\n教本のページは──"
+    },
+    {
+      "name": "Shiori",
+      "text": "Oh, no, it's okay. I've done it.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あ、\nいえ……\nできました。"
+    },
+    {
+      "name": "Shiori",
+      "text": "These are wire snares that catch prey, and box traps that trap prey inside.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "これは、\nワイヤーで獲物を捕まえるくくり罠と\n獲物を閉じ込める箱罠、\n囲い罠の分類……\nですよね。"
+    },
+    {
+      "name": "Shiori",
+      "text": "After all, things without safety features should not be used, so I've separated them here...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あと、\n安全装置がついてないものはダメだったはずなので、\nこっちに分けておいてありますけど……"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Hmm...that's the right answer.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "ふむ……\n正解だ。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Even the items prepared as traps are sorted correctly. Do you have experience with trapping?",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "引っかけとして用意した物も、\n正しく分類されているな。\n過去に、\n罠猟の経験でもあるのか？"
+    },
+    {
+      "name": "Shiori",
+      "text": "No, it's more like guarding a ranch...but I've had a few opportunities to make traps like this before.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "いえ、\n猟というよりは牧場の警備で……\nですけど。\n前にこうした罠を作る機会が何度かあって。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Alright, return to your seat.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "いいだろう、\n席に戻れ。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "As you can see, not all traps are allowed to be used nowadays.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "と、\nこのように一口に罠と言っても、\n現在では使用が許可されていないものもある。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "I want you all to memorize this knowledge first. Now, open your textbooks.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "貴様たちには、\nまずはこうした知識を頭に叩き込んでもらう。\nでは教本、\n開け。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well done, Miss Shiori.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "シオリさま、\nお見事でございます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Honestly, I still can't distinguish which is which.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "正直、\nわたくしにはどれがどれだか、\nまだ区別がつかないのですけれど。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Oh, that was just because I happened to know it...besides, I came here to learn things I didn't know.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "いえ、\n今のはたまたま知ってただけで……\nそれに、\n知らない事を学ぶためにここに来たんですから。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "...So, the types of traps and their effectiveness are──",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "……であるからして、\nこの罠の種類とそれぞれの有効性は──"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Hahaha, you've used your brain quite a bit this morning, haven't you? Now it's time to move your body.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "はははっ、\n午前中はずいぶん頭を使っただろう？\n今からは体を動かす時間だ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "In the afternoon, we'll have practical lessons in the field, including learning various techniques and training ranger animals.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "午後は各種技術の習得、\nレンジャーアニマルの訓練など\nフィールドに出ての実践授業を行うよ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Just listening to lectures won't help you learn. Well, it's better to get used to it than to learn it.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "話を聞くだけじゃ身に付かないからな。\nま、\n習うより慣れろってやつだ。"
+    },
+    {
+      "name": "Monster's Illusion",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物の幻影",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Camp Students 3",
+      "text": "Wow! What, a monster!?",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒３",
+      "orig_text": "うわぁっ！？　\nま、\n魔物がっ！？"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Hahaha, no need to panic. It's just a fake created by illusion magic.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "はははっ、\nそう慌てなくていい。\n幻影魔法で作った偽物だ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Today, we'll learn about the types of monsters, their physical characteristics, and their ecology using this. Oh, especially their weaknesses and vital points.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "今日はこいつで、\n魔物の種類と身体的な特徴、\n生態を学んでもらおう。\nああ、\n特に弱点や急所だね。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "It's often thought that this knowledge is only used for hunting or subjugation, but actually, it's useful for protecting monsters too.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "狩猟や討伐にしか使われないと思われがちだけど──\n実は\n魔物の保護にも役立つ知識なんだ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "For human medical treatment, understanding the structure of the body is necessary, right? It's the same thing.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "人間の治療にだって\n体の構造の理解が必要だろう？\n同じことさ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "By knowing vital points and weaknesses, you can predict the movements of the opponent. You can also respond to injuries and illnesses. There are many things to know, such as whether it's dangerous and how to make it calm.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "急所や弱点を知ることで、\n相手の動きが予測できる。\n怪我や病気の時の対応だって可能になる。\n危険かどうか、\nおとなしくさせる方法──\n知ることはたくさんあるんだ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Some people believe in leaving things to nature, but as a ranger, we sometimes have to treat the injuries and illnesses of monsters too.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "自然の成り行きに任せるという考え方もあるけれど、\nレンジャーとしては、\n魔物の病気や怪我を治療することもあるしね。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Alright, let's start with the monsters commonly found in the forest──",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "よし、\nそれじゃあまずは\n森林でよく見る魔物から──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Finally, let's wrap it with a bandage...is it okay to do it here?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "最後に包帯を結んで……\nと。\nこちらでよろしいでしょうか？"
+    },
+    {
+      "name": "Monster's Illusion",
+      "text": "Gwooooh♪",
+      "choice_data_list": [],
+      "orig_name": "魔物の幻影",
+      "orig_text": "グオオオオオッ♪"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Hm, your movements are quite skilled and elegant. Seems like you're quite used to it.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "へえ、\nなかなか鮮やかな手つきだね。\nかなり手慣れているみたいだ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "When my Lord lost his memory, I used to treat his scratches and wounds from falling down often. So I'm used to this kind of thing.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまが記憶を失ってらした頃、\nよく転んだすり傷の手当てなどしておりましたから。\nこのくらいは慣れっこ、\nでございます。"
+    },
+    {
+      "name": "Monster's Illusion",
+      "text": "Gyaoooh...?",
+      "choice_data_list": [],
+      "orig_name": "魔物の幻影",
+      "orig_text": "ギャオオオオオッ……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord, um, aren't you using too much bandage? But, well, it doesn't look like an artistic way of wrapping it...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま、\nその、\nいささか包帯をふんだんに使いすぎかと……\nいえ、\nしかしこれは\n芸術的な結び方に見えなくも……？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Certainly, it's not a way of wrapping that can be imitated just by looking at it, but artistic style is not necessary for first aid...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "確かに、\n結ぼうと思って真似できる巻き方じゃありませんけど……\n応急手当てに芸術性は必要ないような……"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Medical equipment must be used efficiently. ... Okay, let's try again from the beginning!",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "医療道具は無駄なく使えないといけないからな。\n……うん、\nもう一回最初からやってみよう！"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Alright, next is observing monsters in the field. Divide into groups of a few people and act accordingly.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "よし、\n次は実際にフィールドに出ての魔物観察だ。\n数人ずつに分かれて行動するように。"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Camp students 4",
+      "text": "U-um, instructor...! Does that monster not notice us...?",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒４",
+      "orig_text": "きょ、\n教官……！\nあの魔物、\nこっちに気づいてないですか……？"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "It's okay, as long as we don't provoke it. Let's observe quietly.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "大丈夫大丈夫、\nこちらが刺激しなければ問題ないよ。\n静かに観察していよう。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Quietly observe...? But even if we don't provoke it, that monster──",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "静かに、\n観察……？\nだけど、\nこちらが刺激しなくても、\nあの魔物は──"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Camp students 4",
+      "text": "Hiiii!",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒４",
+      "orig_text": "ひいいいいぃっ！？"
+    },
+    {
+      "name": "Shiori",
+      "text": "─────!",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "────っ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Shiori-kun, don't shoot!",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "シオリくん、\n撃つな！"
+    },
+    {
+      "name": "Monster",
+      "text": "Grrrr...",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "グオオオオオッ……"
+    },
+    {
+      "name": "Camp students 4",
+      "text": "The monster is retreating...? It came at us, but...?",
+      "choice_data_list": [],
+      "orig_name": "合宿生徒４",
+      "orig_text": "魔物が退いていく……？\nこっちに襲い掛かってきたのに……？"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "That's a warning behavior. I guess it's like pretending to charge. I thought it would be okay to observe quietly, but it seems like we've upset it. It's not a good idea to stay here any longer.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "あれが威嚇行動なんだ。\n突進してくるフリ、\nっていうのかな。\n静かに見ていれば大丈夫かと思ったけど、\nご機嫌を損ねたみたいだ。\nこれ以上ここにいるのは良くないな。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Let's slowly back away together. Be alert for other monsters in the area.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "ゆっくり全員で下がるぞ。\n周囲に他の魔物がいないか警戒を。"
+    },
+    {
+      "name": "Shiori",
+      "text": "...Yes.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "……はい。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "……The speed of making decision and ability to assess situations are both excellent qualities for a hunter.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "……見切りの速さ、\nそして的確な判断力。\nどちらもハンターとしては素質十分だ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "However, the real challenge is not there, but rather...",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "しかし、\n課題はそこよりむしろ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Instructor, are you okay?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "教官さま、\nどうかされましたか？"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "No, it's nothing. Alright, let's head back to the training ground at the camp.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "いや、\nなんでもない。\nさあ、\n合宿所の訓練場まで戻るぞ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "I would like to say \"Good job, everyone\" but for those who are taking the Ranger Animal Training Course, there is still one more effort to go.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "みんなお疲れさま……\nと言いたいところだが。\nレンジャーアニマルの訓練コースを\n受講しているみんなは、\nもうひと頑張りだ。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "That {0}-kun there, are you just here to observe? If you're not bothering anyone, feel free to watch.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "そこの{0}くんは見学かな。\nみんなの邪魔にならないなら、\n自由にしてくれていい。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Today, we'll have a simple practical exercise to assess everyone's level of proficiency. Shiori-kun, go ahead.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "今日はそれぞれの習熟度を知るために、\n簡単な実技をしてもらおう。\nシオリくんからどうぞ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Yes, here I go...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はっ、\nはい。\nでは、\nいきます……"
+    },
+    {
+      "name": "Shiori",
+      "text": "──Nyatt, sit.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "──\nニャットちゃん、\nおすわり。"
+    },
+    {
+      "name": "Nyat",
+      "text": "Grrr!",
+      "choice_data_list": [],
+      "orig_name": "ニャット",
+      "orig_text": "ガルッ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Shake hands, and then lie down.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "お手、\nそれから伏せ。"
+    },
+    {
+      "name": "Nyat",
+      "text": "Grrr...",
+      "choice_data_list": [],
+      "orig_name": "ニャット",
+      "orig_text": "グルルッ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Heheh, well done...♪",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ふふっ、\nよくできました……♪"
+    },
+    {
+      "name": "Nyat",
+      "text": "Purrs...♪",
+      "choice_data_list": [],
+      "orig_name": "ニャット",
+      "orig_text": "ゴロゴロゴロ……♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Excellent work, Miss Shiori.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お見事でございます、\nシオリさま。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Yes, there were no issues with the basic commands. We can move on to the next step right away.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "うん、\n基礎的な指示は問題なし。\nこれならすぐに次のステップに進んでも大丈夫だ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Thank you very much.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はいっ。\nありがとうございます。"
+    },
+    {
+      "name": "Beastman instructor.",
+      "text": "Alright, next up.",
+      "choice_data_list": [],
+      "orig_name": "獣人の教官",
+      "orig_text": "よし、\nそれじゃ次。"
+    },
+    {
+      "name": "Narration",
+      "text": "After that, the group gathered in a room at the camp after finishing the curriculum for the first day.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そうして、初日のカリキュラムを終えた一行は\n合宿所の一室に集まっていた。"
+    },
+    {
+      "name": "Shiori",
+      "text": "As the rumors said, it was quite a hard camp. I'm glad there were no injuries...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "噂通り、\nなかなかハードな合宿でしたね。\n怪我がなくてよかったです……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Hmm... For me, who has experience hunting and for Kokkoro, who has a knowledge base, it might be manageable, but that class was probably tough for everyone else...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "うーん……\n狩りの経験のある私や\n知識の下地があるコッコロちゃんならともかく、\nいきなりあの授業は厳しかったかもしれませんね……"
+    },
+    {
+      "name": "Shiori",
+      "text": "So, if there's anything you're having trouble with or don't understand, Kokkoro and I can help you out! So, let's work hard together, okay?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "で、\nでも、\n私やコッコロちゃんで困ったところや\nわからないところはフォローしたりできますから！"
+    },
+    {
+      "name": "Shiori",
+      "text": "So, let's do our best together.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "だから、\nその……\n一緒に頑張りましょうっ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, we're all here to pass together... that's why we're having this study group at night. We want to support my Lord's studies while also improving ourselves.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ええ。\n全員で合格する……\nそのために、\nこうして夜に集まって\n勉強会を開いております。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "While supporting my Lord's studies, I hope we can also raise our level further.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまのお勉強をサポートしつつ、\nわたくしたちも\n更なるレベルアップを図れればと。"
+    },
+    {
+      "name": "Shiori",
+      "text": "That's right. Today we covered herbology and trap classification, so if you review around this area...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "そうですね。\n今日は薬草学と罠の分類のところでしたから、\nこの辺りを予習すれば……\nこほっ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "*coughs* Ahem, sorry about that.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "こほ、\nこほっ。\n……すみません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Shiori, are you okay?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "シオリさま、\n大丈夫ですか？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Yes, I'm fine... but the room might be a bit dusty.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "え、\nええ。\n大丈夫です……\nでも、\nちょっと部屋が埃っぽいかもしれません。"
+    },
+    {
+      "name": "Shiori",
+      "text": "I've been coughing a little bit.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "さっきから\n少し\n咳が……\nこほっ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Let's ventilate the room a bit. In the meantime, I'll make some herbal tea for your throat.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "少し部屋の換気をいたしましょう。\nその間にわたくし、\n喉にいいハーブティーを淹れてまいります。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Thank you, Kokkoro.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ありがとうございます、\nコッコロちゃん。"
+    },
+    {
+      "name": "Shiori",
+      "text": "No, I'm okay. I'm the one who invited {0} to this camp,",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "いえ、\n大丈夫です。\nこの合宿に\n{0}さんを誘ったのは\n私ですし。"
+    },
+    {
+      "name": "Shiori",
+      "text": "And I want us all to pass together.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "それに私……\nみんなで一緒に合格したいです。\nそのために頑張って\nサポートしますから。"
+    },
+    {
+      "name": "Shiori",
+      "text": "That's why I'll do my best to support everyone. And don't worry, I'm starting to get a bit stronger.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "だから、\nそんなに心配しないでください。\nこれでも、\n私、\nちょっとは丈夫になってきたんですよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I've made some tea and a few snacks.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お茶を淹れてまいりました。\nついでにお茶菓子なども少々。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Thank you, Kokkoro.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ありがとうございます、\nコッコロちゃん。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Shall we continue on to the next page, {0} This time, we'll learn about basic hunting techniques...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "それじゃあ{0}さん、\n次のページに進みましょうか。\n今度は狩りの基本的な手法について……"
+    },
+    {
+      "name": "Shiori",
+      "text": "………………*cough*.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "………………\nこほっ。"
+    },
+    {
+      "name": "Narration",
+      "text": "The next morning...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "翌朝──"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Alright, let's begin today's lecture.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "では、\n本日の講義を始める。"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Wait, where's the student who was sitting there yesterday?",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "……む、\n昨日そこに座っていた生徒は？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are you referring to Miss Shiori, sir?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それは、\nシオリさまのことでしょうか？"
+    },
+    {
+      "name": "Elf instructor",
+      "text": "Shiori... Ah, yes, that was her name. She solved yesterday's problem easily.",
+      "choice_data_list": [],
+      "orig_name": "エルフの教官",
+      "orig_text": "シオリ……\nああ、\n確かそんな名前だったか。\n昨日出した問題をすんなり解いた奴だ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm sorry, my Lord. And sir too.\nI was a little fluttering this morning and I couldn't tell you yet.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "すみません、\n主さま。\nそれに教官さま。\n今朝は少しバタバタしていて、\nまだお伝えできておりませんでした。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Shiori isn't feeling well today and will be resting.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "シオリさまは──\n本日、\n体調不良でおやすみされています。"
+    }
+  ]
+}

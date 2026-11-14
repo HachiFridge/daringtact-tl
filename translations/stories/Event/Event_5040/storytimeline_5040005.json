@@ -1,0 +1,854 @@
+{
+  "title": "Heaps of Affection",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Mahiru and Rin, who unexpectedly earned extra income by capturing\nwanted bandits, arrive back at Sarendia Orphanage with smiles on\ntheir faces.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "賞金首を捕らえたことにより、\n思わぬ臨時収入を得たマヒルとリンはホクホク顔で\nサレンディア救護院に帰り着いた。"
+    },
+    {
+      "name": "Mahiru & Rin",
+      "text": "We're back!",
+      "choice_data_list": [],
+      "orig_name": "マヒル・リン",
+      "orig_text": "ただいまー"
+    },
+    {
+      "name": "Saren",
+      "text": "Welcome home.\nBy the looks on your faces, I'd say work went smoothly.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "おかえりなさい。\nその顔を見ると、\n仕事はうまくいったみたいね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Not bad. We managed to hook a bounty on our first job,\nso people got talking, and now the requests are flying in.\nWe've earned a fair bit.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "まぁね。\n一件目の依頼で\n賞金首捕まえたんだけど、\nそれが話題になって\nどんどん依頼が舞い込んできてねぇ。\n結構稼げたよ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "If we keep up this pace, the day we take back the ranch\nwon't be so far away.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "この調子で行けば\n牧場を取り戻す日も\nそう遠くねぇはずだべさ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "I'm back.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ただいま、\nです。"
+    },
+    {
+      "name": "Rin",
+      "text": "Welcome home, Shiorin.\nWhy the long face? You okay?\nDon't tell me, did something happen?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "おかえりしおりん。\nなんだか浮かない顔してるけど、\nどうしたの？\nひょっとして、\nなんか問題が起きた？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Oh, no. Nothing happened as such...\nHow should I put it...?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あ、\nいえ。\n問題、\nではないんですけど……\nなんて言えばいいか……"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "Hey, how's it going?",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "おう、\n邪魔するぜ。"
+    },
+    {
+      "name": "Farmer 2",
+      "text": "Sorry to intrude.",
+      "choice_data_list": [],
+      "orig_name": "農民２",
+      "orig_text": "お邪魔します。"
+    },
+    {
+      "name": "Rin",
+      "text": "...Who're you?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "…………誰？"
+    },
+    {
+      "name": "Shiori",
+      "text": "These two men had their farm and ranch seized by the tax inspector,\njust like Elizabeth Park.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "こちらは\n【牧場（エリザベスパーク）】と同じように\nあの監査官に農場や牧場を接収された方々です。"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "In the end, I couldn't raise enough money, and my ranch was ruined.",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "結局金を集められずに、\n牧場は取り潰されちまったけどな。"
+    },
+    {
+      "name": "Farmer 2",
+      "text": "After my orchard was closed down, it was turned into a villa for a\nnoble I've never heard of.",
+      "choice_data_list": [],
+      "orig_name": "農民２",
+      "orig_text": "俺がやってた果樹園は\nお取り潰しの後、\nよく分からねぇ貴族の別荘にされちまった。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "That's... I dunno what to say...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "それは……\nなんて言ったらいいのか……"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "It's all done. There's nothing left to say.",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "終わっちまったことだ。\n何も言わなくていい。"
+    },
+    {
+      "name": "Farmer 2",
+      "text": "Instead, you can put this to good use.",
+      "choice_data_list": [],
+      "orig_name": "農民２",
+      "orig_text": "それより、\nこれを役立ててくれ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "What is it...?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "これは……"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "It's all the money we saved up to get our guilds back.",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "俺たちが自分のギルドを\n取り戻すために集めてた金だ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I-I can't! Ain't no way I can accept this many rupies!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そ、\nそんな！　\nそんなお金\n受け取ることできねぇべ！"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "It's not a donation. Just a loan.\nYou can return it once you get your ranch back.",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "やるわけじゃねぇ。\n貸すだけだ。\nあんたらが牧場を取り戻したらきちんと返してもらう。"
+    },
+    {
+      "name": "Farmer 2",
+      "text": "You guys seem to be loved by all sorts of people.\nThat's why we're lending you this money.",
+      "choice_data_list": [],
+      "orig_name": "農民２",
+      "orig_text": "聞けばあんたら、\nいろんな人からえらい愛されてるみてぇじゃねぇか。\nだから、\nこの金を貸してやる。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "B-but...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "だ、\nだども……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Mahiru.\nThis actually isn't nearly all the money we received.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "マヒルさん。\n実は、\nお金はそれだけじゃないんです。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Whaddya mean?",
+      "choice_data_list": [
+        "Here..."
+      ],
+      "orig_name": "マヒル",
+      "orig_text": "どういうことだべ？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I-is this also y'all's?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "こ、\nこれもあんたらのけ？"
+    },
+    {
+      "name": "Farmer 2",
+      "text": "No, this isn't our money.\nBut once we saw how much you meant to the community,\nwe decided to add ours to the pot.",
+      "choice_data_list": [],
+      "orig_name": "農民２",
+      "orig_text": "こっちは俺らからじゃねぇよ。\n俺たちは\nこれを見たから金を貸す気になったんだ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "While we were out delivering mail, one villager after another\nstopped us and asked what happened to the ranch.\nAnd when I told them...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "私たちが郵便配達してる途中、\n次々と村の人に捕まって、\n牧場がどうなったのか聞かれたんです。\nそれで、\n事情を話したら……"
+    },
+    {
+      "name": "Rin",
+      "text": "What happened...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "話したら……？"
+    },
+    {
+      "name": "Shiori",
+      "text": "They all kindly made donations...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "みなさんが\nお金を寄付してくださって……"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh? Wh-why would they do that?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "え？　\nな、\nなんでそうなるの？"
+    },
+    {
+      "name": "Shiori",
+      "text": "The people from the distant villages where Mahiru goes to sell produce\nand the people who took refuge at the ranch during that big battle\nwanted to express their gratitude...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "マヒルさんが行商に行っていた遠方の村の人や、\nあの戦いのときに\n牧場に避難してた人たちが\n感謝の気持ちだと……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I ain't done anythin' for folks to be that thankful...\nI can't accept this kinda money...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラ、\nそんな感謝されることなんもしてねぇのに……\nこんなお金\n受け取れねぇだよ……"
+    },
+    {
+      "name": "Shiori",
+      "text": "I told them that it would be best to ask you about it first, but they\nsaid it's fine because each person only made a small donation.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "私も\nマヒルさんに一度聞いてから、\nって言ったんですけど、\nみなさん、\n少しずつだからって。"
+    },
+    {
+      "name": "Rin",
+      "text": "We made this much from \\\"small donations\\\"...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "少しずつで\nこんな集まる……？"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "You shoulda seen how many people there were.",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "すげぇ数の人が集まってたんだよ。"
+    },
+    {
+      "name": "Farmer 2",
+      "text": "There were so many, you wouldn't believe.",
+      "choice_data_list": [],
+      "orig_name": "農民２",
+      "orig_text": "そりゃあもうすげぇ数の人たちがな。"
+    },
+    {
+      "name": "Saren",
+      "text": "Awww, look, you two.\nYou were so hesitant to contribute that you were beaten to it.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あーあ。\nほら、あんたたち。\nモジモジしてすぐに渡さないから\n先越されちゃったじゃない。"
+    },
+    {
+      "name": "All",
+      "text": "...?",
+      "choice_data_list": [],
+      "orig_name": "マヒルたち",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Girl",
+      "text": "You know, Big Sis Mahiru.\nThe two of us wanted to help... it's really just a little, but...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あのね、\nマヒルお姉ちゃん。\nあたしたちもね、\nほんの少しだけど、\nその……"
+    },
+    {
+      "name": "Boy",
+      "text": "Here!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "これ！"
+    },
+    {
+      "name": "Girl",
+      "text": "You and your friends need money, right?\nWell, we saved up a whole bunch to help you!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "マヒルお姉ちゃんたち、\nお金が必要なんでしょ？\nあたしたちがお手伝いして貯めてたのあげる！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Err, I...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "いや、\nえっと……"
+    },
+    {
+      "name": "Boy",
+      "text": "Rin, you're always teaching me how to play cool games,\nso this is payback!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "リン、\n俺にゲーム教えてくれたから\nそのお礼！"
+    },
+    {
+      "name": "Rin",
+      "text": "I'm glad you wanna pay me back for that, but it doesn't have to be\nin money, you know.\nI'd rather you just called me Big Sis Rin.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "お礼してくれるのはうれしいけど、\nお金じゃなくて大丈夫だよ。\nリンお姉ちゃん\nって呼んでくれるとか。"
+    },
+    {
+      "name": "Saren",
+      "text": "When I explained to them the reason you can't be here all the time,\nthey decided they wanted to pitch in, and that was that.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あなたたちが\nずっと一緒に居てくれない理由を聞かれて\n説明したら、\nあたしたちも手伝う～\nって聞かなくなっちゃって。"
+    },
+    {
+      "name": "Girl",
+      "text": "Now I know the reason your moo-moos were gone.\nI'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "牛さんいなかったの、\nそういうことだったんだよね。\nごめんなさい……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Wh-what're ya sayin'?! I'm the one who oughtta be apologizin'!\nYou ain't got nothin' to be sorry for!\nIt's all 'cause I'm a good-for-nothin'...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "な、\n何言ってんだ！　\n謝るのはオラの方だ！\n謝る必要なんかねぇべ！\nぜんぶ、\nぜんぶオラが\nふがいねぇせぇだ……"
+    },
+    {
+      "name": "Saren",
+      "text": "I know it must be hard to take their money, but please do.\nI'm guessing all the other people felt the same way.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "受け取りづらいとは思うけど、\n受け取ってあげて。\nたぶん、\n他の人たちも同じ気持ちだったと思うから。"
+    },
+    {
+      "name": "Rin",
+      "text": "Then I suppose... we'll just have to graciously accept.\nRight, Mahy?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そういうことなら……\nありがたく受け取ろうか。\nね、\nまっひ～"
+    },
+    {
+      "name": "Mahiru",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Shiori",
+      "text": "Mahiru...?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "マヒルさん……？"
+    },
+    {
+      "name": "Rin",
+      "text": "Mahy, don't tell me...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "まっひ～、\nもしかして……"
+    },
+    {
+      "name": "Girl",
+      "text": "Big Sis Mahiru, why are you crying?\nD-did we do something wrong?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "マヒルお姉ちゃん、\nどうして泣いてるの？\nあ、\nあたしたちのせい？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Th-that ain't it! That ain't it at all!\nI'm jus' wellin' up 'cause I'm happy 'bout everyone's feelings toward us.\nIt doesn't mean anythin' bad!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そ、\nそうでねぇ！　\nそうでねぇ！\nあ、\nいや、\n泣いてんのは、\nみんなの気持ちがうれしいからだけんど、\n悪い意味でねぇから！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I-I'm over the moon that y'all are doin' so much for me...\nEven though I didn't do anythin' special...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "お、\nオラなんかのために\nみんながこうしてくれるのが\nうれしくてな……\nオラ、\nなんもできてねぇのに……"
+    },
+    {
+      "name": "Saren",
+      "text": "You're the only one who thinks that.\nIf it were true, neither the children nor anyone else would want to help you.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そう思ってるのはマヒルさんだけよ。\nでなきゃ、\n子どもたちも、他の人も\n手助けなんかしてないわ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "She's right. You're pretty amazing.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "そうです。\nマヒルさんは\n十分すごいですよ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Thanks, y'all...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "みんな……"
+    },
+    {
+      "name": "Rin",
+      "text": "You know, Mahy.\nI think we might have just enough money to pay our outstanding taxes.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ねぇ、\nまっひ～\nひょっとして、\n残りのお金\n集まってるんじゃないかな？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Why don't we count it up and see?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "みんなで数えてみましょうか。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Th-there's 'nuff... We really have 'nuff!\nW-with this, we can get back the ranch an' all the cows to go with it!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そ、\n揃ってるだ……\n本当に揃ってるだよ！！\nこ、\nこれで\n牛たちも牧場も\n取り戻せるべや！！"
+    },
+    {
+      "name": "Rin",
+      "text": "Let's bag this up and take it to the inspector right now!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "さっそく\nあの監査官に\nこのお金を届けに行こう！"
+    },
+    {
+      "name": "Farmer 1",
+      "text": "Don't just give it to him. Smack that horrible taxman right in the snout\nwith it!",
+      "choice_data_list": [],
+      "orig_name": "農民１",
+      "orig_text": "届けるだけじゃなくて、\nあの監査官の鼻っ面に\nたたきつけてやれ！"
+    },
+    {
+      "name": "Lima",
+      "text": "BAD NEWS!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "大変よ！！"
+    },
+    {
+      "name": "Rin",
+      "text": "Lima? What's got you all worked up like that?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "リマ？　\nそんなに慌ててどうしたの？"
+    },
+    {
+      "name": "Lima",
+      "text": "Elizabeth Park's gonna be destroyed!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "エリザベスパークが\n壊されちゃう！！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "...Huh?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Destroyed? What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "壊されるって、\nどういうことですか？"
+    },
+    {
+      "name": "Lima",
+      "text": "The ranch is going to be turned into a health resort for the aristocracy!\nThey're already filling the place with building blocks!\nIf we don't hurry, the pastures will be torn to shreds!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "牧場が\n貴族のための保養地にされちゃいそうなの！\n今も続々と石材とかが運ばれてて、\n早くしないと\n牧草がめちゃくちゃになっちゃうわ！"
+    },
+    {
+      "name": "Rin",
+      "text": "It looks like we'll have to get the money over there more urgently\nthan we thought.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "思ったよりも\n急いでお金届けに行かなきゃいけないみたいだね。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Right. Let's get a move on!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "んだな。\n急いで届けに行くべ！"
+    },
+    {
+      "name": "Lima",
+      "text": "Huh? G-get the money there...?\nOh?! You guys earned that much in a day?! That's amazing!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "え？　\nと、\n届けに……？\nわっ！？　\nみんな\n一日でこんなに稼いだの！？　\nすごいわね！"
+    },
+    {
+      "name": "Mahiru",
+      "text": "We'll tell ya the details on the way. Let's go!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "細けぇことは途中で説明すっから、\n急ぐべや！"
+    },
+    {
+      "name": "Rin",
+      "text": "*huff*... *puff*... \nRunning like this has made me realize how far from town\nElizabeth Park... really is...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はぁ……\nこうやって走ると、\nエリザベスパークって\n本当に街から遠いって……\n分かるね……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Ya ain't wrong.\nAn' to think all those folks came this far for our hot spring.\nWe're truly blessed.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "んだなぁ。\nそんなところにみんな温泉入りに来てくれたんだから\n感謝感謝だべ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "Um... Lima, running with me on your back isn't wearing you out, is it?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "あの……\nリマさん、\n私をおぶって走るの疲れないですか？"
+    },
+    {
+      "name": "Lima",
+      "text": "No problems here! Don't worry about it. ♪",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "全然平気だから\n気にしないで♪"
+    },
+    {
+      "name": "Rin",
+      "text": "*pant*... *pant*... *pant*...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はぁ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Rin, are you all right?",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リンちゃん、\n大丈夫？"
+    },
+    {
+      "name": "Rin",
+      "text": "I thought giving out flyers with {0}\nwas physically demanding, but running with this armor on\nis much worse... But I'm fine.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "{0}とのチラシ配りで体力ついたと\n思ったけど、\nこの鎧で走るのは、\nやっぱキツイ……\nけど、\n大丈夫。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Persevere jus' a li'l longer.\nYa can do it, Rinrin.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "あと少しの辛抱だべ。\nがんばれ、\nリンリン。"
+    },
+    {
+      "name": "Cow",
+      "text": "Moo.",
+      "choice_data_list": [],
+      "orig_name": "牛",
+      "orig_text": "んもぉぉぉ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Listen, even my cows're rootin' for ya... Huh?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "ほら、\nオラの牛たちも応援してくれて……\nん？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Why can we hear the lowing of cows...?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "どうしてこんなところで\n牛さんの鳴き声が……"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "Get moving!",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "さっさと歩け。"
+    },
+    {
+      "name": "Cow",
+      "text": "Moo.",
+      "choice_data_list": [],
+      "orig_name": "牛",
+      "orig_text": "んもぉぉぉ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Ah! They really are my cows!\nWhat are ya doin' to my cows?!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "あ、\nあれはオラの牛だべ！\nオラの牛に何するだ！！"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "Oh, it's you...",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "貴様ら……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "What are ya doin' to my cows?!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラの牛に何してんだ！"
+    },
+    {
+      "name": "Ninja 2",
+      "text": "These cows belong to the nobility.",
+      "choice_data_list": [],
+      "orig_name": "下忍２",
+      "orig_text": "これは貴族様の牛だ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Ain't no way I'd mistake my own family.\nSure, they're still in foreclosure, but that ain't no reason to\ntreat 'em like crap!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラが自分の家族を見間違うはずがねぇ。\n今はまだ差し押さえられてっけど、\n乱暴に扱われる筋合いはねぇ！"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "Either way, they're useless animals headed to the burger factory.\nI'll treat them how I please.",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "どうせ僻地でボロクソに使い潰される牛だ。\n乱暴にしても問題あるまい。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Wha?! J-jus' hold on a minute!\nWe got your darn money, every penny!\nSo I'll be takin' my cows back now!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "な！？　\nま、\n待ってくんろ！\nオラたちはきちんとお金用意しただ！\nだから\n牛たちも返してもらえるはずだべよ！"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "...Oh? You got the money?",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "……そうか。\n用意できたのか。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Thank gosh, you understood...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "よかった、\n分かってくれただ……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Wah! What's the big idea?!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "わっ！？　\nいきなり何するだ！！"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "You having the money presents a big problem.",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "貴様らに金を用意されては困るのだ。"
+    },
+    {
+      "name": "Ninja 2",
+      "text": "You're all no longer welcome in this world.",
+      "choice_data_list": [],
+      "orig_name": "下忍２",
+      "orig_text": "貴様らにはここで消えてもらう。"
+    },
+    {
+      "name": "Rin",
+      "text": "So you never intended to give us back Elizabeth Park in the first place...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "最初から\nエリザベスパークを\n返す気はなかった、\nってこと……？"
+    },
+    {
+      "name": "Lima",
+      "text": "How could you?! Then we tried so hard for nothing...",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "そんな！？　\nそれじゃあ\n私たちはなんのために……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Which means that even if we do hand over the money, it's pointless.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "でも、\nそれならお金を届ければ、\n認めざるをえない\nってことですよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "If we give them it, they'll cover it up and snuff us out.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "お金届けたら届けたで\nもみ消されそうだけどねぇ。"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "So you finally understand. But we're not monsters.\nIf you simply accept this defeat and disappear of your own accord,\nwe'll forget we ever saw you.",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "よく分かっているではないか。\n我らも鬼ではない。\nこのまますべてを飲み込んで引き下がるというなら、\n見逃してやってもいいぞ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Oh yeah? So that's how it is...\nYou're sure talkin' mighty strange.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "見逃してやる、\nだべか……？\nおかしなことを言うもんだなぁ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "'Cause through the kindness of many others,\nwe saved up the money exactly as asked.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラたちは\nいろんな人たちに助けられて、\n言われたとおりのお金を\nちゃんと揃えたべや。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "But y'all weren't ever plannin' to return my ranch, right from the\nbeginnin'. If I tell ya that we refuse to back down, I'd sure like to\nknow... what will y'all do?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "だのにあんたらは、\n最初から返す気はなかったんだなぁ。\nオラたちがここで引き下がらねぇ\nって言ったら、\nそんときはあんたら……\nどうするつもりだべ？"
+    },
+    {
+      "name": "Ninja 2",
+      "text": "Do you even need to ask?",
+      "choice_data_list": [],
+      "orig_name": "下忍２",
+      "orig_text": "そんなもの、\n決まっておろう。"
+    },
+    {
+      "name": "Ninja 1",
+      "text": "We'll send you to another dimension.",
+      "choice_data_list": [],
+      "orig_name": "下忍１",
+      "orig_text": "ここで斬って捨てるのみ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I see... In that case...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そっか……\nそうなるべなぁ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Listen, gals.\nI know I've selfishly dragged y'all along with me all this way...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "なぁ、\nみんな。\nここまでオラのわがままに付き合ってもらったけんど……"
+    },
+    {
+      "name": "Lima",
+      "text": "M-Mahiru...?",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "ま、\nマヒルちゃん……？"
+    },
+    {
+      "name": "Shiori",
+      "text": "Don't tell me...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "まさか……"
+    },
+    {
+      "name": "Rin",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Mahiru",
+      "text": "But will y'all see my selfishness through 'til the end?",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "最後まで\nオラのわがままに付き合ってくれっかな？"
+    },
+    {
+      "name": "All",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "リンたち",
+      "orig_text": "……！！"
+    },
+    {
+      "name": "Rin",
+      "text": "We already came this far. Don't you think it's obvious?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ここまで来ちゃってるんだよ？　\n付き合うに決まってるじゃん。"
+    },
+    {
+      "name": "Lima",
+      "text": "Yeah! We're with you right to the very end!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "そうね！　\n最後までマヒルちゃんと一緒よ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Yes, we are.\nWell then, first things first...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "ですね。\nそれじゃあ、\n手始めにすることは……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "We'll be takin' back our cows!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラたちの牛を\n返してもらうべよ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "More resolute than ever, the members of Elizabeth Park\nvaliantly raised their weapons as the final battle for the ranch began.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "覚悟を決めた【牧場（エリザベスパーク）】は、\n勇ましく武器を掲げる。\n戦いの幕は切って落とされた。"
+    }
+  ]
+}

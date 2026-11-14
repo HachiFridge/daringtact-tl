@@ -1,0 +1,607 @@
+{
+  "title": "Misato (Summer) Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Misato and {0} stopped by a beachside stand to rest after all the excitement.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミサトと{0}は、\n疲れた体を休めるため、海のお店にやってきていた。"
+    },
+    {
+      "name": "Misato",
+      "text": "Phew. After all that exercise, I'm getting a little thirsty. Having fun is important, but we have to take care of ourselves too. Shall we get something to drink over there?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふぅ。\n体を動かしたから、\nちょっとのどが渇いたわね。\n楽しむのも大事だけど、\n体調管理も気をつけないと。\nあのお店で\n何か飲みましょうか。"
+    },
+    {
+      "name": "Clerk",
+      "text": "Hmm, this is bad. At this rate...",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "う～ん、\n参ったなぁ。\nこのままじゃあ……"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, that employee looks quite troubled. Um... is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\n店員さん……\n頭を抱えてるみたい。\nあの……\nどうかされたんですか？"
+    },
+    {
+      "name": "Clerk",
+      "text": "Huh? You people are...",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "え？　\n君たちは……"
+    },
+    {
+      "name": "Misato",
+      "text": "My name is Misato. We were just passing by, but you seem to be in a bit of a bind... Would you mind telling us what's wrong?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "私は\nミサト。\nただの通りすがりなのですが、\n何か\nお困りのようでしたので……\nもしよろしければ\nお話し、\n聞かせていただけませんか？"
+    },
+    {
+      "name": "Clerk",
+      "text": "...I hate dumping this on customers, but... the part-timer who was supposed to work today suddenly couldn't make it.",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "……お客さんにこんなこと話すのは\n気が引けるけどさ。\n実は今日\nバイトに入ってた子が\n出られなくなっちまって……"
+    },
+    {
+      "name": "Clerk",
+      "text": "Since we run a mobile food stand, if we're short-handed, we end up with leftover stock. I've been trying to figure out what to do.",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "移動販売の仕事だから、\n人手が足りないと\n在庫が残っちまうんだ。\nどうしたもんかと\n頭を抱えてたんだ。"
+    },
+    {
+      "name": "Misato",
+      "text": "My oh my, that sounds tough. I wish we could help somehow...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら、\nそれは大変だわ。\nどうにかして力になってあげたいけれど……"
+    },
+    {
+      "name": "Misato",
+      "text": "My, how dependable. You really can't ignore someone who's in trouble, can you?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "まぁ、\n頼もしいわね。\nあなたはやっぱり、\n困ってる人を放ってはおけないのね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Hehe, you're certainly enthusiastic. You've worked so many part-time jobs before, so I'm sure we'll be fine.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふっ、\n元気ね。\nあなたは普段\nたくさんアルバイトをしてるから、\n安心ね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Manager, would you mind letting us help you?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "店長さん。\nそのお手伝い、\n私たちにさせていただけないかしら。"
+    },
+    {
+      "name": "Clerk",
+      "text": "R-Really?! Well now, you're lifesavers! I owe you one.",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "ほ、\n本当かい！？\nいやー\n助かる、\n恩に着るよ。"
+    },
+    {
+      "name": "Misato",
+      "text": "I've never had a part-time job, so I'm not sure if I can be of any help...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "私は\nアルバイトはしたことなくて、\nお役に立てるかは\n分からないんですけど……"
+    },
+    {
+      "name": "Clerk",
+      "text": "No, no, it's fine. It's not a difficult job!",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "いやいや\n大丈夫さ、\n難しい仕事じゃないからね！"
+    },
+    {
+      "name": "Misato",
+      "text": "{0}-kun... Yeah, you're right. Besides, if I'm going to properly guide my students, I should experience part-time work for myself too.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "{0}君……\nうん、\nそうよね。\nそれに、\n子どもたちをしっかり指導するためには、\nアルバイトだって経験しておかなきゃね。"
+    },
+    {
+      "name": "Misato",
+      "text": "The more experience I have, the better. Someday, I may be able to pass on what I learn today to my students. That's an important part of being a teacher.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "経験は\n多いに越したことはないもの。\n今日学んだことをいつか、\n子どもたちに伝える日が来るかもしれない。\n先生として、\n大切なことだわ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Manager, I'll do my best at work today!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "店長さん。\n私、\n精いっぱい\n頑張らせていただきますね！"
+    },
+    {
+      "name": "Clerk",
+      "text": "Ohhhh! Thank you! Well then, I'll be counting on you two!",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "おお！　\nありがたい！\nそれじゃあ二人とも、\nよろしくお願いするよ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Of course. Leave it to us. Hehe... my very first part-time job. I'm starting to get a little nervous. I may end up relying on you a lot, {0}-kun.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "はい、\nお任せください。\nふふ、\n初めてのアルバイト、\nなんだかドキドキしてきたわ。\nあなたに迷惑かけちゃうかもしれないけど、\nお願いするわね。"
+    },
+    {
+      "name": "Misato",
+      "text": "So our job is to sell food and drinks to the people visiting the beach. Working under this summer sun certainly won't be easy. But if we're getting paid, we have to do the job properly.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "海に来ているお客さんに、\n飲み物や\n食べ物を売るお仕事なのね。\nこの夏空の下で、\nなかなか大変なお仕事だわ。\nでも、\nお給料をいただくからには\nしっかりとお仕事しなくちゃ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Umm... What are we supposed to do first?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "えっと……\n最初は\nどうしたらいいかしら？"
+    },
+    {
+      "name": "Misato",
+      "text": "S-So I just need to call out to them? Cold drinks! Would anyone like a drink? Um... like this?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "よ、\n呼びかければいいのね？\nお飲み物、\nいかがですかー？\nえっと、\nこんな感じでいいのかしら？"
+    },
+    {
+      "name": "Misato",
+      "text": "Huh? I should yell louder? You're right, customers won't notice me like this. But... I don't usually raise my voice... I wonder if I can do it?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "えっ、\nもっと\n大きな声で？\n確かに、\nこれじゃお客さんに気づいてもらえないわよね。\nでも、\n普段\nあまり大声出さないし……\n私にできるかしら？"
+    },
+    {
+      "name": "Misato",
+      "text": "Wow, what a loud voice! Just what I'd expect from a young man... With a voice like that, people are bound to notice you.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "わぁ、\nすっ\nごく大きな声！　\nさすが男の子ね……！\nこれなら確かに、\n色んな人に気づいてもらえそう……！"
+    },
+    {
+      "name": "Male 1",
+      "text": "Hm? Ah, bro! Excuse me, may I have one?",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "ん？　\nあっ、\nお兄さーん！\nすいません、\n一本ください。"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, you sold something right away! That just goes to show that all that experience pays off. So reliable!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら、\n早速売れたわ！\nやっぱり\n色々経験してるだけのことはあるわね。\n頼もしいわ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Ehehe, but I can't lose here. I have to show you what I'm capable of.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ、\n私も負けていられないわね。\nいいとこ見せてあげないと。"
+    },
+    {
+      "name": "Misato",
+      "text": "Would you like a cold drink? We've also got snacks and food!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "冷たいお飲み物、\nいかがですかー！\nお菓子や\n食べ物もそろってますよー！"
+    },
+    {
+      "name": "Woman",
+      "text": "Ah! I was just getting hungry! I'd like a drink and some of these snacks, please.",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "あ、\nちょうどお腹減ってたんだよねー！\n飲み物と、\nこっちのお菓子くださーいっ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Sure! Is this much okay?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "はい、\nこちらでよろしいですか？"
+    },
+    {
+      "name": "Misato",
+      "text": "Phew. I also made a sale! It's all thanks to you for teaching me.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふぅ。\n私も売れたわ。\nあなたが教えてくれたおかげね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Usually I'm the teacher, but right now you're my teacher. Please teach me more about part-time jobs...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "いつもは\n私が先生だけど、\n今はあなたが、\n私の先生ね。\nアルバイトのこと……\nもっと\n色々、教えてね。"
+    },
+    {
+      "name": "Misato",
+      "text": "...The rush has died down, and sales have slowed quite a bit.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……お客さんも落ち着いてきて、\nあまり売れなくなってきたわね。"
+    },
+    {
+      "name": "Misato",
+      "text": "There are lots of other vendors out here doing the same thing. I wonder if attracting any more customers is going to be difficult...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "周りに同じようなアルバイトの人もたくさんいるし、\nこれ以上\nお客さんを呼び込むのは\n難しいかしら……"
+    },
+    {
+      "name": "Misato",
+      "text": "We still have some stock left... I wonder how we can sell it all before the day's over.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "在庫は\nまだもう少し残ってる……\n全部売り切ってあげるには、\nどうしたらいいかしら。"
+    },
+    {
+      "name": "Misato",
+      "text": "Talk to the customers? You mean instead of calling out to everyone at once, we should speak to them one by one?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "お客さんと\nお話をするの？\nそれって、\n今みたいに\n大勢に呼びかけるだけじゃなくて、\n一人一人に話しかける\nってこと？"
+    },
+    {
+      "name": "Misato",
+      "text": "I see... That makes sense. If we talk properly, we might be able to figure out what each customer wants...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "そっか……\nそうよね。\nちゃんとお話しすれば、\nこちらから\nお客さんの欲しいものを\n気づいてあげられるかもしれない……"
+    },
+    {
+      "name": "Misato",
+      "text": "That certainly sounds better than simply waiting for them to come to us. Hehe... You really come alive whenever it's about part-time jobs, don't you?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "確かにそれなら、\n待ってるだけよりもいいわね。\nふふっ。\nアルバイトのこととなると、\nあなたは本当に生き生きするわね。"
+    },
+    {
+      "name": "Misato",
+      "text": "Well then, let's give it a try. Which customer should we approach...? Oh my, that person...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "それじゃ、\nやってみましょう。\nどのお客さんにしようかしら……\nあら、\nあの人……"
+    },
+    {
+      "name": "Male 2",
+      "text": "*phew*",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "ふぅ……"
+    },
+    {
+      "name": "Misato",
+      "text": "Um, are you all right?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あの、\n大丈夫ですか？"
+    },
+    {
+      "name": "Male 2",
+      "text": "Huh? Ah, yeah... I got a little dizzy after running on the beach. I'm just taking a short break...",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "え？　\nあ、\nああ……\n砂浜を走ってたら\n軽くめまいがしてね。\nちょっと\n休憩してるんだ……"
+    },
+    {
+      "name": "Misato",
+      "text": "My... oh no! Please drink this.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "まぁ\n大変！\nこれを飲んでください。"
+    },
+    {
+      "name": "Male 2",
+      "text": "Huh? No, it's no big deal. Besides, I don't have any money with me right now...",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "え？　\nいや、\n大したことないよ。\nそれに今、\nお金持ってきてなくて……"
+    },
+    {
+      "name": "Misato",
+      "text": "No, you really shouldn't take that lightly. You've been sweating a lot, and you may be dehydrated. You need to stay hydrated. ...Don't worry about paying for it.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ダメよ。\n汗もたくさんかいてるし、\n脱水症状を起こしているかもしれません。\n水分補給は\nちゃんとしないと。\n……お金の方は\n気にしなくていいから。"
+    },
+    {
+      "name": "Male 2",
+      "text": "A-Ahh... Thank you... Ngh, ngh... Ahh, that cold water really hits the spot...!",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "あ、\nああ……\nありがとう……\nんぐ、\nんぐっ……\nああ、\n冷たい水が染み渡るぅ……！"
+    },
+    {
+      "name": "Misato",
+      "text": "I'm sorry for taking it upon myself while we're working. I was just so worried about him... I'll pay for the drink myself.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ごめんなさいね、\nアルバイト中なのに\n勝手しちゃって。\nあの人の様子が気になっちゃって……\nお金の方は\n私から払っておくわ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Maybe it's because I'm always looking after energetic children. I can tell right away when someone isn't feeling well.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "普段から\n元気いっぱいの\n子どもたちの様子を見てるからかしら。\n体調が悪い子の様子とか、\nすぐに分かっちゃうの。"
+    },
+    {
+      "name": "Misato",
+      "text": "Come on, let's get back to work. Ah, that girl...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "さ、\nアルバイトに戻りましょ。\nあっ、\nあの子……"
+    },
+    {
+      "name": "Girl",
+      "text": "Mmmm... it's so hot~",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……う～ん、\n暑いよぉ～"
+    },
+    {
+      "name": "Misato",
+      "text": "Her face is bright red. I understand getting carried away when you come to the beach... but if she keeps this up, she's going to get heatstroke.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "顔が真っ赤じゃない。\n海に来たらはしゃぎすぎちゃうから、\n気持ちは分かるけど……\nこのままじゃ\n熱中症になっちゃうわ。"
+    },
+    {
+      "name": "Misato",
+      "text": "I'm sorry, would it be alright if I went to help her too...?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ごめんなさい、\nまた\n行ってきてもいいかしら……？"
+    },
+    {
+      "name": "Misato",
+      "text": "I'm so sorry. I know we're supposed to be selling things, but whenever I see someone who looks unwell, I just can't ignore them...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "本当に\nごめんなさいね。\n売らなきゃいけないのに、\n具合が悪そうな人を見ると\nつい……"
+    },
+    {
+      "name": "Misato",
+      "text": "Come on, let's pull ourselves together and this time, let's really sell our products!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "さぁ\n気を取り直して、\n今度こそ\nしっ\nかりと\n商品を売りましょう！"
+    },
+    {
+      "name": "Misato",
+      "text": "...Although, it looks like the number of beachgoers is starting to thin out. I wonder if we've missed our chance.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……とは言っても、\n海水浴に来ていたお客さんも\n減ってきてるみたい……\n売り時を逃しちゃったかしら。"
+    },
+    {
+      "name": "Misato",
+      "text": "I'm hopeless. You tried so hard to teach me, but I just couldn't do it...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "私ったらダメね。\nあなたが一生懸命教えてくれたのに、\n上手くいかなくて……"
+    },
+    {
+      "name": "Male 2",
+      "text": "Oiii! Lady!",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "おーいっ！\nお姉さ～ん！"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my? That was...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら？　\nさっきの……"
+    },
+    {
+      "name": "Male 2",
+      "text": "Yup! Thank you for your help earlier! Um... you said I didn't need to worry about the money, but I came to pay anyway.",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "はい、\nさっきは助かりました！\nその……\nお金は気にしなくていいって言われたけど、\nやっぱり払いに来たんです。"
+    },
+    {
+      "name": "Misato",
+      "text": "My...! Thank you for coming all this way.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "まぁ……！\nわざわざありがとうございます。"
+    },
+    {
+      "name": "Male 2",
+      "text": "Plus, I brought the friends I came with, too. We'll all help your sales!",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "それに、\n一緒に来てた友達も連れてきたので、\nみんなで売り上げに貢献させてもらいますよ！"
+    },
+    {
+      "name": "Misato",
+      "text": "My oh my. I'm so happy...!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あらあら。\nすごくうれしいわ……！"
+    },
+    {
+      "name": "Girl",
+      "text": "Ah, this way, Mom! Ladyyyy, thanks for earlier!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あっ、\nこっちだよ\nお母さん！\nお姉ちゃ～ん、\nさっきはありがと～！"
+    },
+    {
+      "name": "Misato",
+      "text": "This time, it's the girl from earlier. Ehehehe... I'm glad you're feeling better.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "今度は\nさっきの子ね。\nふふ、\n元気になったみたいで\nよかったわ。"
+    },
+    {
+      "name": "Girl",
+      "text": "Yeah! The juice you gave me was really delicious, so I thought I'd buy some more! I brought Mom, Dad and the others with me♪",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うん！　\n貰ったジュース、\nすっごく美味しかったから\nまた買ってもらおうと思って！\nお母さんたちを\n連れてきたんだー♪"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my, thank you. Sensei is really happy.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nありがとうね。\n先生、\nと\nってもうれしいわ。"
+    },
+    {
+      "name": "Girl",
+      "text": "\"Sensei\"...?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "せんせー？"
+    },
+    {
+      "name": "Misato",
+      "text": "Ah, sorry, I just... Oh my? Looks like a lot of customers have lined up all of a sudden. Why is there such a long line...?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あっ、\nごめんなさい、\nつい……\nあら？　\nいつの間にか、\n色んなお客さんが並んでるわ。\nどうしてこんな行列に……"
+    },
+    {
+      "name": "Customer",
+      "text": "Is this the place? I heard there's a mobile vendor here who's like a healing angel.",
+      "choice_data_list": [],
+      "orig_name": "お客さん",
+      "orig_text": "こっちか？\n癒し系の天使みたいな、\n移動販売のお姉さんがいるって。"
+    },
+    {
+      "name": "Misato",
+      "text": "Sounds like some weird rumors are spreading. W-What should we do...?",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "なんだか\n変な噂が広がっちゃってるみたいね。\nど、\nどうしたらいいかしら……？"
+    },
+    {
+      "name": "Misato",
+      "text": "Huh?! Is that so...? So, I just need to sell them all out here...? Okay, Sensei will do her best!",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "えっ！？　\nそうなの……？\nじゃあ、\nここで一気に売り切っちゃえばいいのね……？\n分かった、\n先生\n頑張っちゃうわ！"
+    },
+    {
+      "name": "Misato",
+      "text": "...Phew. Looks like we've sold out completely. I'd say my first part-time job was a great success.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……ふぅ。\n商品も空っぽね。\nアルバイトは大成功、\nかしら。"
+    },
+    {
+      "name": "Clerk",
+      "text": "Oh, thank you both! I heard the rumors all the way here about the \"Goddess of Part-time Work\"! I'll be sure to add a little extra to your pay!",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "おお、\nありがとうお二人さん！\nこっちまで噂が聞こえてたよ、\nバイトの女神がいるって！\n給料の方は\n色付けさせてもらうぜ！"
+    },
+    {
+      "name": "Misato",
+      "text": "A-A Goddess...? So that's what the rumors were about...",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "め、\n女神……？\n噂がそんなことになってたのね……"
+    },
+    {
+      "name": "Misato",
+      "text": "I was called the same way back during that beach baseball game earlier... it's a little embarassing.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "さっきのビーチベースボールでも言われてたけど、\nなんだか恥ずかしいわ。"
+    },
+    {
+      "name": "Clerk",
+      "text": "Anyway, thanks for today! I'd love to rely on you some other time if you want!",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "とにかく\n今日はありがとうな！\nまたお願いしたいくらいだよ！"
+    },
+    {
+      "name": "Misato",
+      "text": "Ehehehe. Glad we were able to help. Well then... let's go.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ふふ。\nお役に立てて\nよかったです。\nそれじゃあ、\n行きましょう。"
+    },
+    {
+      "name": "Misato",
+      "text": "My first part-time job... was really exciting.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "……初めてのアルバイト、\nす\nごくドキドキしたわ。"
+    },
+    {
+      "name": "Misato",
+      "text": "I wasn't sure if I could do it, but I was glad it worked out.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "私にできるのか\nって不安だったけど、\n上手くいってよかった。"
+    },
+    {
+      "name": "Misato",
+      "text": "And it's all thanks to you.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あなたがいてくれたおかげね。"
+    },
+    {
+      "name": "Misato",
+      "text": "There's no need to be so modest. Being taught by one of my own students is one of the greatest joys a teacher could ask for. I can truly feel how much you've grown.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "謙遜しなくていいのよ。\nこうして\n教え子に教えられるって、\n先生冥利に尽きるわ。\nあなたの成長が\n肌で感じられて。"
+    },
+    {
+      "name": "Misato",
+      "text": "It's good to try everything, isn't it? I learned so much today.",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "何でも経験はしてみるものね。\n今日はすごく勉強になったわ。"
+    },
+    {
+      "name": "Misato",
+      "text": "Thank you very much. ...Sensei♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "ありがとうございました。\n……\n先生♪"
+    },
+    {
+      "name": "Misato",
+      "text": "Oh my... my, my... Now I'm starting to feel embarrassed. I really shouldn't say things I'm not used to... Ehehe♪",
+      "choice_data_list": [],
+      "orig_name": "ミサト",
+      "orig_text": "あら、\nあらあら……\nなんだか恥ずかしくなってきちゃった。\nダメね、\n慣れないことを\n言ったりすると……\nふふっ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Misato, her cheeks flushed red, smiled to hide her embarrassment.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "頬を赤く染めたミサトは、\n照れ隠しに微笑むのであった。"
+    }
+  ]
+}

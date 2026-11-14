@@ -1,0 +1,681 @@
+{
+  "title": "Prepare for Business!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Several days have passed since Elizabeth Park had its livestock\nconfiscated. Everyone at the ranch is working hard.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "牛たちの接収から数日後。牧場温泉開業に向け、\n【牧場（エリザベスパーク）】一同は作業にいそしんでいた。"
+    },
+    {
+      "name": "Lima",
+      "text": "Mahiru! I've brought the wood you said you needed.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "マヒルちゃ～ん。\n言われた木材、\n持ってきたわよ～"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Drop it over there, would ya?\nI'll do all the handiwork, so you just keep it comin'.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そこらへんに置いといてけろ。\n細かい加工はオラがすっから、\nリマリマはじゃんじゃん持ってきてくんろ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Got it! ♪",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "分かったわ♪"
+    },
+    {
+      "name": "Shiori",
+      "text": "Mahiru.\nAbout the hot spring's rest area—I put down on paper what's in my\nimagination, and this is what I came up with. What do you think?",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "マヒルさん。\n温泉の休憩所、\nこんな風にしようと思って、\nイメージを絵にしてみたんですけど、\nどうでしょう？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Ohhh, beds to lie down on? Good idea. Much better'n just settin' out a\nfew chairs. That's my girl. Ya know exactly how our guests'll feel when\nthey come here to recuperate.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "お～\n横になれるベッドを置くだか。\nなるほどな～、\n椅子置くだけよりよさそうだべ。\nさすがシオシオ、\n湯治にくる人の気持ちが分かってんなぁ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "This is exactly the type of thing where I can put my experiences to \ngood use. But if we do decide to build beds, your to-do list will just \ngrow longer...",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "私の経験が活かせるのはこういうところですから。\nでも、\nベッドを作るとなると、\nマヒルさんの作業が増えちゃいますよね……"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Don't go fussin' over me.\nThis foreclosure business is my problem in the first place.\nI'm jus' grateful to have y'all lendin' me a hand...",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "オラのことは気にしねぇでくれ。\nもともと差し押さえはオラの問題で、\nシオシオたちに手伝ってもらえるだけありがてぇことだしな……"
+    },
+    {
+      "name": "Shiori",
+      "text": "Mahiru, this is like an unspoken promise.\nWe're helping because we want to.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "マヒルさん、\nそれは言わない約束ですよ。\n私たちはやりたくてやっているんですからね。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "Shioshio... Thanks a million!\nLet's build a hot spring that can warm even the coldest of hearts!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "シオシオ……\n本当にあんがとな！\nみんなに喜んでもらえる\nいい温泉にすんべ！"
+    },
+    {
+      "name": "Shiori",
+      "text": "Absolutely! I'm sure right now Rin and {0} are\nhanding out flyers like there's no tomorrow.\nThere's no way they'll give up.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "はい！　\nきっと今頃、\nリンちゃんたちも\nチラシ配りをがんばってくれてるはずです。\n負けていられません。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "You're right.\nRinrin's try'n her darndest.\nThere ain't no way any of us won't do our best!",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "そうだべ。\nあのリンリンががんばってくれてんだ。\nオラたちががんばらねぇわけにはいかねぇべ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Man, this sucks.\nTotally sucks.\nSucks so much it blows.",
+      "choice_data_list": [
+        "Don't you wanna hand out flyers?"
+      ],
+      "orig_name": "リン",
+      "orig_text": "あー、\nめんどくさい。\n本当にめんどくさい。\nめんどくさいねー"
+    },
+    {
+      "name": "Rin",
+      "text": "I will!\nI'll do it. But if something sucks, it sucks. Not my rules.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "配るよ。\n配るけどさー、\nめんどくさいもんはめんどくさいじゃん。"
+    },
+    {
+      "name": "Rin",
+      "text": "Shiorin worked her butt off to make them, so I know I gotta distribute\nthem with care. But it's just not my thing, after all.",
+      "choice_data_list": [
+        "I'll do it for you.",
+        "Let's continue with care."
+      ],
+      "orig_name": "リン",
+      "orig_text": "しおりんが一生懸命作ってくれたチラシだから、\nそりゃあ大切に配らなきゃいけないのは分かってるけど\nやっぱりあたしのガラじゃないよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "For real? Awesome, I'll just...\nI mean, I'm not [i]that[/i] useless, you know?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ほんとに？　\nそれじゃあお願い……\nって、\nあたしはそこまで腐ってないよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "If I wanted to force my work on you, I wouldn't have come all this way.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あんたに押し付ける気なら\nこんなとこまで出てきてないから。"
+    },
+    {
+      "name": "Rin",
+      "text": "Yeah, let's.\nShiorin put so much effort into making them.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そうだね。\nしおりんが一生懸命作ってくれたチラシだもんね。"
+    },
+    {
+      "name": "Rin",
+      "text": "I'll cherish these flyers forever and ever...\nNo, I can't do that, can I? What am I saying?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "大切に大切に思い出として保存……\nいや、\nできるわけないじゃん。\n何言ってんの。"
+    },
+    {
+      "name": "Rin",
+      "text": "*sigh*... I know, I know.\nIt feels like I'm being tricked into doing it, but I'll do it.\nIt's for the best, right?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はぁー、\n分かったよ。\nなんかいいように転がされてる気もするけど、\nやるよ。\nやればいいんでしょ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Whatever. Let's go stuff some mailboxes...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "とりあえず\nチラシ投函していこうか……"
+    },
+    {
+      "name": "Rin",
+      "text": "*sigh*... Man, I'm beat... So [i]this[/i] is what you do for a living...\nI've changed my mind about you a little... We've pretty much\nfinished giving out flyers, so let's head back to the ranch.",
+      "choice_data_list": [
+        "We're not done yet."
+      ],
+      "orig_name": "リン",
+      "orig_text": "はぁ……\n疲れた……\nあんたいつもこんなことしてるんだね……\n少しだけ見直したよ……\n一通り配り終わったし、\n牧場に帰ろっか。"
+    },
+    {
+      "name": "Rin",
+      "text": "Hey, don't say that.\nWe've already been around the whole city.\nOur work here is done. Yeah. We did well.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "いや、\n終わったよ。\nもう街中に配ったんだから。\nあたしたちの仕事は終わり。\nうん。\nがんばった。"
+    },
+    {
+      "name": "Rin",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rin",
+      "text": "Awww, come on. I know, I know.\nThere are people living outside the city too.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あー、\nもう。\n分かってるよ。\n街以外にも配らなきゃいけないよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "All right, let's gooo!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "はりきっていこ～！"
+    },
+    {
+      "name": "Rin",
+      "text": "Uh, what?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "いや、\nなんで？"
+    },
+    {
+      "name": "Rin",
+      "text": "You know, I was being serious when I said \\\"let's gooo!\\\"\nSo why'd you bring me to a forest with no signs of life?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "一応、\nあたし本当にがんばろうとしたんだよ？\nなんで人気のない森に連れ込まれなきゃいけないのさ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Until now we've been distributing flyers as we should,\nbut there aren't any people in the forest.",
+      "choice_data_list": [
+        "It's a shortcut."
+      ],
+      "orig_name": "リン",
+      "orig_text": "ここまではきちんとチラシ配ってきたけど、\n森の中に人いなくない？"
+    },
+    {
+      "name": "Rin",
+      "text": "A shortcut? I can't remember there being anything here...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "近道って、\nこの先になんかあったっけ……？"
+    },
+    {
+      "name": "Rin",
+      "text": "What is this place...?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ここ、\nどこ……？"
+    },
+    {
+      "name": "Girl",
+      "text": "Ah, Big Bro!\nWelcome! Have you come to play?\nOr do you need to see Mama Saren about something?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あー、おにいちゃん！\nいらっしゃい！　\n遊びに来たの？\nそれともママサレンになにか用？"
+    },
+    {
+      "name": "Rin",
+      "text": "Mama Saren...? Ah, so this is the Sarendia Orphanage?\nWhen Elizabeth Park was destroyed, you guys really helped us out.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ママサレン……？　\nあ、\nここサレンディア救護院か。\nエリザベスパークが壊れたとき\nいろいろお世話してくれたとこだよね。"
+    },
+    {
+      "name": "Boy",
+      "text": "Elizabeth Park?!\nHas Big Sis Mahiru come to see us?!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "エリザベスパーク！？\nマヒル姉ちゃんが来たのか！"
+    },
+    {
+      "name": "Saren",
+      "text": "Hey, now, it's dangerous to suddenly run off like that.\nOh,  it's {0}.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こら、\nいきなり走ったら危ないでしょ。\nって、\nあら。{0}。"
+    },
+    {
+      "name": "Saren",
+      "text": "Have you come to entrust that child to us?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ひょっとして、\nその子をうちに預けにきたの？"
+    },
+    {
+      "name": "Rin",
+      "text": "Huh? \\\"That child\\\"? Do you mean me? No way!\nI work at Elizabeth Park...\nWell, I say work, but... No, I can say that, can't I?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "へ？　\nその子って、\nあたしのこと？　\n違う違う！\nあたしは【牧場（エリザベスパーク）】で働いてる……\nたぶん働いてる……\n働いてる、\nよね？"
+    },
+    {
+      "name": "Saren",
+      "text": "Not sure why you're asking me...\nBut come to think of it, some children were relocated there from Caon,\nright?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あたしに聞かれても困るんだけど……\nそういえば確かに【自警団（カォン）】から\n出向してる\n子たちがいたわね。"
+    },
+    {
+      "name": "Rin",
+      "text": "That's right!\nI'm one of them. The name's Rin.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そうそう。\nその中の一人、\nリンだよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Then I presume you've come with our milk delivery.\nWe're always so thankful.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ひょっとして、\n牛乳を届けに来てくれたのかしら？\nいつも悪いわね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Milk? Dunno what you're talking about.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "牛乳？　\nなんのこと？"
+    },
+    {
+      "name": "Girl",
+      "text": "Big Sis Mahiru always brings us milk!\nIt's super delicious!I don't usually like dairy,\nbut I can always drink Big Sis Mahiru's milk!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "マヒルお姉ちゃんがいっつも持ってきてくれる牛乳！\nおいしいんだよ！　\nあたし牛乳苦手だけど、\nマヒルお姉ちゃんが持ってきてくれるのは全部飲めちゃうんだ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Hey, isn't Mahiru coming today?\nShe said that the next time she comes, she's gonna teach me a super\nfunny joke. She promised!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "なぁ、\nマヒル姉ちゃんは来てないの？\n今度来るときにとびっきりのギャグを教えてくれるって\n約束してたんだよ！"
+    },
+    {
+      "name": "Rin",
+      "text": "Whoa, whoa, how the heck should I know?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "わーわー一気に言われても分かんないよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Listen, you two. Don't cause trouble for other people.\nSorry about that, it's just that the kids here love Mahiru.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こら、あんたたち。\n困らせるんじゃないわよ。\nごめんなさいね、\nうちの子たちマヒルさん大好きだから。"
+    },
+    {
+      "name": "Rin",
+      "text": "Does she come here a lot?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "まっひ～、\nサレンディアによく来てるの？"
+    },
+    {
+      "name": "Saren",
+      "text": "Yes, she regularly brings us milk and cheese.\nIt's an expression of gratitude for helping to rebuild the ranch,\nor so she says.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "マヒルさん、\n定期的にうちに牛乳とかチーズを贈ってくれてるのよ。\n牧場を立て直す手伝いをしてくれたお礼、\nって言ってね。"
+    },
+    {
+      "name": "Saren",
+      "text": "We have a lot of growing children with big appetites, so it really is a\nblessing. But as I understand it, Elizabeth Park has problems of its own.\nSo I refuse Mahiru's generosity every time, but she always insists.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "食べ盛りの子たちが多いうちとしては\nすっごく助かってるんだけど、\n【牧場（エリザベスパーク）】もいろいろ大変でしょ？\n何度も遠慮したんだけど、\nいいからいいからって。"
+    },
+    {
+      "name": "Rin",
+      "text": "Yeah, that sounds like Mahy all right.\nBut... sorry. We can no longer afford to bring you milk.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あー、\nそう言ってるまっひ～が目に浮かぶよ。\nけど……\nごめんね。\n牛乳、\n届けられなくなっちゃったんだ。"
+    },
+    {
+      "name": "Saren",
+      "text": "...I knew she was overdoing herself with those gifts.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……やっぱりいろいろ無理して贈ってくれてたのね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Ah, well, it's true that our operations are in a great deal of trouble,\nbut I'm sure Mahy still wants to deliver your milk.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あ、\nいや、\n確かに【牧場（エリザベスパーク）】の経営は\n絶賛大ピンチ中なんだけど、\nまっひ～は変わらず牛乳を届けたいと思ってると思う。"
+    },
+    {
+      "name": "Rin",
+      "text": "But that's not easy when you've got no cows to get milk from...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "届けたくても、\n牛がいないんじゃどうしようもないんだよね……"
+    },
+    {
+      "name": "Saren",
+      "text": "No cows? What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "牛がいない？　\nどういうこと？"
+    },
+    {
+      "name": "Rin",
+      "text": "Well...",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "えっと……"
+    },
+    {
+      "name": "Saren",
+      "text": "Gosh, is that what happened?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そんなことになってたの？"
+    },
+    {
+      "name": "Rin",
+      "text": "So we've decided to open a hot spring.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "で、\n温泉を始めることになったんだ。"
+    },
+    {
+      "name": "Saren",
+      "text": "I don't quite get why that would lead to you opening a hot spring...\nBut I'm glad it's there.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そこで温泉になるのはよく分からないけど……\n温泉があってよかったわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "I guess even Christina's actions\nsometimes have positive results.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "クリスティーナがすることも、\nたまにはいいことに繋がるのねぇ。"
+    },
+    {
+      "name": "Rin",
+      "text": "I'm sorry that we can't bring you milk anymore,\nbut we'd appreciate it if you'd come take a dip.\nMahy sure would be thrilled to see the kids pay a visit.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "牛乳届けられなくて申し訳ないんだけど、\nよかったら温泉に入りに来てよ。\n子どもたちの顔見たら、\nまっひ～も喜ぶだろうし。"
+    },
+    {
+      "name": "Boy",
+      "text": "We can go to Big Sis Mahiru's ranch?!\nI wanna go, I wanna go!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "マヒル姉ちゃんの牧場行けるの！？\n行きたい行きたい！"
+    },
+    {
+      "name": "Girl",
+      "text": "I wanna go too!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "あたしも行きたい！"
+    },
+    {
+      "name": "Saren",
+      "text": "You've gotten the children all excited, so I can't refuse now.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "子どもたちもこう言ってることだし、\n行かせてもらおうかしら。"
+    },
+    {
+      "name": "Rin",
+      "text": "Thanks.\nWell, we've still got a ton of flyers left, so we should probably get back\nto work.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ありがとう。\nそれじゃ、\nあたしたちは\nまだ温泉のこと\n宣伝しなきゃいけないから。"
+    },
+    {
+      "name": "Saren",
+      "text": "Please give my regards to Mahiru.\nYou've got a lot of work ahead of you... so good luck.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "マヒルさんによろしく。\nいろいろ大変でしょうけど……\nがんばってね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Hey, you.\nBy any chance, did you take me to the orphanage to make me more\nmotivated...?",
+      "choice_data_list": [
+        "You weren't motivated?",
+        "Dunno what you're talking about."
+      ],
+      "orig_name": "リン",
+      "orig_text": "ねぇ、\nあんた。\nひょっとして\nあたしにやる気出させるために\nサレンディアに\n連れて行った……？"
+    },
+    {
+      "name": "Rin",
+      "text": "Why would you say that? It's not that I [i]don't[/i] have motivation.\nIt just takes a while for me to get into the swing of things.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そういうこと言っちゃう？　\nやる気ないわけじゃないよ。\nただ、\nこう、\n乗り気になるまで\n時間がかかるだけ。"
+    },
+    {
+      "name": "Rin",
+      "text": "I mean, you won't try to motivate me like that again, will you?\nI'm already motivated enough, so don't bother.\nBut thanks.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "っていうか、\nまたそうやってやる気出させようとしてない？\nあたし\nこれでももう十分やる気だから、\n大丈夫だよ。\nでも、\nありがと。"
+    },
+    {
+      "name": "Rin",
+      "text": "Your deception game leaves a lot to be desired.\nWhatever. Let's just say we went there by chance.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ごまかすの下手だなー\nまぁ、いいよ。\nたまたま行ったってことにしとく。"
+    },
+    {
+      "name": "Rin",
+      "text": "*sigh*... It's your fault that I'm putting in this much effort.\nSpeaking of, let's head back to the city.\nI have an idea.",
+      "choice_data_list": [
+        "Whatever it is, let's do it."
+      ],
+      "orig_name": "リン",
+      "orig_text": "はぁ……\nあんたのせいで\nまだがんばろうって思っちゃったじゃん。\nってわけで、\nもう一回街に戻ろう。\nできること\n思いついちゃったんだよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "You would say that.\n*sigh* But all this work really isn't my cup of tea.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "あんたならそう言うよね。\nはー、\nけどほんと、\nこういうのあたしのガラじゃないんだけどなー"
+    },
+    {
+      "name": "Rin",
+      "text": "Everyone's favorite dairy farm, Elizabeth Park,\nis holding a grand opening event for a new spa!\nA natural hot spring, right at the source!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "チーズや牛乳でおなじみの\nエリザベスパークでーす。\nこの度、\n温泉を始めることになりましたー\n源泉かけ流しの\n天然温泉でーす。"
+    },
+    {
+      "name": "Rin",
+      "text": "Is the grind of daily life wearing you down?\nElizabeth Park, blessed with the glory of nature,\nis waiting to heal your soul!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "日頃の疲れを癒したいあなた、\n自然豊かなエリザベスパークが\nお待ちしておりまーす。"
+    },
+    {
+      "name": "Rin",
+      "text": "Hm? What? Don't look too surprised, now.\nCan't believe I'm such a smooth talker?",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ん？　\nなにさ、\nその不思議なものを見る目は。\nすらすら言葉が出てきて驚いてるの？"
+    },
+    {
+      "name": "Rin",
+      "text": "All the way back into town, I was trying to figure out how we can\nadvertise more effectively.\nWe can't just hand out flyers without saying anything.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "街に戻るまでに\nどうやって宣伝しようか\n考えてきたんだよ。\n黙ってチラシ配るわけにもいかないでしょ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Come on, I'm doing all the work here.\nGet your butt in gear.Look, I'm working, so you should too.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ほら、\nあたしがここまでやってるんだから\nあんたもちゃんと配ってよね。\nやるよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Everyone's favorite dairy farm, Elizabeth Park,\nis holding a grand opening event for a new spa!\nA natural hot spring, right at the source!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "チーズや\n牛乳でおなじみの\nエリザベスパークでーす。\nこの度、\n温泉を始めることになりましたー\n源泉かけ流しの\n天然温泉ですよー"
+    },
+    {
+      "name": "Ninja",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "下忍",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rin",
+      "text": "Man, it's already late. Everyone must be worried.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "こんな時間になっちゃったけど、\nみんな心配してるかなー"
+    },
+    {
+      "name": "Rin",
+      "text": "Or maybe not. I bet they all just think I'm slacking off.",
+      "choice_data_list": [
+        "I bet they don't."
+      ],
+      "orig_name": "リン",
+      "orig_text": "してないか。\nサボってるって思われてるだけだよね。"
+    },
+    {
+      "name": "Rin",
+      "text": "I don't need your encouragement.\nI know myself better than anyone else.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そういう励ましはいらないよ。\n自分のことは\n自分が一番よく分かってるからさ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Well, I should make up for what they've let me get away with\nnot doing until now.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ま、\n今までダラダラさせてもらってたぶんくらいは\nがんばらないとね。"
+    },
+    {
+      "name": "Rin",
+      "text": "Whoa, look at that!\nIt really looks like a hot spring!",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "うわっ、\nすごい。\n本当に温泉っぽくなってる！"
+    },
+    {
+      "name": "Lima",
+      "text": "Rin! Welcome home!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リンちゃん！　\nおかえりなさい！"
+    },
+    {
+      "name": "Shiori",
+      "text": "It's so late, we've been worried sick.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "遅いから心配したんですよ。"
+    },
+    {
+      "name": "Rin",
+      "text": "There's no need for any of that.\nI've been hard at work drumming up interest in the ranch, you know.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "心配しなくても大丈夫だよ。\nサボらずに\nきちんとチラシは配ってきたからさ。"
+    },
+    {
+      "name": "Shiori",
+      "text": "...? That's not what we were worried about.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "……？　\nそんな心配はしてませんけど？"
+    },
+    {
+      "name": "Mahiru",
+      "text": "I appreciate ya workin' so late.\nYa must be tuckered out. We cleaned up the hot spring mighty nice,\nso get yourself in there and have a good rest.",
+      "choice_data_list": [
+        "...See?"
+      ],
+      "orig_name": "マヒル",
+      "orig_text": "あんがとな、\nこんな夜遅くまで。\n疲れたべ。\n温泉、綺麗に掃除してあっから、\nゆっくり入って\n休んでけろ。"
+    },
+    {
+      "name": "Rin",
+      "text": "Don't look so smug.\n...But you were right. I'm a member of this guild too, after all.\nEven I must put some effort in from time to time.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "そんな笑顔で見るなよ～\n……けど、\nそうだね。\nこういうギルドだから、\nあたしもがんばっちゃうんだろうね。"
+    },
+    {
+      "name": "Shiori",
+      "text": "I'm a bit lost.",
+      "choice_data_list": [],
+      "orig_name": "シオリ",
+      "orig_text": "何の話ですか？"
+    },
+    {
+      "name": "Rin",
+      "text": "Don't worry about it.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "なんでもないよ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Come on.\nRin, is that a smirk I see?\nDid something good happen?",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "なになに～？\nリンちゃん\n口元が緩んでるわよ。\nいいことあったの？"
+    },
+    {
+      "name": "Rin",
+      "text": "Honestly, forget about it.\nBesides, we have to stay focused until the hot spring's finished.",
+      "choice_data_list": [],
+      "orig_name": "リン",
+      "orig_text": "ほんとになんでもないから。\nそれに、\n温泉が成功するまでは\n油断できないでしょ。"
+    },
+    {
+      "name": "Mahiru",
+      "text": "We sure do. But I ain't got no doubt it'll all end well,\n'cause you're try'n your darndest to help. I can't not believe.",
+      "choice_data_list": [],
+      "orig_name": "マヒル",
+      "orig_text": "だべな。\nでも、\nリンリンたちがこんだけがんばってくれたんだ。\nきっとうまくいくって\n信じるしかねぇべさ。"
+    },
+    {
+      "name": "Narration",
+      "text": "The members of Elizabeth Park looked towards the sky\nas if saying a silent prayer to the stars.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "祈るように星空を見つめる【牧場（エリザベスパーク）】一同であった。"
+    }
+  ]
+}

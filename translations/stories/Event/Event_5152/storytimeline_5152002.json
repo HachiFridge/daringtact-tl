@@ -1,0 +1,761 @@
+{
+  "title": "Otherworldly things",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "真夏の海でシロクジラを一時撃退したペコリーヌたちとエミリアたち。\nしかしその際、スバルと{0}は記憶を奪われ、\n赤ちゃんのようになってしまうのであった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "真夏の海でシロクジラを一時撃退したペコリーヌたちとエミリアたち。\nしかしその際、スバルと{0}は記憶を奪われ、\n赤ちゃんのようになってしまうのであった。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...The ability to steal memories, huh. So that's why you didn't approach that monster earlier, Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──記憶を奪う能力。\nだからさっきペコリーヌは\n近づいて戦おうとしなかったのね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes... I've heard about its unique abilities beforehand by Nene-... someone well informed, but I wasn't aware of how that monster activated it.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい……\n能力自体は事前にネネ──\n情報通な方に聞いていたのですが、\nその手段については分かっていませんでしたので。"
+    },
+    {
+      "name": "Ram",
+      "text": "And in such dangerous circumstances, Barusu charged forward in high spirits despite everything.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "そんな状況でどこかのバルスは意気揚々と突っ込んでいったわけね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Sister... Subaru-kun is...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "姉様……\nスバルくんは──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...I would say that Lord Subaru was very brave to charge in recklessly like that. Thanks to him, now we know how that monster steals his prey's memories.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "──スバルさまは\nとても勇敢でした。\nおかげで、\n記憶を奪う方法も\n判明したわけですから。"
+    },
+    {
+      "name": "Rem",
+      "text": "Lady Kokkoro...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "コッコロ様……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "As for this guy right here, who should've also known about all this beforehand, he's just good natured and dashed right in to help. Don't worry too much about it.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "事前に知ってたはずのこっちのお人好しも\n見事に突っ走ってくれたわけだしね。\n気にすることないわよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "So, what should we do now...? The white whale seems to have escaped somewhere...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それで、\nこれから\nどうしたらいいのかしら……\nシロクジラは\nどこかに逃げちゃったみたいだし……"
+    },
+    {
+      "name": "Ram",
+      "text": "The better question is... what should I do with \"this\"?",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "というか、\n『これ』をどうするか、\nですね。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Babu?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ばぶ？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Da-da-da!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "だーだーっ！"
+    },
+    {
+      "name": "ラム",
+      "text": "…ぷ。",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "…ぷ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Sister? Why are you turning away from Subaru-kun while grinning? I feel like your shoulders are also shaking...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "姉様？　\nどうしてスバルくんから顔を背けるんですか？\nこころなしか、\n肩も震えているような……"
+    },
+    {
+      "name": "Ram",
+      "text": "...Don't worry about it.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "……気にしなくていいわ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I wonder how we can get Subaru back to normal...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "スバル、\nどうしたら元に戻るのかしら……"
+    },
+    {
+      "name": "Subaru",
+      "text": "...Uh?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "……う？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Ah... I’m sorry for making such a gloomy face. Subaru, even in this situation, you still worry about me.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ……\nごめんね、\n暗い顔して。\nスバルったら、\nこんなになっても私のこと心配してくれてるのね。"
+    },
+    {
+      "name": "Rem",
+      "text": "It seems that even if you lose your memories, you're still the usual Subaru-kun, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "記憶がなくなっても、\nスバルくんはスバルくんですね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Emilia. Please treat Lord Subaru with the same care as you would a baby.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "エミリアさま。\nどうぞ赤ちゃんに接するように、\nスバルさまを労わってあげてくださいませ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "With the same care as I would a baby...? Fine, I'll do my best!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "赤ちゃんに接するみたいに……？\nわかったわ、\nがんばってみる！"
+    },
+    {
+      "name": "Puck",
+      "text": "Subaru, I think you'll be in agony if you ever regain your memories",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "スバル、\n記憶を取り戻したら悶絶しちゃいそうだね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "S-Subaru~...? Come on～ good boy~♪",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ス、\nスバル～……？\nほ\n～ら、\nいいこいいこ～♪"
+    },
+    {
+      "name": "Subaru",
+      "text": "Babuuuuuuu...♪ UGH?!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ばぶー♪\nっ──"
+    },
+    {
+      "name": "Subaru",
+      "text": "...WAAAAAAAHHHGH!?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "──うわぁぁぁぁぁぁっ！？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Whoa! I-I'm so sorry?! Did I make a mistake somewhere...?!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "わ！　\nご、\nごめんなさい！？\n何か間違っちゃったかしら……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Haa...haa...fuu...NO. There's nothing wrong with you, Emilia-tan. It's just that your kindness pierced my heart.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "はぁ……\nはぁっ……\nふぅ……\n……\nいや。\n何も間違ってねぇよ、エミリアたん。\nただ\nエミリアたんの優しさが\n心にぶっ刺さっちゃっただけ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "G-Geez! Subaru, you meanie!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "も、\nもう！　\nスバルったら！"
+    },
+    {
+      "name": "Rem",
+      "text": "That attitude... you're already back to normal, aren't you, Subaru-kun?! Thank goodness... I'm so glad...!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そのご様子……\n元に戻ったんですね、\nスバルくん！\nよかった……\nよかったです……！"
+    },
+    {
+      "name": "Subaru",
+      "text": "Y-Yeah... Sorry for making you all worry.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "あ、あぁ……\n悪い、\n心配かけて。"
+    },
+    {
+      "name": "スバル",
+      "text": "クソ、\nエミリアたんの前でばぶばぶ言ってる最中なんて、\nふざけたタイミングに『戻らせ』やがって……！　",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "クソ、\nエミリアたんの前でばぶばぶ言ってる最中なんて、\nふざけたタイミングに『戻らせ』やがって……！　"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "でも安心しましたっ♪\nスバルくんがこうして元に戻ったということは、\n{0}くんも少し待てば\n元に戻るってことですよね！",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でも安心しましたっ♪\nスバルくんがこうして元に戻ったということは、\n{0}くんも少し待てば\n元に戻るってことですよね！"
+    },
+    {
+      "name": "Karyl",
+      "text": "In that case, we should stay put and wait for him to return to normal. There's a huge difference if we have his powers or not in a fight.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それなら、\n元に戻るのを待ちましょうか。\nこいつの能力があるとないとじゃ大違いだし。"
+    },
+    {
+      "name": "Subaru",
+      "text": "No... that won't do!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "いや、\nそれはダメだ！"
+    },
+    {
+      "name": "Rem",
+      "text": "It won't do? And why is that?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ダメ？　\nそれはどうしてですか？"
+    },
+    {
+      "name": "Subaru",
+      "text": "There's no way my bro will return to normal just like that. You could say it was just a coincidence that I came back, or rather, an irregularity I should say... I can't really explain it, but that's how it feels to me.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "兄弟が自然に元に戻ることはねぇ。\n俺が戻ったのは偶然っつーか、\nイレギュラーっつーか……\n説明するのが難しいけど、\nそんな感じなんだよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmm... Somehow, you seem quite certain about what you're claiming.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ……\n何か、\n確信のあるご様子ですね。"
+    },
+    {
+      "name": "Ram",
+      "text": "Barusu is always spouting nonsense. If you take every little thing he says seriously, you won't last long.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "バルスが世迷言を口にするのはいつものことよ。\nいちいち真に受けてたら身が持たないわ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "I say some pretty decent things sometimes, too, you know?! Anyway... In order to get my bro back to shape, we have to find the white whale at all costs.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "俺だってたまにはまともなことも言うよ！？\nとにかく……\n兄弟を元に戻すためには\nなんとしてもシロクジラを見つけ出さなきゃならねぇ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "...And I stress that it has to be as soon as possible. I know this might be hard to believe, but...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "……それも、\n出来るだけ早くだ。\n簡単には信じられないかもしれねぇけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I see, I understand! So, let's get started as originally planned, or rather, get even more serious about it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "なるほど\n分かりました！\nでは当初の予定通り、\nいえ、\nもっと本腰を入れて取り掛かりましょう！"
+    },
+    {
+      "name": "Subaru",
+      "text": "You believed me fast! However Nee-sama right there, a \"relative\" of mine, was still really suspicious!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "話はえぇな！\n身内の姉様はめちゃくちゃ疑ってたのに！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Subaru, you may say weird things from time to time, but I know you're not a liar, am I right? If we need to hurry, we might want to split up. We shall divide in two groups, one with me and one with Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "スバルは変なことは言っても\n嘘は吐かないでしょ？\n急いだ方がいいなら\n手分けした方がいいかも。\n私たちとペコリーヌたちで\n分かれて動きましょう。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Emilia, you too...!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "エミリアも……！"
+    },
+    {
+      "name": "Emilia",
+      "text": "...? Is something wrong, Subaru?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──？　\nどうかしたの、\nスバル？"
+    },
+    {
+      "name": "Subaru",
+      "text": "No, I mean... I'm not really sure how to put this... Heheh.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "いや……\nなんと言うか……\nへへ。"
+    },
+    {
+      "name": "Puck",
+      "text": "I think Subaru wanted to be pampered by Lia a little more~",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "スバルはもう少しリアにいいこいいこされたかったんじゃないかな～"
+    },
+    {
+      "name": "Rem",
+      "text": "I-Is that so! In that case, Rem wouldn't mind pampering with a \"good boy\" herself if you so desire...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そ、\nそうだったんですか！\nそれでしたら\n代わりにレムがいいこいいこしてあげるのも\nやぶさかではありませんが……"
+    },
+    {
+      "name": "Ram",
+      "text": "Stop immediatly, Rem. If Ram were to witness such a scene again, she might pass out. Of laughter that is.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "よしなさいレム。\nあれをもう一度見せられたらラムは気を失ってしまうかもしれないわ。\n笑いすぎて。"
+    },
+    {
+      "name": "Subaru",
+      "text": "What a good bunch of friends I have huh... Oi!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "いい仲間を持ったなぁ、\nオイ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Geez, you're quite the lively bunch. Now that we're done talking, let's get going, shall we?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まったく賑やかな連中ねー\n話がまとまったんなら、\nあたしたちはそろそろ行くわよ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You're right. Our target is the white whale once more. As soon as one of the two groups finds it, we'll fire a spell into the sky to signal the other.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですね。\n目標はシロクジラ、\n見つけ次第、\n魔法を空に打ち上げて合図しましょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We have a rented boat, so we'll head out to sea to search for it. Emilia and the others, could you please look for any witnesses or sightings on the beach coastline?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたちは借りてきた船があるので、\nそれで沖の方に出てみます。\nエミリアちゃんたちは\nこの海岸で目撃者がいないか、\n探してみてもらえますか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes, I got it. Leave it to me, Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ、\nわかった。\nまかせて、\nペコリーヌ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Well then, My Lord, let us connect our hands together and depart.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それでは主さま、\nわたくしとおててを繋いで参りましょう。"
+    },
+    {
+      "name": "Subaru",
+      "text": "Wait just a minute!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "ちょっと待った！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes...? Is something the matter, Lord Subaru?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい……？\nどうかなさいましたか、\nスバルさま？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Ah, um... I know! Leave handling my bro to us. Taking care of him while handling a ship would be a lot of work, wouldn't it?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "あー、\nえっと……\nそう！　\n兄弟はこっちに任せてくれよ。\n船の上で世話なんていろいろ大変だろ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thank you for your heartfelt consideration for him, Lord Subaru. However, I am used to this, so it is not a problem. It is my sworn duty to take care of My Lord no matter what the situation is, therefore...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ご配慮いただき\nありがとうございます、\nスバルさま。\nしかし慣れておりますので\n問題はございません。\nどんな状況でも\n主さまをお世話するのが\nわたくしの務めですので。"
+    },
+    {
+      "name": "Subaru",
+      "text": "I knew things would come to this... Well nothing I can do about it now, this is my last resort here! Puck, I'll apologize later! Take this, FLUFFY TRAP!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "やっぱそう来る……\nええい、仕方ねぇ\n最後の手段だ！\nパック、\nすまん！　\nくらえモフモフトラップ！"
+    },
+    {
+      "name": "Puck",
+      "text": "Meow?! What are you doing?!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "にゃっ！？\nなにすんのさ！？"
+    },
+    {
+      "name": "Puck",
+      "text": "Ah, hey, don't touch that spot... meow!? Th-This boy's got an amazing technique...!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "あっ、\nこら、\nそんなとこ触っちゃ……\nにゃんっ！？\nこ、\nこの子\nすごいテクニシャン……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh my my, it seems as if you've taken a liking to Puck, huh?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あらら、\nパックさんのこと気に入ってしまったみたいですね～？"
+    },
+    {
+      "name": "Karyl",
+      "text": "What are we going to do now? When things go like this, it's hard for him to let go, you know?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どうすんのよ、\nこうなるとなかなか離さないわよ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Surely this is a problem...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "困りましたね……"
+    },
+    {
+      "name": "Emilia",
+      "text": "...Hey, Pecorine. Could you leave this boy to us?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……ねえ、\nペコリーヌ。\nこの子のこと、\n私たちに任せてもらえないかしら？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Of course, I'd be grateful and wouldn't mind but... Are you sure?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もちろん、\nそれはありがたいですけど……\nいいんですか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes. He seems to really like Puck, so I'd feel sorry for taking Puck away from him.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ。\nパックのことをすごーく気に入ったみたいだし、\nむりやり取り上げちゃうのはかわいそうだわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Emilia... Understood. In that case, please take care of My Lord with the utmost kindness. If he's with you Lady Emilia, I know I can leave him with peace of mind.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "エミリアさま……\n分\nかりました。\nそれでは、\n主さまをよろしくお願いいたします。\nエミリアさまでしたら、\nわたくしも安心してお任せできますので。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Don't worry, Kokkoro-chan. Taking care of energetic boys is nothing unknown to me!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "安心して、\nコッコロちゃん。\n元気な男の子のお世話なら、\n私も慣れてるんだから！"
+    },
+    {
+      "name": "Kokkoro Emilia",
+      "text": "Hehe.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・エミリア",
+      "orig_text": "ふふっ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "See you later, then!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それでは、\nまたあとで～！"
+    },
+    {
+      "name": "Subaru",
+      "text": "...It seems things worked out somehow. That fluffy power sure is great.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "……なんとかなったか。\nモフモフの力は偉大だぜ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "With this... I've made my first move. Now I just have to...",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "これで……\n今打てる手は打った。\nあとは、俺が……"
+    },
+    {
+      "name": "Subaru",
+      "text": "Oh yeah, Emilia-tan! You know, I just remembered that I have some business to take care of, so is it okay if we go our separate ways for a while?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "そうだエミリアたん！\n俺ってばちょっと用事を思い出しちゃったので、\nしばらく別行動してていいかな？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Huh? Right now? It might be dangerous to go alone... should we got together?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "えっ、\n今なの？\n危ないかもしれないし、\n一緒に行きましょうか？"
+    },
+    {
+      "name": "Subaru",
+      "text": "I’m weak to Emilia-tan’s invitation, but I’ll have to put up with it here...! The truth is, I forgot to put on sunscreen. You don't really need a SEXY SHOT of me putting on sunscreen, do you?",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "エミリアたんの誘いに弱い俺だけど、\nこの場は堪える……！\n実は、\n日焼け止めを塗りたくるの忘れててさ。\n俺が日焼け止め塗ってるセクシーショットなんていらないだろ？"
+    },
+    {
+      "name": "Ram",
+      "text": "Barusu, being worried about your rough skin is quite the lame excuse.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "バルスが肌荒れを気にするなんて、\n苦しすぎる言い訳ね。"
+    },
+    {
+      "name": "Subaru",
+      "text": "That's not true. The midsummer sun is quite dangerous, you know? I'll have you know the effort I put right here on my skin will determine how it'll look in 10 years, Emilia-tan.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "そんなことねぇって。\n真夏の日差しって危ないんだぜ？\nここでの努力が\n10年後の肌年齢を決めるんだよエミリアたん。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Subaru... Are you trying to do something reckless on your own again?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "スバル……\nまた無茶しようとしてない？"
+    },
+    {
+      "name": "Rem",
+      "text": "Subaru-kun...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "スバルくん……"
+    },
+    {
+      "name": "Puck",
+      "text": "Now, now, Subaru isn’t a child anymore. He's not stupid enough to overestimate his own abilities and go charging at a white whale on his own, is he?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "まあまあ、\nスバルだって子どもじゃないんだから。\n自分の実力を勘違いして\nひとりでシロクジラに突撃していくほど\n頭悪くもないでしょ？"
+    },
+    {
+      "name": "Subaru",
+      "text": "Of course, that's a given! I know full well my abilities, or lack of, on my very skin.",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "そりゃあもちろん！\n俺の実力は\n俺自身が嫌ってほどわきまえてるつもりだ。"
+    },
+    {
+      "name": "Subaru",
+      "text": "So... please take care of that overgrown baby over there while you wait! Think of him as your child, I'll be counting on you for that!",
+      "choice_data_list": [],
+      "orig_name": "スバル",
+      "orig_text": "だから、\nそこの赤ん坊の世話でもしながら待っててくれ！\n俺たちの子どもだと思って\nよろしく頼むぜ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Sorry, I didn't really catch what you meant by that.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ごめん、\nちょっと何言ってるのかわかんない。"
+    },
+    {
+      "name": "Ram",
+      "text": "...He just up and disappeared after saying all that. I feel like he just dumped the baby care onto us with a lame excuse.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "……言うだけ言って消えたわね。\n体よく赤ん坊の世話だけ押し付けられた気がするわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "But it is Subaru-kun we're talking about, so I’m sure there must be some profound and grand meaning behind his actions.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ですが、\nスバルくんのすることですから。\nきっととても深遠で壮大な意味があるんだと思います。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...That's right. Subaru, I hope you don't do anything dangerous by yourself.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……そうね。\nスバル、\nひとりで危ないことしないといいけど。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Heh, you heard right, Subaru. He doesn't always tell us everything, but he always does things for us, even if he ends up being worn out... We know he's always trying his hardest for us.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう、\nスバル。\n全部教えてくれるわけじゃないけど、\nいつも私たちのために行動して、\nボロボロになって……\nだけど、\nいつだって一生懸命なの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...Hehe, all right. We can't lose to Subaru either. Ram, Rem, let’s get into action too. Um, where’s Puck...?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……\nよしっ。\nスバルに負けてられないわ。\nラム、\nレム、\n私たちも行きましょう。\nえーと、\nパックは……？"
+    },
+    {
+      "name": "Puck",
+      "text": "Lia! It's about time you saved me!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "リア～\nそろそろ助けてよ～！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh...sorry, Puck. You were still trapped in his embrace, weren't you? Hey, can you let him go now?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ……\nごめん、パック。\n捕まったままだったのね。\nね、\nそろそろ離してあげて？"
+    },
+    {
+      "name": "Rem",
+      "text": "It doesn't seem like he shows any sign of wanting to let go.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "まったく離す気配がありませんね。"
+    },
+    {
+      "name": "Ram",
+      "text": "Between you and Lady Beatrice, Great Spirits seem to be quite popular with children.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "ベアトリス様といい、\n大精霊様は子ども相手にモテますね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "I'm not really sure what I should be saying to him at a time like this... Um, Puck is like my father. So, I'd be happy if you could give him back to me soon...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "こういう時、\nどうやって伝えたらいいのかしら……\nえっと、\nパックは\n私のお父さんみたいなものなの。\nだから、\nそろそろ私に返してくれると嬉しいんだけど……"
+    },
+    {
+      "name": "Puck",
+      "text": "W-Whoa! I'll have you know my tail is delicate!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "うわあっ！？\nボクの尻尾はデリケートなんだよ！？"
+    },
+    {
+      "name": "Puck",
+      "text": "Wh-Wh-What the heck?!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "あわわわわわわわわわわわわわわわわっ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Looks like that didn't work... I'm sorry, Puck. Can you hold on like this for a little longer?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ダメみたい……\nごめんね、パック。\nもう少しそのままで我慢してあげて？"
+    },
+    {
+      "name": "Puck",
+      "text": "NO WAY...!?",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "そんなー！？"
+    },
+    {
+      "name": "Emilia",
+      "text": "I'd never have imagined that taking care of a child would be so difficult...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "子どものお世話って\nこんなに難しいのね……"
+    },
+    {
+      "name": "Ram Emilia Rem",
+      "text": "Mama...?",
+      "choice_data_list": [],
+      "orig_name": "ラム・エミリア・レム",
+      "orig_text": "ママ……？"
+    },
+    {
+      "name": "Emilia",
+      "text": "...Oh, that's right. With his memories gone, he doesn't really know anything.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……\nそうよね。\n記憶がなくなって、\nこの子は何もわからないんだもの。"
+    },
+    {
+      "name": "Emilia",
+      "text": "As his mothers, we'll have to do this properly!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "私たちがママとして、\nちゃんとしなくちゃ！"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes! Just like Subaru-kun said, “Think of him as your child.” That makes Rem's heart beat a little, but... Rem will do her best too!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい！\nスバルくんは言いました。\n俺たちの子どもだと思って、\nと。\n少しドキドキしてしまいますが……\nレムも精一杯頑張ります！"
+    },
+    {
+      "name": "Ram",
+      "text": "I'll correct Rem's thoughts later... It's only natural that he'd want to adore the perfect Ram as his mother.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "レムの考えはあとで正すとして……\n完璧なラムを母と慕いたくなるのは当然ね。"
+    },
+    {
+      "name": "Puck",
+      "text": "Oooh, everyone's more motivated than I thought!",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "お～、\n思ったよりもみんなやる気だね～！"
+    },
+    {
+      "name": "Emilia",
+      "text": "I'm going to be... a great Mama!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "私、\n立派なママになる！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "記憶を失った{0}のお世話を引き受けたエミリアたち。\n彼女たちは立派なママへの第一歩を踏み出すのであった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "記憶を失った{0}のお世話を引き受けたエミリアたち。\n彼女たちは立派なママへの第一歩を踏み出すのであった。"
+    }
+  ]
+}

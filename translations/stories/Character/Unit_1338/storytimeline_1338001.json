@@ -1,0 +1,607 @@
+{
+  "title": "Neneka (Alpha) Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} opens his eyes and sees a familiar desk and chair. It seems that he's now in his empty classroom.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}が目を開けると\n見覚えのある机と椅子が視界に入る。\nどうやら、\nここは誰もいない空き教室らしい。"
+    },
+    {
+      "name": "Narration",
+      "text": "His surroundings are bright, and judging from the familiar noise around him, it seems as if school had just ended and the after school time had begun. The problem was that he had no memory of what happened just before he woke up.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "周囲は明るく、\n聞きなれた喧騒がすることから\nどうやら自分が通っている学校で、\n時間は放課後だろう。\n問題は、\n目を覚ます直前の記憶がないことだった。"
+    },
+    {
+      "name": "Narration",
+      "text": "{0} puts his hand to his forehead and tries to remember what happened. He remembers leaving his house for school in the morning.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}は額に手を当て、\n何があったかを思い出そうとする。\n今朝、\n学校に行くために家を出たところまでは思い出せる。"
+    },
+    {
+      "name": "？？？",
+      "text": "How are you doing? Do you remember anything?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "どうですか？\n何か思い出しましたか？"
+    },
+    {
+      "name": "Neneka",
+      "text": "You were knocked unconscious by an impact from behind. I see, that's a good analysis. A passing grade.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "背後から衝撃を受けて気を失っていた、\nと。\nなるほど、\nいい分析ですね。\n及第点です。"
+    },
+    {
+      "name": "Narration",
+      "text": "As soon as he heard that, {0} touched the back of his head and sure enough, there was a bump.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そう言われ、\n後頭部を触ると確かに瘤ができている。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I don't really approve of people who call their superiors on a first name basis. Furthermore, I'm also one of the Seven Crowns with a proper title to go with it. Normally, I'd expect whoever's in front of me to be more respectful.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "目上を呼び捨てとは感心しませんね。\nしかも、\n私は七冠。\n普通はもっと敬意を持ってしかるべきですよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Phew... It seems as if you're misunderstanding something. It's true that you were kidnapped, but I came to rescue you, okay? And yet, I've received no gratitude nor critic.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ふぅ……\nどうやら誤解をしているようですね。\n貴方が拉致されたのは事実ですが、\n私はそれを助けに来たのですよ？\n感謝されこそすれ、\n罵られるような覚えはありませんね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Now then. I've come to rescue you, and as a result the crisis has passed for the time being, but... being in an exposed place like this means you're not exactly safe just yet.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "さて、\nこうして私が助けに来たことで\n当面の危機的状況は去りましたが……\nこのような場所にいるということは、\nまだ安全とは言えませんね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "The person who attacked you with the aim to kidnap you is probably a skilled spy. Perhaps they released you after obtaining the information they needed, or perhaps they are letting you escape further in order to obtain even more information...",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "貴方をここへと拉致したのは、\nおそらくは手練れの諜報員でしょう。\n必要な情報を得たから解放されたのか、\nあるいは\nここから更に泳がせて\nそれ以上の情報を得ようとしているのか……"
+    },
+    {
+      "name": "Neneka",
+      "text": "*sigh*... Hold on. Don't act without thinking. Are you letting your guard down because you believe you know this place like the palm of your hand?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "はぁ……\nお待ちなさい。\n考えなしに動くものではありません。\n良く知っている、\n慣れた場所だからということで\n油断をしていませんか？"
+    },
+    {
+      "name": "Neneka",
+      "text": "...That's the kind of overconfidence a top-notch spy will exploit very easily. With that in mind, think about your next move very carefully. Now, what are you going to do next?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "一流の諜報員というのは、\nそういう油断を突いてきます。\nそれを踏まえた上で\nしっかりと考えなさい。\nさあ、\nこれからどう動きますか？"
+    },
+    {
+      "name": "Neneka",
+      "text": "That's exactly right. First up, we need to find a way out of here. However, if we don't do anything about our current predicament, we might be tailed and lead our enemy towards places that invade your personal space, like your home.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "そうですね。\nまずはここからの脱出が必要でしょう。\nしかし、\nこのままなにも手を打たねば、\n尾行やその他の手段で\n自宅のようなプライベート空間への侵食を許してしまいます。"
+    },
+    {
+      "name": "Neneka",
+      "text": "That said, you're still an amateur to such dynamics. It can't be helped. Whether you're being tailed or not, I'll be accompanying you for today and investigate.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "とはいえ、\n貴方はまだまだ素人。\n仕方がありません。\n尾行の有無に関しては、\n私が一緒に行って調べてあげましょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Training in anti-tailing techniques is something very specialized and helpful. It's not something you can master overnight. So, how do you plan to escape together with me? Come up with an idea.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "対尾行訓練は\n非常に専門性の高い技術ですからね。\n一朝一夕で身につくものではありません。\nさあ、\n私と共に\nどう脱出します？　\n案を出しなさい。"
+    },
+    {
+      "name": "Neneka",
+      "text": "How rude. Just from this situation alone, I can come up with atleast 30 escape plans. But you know this place better than me, don't you?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "失礼ですね。\n私ならここからの脱出プランなど、\n30は作成できます。\nですが、\nこの場所については\n貴方の方がよく知っているでしょう？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Besides, this kind of situation will probably become an everyday reality of yours in the future. You should learn now, so that you'll be able to escape properly on your own in said future.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "それに、\nこういうことはこれからもしばしば起きるでしょう。\n自分の力で脱出できるように\n今の内からやっておくべきだからです。"
+    },
+    {
+      "name": "Neneka",
+      "text": "It's not like I'm being too lazy to think about a way to escape or want to use you as a material for my research. This is part of your education, so to speak.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "別に考えるのがめんどくさいとか、\n貴方を研究するための材料にする\nわけではありませんよ？\nいわば、\n教育のためです。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Oh? You want me to wear... a school uniform? So you're trying to have me camouflage as one of the many students here. I see...",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ほう？　\n私に学生服を着ろ、\nと？\nそれで周囲の生徒たちに擬態しようというのですね。\nなるほど……"
+    },
+    {
+      "name": "Neneka",
+      "text": "I'll give that strategy a passing grade. Let's go ahead with it. ...What's with that expression of yours?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "作戦としては及第点ですね。\nのってあげましょう。\n……なんですか？　\nその表情は。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Really, what a foolish question you just presented towards me. I am a member of the Public Safety Bureau. Naturally, I have also received specialized training to earn such a job, and disguises are an everyday occurrence.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "まったくもって愚問と言わざるを得ませんね。\n私も所属は公安の身です。\n当然\n専門の訓練も受けていますし、\n変装など日常茶飯事ですよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I've worn clothes that are even more shameful than a mere school uniform... No, that isn't really relevant right now. In any case, there's no room for such emotions in my line of work.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "学生服以上に恥ずべき服装をしたことも……\nいえ、\n今はその話は関係ありませんね。\nとにかく。\nこの仕事において、\nそのような感情が介入する余地はありません。"
+    },
+    {
+      "name": "Neneka",
+      "text": "So? Talking about my uniform, where do you plan to acquire it? Don't tell me you planned out a strategy without ironing out the finer details.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "それで？　\nその制服は\nどこで入手するのですか？\nまさか無策で案を出したわけではないでしょうね？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Oh, so you found a spare uniform in the art preparation room while you were cleaning. I see, it must be a prep outfit for art models... That's nice. If you always carefully observe your surroundings, it will come in handy in situations like these as you can see.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ほう、\n掃除のときに\n美術準備室に制服があるのを見つけた？\nなるほど、\nモデルの着替え用に……\nいいですね。\n常日頃から周囲を注意深く観察していると、\nこういう時に役に立ちます。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Fortunately, the art prep room also seems to be nearby. Then, let's get going.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "幸い、\n美術準備室は近くのようですね。\nでは\nさっそく向かいましょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Why are you getting all fidgety? Come in.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "何をしているのです。\n入りますよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "What's wrong? You're coming in too, aren't you? There's no reason for you to leave my side.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "どうしました？　\n貴方も来るのですよ？\n私から離れてはいけません。"
+    },
+    {
+      "name": "Narration",
+      "text": "As soon as they entered the empty classroom, Neneka began to change with a dignified demeanor. {0} tried to avert his gaze as she started undressing.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "教室に入ると同時に堂々とした所作で着替え始める似々花から、\nあわてて目を逸らす{0}。"
+    },
+    {
+      "name": "Neneka",
+      "text": "As for the size... it seems good. Phew...",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "サイズは……\nよさそうですね。\nふぅ……"
+    },
+    {
+      "name": "Neneka",
+      "text": "From here on out, we'll have to rely on your knowledge to move around. You must choose a route for us that's the hardest to be tailed on... Are you listening?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ここからは、\n移動に関しては\nこちらの指示に従ってもらいます。\n可能な限り尾行されにくいルートを通って……\n聞いていますか？"
+    },
+    {
+      "name": "Neneka",
+      "text": "What's with that? That statement just now. You're the one who suggested me to wear a disguise. Seriously... having a woman change her attire isn't that simple, you know.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "なんですか、\nその物言いは。\n変装は貴方が言い出したことでしょう。\nまったく……\n女性の着替えはそう簡単にできるものではないのですよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Also... what kind of cover story should we go with? Oh, you don't know that english word? A \"cover story\" is basically the character setting one will wear together with their disguise.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "あとは……\nカバーストーリーはどうします？\nおや、\n分かりませんか？\nカバーストーリーとは\n簡単に言えば、\n変装後の人物像の設定ですね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Name, age, gender, occupation... If you don't think about it beforehand, there will be contradictions between your words and actions. Therefore, deciding in advance who exactly you're going to disguise yourself as takes priority.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "名前、\n年齢、\n性別、\n職業……\n何も考えないままでいると、\n行動と発言に矛盾が発生しますからね。\nなのであらかじめ、\nどういう人物なのかを決めておくのです。"
+    },
+    {
+      "name": "Neneka",
+      "text": "For example, if we were to meet with one of your classmates and answer that I'm in the same grade as you, they will try to inquire on potential mutual friends we share. Such a situation will make it very easy for our cover to be exposed... Huh?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "例えば\n同級生と出くわしたときに\n同学年だと答えてしまえば、\n共通の友人を探そうとしてくるでしょう。\nそうなると偽装も発覚しやすい……\nあら？"
+    },
+    {
+      "name": "Neneka",
+      "text": "It's nothing, the hem was a little frayed. This is a good opportunity to fix it.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "いえ、\n裾が少しほつれていたので。\nいい機会だから直しておきましょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "It's important to try and reduce any sense of incongruity if even a little. ...Anyway, we're not done with my cover story. What should I do to avoid being suspicious?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "違和感は少しでも減らしておくものです。\n……さて、\nそれよりも、\n私の話は終わっていませんよ。\n怪しまれないためには、\nどうすればいいか。"
+    },
+    {
+      "name": "Neneka",
+      "text": "In such a situation, saying that I'm in a different grade than you will make it harder to inquire about mutual friends. Being in different years makes it easier to believe that different people don't know each other.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "こういう時は、\n違う学年ということにしておけば\n共通の友人関係からの発覚はしづらくなります。\n学年が違えば\n知らない人間の方が多いですからね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "How about it? Do you now understand how important a cover story is?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "どうですか？\nカバーストーリーというのがどれほど重要なものか\n理解しましたか？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Ahn? You want me to be your kouhai? Me? Your kouhai? I'll have you know that being a senpai is a respectable position. Do you really have what it takes to be my senpai? Considering that, I'd be perfect for the role instead.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "はぁ？　\n私が後輩ですか？\n私が、\n貴方の？　\n先輩というのは尊敬される立場ですよ。\n貴方にはその器がありますか？　\nその点\n私なら完璧でしょう。"
+    },
+    {
+      "name": "Neneka",
+      "text": "What's with that dissatisfied look on your face? I'm older than you in age, so it's only natural. You're a good fit in terms of experience and foresight in life.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "なんですか、\nその不満そうな顔は。\n年齢的にも私が上なのですから自然でしょう。\n経験豊富な人生の先達という意味でも\n適任です。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Is that clear? If you set a cover story that is too far removed from who you are, it will be easier for your flaws to be exposed.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "いいですか？\nカバーストーリーにおいて\n本人とかけ離れた人物像を\n設定してしまうと、\nそれだけボロが出やすくなってしまいます。"
+    },
+    {
+      "name": "Neneka",
+      "text": "The rule of thumb here is to keep actual events around your real persona as accurate as possible while trying to make as little adjustments as possible.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "実際の事象を可能な限り残し、\n置き換えは最低限にするのが鉄則です。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Was that educational enough? Now then, I've finished changing... Oh my...!",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "勉強になりましたか？\nさて、\n着替え終わりましたが……\nおっと。"
+    },
+    {
+      "name": "Neneka",
+      "text": "What a blunder. I've suddenly sprained my ankle. Now I cannot walk on my own.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "困りましたね。\n足をくじいてしまいました。\nこれでは自分の足では歩けません。"
+    },
+    {
+      "name": "Neneka",
+      "text": "How fortunate, you're here to lend me your help. There's no way you'd leave me alone in a place like this, right? What are you going to do in such a situation?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "そういうわけですので、\n手を貸しなさい。\nまさか、\nこのような場所に一人置いていくわけがありませんよね？\nこういう場合、\nどうすればよいです？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Hmm, that's right. There's too much of a height difference to have you lend me your shoulder, but carrying someone on your back is not suitable for someone wearing a skirt.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ふむ、\nそうですね。\n肩を貸すには身長差があり、\nかといって、\nおんぶなどはスカートの相手には不向き。"
+    },
+    {
+      "name": "Neneka",
+      "text": "With this kind of solution, you've earned yourself full marks... No, you've passed the class entirely. What's wrong? It's a praise coming from me. You can be overjoyed if you want, you know?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "これなら及第点……\nいえ、\n合格点をあげましょう。\nどうしました？\nこの私に褒められているんです。\nもっと喜んでも良いのですよ？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Wait right there. I sense someone on the right... From here on, I'll hold your arm like this, so turn in that direction. Got it?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "待ちなさい。\n右は人の気配……\nここからは、\nこうして私が腕を引きますので\nその方向に曲がりなさい。\nいいですね？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Look sharp, they'll get too suspicious if you're in a hurry. Calm down and keep going. Oh my... it seems we're surrounded on all sides. Well then, let's try to head towards a place with fewer people.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ほら、\n急ぎ過ぎるとあやしまれますよ。\nもっと落ち着いて進みなさい。\nこれは……\n挟まれましたね。\nでは、\n人数の少ない方へ。"
+    },
+    {
+      "name": "Male Student",
+      "text": "Whoa! {0}... What are you doing? A princess carry while hugging? Wait, who even is that? What's your relationship with her?",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "うおっ！\n{0}\n……なにやってんの？　\n抱っこ？\nえ、\nてか誰？　\nどういう関係？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Oh my? So you two are in the same class? What a mess. Ahaha... Good afternoon. I was a little out of it and sprained my ankle, so I'm having my kouhai carry me.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "あれ？　\nもしかして\nキミの同クラ？\nまいったなー。\nあはは……\nこんにちは。\nちょっと足くじいちゃって、\n後輩に運んでもらってるんだ。"
+    },
+    {
+      "name": "Male Student",
+      "text": "Huh? Oh, g'afternoon... Ah, yeah... so you're injured. Wait a sec, you're our \"senpai\"?",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "え？　\nあ、\nこんちは……\nあ、\nああ……\nケガしてんすね。\nてか\n先輩？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Indeed so... Don't tell me you're thinking that I don't look the part simply because I'm smaller?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "そうだけど……\nもしかして、\nちっさいのに年上なの、\nとか思ってる？"
+    },
+    {
+      "name": "Male Student",
+      "text": "No, no, no... that's not what I'm thinking at all. I'm just jealous that he gets to carry such a beautiful girl around. {0}'s always surrounded by all kinds of beautiful girls.",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "あ、\nいやいやいや……\nそんなこと\n思ってないっスよ？\n美人を抱っこしてるとか\nうらやましいなー\nって思って。\nこいつ、\nいつも誰かしら美人といること多いんで。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Eeeh, I see. Hmm?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "へぇ、\nそうなんだ。\nふーん？"
+    },
+    {
+      "name": "Male Student",
+      "text": "No, no, no... you're also very beautiful in your own right, senpai. Huh? But I feel like I've seen you somewhere before...",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "いやいやいや、\n先輩も美人っスから。\nあれ、\nでも\nなんかどこかで見たような……"
+    },
+    {
+      "name": "Neneka",
+      "text": "Eeehh? That must be because we attend this same school. Isn't it obvious that you've seen me around?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "えー、\nそれは\n同じ学校だもん。\n見たことあるのは\n当たり前じゃない？"
+    },
+    {
+      "name": "Male Student",
+      "text": "No, that's not what I meant... Ah! Could it be you're that girl who was teaching us through an online class the other day?! Umm, I'm pretty sure you called yourself Utsushi-...",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "いや、\nそうじゃなくて……\nあぁ！　\nもしかして、\nこないだネットの授業やってた人！\nええと、\n確か\nうつし……"
+    },
+    {
+      "name": "Male Student",
+      "text": "That's right, that's the one!",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "そう、\nそれそれ！"
+    },
+    {
+      "name": "Neneka",
+      "text": "Tch, how are these kids so insightful... Ah, that person is actually a relative of mine. Do we really look that similar?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "チッ、\nまったくなにを……\nあー\nその人、\n私の\n親戚なんだよねー\nそんなに似てるかなあ？"
+    },
+    {
+      "name": "Neneka",
+      "text": "I think she's the granddaughter of my grandmother's twin sister, and apparently she taught the class the other day through that connection.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "確か\nお祖母ちゃんの\n双子の姉の\nお孫さん\nとかでー\nこないだの授業も\nその伝手でやってくれたんだって。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I haven't had the chance to meet her that much, but I know she's a good-natured friendly person.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "あんまり会ったことないけど\n結構気さくで\nいい人みたいだよ？"
+    },
+    {
+      "name": "Male Student",
+      "text": "Huh, I see. True enough, your faces are a spitting copy of the other, but your way of speaking are miles different. That said it must be tough to have such a celebrity in your family...",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "へー、\nそうなんスね。\n確かに、\n顔は似てるけど\n話し方とか\n全然違いますもんね。\nでも\nそんな有名人が身内にいたら\n大変なんじゃ……"
+    },
+    {
+      "name": "Neneka",
+      "text": "Mm, owowow...",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "んっ、\nいたた……"
+    },
+    {
+      "name": "Male Student",
+      "text": "Oh, um... That's right, you were hurt. Sorry for holding you back!",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "あっ、\nと……\nケガしてたんスよね。\n引き止めてスミマセン！"
+    },
+    {
+      "name": "Neneka",
+      "text": "Ahaha... I'm sorry too. Let's talk again, okay?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "あはは……\nこっちこそごめんね。\nまた\nお話しよ？"
+    },
+    {
+      "name": "Male Student",
+      "text": "Sure!! Take care! Take her safely to the nurse's office!",
+      "choice_data_list": [],
+      "orig_name": "男子生徒",
+      "orig_text": "っス！！\nお大事に！　\nちゃんと保健室連れてけよな！"
+    },
+    {
+      "name": "Neneka",
+      "text": "*sigh*... What's with that face?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "ふう……\nなんですか、\nその顔は。"
+    },
+    {
+      "name": "Neneka",
+      "text": "It's a matter of getting used to it. I've told you already. This kind of thing is an everyday occurrence for a spy.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "慣れの問題ですよ。\n言ったでしょう。\n諜報員にはこのようなことは日常茶飯事だと。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Still, what were you trying to pull just now? It was as if you were revealing my true identity... This entire operation is taking place to save you, you know.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "それにしても、\n先ほどの発言は何ですか。\nまるで私の正体を明かすような真似を……\nこれは貴方を助けるための作戦行動ですよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Think carefully about your position next time. Okay?",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "自分の立場をよく考えるように。\nいいですね？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Well then, it's about time we made our escape from this school. Keep going straight ahead.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "では、\n早く学校を出ましょう。\nこのまままっすぐ進みなさい。"
+    },
+    {
+      "name": "Narration",
+      "text": "Following Neneka's instructions, she and {0} safely escape the school and reach a deserted alley.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ネネカの指示で、\n無事学校を抜け出した{0}たちは\n人通りの少ない路地へとたどり着く。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Well then, I'll go get changed to my proper clothes, so wait here for a bit.",
+      "choice_data_list": [],
+      "orig_name": "似々花",
+      "orig_text": "では、\n私は着替えてきますので\nここで少し待っていなさい。"
+    },
+    {
+      "name": "Narration",
+      "text": "Seeing Neneka off, {0} waits alone with nothing else to do. A cold, hard object is pressed against the back of his head.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ネネカを見送り、\n一人手持ち無沙汰に待つ{0}。\nその後頭部に、\n冷たく、\n硬い物体が押し当てられる。"
+    },
+    {
+      "name": "？？？",
+      "text": "Don't move. Geez, how careless of you...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "動くな。\nまったく、\nなんと迂闊な……"
+    },
+    {
+      "name": "Narration",
+      "text": "After hearing a familiar voice and an immediate shock, {0}'s consciousness was swallowed up by the darkness...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "覚えのある衝撃と声を最後に、\n{0}の意識は\n闇へと飲まれていった……"
+    },
+    {
+      "name": "？？？",
+      "text": "\"K Report No. 1\" 20■■/■■/■■ I am writing this down as a memoir of my work on duty.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "『Kレポート　\nNo.１』\n20■■／\n■■／■■\n勤務中の覚え書きとして\nここに記す。"
+    },
+    {
+      "name": "？？？",
+      "text": "Today, a newcomer was assigned to my department. She's become my very first subordinate. In age, she's way younger than me, but... I can't exactly place where, so for now, \"age unknown\". She looks young, but her demeanor gives off a sense of composure beyond her years.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "本日\n我が部署に新人が配属された。\n自分にとっては初の部下となる。\n自分より年下の女性ということだったが……\n第一印象は\n『年齢不詳』だ。\n幼く見えるが、\n立ち居振る舞いからは\n年齢以上の落ち着きを感じさせる。"
+    },
+    {
+      "name": "？？？",
+      "text": "Oops, this kind of consideration isn't very woman-friendly. I'll be careful not to echo such doubts in front of her while on duty. It's just, she did a good job in choosing my department. One can't trust what's written on paper... and that goes for me too.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おっと、\nこのような表現は\nコンプライアンス的にはよくないな。\n勤務中表に出さないように留意する。\nただ、\n我が部署にくるくらいだ。\n書類上の表記は信頼できないし……\nそれは自分も同じことだ。"
+    },
+    {
+      "name": "？？？",
+      "text": "What's surprising is the results of her exams. She got full marks in all written tests. Her practical skills were also perfect except for those related to combat, and it seems that the examiners were unable to evaluate her skills in the electronics field. However, there's just one thing... her personality and aptitude are questionable.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "驚くべきは\n試験の成績だ。\n筆記は全て満点。\n実技に関しても\n戦闘周り\n以外は完璧で、\n特に電子関係は\n試験官が評価不能とするほどらしい。\nだが、\n一点……\n性格的な適正に関しては\n疑問を呈さざるを得ない。"
+    },
+    {
+      "name": "？？？",
+      "text": "Although she has no bias towards any particular political party or ideology, her personal philosophy seems to be that \"the world should be managed only by those who have the ability to do so\". That thinking is clearly one of a dictator. It is not appropriate for my department, which serves our state.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "特定政党や思想への偏向はないものの、\n本人の持つ哲学として\n「世界は能力のある者によって管理されるべき」\nらしい。\nこれは\n明らかに独裁者の思考だ。\n国家の下僕たる我が部署にはふさわしくない。"
+    },
+    {
+      "name": "？？？",
+      "text": "She also presents some issues when it comes to teamwork. I thought my name might be hard to pronounce, so I told him he could call me \"Senpai\", but she insisted on calling me Chief Kuramazaki. Is she being dishonest, or is it just that she doesn't like me?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "チームワークの問題もある。\n自分の名前は発音しにくいだろうと思い\n先輩と呼んでもよいと言ったのだが、\n執拗に狂真咲主任と呼ぶ。\n素直ではないのか、\n単に\n自分が嫌われているのだろうか？"
+    },
+    {
+      "name": "？？？",
+      "text": "I thought I had trained to give a good impression so that the people I was working with would not dislike me, but it seems I still have a long way to go. I need to train even more. Her first day of work was practical training as a final check on what she learned.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "職務上対象者に嫌悪されぬよう\n好印象を与える訓練はしてきたつもりだが\n自分もまだまだのようだ。\nより一層の訓練が必要だな。\n初日の業務は\n研修の最終確認としての実地訓練だった。"
+    },
+    {
+      "name": "？？？",
+      "text": "When it comes to tailing, she seems like an amateur and there are many parts where she's clumsy with how she uses her body, but for some reason, I feel she excels in grasping the field of view and where to direct a tailing subject's gaze. Apparently, this is an experience she gained from playing a VR game.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "尾行に関しては素人らしく\n身体の使い方が拙い部分も多いが\nどうしてか視界の把握や\n視線の誘導には\n光るものを感じる。\nなんでも\nVRのゲームでの経験らしい。"
+    },
+    {
+      "name": "？？？",
+      "text": "I don't know why, but I can't help but wonder if she'll be of any use to us as a member of our department, or if she will become a burden instead. I must find out for sure.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "彼女が果たして\n我が部署のメンバーとして使い物になるのか、\nあるいは\n自分たちの抱える獅子身中の虫となるのか……\n何故かは分からないが、\n無性に気になってしまう。\nこれからしっかりと見極めなくてはならない。"
+    }
+  ]
+}

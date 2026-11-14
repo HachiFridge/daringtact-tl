@@ -1,0 +1,428 @@
+{
+  "title": "Peace in Oedo",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A little while after their defeat of the Evil Magistrate,\nthe members of Weissflügel: Landosol Branch are spending an\nordinary day at the guildhouse when they receive an intriguing letter.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アクダイカンを倒し、\nギルドハウスでいつも通りの日々を過ごしていた\n【ヴァイスフリューゲル　ランドソル支部】の元に手紙が届いた。"
+    },
+    {
+      "name": "Monika",
+      "text": "Everyone, this letter is an invitation from the people of Oedo Town.\nThey would like us to visit again in order to thank us properly.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "みんな、\nこの手紙の内容だが、\nオーエド町からの招待状だった。\n改めてお礼をしたいから、\n是非とも来て欲しいとのことだ。"
+    },
+    {
+      "name": "Ninon",
+      "text": "An invitation?!\nThen that means we can go back to Oedo soon!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "招待状デスか！？\nそれはつまり、\nまた\nオーエド町に行けるということデスね！"
+    },
+    {
+      "name": "Monika",
+      "text": "Well, yes, I suppose so.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "まぁ、\nそういうことになるな。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Ah, I see. They couldn't bear to be without my beauty for long.\nTo think I stole the townsfolk's hearts so swiftly...\nOccasionally, my beauty scares even me.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "なるほど、\n招待状を送るほど\n美しいボクを見たいんだね。\n一瞬で\n町の住人たちの心を奪ってしまうなんて、\nたまにボクは、\n自分の美しさが恐ろしくなるよ……"
+    },
+    {
+      "name": "Monika",
+      "text": "Um, I don't think that's exactly the reason...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "いや、\nそういうわけではないと思うが……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "What's life been like there since we defeated the Evil Magistrate?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "アクダイカンを倒した後、\nオーエド町は\nどうなったんでしょうか。"
+    },
+    {
+      "name": "Monika",
+      "text": "That much was quite clear from the letter.\nWith the tyrant gone, his accomplice in the palace was arrested,\nand the town has recovered the peace it originally enjoyed.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "それなら、\nこの招待状に書いてあった。\nアクダイカン亡き後、\n共謀していた王宮の者も捕まり、\nあれから町は\n元通り平和になったらしい。"
+    },
+    {
+      "name": "Monika",
+      "text": "Without the need to pay unreasonable taxes,\nthe merchants will doubtless be far less aggressive.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "アクダイカンへの上納金がなくなったことで、\n前のような押し売りもなくなるだろう。"
+    },
+    {
+      "name": "Ninon",
+      "text": "Then we should go right now!\nI can't wait to see the happy Oedo again!\nHaha...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "なら、\nさっそく行きまショウ！\n楽しいオーエド町に\n戻ってるはずデース！\nなーんて……"
+    },
+    {
+      "name": "Monika",
+      "text": "Yes, you're right. Let's enjoy ourselves to the fullest.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "──そうだな、\n思いっきり楽しもうか。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Huh...?!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "えっ……！？"
+    },
+    {
+      "name": "Kuka",
+      "text": "Y-you're not going to object?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "い、\nいいんですか……！？"
+    },
+    {
+      "name": "Ninon",
+      "text": "I-I only made that suggestion out of wishful thinking...\nI didn't think you'd really approve it!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ちょ、\nちょっと\n言ってみただけぐらいの\n軽い気持ちだったのデスが、\nまさかオーケーが出るとは……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Um... Monika, could it be the taiyaki I bought you just now\nhas gone to your head and stopped you from thinking straight?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あの……\nモニカさん、\nもしかして\nさっき私が\n買ってきたたい焼きで\nおなかいっぱいになって、\nちょっと\n頭がぼーとしてたりします……？"
+    },
+    {
+      "name": "Monika",
+      "text": "Wh-why are you all so surprised?!\nWas what I said really so strange?!",
+      "choice_data_list": [
+        "Didn't you make everyone promise to train hard?",
+        "You're acting awfully kind today..."
+      ],
+      "orig_name": "モニカ",
+      "orig_text": "な、\nなんだ其方らのその反応は！？\nそんなに私は変なことを言っているか？"
+    },
+    {
+      "name": "Monika",
+      "text": "Well... Yes, I suppose I did.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "それは……\nまぁ、\nそうなんだが。"
+    },
+    {
+      "name": "Monika",
+      "text": "When you say that, it sounds like I'm not usually a kind person!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……それでは、\nまるで普段の私が優しくないみたいではないか。"
+    },
+    {
+      "name": "Monika",
+      "text": "But the Oedo incident was an ordeal for us all.\nI think we've earned a little proper recreation.",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "今回の事件は\n本当に大変だったしな。\nたまには、\nこういうのがあってもいいだろう。"
+    },
+    {
+      "name": "Monika",
+      "text": "Besides, ah... it made me feel closer to all of you than ever...\nAnd... I suppose that made me happy...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "それにその……\n今回の事件で、\n仲間の絆を強く感じられて……\nわ、\n私も\n嬉しかったというか……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Oh, Monika...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "モニカさん……"
+    },
+    {
+      "name": "Monika",
+      "text": "W-well, never mind all that!\nAre we setting off for Oedo Town or aren't we?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ま、\nまぁ、\nそんな話はいいだろう！\nそれより、\nオーエド町へと出発だ！"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-it really is a beautiful place...\nI'll never get tired of the sight.",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "い、\nいつ来てもきれいな町並み……\n本当にいいところですね。"
+    },
+    {
+      "name": "Townsperson 1",
+      "text": "Hey!\nLook, over there!",
+      "choice_data_list": [],
+      "orig_name": "町人１",
+      "orig_text": "おい！\nあれを見ろ！！"
+    },
+    {
+      "name": "Townsperson 2",
+      "text": "Could those people be...?!",
+      "choice_data_list": [],
+      "orig_name": "町人２",
+      "orig_text": "あの人たちはまさか……！！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Wh-what's this about?\nThe gazes of the townsfolk all seem to be turning our way...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ど、\nどうしたんでしょう？\n町の人たちの視線が、\nこちらに集中しているみたいです……"
+    },
+    {
+      "name": "Yuki",
+      "text": "Yes, all eyes are upon me...\nMy beauty always does make me the center of attention!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "こんなにも見られるなんて、\nやはりボクの美しさは、\nいつだって注目を集めてしまうんだね……！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Welcome to Oedo, Master Shogun and company!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "ようこそ、\nショーグン御一行さま！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Oh! It's Mr. Mayor!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あ、\n町長さんデス！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Thank you all for coming.\nAnd above all, for saving our humble town from the peril it faced!\nNow feast your eyes upon this symbol of our eternal gratitude!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "ご招待におうじていただき……\nそしてなにより、\nこの町を救っていただき、\n本当にありがとうございました！\n……早速ですが、\n我らの感謝の印である\nこれをご覧ください！"
+    },
+    {
+      "name": "Ninon",
+      "text": "Why, that's... a statue of you, Shogun!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "あれは……\nショーグンの像デス！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Oh, wow... I kind of want one too...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "本当だ……\nちょっと\n欲しいかも……"
+    },
+    {
+      "name": "Mayor",
+      "text": "To express our gratitude, we set our finest artisans to work!\nWe've also composed an epic saga chronicling your great exploits,\nso allow me to recite it for you in full!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "これは感謝の印として、\n職人たちが造ったものです！\n他にも、\nショーグン様たちの\n活躍を称える英雄譚もありますので、\nわたくしの方から語らせていただきますね！"
+    },
+    {
+      "name": "Monika",
+      "text": "A-an epic saga?!\nYou went as far as all that?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "え、\n英雄譚！？\nそんなものまであるのか！？"
+    },
+    {
+      "name": "Mayor",
+      "text": "Our tale begins in the streets of Oedo.\nThe Evil Magistrate was going about his usual wickedness\nwhen the mighty shogun stepped out with a flourish!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "では、\nまずはことの起こりから。\nいつものように悪事を働いていた\nアクダイカンの前に、\nショーグン様は颯爽と現れたのです。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Th... this already sounds a little different from reality...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "さ、\n最初からちょっと違う気がするんだけど……"
+    },
+    {
+      "name": "Mayor",
+      "text": "Behind the incomparable shogun stood his loyal attendants.\nFirst, the fearless Monika unsheathed her blade\nwith a heaven-rending flash...",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "ショーグン様の引き連れていたのは、\nいずれ劣らぬ英雄たち。\nまず、\nアクダイカンへとモニカ様が小手調べに\n天を裂く一閃を放ち──"
+    },
+    {
+      "name": "Monika",
+      "text": "W-wait, isn't this a little overdramatic?! My first strike was blocked!\nAnd besides, just unsheathing my blade rends the heavens?!\nWhat kind of chaos would I unleash with an actual attack?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "お、\nおい、\n話が盛られすぎてはいないか！？\n私の最初の一撃は防がれたし、\nそれに\n小手調べが天を裂く一閃とか、\n私はどれだけの一閃を放てることになっているんだ！？"
+    },
+    {
+      "name": "Mayor",
+      "text": "Radiant as an angel, Kuka, with a belt spanning countless mountains,\nstood unflinching and unafraid in the path of a thousand blows...",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "天女の羽衣の如き、\n美しく長い布を全身に纏いしクウカさま……\n悪逆非道のアクダイカンによる\n卑劣な攻撃にも屈せず……"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-I-I-I didn't do anything that impressive!\nActually, that whole scene was completely mortifying, so please don't...\nOh, but... this agonizing shame is a little thrilling...?!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "そ、そそ、\nそんな大層なことしてないですぅ……！\nというか、\nあの姿を英雄譚にするのは恥ずかしすぎるので、\n出来ればやめて……\nあ、\nでも\nこの恥ずかしさもイけるかも……！？"
+    },
+    {
+      "name": "Townsperson 1",
+      "text": "I tell ya, we've gotta make more shogun merch!\nFor starters, a Shogun Manju Bun!\nHeck, let's make a whole Shogun Platter!",
+      "choice_data_list": [],
+      "orig_name": "町人１",
+      "orig_text": "やっぱり、\nショーグングッズを作るべきだな！\nとりあえず、\nショーグン饅頭だろ！\nいっそ、\nショーグンセットを作るか！"
+    },
+    {
+      "name": "Townsperson 2",
+      "text": "Oh, what about accessories?!\nFans, hairpins... or even netsuke ornaments!",
+      "choice_data_list": [],
+      "orig_name": "町人２",
+      "orig_text": "小物にもいいと思うわ！\n扇子やかんざし、\n根付けにもいいかもしれないわね！"
+    },
+    {
+      "name": "Townsperson 1",
+      "text": "In that case, we simply have to make\na dress-up mechanical doll that captures Yuki's divine beauty!",
+      "choice_data_list": [],
+      "orig_name": "町人１",
+      "orig_text": "だったら、\n美の化身たるユキ様の、\n可動式着せ替えも可能なカラクリ人形もありだな！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Th-these people are all acting very strangely...\nShould they really be this overexcited?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "な、\nなんだか、\nみなさんの様子が変というか、\n興奮しすぎな気がします……！"
+    },
+    {
+      "name": "Monika",
+      "text": "C-could it be... another villain has arisen\nto disturb the people's hearts?! Ninon!\nIf anything comes to mind, tell me...",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "ま、\nまさか、\n別の悪党が現れて、\nオーエド町になにかしたのでは……\nそうだニノン！\nなにか心当たりがあるならば……"
+    },
+    {
+      "name": "Ninon",
+      "text": "This is it...",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "…………これこそ……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...N-Ninon?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……\nニ、\nニノンさん？"
+    },
+    {
+      "name": "Ninon",
+      "text": "Now this is the Oedo Town I remember!\nFights and festivals are the flowers of Oedo!\nEveryone, join me in a mighty cheer for our shogun!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "……これこそ\nワタシの知るオーエド町デス！\nけんかと祭りは\nオーエドフラワー！\nみんなで\nもっと激しく、\nショーグンコールをするデス！！"
+    },
+    {
+      "name": "Monika",
+      "text": "You're on their side?!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "おまえもか～～！！"
+    },
+    {
+      "name": "Teahouse Owner",
+      "text": "All right! Leave it to us, girlie!\nEveryone, you with me?!",
+      "choice_data_list": [],
+      "orig_name": "茶屋の主人",
+      "orig_text": "よーし\n任しとけお嬢ちゃん！\nみんな\n行くぜ！！！！"
+    },
+    {
+      "name": "Mayor",
+      "text": "Oh, yes! I would be honored to take part!",
+      "choice_data_list": [],
+      "orig_name": "町長",
+      "orig_text": "ならば、\n私も参加させていただきましょう！"
+    },
+    {
+      "name": "Townsfolk",
+      "text": "Shogun! Shogun! Shogun!\nShogun! Shogun! Shogun!",
+      "choice_data_list": [],
+      "orig_name": "住人たち",
+      "orig_text": "ショーグン！　\nショーグン！！\nショーグン！　\nショーグン！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "C'mon, guys! Come over and join the fun!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "みんなも\nこっちに来て、\n一緒にやるデス！"
+    },
+    {
+      "name": "Monika",
+      "text": "Oh... oh, fine, then!\nIf chant I must, then chant I shall!",
+      "choice_data_list": [],
+      "orig_name": "モニカ",
+      "orig_text": "……も、\nもうヤケだ！\nやればいいのだろう、\nやれば！！"
+    },
+    {
+      "name": "Kuka",
+      "text": "I-I'd be too embarrassed to chant out loud...\n...Ah?! The shogun is Mr. Sadist... Which means...\nHe's behind all this?! What a cunning ploy to humiliate me!",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "お、\n大きな声を出すのは恥ずかしくて……\nはっ！？\nショーグンはドＳさん……\nつまりこれは、\nドＳさんが遠回しに\nクウカを……\nなんという計画的な辱めなのですか！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Well, he was a big help to us this time around,\nso I suppose I can offer him the rare treat of my angelic voice! ♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ま、\n今回はあの人も頑張ったみたいだし、\nご褒美として、\n声までも美しいこのボクが\n参加してあげようかな♪"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I-I think I can do this!\nIt really isn't my style...but if we're chanting {0}'s name, I'll do my best!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "わ、\n私は\n大丈夫です！\nこういうのは苦手ですが……\n先輩の名前を叫ぶなら\n頑張ります！"
+    },
+    {
+      "name": "Ninon",
+      "text": "OK then, guys! All together now!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "ではみなさん、\nご一緒にデス！"
+    },
+    {
+      "name": "All",
+      "text": "Shogun! Shogun! Shogun!\nShogun! Shogun! Shogun!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "ショーグン！　\nショーグン！！\nショーグン！　\nショーグン！！"
+    },
+    {
+      "name": "Ninon",
+      "text": "C'mon, Shogun!\nAt this rate, we'll have all the lands conquered in no time!",
+      "choice_data_list": [],
+      "orig_name": "ニノン",
+      "orig_text": "さあ\nショーグン！\nこの調子で、\nみんなと一緒に\n天下統一するデース！"
+    }
+  ]
+}

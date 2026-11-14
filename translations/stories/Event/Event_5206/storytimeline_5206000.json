@@ -1,0 +1,796 @@
+{
+  "title": "Today's Kishi-kun - Summer Break Edition",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The group returned to Landosol temporarily due to Pecorine's official duties. During that time, {0} and Precia were helping Sheffy, who was busy making frozen Tunnus at the transport guild.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ぺコリーヌの公務の都合でランドソルに一時帰省した一行。\nその間、\n{0}とプレシアは、\n運送ギルドで\n冷凍ツナトゥンヌス作りに勤しむシェフィの手伝いをしていた。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Once you've distributed the magic evenly to avoid unevenness, freeze it all at once and it's done! This is how you properly create some frozen Tunnus.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ムラができないように、\n魔力を万遍なく行き渡らせたら──\n一気に凍らせて、\n完成！\nこれが、\n冷凍ツナトゥンヌスの作り方よ。"
+    },
+    {
+      "name": "Precia",
+      "text": "Amazing. Magic. Control. Delicious.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "すごい。\nまりょく。\nこんとろーる。\nうまし。"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "*Bubbu~*",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶっぶぅ♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hehe, actually, the subtle thickness of the ice is really important. If it's too thick, it gets heavier and harder to transport. Also, I adjust how long it takes to melt depending on where it's being delivered...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ふふ、\n実は\n微妙な氷の薄さが大切なの。\n氷が厚すぎると\n重量が増えて、\n運送が大変になっちゃうからね。\nあとは、\n届け先に応じて\n溶けるまでの時間を\n変えるとか……"
+    },
+    {
+      "name": "Cabman",
+      "text": "Maaaan, she's really one of a kind. I wish Sheffy-chan took this up as her real job, not just part-time.",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "いやー、\n本当にすごい腕前だ。\nシェフィちゃんにはバイトじゃなくて、\n本業でやってほしいぐらいだ。"
+    },
+    {
+      "name": "Precia",
+      "text": "Ice. Magic. I want to try too.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "こおり。\nまほー\nわたしも。\nやりたい。"
+    },
+    {
+      "name": "Cabman",
+      "text": "Oh, wonderful! We've got quite an ambitious newbie. But it's hard to pull it off out of nowhere, you know?",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "おお素晴らしい！　\n意欲的な新人さんだね。\nでも、\nいきなりは難しいよ？"
+    },
+    {
+      "name": "Precia",
+      "text": "I'll copy. Sheffy.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "シェフィの。\nまね。"
+    },
+    {
+      "name": "Precia",
+      "text": "Hmm... There.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ん──\nえい。"
+    },
+    {
+      "name": "Cabman",
+      "text": "Oh, amazing... It's rock solid! Ah... But maybe the ice is too thick...",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "おお、\nすごい……\nカッチンコッチンだ！\nあー……\nでも、\nこれだと\n氷が厚すぎるかもしれないな……"
+    },
+    {
+      "name": "Precia",
+      "text": "...Difficult.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……\nむず。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "But... there seems to be almost no unevenness in the freezing. She just copied me, and yet she got so far... As expected, Precia is a genius...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "でも……\n冷凍ムラはほとんど無いみたい。\n見真似で、\nいきなりここまで。\nやっぱり、\nプレシアちゃんは天才だわ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "At this rate, if she practices a little more, she'll get the hang of it. If I could give Precia-chan a hint...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "この様子なら、\nあと何度か練習すれば\nコツを掴んじゃうかもしれないけれど。\n私からプレシアちゃんに、\nヒントを与えられるとすれば──"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Precia-chan. If you don't mind, would you like to practice with me? We can go over everything together, step by step, in words.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "プレシアちゃん。\nよければ、\n一緒に練習しない？\n言葉で一つ一つ、\n私と整理しながら。"
+    },
+    {
+      "name": "Precia",
+      "text": "Words?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ことば？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Indeed. Precia-chan, I think you're the type who fills in what you don't know through intuition. But that's exactly why, if we could organize your intuition into proper words, I think you'll get the hang of it.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ええ。\nプレシアちゃんは感覚で、\n色々と器用にできちゃう\nタイプだと思う。\nでも\nだからこそ、\nその感覚を言葉で整理できれば、\n更に大きな力になると思うの。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "If you put even subtle feelings into words and re-interpret them, you can find the problem and make it easier to trial and error. Even in everyday communication, this is a useful advice.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "微妙な感覚も、\n言葉にしてとらえ直すと、\n課題が見つかって、\n試行錯誤しやすくなることがあるのよ。\n日常生活のコミュニケーションでも、\n役立つだろうし。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "So today, I thought that making frozen tuna tunnus would be a good way to practice... what do you think?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "だから今日は、\n冷凍ツナトゥンヌス作りを通して、\nそのいい練習になればいいなって……\nどうかしら？"
+    },
+    {
+      "name": "Precia",
+      "text": "Mm. I'll do it. I want to. Become stronger. So...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ん。\nやる。\nつよく。\nなれそう。\nなので。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hehe. Then let's do our best together.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ふふ。\nじゃあ、\n一緒に\nがんばりましょう。"
+    },
+    {
+      "name": "Precia",
+      "text": "Words. Feelings. Interpret...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ことばで。\nかんかく。\nせいり……"
+    },
+    {
+      "name": "プレシア",
+      "text": "ツナ。\nおいしそう。\nおなか。\nへった……？　",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ツナ。\nおいしそう。\nおなか。\nへった……？　"
+    },
+    {
+      "name": "Precia",
+      "text": "......? That's not... it? Difficult.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……？\nちょっと。\nちがう？\nむず。"
+    },
+    {
+      "name": "Precia",
+      "text": "Right now. I'm working. With Sheffy. Sh-Sheffy's... tail... looks delicious.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "いまは。\nシェフィと。\nしゅぎょう。\nシェフィと。\nし……\nシェフィの……\nしっぽ……\nおいしそう。"
+    },
+    {
+      "name": "Precia",
+      "text": "*slurp*... Hamph.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "じゅるり……\nはむっ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "PIEEEEEEEEEEENNN!!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ぴえええええぇんっ！！！"
+    },
+    {
+      "name": "Precia",
+      "text": "Very. Sorry.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ごめん。\nなさい。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It's okay, Precia-chan. It was just so sudden that even I was startled...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "大丈夫よ、\nプレシアちゃん。\nいきなりだったから、\n私も\nビックリしちゃって……"
+    },
+    {
+      "name": "Cabman",
+      "text": "Sheffy-chan, what was that just now? You sounded just like a baby...",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "シェフィちゃん、\nさっきのはいったい？\nなんだか\n赤ちゃんみたいだったけど……？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It's like some kind of mental switch that cannot be cured... If I get shocked or something, I get so surprised that I end up like that...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あれは、\n治せない発作みたいなもので……\nショックを受けたりすると\n驚きのあまり、\nああなっちゃうんです……"
+    },
+    {
+      "name": "Cabman",
+      "text": "An unhealable mental switch, huh? Sounds painful... I don't know if I can help you, but if it makes you feel any better, I'll atleast listen to your worries...",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "治せない発作か、\nそれは辛いね……\n力になれるかわからないけど、\n少しでも気持ちが楽になるなら、\n話ぐらい聞くよ……？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Thank you very much... But I'm a little embarrassed to even talk about it, so please forget about it...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ありがとうございます……\nでも\n話すのもちょっと恥ずかしいので、\nどうか忘れてください……"
+    },
+    {
+      "name": "Cabman",
+      "text": "I see, got it... Ah, that's right...! I have the perfect job in mind just for you, Sheffy-chan!",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "そうか、\nわかった……\nあ、\nそうだっ……！\nそんなシェフィちゃんに、\n丁度いい仕事があるよ。"
+    },
+    {
+      "name": "Cabman",
+      "text": "Yeah, there's a place that's been the talk of town recently... the \"beach where your wishes come true\". My sister runs a shop there, and I have a delivery of frozen tunnus lined up for her.",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "ああ、\n『願いが叶う海岸』\nなんて噂のビーチがあってさ。\n妹がそこでお店をやっているんだけど、\nそこに、\n冷凍ツナトゥンヌスを届ける仕事があるんだ。"
+    },
+    {
+      "name": "Cabman",
+      "text": "Well, I suppose it's some kind of power spot where mystical powers are at work, but since you'll be going there for work, how about trying your luck to wish your mental switch away?",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "まあ、\nパワースポットの類だとは思うんだけど、\n仕事ついでに、\n発作が治るように\n願掛けでもしてくるのはどうかな？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It certainly does seem like an auspicious place. \"Wishes come true\" sounds like a common advertising slogan...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "確かに、\n縁起がよさそうな場所だけど。\n『願いが叶うナントカ』なんて、\nよくある宣伝文句だし……"
+    },
+    {
+      "name": "Precia",
+      "text": "I want to go. I have a wish. Please.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "いきたい。\nわたしも。\nおねがい。\nあり。"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "Buu?",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶぅ！"
+    },
+    {
+      "name": "Cabman",
+      "text": "What do you think, Sheffy-chan? If you're willing to take up this job, I'll pay for the carriage. After the delivery, I don't mind if you take it easy at the beach, you know?",
+      "choice_data_list": [],
+      "orig_name": "御者",
+      "orig_text": "どうかな、\nシェフィちゃん？\n仕事を引き受けてくれるなら、\n馬車代はこちらで出すし。\n配達後は、\nビーチで\nゆっくりしてきてくれて\n構わないよ？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Well, it looks like everyone else's on board. Understood, let me handle this job.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……まあ、\nみんなも乗り気みたいだし。\nわ\nかりました、\n引き受けさせてください。"
+    },
+    {
+      "name": "Narration",
+      "text": "And at a later date, {0} and his friends went to the rumored \"beach where wishes come true\" to transport the frozen Tunnus.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして、\n後日。\n冷凍ツナトゥンヌスを運送するため、\n噂の『願いが叶う海岸』へ赴いた{0}たち。"
+    },
+    {
+      "name": "Beach house owner",
+      "text": "Thank you, that is indeed what I ordered. Now we'll have a good catch of squid.",
+      "choice_data_list": [],
+      "orig_name": "海の家の店主",
+      "orig_text": "ありがとう、\n確かに受け取ったわ。\nこれでイカも大漁ね。"
+    },
+    {
+      "name": "Precia",
+      "text": "Squid?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "イカ？"
+    },
+    {
+      "name": "Beach house owner",
+      "text": "Yes. It's a local specialty of this beach. If you use fresh tuna as bait, you can catch a lot of fish. Sometimes you'll even catch a monster, but I'd call that a secret menu item.",
+      "choice_data_list": [],
+      "orig_name": "海の家の店主",
+      "orig_text": "ええ。\nこのビーチの特産品なの。\n新鮮なツナをエサにすると、\nよく釣れるのよ。\nたまに、\n魔物が釣れちゃうこともあるんだけど、\nそっちは裏メニューね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I see... By the way, I also heard that this beach is the one where \"wishes come true\"...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "なるほど……\nちなみに、\n『願いが叶う海岸』で有名とも聞いたんですけど……"
+    },
+    {
+      "name": "Precia",
+      "text": "Where. Do we go. To make. A wish?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "どこ。\nいけば。\nおねがい。\nできる？"
+    },
+    {
+      "name": "Beach house owner",
+      "text": "Ah... That's just a handy slogan. I'm using it as a promotion to describe this beautiful beach.",
+      "choice_data_list": [],
+      "orig_name": "海の家の店主",
+      "orig_text": "あぁ……\nそれは、\nただのキャッチコピーよ。\nあくまで、\nきれいなビーチを表現する\n宣伝文句として使っているの。"
+    },
+    {
+      "name": "Precia",
+      "text": "Promo... slogan.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "せんでん。\nもんく……"
+    },
+    {
+      "name": "Beach house owner",
+      "text": "Yes. It brings to mind an image of a utopia in the summer, right? Our plan is to increase tourism enthusiasm and attract more customers.",
+      "choice_data_list": [],
+      "orig_name": "海の家の店主",
+      "orig_text": "ええ。\n夏の理想郷みたいなイメージが湧いてくるでしょ？\n観光意欲を上げて、\nお客さんを増やすって作戦よ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I see, as expected... So then, is there a particular power spot where to make wishes...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "なるほど、\nやっぱり……\nそれじゃあ、\n願掛けをする\nパワースポットとかは……？"
+    },
+    {
+      "name": "Beach house owner",
+      "text": "Oh! That sounds like a good idea. You're right, we should find and advertise a spot like that...",
+      "choice_data_list": [],
+      "orig_name": "海の家の店主",
+      "orig_text": "あ、\nいいアイデアね。\n確かに、\nそういうスポットも\n作るべきだったわ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hmm... Thank you for everything.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うーん……\n色々と、\nありがとうございました。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Unfortunately, it seems there are no power spots or anything like that... In the end, it seems that we're at the mercy of the locals' sense of business...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "残念だけど、\nパワースポットとかもないみたい……\n結果的に、\n振り回されちゃったわね……"
+    },
+    {
+      "name": "Precia",
+      "text": "Too bad. Unfortunate.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ざんねん。\nむねん。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "When I heard about \"wishes coming true\", I couldn't help but think of Minerva-san. From the looks of it, it doesn't seem like anything special will happen...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "願いが叶うって聞くと、\nミネルヴァさんをつい連想しちゃうけど。\nこの様子だと、\n特に何もなさそうね……"
+    },
+    {
+      "name": "Precia",
+      "text": "Yeah. Let's play.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "う\nん。\nあそぼ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Well then, let's get changed first.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それじゃあ、\n着替えましょっか。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "S-Sorry to keep you waiting...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "お、\nお待たせ……"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "*Bubbu~*",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶっぶぅ♪"
+    },
+    {
+      "name": "Precia",
+      "text": "Onii. Thoughts?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "お兄。\nどう？"
+    },
+    {
+      "name": "Precia",
+      "text": "......♪ Thanks.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……♪\nあざます。"
+    },
+    {
+      "name": "シェフィ",
+      "text": "まだ水着は、\nちょっぴり恥ずかしいけど……\nでも、\nまた着れてよかった♪　",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "まだ水着は、\nちょっぴり恥ずかしいけど……\nでも、\nまた着れてよかった♪　"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "Bubu~♪ Buu♪",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶっぶ～♪　\nぶぅ♪"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Happy-chan's already swimming happily in the ocean. She looks like she's enjoying herself.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ハッピーちゃん、\n早速海で泳いでいるわね。\n気持ちよさそう。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "{0}, you still can't swim, huh... However, I'm sure that they sell floaties at the beach house. Wanna check it out?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "{0}、\n泳げなかったものね……\nでも\n海の家でなら、\n浮き輪も売ってるんじゃないかしら。\n見に行ってみる？"
+    },
+    {
+      "name": "Precia",
+      "text": "...(Sniff, sniff). Monster. Coming.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……（くんくん）\nまもの。\nくるよ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "え？"
+    },
+    {
+      "name": "Squid Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "イカの魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "*Bububu~!?*",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶぶぶぶ～っ！？"
+    },
+    {
+      "name": "Precia",
+      "text": "Happy-chan...!",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ハッピー、\nちゃん……！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hey! You can't swim, can you, {0}?! Geez... \"Frost Path\"!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ちょっと、\n{0}は泳げないでしょ！？\nもうっ……\n──『霜の道』！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I've created a foothold out of ice... now we can close the distance in one go!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "氷で足場を作ったわ、\nこれで一気に距離を詰める！"
+    },
+    {
+      "name": "Squid Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "イカの魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "*Bubu!*",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶぶっ！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I won't let you!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "させないっ！"
+    },
+    {
+      "name": "Squid Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "イカの魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Squid. Too big. Lovely. But too big.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "げそ。\nおおすぎ。\nすき。\nなさすぎ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kh... At sea, it really does have an advantage... At this rate...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "くっ……\n海の上では、\nやっぱりあっちが有利ね……\nこのままじゃ……"
+    },
+    {
+      "name": "Precia",
+      "text": "Happy-chan. Will drown.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ハッピー、\nちゃん。\nおぼれちゃう。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hopefully we can save her while this thing's distracted... If only {0} could swim...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "私たちが注意を引いている間に、\n助けられればいいのだけど……\n{0}が泳げれば……"
+    },
+    {
+      "name": "Squid Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "イカの魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I saw an opening...! EEEEEEEEI!!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "隙が見えたっ……！\nええーいっ！"
+    },
+    {
+      "name": "Squid Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "イカの魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Precia",
+      "text": "Monster. Ran away.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "まもの。\nにげた。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Huh? What about Happy-chan...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あれ？\nハッピーちゃんは……？"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "Buu!",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶう！"
+    },
+    {
+      "name": "Precia",
+      "text": "Onii. Happy-chan.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "お兄。\nハッピーちゃん。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Thank goodness... Wait, {0}, are you swimming...!?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "よかった……\nって、\n{0}泳いでいるの……！？"
+    },
+    {
+      "name": "Narration",
+      "text": "At that very moment, Eris was in a deep sleep to recover. While lost in thought in her dream, she was confused by the monitor that suddenly appeared in front of her.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ちょうどその時、\n修復の眠りについていたエリス。\n夢の中で物思いにふけっていたところ、\n突如目の前に現れたモニターに困惑していた。"
+    },
+    {
+      "name": "エリス",
+      "text": "これは……\nもしかして、\nD型検体の……？　",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "これは……\nもしかして、\nD型検体の……？　"
+    },
+    {
+      "name": "Eris",
+      "text": "No, in the first place, even if it was a former terminal, I shouldn't be able to monitor it right now...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "いえ、\nそもそも元端末であっても、\n今のわたしには監視できないはず……"
+    },
+    {
+      "name": "Eris",
+      "text": "Ah...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "あっ……"
+    },
+    {
+      "name": "Eris",
+      "text": "Kishi-kun in a swimsuit... The pineapple pattern suits him very well. Kokoro Natsume chose this swimsuit, so the design has a bit of childishness to it, but that just goes to show how pure Kishi-kun is... So it is summer in Landosol already?",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "水着の騎士クンだ……\nパイナップル柄がとても似合っている。\n棗こころが選んだ水着だから、\nデザインに少し子どもっぽさがあるけれど\nそれが騎士クンの純粋さを表現している……\nランドソルももう夏か。"
+    },
+    {
+      "name": "エリス ",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "エリス ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "エリス",
+      "text": "　　　　　　　　　　\nパイナップル\n　　　　　　　　　　　　　酸っぱい甘さは\n　　　　　　　　　　　　　　　　　　　恋の味",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "　　　　　　　　　　\nパイナップル\n　　　　　　　　　　　　　酸っぱい甘さは\n　　　　　　　　　　　　　　　　　　　恋の味"
+    },
+    {
+      "name": "Eris",
+      "text": "Instinctively, using Kishi-kun in a swimsuit... I ended up composing a poem known as a \"haiku\" from Togoku's culture. If I had sufficient linguistic ability, surely I could have expressed it more beautifully... How frustrating it is, being so ineloquent...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "思わず\n水着の騎士クンで、\nトーゴク文化のハイクを詠んでしまった……\nわたしに十分な言語能力があれば、\nもっと美しく表現できたはず……\n口下手な自分が悔しい……"
+    },
+    {
+      "name": "Eris",
+      "text": "No, this is not the time for that. Kishi-kun, that place is extremely dangerous. The sea is an especially... deadly place with many tragic records...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "いえ、\nそんな場合ではない。\n騎士クン、\nそこはものすごく危険。\n海は特に……\n悲惨な記録が多かった場所……"
+    },
+    {
+      "name": "Eris",
+      "text": "I have seen Kishi-kun drown 359 times in it before... Drowning or being attacked by monsters...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "騎士クンの溺死は、\n359回見たことがある……\n溺れたり、\n魔物に襲われたり……"
+    },
+    {
+      "name": "Eris",
+      "text": "...As long as I am by your side...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "……わたしが側に付いていれば──"
+    },
+    {
+      "name": "Precia",
+      "text": "Preparations done. Ready?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "じゅんび。\nおっけ？"
+    },
+    {
+      "name": "Eris",
+      "text": "The daughter of that beastman who belonged to Rage Legion... Precia, an adventurer from Alter Maiden...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "【レイジ・レギオン】に所属していた獣人族の娘……\n【アルターメイデン】の冒険者\nプレシア……"
+    },
+    {
+      "name": "エリス",
+      "text": "いえ、\n準備とは一体？\n騎士クン、\n何をするつもりなの……？　",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "いえ、\n準備とは一体？\n騎士クン、\n何をするつもりなの……？　"
+    },
+    {
+      "name": "{0}",
+      "text": "Sure, I'll play with you.",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "うん、\nいいよ。"
+    },
+    {
+      "name": "Happy-chan",
+      "text": "Bubuuu!",
+      "choice_data_list": [],
+      "orig_name": "ハッピーちゃん",
+      "orig_text": "ぶっぶー！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Okay then, here we go... Wham!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それじゃあ、\nよーい……\nどん！"
+    },
+    {
+      "name": "Eris",
+      "text": "Wha...!?",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "なっ……！？"
+    },
+    {
+      "name": "エリス",
+      "text": "ダメ、\nそっちは沖。\nD型検体、\n今すぐ騎士クンを止めなさい……！　",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "ダメ、\nそっちは沖。\nD型検体、\n今すぐ騎士クンを止めなさい……！　"
+    },
+    {
+      "name": "{0}",
+      "text": "Pwah, pwah...!",
+      "choice_data_list": [],
+      "orig_name": "{0}",
+      "orig_text": "ぷはぁ、\nぷはぁ……！"
+    },
+    {
+      "name": "Eris",
+      "text": "Huh...? He is... swimming...?",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "え……、\n泳いで、\nいる……？"
+    },
+    {
+      "name": "Eris",
+      "text": "Even among the many resets I have experienced, Kishi-kun has never been able to overcome his inability to swim...",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "幾度とあったリセットの中でも、\n騎士クンが、\nカナヅチを克服できたことはなかったはずだけど……"
+    },
+    {
+      "name": "Eris",
+      "text": "No, I should not doubt the possibilities Kishi-kun is able to create. It would not be strange for Kishi-kun to be able to overcome that wall. That would explain it.",
+      "choice_data_list": [],
+      "orig_name": "エリス",
+      "orig_text": "いえ、\n騎士クンの可能性を疑うべきではない。\n騎士クンなら\n克服できても不思議ではない。\nそれで説明がつく。"
+    },
+    {
+      "name": "Narration",
+      "text": "When I look at Kishi-kun, my face naturally breaks into a smile. For now, I'll just watch him play on the beach for a little while longer...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "騎士クンを見ていると、\n自然とわたしの顔がほころんでしまう。\n今はもう少しだけ、\n海岸で戯れる\n騎士クンの姿を見守り続けていよう……"
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "title": "Sin Archbishop vs. Regina Geas",
+  "text_block_list": [
+    {
+      "name": "Ram",
+      "text": "Still, I must say, that noise in the night was quite a shock.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "それにしても、\n夜中の騒音には驚いたわね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes...\nI'm glad to hear it was nothing more\nthan a toppling pile of pots.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい。\nただお鍋の山が崩れただけで、\n何事もなくてホッとしました。"
+    },
+    {
+      "name": "Suzume",
+      "text": "I-I'm very sorryyy!\nIt's my fault for ruining so many pots lately...",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "ご、\nごめんなさい～\n私がうっかり、\nお鍋をダメにしてばかりいるから……"
+    },
+    {
+      "name": "Suzume",
+      "text": "My failures caused you all to worry...\nI have no choice but to take my own life in apology...!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "おかげで皆さんを驚かせてしまって……\nこれはもう、\n腹を切ってお詫びするしか……！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Don't make such strange declarations!\nIt's all right. We were a little surprised, yes...\nBut nothing happened in the end. Right, {0}?",
+      "choice_data_list": [
+        "I met a guy called Nostradamus, but that's all."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "そんな変なこと意気込まないの！\n大丈夫よ、\n確かに\nちょっぴり驚いたけど……\n特に何事もなかったんだから。\nね、{0}？"
+    },
+    {
+      "name": "Suzume",
+      "text": "Ohhh, you're all too kind!\nI'll be more careful how I stack my broken pots in the future!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "はい～、\nありがとうございます～\n今度からは\n壊れたお鍋の積み方を工夫しますね。"
+    },
+    {
+      "name": "Rem",
+      "text": "Perhaps you should avoid breaking them to begin with...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "お鍋を壊さない方が\n先決かと思いますが……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Wait a minute.\nYou mentioned him very casually just now,\nbut who exactly is this \\\"Nostradamus\\\" person?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "待ちなさい。\n今、\n何気なく話していたけど、\nノストラダムスって\n一体、\n誰の話なの？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ah, true.\nMy lord has so very many acquaintances,\nI almost let it slip by me as a matter of course.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "確かに。\n主さまは大変顔がお広いので、\nついつい当たり前のことと\n聞き流してしまいました。"
+    },
+    {
+      "name": "Rem",
+      "text": "That's quite a remarkable-sounding name.\nIs this Mr. Nostradamus an old friend of yours, then?",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ずいぶん、\nご立派な名前の方ですね。\nそのノストラダムス様というのは\nお知り合いですか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Huh? You met him yesterday, outside the orphanage?\nWhile I was away investigating the sound of the broken pots?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "え？\n　昨日の夜、\n救護院の外で会ったの？\n私が、\n鍋が崩れた音で\nちょっと離れてた隙に？"
+    },
+    {
+      "name": "Emilia",
+      "text": "But didn't you tell me\nyou didn't see anyone while I was away?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "でも、\nあなたはあのとき、\n誰もこなかったって\n言わなかった？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ah, I see. You didn't see anyone \\\"bad,\\\" you said.\nThat seems like a most understandable misunderstanding.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむふむ。\n悪い人は誰もこなかった、\nですか。\nなるほど、\nこれは仕方のないすれ違いですね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh, it's true!\nThinking back, that was how he phrased it!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ホントだわ！\n言われてみたら、\n悪い人は\nって言ってた！"
+    },
+    {
+      "name": "Ram",
+      "text": "Late night... A home for women and children...\nAnd a man lurking outside... Clearly a disgusting pervert.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "深夜、\n女と子供しかいない救護院。\nその外をうろつく男……\n間違いなく変質者ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "So...\nWhat did you talk to this man about?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それで、\nその人とは\nどんな話をしたの？"
+    },
+    {
+      "name": "Ram",
+      "text": "He called himself a prophet,\nand told you all sorts of far-fetched things...",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "胡散くさい予言者を名乗って、\nあれこれと好き放題に言っていった……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hold on, Ram.\nThe way this prophet seems to talk... Could it be...?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あのね、\nラム。\n私、\n今の話と、\n話し方って\nひょっとして……"
+    },
+    {
+      "name": "Ram",
+      "text": "No need to finish that thought, Miss Emilia.\nMy head was just starting to ache from the sound of it, as well.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "皆まで言わないでください、\nエミリア様。\nラムも、\n頭が痛いと思っているところなので。"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, it has to be Subaru.\nI've actually thought something was strange since this morning.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "やっぱり、\nスバルくんですよね。\n実は、\n今朝からそんな気がしていたんです。"
+    },
+    {
+      "name": "Emilia",
+      "text": "This morning?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "今朝から？"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes.\nI noticed it as soon as I took out the laundry.\nThe Witch's scent, lingering around the orphanage.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい。\n起きてすぐ、\n洗濯物をしようとして気づきました。\n救護院の周りに、\n魔女の残り香がすると。"
+    },
+    {
+      "name": "Rem",
+      "text": "But I didn't sense any ill intent,\nand it seemed about the same strength as Subaru gives off, so...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "ただ、\n悪意が感じられなかったのと、\n以前のスバルくんと同じぐらい\n濃い匂いだったので……"
+    },
+    {
+      "name": "Emilia",
+      "text": "[i]That's[/i] why you've been so restless all day.\nYou should have said something.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それで、\n朝からそわそわしていたのね。\n言ってくれたら良かったのに。"
+    },
+    {
+      "name": "Rem",
+      "text": "But we did promise Miss Saren last night...\nAnd there was one thing that seemed strange...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "昨夜のサレンさまとのお約束もありましたし、\nそれに\n腑に落ちないこともあって……"
+    },
+    {
+      "name": "Ram",
+      "text": "Something strange...\nLike why Barusu didn't contact us directly?",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "腑に落ちないこと……\nバルスがこちらに接触してこない理由ね。"
+    },
+    {
+      "name": "Rem",
+      "text": "If Subaru had arrived here,\nI can't see why he would not simply join us.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "スバルくんが訪ねてきたなら、\nそのままレムたちと合流すればいいだけですから。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yet he left after speaking only to my lord...\nThat does indeed seem somewhat unusual.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そうされず、\n主さまと話して立ち去られたと。\n確かにそれは\n不自然なことですね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "In the \\\"prophecy\\\" he gave, it seems he spoke of many things,\nbut do his words mean anything to any of you?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "予言、\nという形で\n色々おっしゃっていったご様子ですが、\n皆さま、\n何か思い当たる点など\nございますか？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Hmmm... If it was really Subaru,\nI'm sure he said those things for a very important reason, but...",
+      "choice_data_list": [
+        "I want to trust his words.",
+        "He sounded really serious."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "う～ん、\nスバルのことだから、\nきっと何か\nすごーく大事な意味があるとは思うんだけど……"
+    },
+    {
+      "name": "Rem",
+      "text": "Yes, I wholeheartedly agree.\nSubaru does act rather strangely at times,\nbut he is always working hard to help other people.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "はい、\nレムも同意見です。\nスバルくんは一見、\n分かりにくい態度ですが、\nいつだって誰かのために一生懸命な人なので。"
+    },
+    {
+      "name": "Ram",
+      "text": "I'd love to dismiss Rem's words as biased,\nbut she's probably right that he has some strange plan.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "レムの欲目と言いたいところだけど、\nバルスに何か考えがあるのは事実でしょうね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes... he must have been.\nThat's why you decided to trust him too, right?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ、\nきっとそうだと思う。\nだからあなたも\n信じる気になったんでしょ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "If my lord wishes to trust this fellow,\nI too will regard the words he spoke with the utmost of significance.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまが信じたいとおっしゃるなら、\nわたくしも\nその方のお言葉を\n真剣に受け止めるだけです。"
+    },
+    {
+      "name": "Suzume",
+      "text": "Still, if we believe the prophecy,\nit means you're going to meet a green-haired man, right?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "でも、\nその予言を信じると、\n皆さまは\n緑のおかっぱさんと出会うことになりますよね？"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes... it does...\nI'm sure it can only mean that Sin Archbishop,\nbut we already decided to sit back and leave him be...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう、\nなのよね……\nきっと、\nあの大罪司教のことだろうけど、\n私たちは人任せにするって決めたばっかりだし……"
+    },
+    {
+      "name": "Ram",
+      "text": "When you put it like that, we sound awful.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "何となく語弊のある言い方ですね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Anyway!\nI think we'll have to give this another proper discussion...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "とにかく！\n魔女教のことと、\n私たちのことは\nまた……"
+    },
+    {
+      "name": "Suzume",
+      "text": "Huh? It sounds like someone's at the door.\nHello~? Whoever could it be?",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "あれ？\n　誰かがいらっしゃったみたいですね。\nはいはい～、\nどちらさまでしょうか～"
+    },
+    {
+      "name": "???",
+      "text": "Ahh! There you are! It's about time!\nWe finally found you!",
+      "choice_data_list": [],
+      "orig_name": "？？？　",
+      "orig_text": "あ！\n　いた！\n　いたわねっ！\nやっと見つけたわ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Karyl...?\nAnd is that Pecorine with you, too?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "キャルちゃん？\nそれに一緒にいるのは\nペコリーヌ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Waaahhh! Karyl's being so mean to me today!\nI was in the middle of a big meal when she dragged me out here!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふえ～ん、\nキャルちゃんったらひどいんですよ～！\nわたし、\nまだ食事の最中だったのに\n無理やり連れ出されました～！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, shut up!\nThis is no time to sit around gobbling food!\nYou're as involved as the rest of us, so lend us your brute strength!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "やかましい！\nのんきにご飯なんか食べてる場合じゃないわよっ！\nあんたも無関係じゃないんだから、\n力を貸しなさいっての！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I can't fight on an empty stomach~!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "お腹が減ってちゃ\n戦えませんってば～！"
+    },
+    {
+      "name": "Emilia",
+      "text": "W-wait a minute. Calm down.\nIt's not nice to be so rough with your friends.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ちょ、\nちょっと待って、\n落ち着いて。\nそんな風に乱暴にしたらダメじゃない。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I agree, Miss Karyl.\nYou are making me feel sorry for Miss Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そうですよ、\nキャルさま。\nペコリーヌさまが\nおかわいそうです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Is this really the time to be saying that stuff?!\nWe have an emergency on our hands!",
+      "choice_data_list": [
+        "What happened?"
+      ],
+      "orig_name": "キャル",
+      "orig_text": "そんなこと言ってる場合じゃないわよ！\n大変なんだからっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "What do you think? [i]He[/i] showed up!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "決まってるじゃない。\n出たのよ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "\\\"He,\\\" referring to...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "出た、\nと申しますと……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, come on!\nWhy the heck do you think we came over to find you guys?!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ああもうっ！\n今、\nこうやってあんたたちを探しにきたんだから分かるでしょっ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Someone relevant to us...? Do you mean...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "私たちと関係があるって……\nもしかして？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Yes, of course I do!\nWe found that green-haired weirdo who bounced off through the air!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そう、\nそのもしかしてよ！\nあの、\n丸まって飛んでったおっさんが見つかったの！"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "Whatever could all of this mean?\nWhile I was spreading my lady's good word,\nI seem to have been surrounded on all sides... How surprising.",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "これはどうしたことデスかね。\nワタシがあくせくと啓蒙活動をしている最中、\nよもやこれほどしっかりと取り囲まれるとは……\n驚きデス。"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "I see, I see, yes. My, oh my...\nYou certainly seem to have come well prepared!",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "なるほどなるほど、\nこれはこれは……\nずいぶんと、準備万端なご様子デスね！！"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahah! But of course!\nFinally, I found you, black-cloaked terror!\nHow I have longed for this fateful meeting!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あははっ☆\n　当然さ！\nようやっと見つけたぞ、\n黒衣の怪人っ！\nこの出会いを\nワタシは焦がれていたっ！"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "Oh my!\nYou sought after me, you say? And look, you found me!\nI see... Truly, truly, truly! You are a diligent soul!",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "なんと！\nアナタはワタシを探していたと？\n　\nそして見つけた！\nならば、\n実に実に実にぃ、\nアナタ、\n勤勉デスね！"
+    },
+    {
+      "name": "Christina",
+      "text": "I am, aren't I? Keep the praise coming!\nI've been stuck with such boring missions lately.\nNothing could make me happier than a new enemy like you!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "そうだろうそうだろう、\nもっと褒めろっ！\nしばらく退屈な任務続きだったからな。\nオマエのような敵が現れてくれて、\nワタシは嬉しいよ。"
+    },
+    {
+      "name": "Christina",
+      "text": "Affiliations, identity, objective, all unknown!\nA phantom cloaked in black and shrouded in mystery!\nSurely you will be the one to slay my accursed tedium!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "所属不明、\n正体不明、\n目的も不明だ。\n一切合切が謎に包まれた\n黒装束の怪人！\nオマエは、ワタシの退屈を\n殺してくれるんだろう？"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "Alas, I have my own duty to pursue!\nI did not come to this land to fulfill your wishes!\nAnd yet...",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "生憎と、\nワタシの使命は別にあるのデス！\nアナタの希望を叶えるものではないのデスよ！\nデスが……"
+    },
+    {
+      "name": "Christina",
+      "text": "And yet... what?",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ですが、\nなんだ？"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "If my path towards the goal I seek\nplaces the two of us in dire conflict, what choice have I?!\nIf you obstruct my diligence,I must eliminate you and proceed, yes!",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "使命を遂行するためのワタシの歩みが、\n結果的にアナタと反目し合うのであれば\n仕方ないのデス！\n我が勤勉を妨げるならば、\nアナタを排し、\n進むのみデス！！"
+    },
+    {
+      "name": "Christina",
+      "text": "Ahahahah!\nGood, very good! The perfect answer!\nYou surpass my expectations! I was right to take on this mission!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "あはははっ！\nいいぞいいぞ、\n最高の答えだっ！\n期待以上の回答だ。\n任務を買って出て正解だった！"
+    },
+    {
+      "name": "Christina",
+      "text": "Now, let us do battle, my beloved foe!\nDo what you can to snuff out my life!\nBlades, or spells, or sinister curses? Which will it be?!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "さあ、\n殺し合おう、\n愛しき敵よっ！\nワタシの命を奪いにきておくれっ！\n剣か魔法か、\nはたまた呪いか？\n　何でもいいぞっ！"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "W-wait a minute, Vice-Captain!\nThis is a recon mission. We're not supposed to engage—",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士",
+      "orig_text": "お、\nお待ちください、副団長！\n我々はあくまで先遣隊で、\n交戦の許可は……"
+    },
+    {
+      "name": "Christina",
+      "text": "Do not bore me with your rules.\nWhy would I need permission? I'm your vice-captain!\nI decide if we advance or retreat! That is my very nature!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "水を差すなよ、\n退屈な奴め。\n許可なんて求めるものか。\nワタシは副団長だぞ？\n退くも行くもワタシが決めるさ。\nそれがワタシというものだ。"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "But what about the second report?!\nWe have to find out more about whoever's working with him!",
+      "choice_data_list": [],
+      "orig_name": "王宮騎士",
+      "orig_text": "ですが、\n不審人物の目撃例は二つ！\nあの男からもう一方の、\n仲間の話を聞き出さなくては。"
+    },
+    {
+      "name": "Christina",
+      "text": "All right, all right, I'll ask him.\nIf we're both still alive, that is,\nat the end of our glorious struggle to the death!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "分かった分かった、\n聞いてやるよ。\nワタシとアイツが殺し合って、\n最後まで両方が生き残ってた\nあかつきにはなっ！"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "Worthy resolve, yes. Hostility as sharp as a blade!\nAhhh, if only the Gospel had chosen you,\nyou would have made a fine believer... Such a pity!",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "良い覚悟デス。\n実に鋭く、\n真っ直ぐな敵意デス！\nああ、\nアナタが『福音』に選ばれていれば、\nきっと敬虔なる信徒となったはず……\n残念デス！"
+    },
+    {
+      "name": "Christina",
+      "text": "I choose for myself what to believe in.\nI need nobody else's guidance.",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ワタシの信じるものは\nワタシが決めるさ。\n誰に導いてもらう必要もない。"
+    },
+    {
+      "name": "Petelgeuse",
+      "text": "Then at the very least you must fall here by my hand!\nWhen your corpse lies slothful before my diligence,\nyour soul will surely become a fine offering to the Witch, yes!",
+      "choice_data_list": [],
+      "orig_name": "ペテルギウス",
+      "orig_text": "ならばせめて、\nワタシの手で倒れるのデス！\nワタシの勤勉の前に\n怠惰な骸を晒すのならば、\nそれは魔女の身許へ捧げられた証に\n他ならないのデスから！"
+    },
+    {
+      "name": "Christina",
+      "text": "Hahah! Let's begin, dark phantom!\nRelease me from the endless tedium that plagues me so!",
+      "choice_data_list": [],
+      "orig_name": "クリスティーナ",
+      "orig_text": "ははっ！\n　\n始めるぞ、\n黒装束！\nワタシを、\nこの尽きぬ退屈から救い出してくれっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "That weirdo is totally insane!\nThere are more injuries and disappearances every day.\nLeave him at large, and things are only going to get worse.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あのおっさん、\nもう無茶苦茶よ。\n行方不明者もケガ人も次から次へと増えてるし、\nこのまま放っておいたら\n大変なことになるってわけ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "So, Nightmare tracked him down\nand sent a unit to scout out the situation.\nOnce the coast's clear, they'll take him out for good.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "で、\nようやく居所を掴んで、\n【王宮騎士団（NIGHTMARE）】が先遣隊を派遣したところよ。\nそのままあのおっさんをとっちめようって魂胆ね。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Take out the Sin Archbishop...?\nStill, Karyl, you're pretty amazing.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "そう、\n大罪司教を……\nでも、\nキャルちゃんってばすごいのね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh...? Me, amazing? How d'you mean?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "え……\nすごいって、\n何が？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I quite agree. Your grasp of the situation is remarkable.\nEven learning the details of Nightmare's latest movements...\nYour keen insight is nothing less than a revelation to us all.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そうですね。\nさすがキャルさま、\nお耳が早いです。\n【王宮騎士団（NIGHTMARE）】の動向まで掴んでこられるとは、\nこのコッコロ、\nキャルさまのご慧眼に\n驚くばかりです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Seriously, you're so incredible, Karyl! How crazy is that?!\nWhat's your secret? Is it those cute, fuzzy ears of yours?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ほんと、\nキャルちゃんってばすごいです、\nやばいですね！\nやっぱり、\nキャルちゃんのかわいいお耳のパワーなんですかね～？"
+    },
+    {
+      "name": "Karyl",
+      "text": "A-ahahaha... S-sure, that might be it!\nReally, I just caught wind of a few rumors, that's all!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、\nあははは、\nそ、\nそうね、\nそうかもしんないわね！\nまあ、\nたまたまちょっと小耳に挟んだってだけなんだけど！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Th-that was close...!\nI almost let them find out that I work at the royal palace...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、\n危ない危ない……\nうっかり、\nあたしが王宮に出入りしてるってバレるとこだったわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Her Majesty wants me to get Pecorine and the others involved in this...\nI don't know what her reasons are, but can I convince them? ",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "陛下はなんでか、\nこの件の解決にペコリーヌたちを巻き込めって……\n何の意味があるのか分かんないけど、\n説得できるかしら？　"
+    },
+    {
+      "name": "Emilia",
+      "text": "It's a little strange, though.\nWhy would you bring this news straight to us, Karyl?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "だけど、\n不思議ね。\nどうしてその話、\nキャルちゃんは私たちに教えてくれるの？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Urk!\nThat's, uh... Um... You know!\nI thought you'd want more info on the enemy from your world!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぎくっ！\nそれは……\nほら、\nあれよ！\nあんたたちも、\n因縁の敵の情報は知りたいと思って！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Well, you aren't wrong,\nbut didn't we just decide that we would leave this to...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "確かにそうなんだけど、\nでも、\n私たち昨日、\n今回のことは他の人に任せるって……"
+    },
+    {
+      "name": "Rem",
+      "text": "Miss Emilia, if I may interrupt.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "──エミリア様、\nお待ちください。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Rem?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "レム？"
+    },
+    {
+      "name": "Rem",
+      "text": "I do recall the promise we made to Miss Saren.\nHowever, Subaru's... Master Nostradamus's words...\nThey concern me very deeply.",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "昨日の、\nサレン様とのお約束は覚えています。\nですが、\nスバルくん……\nノストラダムス様の言葉、\nあれが\nレムは気になります。"
+    },
+    {
+      "name": "Ram",
+      "text": "A terrifying power that's dangerous to approach...\nIt sounds patently ridiculous,\nbut when has Barusu ever said anything that doesn't?",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "近づくだけで危ない不思議な力、\nね。\n胡散くさいにも限度があるけど、\n元々、バルスの言ってることは全部が胡散くさいし……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "At the very least, the members of Nightmare set out\nunaware of this new information we have learned.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "少なくとも、\n【王宮騎士団（NIGHTMARE）】の皆さまは、\nその情報については\n知らずに向かわれたかと。"
+    },
+    {
+      "name": "Rem",
+      "text": "Surely that changes things.\nIf the knights of Nightmare, unaware of this warning,\nwere to perish at the hands of the Sin Archbishop...",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "そうなると、話は別です。\n何も知らない【王宮騎士団（NIGHTMARE）】の皆様が、\n大罪司教に敗れて、\n死んでしまうことがあったら……"
+    },
+    {
+      "name": "Emilia",
+      "text": "That would be a very awful thing.\nBut what can we do on our own?",
+      "choice_data_list": [
+        "This is what guilds are for."
+      ],
+      "orig_name": "エミリア",
+      "orig_text": "それはとても、\nとても嫌なことね。\nだけど、\n私たちだけじゃ……"
+    },
+    {
+      "name": "Emilia",
+      "text": "Oh...\nThat's just like what you said yesterday.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "あ……\n昨日も、\nそう言ってくれたわよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hm, I see. I don't really know the situation,\nbut it sounds like you've all got something to do in a hurry!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ふむふむ、\n状況は良く分かりませんが、\nとにかく皆さん、\n大急ぎでやりたいことがあるんですね～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Then the Gourmet Guild will lend you its strength!\nOur main objective is going on adventures to find tasty food...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でしたら、\nギルド【美食殿】が力を貸しますっ！\n本当は\n美味しいもののための冒険が目的なんですが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "But if we abandoned friends in need,\nwe wouldn't even be able to enjoy our delicious meals!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "今、\n皆さまの窮地を見過ごしては、\nわたくしたちも\n美味しいご飯を食べられなくなります。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wh-what she said!\nOkay, now quit your complaining\nand let's all head to the scene already!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そ、\nそういうことっ！\nほら、\nだから四の五の言わないで、\n大人しくあたしたちと向かいましょう！"
+    },
+    {
+      "name": "Ram",
+      "text": "You're much too kind.\nBut I won't hesitate to take advantage of that kindness.",
+      "choice_data_list": [],
+      "orig_name": "ラム",
+      "orig_text": "お人好しだことね。\nでも、\nラムはそれに甘えることに躊躇がないわ。"
+    },
+    {
+      "name": "Rem",
+      "text": "Ah, my wonderful sister.\nNobody else could be so resolute and decisive!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "さすがです、\n姉様。\nその決断力、\n他の追随を許しません！"
+    },
+    {
+      "name": "Rem",
+      "text": "Of course, I agree as well.\nFacing the Witch Cult, and a Sin Archbishop, no less,\nis the perfect job for my portable morningstar!",
+      "choice_data_list": [],
+      "orig_name": "レム",
+      "orig_text": "もちろん、\nレムも賛成ですよ。\n魔女教、\nそれも大罪司教が相手となれば、\nレムの携帯用の鉄球が\n火を噴きます。"
+    },
+    {
+      "name": "Emilia",
+      "text": "You guys...\nMm, all right. Let's do it, then.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "みんな……\nん、\n分かった。\n分かりました。"
+    },
+    {
+      "name": "Emilia",
+      "text": "Puck, did you hear all that?",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "──パック、\n話は聞いてた？"
+    },
+    {
+      "name": "Puck",
+      "text": "Well, I did only just wake up...\nBut I was listening, and it sounds pretty reckless.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "ん～、\n今起きたとこだけどね。\n聞いてたし、\n無茶するな～って思うけど。"
+    },
+    {
+      "name": "Puck",
+      "text": "But I'm always on your side, Lia.\nIf this is what you want, if you think it's right,\nyour father will support you every step of the way.",
+      "choice_data_list": [],
+      "orig_name": "パック",
+      "orig_text": "でも、\nボクはリアの味方だからね。\n君がしたいこと、\n正しいと思ったこと、\nそれをするのを\nお父さんらしく手伝うだけだよ。"
+    },
+    {
+      "name": "Emilia",
+      "text": "...Thank you.\nPuck, and everyone else too!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "……ありがと。\nパックと、\nそれにみんなも！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Suzume, I'm sorry.\nI hate to disobey Miss Saren, but we've made our decision.",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "スズメちゃん、\nごめんね。\nサレンさんには悪いけど、\n私たち、\n決めたの。"
+    },
+    {
+      "name": "Suzume",
+      "text": "A-all right! I understand!\nI suppose I'll just have to report this to milady!\nEveryone, please try to stay safe out there!",
+      "choice_data_list": [],
+      "orig_name": "スズメ",
+      "orig_text": "は、\nはい～、\n分かりました～\n私はこのことを\nサレンお嬢さまにお伝えします！\n皆さん、\nどうか無理はなさらないでくださ～いっ！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Yes, please do.\nI'm sure Miss Saren will be very angry with us later, but...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ええ、\nお願い。\nサレンさんにはきっと、\nあとですごーく怒られちゃうと思うけど……"
+    },
+    {
+      "name": "Emilia",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Emilia",
+      "text": "Mm! All right, I think I'm ready!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "ん！\n　大丈夫、\n気合い入った！"
+    },
+    {
+      "name": "Emilia",
+      "text": "Well then, let's go!\nJust for today, we're all fellow members of the Gourmet Guild!",
+      "choice_data_list": [],
+      "orig_name": "エミリア",
+      "orig_text": "それじゃ、\n行きましょう！\n私たちも、\n今だけは『ぎるど』\n【美食殿】だから！"
+    },
+    {
+      "name": "All",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "お──っ！！"
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "title": "Part 2 Ch. 14 Ep. 4",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "──And now. In the city of Landosol, the shadows of the black angels that were released to fully awaken Eris were causing widespread damage.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──そして現在。\nランドソル市街地では、\nエリスを完全に覚醒させるため放たれた\n黒い天使のシャドウたちが被害を拡大させていた。"
+    },
+    {
+      "name": "シャドウたち",
+      "text": "──……！",
+      "choice_data_list": [],
+      "orig_name": "シャドウたち",
+      "orig_text": "──……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "They went over there, Pecorine!\nI'll leave it to you!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そっち行ったわよ、\nペコリーヌ！\n任せるわ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes!\nEeeeeeiiii!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はいっ！\nえええーーーいっ！"
+    },
+    {
+      "name": "Shadows",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シャドウたち",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Citizens",
+      "text": "Huh!?\nThe princess!?\nRumors say she's missing...",
+      "choice_data_list": [],
+      "orig_name": "市民",
+      "orig_text": "えっ！？\n王女さまっ！？\n行方不明ってウワサじゃ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm fine!\nPlease run away, quickly!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしは大丈夫ですので！\n逃げてください、\n早く！"
+    },
+    {
+      "name": "Citizens",
+      "text": "Y-Yes...!",
+      "choice_data_list": [],
+      "orig_name": "市民",
+      "orig_text": "は、\nはい……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Damn it...!\nI've gotten used to getting power from {0}, but\nit's tough when its just the two of us...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく……！\n{0}からの強化は来てるけど。\nふたりだけじゃキツイってーの……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "There's no way Nightmare isn't on the move in this situation either. I hope we can meet up with them somehow. With the chaos going on here it's not going to be easy...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】のみなさんも、この状況で\n動いてないはずないですし。\nなんとか合流できるといいんですけど。\nあちこち混乱しっぱなしで、\n簡単にはいかないっぽいですね……"
+    },
+    {
+      "name": "Karyl",
+      "text": "That's right... Whoa!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そーね……\nっとぉ！？"
+    },
+    {
+      "name": "シャドウＰ",
+      "text": "──……！",
+      "choice_data_list": [],
+      "orig_name": "シャドウＰ",
+      "orig_text": "──……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "くぅっ……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I won't let you!\nPrincess Strike!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "させませんっ！\nプリンセスストライク──！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, thank you...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、\nありがと……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "...But, it's going to be a long fight, so...\nDon't push yourself too hard, okay...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……で、\nでも、\n長丁場になりそうだしっ！\nあんまり飛ばしすぎるんじゃないわよ……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes!\nI'll keep going strong!!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nまだまだいきますよーっ！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, come on, listen to what people are saying...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ああもう、\nちゃんと人の話聞きなさいっての……！"
+    },
+    {
+      "name": "キャル",
+      "text": "ったく……！\nソルの塔に行った{0}たちは、\nちゃんと人質交換やれてんのかしらね……！　",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ったく……！\nソルの塔に行った{0}たちは、\nちゃんと人質交換やれてんのかしらね……！　"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Alright, we're here!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "よーしっ、\n到着～！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thanks to the guidance of Lady Rei and Lady Hiyori, we were able to reach the Middle Stratum quickly.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "レイさまとヒヨリさまの先導のおかげで、\nすみやかに中層までたどり着くことができましたね。"
+    },
+    {
+      "name": "Rei",
+      "text": "In this tower, I've tried to find clues through investigations and Sol Orbs several times. Of course I won't get lost.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "この塔には、\n下調べやソルオーブの手がかり探しで\n何度か挑戦しているからね。\nさすがに迷ったりはしないさ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hmm. \nBy the way... we managed to collect all the Sol Orbs.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うんっ。\nそういえば……\n揃っちゃったんだよね、\nソルオーブ。"
+    },
+    {
+      "name": "Rei",
+      "text": "Ah, I see. \nFinally, everything is complete...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ、\nそうだね。\nついに、\n全てが揃った……"
+    },
+    {
+      "name": "Rei",
+      "text": "...\nWith this, can we also open the gate at the summit...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……\nこれを使えば、\n頂上の門を開くことも……？"
+    },
+    {
+      "name": "Hiyori & Kokkoro",
+      "text": "Miss Rei!?\"\n\"Lady Rei...!?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・コッコロ",
+      "orig_text": "「レイさんっ！？」\n「レイさまっ……！？」"
+    },
+    {
+      "name": "Rei",
+      "text": "Sorry about that. \nOf course, I'm not serious.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "っと、\nすまない。\nもちろん本気ではないよ。"
+    },
+    {
+      "name": "Rei",
+      "text": "When we reach the top, Yui will always be with us.\nAnd Fio, too.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "頂上に到達するときは、\n必ずユイも一緒だ。\nそれにフィオもね。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah! If we save Fio-chan and defeat Miroku, \nwe might be able to execute Miss Labyrista's plan at the top of the tower!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん！\nフィオちゃんを助けて、\nミロクをやっつけちゃえば。\n塔の頂上でラビリスタさんの計画を実行できるかもだね！"
+    },
+    {
+      "name": "Miroc",
+      "text": "-Unfortunately, that is not an option.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "──残念ながら。\nそういうわけにもいかないのです。"
+    },
+    {
+      "name": "Rei",
+      "text": "Miroku...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ミロク……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "Good day, everyone. \nHowever, hmm...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "ごきげんよう、\nみなさま。\nですが、\nふむ……"
+    },
+    {
+      "name": "Miroc",
+      "text": "Are the princesses taking separate actions in the town?\nPersonally, I wouldn't have minded having another conversation with Miss Kiruya Momochi. \n",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "王女さま方は街で別行動ですか。\n私としては、\n百地希留耶さんと再び\nご歓談させていただくのもやぶさかではなかったのですが。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Your opponent is here,\nwe alone are sufficient...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "そちらのお相手は、\nわたくしたちだけで十分でございます……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "Oh my, please don't be so hostile. Today is not a battle, but a meeting for hostage negotiations. Isn't that right?",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "おやおや、\nそのように敵意を向けないでいただきたいものです。\n今日は戦いなどではなく、\nあくまで交渉のための会合。\nそうではありませんか？"
+    },
+    {
+      "name": "Rei",
+      "text": "Well said...!\nEven though it was you who took the hostage...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "よく言う……！\n人質を取ったのは、\nそちらだというのに……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "Hehe. \nWell then... this is enough for greetings.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "フフ。\nでは……\nご挨拶はこの程度で。"
+    },
+    {
+      "name": "Giant God of the Last Flame",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "終炎の巨神",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...!\nThat's the monster that has captured Fio...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……！\nあれが、\nフィオちゃんを捕らえてる魔物……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "This request is as I mentioned earlier.\nSince you are here,\nI expect you to agree to the exchange...?",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "こちらの要求は先刻お伝えしたとおりです。\nこうしてお見えになられたということは、\n交換に応じていただけるものと期待しているのですが……？"
+    },
+    {
+      "name": "Rei",
+      "text": "...The Sol Orbs we collected, 12 in total.\nThey are all stored in this bag.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……我々が集めたソルオーブ、\n12個。\nすべて、\nこちらの袋に入れてある。"
+    },
+    {
+      "name": "Miroc",
+      "text": "Very well. Now, please place the bag at your feet.\nLet's both move half a circle clockwise and go to the place where we will exchange items.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "結構。\nでは、\n袋を足元に置いていただいて。\nお互い時計回りに半周し、\n交換の品の場所に移動いたしましょう。"
+    },
+    {
+      "name": "Miroc",
+      "text": "I won't let this monster make a move either. \nIt would be good to break the crystal and take out the guide fairy.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "私もこの魔物に、\n身動きをさせません。\n水晶を割って、\nガイド妖精を取り出すなりすると良いでしょう。"
+    },
+    {
+      "name": "Miroc",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...My Lord, please be careful.\nI can't see 'him' anywhere.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……主さま、\nお気を付けを。\n『あの方』のお姿が見えません。"
+    },
+    {
+      "name": "Giant God of the Last Flame",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "終炎の巨神",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rei",
+      "text": "This monster...\nIt really seems like it won't move. but...\nI can't let my guard down...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "この魔物……\nどうやら、\n本当に動かないようだ。\n油断はできないが……"
+    },
+    {
+      "name": "コッコロ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Fio...!\nI'll help you right now...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "フィオちゃんっ……！\n今、\n助けてあげるからね……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...!\nNo!\nThat is not Lady Ameth...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……！\n違います！\nそれは、\nアメスさまではありません……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "...Hmm.\nThis orb is...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "……ふむ。\nこのオーブは……"
+    },
+    {
+      "name": "Miroc",
+      "text": "──\"Praying Without Hands\".",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "──『無手にて祈りを』。"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wow!?!\nIt turned into a different monster!?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "わあぁっ！？\n違う魔物になっちゃった！？"
+    },
+    {
+      "name": "Rei",
+      "text": "Metamorphosis magic!?\nThis...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "変身魔法かっ！？\nこのっ……！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Miroc",
+      "text": "Just an illusion.\nIt's not magic as advanced as the Metamorph Regnant's.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "ただの幻影です。\n変貌大妃の権能ほど高等な魔法ではありません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miroku...!\nAs I thought, using such tactics...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ミロク……！\nやはり、\nこのような手管を……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "Oh, you're not blaming me, are you?\nAfter all, it's not just me who was planning something.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "おや、\n責められる云われはないでしょう？\nなにせ謀ろうとしていたのは、\n私だけではないのですから。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Oh no, am I already busted!?\nOperation Fake Sol Orb...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "わわっ、\nもうバレちゃってるの！？\nニセのソルオーブ大作戦っ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "It seems we both have our reasons for not trusting each other in this transaction...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "取り引き相手を信用しないのは、\nお互い様だったわけか……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "If it was just you, I might have let my guard down a little more. If the Seven Crowns were behind me, it wouldn't hurt to be overly cautious.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "貴方がただけならば、\nもう少し油断もしたかもしれませんが。\n模索路晶たち七冠が後ろについているならば\nいくら警戒してもし過ぎということはないでしょう。"
+    },
+    {
+      "name": "Miroc",
+      "text": "Honestly, it's a well-made replica. If my ability can't disarm it, then this isn't an illusion. If I hadn't gotten any information from Octo, I would've been fooled.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "まったく、\nよくできた模造品です。\n私の能力で解除できないとなると、\nこちらは幻影などではありませんね。\nオクトーさんから情報を得ていなければ、\n騙されているところでしたよ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Because the fake orb I got from Labyrista was exposed...\nWell then, the next plan is a direct assault!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ラビリスタさんにもらったニセオーブが見破られちゃったから……\nそれじゃあ次の作戦は、\n強行突破だぁーっ！"
+    },
+    {
+      "name": "Miroc",
+      "text": "It's wonderful that you're able to switch gears so quickly.\nHowever...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "切り替えが早いのは、\n素晴らしいことですね。\nしかし──"
+    },
+    {
+      "name": "Zane",
+      "text": "Gwoooooaaaahhhh!!!",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "グオオオオァアアアッッッ！！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Zane!?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ゼーンさんっ！？"
+    },
+    {
+      "name": "Rei",
+      "text": "As I thought, you were hiding!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "やはり、\n潜ませていたか！"
+    },
+    {
+      "name": "Zane",
+      "text": "Gaahh!!!",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "ガァッ！！！"
+    },
+    {
+      "name": "Rei",
+      "text": "Ugh!\nHe really is strong...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くっ！\nやはり、\n強い……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "If I remember correctly, I heard that you challenged him before with twice the number of people, and it was an even match. And now...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "確か。\n以前貴方がたは倍の人数で彼に挑み、\nそして互角だったそうですね。\nそれに今は……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "To think that even My Lord's power is nullified...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまのお力まで、\n無効化されてしまうとは……！"
+    },
+    {
+      "name": "Zane",
+      "text": "Gyaaaaah!!!",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "ジャアアアアッ！！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hyaaaah!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ひゃあああっ！"
+    },
+    {
+      "name": "Miroc",
+      "text": "Zane. You mustn't kill them yet. Since they didn't respond to negotiations, I have no choice but to dispose of the hostage. They have a duty to witness it.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "ゼーンさん。\nまだ、\n殺してはいけませんよ。\n交渉に応じていただけなかった以上、\n私は人質を処理しなくては\nなりません。\n彼らにも、\nそれを見届ける義務があります。"
+    },
+    {
+      "name": "Giant God of the Last Flame",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "終炎の巨神",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Hiyori",
+      "text": "F-Fio...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "フィ、\nフィオちゃんっ……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Ameth...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "アメスさまっ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "Is this the real thing...!?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "今度は本物か……！？"
+    },
+    {
+      "name": "Rei",
+      "text": "Damn it!\nDon't get in my way, Zane...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くそっ！\n邪魔をするな、\nゼーンっ……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "I'll take my time searching for Sol Orbs later. As for you, I hope you'll watch closely as your friend disappears as nourishment for the 'Great God'.",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "ソルオーブは後ほど、\nゆっくり探させていただくとして。\n貴方がたのお友だちが、\n『巨神』の養分として消えてなくなる瞬間を\nじっくりと見届けるとよろしいでしょう。"
+    },
+    {
+      "name": "終炎の巨神",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "終炎の巨神",
+      "orig_text": "……！"
+    },
+    {
+      "name": "？？？",
+      "text": "Geez...\nSuch actions are boring.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ったく──\nそーいうアクシュミ、\nつまんなー"
+    },
+    {
+      "name": "ミロク",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Nea",
+      "text": "Hmm, okay. If you're going to dodge it, then I guess you can't get mad at me for it. Even before, you were avoiding my slime, right?",
+      "choice_data_list": [],
+      "orig_name": "ネア",
+      "orig_text": "んー、\nおっけ。\n避けるってコトはー、\nやっぱ直のコーゲキはムコーカできないカンジかー\n前のときも、\nアタシの粘液避けてたしー？"
+    },
+    {
+      "name": "Miroc",
+      "text": "...Oh my, oh my.\nAre you the slime I recently met at the royal castle?\nIf you're here, then that means...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "……おやおや。\n先ごろ王城でお会いしたスライムの方ですか。\n貴方が来たということは──"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Y-Yeah...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……う、\nうん……！"
+    },
+    {
+      "name": "Giant God of the Last Flame",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "終炎の巨神",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Miroc",
+      "text": "This is...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "これは……"
+    },
+    {
+      "name": "Rei",
+      "text": "The vibrations caused by singing are shaking the crystal.\nAre they interfering with the \"Great God\"...?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "歌による振動が、\n結晶を振るわせて。\n『巨神』を妨害しているのか……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I see!\nThe singing voice itself isn't magical energy or anything...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そっか！\n歌声そのものは、\n魔力とかじゃないから……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "But it will only slow him down. We must save Lady Ameth from that crystal as soon as possible...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ですが、\n足止め以上にはなりません。\n一刻も早く、\nアメスさまをあの結晶の中からお救いしなくては……！"
+    },
+    {
+      "name": "Kariza",
+      "text": "Yo, Giza-deco bastard...!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "──よォ、\nギザデコ野郎……！"
+    },
+    {
+      "name": "Miroc",
+      "text": "The boy of \"Rage Legion\".\nBefore we came to blows, both you and the Princess Knight were supposed to be enemies...",
+      "choice_data_list": [],
+      "orig_name": "ミロク",
+      "orig_text": "【レイジ・レギオン】の少年。\n以前はプリンセスナイトも私も敵だと\n息巻いていたはずですが……"
+    },
+    {
+      "name": "Kariza",
+      "text": "Yeah.\nI'll definitely kill you...\nBut before that!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "あァ。\nテメーは必ずブチ殺すがなっ……\nその前にっ！"
+    },
+    {
+      "name": "Zane",
+      "text": "...Gh... Grrrrrrr...",
+      "choice_data_list": [],
+      "orig_name": "ゼーン",
+      "orig_text": "……グ……グルルル…………"
+    },
+    {
+      "name": "Kariza",
+      "text": "Let's start with you!\nZane!!",
+      "choice_data_list": [],
+      "orig_name": "カリザ",
+      "orig_text": "まずはテメーからだっ！　\nゼーンっ！！"
+    }
+  ]
+}

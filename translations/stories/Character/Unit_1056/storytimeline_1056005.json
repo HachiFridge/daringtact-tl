@@ -1,0 +1,510 @@
+{
+  "title": "Ruka Episode 5",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} finds Ruka surrounded by townsfolk,\na troubles expression on her face.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──{0}はある日の街中で、\nランドソルの住人たちに囲まれて困り顔なルカを見つけた。"
+    },
+    {
+      "name": "Ruka",
+      "text": "This isn't something I can sort out on my own...\nBut I'll ask around for someone with more expertise.\nHow does that sound?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "今回ばかりはアタシ一人じゃ難しいね……\n分かった。詳しそうなヤツを探してくるよ。\nそれでどうだい？"
+    },
+    {
+      "name": "Citizen",
+      "text": "There's no telling how long that'll take, right?\nThe royal knights aren't doing anything about it,\nso we kind of want this solved as quickly as possible.",
+      "choice_data_list": [],
+      "orig_name": "住人",
+      "orig_text": "それだといつになるか分からないだろう？\n騎士団がまともに取り合ってくれない以上、\n早めになんとかしたいんだ。"
+    },
+    {
+      "name": "Citizen's Daughter",
+      "text": "Hey, Ruka... Are you just gonna leave the ghost alone?",
+      "choice_data_list": [],
+      "orig_name": "住人の娘",
+      "orig_text": "ルカ姉ちゃん……\n幽霊、\n退治してくれないの……？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I never said that...\nThis sure got complicated.",
+      "choice_data_list": [
+        "What's up?"
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "そうじゃないけど……\n参ったね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Oh, hey there.\nWait. How could I forget about you?!\nYou've just saved the day!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ああ、お前さん。\n……そうか、\nお前さんがいたね！\nコイツは助かった！"
+    },
+    {
+      "name": "Citizen",
+      "text": "He a friend of yours?",
+      "choice_data_list": [],
+      "orig_name": "住人",
+      "orig_text": "その子はルカの知り合いか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "That he is. He's more reliable than he looks, too.\nI'm sure he can do something about that ghost.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "そうだよ。\nこう見えて意外と頼りになるんだ。\n幽霊だってきっとなんとかなるさ。"
+    },
+    {
+      "name": "Citizen",
+      "text": "Truth is, there've been rumors of a ghost showing up in the city's\ngraveyard. That's got everyone on edge, so... we'd really appreciate your help.",
+      "choice_data_list": [],
+      "orig_name": "住人",
+      "orig_text": "実は近頃、\n街の中の墓地に幽霊が出るって噂になっててね。\n街のみんなが不安がってる……\nキミにも世話になるな。"
+    },
+    {
+      "name": "Citizen's Daughter",
+      "text": "Please help us, Mister.",
+      "choice_data_list": [],
+      "orig_name": "住人の娘",
+      "orig_text": "お願いね、\nルカ姉ちゃん。\nお兄ちゃん。"
+    },
+    {
+      "name": "Ruka",
+      "text": "There you have it. I'll be relying on you as always.\nTonight, we go ghost hunting.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "てなわけだ。\n頼んだよ、\nお前さん。\n今宵は二人で、\n幽霊退治と洒落込むとしよう。"
+    },
+    {
+      "name": "Narration",
+      "text": "That night, Ruka and {0}\narrange to meet up before making their way to the graveyard.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その夜、{0}はルカと共に墓地へ向かうため\n途中の道で落ち合った。"
+    },
+    {
+      "name": "Ruka",
+      "text": "You sure took your time, didn't you?\nWhat were you even doing?\nI'd appreciate it if you didn't keep me waiting.",
+      "choice_data_list": [
+        "Was I that late?",
+        "Pretty sure I'm right on time."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん！　\n遅いじゃないか！\nどこで油売ってたんだい。\nあんまり待たせるんじゃないよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Well, uh, just a bit...\nBut it doesn't change the fact that I was waiting!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "いやまあ、\nほんのちょっとだけどね……\nそれでも待たされたことに変わりはないだろう？"
+    },
+    {
+      "name": "Ruka",
+      "text": "You're thirty seconds late, I'll have you know.\nNormally I'd be okay with it,\nbut I need you to be in top form tonight.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "30秒は遅れたよ。\nなんてことない日ならアタシも怒りゃしないさ。\nでも今日は気を引き締めてもらわないと困るんだ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Besides, it's dangerous at this time, regardless of the fact that\nwe're still in town. So yeah, just... Actually. Forget it.\nLet's get going.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "それに街中とはいえ夜は危ないんだ。\nとにかく……\nまあいいや。\nさっさと出発しよう。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Really though. Everyone's overreacting about this ghost nonsense.\nEven if there is one, it's no different from a monster in the end.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "しかし幽霊だなんて、\nみんな怖がりすぎだと思わないかい？\n出てきたってどうせ魔物と変わりゃしないよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Convincing yourself that there's something there is\nthe real issue, honestly. If you can't see it, then it's not there!\nThat's all there is to it.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "大体ね、\nいやしないものをいると思うからよくないんだ。\nいないものはいない！　\nそれで済む話さ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "But people go on about hearing or seeing stuff. It's crazy.\nMost of the time it's just the wind. That or a bug flying by.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "物音がしただの人影が見えただの、\nみんな慌て過ぎだね。\n大方、\n供え物が風で動いたか、\n近くに虫でもいたんだろうさ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "In other words, people just jumping to conclusion.\nYou agree, right?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "こういうもんは大体が勘違いなのさ。\nお前さんもそう思わないかい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I get that kids can be scared, but full-grown adults?\nThat's just tragic.",
+      "choice_data_list": [
+        "What's gotten into you?"
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "小さな子どもならともかく、\n大の大人がビビるなんて、\nホント情けないったらありゃしないよ……"
+    },
+    {
+      "name": "Ruka",
+      "text": "N-nothing. What makes you ask?\nI'm acting the same as I always do.\nJust good old Ruka. Hahaha...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "な、\n何にもないよ……\nどうしてそんなことを聞くんだい？\nアタシはいつもと変わらないよ。\nいつも通りさ。\nははは……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Oh. The graveyard's just up ahead.\nYou take the lead from here on.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "おっと、\nそろそろ墓地か……\nお前さん、\nここからは先に行っておくれ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Me? I'll be right behind you, keeping you safe.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アタシはほら、\nお前さんの背中を守るからさ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "What's wrong? You don't need me to push you forward, do you?\nCome on, don't worry. I'm right here with you.\nSo go ahead. Get going!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "どうしたのさ？　\nまさか背中を押さないと歩けないのかい？\n心配しなくてもアタシがついてるじゃないか。\nほら、行った行った！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Everything seems okay for now... Thank goodness for that.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……今のところは異常ないみたいだね。\n良かった……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey! W-wait up a second!\nDon't go speeding off like that!\nLet's take it a bit slower, okay?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "あっ！　ちょっ、待ちなお前さん！\nいきなり早く行くやつがあるか！　\nもう少しゆっくり頼むよ……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "I mean, uh... It'll be hard to keep you safe otherwise, right?\nThings could go south quickly if we're not in perfect sync.\nYeah, that's it.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "じゃないとあれだよほら……\nお前さんの背中を守れないだろ？\n息を合わせていかないと、\n何かあった時二人とも困る羽目になるよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "All right, let's get going...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "それじゃあ、\n行こうか……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Come on out, ghost. I'll take you down in one strike!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……さあ出てきやがれ、\nアタシが叩き斬ってやる……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Where are you?\nQuit hiding... Show yourself already!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "どこだ……？　\nどこにいやがる……\n出てきやがれ……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "*pant* *pant*  *pant*",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "はぁ、\nはぁ……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Don't worry. It's fine.\nI'm not... I'm not scared!",
+      "choice_data_list": [
+        "You didn't want to come here, did you?"
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "大丈夫、\n大丈夫……\n怖く\nない……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "O-oh please! What do you take me for?\nYou don't actually think I'm scared, do you?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ま、まさかぁ！　\nそんなわけないだろ！\nまさかお前さん、アタシが怖がってるとでも思ってるのかい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Don't be silly. Sure, it's a paranormal phenomenon.\nBut that fact alone isn't going to scare me. Haha. Hahaha...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "馬鹿馬鹿しい。\n得体が知れないからって、\nむやみに怖がったりするわけないだろう？　\nはは、ははは……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Fine, I give in. I can't hold up this act much longer.\nYou want the truth, right? Then I'll tell you.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "参った。\n降参だ。\nもう隠しきれないみたいだね……\n分かった。\n本当のことを話すよ……"
+    },
+    {
+      "name": "Ruka",
+      "text": "You were right on the mark. I really,\nreally don't want to be here. I'm no good with ghosts.\nJust the idea has me terrified.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さんの言った通り……\n本当はこんな所、\n来たくなかったよ。\n幽霊なんてもんは苦手なんだ。\nさっきから怖くてしょうがない。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I'd have run off already if you weren't with me...\nIt's pathetic, I know, but I just can't help it.",
+      "choice_data_list": [
+        "Take her hand.",
+        "Hug her."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "お前さんがそばにいてくれないと、\n逃げ出したくなっちまう……\n我ながら情けないけど、\nこればっかりはどうしようもなくてね……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Is this your way of cheering me up?\nThanks. I appreciate it.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なんだい、\n励ましてくれるのかい？\n……ありがとな、\nお前さん。"
+    },
+    {
+      "name": "Ruka",
+      "text": "W-whoa there! Talk about reversing the roles.\n...I'll be honest, though. This isn't a bad feeling.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お、お前さん！？　\nこ、これじゃあいつもと逆じゃないか。\n……\nでも\nこれはこれで、\nいいもんだね……"
+    },
+    {
+      "name": "Ruka",
+      "text": "This whole situation doesn't scare you one bit though, huh?\nMeanwhile I'm here shivering away...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "にしてもお前さん、\nちっとも動じてないんだね。\nそれに比べてアタシは……"
+    },
+    {
+      "name": "Ruka",
+      "text": "It'd be a shame to let it end like this.\nJust watch. The second that ghost turns up, I'll—",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "こんな情けないままじゃ終われないね。\nまあ見てな、\n幽霊が出てきて──"
+    },
+    {
+      "name": "???",
+      "text": "...one's...ere...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……れか……ぞ……"
+    },
+    {
+      "name": "???",
+      "text": "...ood...usted...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……いな……いぜ……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Did you hear that?\nThat was definitely a voice, wasn't it?\nDon't tell me... the ghost actually appeared?!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "聞こえたか、\n今の……\n人の声？　\nまさか、\n本当に幽霊が……！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "C-calm down, Ruka. \nDon't jump to conclusions before we determine the source.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お、落ち着けアタシ……\nとにかく確かめに行こう。"
+    },
+    {
+      "name": "Ruka",
+      "text": "It came from... over there, right?\nLet's take the initiative!\nI'll scare it first!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "声がしたのは、\nあっちからだったね……\nここまで来たら先手必勝だ！　\nこっちから驚かせてやる！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, ghost!\nLet's get a look at that ugly face of yours!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やいやいやい！　\n出てきやがれっ！"
+    },
+    {
+      "name": "Man 1",
+      "text": "Shut the hell up!\nWho're you clowns supposed to be?!",
+      "choice_data_list": [],
+      "orig_name": "男１",
+      "orig_text": "うるせぇ！　\nなにモンだお前ら！"
+    },
+    {
+      "name": "Man 2",
+      "text": "They're armed, too.\nHow'd you find out about us?!",
+      "choice_data_list": [],
+      "orig_name": "男２",
+      "orig_text": "武装してやがる……\nどこで嗅ぎつけてきやがった！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Huh? Wait, so we're just dealing with regular people here?\nNo ghosts in sight?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ほっ……\nなぁんだ、\nただの人間かい……\n幽霊じゃなかったのか……"
+    },
+    {
+      "name": "Man 1",
+      "text": "Yeah. Ain't no ghosts here.\nBut you can bet your ass that you're about to become one!\nWe ain't handing this over, no matter what!",
+      "choice_data_list": [],
+      "orig_name": "男１",
+      "orig_text": "……ああ、\n幽霊なんかじゃねぇよ。\n幽霊になるのはアンタらのほうさ！\n死んでもこれは渡さねぇぞ！　\nオレらのモンだ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "What? Hmm...\nI assume you're talking that jewel you've got there?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "は？　\nこれって、\nアンタたちが持ってる宝石なんかのことかい？"
+    },
+    {
+      "name": "Man 2",
+      "text": "Quit the act! It's obvious one of our rivals sent you here!\nThis is where we deal in stolen goods.\nYou wouldn't come here if you didn't know that!",
+      "choice_data_list": [],
+      "orig_name": "男２",
+      "orig_text": "とぼけんな！　\nどうせ商売敵の差し金だろうが！\nここが盗んだブツの取引場所だって分かって来たんだろうが！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Stolen goods?\nThat better not mean what I think it means!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "盗んだ……？　\nアンタたち、\nまさか……！"
+    },
+    {
+      "name": "Man 1",
+      "text": "Sure does, lady!\nToo bad, though. We were sure people would stay away\nfrom here if we spread those rumors about a ghost sighting!",
+      "choice_data_list": [],
+      "orig_name": "男１",
+      "orig_text": "そのまさかだよ！\n幽霊の噂でも流せば、\n人が寄り付かなくなると思ったんだがな……！"
+    },
+    {
+      "name": "Man 2",
+      "text": "You seem pretty clueless, but who cares!\nFact of the matter is you found us,\nso we've got some cleanup duty to do!",
+      "choice_data_list": [],
+      "orig_name": "男２",
+      "orig_text": "その様子じゃ知らなかったのか……？　\nでももう関係ねぇ！\n今知っちまったんだからよぉ！　\nテメェらは絶対に生きて帰さねぇ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Sheesh. Talk about a disappointing punchline.\nI might have preferred dealing with a ghost over these crooks.\nOh well, though. We can't just ignore them now.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やれやれ……\n人間は人間でも、\n悪人とはね。\nなんてオチだい。\n……でもま、\n見ちまった以上は、やるしかないか。"
+    },
+    {
+      "name": "Thief 1",
+      "text": "Right back atcha!\nThe both of you are goin' down!",
+      "choice_data_list": [],
+      "orig_name": "盗人１",
+      "orig_text": "そりゃこっちのセリフだ！　\n一気に二人とも片付けてやる！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Sorry, but that's not happening. No need for me to hold back\nwhen I know I'm dealing with common crooks.\nI'll end this quick! Third Strike: Twilight Sky! ",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "それこそこっちのセリフさ。\n相手が人間なら遠慮はしないよ！\n全員叩っ斬ってやる！　\n三の太刀、\n夕凪っ！　"
+    },
+    {
+      "name": "Thief 2",
+      "text": "Aaaaaaghhh!",
+      "choice_data_list": [],
+      "orig_name": "盗人２",
+      "orig_text": "ぎゃああああっ！"
+    },
+    {
+      "name": "Thief 1",
+      "text": "Gyeeearghh!",
+      "choice_data_list": [],
+      "orig_name": "盗人１",
+      "orig_text": "どわあああああっ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "Having taken both men down in one strike,\nRuka and {0} hand them over to the authorities.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "見事に一撃で男たちを斬り伏せたルカは、\n{0}と二人で男たちを騎士団へと突き出した。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Thanks for the help, as always.\nGood to know we got that all sorted out.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お疲れ様、\nお前さん。\nこれにて一件落着だね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Also, uh... About what happened back there.\nMe being afraid of ghosts and all that.\nWould you mind keeping that just between the two of us?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "それで……\n墓地でのことなんだけど。\n幽霊が苦手だってのは、\n秘密にしといちゃくれないか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Things would get very... complicated if Mitsuki and co. found out.\nSo yeah. Please.",
+      "choice_data_list": [
+        "Now that's a tough one...",
+        "Say it in a cuter tone and I'll think about it."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "それこそミツキたちにでも知られたら、\nとんでもないことになっちまう。\nな、いいだろ？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey now... No need to be such a bully.\nI'd really, really appreciate it.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん……\nそんな意地悪言わないでおくれよ。\n本気で頼んでも、\nダメなのかい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "A-a cuter tone? I'd rather not...\nCome on. I'm not asking for much here.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "か、かわいく？　\nそいつはちょっと……\n黙っとくくらいいいじゃないか。\nな？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Please? I'm begging you...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お願いだよ、\nお前さん……"
+    },
+    {
+      "name": "Narration",
+      "text": "Feeling some satisfaction over having learned about a hidden side\nto the usually cool and confident Ruka, {0}\nagreed to keep her secret between the two of them.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "珍しくしおらしいルカの思わぬ弱点を知れた{0}は、\n不思議と少し嬉しさを感じながら、秘密にすると約束した。"
+    }
+  ]
+}

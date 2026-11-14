@@ -1,0 +1,575 @@
+{
+  "atlas_name": "AtlasAbyssBossSkip",
+  "sprites": [
+    {
+      "name": "abyss_bg_blur_1",
+      "x": 312,
+      "y": 768,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_bg_blur_2",
+      "x": 0,
+      "y": 548,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_bg_blur_3",
+      "x": 570,
+      "y": 768,
+      "width": 256,
+      "height": 256,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_boss_skip_counter",
+      "x": 828,
+      "y": 855,
+      "width": 49,
+      "height": 49,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_boss_skip_white",
+      "x": 828,
+      "y": 906,
+      "width": 128,
+      "height": 118,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        10,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_0",
+      "x": 625,
+      "y": 705,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_1",
+      "x": 874,
+      "y": 789,
+      "width": 37,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_2",
+      "x": 958,
+      "y": 901,
+      "width": 48,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_3",
+      "x": 591,
+      "y": 642,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_4",
+      "x": 430,
+      "y": 642,
+      "width": 53,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_5",
+      "x": 678,
+      "y": 706,
+      "width": 49,
+      "height": 60,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_6",
+      "x": 538,
+      "y": 642,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_7",
+      "x": 958,
+      "y": 964,
+      "width": 48,
+      "height": 60,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_8",
+      "x": 485,
+      "y": 642,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_count_9",
+      "x": 644,
+      "y": 642,
+      "width": 51,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_crush_text",
+      "x": 430,
+      "y": 705,
+      "width": 193,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_backFog",
+      "x": 0,
+      "y": 461,
+      "width": 415,
+      "height": 85,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_backLight",
+      "x": 258,
+      "y": 596,
+      "width": 170,
+      "height": 170,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "name": "abyss_skip_count",
+      "x": 417,
+      "y": 543,
+      "width": 256,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_0",
+      "x": 828,
+      "y": 801,
+      "width": 44,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_1",
+      "x": 913,
+      "y": 740,
+      "width": 33,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_2",
+      "x": 774,
+      "y": 714,
+      "width": 42,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_3",
+      "x": 729,
+      "y": 714,
+      "width": 43,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_4",
+      "x": 879,
+      "y": 852,
+      "width": 45,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_5",
+      "x": 913,
+      "y": 794,
+      "width": 42,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_6",
+      "x": 828,
+      "y": 747,
+      "width": 43,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_7",
+      "x": 957,
+      "y": 794,
+      "width": 42,
+      "height": 51,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_8",
+      "x": 926,
+      "y": 847,
+      "width": 44,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_count_9",
+      "x": 972,
+      "y": 847,
+      "width": 43,
+      "height": 52,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "abyss_skip_flash",
+      "x": 0,
+      "y": 806,
+      "width": 310,
+      "height": 218,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

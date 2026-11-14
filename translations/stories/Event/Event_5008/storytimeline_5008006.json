@@ -1,0 +1,701 @@
+{
+  "title": "A Superweapon Awakens",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Their hearts burning with the spirit of righteous vengeance,\nthe Twilight Caravan members make their way to the Canyon Cavern.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "怒りに燃えるルカたちは、渓谷の洞窟へと押し寄せた――"
+    },
+    {
+      "name": "Foreman",
+      "text": "Huh...?! It's them!\nHey! The mage girl and her wimpy meat shield are back!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "あ……！？　\nあいつらだ！\nおい！　\n魔法使いの女とひょろっちい優男が来たぞー！！"
+    },
+    {
+      "name": "Eriko",
+      "text": "\\\"Wimpy meat shield\\\"?\nI will not stand for such flagrant disrespect for my love...!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ひょろっちい優男？\n{0}様に対して\nそのような下劣な言葉を吐くとは……！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "So they're the ones who hurt Anna and {0}?!\nYou're in for a world of hurt, maggots!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あいつらがアンナたそと{0}君を……！\nぜったいにゆるさんぞ虫ケラどもー！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Eriko, Nanaka, try to restrain yourselves a little longer.\nWe should get all these lowlifes out of the cavern first.\nWhere's the fun in crushing only a few of them?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "エリコちゃん、ナナカちゃん、もう少しだけ堪えて？\n愚物には全員、洞窟から出てきてもらわないと。\nでないと、蹂躙のしがいがないわ。"
+    },
+    {
+      "name": "Wanted Criminal",
+      "text": "These are the ones we get a bonus for defeating?\nOoh, I think I see the Living Storm! This'll be fun!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "倒したら特別ボーナスの対象ってのはあいつらか？\nほぉぉ、\n歩く竜巻もいるじゃねえか、面白え。"
+    },
+    {
+      "name": "Villain",
+      "text": "Heheheh... Time to make a quick buck!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "けっけっけ、\n稼がせてもらうぜぇ～！"
+    },
+    {
+      "name": "Foreman",
+      "text": "Deserters! You've got some nerve crawling back here!\nDid you see the error of your ways and return to grovel in apology?",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "貴様らぁ！　\nのこのこ戻ってくるとはどういう了見だ！？\n罪の大きさに恐れをなして謝罪にでも来たつもりかー？"
+    },
+    {
+      "name": "Foreman",
+      "text": "Hmph! Your crimes warrant the harshest of punishments!\nHowever, we're no heartless villains.",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "ふんっ！　\n本来なら貴様らの罪は万死に値する！\nだが\n俺たちも悪党じゃないっ。"
+    },
+    {
+      "name": "Foreman",
+      "text": "If you all swear to repent and make amends\nby working harder than ever before,\nwe're willing to let you live!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "そこにいるおまえたちの仲間全員で罪を償い\n採掘作業に汗水を垂らすというならば、\n手討ちは勘弁してやってもいいぞー！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Spare us your lies, fiend!\nYou will pay for your atrocities at the hands of Hecate of the Gale!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "見え透いた嘘をつくな外道！\n非道の限りを尽くす貴様らに、\nこの疾風の冥姫が裁きを下してやる！"
+    },
+    {
+      "name": "Foreman",
+      "text": "What did you say...?!\nBig words for a brat, but you'll live to regret 'em!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "なんだとぉおお……！？\nいい度胸じゃねえか、\n吠え面かかせてやらぁ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Well, well. The weakest dogs do bark loudest.\nYou're so busy yipping, you don't see your own demise approaching.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "おうおう、\n弱い犬ほど良く吠えやがる。\n吠えるのに忙しくて、\n今が人生の黄昏時だって分からないんだね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I'll only say this once, so listen well! With this blade I hold,\nI'll see that none of you villains see the light of day again!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……その耳かっぽじってよぉく聞きな！\nアンタたち全員、\n二度とお天道様が拝めないように叩き斬ってやる！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Anna! Eriko! Mitsuki! Nanaka!\nMove out! Give these crooks hell!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンナ！　\nエリコ！　\nミツキ！　\nナナカ！\n行くよ！　\n思う存分暴れてやりな！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Teehee... Tell me, why are you trying to retreat?\nRunning from your fate will only prolong your hellish suffering.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "クスクス……\nみなさん、\nなぜ遠ざかっていきますの？\n逃げれば逃げるほど、\n地獄の苦しみが長く続くだけですのに。"
+    },
+    {
+      "name": "Eriko",
+      "text": "Could it be that you are trying to assist me\nby working to maximize your own agony?",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "もしや、\nできる限り苦しんで果てたいという、\n虫ケラなりの配慮ということでしょうか？"
+    },
+    {
+      "name": "Eriko",
+      "text": "As if such kindness could begin to make up for what you've done.\nDisgusting maggots. Die, die, die, die, die, die, die...!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "そんなことで、{0}様を\n傷モノにした罪が償えるとでも……？\nクズ虫どもめ、\n消えろ消えろ消えろ消えろ消えろ消えろ消えろ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Eriko, dear. Can you try to leave a few scraps of flesh behind?\nI need them for my experiments.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "エリコちゃん、\nお願いだから肉片程度は残しておいてくれないかしら。\nでないと実験に使えないわ。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Yahaaaah! Let's take out the trash!\nOra ora ora ora ora oraaaaaaa!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ヒャッハー！　\n汚物は消毒だー！！\nおらおらおらおらおらおらぁああああ！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "You may have the honor of being extinguished by my\nUltimate Magick of Infinite Annihilation!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "貴様らには特別に、\n我が最上究極殲滅魔法に討ち果たされる栄誉を授けよう！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Reflect upon your sins as the flames of purgatory consume you!\nHaaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "罪の心を胸に抱え、\n煉獄の果てを彷徨うがいい！\nうおおおおお！！"
+    },
+    {
+      "name": "Wanted Criminal",
+      "text": "Guahh! D-dammit, what are these people?!\nThey're too strong!",
+      "choice_data_list": [],
+      "orig_name": "賞金首",
+      "orig_text": "ぐわっ！　く、くそっ、\nなんなんだこいつら！\n強すぎる！！"
+    },
+    {
+      "name": "Villain",
+      "text": "W-w-we're no match for them! Guaaaaghhh!",
+      "choice_data_list": [],
+      "orig_name": "悪党",
+      "orig_text": "かか、\n敵いっこねえ！！　\nうわぁあああ！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Now now, you guys. I appreciate the enthusiasm,\nbut leave some for me, won't you?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタたちねぇ。\n張り切るのは構わないけど、\nアタシの分も取っといておくれよ？"
+    },
+    {
+      "name": "Noble",
+      "text": "My, what a ruckus. What are you all playing at out here?",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "騒がしいねぇ……\nなぁ～にをやっているんだい、\nキミたち？"
+    },
+    {
+      "name": "Foreman",
+      "text": "M-my liege!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "き、貴族さま！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "There you are, snake!\nGuys! That man's their leader!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "現れたな外道！\nみんなっ、\nやつが親玉だ！！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ah! From the merchant's store...\nI knew it. He [i]was[/i] the one who attacked me!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "あっ！　\n雑貨屋にいた……！\nそうか、\n私が襲われたのもやっぱりあいつの仕業か～！"
+    },
+    {
+      "name": "Noble",
+      "text": "Show some respect, commoners.\nYou are standing before this world's new king.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "頭が高いぞ貴様ら。\n新世界の王を前に無礼であろう。"
+    },
+    {
+      "name": "Eriko",
+      "text": "King? This worm is more entertaining than the others.\nAll the better for stomping on.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "王？　\n面白そうなクズ虫ですわね……\n壊しがいがありますわ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hmph. Your fancy machinations end here! Give it up!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ふんっ、\n偉そうな態度もこれで終焉だ！　\n観念しろ！！"
+    },
+    {
+      "name": "Noble",
+      "text": "My friends, I'm sure I instructed you to eliminate the deserters.\nWhy do they still seem to be alive?",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "キミたち。\n私は脱走者を討伐してこいと伝えたはずなんだが、\nこれはどういうことなんだい？"
+    },
+    {
+      "name": "Foreman",
+      "text": "I'm sorry... Their strength's just out of this world!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "すみません、\nあいつら滅茶苦茶な強さで……！！"
+    },
+    {
+      "name": "Noble",
+      "text": "\\\"Out of this world,\\\" hmm? Then I suppose you must not be\nfamiliar with the kind of strength this world holds.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "滅茶苦茶な強さ……\nねぇ。\nならキミたちは、\nまだ本当の滅茶苦茶な強さというものを知らないのだろうね。"
+    },
+    {
+      "name": "Noble",
+      "text": "Worry not, however! As king of the new world,\nI will grant you a glimpse of what real power looks like!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "だが安心したまえ。\n新世界の王となる私が、\nキミたちに特別にそれを教えてあげようではないか！"
+    },
+    {
+      "name": "Noble",
+      "text": "'Tis only right that I fulfill my duty as a noble. Hahahah!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "これこそが\nノブレス・オブリージュというもの……\nくっくっくっ！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Wh-what a creepo!\nI know his type. This guy's rotten to the core!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "き、\nキメえッー！\n間違いない、\nこいつは生まれついての悪だッ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Ruka. Judging from his attitude,\nhe likely still has some trick up his sleeve.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ルカ。\nあの余裕……\nなにか隠し持ってるわよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "So it would seem.\nFor the moment, let's watch and see what he's planning.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "そうみたいだね。\nとりあえず\nお手並み拝見といこうじゃないか。"
+    },
+    {
+      "name": "Noble",
+      "text": "Have you heard of the creatures known as Starbeasts?\nMonstrous beings that dominated this continent in a bygone age?",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "キミたちは、\n魔星獣というものを知っているかね？\n遥か古代にこのアストライア大陸を蹂躙した、\n忌むべき魔物さ。"
+    },
+    {
+      "name": "Noble",
+      "text": "Their power far exceeded that of humanity,\nand many warriors fell powerless before their might.\nHowever, humans are tenacious beings.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "人の力では魔星獣に対抗することができず、\n多くの者たちが\nその魔物の手にかかった……\nしかし、\n人々は諦めなかった。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "What's this? The ground is shaking...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "なんだ？　\nこの地響き……"
+    },
+    {
+      "name": "Noble",
+      "text": "Over many months and years, humans constructed a certain weapon\nto slay the Starbeasts! It's an old fairy tale, you see.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "長い年月を掛けて、\n人々はとある兵器の開発に成功し、\n魔星獣を打倒した……\n古いお伽話さ。"
+    },
+    {
+      "name": "Noble",
+      "text": "However! This tale has roots in reality!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "しかぁし……！　\nお伽話は幻想にあらず！"
+    },
+    {
+      "name": "Noble",
+      "text": "After years of slumber, that weapon has been reawakened! By me!\nJust now, I finished deciphering the ancient tomes!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "長き沈黙の時を経て、\nその兵器を手に入れたんだよ！　\n私は！！\n今しがた、\n古文書の解読に成功してね！！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Gueeeehhhh?! Wh-what [i]is[/i] that thing?!\nI think... it's alive!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ぎょぇええええ！？　\nな、なんじゃこりゃー！！？？\nこいつ、\n動くぞ……！"
+    },
+    {
+      "name": "Noble",
+      "text": "Behold! A beauty, isn't it?!\nAnd with me as its registered master,\nit will move exactly as I command!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "どうだい！　\n壮観だろう！？\nこれは私を主として認証し\n私の命令のみを聞く忠実なしもべさ！"
+    },
+    {
+      "name": "Noble",
+      "text": "After I've eliminated you, we'll pay a visit to Landosol.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "キミたちを滅した後は、\nその足でランドソルへ赴くとしよう……"
+    },
+    {
+      "name": "Noble",
+      "text": "When I defeat the royals, the people will demand a new ruler!\nCommoners can only live under a higher power's protection!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "現王政を討ち果たせば、\n人々は新たな支配者を求めるものだ！\n愚民とは、\nそういう風にできているものだからね！"
+    },
+    {
+      "name": "Noble",
+      "text": "And their glorious new sovereign will be me!\nA new nation, one that exists for my sake alone, will be born!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "新たな支配者とはすなわち、\nこの私ぃいいい！！\nそこで私の、\n私による、\n私のための国が\n誕\n生\nするっ！！"
+    },
+    {
+      "name": "Noble",
+      "text": "And thus, from that moment,\nthe curtains will rise upon a magnificent new world!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "そして！　\nその瞬間からっ！！\n新世界の輝かしい歴史が\n始まるのだぁああー！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Urghhhh!\nDid you see that blast?! One clean hit and we'd be mincemeat!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "くぅうう……！？\nなんて衝撃だ、\nまともに食らったらひとたまりもないぞ！！"
+    },
+    {
+      "name": "Foreman",
+      "text": "M-m-my liege?! Your faithful servants are still here!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "ききっ、\n貴族さま！？　\n俺たちがまだここにっ！！"
+    },
+    {
+      "name": "Noble",
+      "text": "And? What use are pawns that cannot fulfill orders?!\nYou can be target practice for my first test drive! Hahahahah!",
+      "choice_data_list": [
+        "Come over here, guys!",
+        "We should run, guys!"
+      ],
+      "orig_name": "貴族",
+      "orig_text": "あー？　\n命令を遂行できんカスに用などないわ！\nここで\n試運転の実験台になるがいい！！　\nはーっはっはっは！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd?! Ah... I see!\nYou wish to lend us your power! How marvelous!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド！？\nあ……\nそうか、\n私たちを強化してくれるんだな！　\nありがたい！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Get hype! The OP buffmeister is in da house!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "キタキター！　\n{0}君の強化のターン！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "No, my Zweiritter, we must stand our ground!\nI will protect you, no matter the cost! So let us fight together as one!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "いや第二連隊長、\nここは踏みとどまる時だ！\n貴様のことは命にかえても私が守る！\nだから\n共に戦おうではないか！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "That's right! You should power us up!\nA buff or two from your ability, and we'll be OHKOing this loser!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そうだ！　\n私たちを強化して！\n{0}君の力があればあんなやつ\nワンパンだよワンパン！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "A fine idea. Please do go ahead!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "名案ね。\nお願いするわ！"
+    },
+    {
+      "name": "Eriko",
+      "text": "How I've longed for this moment, my love!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "お待ちしておりましたわ、\n{0}様！"
+    },
+    {
+      "name": "Ruka",
+      "text": "You're always here right when we need you.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やっぱりここは、\n{0}の出番だね！"
+    },
+    {
+      "name": "Ruka",
+      "text": "With such a large enemy, there's no need to hold back.\nGive us all the power you can spare!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "このデカブツ相手だ……\n全力全開で頼むよ。\nアタシたちに力を貸しておくれ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Whoaaaa...! Thank you, Sigurd! I will not waste it!\nThe countdown to oblivion is upon us!\nEvil Eye, Open! Metamorphosis: Annihilation Forme!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "うぉおおお……！　\nシグルドの力、\n確かに受け取ったぞ！！\n今こそ終幕へ時の針を進めよう……！　\n魔瞳開眼！　\n変身・撃滅形態！！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Yeahhh! Go go go!\nCrush! Smash! Booty bash! Wahahahahah!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うおぉ進め進めー！\n粉砕！　\n玉砕！　\n大喝采！！　\nワハハハハー！！"
+    },
+    {
+      "name": "Noble",
+      "text": "Wh-what are you people?! You're coming this way?!\nDoes my colossal minion not terrify you?!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "な、\nなんだ貴様ら！　\n向かってくるだと……！？\nこいつが\n恐ろしくないとでもいうのか！？"
+    },
+    {
+      "name": "Eriko",
+      "text": "Oh, this precious idiot. So foolish it makes me sick...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "さすがは愚物ですわね。\n鈍感すぎて反吐が出ますわ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "As if it makes any difference how scary that monster might be.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "恐ろしいとか恐ろしくないとか、\nそういう以前の問題なのにね。"
+    },
+    {
+      "name": "Noble",
+      "text": "Shut uuuuup! Shut up, shut up, shut up!\nMy new weapon is unstoppable!\nYour ragtag band will be crushed to smithereens!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "うるさぁあああい！　\n煩いウルサイ五月蝿い！！\nこの巨大兵器は最強なんだ！\nおまえらなんかが\n敵うわけないんだあああー！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, Mr. Noble. As a little gift before you die,\nlet me give you a word of advice.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "おい貴族さま。\nせっかくだから、\n冥土の土産にひとつだけ教えといてやるよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "You should never have laid a dirty finger on our friend.\nIt's too late now to grovel and repent.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタたちは、\n手を出しちゃいけない人間に手を出しちまったのさ……\n地べたに頭ついて詫びても遅いよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Everyone! Let's give this wretch a little demonstration!\nShow him just how angry we all are right now!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタたち！　\nこのデカブツに教えてやろうじゃないか！\nアタシたちがどれだけはらわた煮えくり返ってるかをね！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Scoping out weak points isn't exactly our style, is it?\nLet's crush the enemy with sheer force!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "弱点探しなんてのは\nアタシたちのがらじゃないからね、\n最強の技でねじ伏せるよ！！"
+    },
+    {
+      "name": "Noble",
+      "text": "Bahahahah! You would attack my colossus without a plan?!\nNow! Crush these insolent rebels underfoot!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ぎゃははは！！　\n無策でこいつを倒せるわけがないだろう！？\nさあ、\n身の程知らずどもを踏み潰してしまえー！！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Oh? Was that supposed to be an attack?\nHow disappointing.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あら？　\nそれで攻撃しているつもり？\nぬるいわね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Let me show you what a [i]real[/i] attack looks like!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "攻撃っていうのはね、\nこうやってするのよ！！"
+    },
+    {
+      "name": "Noble",
+      "text": "Wh-whaaagghh?!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "なっ、\nなぁああっ！？"
+    },
+    {
+      "name": "Eriko",
+      "text": "Not bad work at all, Mitsuki.\nAll thanks to the power my love granted you, of course...",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "結構なお手前ですわ、\nミツキさん。\n全ては、あなた様のくださったお力のおかげ……"
+    },
+    {
+      "name": "Eriko",
+      "text": "And now, with his love coursing through my own veins,\nthere is nothing I can't destroy!\nHaaaahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "そして、\nあなた様の愛をその身に受けた私に、\n壊せないものなどありませんわ……！！\nはぁあああぁっああ……！！"
+    },
+    {
+      "name": "Noble",
+      "text": "Ng... Nguaaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ぬ、\nぬぁあああぁあ！？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "This one's... for {0}!\nHaiyaaaaaaaahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "そしてこれは、\n君のぶーん！！\nおぉりゃぁああぁあああああ！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Now, the time has come to restore my lost pride!\nAwaken, Lord of Hades to whom the dead bow!\nRain unending destruction upon those who would defy thee!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "さあ、\n先程の屈辱を晴らさせてもらうぞ！！\n目覚めよ、\n幽世を総べし冥界の主……！\n至高の破滅を彼の者らへ分け与えよ──！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Take this! Dragonic Demolition Burst!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "くらえっ！　\n滅竜爆炎業昇波ォォォッ！！"
+    },
+    {
+      "name": "Noble",
+      "text": "W-waaaaaghhhhh?!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "は、\nはひゃぁああああー！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "I think it's time we finished this.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……さあ、\nこれで終いだよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "After the pain you've inflicted, you have no right to dream.\nTo the flames of hell with you!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "人々を弄んだアンタらに、\n見る夢なんてねえのさ……\n迷わず地獄に落ちな！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Haaaaaaaaahhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "はあぁぁああぁあぁああああ！！！！"
+    },
+    {
+      "name": "Noble",
+      "text": "Yeeaarghh?! Uwaaaghhh... Aaaarghhhh?!\nM-m-m-my...  my ultimate weapooooon?!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ひぁあああー！？　\nはぁああっ、\nはわああぁああー！！？？\nぼぼぼ、\nボクの、\nボクの巨大兵器がぁあああっ！？"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Awww yissss! That's all, folks!\nThis is what we in the business call divine punishment!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "よっしゃぁあああっ！　\nジ、エンドぉおおおー！！\n人これを、\n天罰というっ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Now you see the truth! This is the power of Twilight Caravan!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "思い知ったか！　\nこれが我ら【トワイライトキャラバン】の力だ！！"
+    },
+    {
+      "name": "Eriko",
+      "text": "Ruka, you were quite wonderful.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ルカさん、お見事でしたわ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I agree. I got chills just watching you!\nBut I think there's someone else who deserves proper credit.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "同感ね、\n見ていてスカっとしたわ。\nそれにしても、\n君の力あってこその勝利だったわね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yes, he does.\nYou were a real stunner out there,\n{0}.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ああ、\nそうだな。\n惚れ惚れするぐらいだったぜ、\n{0}。"
+    },
+    {
+      "name": "Eriko",
+      "text": "I'm not sure I approve of that brazen compliment...\nBut just this once, I'll let it slide.",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "今のルカさんの言葉は聞き捨てなりませんが……\n今回だけは不問にいたしますわ。"
+    },
+    {
+      "name": "Eriko",
+      "text": "After all, as you say, it's all thanks to {0}\nthat we secured this victory! Thank you, my love!",
+      "choice_data_list": [],
+      "orig_name": "エリコ",
+      "orig_text": "ルカさんの言う通り、\n{0}様のお力で\n敵を打倒できましたわ。\nありがとうございます。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Yep yep, that's our {0} all right!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "うんうん、\nさすが{0}君だね！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'm always happy to vanquish evil with Sigurd by my side!\nThis victory is all of ours to share!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルドと一緒に悪を滅することができて、\n私はうれしいぞ！\nこれは\nみんなで掴んだ勝利だな！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Yes, that's right.\nEveryone, {0}, great work out there.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ああ、\nそうだね。\nみんな、\n{0}、\nおつかれさん。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I'm very proud of you all.\nThis concludes today's operation!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "よくやってくれたね。\nこれにて\n一件落着だよ！"
+    }
+  ]
+}

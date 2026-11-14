@@ -1,0 +1,565 @@
+{
+  "title": "Part 2 Ch. 7 Ep. 7",
+  "text_block_list": [
+    {
+      "name": "Soldier 1",
+      "text": "Bro! I'll have a tuna mayo corn crepe, please!",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "兄ちゃん！\nツナマヨコーンのクレープ頼むわ！"
+    },
+    {
+      "name": "Soldier 2",
+      "text": "I'll have the cheese and sausage one!",
+      "choice_data_list": [],
+      "orig_name": "兵士２",
+      "orig_text": "俺はチーズとソーセージのやつね！"
+    },
+    {
+      "name": "Narration",
+      "text": "Seeing a long line forming in the crepe shop in Labyrista's shop, {0} was helping out at the store as a temporary part-timer.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ラビリスタのクレープ屋に長蛇の列ができているのを見かけた\n{0}は、\n臨時バイトとして店を手伝っていた。"
+    },
+    {
+      "name": "Soldier 1",
+      "text": "Hey, hey. Is it okay to eat crepes while on duty?",
+      "choice_data_list": [],
+      "orig_name": "兵士１",
+      "orig_text": "なぁなぁ。\n勤務中にクレープ食べるなんて、\nいいのかなぁ？"
+    },
+    {
+      "name": "Soldier 2",
+      "text": "The boss says it's okay, so why not? It's the princess's treat!",
+      "choice_data_list": [],
+      "orig_name": "兵士２",
+      "orig_text": "団長が良いって言うんだから、\nいいんじゃないか？\n姫さんのオゴリだしな！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Man, thanks for the help, young man! The Royal Knights of [Nightmare] suddenly ordered a lot of stuff. Thank you so much! ♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いやー、\n手伝ってくれてありがとね少年！\n【王宮騎士団（NIGHTMARE）】から\n急にたーっくさん注文が入っちゃってさ。\n助かったー♪"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ah, yeah. The two of them are on a top-secret mission... They're selling crepes all over the world!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あーうん。\n二人はちょっと、\n極秘の任務を……\nっといやいや、\n世界各地にクレープを売り歩いていてね？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I have to go see the two of them after I finish my business here. After I finish upgrading the traps in your guildhouse and the palace.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "アタシもこっちの用事が終わったら、\n二人のところに行かなくっちゃ。\nキミたちのギルドハウスや、\n王宮のトラップのバージョンアップが終わったらね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You're welcome♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "どういたしまして♪"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Your guildhouse and the area around it. They don't look any different from usual, but their defenses are on par with a bit of a fortress. So much so that even the [Rage Legion] can't lay a finger on them easily.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "キミたちのギルドハウスとその周辺。\n見かけはいつもと\n変わらないけれど、\nちょっとした要塞並みの防御力になってるよ。\n【レイジ・レギオン】だって、\n簡単には手出しできないくらいにね。"
+    },
+    {
+      "name": "A Girl",
+      "text": "Excuse me, can I have a strawberry and banana crepe?",
+      "choice_data_list": [],
+      "orig_name": "少女",
+      "orig_text": "すみませーん、\nイチゴとバナナのクレープ\nひとつくださーい♪"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Oops, Oh. Shouldn't you head back to the guildhouse soon? I'm sure Kokkoro and the others are waiting for you.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……おっと。\n少年、\nそろそろギルドハウスに戻ったほうがいいんじゃない？\nコッコロちゃんたちも待ってるだろうし。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I can handle the rest on my own. I'll come visit you later.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "後はアタシ一人でも十分だからさ。\nあとでまた、\nそっちに遊びに行くよ。"
+    },
+    {
+      "name": "A Girl",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "少女",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Okay, We should go somewhere else.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……\nそれじゃあ、\n場所を変えようか。"
+    },
+    {
+      "name": "A Girl",
+      "text": "...Yes. That would be for the best.",
+      "choice_data_list": [],
+      "orig_name": "少女",
+      "orig_text": "……ええ。\nそのほうがいいでしょう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Still... It's rare for you to come all the way here just to see me, isn't it? I wonder what business you have with me today, Neneka.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "にしても……\nわざわざアタシを訪ねてくるなんて、\n珍しいじゃん？\n今日は何の用事なのかな、\nネネカ。"
+    },
+    {
+      "name": "A Girl",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "少女",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Neneka",
+      "text": "It seems you've been away from Landosol for quite some time now. I've come to share information with you to update you on recent events.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "この頃、\n貴方はランドソルを留守にしていたようですから。\n近況報告も兼ねて、\n情報の共有を提案しに来たのです。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "A status report, sharing information! I didn't expect such a proposal from Neneka, the \"Secretive\"!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "近況報告に、\n情報の共有！\n秘密主義者のネネカから、\nそんな提案をされるとは思わなかったな～"
+    },
+    {
+      "name": "Neneka",
+      "text": "We're both secretive, aren't we? Not just us, but all of the Seven Crowns... Christina is the only exception.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "秘密主義はお互い様でしょう。\n私たちだけでなく、\n七冠は全員……\n例外は、\nクリスティーナくらいで。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ahaha, you're right. So? How's it going over there?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あはは、\n確かにね。\nそれで？　\nそっちの近況はどんな感じ？"
+    },
+    {
+      "name": "Neneka",
+      "text": "A little while ago, the [Rage Legion] attacked one of my hideouts. Of course, I gave them a light beating.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "少し前。\n私の隠れ家のひとつを、\n【レイジ・レギオン】が襲撃してきました。\nもちろん、\n軽くあしらってあげましたが。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Wow, that's amazing.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ヒュウ、\nさっすがぁ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "But... their attack isn't over yet. It's annoying to have our throats targeted all the time.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ですが……\n彼らの襲撃は、\nこれで終わりではないでしょう。\n喉首を狙われ続けるというのは、\n鬱陶しいものですね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You're right. It seems that they are trying to catch the boy in order to lure me out. They are really a bunch of troublemakers.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そうだねえ。\nどうも連中、\nアタシを釣り出すために\n少年を捕まえようとしたりしてるみたいだし。\nまったく、\n困ったやつらだよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "My power, my memories... They're almost back. It's about time we start thinking about not only defense, but eliminating them as well. As soon as we figure out the location of their their hideout, we should be able to do so.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "私の力も、\n記憶も……\nほぼ戻ってきたことですし。\nそろそろ防御策だけでなく、\n排除を考えるべきでしょう。\n連中の根城が判明すれば、\nすぐにでも。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Hmm. A hideout, huh? ...I've been going around the world pretending to be a crepe stall too, but...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "うーん。\n根城かぁ。\n……アタシもクレープの屋台巡業するフリをして、\n世界のあちこちを見てまわってるけど……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "It's hard to find their hideout or any clues about it. They can teleport, so they might be living in some weird place.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "彼らのアジトも\nその手がかりも、\nなかなか見つけられない。\n空間跳躍が使えるわけだし、\n変なところに居を構えてるのかも。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I'm making Masaki do everything in his power to help, but... For now, he's just wasting his time.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "こちらもマサキに、\nほうぼう手を尽くさせていますが……\n今のところ、\n無駄足ばかりさせてしまっていますね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...But, Akira, You probably are not just looking for [Rage Legion]'s hideout are you?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……ですが、\n晶。\n探しているのは……\n【レイジ・レギオン】のアジトだけではないでしょう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Isn't that the same for Neneka?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……それはネネカも同じでしょ？"
+    },
+    {
+      "name": "Neneka",
+      "text": "Minerva takes priority over the [Rage Legion]... and more than anything else. There's no way we can return to reality without her.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "【レイジ・レギオン】よりも……\n他の何よりも優先されるのは、\nミネルヴァ。\n彼女なくして、\n現実への帰還はありえませんから。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...That's right. I need her help to end my 'imprisonment'. I wonder where she went~",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……そうだね。\n『懲役』を終えるためには、\nあの子の力が必要だ。\nいったい、\nどこに行っちゃったのかな～"
+    },
+    {
+      "name": "Neneka",
+      "text": "A \"beta-type terminal\" was left in the arena to collect information, though. The final location of the information remains unknown. It has been confirmed that it is not in the tower of Sol...",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "闘技場には、\n情報収集用の『β型端末』が残されていましたが。\n情報の最終的な送信先は、\n不明なままです。\nソルの塔ではないことは\n確認されていますが……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "You dodged our pursuit as creators, and now you're missing us? You've really grown up, haven't you? I'm so happy as a parent♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "創造主であるアタシたちの追跡を躱して、\n行方をくらますなんて。\nすっごい成長ぶりだよねーホント。\n親として、\nなんだかうれしくなっちゃうな♪"
+    },
+    {
+      "name": "Neneka",
+      "text": "Honestly, you're so carefree. Even if things get worse, you still think you can return to reality... Is that how you feel?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "まったく、\n暢気なことを。\n事態が悪化しても、\n自分だけは現実へ戻れると……\nそういう余裕ですか？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "It's not like that. Even the last time I did it, I risked my life. I'm sure I'll fail this time and end up as electronic dust.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そんなんじゃないよ。\n前のときだってかなり命がけだったしね。\n今度はきっと失敗して、\n電子の藻屑になっちゃうよ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...For now, let's believe what you're saying. I calculated the means and possibilities for returning on my own, but... The success rate was low enough that I couldn't bring myself to test it.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……今は、\nその言い分を信じましょう。\n私も、\n自分だけでも戻れる手段と可能性を計算しましたが……\nその成功率は、\n試す気になれない程度の低いものでしたから。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Yeah. If we're going back to the real world, all the players in this world should be with us.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "うん。\n次に戻るなら、\nこの世界にいるプレイヤーも、\nみんな一緒にだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Seriously, why did it have to turn out like this? I made sure there was no way you couldn't easily log out, It was by design~.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "まったく、\nなんでこんなことになっちゃったんだか。\nそもそもログアウトができなくなるなんて事態、\n設計上は万が一でもありえないように作ったんだけどなぁ～"
+    },
+    {
+      "name": "Neneka",
+      "text": "That's right. At the time of development, your countermeasures seemed like they were going too far...",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "そうですね。\n開発当時は、\n貴方の対策はやり過ぎのようにすら思えましたが……"
+    },
+    {
+      "name": "Neneka",
+      "text": "In particular, The life support systems. Your move to reach out to the chemical and weapons companies from behind the scenes, without divulging the purpose of \"just in case of an emergency in game,\" is commendable.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "特に、\n生命維持装置ですね。\n「ゲームでの緊急事態が起きた場合のため」\nという目的を\n一切漏らさず、\n化学兵器や新型兵器対策として\n各国に裏から手を回した貴方の動きは、\n賞賛に値します。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The life-support system was just an insurance policy to \"keep a bucket of water in case of fireworks\". As far as I'm concerned. I would have preferred if they had not been needed.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "生命維持装置はあくまで、\n「花火のときにバケツに水をくんでおく」\n程度の保険だったんだけどね。\nアタシとしてはさ。\nそんなもの、\n使われないに越したことはないから。"
+    },
+    {
+      "name": "Neneka",
+      "text": "In the end, thanks to that bucket of water, countless players survived. ...I'm sure they will be grateful.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "結果的には、\nその「バケツの水」のおかげで\n無数のプレイヤーたちが一命を取り留めたわけですが。\n……きっと、\n感謝はしてくれないでしょうね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "That's right. We're being treated like great criminals over there. ...Though considering what's happened, it can't be helped.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そうだね。\nアタシたち、\n向こうじゃ立派な\n大罪人扱いだよ。\n……起きちゃった事態を考えれば、\n仕方のないことだけど。"
+    },
+    {
+      "name": "Neneka",
+      "text": "It's only natural that society would want to pursue accountability. There are more people in a coma than anyone else in any war.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……どんな戦争でも\n類を見ないほどの人間が、\n昏睡状態に陥っているわけですし。\n社会が責任を追及しようとするのは、\n当然のことですね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Well, if the real-life elites want to hold us responsible, that's fine. But before that, I have to end this imprisonment first.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ま、\n現実のおエライさんたちが\nアタシたちに責任を負わせたいなら、\nそれはそれでいいさ。\nでもその前に、\nまずは\nこの懲役を終わらせなくっちゃ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Knowing you... You must have tried to find a solution once you returned 'over there', didn't you? What did the elder say?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "貴方のことですから……\n一度『あちら』に戻った際に、\n解決方法を模索したのでしょう？\n長老はなんと？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Well, even if I can go back, it really was only for a short time.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いやー\n戻れたっていっても、\n本当に短い時間だったからね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The speed of time here and there is completely different from before. If you stayed there too long, you'd end up like Urashima Taro.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あっちとこっちの時間速度は、\n前の設定より全然変わっちゃってるから。\nあんまりあっちに長居しちゃうと、\n浦島太郎みたいになっちゃってたよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I wasted a lot of time trying to calm down the uproar over there. So there wasn't much I could do.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "向こうの騒ぎを鎮静化するための工作にも、\n時間を喰われちゃったし。\nだから、\nできることっていっても\nほとんどなかった。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "The elder was investigating, of course. But it seems that they can't observe us from the reality side - it's as if we're covered by a storm.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "長老のほうも、\nもちろん調査はしてくれてたんだけど。\n現実の側からじゃ、\nどうもこっちの観測ができないみたいなんだよね～\nまるで嵐に覆われてるみたいにさ。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...So you're saying you came back here without any preperation?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……では、\n何の用意もせずに\nまた『こちら』へ戻ってきたと？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I won't say that. But there's so much we have to do, even though we can't do anything over there.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そうは言わないけどね。\nでも、\n向こうでできることが無いわりに\nこっちでなんとかしなきゃいけないことが多すぎてさ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "For example......overcoming revisions from the world. Getting all the players to recognize 'reality'.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "たとえば……\n世界からの修正を乗り越えて。\nプレイヤーのみんなに、\n『現実』のことを認識してもらうこととかね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Let me ask you something. How much sense does such an action make? Wouldn't it just cause unnecessary confusion?",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……訊ねますが。\nそのような行為に、\nどれほどの意味があるというのですか。\n無用な混乱を引き起こすだけでは？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Certainly, I think there will be confusion. But to end this imprisonment, it is not just for the us nor just for the Princess Knight, but for all of us...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "確かに、\n混乱は起きると思う。\nでも、\nこの懲役を終わらせるためには、\nアタシたちだけでも\nアタシたちのプリンセスナイトたちだけでもなくて……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I need everyone's help inside Astrum That's what I believe.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "このアストルムの中の、\nみんなの力が必要になる──\nアタシは、\nそう信じてるんだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "At any rate, This is such an outrageous situation.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "なにせ、\nこれだけとんでもない事態だからね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "I am having a hard time understanding...... Rather than that, we just need to make sure that any one of the numerous \"safeguards\" ......You and I once implemented still work properly.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……理解に苦しみます。\nそんなことよりも、\nかつて私や貴方が実装していた数々の『安全装置』……\nそのどれかひとつでも、\n正常に機能するようにすればいいのです。"
+    },
+    {
+      "name": "Neneka",
+      "text": "An emergency log-out program. A forced reboot... In the worst-case scenario, it's okay to ban accounts. If that's enough to return you to reality.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "緊急用のログアウトプログラム。\n強制再起動……\n最悪の場合、\nアカウントをBANしてしまってもいいでしょう。\nそれで現実へ帰還できるのであれば。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Neneka",
+      "text": "Well, whatever. If you're trying to alter people's minds, I'll do my best to find Minerva.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "まあ良いでしょう。\n貴方が人々の認識改変に努めるというなら、\n私はミネルヴァの発見に努めます。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "That's right, I'm glad. Putting aside the methodology, it seems our goal to bring everyone back to reality is the same.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そうだね、\n良かったよ。\n方法論はさておくとしても、\nみんなを現実へ帰すって目的は一致してるみたいで。"
+    },
+    {
+      "name": "Neneka",
+      "text": "Yes. And... in terms of annihilating the [Rage Legion]...",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "ええ。\nそれに……\n【レイジ・レギオン】を殲滅する──\nという点でも、\nですね。"
+    },
+    {
+      "name": "Neneka",
+      "text": "That said, it should be difficult for even you or me to take on all five of them. We should work closely together.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "とはいえ、\n貴方や私でも、\n５人全員を相手にするのは難しいはず。\n連携は密にするように。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ok, at any rate, there seems to be a huge mastermind behind them. I'm sure you have some idea of what's going on.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "オッケー\nなにせ……\n連中の後ろには、\nとんでもない黒幕がいそうだからね。\nネネカもなんとなーくは察してるだろうけど。"
+    },
+    {
+      "name": "Neneka",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Also... This is more like a request, but...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あとは……\nこれは頼みっていうか、\nお願いなんだけど。"
+    },
+    {
+      "name": "Neneka",
+      "text": "...I wonder what it is.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "……なんでしょう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I want the boy and his friends to spend a little more free time together. I just want them to be able to help out with that.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "少年たちに、\nもう少しだけ……\n自由な時間を過ごしてほしいんだ。\nそのために、\nそれとなく協力してあげてほしくてさ。"
+    },
+    {
+      "name": "Neneka",
+      "text": ".........Is that for the sake of your princess form? I heard that deepening the bond between him and his friends is what gives them more power.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "…………\nそれは、\nプリンセスフォームのためですか？\n彼と仲間たちの絆が深まることで、\nさらなる力が発揮されるそうですが。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Oh, come on. It's not like I'm trying to get an advantage in a fight or anything. I just...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "やだなぁ。\nそんな、\n戦いを有利にするためとかなんかじゃないよ。\nただ……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "In the future, a real storm will come before long. A storm big enough to swallow up this entire world.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "これから先。\n遠くないうちに、\n本当の嵐が来る。\nこの世界すべてを呑み込むほどの\n大きな嵐が。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "If that happens, we'll... No. I'm sure no one will be able to stop it. Either everything will be blown away, and everything will go to nothing. Or we will be able to catch the wind and get to the 'other side'~",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "そうなったら、\nアタシたちにも……\nううん。\nきっと誰にも止められない。\n何もかもが吹き飛ばされて、\n全てが無になるか──\nうまく風を掴んで、\n『あっち』までたどり着けるか──"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Either way, I think everything will be over by the time that storm stops. ...So before then...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "どっちにせよ、\nその嵐が止んだときには\nすべてが終わってると思う。\n……だから、\nその前に……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I want the boy to enjoy this world a little more.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "少年たちに──\nこの世界をもう少しだけ、\n楽しんでほしくてね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Many things have changed. But still, Astrum is a world that we worked very hard to create because we wanted people to enjoy it...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いろいろ、\n変わっちゃったけど。\nそれでもここは、\nアストルムは……\n誰かに楽しんでほしくて、\nアタシたちが一生懸命作った世界だから……\nさ。"
+    }
+  ]
+}

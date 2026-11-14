@@ -1,0 +1,404 @@
+{
+  "title": "Princess Arena",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Some time has passed since {0} and his guildmates\nbegan participating in Arena Battles.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちが闘技大会に参戦し始めてから、\nしばらくの月日が流れた。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Take this!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "おっらあ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Aww yeah! We win again!\nI gotta say, we're really killing it today!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "よぉしっ、\n今回も勝ち～！\nあたしたち、\nけっこう良い調子なんじゃないっ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I didn't think you'd get so into it, Karyl.\nYou're really competitive!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "意外とはまっちゃってますね、\nキャルちゃん……\n勝負事が好きなんですね～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Personally, I don't see much of a point\nin fighting opponents we can't eat.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしは食べもしない相手と戦うことに、\nあまり意義を感じないんですけど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "There's totally a point. Think about it!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "意義ならあるわよ、\n当然！"
+    },
+    {
+      "name": "Karyl",
+      "text": "We get prizes for winning battles,\nand since we're fighting for real, it's the perfect training!\nThere are literally no downsides.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "『バトルアリーナ』で戦えば報酬がもらえるし、\n実戦形式だから良い経験になるし鍛えられる！\n良いことずくめじゃない？"
+    },
+    {
+      "name": "Karyl",
+      "text": "{0}, Koro,\nyou guys agree, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}たちも、\nそう思うでしょ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*chuckle* Oh, Miss Karyl. You always notice when my lord\nand I aren't participating in a conversation,\nand always so kindly include us.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふ。\nキャルさまったら……\nわたくしや主さまが\nお喋りに参加できていないと、\n必ず気を遣って\n話を振ってくださいますね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "You're a very sweet person.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "本当に、\nお優しいかた……♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "D-don't get me wrong!\nTalking with Pecorine one-on-one for too long wears me thin.\nI had to bring you guys in to save my brain!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ち、\nちがうわよ？\nペコリーヌと一対一で喋ってると正気度が削られていくから、\n仕方なくなんだからねっ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "*chuckle* If you say so.\nMy lord and I both agree\nthat there are many reasons to fight in Arena Battles.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふふ。\nともあれ……\nわたくしとしても、\n闘技大会に出場することに意義はあると考えます。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "The prizes are spectacular and make for an excellent source of\nincome. I think we gain a lot more by coming here compared to\nworking regular jobs.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "報酬がかなり莫大で、\n家計の支えになっておりますし。\n普通に働くのと比べて、\nかなり実入りが良い仕事だと思います。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "In fact, the benefits are extraordinary.\nI just wonder, with no audience watching us fight,\nhow do they earn the money to pay for the prizes?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "実際、\n破格の待遇です……\nとくに観客がいるわけでもなし、\nどこで収益を得ているのでしょう？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Yeah, I wondered that too. It is a little fishy.\nHow do they fund all this?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そのへんが謎だから、\n微妙に不安よね。\nどっから資金がでてるんだか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "There's something weird\nabout our opponents, too.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたちが戦ってる相手も、\nちょっと変な感じですしね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "They're kinda similar to [i]Shadows[/i],\nbut I can't help but feel like something's off out there.\nIt feels... fake, I guess.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "『シャドウ』に似てますけど、\nどうも違和感があるというか……\n似て非なるもの、っていうか。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmph.\nI think our best bet is to ask\nthat Minervay lady all these burning questions.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふん。\n気になることはぜんぶ、\nあの『ミネルべぇ』とかいうのに聞いてみたら良いんじゃない？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Her name is Lady Minerβ, Miss Karyl.\nAnd please, be polite when you speak of her.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "『ミネルβ』さまですよ、\nキャルさま。\nあまり失礼な物言いをしてはなりません。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I can tell that she\nis some sort of mystical being.\nMuch like a spirit, or even a deity.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あのかたはどうも、\n神や精霊に等しい\n超越的な存在のようですし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You think?\nShe definitely has a divine aura about her,\nbut it's like she's detached from reality, or something.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そうなの？\nたしかに神々しいっていうか、\n浮世離れしてるけど……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes.\nIt reminds me of how it felt when Lady Ameth\nsent me divine messages during my daily prayers.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nわたくしは毎日欠かさぬお祈りの際に、\nアメスさまから託宣を受けたのですが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Minerβ\nhas that same kind of transcendental presence.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ミネルβさまは、\nアメスさまと同じ超越的な存在のようです。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "For all we know,\nher scowling gaze could evaporate our entire group\nin the blink of an eye.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちなど、\nあのかたに睨まれただけで蒸発してしまうかもしれません。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "*chuckle*\nI'm afraid I don't have anywhere near\nthat sort of physical power.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "ふふ。\nさすがに、\nそこまでの物理的なちからはありません。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "You all are extraordinary beings, as well.\nCurrently, my functionality has been severely limited.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "あなたがたもまた、\n破格の存在ですし……\n私は現在、\nかなり機能を制限されているのです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Urk. There she is.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うあっ、\n出たわね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Okay, Minerβ.\nWe did exactly what you wanted and fought in the Battle Arena.\nNow tell us, what's the point of all this?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ねぇミネルβ、\nあんたの言いなりになって『バトルアリーナ』で戦ってるけど……\nこれって、いったい何の意味があるの？"
+    },
+    {
+      "name": "Karyl",
+      "text": "The battles are big, flashy, and tons of fun.\nIf you advertised and brought in big crowds,\nyou'd be raking it in.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "派手で楽しい催しだし……\nもっと大々的に告知して客を集めれば、\n一大事業になりそうなもんだけど。"
+    },
+    {
+      "name": "Karyl",
+      "text": "But with no one in the arena except us and our opponents,\nit feels like a missed opportunity.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "何かいつも対戦相手以外は誰もいないし、\nもったいない気がするわ。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Well, presently,\nnormal people\ncannot even perceive this arena's existence.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "まぁ現状……\n普通の人々には、\nこの闘技場を認識することもできませんから。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "I've decided that continuing as we have,\nin private, is the most favorable course of action.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "このまま内々で進めるのが、\n最も不都合がないと判断しています。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "But if you feel having an audience would be more motivating,\nI'll consider opening things up to the general public.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "お客さんがいたほうが張りあいがでる、\nというなら一般に公開するのも検討しておきますが。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Now, moving on.\nI have something very important to tell you all.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "それよりも。\n皆さんに、お伝えすべきことがあります。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Because you all have performed far beyond what was expected,\nI feel I can expand the arena's capabilities.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "皆さんが予想以上の成果をあげてくださったお陰で、\n闘技場の機能を拡張できそうなのです。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "It will be a more complex,\nmore advanced experim... ience.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "今後はより複雑で、\n高度なじっけ……\n実戦が可能になります。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hold on a sec.\nYou were about to say [i]experiment[/i]!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと待ちなさいよ、\nあんたいま『実験』って言いかけなかった？"
+    },
+    {
+      "name": "Karyl",
+      "text": "You'd better not be trying to use us\nfor some kinda evil scheme!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしたちを使って、\n何か悪巧みしてるんじゃないでしょうねっ！？"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Absolutely not.\nI, too, am frustrated\nthat all I can do is continue asking that you trust me.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "決して。\n信じてください、\nと繰り返すことしかできないのが歯がゆいですが……"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Fundamentally, I am your ally.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "私は\n基本的に、皆さんの味方ですよ。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Now then.\nLet us end the chitchat here.\nPlease brace yourselves for what's to come.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "ともあれ。\nいったん雑談をやめて、\n衝撃に備えてください。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "You might feel a bit of dizziness or discomfort.\nYour understanding is appreciated.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "すこし目眩などがするかもしれませんが、\nご了承をお願いします。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Say what?\nHang on, I've still got a ton of questi—\nEeek!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はい？\nちょっと、まだ聞きたいことはたくさん……\nうひゃあ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ooh!\nThe arena's got a new style!\nIt looks a little fancier now.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……おお？\n闘技場の景観が様変わりしましたね～\nちょっとだけ豪華になったような？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I guess at this point,\nnothing that happens in this weird place should surprise me.\nStill, a heads-up would've been nice. I almost bit my tongue.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まぁ今さら、\nこの不思議空間で何がおきても驚かないけどね……\nいきなりは勘弁してよ、\n舌を噛んじゃいそうだったわ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Anyway.\nWhat's the deal this time?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "つうか。\n何なの、\nここは？"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Welcome.\nThis is the expanded, evolved form of the Battle Arena.\nThe [i]Princess Arena[/i].",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "はい。\nここは『バトルアリーナ』を進化・深化させた、\n『プリンセスアリーナ』です。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "The facility has undergone further development\nto become the stage for a new kind of combat.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "あなたがたの新たな戦いの舞台となる、\nより発展した闘技場ですよ。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Now you will be able to join harder,\nmore frenetic team battles involving multiple\ngroups of fighters.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "ここでは複数人による集団戦など、\nより難度の高い戦いに参加できます。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "As before, should you participate,\nyou will be rewarded handsomely for your efforts.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "参戦していただけるなら当然、\nこちらでも莫大な報酬をお支払いいたします。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Much like the Battle Arena,\nI sincerely hope you will take part if you are inclined.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "『バトルアリーナ』での闘技大会と同様に、\nこちらにも気が向いたら参加していただければ幸いです。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Participation is, as usual, voluntary.\nYou are free to come and go as you please.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "強制はしません。\nすべては、\n皆さんの自由です。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "As these will be large-scale battles,\nI recommend inviting friends along to fight by your side.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "大人数での戦闘になるので、\nお友達などを誘って参加するのが良いでしょう。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "With more people joining the battle, each\nmatch will be much more complex.\nYou will need to consider your strategies carefully.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "参加人数が増えるだけで複雑さは増して、\n奥深い思索が必要になってきます。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "I cannot help but anticipate the thrilling battles that will\nunfold. Experimenting with different approaches, drawing\non all your knowledge and courage as you fight...",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "様々な計略を駆使し、\n知恵と勇気を振り絞って戦って……\n皆さんがたくさんのドラマを見せてくださることを、\n私は期待してやみません。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "Please, show me more.\nShow me more of the bizarre, fascinating tales\nthat only humans can write.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "人間らしい、\n複雑怪奇で魅力的な物語を……\nどうか、\nもっと私に見せてください。"
+    },
+    {
+      "name": "Minerβ",
+      "text": "That is my only desire.",
+      "choice_data_list": [],
+      "orig_name": "ミネルβ",
+      "orig_text": "それだけが、\n私の願いです。"
+    }
+  ]
+}

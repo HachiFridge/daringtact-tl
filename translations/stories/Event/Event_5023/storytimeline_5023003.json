@@ -1,0 +1,775 @@
+{
+  "title": "Presentation Brainstorming!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "A few days into her life at St. Theresa's Academy,\nAoi has begun to feel somewhat comfortable in this new environment.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アオイが学校生活に少しずつ慣れてきて、\n順調に日々を過ごしていたある日のこと。"
+    },
+    {
+      "name": "Teacher",
+      "text": "May I have a moment, Miss Aoi?",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "ちょっとよろしいですか、\nアオイさん。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Y-yes?!\nD-did I do something horribly wrong?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "は、\nはいっ！？\nな、\n何かしてしまいましたか私！？"
+    },
+    {
+      "name": "Teacher",
+      "text": "No need to panic, my dear.\nI was just hoping to check in on your progress.",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "そこまでかしこまらなくて結構。\n進捗の方を聞いておきたいと思いまして。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Progress...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "進捗……？"
+    },
+    {
+      "name": "Teacher",
+      "text": "I'm sure you haven't forgotten,\nbut you are scheduled to make a presentation in a few days' time.",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "まさかお忘れではないと思いますが、\nアオイさん、\n数日後に特別講座が控えていますからね？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Presen... tation...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "特別……\n講座……"
+    },
+    {
+      "name": "Teacher",
+      "text": "Everyone is looking forward to it.\nWell then, a good day to you.",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "みんな楽しみにしていますよ。\nそれでは、\nごきげんよう。"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Aaaaaahhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……あああああーーーーーー！"
+    },
+    {
+      "name": "Chieru",
+      "text": "So, why'd you call us all here today?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "で、\nチエルたち今日はなんで集められたんです？"
+    },
+    {
+      "name": "Chloe",
+      "text": "After school, even.\nI mean, it's fine. Not like I've got any shifts today.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "しかも放課後。\nいいけど、\nべつにバイト休みだったし。"
+    },
+    {
+      "name": "Aoi",
+      "text": "I-I'm very sorry!\nI-I-I-I-I'd just completely forgotten!About my, um, presentation...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "す、\nすみませんっ！\nわわわ私、\n忘れてしまっていてっ！\n講座っ、\nその、\n特別な……！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm. \\\"Presentation\\\"...? Ah, yes, of course.\nYour transfer arrangement involves a lecture to your fellow students.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ふむ。\n特別講座……\nああ、\nあれだね。\n編入生に課された\n研究発表会のようなものか。"
+    },
+    {
+      "name": "Aoi",
+      "text": "But I, um, completely lost the plant I was going to talk about!\nSo I asked {0},\nand he said I should talk to you guys!",
+      "choice_data_list": [
+        "It's a job for the Friendship Club!"
+      ],
+      "orig_name": "アオイ",
+      "orig_text": "そのっ、\n講座に使おうと思っていた子もいなくなっちゃって！\n{0}さんに相談したら、\n皆さんを呼ぼうって……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "And how d'you figure that one?\nHave you gotten us mixed up with some sort of odd-jobs crew?\nI never signed up to be your adorable handyman~!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "いやフツーになんでですか。\n先輩、なかよし部を便利屋か何かと\n勘違いしてませんー？\nチエル、先輩の言いなり子ちゃんじゃないんですけどー"
+    },
+    {
+      "name": "Chieru",
+      "text": "Le sigh...\nI wanted to offer to help on my own,\nbut you had to go and mess up my motivation, didn't you?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はぁーあ……\nチエル自発的に手伝いたかったのに、\nそういうとこでシャシャられちゃうと\nモチベ下がるんですよねえ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "And uh, I know we agreed to help Aoi and stuff.\nBut like, lectures? Y'know, all that academic-type stuff\ndoesn't really seem like our area, does it?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てゆか、\nうちらアオイに協力するとは言ったけどさ。\n言ったけど、\n講座？　\nとか、\nそーゆーおべんきょ的なのは、\n正直うちら向けの案件じゃなくない？　\nねえ？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ah, of course!\nClearly this is indeed a task for the Yuni-ettes!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "なるほど\n確かに、\nこれは我々ユニちゃんズの出番だね。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Someone's in her element!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "乗り気の人いたー！"
+    },
+    {
+      "name": "Chloe",
+      "text": "For real though, Yuni, what's your obsession with that reject guild name.\nAre you possessed? Do you need a pinch of salt to exorcise the cringe?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "てかユニ先輩のその、\n終わったギルド名への執念なんなわけ。\n怨霊なの。\n塩あげるから安らかに成仏してくんない。"
+    },
+    {
+      "name": "Aoi",
+      "text": "I-I'm very sorry, everyone!\nI know this is an awful lot to ask of you all, but, ahhh...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "す、\nすみません皆さん！\n過ぎたお願いだってことは分かっているんですけど、\nその……！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Oh, don't apologize to us, young Aoi.\nThe Yuni-ettes are a guild with ambitions of worldwide renown.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ああ、\n気にする必要はないよアオイ君。\nユニちゃんズは、\nいずれその名を世界中にとどろかせるギルド。"
+    },
+    {
+      "name": "Yuni",
+      "text": "We'd never shame ourselves by abandoning a compatriot in need!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "困っている後輩を見過ごすような我々ではないのだから。"
+    },
+    {
+      "name": "Aoi",
+      "text": "O-oh, Yuni...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ユ、\nユニさん……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Um, anyone?\nWhere did the sudden passionate mentor act come from?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "何なんですか、\nあの妙に芝居がかった熱血姐さんみたいな感じ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Shrug... Beats me.\nMaybe Yuni's craving more respect\nthan that pocket-size body gets her.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "さあ……\n知んないけど、\n小っこいなりに先輩風吹かせたいお年頃なんじゃないの。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Well then!\nLet's do what we do best, my fellow Yuni-ettes!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "では！\n始めようではないか、\nユニちゃんズ諸君！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Thank you so much, members of the Yuni-ettes!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ありがとうございます！\nユニちゃんズの皆さん！"
+    },
+    {
+      "name": "Chieru & Chloe",
+      "text": "We are [i]so[/i] not Yuni-ettes.",
+      "choice_data_list": [],
+      "orig_name": "チエル・クロエ",
+      "orig_text": "ユニちゃんズじゃねーし。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ehm... Well then.\nLet's begin by deciding on a topic for this presentation.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "えー、\nそれでは。\nまずは講座の発表項目をまとめていくとしよう。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Aoi, you belong to a guild named Forestier, yes?\nI understand it's an elven organization,\nbut what work do you do exactly?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "アオイ君の所属ギルドは\n【フォレスティエ】と言ったね。\nエルフ族で構成された組織と聞いているが、\n普段はどんな仕事を？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Ummm... Guiding people who visit the forest?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "えっと……\n森に来る人たちの\nガイドとか……？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ah, I see. Then perhaps you could teach the sheltered young ladies here\nabout the charms and dangers of the forest from an elven perspective.\nInclude a nature conservation angle, and the faculty will also approve.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "なるほど。\nでは当学の箱入り育ちなお嬢様方に、\n森の見所や危険性を\nエルフの視点から語るのはどうだろう。\nおまけに自然保護についても語れば\n教師受けもよかろう。"
+    },
+    {
+      "name": "Yuni",
+      "text": "In addition... Let's see.\nYou could actually brew up an herbal concoction or two.\nPractical demonstrations always go over well with the audience.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "それと……\nそうだね。\nエルフが普段使う調合物など、\n実際に作って紹介しよう。\nそうすれば、\nより有意義な時間を作ることができる。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Wow, Yuni's on point.\nI mean, I always [i]knew[/i] she was smart, but I never quite [i]believed[/i] it.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ユニ先輩、的確ですねー\nいや頭いいのは知ってましたけど、\n知らなかったっていうか？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Yeah, she sure hides it well.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "まぁ\n普段を見てっとね。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Chloe, perhaps as a fellow elf yourself,\nyou could lend young Aoi some words of advice.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "クロエ君。\n君も同じエルフとしての知見で、\nアオイ君に助言をしてあげてくれたまえ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "As a fellow elf? I'm a city girl to the bone...\nBut uh, sure. On it. I'll do the elf thing.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "同じエルフったって、\nうち街育ちなんだけど……\nまぁいいか。\nあーい、\nかしこまりでーす。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Hey, hey! What about me, Yuni? What should I do?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "はいはーい、\nユニ先輩、\nチエルは―？"
+    },
+    {
+      "name": "Yuni",
+      "text": "You can sit in the corner and...\nNo—you should inform us if you have any questions.\nYour intuition is a valuable asset.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "チエル君は隅で……\nいや、\nなにか疑問があったら、\n存分にぶつけてくれると嬉しい。\nその閃きは重要だ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Did you just try to get rid of me for a moment there?\nYou did, didn't you?\nHave you forgotten I get top grades in every subject?",
+      "choice_data_list": [
+        "I want to help too!"
+      ],
+      "orig_name": "チエル",
+      "orig_text": "今一瞬、チエルを戦力外にしようとしてませんでした？\nしてましたよね？\nもしかしてチエル、\n全教科とも成績優秀なの忘れられてます？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Et tu, young {0}?\nWell, ah, that goodwill is a virtue...\nHrm, let's see. You can... You can...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "{0}君もかね？\nああ、\nいや、\n協調の精神は立派だ。\nふむ、\nそうだね、\n君は……\n君は……"
+    },
+    {
+      "name": "Chieru",
+      "text": "Hey, Yuni, don't let your brain overheat!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ユニ先輩。\n無理しなくていいんですよ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "How's an amnesiac gonna help.\nHis brain's at kindergarten level.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "記憶喪失じゃ手伝えねっしょ。\n事務スペック５歳児だし。"
+    },
+    {
+      "name": "Aoi",
+      "text": "It's all right, {0}!\nJust having you around fills me with motivation!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "{0}さん、大丈夫です！\nあなたがいてくれるだけで、\nやる気が出てきますから！"
+    },
+    {
+      "name": "Chloe",
+      "text": "Dang, Aoi's so kind!\n...But also kinda harsh.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "アオイ優すぃー\nけど、さりげ残酷。"
+    },
+    {
+      "name": "Chieru",
+      "text": "That was a nope on the Chieru chart.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "流石のチエルもそれは引きます。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh? Huhhh?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "え、\nええっ！？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Well... erm.\nLet's say then, {0}, you can, ah...\ngive my shoulders a hearty rub.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いや、\nうん……\nじゃあ、{0}君は、\nそうだな……\nぼくの肩でも揉んでいてくれ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Welp, it's official.\nYou've been made redundant.\nGiving him the old \\\"tap on the shoulder\\\"? God, that's lame.",
+      "choice_data_list": [
+        "Massage like a pro.",
+        "Massage like your life depends on it."
+      ],
+      "orig_name": "クロエ",
+      "orig_text": "出たわ、窓際人事。\n実質リストラじゃん。\nこれが本当の肩叩き、つって？　\nやかましいわ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Mm... Aahhh... A shoulder rub from a strapping young man...\nS-so this is how it feels... Mmmhh... Not bad...!\nI've never felt anything like it!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "んっ、\nおぅっ……\n青年男子に肩を揉まれるとは、\nこ、\nこういう感じなのか……\nんぅっ……\n悪くない……！\nこんなの初めて……！"
+    },
+    {
+      "name": "Chieru",
+      "text": "Ooh, that looks pretty heavenly...\nHey, {0}, you're doing me next, 'kay?\nI'll have the one-hour full-body course~!",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "へー、\nなんか気持ちよさそー\n{0}先輩、\n次チエルもお願いしますねー\n６０分全身コースでー"
+    },
+    {
+      "name": "Yuni",
+      "text": "O-ow, that hurts! But it's not bad!\nThis intense pressure...\nThe aches are being squeezed from my body...!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いっ、\nいたたたっ！　\nだが悪くないっ！\nこの圧迫感……\n体の凝りが取れてゆくようだ……！"
+    },
+    {
+      "name": "Chloe",
+      "text": "Uh, bodies aren't meant to bend like that.\nLike, can you still even move.\nYou've been folded up like an origami pretzel.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "いやいや体折りたたまれてるし。\nパイセンそこから動けんの、\nかなりコンパクトなことになっちゃってるけど。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Everyone, thank you so much for your help!\nI never thought I'd come up with a plan so quickly!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "皆さん、\n本当にありがとうございました……！\n発表内容がこんなに早くまとまるなんて……！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Think nothing of it, young Aoi.\nIt's any senior's duty to come to the aid of her juniors.\nBe sure to come to me whenever you're in need.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "いやいや感謝など不要さ。\n後輩を助けるのは先輩の務めだからな。\n困ったときは\nいつでも頼ってくれていいのだよ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Chieru? Why're you blowing on her?",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "チエル、\nなんか扇いでる？"
+    },
+    {
+      "name": "Chieru",
+      "text": "Oh, just inflating her ego.\nIt seemed to be the thing to do.",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "あーこれ先輩風です。\nびゅーびゅーですね。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Now all that's left is to present this content\nto your eager classmates on the day.\nI wish you the best of luck, young Aoi.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "これであとは、\nここまでまとめたことを\n実際に特別講座で発表するのみだ。\n頑張るのだよ、\nアオイ君。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Right! ...Huh?\nP... present it...? To people...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "はい！　\n……え？\n……は\n……発表……？　\n人前で……？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Oh... Yeah, that figures.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "あー、\nこれアレだわ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Looks like the hardest part is only just beginning, huh?",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "むしろここからが本番\nってやつですかねー？"
+    },
+    {
+      "name": "Aoi",
+      "text": "I-I can't possibly talk in front of a crowd!\nWhat should I do, Master Yuniii?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "私、人前で発表なんて無理ですーっ！\nどうしましょうっ、\nユニさーーーん！？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrmm. Dear me.\nThis is quite the pickle.\nBut worry not. The dependable Yuni will solve your woes!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ううむ、\nやれやれ。\n困った後輩君だ。\nだが案ずるな、\nこのユニ先輩に任せるがいい！"
+    },
+    {
+      "name": "Narration",
+      "text": "The next day...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "翌日──"
+    },
+    {
+      "name": "Aoi",
+      "text": "Urgh... A live presentation...\nHow am I supposed to even consider it?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "うう、\n人前で発表……\nそんなこと私にできるわけが……"
+    },
+    {
+      "name": "Aoi",
+      "text": "But Yuni did say she'd take care of everything...\nSo if I train hard, maybe it'll work somehow...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "でも、\nユニさんは任せろと言ってくれたし……\n頑張って特訓すれば、\nもしかしたら……？"
+    },
+    {
+      "name": "Female Student",
+      "text": "Um, Aoi?\nDo you have a moment to talk?",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "あの、\nアオイさん？\nちょっとよろしいかしら？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Eek?!\nWh-wh-what seems to be the matter?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ひっ！？\nなな、\nなんでしょう！？"
+    },
+    {
+      "name": "Female Student",
+      "text": "Sorry if I surprised you.\nIt's just, you always vanish off somewhere after school,\nso I was a little curious...",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "ごめんなさい急に。\nアオイさん、\n放課後になるとすぐどこかへ行ってしまわれるから、\n気になってしまって。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Oh... Um, Yuni and the others\nwere helping me prepare for my presentation, so I...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あ……\nその、\n特別講座の準備で\nユニさんたちにお世話になっていたりして、\nそれで……"
+    },
+    {
+      "name": "Female Student",
+      "text": "\\\"Yuni\\\"...?!\nSurely you don't mean the academy's number one genius,\nDr. Yuni herself?!",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "ユニさん……！？\nそれってもしかして、\n学院随一の天才、\nユニ博士のことですのっ！？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Um, \\\"Doctor\\\"...?\nWell, ah... She does seem very academically minded, but I'm not sure...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "博士、\nですか？\nえぇと、\n知識豊富な方だとは思いますけど、\n詳しくは……"
+    },
+    {
+      "name": "Female Student",
+      "text": "L-listen, Aoi! Dr. Yuni is a living legend of St. Theresa's Academy,\nblessed with the greatest mind in generations.\nShe's far beyond the reach of us mere mortals—",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "ア、\nアオイさん。\nユニ博士は\n聖テレサ女学院にこの人ありと謳われる、\n天賦の才を授かったお方なんですの。\nわたくしたちなどとは住む世界の違うお方で──"
+    },
+    {
+      "name": "Aoi",
+      "text": "B-but Yuni and all her guildmates\nare very kind people who are always willing to—",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "で、\nでも、\nユニさんも\nその他の皆さんも、\nとても優しくて、\n親切にしてくれますし──"
+    },
+    {
+      "name": "Female Student",
+      "text": "Her guildmates? I have heard that Dr. Yuni is often accompanied\nby Chloe and Chieru...",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "他の皆さん？　\n確か\nユニ博士とよく一緒におられるのは、\nクロエさんと、\nチエルさん……"
+    },
+    {
+      "name": "Female Student",
+      "text": "But Chloe is infamous as an outright delinquent!",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "まあ、\nクロエさんといえば、\n不良の方ではないですか！"
+    },
+    {
+      "name": "Female Student",
+      "text": "I have heard rumors about this Chieru girl as well...\nThat she is a wild free spirit\nwho the teachers don't know what to do with...",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "チエルさんという方も、\n風の便りに聞いておりますわ。\nなんでも先生方さえ手を焼かれる\n大層なお転婆さんだとか。"
+    },
+    {
+      "name": "Female Student",
+      "text": "Aoi, are you sure you're all right?\nSpending time with such an outrageous group...",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "アオイさん、\nあなた大丈夫ですの？\nそのような方々と一緒にいらして……"
+    },
+    {
+      "name": "Yuni",
+      "text": "Would you excuse us? Sorry to intrude.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ちょっといいかい？　\nお邪魔するよ。"
+    },
+    {
+      "name": "Female Student",
+      "text": "D-Dr. Yuni?! And her associates, too!\nG-good day to you all...!",
+      "choice_data_list": [],
+      "orig_name": "女生徒",
+      "orig_text": "ユ、\nユニ博士！？　\nそれに先輩がたも……！\nご、\nごきげんよう……！！"
+    },
+    {
+      "name": "Yuni",
+      "text": "Yes, good day.\nI'm afraid I couldn't help hearing from the corridor.\nAs a senior student, I have a duty to clear up any misunderstandings.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ごきげんよう。\nすまない、\n廊下で小耳に挟んでしまったものだから。\n上級生の責務として、\n皆の誤解を解いておくべきだと思ってね。"
+    },
+    {
+      "name": "Yuni",
+      "text": "This girl... Young Aoi is a kindhearted soul.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "彼女……\nアオイ君は、\n実に優しい子だ。"
+    },
+    {
+      "name": "Chloe",
+      "text": "Well, pretty much.\nShe's even nice to outcasts like us.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "まぁ、\nそーね。\nうちらみたいなはぐれ者にも優すぃーし。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Indeed. She evaluates her fellows without prejudice or preconceptions.\nHer heart lies ever open to any who would accept her.\nA noble gift of gracious tolerance born from years of hermetic solitude.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "然り。\n彼女は訪れる対象を、\n偏見や先入観で選別しない。\nその門戸はいつでも\n誰しもに広く開かれている。\nそれは\n孤高の日々に捧げられた、\n世界に焦がれる優しい祈りだ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "Such a rare and fine quality deserves my utmost respect.\nAs such, I should hope that you'll follow her example\nand foster a virtuous friendship unblemished by trifling matters.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "そんな博愛の精神に、\nぼくは敬意を表するよ。\nだから、\nどうか君たちは\nつまらぬ些事に惑うことなく、\n優しい彼女と\n純然たる友情を睦んでくれたまえ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Or... as the layfolk say, you'd better be nice to her!\nCheru~n! ♪",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "えー端的に換言すると。\nチエルからもよろしくね！　\nちぇる～ん♪"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Aoi, forgive us.\nIt seems your association with us\nhas caused consternation among your peers.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "アオイ君。\nすまなかった。\n我々のような者と関わったことで、\n級友から色眼鏡で見られていたとはな。"
+    },
+    {
+      "name": "Aoi",
+      "text": "O-oh no, that's OK...\nI mean, thank you very much, Yuni.",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "い、\nいえ、\nそんなこと……\nむしろ、\nありがとうございます。\nユニさん。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Eheheh... The way you talked about me back there\nmade me feel really happy somehow...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "えへへ、\nなんだかとっても、嬉しかったです。\nわたしのこと、\nあんな風に言ってくれて……"
+    },
+    {
+      "name": "Yuni",
+      "text": "Ah, yes.\nFor an unrehearsed performance, I put on quite the act, didn't I?\nHeheh... It seems I may have a hidden talent for theater.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "うむ。\n即興にしては、\nなかなかに出来た台詞と演技だったろう？\nふふふ、\nどうやらぼくには表現者としての才能もあったようだ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh? ...Huh?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "え？　\n……えっ！？"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrm? Why the surprise? Back in my village days,\nI spent much of my time reading flowery tales of academic life.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "ん？　\n意外かね。\nぼくとて里にいた頃は、\n友だの愛だのを謳った\n青臭い学園物語に憧憬を抱いたものさ。"
+    },
+    {
+      "name": "Yuni",
+      "text": "In one such volume, there was a notable scene much like your situation.\nSo how could I resist reciting those lines from memory?\nIn the terms of the layfolk, I crave the magic of youth.",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "その中の一冊に、\n今の状況に類似する\n感動的な一幕があってね。\nついつい年甲斐もなく\n情感たっぷりに再現してしまったよ。\n端的に換言すれば、\nぼくは青春がしたい。"
+    },
+    {
+      "name": "Yuni",
+      "text": "I'm glad my audience... ah, I mean you, young Aoi, enjoyed the show.\nTo move others' hearts is the heartfelt wish of any actor.\nNow, perhaps we should end our small talk and return to practicing—",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "何にせよ観衆……\nもといアオイ君に喜んでもらえたのなら幸いだ。\nくすぶる役者魂に\n火を点けた甲斐があったというもの。\nさあ、\n雑談はこのくらいにして\n特別講座の練習を──"
+    },
+    {
+      "name": "Aoi",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Yuni",
+      "text": "Young Aoi? You seem remarkably stiff all of a sudden...",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "アオイ君？　\nなにやら固まっているようだが……？"
+    },
+    {
+      "name": "Chloe",
+      "text": "Big oof.\nYuni, you done messed up this time.",
+      "choice_data_list": [],
+      "orig_name": "クロエ",
+      "orig_text": "ないわー\nユニ先輩。\n今のはないっすわ。"
+    },
+    {
+      "name": "Chieru",
+      "text": "Really driving the ol'\n\\\"A loner knows not her fellow loner's heart\\\" home, huh, Yuni? ♪",
+      "choice_data_list": [],
+      "orig_name": "チエル",
+      "orig_text": "ぼっちの心ぼっち知らず\nってやつですね。\nユニ先輩♪"
+    },
+    {
+      "name": "Yuni",
+      "text": "Hrmm? Whatever do you mean?",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "むむ？　\nどういうことだい？"
+    },
+    {
+      "name": "Aoi",
+      "text": "W-waaaaaahhhh! You're the worst, Yuniiiiii!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "う、\nうわあああああん！　\nひどいですユニさぁぁぁん！！！！"
+    },
+    {
+      "name": "Yuni",
+      "text": "H-hrmm?\nWait, young Aoi! Why would you react this way?!\nYou misunderstand... or perhaps not, but at least let me explain!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "あ、\nあれ？\n待ってくれアオイ君！　\n一体なぜそのような反応を！？\n誤解……\nではないが\n弁解させてくれー！！"
+    },
+    {
+      "name": "Yuni",
+      "text": "It's not like that! Yes, those words may find their roots in fiction,\nbut that doesn't preclude my underlying sincerity...!\nY-young Aoiiiiii!",
+      "choice_data_list": [],
+      "orig_name": "ユニ",
+      "orig_text": "違うのだ！　\nあの言葉は創作に擬えたものだが、\nぼくが潜在的にそう思っていたこともまた事実で……！\nア、\nアオイくぅーん！！"
+    },
+    {
+      "name": "Narration",
+      "text": "That night...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その夜──"
+    },
+    {
+      "name": "???",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Teacher",
+      "text": "...Hello?\nIs there someone around?",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "……おや？\n誰かそこにいるのですか？"
+    },
+    {
+      "name": "Mandragora",
+      "text": "GGGGRRRUOOOGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "マンドラゴラ",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Teacher",
+      "text": "Aaghh?! Wh-what in the world is this?!",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "ひっ！？　\nこ、\nこれは……\n一体……！？"
+    },
+    {
+      "name": "Teacher",
+      "text": "Ahhhh...",
+      "choice_data_list": [],
+      "orig_name": "女性教員",
+      "orig_text": "はぅっ……"
+    }
+  ]
+}

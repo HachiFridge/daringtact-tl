@@ -1,0 +1,555 @@
+{
+  "title": "Princess Parade",
+  "text_block_list": [
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Lima",
+      "text": "Eek!\nThese monsters are getting stronger and stronger!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "きゃっ！？\n魔物が\nどんどん\n強くなってきてるわね！"
+    },
+    {
+      "name": "Maho",
+      "text": "Lima, leave it to me.\nMiracle Mahorin, twinkle twinkle hoy...☆",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "リマはん、\nここはうちにまかせておくれやす。\nみらくるまほりん、\nくるりんぱ～……☆"
+    },
+    {
+      "name": "Monster",
+      "text": "GRAAAGGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Lima",
+      "text": "Thanks, Maho!\nYou're a lifesaver... Wait, huh?\nIt dropped something.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "ありがとうマホちゃん。\n助かったわ……\nって、\nあら？\n何か落ちてる。"
+    },
+    {
+      "name": "Maho",
+      "text": "What is it?\nLooks like a shard of somethin'...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "なんどす？\n何かの欠片にみえますけど……"
+    },
+    {
+      "name": "Lima",
+      "text": "Ah!\nMaho! You're shining!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "わわっ！？\nマホちゃん！　\nなんか光ってるわよ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Wow, I sure am!\nY'all are sparklin' mighty fine too!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "わぁ、\nほんまどすなぁ。\nみんなピカピカ光ってきれいやねぇ……"
+    },
+    {
+      "name": "Maho",
+      "text": "Well I'll be. My prince, what a coincidence.\nMy, that's an awful lot of bags you got there.\nYou on your way home from a li'l bit of grocery shoppin'?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "あら、\n王子はん\n奇遇どすなぁ。\nぎょうさんビニール袋下げはって、\n買い物帰りどすか？"
+    },
+    {
+      "name": "Maho",
+      "text": "It's for supper?\nLendin' a helpin' hand at home is admirable.",
+      "choice_data_list": [
+        "How about you?"
+      ],
+      "orig_name": "真歩",
+      "orig_text": "夕ご飯のお買い物どすかぁ。\nおうちのお手伝いして\n偉いなぁ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Me? Well, I heard that somewhere in this neighborhood\nthere's a sweet little white horse, so I came a-lookin'.\nHave you seen a white horse around here, my prince?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "うち？　\nうちはな、\nここらへんに\nかいらしい白馬はんが\nいはるいうんを聞いて、\n探しに来たんよ。\n王子はん、\nここらへんで\n白馬はん\nみかけんかった？"
+    },
+    {
+      "name": "Maho",
+      "text": "Ain't seen nothin'? Is that right...?\nI knew it, there ain't no horses in these parts.",
+      "choice_data_list": [
+        "Let's look for it together."
+      ],
+      "orig_name": "真歩",
+      "orig_text": "みかけてない？　\nそうどすかぁ……\nやっぱりこないなところに\n白馬はんはいはらへんのやろか。"
+    },
+    {
+      "name": "Maho",
+      "text": "You sure?\nThank ya kindly.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "ほんまどすか？\nおおきに。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima llima...!\n(Well, well, well...!)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマリマ……！\n（あらあらあら……！）"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima, llima llima!\n(Who'd have thought we'd bump into each other in a place like this!\nWhat a coincidence!)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ、\nリマリマ～！\n（こんなところで会うなんて\n奇遇ね～！）"
+    },
+    {
+      "name": "Maho",
+      "text": "A white horse...?",
+      "choice_data_list": [
+        "It's not a horse.",
+        "It's Lima."
+      ],
+      "orig_name": "真歩",
+      "orig_text": "白馬、\nはん……？"
+    },
+    {
+      "name": "Maho",
+      "text": "It was a young'un what told me 'bout a white horse,\nso I reckon that's the source of this misunderstandin'.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "白馬がいる言うてたんは\n小さい子やったさかい、\nお馬はんと\n勘違いしてしもうたんやろね。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima, llima llima.\n(Come to think of it, earlier I did walk past a group of kids.)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ、\nリマリマ～\n（そういえば、\nさっき\n小さい子の集団と\nすれ違ったわね～）"
+    },
+    {
+      "name": "Maho",
+      "text": "My name is Maho.\nHow 'bout you, li'l darlin'?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "うちは\n真歩言います。\nお名前は\nなんて言いはるん？"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima. ♪\n(I'm Lima.)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ～♪\n（私はリマよ～）"
+    },
+    {
+      "name": "Maho",
+      "text": "What's that, my prince?\nAh, she's called Lima, and is famous around here?\nWell, she's so adorable, it ain't no wonder she's famous!",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "なんどす？　\n王子はん。\nああ、\nこのあたりでは\nリマはん呼ばれて有名な子なんやね。\nリマはんはかいらしいから、\n当たり前かもしれまへんなぁ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima! Lima. ♪\n(Adorable? Thank you. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ！　\nリマ～♪\n（かわいい？　\nありがとう～♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "So you're called Lima.\nMy name is Maho.\nPleasure to meet ya.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "リマはん言うんやねぇ。\nうちは\n真歩言います。\nよろしゅうねぇ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima. ♪\n(Nice to meet you too. ♪\nYour clothes are soooo lovely! I'm envious.)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマ～♪\n（よろしく♪\n真歩ちゃん、\nと～\nってもかわいらしいお洋服ね！　\nうらやましいわ～）"
+    },
+    {
+      "name": "Maho",
+      "text": "Lima has a sweet li'l face, don't she?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "リマはん、\nかいらしいお顔してはるねぇ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima?! Llima llima. ♪\n(Huh?! Thank you!)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ！？　\nリマリマ～♪\n（えっ！？　\nありがとう～！）"
+    },
+    {
+      "name": "Maho",
+      "text": "It's a darn shame I didn't get to meet no white horse,\nbut Lima here is so soft and lovely.\nIf I pet her, she won't pitch a fit, will she...?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "白馬はんに会えなかったんは残念やけど、\nリマはん、\nモフモフで\nかいらしいわ～\nなでても\n怒られへんやろか……？"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima. ♪\n(I won't get mad.\nLook, you can pet me. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマ～♪\n（怒らないわよ～\nほら、\nなでていいのよ～♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "I can pet ya?\nIf you're sure, then I won't hold back... Pet pet! ♪",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "なでてもええの？\nほんなら、\n遠慮なく……\nなでなで～♪"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima. ♪\n(It tickles a bit, but it feels good. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ～♪\n（すこしくすぐったいけど、\n気持ちいいわ～♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "Awww, you're so lovely.\nI wanna give you a bite to eat,\nbut I ain't got nothin'... Unless...?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "ああ、\nほんまにかいらしいわ～\nご飯とかもあげてみたいんやけど、\nうち、\nなんも持ってへんからな～……\nちら。"
+    },
+    {
+      "name": "Maho",
+      "text": "I wonder if someone around here might have just what we need... *glance*",
+      "choice_data_list": [
+        "Here's an apple."
+      ],
+      "orig_name": "真歩",
+      "orig_text": "どこのどなたはんか、\nちょうどええもん\n持ってへんやろか……\nちら。"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh my! My prince, what perfect timin'!\nYou're givin' me this apple?\nThank ya kindly.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "あらまぁ！　\n王子はん、\nええところに。\nこのリンゴ\nくれますのん？\nおおきに。"
+    },
+    {
+      "name": "Maho",
+      "text": "Lima, here's an apple for ya.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "リマはん、\nリンゴ\n食べはる？"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima. ♪\n(Thank you! Don't mind if I do. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマ～♪\n（ありがとう！　\nいただくわ～♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "You're sure enjoying that apple, ain't ya.\nYou truly are mighty lovely.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "おいしそうに食べはりますなぁ。\nほんにかいらしい。"
+    },
+    {
+      "name": "Maho",
+      "text": "Say, I wonder if Lima lets folks ride on her back.\nSure would be nice to hop on up there...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "せや、\nリマはんは人、\n乗せられへんのやろか。\n乗ってみたいわぁ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima?! Llima llima...?\n(Huh? You want to get on top of me? If it's you, then sure, I'll go with it...\nBut I'm not a fun ride.)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ！？　\nリマリマ……？\n（え？　\nわ、\n私に乗りたいの？　\n真歩ちゃんなら\n乗せられると思うけど……\n私に乗っても楽しくないわよ？）"
+    },
+    {
+      "name": "Maho",
+      "text": "I guess it's hopeless...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "やっぱりあきまへんかぁ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima, llima llima!\n(Come on! Don't stare at me with such sad eyes!\nFine! You did give me an apple, so climb on up!)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ、\nリマリマ！\n（もう！　\nそんな悲しそうな目でみつめないで！\n分かったわ！　\nリンゴももらっちゃったし、\n乗せてあげるから！）"
+    },
+    {
+      "name": "Maho",
+      "text": "What's that?\nYou'll let me on?\nThank ya ever so much, Lima.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "なんどすか？\n乗せてくれはるん？\nえらいおおきに、\nリマはん。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima, llima llima?\n(How does it feel, Maho?)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ、\nリマリマ～？\n（乗り心地はどう、\n真歩ちゃん？）"
+    },
+    {
+      "name": "Maho",
+      "text": "Wow, it's so soft and comfortable.\nYou're walkin' nice and slow for me, ain't ya?\nYou really are kind.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "わぁ、\nモフモフで気持ちえぇなぁ。\nうちに合わせて\nゆっくり歩いてくれはってるやろ？\nリマはんは\nほんに優しいなぁ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima.\n(It's only natural for girls to take good care of each other.)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマ～\n（女の子同士なんだから\n気を遣うのは当然よ～）"
+    },
+    {
+      "name": "Little Girl",
+      "text": "Wow!\nThat girl in the pretty dress is riding a horse!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "わぁ！\nきれいなお洋服着たおねえさんが\nお馬さんに乗ってる～！"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh, pretty, you say? Thank ya kindly.",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "あら、\nきれいやなんて。\nおおきに。"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima.\n(I'm definitely not a horse.)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ～\n（私はお馬さんじゃないんだけど～）"
+    },
+    {
+      "name": "Woman",
+      "text": "Wow, how cute!",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "わぁ、\nかわいい～！"
+    },
+    {
+      "name": "Man",
+      "text": "Are they shooting a movie?",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "なんかの撮影してるのかな？"
+    },
+    {
+      "name": "Maho",
+      "text": "To think the citizens of the Maho-Maho Kingdom would gather like this.\nIt's like a dream...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "マホマホ王国の住民が\nこんなに集まってきて。\n夢みたいやわぁ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima?\n(The Maho-Maho Kingdom...?)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマ？\n（マホマホ王国……？）"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh? My prince.\nCould that by any chance be a unicorn horn in that there shopping bag?",
+      "choice_data_list": [
+        "Er... It's a bamboo shoot."
+      ],
+      "orig_name": "真歩",
+      "orig_text": "あら？　\n王子はん。\nその袋に入ってるの、\nユニコーンの角やあらへん？"
+    },
+    {
+      "name": "Maho",
+      "text": "Ain't no doubt about it, it's a unicorn horn.\nWould you be a dear and pass it here?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "間違いなく\nユニコーンの角どす。\n貸しておくれやす。"
+    },
+    {
+      "name": "Maho",
+      "text": "I was right, it's a unicorn horn.\nThis sure would be the perfect fit for Lima...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "やっぱり\nユニコーンの角やわぁ。\nこれ、\nきっとリマはんに似合うやろうなぁ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima?! Llima...\n(A bamboo shoot on my head?!\nI don't think...)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマッ！？　\nリマ～……\n（タケノコを頭に！？\nそれは\nさすがに……）"
+    },
+    {
+      "name": "Maho",
+      "text": "If I tie it on with this lovely ribbon, \nyou'll look absolutely adorable...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "このかいらしいリボンで結んだら、\nえろうかいらしくなる思うんやけどなぁ……"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima? Llima llima! \n(Oooh? A cute, frilly ribbon!)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ？　\nリマリマ！\n（わぁ！　\nフリフリでかわいいリボン！）"
+    },
+    {
+      "name": "Maho",
+      "text": "I see. So you do wanna try on this unicorn horn, don'tcha?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "リマはん、\nやっぱり\nユニコーンの角\n着けてみたいやろ？"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima, llima. ♪\n(It's a hard pass on the bamboo shoot,\nbut the ribbon sure sounds nice. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ～♪\n（タケノコは着けたくないけど、\nリボンは着けてみたいわ♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "Tee hee. You wanna try it?\nWell then, I'll strap it on for ya.\nFirst, we tie the ribbon like this...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "ふんふん。\n着けてみたいどすか。\nそれなら\n着けてあげまひょ。\nまずは\nリボンをこうして結んで～"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima llima!\n(Wooow! Thank you!\nThis cute ribbon is wonderful. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマリマ～！！\n（わ～～！　\nありがと～！！\nかわいいリボン\nうれしいわ～～♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "I can see that you're thrilled.\nI'm sure glad.\nWhy don't we go on a li'l parade?",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "リマはん、\n喜んでくれてるみたいやなぁ。\nよかったわ～\n一緒に楽しく\nパレードしまひょ♪"
+    },
+    {
+      "name": "Lima",
+      "text": "Llima! Llima llima. ♪\n(Sure! You dolled me up with a lovely ribbon,\nso I'd be happy to parade around with you. ♪)",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ！　\nリマリマ～♪\n（うん！　\nかわいらしいリボンも結んでもらえたし、\n楽しくパレードするわ～♪）"
+    },
+    {
+      "name": "Maho",
+      "text": "So... about that unicorn horn...",
+      "choice_data_list": [],
+      "orig_name": "真歩",
+      "orig_text": "それで……\nユニコーンの角は\nいつ、\n着けましょかねぇ。"
+    },
+    {
+      "name": "Lima",
+      "text": "Lima?!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "リマ！？"
+    },
+    {
+      "name": "Maho",
+      "text": "Mmm... Huh?\nI must have dozed off.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "んんぅ……\nあれ？\nうち、\n寝てしまってたん？"
+    },
+    {
+      "name": "Lima",
+      "text": "*yawn*\nLooks like I fell asleep too.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "ふぁ～～\n私も寝ちゃってたみたい。"
+    },
+    {
+      "name": "Maho",
+      "text": "I feel like I was havin' myself a mighty pleasant dream.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "なんや\nえらい楽しい夢を\nみてた気がしますわ。"
+    },
+    {
+      "name": "Lima",
+      "text": "You too?\nI think I was dreaming about something really fun.\nBut somehow I'm feeling a little exhausted...",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "マホちゃんも？\n私も\n楽しい夢をみてたみたい。\nなんだか\n少し疲れた気もするけど……"
+    },
+    {
+      "name": "Maho",
+      "text": "............",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Lima",
+      "text": "Are you okay, Maho?\nYou're really staring at me.",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "どうしたの？　\nマホちゃん。\n私のことをジッとみつめて。"
+    },
+    {
+      "name": "Maho",
+      "text": "Lima, can I strap a unicorn horn to your head?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "リマはん、\n頭に\n角着けさせてくれへんやろか。"
+    },
+    {
+      "name": "Lima",
+      "text": "No way!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "イヤよ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Pretty please with a cherry on top?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そこをなんとかぁ。"
+    },
+    {
+      "name": "Lima",
+      "text": "...Well, if you use a cute, frilly ribbon,\nI'll let you do it this once, I guess!",
+      "choice_data_list": [],
+      "orig_name": "リマ",
+      "orig_text": "……フリフリの\nかわいいリボンも着けてくれるなら\n考えないでもない、\nかしら。"
+    },
+    {
+      "name": "Maho",
+      "text": "Lima...!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "リマはん……！！"
+    },
+    {
+      "name": "Narration",
+      "text": "And thus, {0} and his companions descended the tower,\ntalking happily about the ribbon to be worn on Lima's head.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "リマの頭に着けるリボンについて仲良く話しながら塔を降りる\n{0}たちであった。"
+    }
+  ]
+}

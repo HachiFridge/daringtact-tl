@@ -1,0 +1,922 @@
+{
+  "title": "Part 4 Ch. 1 Ep. 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and his companions make their way toward the city through the cave where they had taken refuge. As they hurry across the muddy, treacherous ground, they bring Ameth up to speed on everything that's happened.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "逃げ込んだ洞窟から、\n街を目指す{0}たち。\nぬかるんで足場の悪い地面を、\n急ぎ足で進みながら\nこれまでの状況をアメスに説明していた。"
+    },
+    {
+      "name": "Saren",
+      "text": "...And then we were attacked by that weird robot and... well, you know the rest. Anyway, thanks again. You really saved us. If you don't mind, I'm going to call you \"Ameth-san\" from now on. It feels a little more friendly.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "──で、\n魔物やあの変なロボに襲われて、\nって感じで……\n改めてありがとう、\nおかげで助かったわ。\n親しみを込めて、\nアメスさんと呼ばせてもらうわね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You're welcome.\n...Was that the first time I've spoken directly with you, Saren-chan?\nI've known about you for so long that I already felt like we were old friends.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "どういたしまして。\n……サレンちゃんと直接話すのは初めてだったっけ？\n一方的に知っているから、\nすっかり顔なじみだと思ってたわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Anyway, I'm glad I got to see you and {0} again. Given the circumstances, though, we don't exactly have time to celebrate our reunion.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "とにかく、\nこうしてまた{0}たちに会えてよかった。\n状況が状況だけに、\n再会を喜ぶ暇もないけどね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "There's something that caught my attention while I was listening to your story. Mind if I ask about it?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "で、\n話を聞いていて\n一つ引っかかったんだけど。\nいいかしら？"
+    },
+    {
+      "name": "Ameth",
+      "text": "That terrorist who launched the cyberjack attack in the real world...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "現実世界でサイバージャックを起こした、\nそのテロリストって──"
+    },
+    {
+      "name": "Ameth",
+      "text": "Isn't it \"Nova\"...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "『ノヴァ』じゃない……？"
+    },
+    {
+      "name": "Ameth",
+      "text": "So your memories of that time are still hazy...\nYou know, before we lost to Kaiser Insight and Astrum was rebuilt.\nThat shiny silver guy we fought several times, back when I was Fio.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あの頃の記憶は、\nまだ曖昧なままなのね……\nほら、\n覇瞳皇帝に負けて\nアストルムが再構築する前の話。\nあたしがフィオだった時に、\n何度か戦った\nあの銀ピカよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Back then, I seem to recall him talking about leading the Star Beasts to conquer Astrum or something like that...\nBut to think he'd actually stage an attack towards reality...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あの時は、\n魔星獣を引き連れて、\nアストルムを支配するとか、\n何とか言ってた気がするけど。\nまさか現実世界にも攻撃を仕掛けるなんて……"
+    },
+    {
+      "name": "Saren",
+      "text": "Come to think of it, I do seem to recall something like that...\nI'd completely forgotten about it, too...\nBut why now?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "そういえば、\nそんなのいた気がするわね……\nあたしもすっかり忘れていたわ……\nでも、\nなんで今頃？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Actually, there was an unexplained access incident in Geo Gehenna the other day. They may have been preparing for this very moment.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "実はこの前、\nジオ・ゲヘナで原因不明のアクセスがあったのよ。\nこの日のために、\n何か準備を進めていたのかもしれないわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "That robot from earlier is likely one of Nova's comrades.\n...Though it doesn't strike me as a Star Beast monster or anything of the sort.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "さっきのロボットも\nノヴァの仲間でしょうね。\n……あれは\n魔星獣でも何でもなさそうけど。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Anyway, I'm just glad Aglaia is safe. It's a silver lining that she found you for help, {0}.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "とにかく、\nアグライアも無事でよかったわ。\n{0}と一緒だったのは不幸中の幸いね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Huh...? You two are acquainted?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あれ……？\n二人は知り合いなの？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Yes, Lady Ameth is a colleague of mine. She provides support for managing the Upper World.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はい、\nアメスさまは\nわたしの同僚ですよ。\n表世界の管理に関わるサポートをしていただいています。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Aglaia happens to be one of the Administrators of the current Upper World.\nYou didn't know...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "アグライアは、\n今の表世界の管理者の一人でもあるのよ。\n聞いてなかったの……？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "H-Huh? I didn't disclose it...?",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "あ、\nあれ？\n共有できていなかったですか……？"
+    },
+    {
+      "name": "Saren",
+      "text": "That's the first I've heard of it...\nWell, things like that happen when you're busy.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "今初めて聞いたわね……\nまぁ、\n忙しいとそんな時もあるわよ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I am so sorry! I will be more careful from now on...\nAs Lady Ameth said, I am indeed one of the Administrators of the Upper World.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "すみませんっ！　\n以後気を付けます……\nアメスさまが仰る通り、\nわたしは\n表世界の管理者の一人なのです。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Before merging with LoA, Lady Minerva left a message regarding the future.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ミネルヴァさまは\nLoAと一体化する前に、\n今後に関するメッセージを残していたのよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "The message stated that the Five Great Spirits would share the responsibility of governing the Upper World...\nAnd it listed my name as the bridge between the Upper World and the Under World.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そのメッセージには、\n表世界は\n五大精霊が分担して管理すること。\nそして表世界と裏世界の橋渡しとして、\nあたしの名前が書いてあったわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "By the way, the one in charge of the Under World is Croce.\nYou know that well enough, don't you?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ちなみに裏世界の管理は、\nクローチェが担ってくれている。\nそれは、\nあんたもよく知っているわよね。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "So, allow me to reiterate...\nI am the Great Spirit of Light, one of the Administrators of the Upper World...\nAnd right now, I'm also Lord Knight's guide!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "というわけで\n改めてではありますが、\nわたしは光の大精霊でもあり、\n表世界の管理者の一人でもあり──\nそして今は、\n騎士さまのガイド役でもあるのですっ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Eh...?! Didn't you just casually add a new title to that bucket list?! His guide is ME! What's going on here?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "えっ……！？　\n今しれっと肩書が増えてなかった！？\nこいつのガイド役はあたしよ、\nどういうこと！？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I'll explain! I was personally appointed to this position by Lord Knight earlier.\nOh, of course, I fully intend to balance this with my other duties.\nPlease rest assured, I'll be working just as furiously as ever...!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はいっ！　\n先ほど、\n騎士さまに直々に任命いただきました。\nあっ、\nもちろん、\n他の仕事とも両立するつもりですよ。\nご安心ください。\nこれまで通り、\n猛烈に働きますので……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "No, no. You don't need to take on such a role, Aglaia. You should leave being his guide to me and focus on your other tasks.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いやいや。\nアグライアが、\nそんなことする必要はないわ。\nガイド役はあたしに任せて、\n他の仕事に集中するべきよ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Umm...? I thought it might help lighten your burden, Lady Ameth, now that you've taken on the additional responsibility of serving as the bridge between the worlds...\nAh! Please don't worry about me!\nI'll work myself to the point of becoming a worn-out rag if I have to, so please don't hold back♪",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "ええと……？　\n新たに橋渡し役の仕事が増えたアメスさまの負荷も、\n軽減されるかと思ったのですが……、\nあっ！　\nわたしでしたら\nボロ雑巾になってでも働きますので、\n気を遣わないでくださいっ♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "Talking about becoming a worn-out rag isn't exactly reassuring...\nHey, what is the meaning of this?\nI am supposed to be your guide, aren't I?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ボロ雑巾は余計に気を遣うわよ……\nちょっとあんた、\nどういうことよ！　\nあんたのガイド役はあたしでしょ。"
+    },
+    {
+      "name": "Saren",
+      "text": "...Even as childhood friends, there are times when I just can't help you.\nSo don't give me those puppy eyes...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……幼なじみのよしみでも、\n助けてあげられないことがあるわ。\nだから子犬みたいな顔であたしを見ないで……"
+    },
+    {
+      "name": "Aglaia",
+      "text": "M-My deepest apologies, Lady Ameth...!\nIt was presumptuous of someone as inexperienced as me to take on the role of guide. I withdraw my claim.\nUm, as an apology, please accept these 100 \"Light Shoulder Massage Coupons\".",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "も、\n申し訳ありません、\nアメスさま……！\n未熟なわたしがガイド役など、\n出過ぎた真似でした。\n辞退します。\nあの、\nお詫びとして、\n光の肩たたき券100枚をお納めください。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You didn't really have to go that far... but since you're offering, I'll take them.\nWell, I suppose I can acknowledge you as a guide-in-training.\n...I guess I kind of got a bit worked up about it, too.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "別にそこまでしなくても……\nでも、\nせっかくだしもらっておくわ。\nまぁ、\nガイド役見習いってことなら、\n認めてあげてもいいわよ。\n……なんか、\nあたしもムキになっちゃったしね。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Lady Ameth... thank you very much!\nThe \"Light Shoulder Massage Coupons\" have no expiration date, so please feel free to use them whenever you like.\nI will massage your shoulders with all my heart.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "アメスさま、\nありがとうございます……\n光の肩たたき券は、\n有効期限もないので、\nいつでもご利用ください。\n心を込めて、\n肩を叩かせていただきます。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "And, Lady Saren... I am sorry for dragging you into this.\nYou seemed troubled earlier, saying that \"sometimes even a childhood friend can't help\" so, if you wish, I could take on the role of his \"childhood friend\" as well...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "そして、\nサレンさま。\n巻き込んでしまい、\nすみませんでした。\n先ほど\n「幼なじみでも助けられないこともある」\nとお困りのようでしたし\nご希望であれば、\nわたしが「幼なじみ」のお仕事も──"
+    },
+    {
+      "name": "Saren",
+      "text": "Thank you. But being a childhood friend isn't a job in the first place.\nSo I don't think there's really anything to \"help out\" with. It's fine.\nAfter all, I'm his ONLY childhood friend.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ありがとう。\nでも、\nそもそも幼なじみは仕事じゃないわ。\nだから、手伝うとかそういうのは無理だと思うの。\nだから大丈夫よ。\nこいつの幼なじみは、\nあたしだけなんだから。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Hah...! Could it be that I've made the same mistake again...?!\nMy deepest apologies! I will send you 100 vouchers for my \"Light Housekeeping Service\", Lady Saren...!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はっ……\nもしかして、\nわたしはまた同じ過ちを……！？\n申し訳ありません！\nサレンさまには、\n光の家事代行サービス券100枚をお送りします……！"
+    },
+    {
+      "name": "The Three",
+      "text": "You're right...!\" \"True...!",
+      "choice_data_list": [],
+      "orig_name": "三人",
+      "orig_text": "「そうでした……！」\n「そうだったわ。」"
+    },
+    {
+      "name": "Ameth",
+      "text": "No, you're partly to blame for this, you know?\n...Wait, more importantly, I have something to report to Aglaia.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いや、\nあんたも悪いのよ？\n……って、\nそれよりもアグライアに報告があるんだった。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Aglaia. I've completed the evacuation orders in accordance with the emergency response manual.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "アグライア。\n緊急時の対応マニュアルに沿って、\n避難指示を完了したわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I've also confirmed that all the residents of Landosol have evacuated to the Under World thanks to the cooperation between the Royal Knights of NIGHTMARE and Lyrael.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】と\nライラエルたちに協力を要請して\nランドソルの全住民が\n裏世界に避難したことも確認済みよ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Thank you so much, Lady Ameth! I'm so glad...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "ありがとうございます、\nアメスさま！\nよかったです……"
+    },
+    {
+      "name": "Saren",
+      "text": "Huh? Then... everyone at the Orphanage...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "え？\nそれじゃあ、\n救護院のみんなも……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yes, they're part of that group, of course. By now, they're probably enjoying some delicious Geo Teogonia sweets.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええ、\nもちろん無事よ。\n今頃、\nジオ・テオゴニアでお菓子を楽しんでいるんじゃないかしら。"
+    },
+    {
+      "name": "Saren",
+      "text": "Thank goodness...! Ameth-san... thank you!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "よかった……！\nアメスさん、\nありがとう……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "H-Hey, Saren-chan?! Calm down, it hurts...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ちょ、\nちょっとサレンちゃん！？\n落ち着いて、\n苦しいわ……"
+    },
+    {
+      "name": "Ameth",
+      "text": "...For starters, the reason the evacuation went so smoothly was thanks to the relationship {0} and you all had built with the three Underworlds.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……そもそも、\n避難をスムーズに進められたのは\n{0}たちが裏世界と築いた\n関係性があったからよ。"
+    },
+    {
+      "name": "Saren",
+      "text": "To think that our adventures up until now would come in handy like this.\nThank you, {0}.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……これまでの冒険が\nそんなふうに活きるだなんて。\nあんたも、\nありがとうね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "The only thing left is figuring out how to defeat enemies that are immune to our attacks. If we don't solve that problem, we have no chance of winning.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あとは、\n攻撃の効かない敵をどう倒すかね。\nこの問題をクリアしないと、\nあたしたちに勝ちはないわ。"
+    },
+    {
+      "name": "Saren",
+      "text": "Come to think of it, when I attacked with my sword, it felt like the impact just passed right through.\nCould some kind of power be nullifying the physics calculations...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……そういえば、\n剣で攻撃したとき\n衝撃が\nすり抜けたような感覚があったわ。\n何かの力で、\n物理演算を\n無効化しているとか……？"
+    },
+    {
+      "name": "Saren",
+      "text": "Our attacks couldn't affect them, yet for some reason, their attacks worked perfectly fine against us. Could it really be some kind of cheat...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こっちの攻撃は通じないのに、\n何故か敵からの攻撃は有効だったし。\nやっぱり、\nチートか何かかしら……？"
+    },
+    {
+      "name": "Ameth",
+      "text": "But your attacks didn't work on the local monsters either, right?\nI can excuse that robot being able to pull off a cheat, but those monsters?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも\n魔物にも攻撃が通じなかったのよね？\nロボットはまだしも、\n普通の魔物もそんなことできるかしら？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Ah... Perhaps it's not so much related to one's ability, but rather some kind of force acting upon the entire area.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "あ……\nもしかすると\n個体の能力というより、\nエリア全体に\n何かの力が作用しているのかもしれません。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Actually, I was unable to exercise my Administrator privileges over the Upper World.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "実は、\n表世界の管理者権限が行使できなかったのです。\n何故か\n異変がある領域が表世界とは判定されず\n権限が使えませんでした。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I looked into it, thinking it might be a bug...\nBut if anything, I got the impression that this situation was actually part of the system's design.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "不具合と思って、\n調べてみたのですが。\nむしろ、\nこの状況が仕様である……\nそんな印象でしたね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "\"Part of the system's design\", huh...\nIn that case, it's probably best to assume that the people who captured Euros have imposed some sort of rules on this world.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "「この状況が仕様」\nか……\nそれじゃ、\nエウロスを捕まえた連中によって\n何らかのルールが適応されている\nと考えるのがよさそうね。"
+    },
+    {
+      "name": "Saren",
+      "text": "Let's work it out by cross-referencing this development with the clues we have at hand. If we connect the scattered dots, a pattern might emerge.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "他の手がかりとも照らし合わせて、\n考えてみましょう。\nバラバラの点も\n線で繋げてみると、\n何か法則が見えるかもしれないわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Let's see. Shall we go back to the very beginning?\n...For instance, what was it like right after you logged in?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そうね。\n頭から振り返ってみましょうか。\n……例えば、\nログイン直後はどうだったの？"
+    },
+    {
+      "name": "Saren",
+      "text": "Exactly! That way of logging in isn't normal. Not only we dropped out of the air for no reason, we even landed on a random location!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "それよ！　\nあんなログインの仕方、\n普通じゃないわ。\nログインと同時に空中落下するし、\nスタート位置もランダムだったし。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I suppose that's true.\nI also found myself falling through the air in the real world, and that's how I met Lord Knight when he caught me...\nSo perhaps it is normal?",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "そう\nですね。\nわたしも\n現実世界で空中落下していたところ、\n騎士さまに受け止めてもらって出会えましたし……\n普通\nなのかも？"
+    },
+    {
+      "name": "Saren",
+      "text": "That's just the two of you being unusual!\nStarting by free-falling through the sky is definitely an anomaly.\nIt's far too dangerous, no matter how you look at it.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あんたたちが特殊なだけよ！\n空中落下から始まるのは異変でしかないわ。\nどう考えても\n危なすぎるもの。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "I-I see... thank you for pointing that out.\nAh, come to think of it... the swarm of tornadoes I saw from the sky back then was strange, too.\nThey were moving in a circle, as if surrounding the continent.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "な、\nなるほど……\nご指摘ありがとうございます。\nって、\nそういえば。\nあの時、\n空から見えた竜巻の群れも変でしたよ。\n円状に大陸を取り囲むように動いていました。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I observed the behaviour of those tornadoes as well. They've been moving in such a way as to shrink the safe zone into an ever-smaller circle.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "竜巻については、\nあたしの方でも観測したわ。\n安全地帯を、\n円状に縮小するように進行し続けていた。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Cross-referencing the coordinates... it looks like the final safe zone will be limited to the center of Landosol.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "座標と照らし合わせると、\n最終的な安全地帯は……\nランドソルの中心部だけになる見込みよ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "In that case, instead of wandering around aimlessly looking for enemies... \nIt seems likely that the final showdown will take place in the center of the city.\nI hope I can reunite with Big Sister Euros there, too...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "となると、\nあてもなく敵を探し回らないでも……\n最後は必ず\n街の中心で対決することになりそうですね。\nエウロスお姉ちゃんとも、\nそこで再会できるといいですが……"
+    },
+    {
+      "name": "Aglaia",
+      "text": "However, I sense an underlying intention behind the deliberate creation of a safe zone. What is the enemy trying to achieve?",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "しかし、\nわざわざ安全地帯を用意することに、\n何か意図を感じます。\n敵は何がしたいのでしょうか？"
+    },
+    {
+      "name": "Ameth",
+      "text": "That's certainly possible. As the safe zone shrinks, everyone will be forced to keep moving toward the center.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……たしかに、\n安全地帯が縮小していくにつれて、\n全員が、\n中心に向かって\n移動し続ける必要があるわね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "And the smaller the circle becomes, the more likely we are to encounter the enemy. It's designed to make sure there will be a final showdown...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そして円が小さくなるほど、\n敵との遭遇率も高くなる。\n最後は必ず\n決着がつくようになってるんだわ……"
+    },
+    {
+      "name": "Saren",
+      "text": "I feel like I'm on the verge of grasping something.\nIs there something we've overlooked regarding the difference between us and the enemy...?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "もう少しで、\n何か掴めそうな気がするわ。\nあたしたちと\n敵との違いに、\n何か見落としがあるのかしら……？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "You are absolutely right, Lord Knight! We relied on swords and magic, but both the robots and the monsters used guns as weapons.",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "騎士さまの言う通りです！　\nわたしたちは剣と魔法でしたが、\nロボットも魔物も\n銃を武器にしていました。"
+    },
+    {
+      "name": "Ameth",
+      "text": "In short, it starts with dropping into a random location from the air, there's a tornado that shrinks the safe zone into a circle, and the combat involves using guns...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……つまり、\n空中落下でランダムな場所に降り立つことから始まり、\n円状に\n安全地帯を縮小する竜巻があって、\n戦いは銃を使う……"
+    },
+    {
+      "name": "Saren",
+      "text": "Hm? Doesn't this sound like...",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ん？　\n何だかこれって……"
+    },
+    {
+      "name": "Saren",
+      "text": "Yes. It really is a dead ringer.\nIt's always exciting to see someone make it all the way to the end in that genre.\n...Though I've only ever watched livestreams of those games. I've never actually played one myself.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ええ。\n確かに、\nそっくりよ。\nあのジャンル\n最後まで生き残るとうれしいのよね。\n……まぁ実況を見ただけで、\nあたしはできたことないけど。"
+    },
+    {
+      "name": "Saren",
+      "text": "...It gave me a battle royale FPS vibe, though. You know, that genre where you use guns and fight it out until only one player is left standing.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……あたしは、\nバトルロイヤルFPSっぽさを感じたけど。\n鉄砲を使って、\n最後の１チームになるまで戦い抜く\nゲームジャンルよ。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "You mean the rules of an FPS game are being superimposed onto the field...?\nBut that shouldn't be possible...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "FPSゲームのルールが、\nフィールドに上書きされていると……？\nしかし、\nそんなことできるはずが……"
+    },
+    {
+      "name": "Ameth",
+      "text": "The other five Great Spirits are missing, leaving the Upper World in an unstable state.\nThere might have been an opening to hack into certain areas using the missing data.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "他の五大精霊が行方不明で、\n表世界は不安定な状況よ。\n欠落したデータから\n一部領域を\nハックする隙があったのかもしれない。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Besides, we're dealing with someone capable of cyberjacking the real world.\nIt wouldn't be surprising if they had some pretty advanced technology.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それに、\n現実世界をサイバージャックするような相手だし。\n高い技術力を持っていても\n不思議じゃないわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "To gain the upper hand in the battle and capture Aglaia...\nI suppose it's only natural to assume that's why the rules were rewritten.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "戦いを有利に進めて、\nアグライアを捕まえるため。\nそのために\nルールを書き換えたと考えるのが自然かしら。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...No, I feel like that's excessive for that goal alone.\nMaybe they have something else in mind...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……いや、\nそれにしては\nちょっと大げさな気もするわね。\nまだ何か\n狙いがあるのかも……"
+    },
+    {
+      "name": "Saren",
+      "text": "It bugs me that we'd be playing on their turf, but if we're stuck fighting in an FPS-style area, I'd like a gun of my own\nSo... Does any of you happen to have one?",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "相手の土俵にあがるみたいでシャクだけど\nFPSのエリアで戦わなきゃいけないなら、\nこっちも銃が欲しいわね。\n……で、\n誰か持ってたりしないかしら？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Unfortunately, that's not something we can just whip up on short notice...\nEven the guns used by Misora and Croce are rare weapons, justified by the setting as relics of an ancient civilization.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "残念ながら、\nすぐ用意できるものではないわね……\nミソラとクローチェの銃だって、\n古代文明って設定の\nレア武器だし。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "...Hm?! Wall of light!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "！？\n光の壁よ！"
+    },
+    {
+      "name": "Chiron",
+      "text": "Impressive reaction speed, Spirit of Light.\nBut you have no path to victory. Surrender.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "良い反応速度ですね、\n光の精よ。\nですが\n勝ち筋はありません。\n投降しなさい。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Ah, sure...!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "あ、\nはい……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Huh?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "え！？"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Ah, no!\nIt spoke in a commanding tone, so I just reacted out of habit.\nI have no intention of surrendering...!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "あっ、\n違います、\n命令口調で言われたので\n癖でつい反応してしまっただけです。\n投降するつもりはありません……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Get it together, will you? Then again, that robot was one step ahead of us...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "しっかりしてよ？\nというか、\nあのロボ先回りしてたのね……"
+    },
+    {
+      "name": "Saren",
+      "text": "We still don't have a weapon that works against it...\nAglaia, use that blinding move once again!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "こっちには、\nまだあいつに有効な武器がない……\nアグライア、\nもう一度目くらましよ！"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Yes, close your eyes!\n[rub:Shine]\"A White Spectacle\"[/rub]!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はい、\n目を閉じてください！\n[rub:シャイン]白の光景[/rub]！"
+    },
+    {
+      "name": "Chiron",
+      "text": "It's useless.\n...Fire.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "無駄です。\n──ファイア。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Kya!?\n...T-The flash didn't work!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "きゃ！？\n……め、\n目くらましが効いておりません！"
+    },
+    {
+      "name": "Chiron",
+      "text": "I have already taken countermeasures. By repeatedly correcting our methods based on failure, we reach ever greater heights.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "対策済みです。\n失敗から修正を重ねることで、\n更なる高みへ至るのです。"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Ugh... At this rate, we'll be stuck on the defensive.\nAnd just when we finally found a way to fight back...",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "うぅっ……\nこのままでは防戦一方です。\nせっかく対抗手段が見つかったのに……"
+    },
+    {
+      "name": "？？？",
+      "text": "...Lord...!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "『──、\nまっ……！』"
+    },
+    {
+      "name": "？？？",
+      "text": "My Lord, can you hear me~?!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "『──主さま、\n聞こえますか！？』"
+    },
+    {
+      "name": "Kokoro",
+      "text": "My voice has finally reached you!\nIt is I, Kokoro.\nI have finished uploading the data.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "やっとお声が届きました！　\nこころでございます。\nデータのアップロード\n完了いたしました。"
+    },
+    {
+      "name": "Ameth",
+      "text": "KYAAAAAAAAAHN☆ A surprise Kokkoro-tan?!\nWhat's this, a hologram?! How are we connected?!\nAnd what's with that outfit?! It looks absolutely adorable on you!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "きゃああああん☆　\nサプライズコッコロたん！？\nなに、\nホログラム！？　\nどうやって繋いでるの！？\nというか、\nその姿は何！？　\nすっごい似合ってる！"
+    },
+    {
+      "name": "Saren",
+      "text": "Ameth-san, calm down...!?\nMore importantly, where are you, Kokkoro?!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "アメスさん落ち着いて……！？\nというか、\nコッコロはどこにいるの！？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "I am far away... My Lord, for now, focus on granting everyone your power of strengthening.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『遠く離れた場所におりますよ。\n主さま、\nとにかく今は\nみなさまに強化の力を』"
+    },
+    {
+      "name": "Saren Ameth",
+      "text": "This is...!?",
+      "choice_data_list": [],
+      "orig_name": "サレン・アメス",
+      "orig_text": "これは……！？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Neo Tactical Suit [rub:Gamma]γ[/rub], commonly known as \"Gunner Equipment\".\nNow you should be able to fight back in areas turned into an FPS.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『ネオ・タクティカルスーツ\n[rub:ガンマ]γ[/rub]、\n通称\n「ガンナー装備」でございます。\nこれで\nFPSに侵食されたエリアでも\n戦えるはずです』"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Huh? But I haven't changed at all!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "えっ、\nわたしは何も変わってませんよ！"
+    },
+    {
+      "name": "Saren",
+      "text": "We'll handle the fighting.\nAglaia, please keep up the defense!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あたしたちが戦うわ。\nアグライアは、\n引き続き\n防御をお願い！"
+    },
+    {
+      "name": "Chiron",
+      "text": "Prioritizing the neutralization of active combatants.\nTarget reassignment: Saren, Ameth.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "有効戦力を優先して\n無力化します。\nターゲット。\nサレン、\nアメスに変更。"
+    },
+    {
+      "name": "Ameth",
+      "text": "No, wait a sec!\nI've never shot a gun in my life!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いや待って！\nあたし銃なんて撃ったことないんだけど！"
+    },
+    {
+      "name": "Saren",
+      "text": "Same here, but we've just got to get used to it in the heat of battle! Take this!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "あたしもよ、\nでも戦いの中で\n慣れるしかないわ！\nくらえっ！"
+    },
+    {
+      "name": "Chiron",
+      "text": "Hit probability: 1%.\nTargets classified as \"Shit Aim\".",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "被弾確率\n１％、\n二人をクソエイムと認定。"
+    },
+    {
+      "name": "Saren Ameth",
+      "text": "WHO ARE YOU CALLING \"SHIT AIM\"?!",
+      "choice_data_list": [],
+      "orig_name": "サレン・アメス",
+      "orig_text": "誰がクソエイムよ！"
+    },
+    {
+      "name": "Chiron",
+      "text": "Baiting successful. Target in sight... fire.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "煽りプレイ成功。\nターゲット・インサイト、\nファイア。"
+    },
+    {
+      "name": "Saren Ameth",
+      "text": "KYAAA!?",
+      "choice_data_list": [],
+      "orig_name": "サレン・アメス",
+      "orig_text": "きゃあ！？"
+    },
+    {
+      "name": "Saren",
+      "text": "We have to land a hit somehow...\nIf things keep going like this, we're done for!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "どうにかしてヒットさせないと……\nこのままじゃ、\nやられちゃうわ！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "I have researched FPS tactics for both of you. I would like to propose a \"crossfire\" formation.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『お二人とも、\nFPSの戦術をリサーチしました。\nわたくしからは\n[rub:クロスファイア]十字砲火[/rub]を提案いたします』"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Launch your attacks so that the bullets cross paths from different directions. This will make dodging significantly harder and should increase your hit rate.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『異なる方向から銃弾が交差するように、\n攻撃をしてください。\n回避の難易度が跳ね上がり、\n命中率も上がるはずです』"
+    },
+    {
+      "name": "Ameth",
+      "text": "You mean we should flank the enemy?! But how...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "敵の側面に回れってこと！？\nでも、\nどうすれば……"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Lady Ameth, right now you can demonstrate greater mobility than ever before. The Gunner equipment has added a boost function to your wings.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『アメスさま、\n今ならいつも以上の機動力を発揮できますよ。\nガンナー装備によって、\n羽にブースト機能が追加されております』"
+    },
+    {
+      "name": "Saren",
+      "text": "Alright! I'll pin down the enemy's movements as much as I can!\nIn the meantime, Ameth-san, use your acrobatic moves to flank them!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "よし！　\nあたしが敵の動きを\nできるだけ封じ込めるわ！\nその間に、\nアメスさんはアクロバティックな動きで側面を取って！"
+    },
+    {
+      "name": "Ameth",
+      "text": "\"Acrobatic moves\"?! Saren-chan, this isn't the time to be saying \"Alright!\" and leave it to chance!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "アクロバティックな動き！？\nサレンちゃん、\nなにも\n「よし！」じゃないわよ！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Lady Ameth... if it is you, I believe you will succeed.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『アメスさま。\nわたくし、\nアメスさまならできると信じております』"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yaaan☆ If Kokkoro-tan is cheering for me, then I'll pull off moves that are acrobatic... or even exotic! Boost function... ON!!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "やぁん☆　\nコッコロたんが応援してくれるなら\nアクロバティックでも\nエキゾチックでも\nやってみせるわ！\nブースト機能、\nオンっ！！"
+    },
+    {
+      "name": "Ameth",
+      "text": "KYAAAAH?! I'VE LOST CONTROL OF MY WINGS?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "きゃああああっ！？\n翼の\nコントロールが！？"
+    },
+    {
+      "name": "Saren",
+      "text": "AMETH-SAN?!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "アメスさん！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Even so... I gained enough momentum to flank it! Fire!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも、\n勢い余って横を取れた！\nいけっ！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Hit! Who's the \"shit aim\" now?!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ヒット！\n誰がクソエイムよ！"
+    },
+    {
+      "name": "Saren",
+      "text": "Nice, Ameth-san! Press the attack! Take this!",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "ナイス、\nアメスさん！\nこの調子で、\n押していくわよ！　\nくらえっ！"
+    },
+    {
+      "name": "Chiron",
+      "text": "Hit probability adjusted to 10%.\nUsing cover to isolate and eliminate the target.\nTarget: Saren.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "被弾確率\n10％に修正。\n遮蔽物を利用し、\n分断撃破を狙います。\nターゲット、\nサレン。"
+    },
+    {
+      "name": "Rukbat",
+      "text": "...Time's up. Withdraw. A tornado is approaching.",
+      "choice_data_list": [],
+      "orig_name": "ルクバト",
+      "orig_text": "『──時間切れよ、\n撤退して。\n竜巻が接近している』"
+    },
+    {
+      "name": "Chiron",
+      "text": "Understood. Flexibility is the key to achieving our objective. Withdrawing now.",
+      "choice_data_list": [],
+      "orig_name": "キロン",
+      "orig_text": "了解。\n柔軟な判断こそ\n目的達成の鍵。\n撤退します。"
+    },
+    {
+      "name": "Saren",
+      "text": "...It escaped... But it looks like those guns did the trick. Looks like we can finally put up a real fight.",
+      "choice_data_list": [],
+      "orig_name": "サレン",
+      "orig_text": "……逃げられちゃった……\nでも、\nこの銃の攻撃は通じたみたい。\nやっとまともに戦えそうね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yes. Kokkoro-tan's strategy worked out perfectly, too.\nI really pulled off some acrobatic moves♪",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええ。\nコッコロたんの作戦も上手くいったわね。\nアクロバティックに決めてやったわ♪"
+    },
+    {
+      "name": "Aglaia",
+      "text": "Yes, that was splendid.\nHowever, a tornado is closing in...!",
+      "choice_data_list": [],
+      "orig_name": "アグライア",
+      "orig_text": "はい、\nお見事でした。\nですが、\nもう竜巻が近くまで迫ってきています……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Crap! We'd better hurry...!\nBut more importantly, where ARE you, Kokkoro-tan?! Are you doing okay?!\nI want to see you right now, give you a big ol' hug, and snuggle you to death!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "やばっ！　\nあたしたちも、\n先を急ぎましょう……！\nというか、\nコッコロたんは結局どこにいるの！？　\n元気にしてるの！？\n今すぐ会って\nぎゅ～\nって抱きしめて\nクンクンしたいんだけど！？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Yes, I am doing well. I am currently communicating from the world of reality... I shall explain the details while you are on the move.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "『はい、\n元気でございますよ。\n今は現実世界から通信しておりまして……\n詳しくは、\nご移動の間に説明いたしますね』"
+    },
+    {
+      "name": "Narration",
+      "text": "Saren and Ameth acquired the Gunner Equipment and drove off the mysterious robot. As {0} and the others made their way toward the city, they listened to Kokoro explain what she was doing in the real world.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "サレンとアメスはガンナー装備を手に入れ、\n謎のロボットを退けた。\n街を目指す{0}たちはその道すがら、\n現実世界にいるというこころの話を聞くのだった。"
+    }
+  ]
+}

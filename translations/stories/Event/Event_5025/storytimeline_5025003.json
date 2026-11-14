@@ -1,0 +1,364 @@
+{
+  "title": "One Door Apart",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Misogi returns to the mansion with {0} in tow,\ndetermined to save Mimi and Kyoka.\nSoon after they arrive, they hear Kyoka's voice coming from thin air.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ミミとキョウカを救うため、\nミソギと共に墓地へとやってきた{0}。\nそんな中、どこからかキョウカの声が聞こえてくる。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Kyoka, where are you? I can hear your voice, but...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "キョウカ、\nどこにいるの？　\n声は聞こえるのに……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Umm... I'm in a graveyard...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっと……\nお墓、\nなんだけど……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Huh? We're in the graveyard too!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっ？　\nミソギたちもお墓にいるよ？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Um, no... It looks the same, but... I think it's actually different...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "違うの……\n同じように見えるけど、\nなんか\n違う場所みたいで……"
+    },
+    {
+      "name": "Misogi",
+      "text": "What do you mean?! I don't get it!",
+      "choice_data_list": [
+        "Maybe she's in the spirit realm."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "どういうことー！　\nわけ分かんないよー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "That voice... Is {0} out there too?\nNo, hold on. The \\\"spirit realm\\\"...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "その声、\n{0}さんもいるんですか？\nそれよりも、\n霊界って……"
+    },
+    {
+      "name": "Misogi",
+      "text": "At Halloween, the boundary between worlds gets thinner?\nSo a door might have opened to the spirit realm...?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……ハロウィンの日は、\nあの世とこの世の境が\n曖昧になる？\nだから霊界につながる扉が\n開いてるのかもって……"
+    },
+    {
+      "name": "Misogi",
+      "text": "B-but mister, why do you know all this stuff?\nAre you one of those spirit mediums?",
+      "choice_data_list": [
+        "A bunch of stuff happened last Halloween..."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "に、\nにいちゃん、\nどうしてそんなこと知ってるの？\nもしかして、\nれーのーりょくしゃ？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Um, \\\"stuff\\\"...? This kind of thing isn't exactly normal!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "色々って……\nこんなこと\n滅多に起こりませんよ？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Oh! Maybe it's the door to the mansion!\nThe ghosts only started appearing after we went inside!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あー！　\nじゃあ、\n屋敷の扉がそうなのかも！\n幽霊が出たのも、\n全部中に入ってからだったし！"
+    },
+    {
+      "name": "Misogi",
+      "text": "But... that's not gonna help when the stupid thing won't open!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……って、\nそれが分かっても開かないならどうしようもないじゃーん！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wait, Misogi! If we're still able to talk like this,\nmaybe the boundary really is thin...\nIf you and me attack the door from both sides at once...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "待ってミソギ！　\nこうやって会話ができてるってことは、\n意外とその境目って薄いのかも……\n私とミソギ、\n両方から同時に強い衝撃を与えれば……"
+    },
+    {
+      "name": "Misogi",
+      "text": "B-but our attacks aren't all that strong...\nNo, wait! We've got Mister {0} now!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "で、\nでも\nミソギたちじゃそんな強い攻撃は……\nそうだ！　\nにいちゃんがいたじゃん！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yes. If he lends us his power...\nMisogi! Stand by the door! I'll go back to the hall too!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うん。\n{0}さんの力があれば……\nミソギ！　\n扉の前に来て！　\n私もホールに戻るから！"
+    },
+    {
+      "name": "Misogi",
+      "text": "I dunno if your power will be able to reach Kyoka...\nBut this is our only chance to save them! C'mon, mister, let's do it!",
+      "choice_data_list": [
+        "Lend them your power."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃんの力がキョウカに届くかは分からないけど……\n二人を助けるにはこれしかないもんね！　\nにいちゃん、\nお願い！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whoaaa! This might actually work!\nKyoka! How's it looking in there?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "おーー！　\nこれならいけそうかも！\nキョウカー！　\nそっちはどう！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "No luck... I don't think his power can reach me...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……ダメ……\nやっぱり{0}さんの力が届かない……"
+    },
+    {
+      "name": "Children's Voices",
+      "text": "Ahaha... Ahaha...",
+      "choice_data_list": [],
+      "orig_name": "子どもたちの声",
+      "orig_text": "あはは……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wahhh! I-I've had it up to here with your spooky antics!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひゃうっ！\n　\nこ、\nこんな時まで\n邪魔しないでください！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...?! Huh? I-I'm powered up... How come...?\nNo, the reason why doesn't matter right now. Let's do this, Misogi!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "っ！？　\nえ？　\nきゅ、\n急に力が……\nどうして……\nううん、\nいまは理由なんて気にしてる場合じゃない……\n行くよ、\nミソギ！"
+    },
+    {
+      "name": "Misogi & Kyoka",
+      "text": "Yaaahhhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ・キョウカ",
+      "orig_text": "やーーーーーー！！！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "*cough*... *cough*...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "こほっ、\nこほっ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Kyoka!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "キョウカ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi... {0}...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……ミソギ……{0}さん。"
+    },
+    {
+      "name": "Misogi",
+      "text": "...Waaahhh! Kyokaaaa! You're OK! You're really OK!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……うわーん！　\nキョウカー！　\nよかった、\nよかったよー！！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Aahhh... *sniff*... Misogi... Misogiiii...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あぅ……\nぐすっ……\nミソギ、\nミソギぃ……"
+    },
+    {
+      "name": "Misogi",
+      "text": "I'm sorry! I... I made you guys come here, and then...\nI'm so sorry, Kyoka!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ごめんね、\nミソギが、\nこんなところに来ようとか言ったせいで……\n本当にごめんね！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "No... You came to rescue me. I knew you would. Thank you, Misogi.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ううん。\n助けに来てくれたもん……\n信じてたもん。\nありがとう、\nミソギ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "All right! We've got our exit now, so we just gotta find Mimi!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "よーし、\nこれで出口は作れたし、\nあとはミミを見つければ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yes... But I still don't have any idea where she's gone...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うん……\nでも、\nミミがどこにいるか\nまだ分からなくて──"
+    },
+    {
+      "name": "Misogi",
+      "text": "Wahhh! What's that? A ghost?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わわっ！　\nなに、\n幽霊！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "B-bring it on!\nWe're not scared of a few spooks anymore!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "く、\nくるならこーい！\nいまのミソギたちは\n幽霊なんて怖くないぞー！"
+    },
+    {
+      "name": "Misogi & Kyoka",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ・キョウカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Th-they're not doing anything?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "な、\nなにもしてこない？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Could they be asking us to follow them?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……もしかして、\nこっちに来いって言ってるのかな？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh...?! It has to be a trap!\nAfter everything they've done so far...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ええー！　\nなら罠に決まってるよ！\nあれだけおどかしてきた幽霊だよ？"
+    },
+    {
+      "name": "Misogi",
+      "text": "B-but... Searching randomly won't help much...\nEven if it is a trap, we can handle it together, can't we?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "で、\nでも、\n適当に捜しても見つからないだろうし……\n罠だとしても、\nにいちゃんがいるから大丈夫だよ、\nきっと！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...A-all right.\nIt's true, if we just search wildly, we'll end up somewhere weird again...\n{0}, will you protect us if things look bad?",
+      "choice_data_list": [
+        "Of course.",
+        "You two are stronger than I am..."
+      ],
+      "orig_name": "キョウカ",
+      "orig_text": "……わ、\n分かった。\nたしかに、\nやみくもに捜しても、\nまた変なところに出ちゃうかもだし……\n{0}さん、\nいざとなったら、\n守ってくれますか？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Thank you very much. We're counting on you.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ありがとうございます。\n頼りにしてますからね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Even if that's true, at least try to reassure us!\nYou really are hopeless sometimes... In that case, I'll protect you,\nso you try to protect us as well. That works, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そこは嘘でも、\n『まかせろ』\nとか言ってください！\n本当に仕方のない人ですね……\nそれじゃあ、\n私が守ってあげますから、\nあなたも私たちを守ってください。\nそれならいいですよね？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Well then, let's go.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "それじゃあ、\n行こっか。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "The noises stopped right outside this room...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "この部屋の前で、\n音がやみましたね……"
+    },
+    {
+      "name": "Misogi",
+      "text": "I-I'm opening the door!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あ、\n開けるよ？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Mimi",
+      "text": "Oh, huh~? Misogi... Kyoka...\nWow! Mr. Nice Guy's here too!",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "あれ～？　\nミソギちゃん、\nキョウカちゃん……\nあ～、\nおにいちゃんもいる～"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Mimi! Thank goodness you're... safe...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミミ！　\nよかった、\n無事……\nで……"
+    },
+    {
+      "name": "Girl",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "少女",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Misogi",
+      "text": "Um... who's that?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっと、\n誰？"
+    },
+    {
+      "name": "Narration",
+      "text": "Misogi and Kyoka were surprised to see Mimi\nwith an unfamiliar little girl.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "謎の少女の登場に驚くミソギとキョウカだった。"
+    }
+  ]
+}

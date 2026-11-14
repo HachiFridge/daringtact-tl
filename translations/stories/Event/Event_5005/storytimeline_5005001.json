@@ -1,0 +1,547 @@
+{
+  "title": "Isle of No Escape",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Finding themselves somehow stranded on an unknown beach,\n{0}, Tamaki and Mifuyu have decided to split up\nand explore the immediate vicinity.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}とタマキ、ミフユは手分けして\nいつの間にか打ち上げられていた島の浜辺付近の探索をしていた。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Any luck, Tamaki? Did you find any signs of life?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "どう、\nタマキさん？\n　そっちの方角には誰かいた？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Actually, I did! I found a whole bunch of cats!\nBig kitties, little kitties, stripy kitties and spotty kitties...\nAnd they were so eager to play with me! It was adorable...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "それがなんと、\n猫がいっぱいいたにゃ～！\n　\nおっきい子、\nちっちゃい子、\nしましまやぶちやまだら模様の子たち……\nあたしに必死でじゃれついてきたのにゃ。\n可愛かったにゃあ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "I see... Well, that certainly sounds like good news...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね、\n猫がたくさんいてよかったわね……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Wait, no it doesn't! Is this the time to be playing with cats?!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "って\nよくないわよ！\n　猫と遊んでる場合じゃないでしょ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I... I did keep my eyes peeled for people, too!\nBut as far as I could tell, there was nyobody to be seen!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ちゃ、\nちゃ～んと人がいるかも調べたにゃ！\nでも調べた範囲じゃ\n人の姿はどこにもなかったにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "I see. Well, that matches my experience, too.\nI saw a few small animals like dogs, but no sign of human life.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そう、\nこっちも似たような成果だったわ。\n犬とかの小動物ばかりで、\n人の気配は感じない……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "How about you, {0}?\nFrom that forlorn-looking face, I suppose you had no luck either.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "{0}くんは……？\nその浮かない顔を見ると\n結果は同じだったみたいね……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "*sigh*... Nyow I'm starting to feel pretty hungry, too...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "はぁ……\nそれよりなんだかお腹が空いてきたにゃ……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Good point. I don't know the exact time of day, but it must be\nclose to dinnertime. Since we lost our boat along the way,\nwe don't have any fish... What should we do for food tonight...?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "確かに。\n正確な時間はわからないけど、\nそろそろ夕飯時かしら。\n船ごとどこかに行っちゃったから、\n釣った魚もないし……\n今日の夕飯、\nどうしましょう……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Ah... I think I just saw a big fish out there in the sea!\n{0}, Tamaki, let's work together\nand see if we can catch it!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "はっ……\n今そこの海に大きな魚の影が見えたわ！\n{0}くん、\nタマキさん、\n連係プレイで\n捕まえるわよ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "{0}, get into the water and chase the fish this way.\nThen I'll flip it out of the water with my spear,\nand Tamaki, you catch it when I do!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "{0}くんは海に入って、\n魚を私の方に追い込んで。\nそしたら私が槍で魚を打ち上げるから、\n最後にタマキさんがキャッチして！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Got it!\nC'mon, {0}, chase that fish our way!",
+      "choice_data_list": [
+        "I'm coming for you, fishy!",
+        "Ew... it's all slippery..."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "わかったにゃ！\nさあ、\n{0}、\n魚をミフユの方に追い込むにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "That's right, {0}! You're doing great!\nKeep it up like that!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そう、{0}くん、うまいわね！\nその調子よ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "You don't have to grab the fish yourself!\nJust chase it in my direction!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "{0}くんは捕まえようとしなくていいの！\n私の方に追い込んで！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Here goes! Tamaki, get ready to catch the fish once I flip it!\nHyaaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "来たわっ！\n　タマキさん、\n魚を打ち上げるからキャッチして！\nそれーーーーっ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I'm on it!\nCaaaaaaaatch!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "任せるにゃーーーっ！\nキャーーーーーーッチ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "The fishie is miiiiiiine!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "獲ったにゃーーーーーーーーーーーーーーーーーっ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Excellent work! Let's cook it and dig in right away!\nI'll rub some sticks together to make a fire!\nI didn't do all sorts of part-time work for nothing! Hyaaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "やったわね！\n　さっそく焼いて食べましょう！\n私が枝木をこすって火を起こすから！\nだてに色んなバイトを経験してないわよ！\n　うりゃーーーっ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Whew... That was delicious...\nI feel like the cat that got the cream!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ふぅ……\n美味しかったにゃ～……\nお腹いっぱいになったにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Heheh... You know, the three of us\nmight be pretty well suited to the castaway life!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ふふっ、\n私たちって、\n結構サバイバル能力あるのかもね！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ooh! Don't you think these fluffy grass piles\nlook like the purr-fect sleeping bags?!\nLet's rest up here for tonight!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あっ、\nたまたまここに\n寝袋みたいになってるふかふかの草があるにゃ！\n今晩はここで夜を明かすにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Good call. We've all worked pretty hard today...\nIt's time we gave our bodies a rest.\nGood night, everyone!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね、\n今日はたくさん体を動かしたし……\nいったん休息しましょう。\nお休みなさーい……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Morning's here!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "朝にゃーーーー！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "These grass bags were even comfier than I expected!\nNow then... If we could just find some way to get off the island,\nI'd have no complaints...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "この草、\nなんだか想像以上に快適だったわね！\nあとは……\nこの島から脱出するための\nものが見つかれば\n最高なんだけど……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Oh yes—there was an area I didn't get to explore yesterday.\nI tried to go there, but there were monsters prowling around,\nso I decided it wasn't efficient.",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうだ、\n昨日調べてなかった地域がまだあるんだけど……\nなんでかって言うと、\n魔物が何匹かうろついていて\n効率が悪そうだったのよね。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Well then, let's wake ourselves up properly\nby sharpening our claws on some monsters!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "それじゃ、\n眠気覚ましも兼ねて\nみんなで行って退治するにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yes, that's a fine idea!\nThis way, everyone. Follow me!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "うん、\nそうしましょう！\nみんな、こっちよ、\nついてきて！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "As I thought... Those monsters are still around.\nLet's teach them a little lesson!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "やっぱり……\nあそこに魔物たちがいるわ。\nちゃちゃっと蹴散らしちゃいましょう！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRRRRRAAAAGGHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Myahah! You're nyot gonna scare us like that! Hip-huppety hop!\nKitty... Cat-aclysm!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "にゃはっ、\nそんなんじゃ威嚇にもならないにゃ。\nほいっ\nほいっ\nとにゃ♪\nねこねこ……\nファイナルブレーーーイク！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Well, that was easier than I expected...\nCould it be these monsters are incredibly weak?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あら、\n思ってたよりあっさり倒せたわね。\nもしかしてここの魔物……\nすごく弱い？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Well, all the better. Time to explore the area.\nLet's see, what's over this way... Oh?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ま、\nいいわ。\n付近を調べてみましょう。\nさて、\nこっちには何が……\nあら？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Look! There's a raft lying on the shore!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "見て！\n　いかだが漂着してるわ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "You're right! D'you think we can use it?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ホントにゃ！\n　使えそうかにゃ～？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yes! The logs are tied together firmly...\nI can't see any problems. Let's head out to sea on this!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "うん、\n丸太もしっかり結んであるし……\n特に問題はなさそうよ。\nこれで海に出ましょう！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "All righty! To the open seas we go!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "よーーっし！\n　さっそく出発にゃーーー！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Whew... With these winds, the raft's just sailing along!\nI guess that's it for our desert island life!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ふぅ……\n風に乗ってぐんぐんいかだが進むにゃ……\n無人島ともこれでおさらばにゃ～"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "While we don't know the island's exact location,\nI expect if we head north, we should be able to reach the Marjan Coast.\nIt's a good thing I took on a navigating job once upon a time!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "さっきの島の正確な位置はわからないけど、\nたぶんおおまかに\n北の方に行けばマルジェン海岸に辿り着くはずよ。\n昔、航海士のバイトをした経験があって良かったわ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "For a while there, I was really worried...\nBut in this gentle wind, I'm sure we'll be fine!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "一時はどうなることかと思ったけど……\n風は穏やかだし、\nもう大丈夫ね！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Whew... Such a relief...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "はぁ……\nよかったにゃ～"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yes... I'm feeling so relieved, it's actually making me drowsy...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね……\n安心したら、\nなんだか眠くなってきたわ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "It's all this comfy sunlight's fault\nthat we wound up stranded there in the first place...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "だいたい、\n漂流したのだって、\nこの気持ち良い陽気がいけないんだにゃ～……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "It really is so warm... and comforting...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ほんと、\nあったかくて……\nいい気持ち……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Unnhhh... Myaaaaagh?!\nWe're back at the beach where we started?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "うーん…………\nにゃーーーーーーっ！？\nまた砂浜に漂着してるにゃーーーーーっ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "H-huh?! Wh-what happened to our raft?!\n{0}, wake up!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あ、\nあれっ！？\n　い、\nいかだはどこにいったの！？\n{0}くんも起きて！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Urgh... I let my guard down...\nWhy did I let myself fall asleep again...?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "うう……\n不覚だわ……\nどうしてまた寝てしまったのかしら……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Actually, we should nyever have trusted a raft like that!\nWe need a proper boat that's not going to sink!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "というか、\nあんな小さないかだじゃ駄目だったんだにゃ！\n沈没しないように\nもっと大きな船じゃにゃいと……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "You're right... But we were lucky to even find a raft.\nWe're hardly going to just stumble across an actual...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そうね……\nでも、いかだだってやっと見つかったんだし、\nそうそう都合よく船なんて見つかるわけ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ahhhhh! There's a boat lying over there on the beach!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あーーーっ！\n　あそこに小型船が漂着してるにゃー！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "No way?!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "嘘っ！？"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "It's true...\nThere's a small boat, and it's in fully working order...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "ほんとだわ……\nまた、\nどこも壊れてなさそうな小型船がある……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I wanna get back to Landosol right now!\nMifuyu! {0}! Let's try this one more time!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "もう一刻も早くランドソルに帰りたいにゃ！\nミフユ！\n　{0}！\n　すぐ出発するにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "A-all right! This time, let's be careful to stay awake...\nOK, we'll set off at once!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そ、\nそうね！\n　今度は寝ないように気を付けて……\n……よしっ、\n行きましょう！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ahhh... The wind feels so good...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "うーん、\n風がいい気持ちにゃー"
+    },
+    {
+      "name": "Tamaki",
+      "text": "This boat is much sturdier than that raft,\nso I'm sure it can handle the waves.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "この船ならさっきより丈夫だし、\n波にも引っ張られないにゃ。"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Still, we certainly did luck out, didn't we?\nThis time, I'm sure we'll be fine!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "いやあ、\n本当にラッキーだったわね、\n私たち！\n今度こそ、\nきっと大丈夫ね！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "*yawn*... Thank goodness... We're finally safe... Myahhh...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ふあぁ……\nよかった……\nこれで大丈夫……\nにゃ～……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Myagh! Nothing's safe about this at all!\nWe're back where we started again!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "って、\nちっとも大丈夫じゃないにゃ～！\nまた、漂着してるにゃーーーーーっ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "H-huh?! The boat's gone too...\nAre you telling me I fell asleep after all that?!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "あ、\nあれっ！？\n　船がまた消えて……\nっていうか私、\nまた寝ちゃってた！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Seriously, Mifuyu?! Again?!\nYou should be more responsible as our captain!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ミフユは寝すぎにゃ！\n　もっとちゃんと船長の自覚を持つにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "I think you'll find you fell asleep before I did!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "そういうタマキさんの方が\n先に寝てたじゃない！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I'm a cat! Sleeping's what we do!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あたしは猫だから仕方ないのにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "But what are we going to do nyow...?\nIf even that boat's nyo good, we might need a full-on ship...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "でも、\nほんとどうしようかにゃ……\n小型船でダメなら、\n大型船を用意しにゃいと……"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "We'd need a real miracle to just stumble across...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "いくらなんでもそんなに都合よく……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ah! Mifuyu! There's a gigantic cruise ship,\nthe kind with luxury rooms and a pool and entertainment,\nwashed up on the beach over there!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あっ、\nミフユ！\n　\n今度はあそこに超大型で\n一等船室やプールやビリヤード室まで付いてそうな\n豪華客船が漂着してるにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "You have [i]got[/i] to be kidding me, right?!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "いくらなんでも嘘でしょーーーーーっ！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Nope! I think fate's rewarding me for all my good deeds!\nWe've got to try this one out, right?!\nIf we don't get home, everyone'll be worried sick!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "いや、\nきっとあたしの日頃の行いがいいからに違いないにゃ。\nとにかく試してみるしかないにゃ！\n早く帰らないと、\nみんなが心配するにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "...Well, I suppose... Since it's such a huge ship, and so sturdily built...\nAll right, then. Let's set sail!",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "……でもそうね、\nさすがにこの大型客船なら……\nよし、\n行くわよっ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Myahoooo! So huge! So fast! This is the best!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ひゃっほーっ！\n　でかいにゃ！\n　速いにゃ！\n　快適にゃー！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "If this ship can't get us back home, I'm pretty sure nyothing will!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "この大型客船でダメなら、\nもうどうしようもないにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yes... We could hardly ask for a... more... certain...",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "えぇ……\nこれでもダメだったら……\nどう……\nしようも……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "It's the... perfect...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "どうしようも……\nふにゃ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Myaaarghhhhh!\nEven the ship was nyo good?! We're back here yet again!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "にゃーーーーーーっ！\nあれでもダメだったにゃ！\n　また戻ってきちゃってるにゃ！"
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Wh-what can all of this possibly mean...?",
+      "choice_data_list": [],
+      "orig_name": "ミフユ",
+      "orig_text": "こ、\nこれは一体、\nどういうことなの……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Finding that all attempts to leave the island ended in failure,\nthe three castaways were completely at a loss for words.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "どう脱出を試みても必ず島に戻ってしまい、\n３人は途方に暮れるのであった。"
+    }
+  ]
+}

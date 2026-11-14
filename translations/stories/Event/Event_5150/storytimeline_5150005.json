@@ -1,0 +1,719 @@
+{
+  "title": "Confession Recollection",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "After dodging Nebbia's various pranks,\nAmeth and her group finally managed to capture Nebbia.\nThe summer commotion in Landosol is drawing to an end──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ネビアの仕掛けてくる数々の悪戯をくぐり抜け、\nとうとうアメスたちはネビアを捕獲することに成功した。\nランドソルを舞台にした夏の騒ぎも、いよいよ終わりに近づく──"
+    },
+    {
+      "name": "Navi",
+      "text": "Ah, got caught.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あ～あ。\n捕まっちゃった。"
+    },
+    {
+      "name": "Ameth",
+      "text": "We did it... finally captured you, Nebbia...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "やった……\nようやく捕まえたわよ、\nネビア……！"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe, that took some effort~\nBut congrats~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ、\n苦労したね～\nでもおめでと～♪"
+    },
+    {
+      "name": "Rei",
+      "text": "Well done.\nSeeing Fio run around was quite refreshing.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "お疲れさま。\n走り回るフィオを見るのも、\nなかなか新鮮だったよ。"
+    },
+    {
+      "name": "Kuuka",
+      "text": "Ah, do you need any ropes?\nKuuka has some for tying up...",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "あ、\n縄とかいりますか？\n縛る用のやつなら\nクウカ持っていますが……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Kuuka onee-chan, you're amazing!\nYou have everything~♪",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "クウカねえちゃん、\nすごいねっ！\nなんでも持ってるんだ～♪"
+    },
+    {
+      "name": "Homare",
+      "text": "...Kids sure are pure~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……子どもって純粋だね～"
+    },
+    {
+      "name": "Jun",
+      "text": "It seems the matter is resolved.\nWith this, Her Majesty too...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "どうやら解決したようだね。\nこれで陛下も……"
+    },
+    {
+      "name": "レイ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Jun",
+      "text": "N-No, it's nothing.\nBy the way, congratulations, young ones.\nAs promised, the kingdom will reward you.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "い、\nいや、\nなんでもないんだ。\nそれより少年たち、\nおめでとう。\n約束通り、\n国から褒賞を出させてもらうよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "No, it's fine.\nIt's just a family embarrassment...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いやべつにいいわよ。\nこれはただの身内の恥なわけだし……"
+    },
+    {
+      "name": "Jun",
+      "text": "We can't do that.\nLook around you.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "そうもいかないさ。\n周りを見てごらん。"
+    },
+    {
+      "name": "ランドソルの人々",
+      "text": "──！",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの人々",
+      "orig_text": "──！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Huh? Ah...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "えっ？　\nあ……"
+    },
+    {
+      "name": "Ameth",
+      "text": "...I see. Makes sense.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……そうね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Thank you, everyone.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ありがとう、\nみんな。"
+    },
+    {
+      "name": "ランドソルの人々",
+      "text": "──！",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの人々",
+      "orig_text": "──！"
+    },
+    {
+      "name": "Navi",
+      "text": "...Heheh.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……ふふっ。"
+    },
+    {
+      "name": "Homare",
+      "text": "Ah, I see...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ああ、\nなるほどね～"
+    },
+    {
+      "name": "Ameth",
+      "text": "Now then... Nebbia.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "さて……\nネビア。"
+    },
+    {
+      "name": "Ameth",
+      "text": "What were you hoping to achieve?\nIf you have anything to say, I'm all ears.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "どうしてこんなことしたのか。\n申し開きがあるのなら聞いてあげるわ。"
+    },
+    {
+      "name": "Homare",
+      "text": "...Whisper whisper...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "……こしょこしょこしょ……"
+    },
+    {
+      "name": "Navi",
+      "text": "...Because the environmental system was there...",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……そこに\n環境システムが\nあったから……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Homare. Don't put strange ideas in her head.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ホマレ。\n変なこと吹き込まないで。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Now that you're caught, spill everything.\nSurely, you had more than just the desire to prank?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "捕まった以上、\n洗いざらい全部話しなさい。\nいくらなんでも、\nただ悪戯したかっただけじゃないでしょ？"
+    },
+    {
+      "name": "Navi",
+      "text": "You think so?\nYou've come to trust me quite a bit, huh.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "そう思うの？\n随分私も信用されたもんね。"
+    },
+    {
+      "name": "Navi",
+      "text": "My pranks aren't──",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "私の悪戯に理由なんて──"
+    },
+    {
+      "name": "Homare",
+      "text": "──For Ameth-chan's sake, right?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "──アメスちゃんのためだよね？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Huh? For me...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "は？　\nあたしの……？"
+    },
+    {
+      "name": "Homare",
+      "text": "You heard before, right?\nYou asked Ameth-chan if she's enjoying it?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "聞いてたよね～\nアメスちゃんに\n「楽しんでる？」\nって。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yes...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええ……"
+    },
+    {
+      "name": "Navi",
+      "text": "Hey! Stop making baseless assumptions!\nI'm not looking for that!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ちょっと！　\n憶測で勝手に語らないでくれる？\nそういうの、\n別に私は求めてないのよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Don't want to say?\nThen, {0}-kun.\nAhh~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "言いたくないの？\n仕方ないな～、\nじゃあ{0}くん。\nあ～ん♪"
+    },
+    {
+      "name": "Navi",
+      "text": "Eek!\nGot it! I get it!\nI'll talk, I'll tell everything~~~!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ひっ！\n分かった！　\n分かったわ！\n話す、\n洗いざらい話すわよ～～～！"
+    },
+    {
+      "name": "Navi",
+      "text": "Hey Fio~ I came~",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "やっほー\nフィオー\n来たわよー"
+    },
+    {
+      "name": "Ameth",
+      "text": "Came for what? I didn't call you.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "来たって何よ別に呼んでないわよ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Whoa, cold.\nIs that how you treat your dear sister?\nI just came to see your face.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "うわ冷た。\nそれが愛しい妹に対する扱い？\nせっかく顔見に来てあげたのにさー"
+    },
+    {
+      "name": "Ameth",
+      "text": "I'm busy with many things.\nI have to frequently organize his memories.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "こっちはいろいろと忙しいのよ。\nあいつの記憶の整理、\nこまめにやっとかなきゃだし。"
+    },
+    {
+      "name": "Navi",
+      "text": "Hmm...",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ふ～ん……"
+    },
+    {
+      "name": "Navi",
+      "text": "Hey Fio.\nAre you enjoying yourself lately?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ねぇフィオ。\nあんた最近楽しい？"
+    },
+    {
+      "name": "Ameth",
+      "text": "...What's with that all of a sudden.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……何よ突然。"
+    },
+    {
+      "name": "Navi",
+      "text": "You see, you and I.\nWe can finally go outside, right?\nI was just wondering if you're enjoying it.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ほら、\n私とあんたってさ。\n外に出られるようになったわけじゃない？\nちゃんと楽しんでるのかなーって気になったのよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I don't need to enjoy anything.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "別に、\n楽しむ必要なんてないわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "My role is to guide him.\nMy feelings are irrelevant.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……あたしの役目はあいつを導くこと。\nあたし自身がどうとかは無関係よ。"
+    },
+    {
+      "name": "Navi",
+      "text": "But Fio.\nYou used to explore outside more with him.\nWeren't you more lively then?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "でもフィオ。\nあんた昔はもっと外を飛び回ってたじゃない。\nあいつと一緒に。\nそのころはもっと生き生きしてたでしょ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "That was in the past.\nI'm different now, in name and form.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それは昔の話よ。\n今のあたしは\n姿も名前も違う。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I can't go back to being Fio.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……フィオだった頃には、\n戻れないわ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Oh boy.\nFio, you're so serious.\nWhy not live more freely like me?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "は～\nやだやだ。\nフィオったら真面目なんだから。\nもっと私みたいに気ままに生きたらいいのに。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I'm just doing what I have to.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あたしはあたしのやるべきことをやってるだけよ。"
+    },
+    {
+      "name": "ネビア",
+      "text": "やるべきこと、\nね～……\nそれって『フィオ』として？\nそれとも『アメス』として？　",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "やるべきこと、\nね～……\nそれって『フィオ』として？\nそれとも『アメス』として？　"
+    },
+    {
+      "name": "Ameth",
+      "text": "Okay, if you just came to see me, fine.\nDon't cause trouble.\nI'm the one who has to clean up after you.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ほら、\n顔見に来ただけならもういいでしょ。\nあんたはくれぐれも面倒事を起こすんじゃないわよ。\n尻拭いするのはあたしなんだから。"
+    },
+    {
+      "name": "Navi",
+      "text": "Yes, yes.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……はいは～い。"
+    },
+    {
+      "name": "ネビア",
+      "text": "尻ぬぐい、ね。\nだったらさせてあげようじゃない、\n思いっきり。\nなんか派手に悪戯できるネタ、\n探そっと♪　",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "尻ぬぐい、ね。\nだったらさせてあげようじゃない、\n思いっきり。\nなんか派手に悪戯できるネタ、\n探そっと♪　"
+    },
+    {
+      "name": "Ameth",
+      "text": "In other words, to bring me back to how I was in the past...?\nFor that...?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "つまり、\nあたしを\n昔みたいに戻すため……？\nそんなことのために……？"
+    },
+    {
+      "name": "Homare",
+      "text": "For that, perhaps~?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そんなこと、\nかな～？"
+    },
+    {
+      "name": "Ameth",
+      "text": "But, I...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "だって、\nあたしは……"
+    },
+    {
+      "name": "Navi",
+      "text": "Remember?\nYou once said.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……覚えてる？\nあんた前に言ったじゃない。"
+    },
+    {
+      "name": "Navi",
+      "text": "'We were never given the ability to feel human warmth,\nor happiness.'",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "「あたしたちには人肌のぬくもりを、\n幸せを感じる機能なんてなかったのに」"
+    },
+    {
+      "name": "Navi",
+      "text": "'I was given that.\nThe same precious sensitivity as humans,\na self, a life.'",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "「あたし、\nそれを与えられたの。\n人間たちと同じ尊い感受性を、\n自我を、\n人生をもらったの」"
+    },
+    {
+      "name": "Navi",
+      "text": "...Right.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……ってさ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "When we first met you, maybe?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……最初にあんたを見つけた時、\nだったかしら。"
+    },
+    {
+      "name": "Navi",
+      "text": "You gained the ability to feel happiness.\nThe same sensitivity, self, and life as humans.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あんた、\n幸せを感じる機能を手に入れたのよね。\n人間と同じ感受性を、\n自我を、\n人生をもらったのよね。"
+    },
+    {
+      "name": "Navi",
+      "text": "But...it somehow didn't look fun to me.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "でも、\nなんか……\n私には、\n楽しそうに見えなかった。"
+    },
+    {
+      "name": "アメス",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Navi",
+      "text": "Do you understand?\nYou have a mission, responsibility, and determination.\nI don't have any of that, I'm just a irresponsible person.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "分かってるのよ？\nあんたには使命があって、\n責任があって、\n覚悟があって。\n私は\nそういうの全然持ってない、\n無責任なやつだけどさ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Even so... I want to help somehow. \nEspecially if it means you can feel happiness. \nIsn't that something everyone deserves to feel?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "それでも……\nなんとかしてあげたいじゃない。\n幸せを感じられるのなら、\nなおさらさ。\n感じるべきじゃない。"
+    },
+    {
+      "name": "Ameth",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Navi",
+      "text": "\"Fio\" -- You may not be trying to use that name, but to me, you are Fio. You were always a mischievous fairy who flew around a wide world with it.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "『フィオ』──\nあんたは\nこの名前を使おうとしないけどさ。\n私にとって\nあんたはフィオよ。\nいつもそいつと広い世界を飛び回ってた、\nお調子者の妖精なのよ。"
+    },
+    {
+      "name": "Navi",
+      "text": "If you want to go back, you can always go back, right?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "戻ろうと思えば、\nいつだって戻れるじゃないの。\n使命だの責任だの覚悟だの\n変な意地張って、\nみんなと\n距離を置かなくてもいいじゃない。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Nebbia...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……ネビア……"
+    },
+    {
+      "name": "Navi",
+      "text": "Hey, how was it {0}?\nDid you spend the whole day with Fio today?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ね、\n{0}はどうだった？\n今日一日、\nフィオと一緒にいて。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……っ！"
+    },
+    {
+      "name": "Homare",
+      "text": "A story before the reconstruction took place.\nFragments of memories that came from him.\nSurely irreplaceable memories that I can't see either.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "再構築が行われるよりも\n前の物語。\n彼から抜け落ちた記憶の欠片。\n私にも見ることができない、\nきっと\nかけがえのない思い出。"
+    },
+    {
+      "name": "Homare",
+      "text": "It's indeed something special.\nThe relationship between {0} and Ameth-chan-- no,\nFio-chan.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "やっぱり\n特別なものだね。\n君とアメスちゃん──\nううん、\nフィオちゃんの関係。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Really, what a foolish sister.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……本当に、\n馬鹿な妹ね。"
+    },
+    {
+      "name": "Navi",
+      "text": "...I understand.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……分かってるわよ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "But...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "でも……"
+    },
+    {
+      "name": "Navi",
+      "text": "Wait!? \nHey, what are you doing!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "っ！？\nちょ、\nなにすんのよ！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Ah... It's warm after all.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ああ……\nやっぱり温かいわね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I've been tossed around by you all day today, and I'm really tired, but...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "今日一日、\nあんたに振り回されてばかりで、\nすっごく疲れたけど……"
+    },
+    {
+      "name": "Ameth",
+      "text": "It was fun running around with this guy after a long time.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "久しぶりにこいつと一緒に走り回れて、\n楽しかったわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "I felt happy because of your feelings. Thank you, Nebbia.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あんたの想いで、\n幸せを感じられた。\nありがとうね、\nネビア。"
+    },
+    {
+      "name": "ネビア",
+      "text": "…そ。\nそれなら私も、\n悪戯した甲斐があったってもんだわ。",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "…そ。\nそれなら私も、\n悪戯した甲斐があったってもんだわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Why so self-righteous. \nYou were just half wanting to play a prank, right?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "何を偉そうに。\nどうせあんた、\n半分は悪戯したかっただけなんでしょ？"
+    },
+    {
+      "name": "Navi",
+      "text": "Th-that's not true, you know? Please believe in your sister more!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "そっ……\nんなことはないわよ？\nもっと妹を信じてよね！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Oh my, what a troublesome child...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "まったく、\n困った子ね──"
+    },
+    {
+      "name": "Homare",
+      "text": "The bond of sisters who are no different from ordinary people, huh. \n... They truly are a mysterious duo.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "人と\n何一つ変わらない姉妹の絆、か。\n……本当に不思議な二人だね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "That's right. It's about time we restore the town. \nNebbia, don't run away.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そうだ。\nそろそろ街を元に戻さないとね。\nネビア、\n逃げるんじゃないわよ。"
+    },
+    {
+      "name": "Navi",
+      "text": "Yes, yes. I understand. When I activate the 'Soul Generator'...",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "はいはい。\n分かってるわよ。\n『ソル・ジェネレーター』を起動して\nっと……"
+    },
+    {
+      "name": "Navi",
+      "text": "Pochi!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ポチっとな。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...? Nothing is happening, you know?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……？\n何も\n起きないわよ？"
+    },
+    {
+      "name": "Navi",
+      "text": "Hmm, strange...?\nClickety-click.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "へ、\n変ね……？\nポチポチっとな。"
+    },
+    {
+      "name": "Homare",
+      "text": "Hey, did it just start raining?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ねぇ、\nなんか\n雨が降り出したんだけど～？"
+    },
+    {
+      "name": "Navi",
+      "text": "Wait a moment, okay? \nClick, click, click... and now, rapid fire!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ま、\n待ちなさいよ？\nポチポチポチっと……\nえ～い\n連打！"
+    },
+    {
+      "name": "Ameth",
+      "text": "H-Hey, Nebbia!?\nThe sky... literally looks suspicious with those clouds!?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ちょ、\nちょっとネビア！？\n空が……\n文字通りに\n雲行きが怪しいんだけど！？"
+    },
+    {
+      "name": "Navi",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Navi",
+      "text": "This is... Yes, that thing.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "これは……\nそう、\nアレね。"
+    },
+    {
+      "name": "Both",
+      "text": "...Gulp.",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "……ごくり。"
+    },
+    {
+      "name": "Navi",
+      "text": "It's a bug♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "バグっちゃった♪"
+    },
+    {
+      "name": "Both",
+      "text": "Idiot!!!!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "バカーーーーー！"
+    },
+    {
+      "name": "Narration",
+      "text": "Suddenly, dark clouds cover the clear summer sky.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "突如、夏晴れの空を覆う暗雲。\n一人のガイド妖精が起こした真夏の悪戯は、\n予期せぬ事象を引き起こそうとしていた。"
+    }
+  ]
+}

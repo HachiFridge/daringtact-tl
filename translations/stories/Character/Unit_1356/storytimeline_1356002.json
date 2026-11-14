@@ -1,0 +1,628 @@
+{
+  "title": "Shinatsu Episode 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, Rei was training in swordplay with {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ある日、\nレイは{0}と共に\n剣の稽古に励んでいた。"
+    },
+    {
+      "name": "Rei",
+      "text": "Phew... yes, that was a solid strike. I can feel more spirit in your blows than usual. I cannot afford to fall behind either~",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ふぅっ……\nう\nん、\nいい打ち込みだね。\nいつも以上の気迫を感じるよ。\n私も負けてはいられない──"
+    },
+    {
+      "name": "Rei",
+      "text": "Whoa! A sudden gust...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "うわっ！　\n急に風が……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Rei, and you too, {0}...! Thank goodness, I finally found you...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "レイ、\nそれに{0}も……！\nよ\nかった、\nやっと見つけた……"
+    },
+    {
+      "name": "Rei",
+      "text": "Shinatsu?! But you only just returned home the other day... You seem awfully flustered. Do you have some business with us?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "シナツ！？　\nこの前帰ったばかりじゃ……\n随分焦っているようだけど、\n私たちに何か用事でも？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I shall be blunt. Come with me.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "率直に言う。\n一緒に来てくれないか。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I do not have time to explain the details, but... right now, I have no one else I can rely on.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "詳しい事情を説明している余裕はないが……\n今は\nキミたちしか頼れないんだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "...Is something troubling you? Okay, I will go. You also will, right, {0}?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……何か\n困ったことがあるのかい？\n分\nかった、\n行くよ。\n{0}も問題ないよね？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Thank you... hearing you say that really helps...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ありがとう……\nそう言ってもらえて、\n本当に助かる……"
+    },
+    {
+      "name": "Rei",
+      "text": "Your thanks should wait until the problem is solved. Now, let us hurry to the Tower of Sol!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "礼を言うのは、\n問題とやらが解決してからだ。\nさぁ、\nソルの塔へ急ごう！"
+    },
+    {
+      "name": "Narration",
+      "text": "Following Shinatsu's lead, {0} and Rei passed through the Tower of Sol and arrived at her server, Cor Caroli.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちは\nシナツに言われるまま、\nソルの塔を経由して\nサーバー\n『コル・カロリ』へとやってきた。"
+    },
+    {
+      "name": "Rei",
+      "text": "It is not like we have been away from this world for long, but I feel strangely nostalgic. Everyone seems to be doing just as well as ever.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "久しぶり──\nというほど間が空いているわけではないけど\nもう懐かしい気持ちになるな。\nみんな変わりなく元気そうだね。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rei",
+      "text": "Shinatsu's expression is awfully stiff... Quite the problem must have arised...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "シナツの表情が硬い……\nこれは相当な問題があったに違いないな……"
+    },
+    {
+      "name": "Rei",
+      "text": "...Shinatsu. It is about time you told us. What in the world happened...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……シナツ。\nそろそろ教えてくれ。\n一体何があったんだ……？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Follow me.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nついてきてくれ。"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "Lady Shinatsu, you're back! Huh? How unusual. Did you all come to visit?",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "シナツ様、\nお戻りでしたか！\nあれ、\n珍しいですね。\n皆さんお揃いでどうかしましたか？"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "Ah, could it be, Lady Shinatsu... Did you summon these two about that matter? The unveiling was scheduled for a little later, but... of course, we can show you right away!",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "あっ\nもしかしてシナツ様！　\nあの件でお二人をお呼びしたんですか？\nお披露目はもう少し先の予定でしたけど……\nもちろん今すぐご案内もできますよ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Ah, no, that is not necessary. ...Or rather, there is something I want to talk to you about that...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "あぁ、\nいや\nそれには及ばない。\n……というか、\nその件で話があるんだが……"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "Yes! The giant statue project is going perfectly! We found a skilled artisan, and right now we are working out the finer details of the design!",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "はい！　\n巨大像の計画なら\nバッチリ順調ですよ！\n腕利きの職人が見つかって、\n今は細かい設計を詰めているところです！"
+    },
+    {
+      "name": "Rei",
+      "text": "Plans for what giant statue?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "像の計画、\nとは？"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "You didn't know? We're building a giant statue of Lady Shinatsu right here in the city! Isn't it amazing? It'll be a great feat... one to go down in this world's history!",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "ご存じありませんでしたか。\n実はですね、\nこの街にシナツ様の巨大像を建てるんです！\nすごいでしょう！　\nこの世界の歴史に残る偉業になるはずです。"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "We've finally been able to move forward... we've gained freedom, a future. This statue is our monument to that... truly a wonderful plan!",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "俺たちは前に進むことができるようになった……\n自由を、\n未来を手に入れた。\nその記念碑でもある、\n素晴らしい計画なんです！"
+    },
+    {
+      "name": "Rei",
+      "text": "...Umm, in other words... the problem you spoke of is... that you are embarassed over the fact they are making a giant statue of you.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ええと、\nつまり。\nあなたの困りごとっていうのはその……\n自分の巨大像を作られるのが恥ずかしい、\nと。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "......Correct.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………\nそうだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "I... I see.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "な……\nなるほど。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Everyone took it upon themselves to plan this, to raise a giant statue of me here in Togoku.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……皆が自主的に計画を立てて、\nこのトーゴクに\n巨大な私の像を作ろうとしている。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "That they have gained the freedom to make plans and see them through -- it is something I find truly heartening, and it makes me feel my efforts were rewarded.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "計画を立てて実行する、\nという自由を\n彼らが手に入れたことについては\nとても喜ばしいし、\n私も\n報われる思いがするのだが。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "But when I picture it completed... I cannot help but feel weighed down.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "完成したときのことを\n考えると、\nどうにも\n気が重くてな。"
+    },
+    {
+      "name": "Rei",
+      "text": "I see. It is a bit surprising that you would be so upset about it... But if I imagine having a statue of myself, I can understand how you would feel.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そうなのか。\nあなたがそこまで思いつめるなんて、\nちょっと意外だけど……\n確かに\n自分の像、\nと考えると\n気持ちが分かるな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Yeah, just think about it. Living in a city where a giant statue of yourself is looming over you day and night. Rei, would you really be able to rejoice in that?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "あ\nぁ、\n考えてもみてほしい。\n四六時中\n自分の巨大な像が見下ろす街で生活することになる\n私の気持ちを……\nレイなら\nもろ手を挙げて喜べるか？"
+    },
+    {
+      "name": "Rei",
+      "text": "That is, well... I am not sure I would know how to react either.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "それは、\nまぁ……\n確かに反応に困るな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "If not just my disciples and the townsfolk, but even tourists came to gawk at my statue... I would be too embarrassed to show my face outside... What am I supposed to do...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "弟子や住民たち以外に、\n観光客まで\n私の像を見にやってきたら……\n私は恥ずかしくて\n表を\n歩けなくなってしまう…………\n…………\nどうしよう。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Rei, {0}. Please tell me. How am I supposed to go on living like this...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "レイ、\n{0}。\n教えてほしい。\nこの先私が生きていくには、\nどうすればいいと思う……？"
+    },
+    {
+      "name": "Rei",
+      "text": "Indeed. Did you make sure to go up and tell them you do not want a statue?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そうだね。\n像を作るのをやめてほしいと、\nみんなには伝えたのかい？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Well, umm... I have not said it clearly yet, but...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "それは、\nその……\n確かに、\nまだ\nはっきりとは\n言っていないが……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Even if I did say that, would I not be disappointing them? They would probably think it is pathetic or petty that I cannot accept their kindness... I do not even have the confidence to express it properly in the first place.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "もし言ったとして、\n幻滅されないだろうか？\n好意を素直に受け取れないなんて、\n情けないとか\n器が小さいとか……\nそもそも\nうまく伝えられる自信もないんだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "You should not really think that hard about it. Their respect and affection for you will not falter over something like this.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "悪い方向に考える必要はないよ。\n彼らがシナツを慕う気持ちは、\nそんなことで揺らいだりしないはずだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I see... Got it. Then I shall steel myself. I am off...!",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "そうか……\n分かった。\nなら私も覚悟を決めよう。\n行ってくる……！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I am sorry, everyone... Um, I need to talk to you...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "すまない、\n皆……\nその、\nちょっと話が……"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "Oh, Lady Shinatsu! Perfect timing! There's something we wanted to ask you, too!",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "あっ、\nシナツ様！　\nちょうどよかった！\n私たちもシナツ様にお聞きしたいことがあったんですよ！"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "About your statue, Lady Shinatsu... should it show you in your usual mask, or with your bare face?",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "シナツ様の像なんですが、\n普段のマスク姿と\nマスクを外した素顔の姿、\nどちらがいいと思いますか？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Eh... M-My bare face?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "へっ……\nす、\n素顔？"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "I knew it! It's a monument, after all... your bare face would give it that special touch!",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "やっぱり！　\n記念碑ともなるものですし、\n特別感のある\n素顔がいいと思っていたんですよ！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Ah, no, that just now... was not meant to be a reply...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "あっいや、\n今のはその……\n返事では\nなくてだな……"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "The mysterious mask look is hard to give up... but if that's your wish, Lady Shinatsu, then that's what matters most. Thank you for your valuable input!",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "ミステリアスなマスク姿も捨てがたいんですが……\nまぁ\nシナツ様の希望なら、\nそれが一番大事ですね。\n貴重な意見、\n感謝です！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Ah, ahh... G-Good luck...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……あ、\nあぁ……\nが、\n頑張ってくれ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rei",
+      "text": "How did it go, Shinatsu?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "シナツ、\nどうだった？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "It was decided that my statue will be without my mask...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "マスクを外した素顔の像を作ることになった……"
+    },
+    {
+      "name": "Rei",
+      "text": "Why?! The situation has gotten worse!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "どうして！？\n状況が悪化してるじゃないか！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I had intended to stop them... but when I was put on the spot, I could not say a thing.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "止めるつもりはあったのに……\nいざあの場に行ったら、\n何も\n言えなくなってしまった。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I cannot put a damper on such a lively atmosphere. I am powerless...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "あんなに盛り上がっている空気に水を差すなんて、\nとてもできない。\n私は\n無力だ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Yeah, that is why. Everyone is having fun from the bottom of their hearts doing this... Those smiles they have is what I wanted to protect.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……あぁ、\nそうだ。\n皆、\n心底楽しそうに盛り上がっていて……\nあの笑顔こそ、\n私が守りたいものだったんだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "They have been following me all this time. They took their training seriously, and they did their best without whining.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "彼らは今までずっと、\n私についてきてくれた。\n厳しい稽古にも真面目に取り組み、\n弱音を吐かずに頑張ってくれた。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "But... despite that, nobody could resist the resets. Their efforts were for naught, and they did not even realize it, repeating the same training every loop... I have seen scenes like that many times.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "だが……\nそれでもリセットには抗えなかった。\n彼らの努力が無に帰り、\nそのことに\n気づくことすらできず、\n同じ時間を繰り返す……\nそんな光景を、\n私は何度も見てきたんだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "And now, those same people... are pushing forward into the future on their own strength, working with me to build a better world...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "そんな彼らが、今……\n自分たちの力で\n未来に進んでいる。\n私と一緒に、\nよりよい世界を作ろうとしてくれている……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Precisely because I want to treasure those feelings... I cannot be the one to deny their will. No... more than anyone, I want to affirm it. To cherish it.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "その気持ちを大切にしたいからこそ……\n私が彼らの意志を否定してはいけない。\nそれは、\n他ならぬ私が、\n一番肯定したい──\n大切にしたいものだから。"
+    },
+    {
+      "name": "Rei",
+      "text": "Shinatsu...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "シナツ……"
+    },
+    {
+      "name": "Rei",
+      "text": "...Right. If that is how highly you think of your people, silence is not an option.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……そうだね。\n彼らを思うなら、\nそれこそ黙っていてはいけない。"
+    },
+    {
+      "name": "Rei",
+      "text": "It is not the statue that moves them. More than anything, I think everyone wants you to be happy, Shinatsu.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "単に像を作りたいわけじゃない。\nみんなは何より、\nシナツに喜んでほしいんだと思う。"
+    },
+    {
+      "name": "Rei",
+      "text": "If their feelings were only causing you pain... it would hurt them far more to realize it after the fact.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "その気持ちが、\n逆にシナツを苦しめてしまっていたなら……\n後になってそれを知るほうが、\nずっと辛いはずだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "Accept the feelings of everyone who admires you, and then convey your feelings back to them, Shinatsu. I am sure that is the best course of action.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "シナツを慕うみんなの気持ちを受け止めて、\nその上でシナツの気持ちも伝える。\nきっとそれが一番だよ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Okay. This time, I will steel my mind for sure. I need to be honest with myself.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\n分かった。\n今度こそ覚悟を決めよう。\n腹を割って──\n話すべきだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Therefore... Will you two come with me? Just having you there, watching over me, would be enough...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "だから……\n二人も、\nついてきてくれないか？\n見守っていてくれるだけで、\n構わない……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Thank you... And if it all goes badly, at least be there to pick up the pieces of what is left of me...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……\nありがとう……\nもし駄目だったとしても、\n骨は拾ってくれ……"
+    },
+    {
+      "name": "Rei",
+      "text": "Is this really going to be that brutal a battle...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そんなに過酷な戦いなのか……？"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "Lady Shinatsu? What did you want to speak with us about?",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "シナツ様？\n改めての話って、\n何でしょうか？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "About that statue you wish to make of me... might you reconsider?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "私の像を作る、\nという話だが……\n考え直してはもらえないだろうか。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I, umm... I may stand as your leader now, but in truth... I was never meant for the spotlight.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "私は、\nその……\n今でこそ、\n皆を導く立場にいるが……\n本当は、\n華やかな表舞台に立てるような性分ではないんだ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "If possible, I would like to avoid attracting attention. Which means a giant statue is kind of...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "耳目を集めたりするのは、\nできれば避けたい。\nまして\n巨大な像など……"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "Lady Shinatsu... F-Forgive us! We had no idea that was how you felt...!",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "シナツ様……\nす、\nすみませんっ！\nそのようなお考えでいたとは、\n全く気付かず……！"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "We only wished to let more people know of your great deeds... but if that is your will, then we'll cancel the plan...!",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "シナツ様の偉業を、\nもっと多くの人に広めたい。\nそう思ったんですが……\n仕方ありません。\n計画は中止にします……！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Thank you, I am happy that you understand. ...However, those deeds... they are not my achievements alone.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ありがとう、\n分かってくれて\n感謝する。\n……だが\n私の偉業ではないよ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "This future was won through all our strength together. Not one hero, but every single one of us. Everyone deserves equal recognition -- please never forget that.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "皆が力を合わせて手に入れた未来だ。\n誰か一人が功労者なのではなく、\n一人一人が\n英雄なのだから。\n皆が等しく称えられるべきだし──\nこのことを、\n忘れないでいてほしい。"
+    },
+    {
+      "name": "Rei",
+      "text": "Yeah, you are right. It is a future we have all obtained together. ...In that case, would it not be better to express your gratitude to Shinatsu in a different way?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああ、\nそうだな。\nみんなで手に入れた未来だからね。\n……なら\nシナツへの感謝の心は、\nもっと別の方法で伝えるのがいいんじゃないか？"
+    },
+    {
+      "name": "Rei",
+      "text": "Now that she has told you how she feels, I am sure you will be able to come up with something that suits her.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "互いの気持ちを語った今ならきっと、\nキミたちが彼女のためにやるべきことだって、\n見えてくるはずだよ。"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "Understood! I'll think about what we can do!",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "分かりました！\n私たちにできること、\n考えてみます！"
+    },
+    {
+      "name": "Narration",
+      "text": "After that...the lively voices of Shinatsu's disciples echoed across the main street of Togoku.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その後……\nトーゴクの大通りには、\nシナツの弟子たちの元気な声が響き渡っていた。"
+    },
+    {
+      "name": "Disciple 2",
+      "text": "The Shinatsu Dojo is now accepting students! You can receive instruction from the world-renowned swordsman, Lady Shinatsu!",
+      "choice_data_list": [],
+      "orig_name": "弟子２",
+      "orig_text": "シナツ道場、\n門下生募集中！\n天下に名を轟かせる凄腕剣士、\nシナツ様のご指導が受けられるぞ～！"
+    },
+    {
+      "name": "Rei",
+      "text": "Good morning, Shinatsu. Are they recruiting students?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "おはよう、シナツ。\n彼らは、\n門下生の勧誘を？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Indeed... They want to increase the number of disciples in my dojo and spread my swordsmanship to more people. They have been working hard for that objective.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "あぁ……\n道場の弟子を増やし、\n私の剣技を\nより多くの人に広めたいそうだ。\nずいぶんと熱心に取り組んでいるよ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "My name becoming known may bring troubles... but even so, I wish to accept the respect they show me. These are my honest feelings.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "名が知れることで、\n不都合もあるかもしれないが……\nそれでも\n彼らが私を慕うその敬意は、\nちゃんと受け止めたい。\nこれが私の、\n正直な気持ちだ。"
+    },
+    {
+      "name": "Rei",
+      "text": "Yeah, I think that is for the best. They are all good people...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "うん、\nそれが一番だと思う。\nみんないい人たちだからね……"
+    },
+    {
+      "name": "Narration",
+      "text": "Shinatsu watched her disciples' recruiting efforts with a gaze full of gentle affection...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "シナツは勧誘活動に励む弟子たちを、\n慈しみのこもった眼差しで見つめるのだった……"
+    },
+    {
+      "name": "Disciple 1",
+      "text": "Right now, you can get a kokeshi doll of our master, Lady Shinatsu! It brings you many benefits, such as family safety, business prosperity, and good luck in finding love!",
+      "choice_data_list": [],
+      "orig_name": "弟子１",
+      "orig_text": "今ならなんと！　\n師範であるシナツ様のこけしがもらえます！\n家内安全や\n商売繁盛、\n良縁祈願などなど\nご利益たっぷりですよ！"
+    },
+    {
+      "name": "Rei",
+      "text": "...Are you sure about the kokeshi doll?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……こけしはいいのかい？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Well... compared to a giant statue, it is fine...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "まぁ……\n巨大像に\n比べれば、\n何とか……"
+    },
+    {
+      "name": "Narration",
+      "text": "Her disciples look happy, while Shinatsu seems a little troubled. However, her expression is gentle, and it is clear that she is enjoying the future she has gained.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "楽しそうな弟子たちと、\n少しばかり困っているシナツ。\nだがその表情は柔らかく、\n手に入れた未来を謳歌していることが\n伝わってくるのだった。"
+    }
+  ]
+}

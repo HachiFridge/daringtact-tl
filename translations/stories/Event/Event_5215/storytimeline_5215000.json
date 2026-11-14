@@ -1,0 +1,782 @@
+{
+  "title": "The Villainess and her Bunny Familiar",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Spring. A season full of hope, where the birds sing and the plants burst with vitality. And also... a season where suspicious perverts appear. In Landosol, too.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "春。\nそれは草花が芽吹き小鳥がさえずる、\n希望に満ちた季節。\nそして──\nへんたいふしんしゃが湧く季節。\nここランドソルでも──"
+    },
+    {
+      "name": "Mimi",
+      "text": "Fweh... W-What should I do?! Onii-chan has turned into a pervert...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ふぇっ……\nど、\nどうしよう？\nおにいちゃんがへんたいさんになっちゃった。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Let's see... I suppose this is the \"Permanent Madness\" mentioned in the rulebook? You failed the dice roll and lost all your sanity as a result... Looks like it's game over for you, Nii-chan.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ええっと……\nルールブックにある\n『永久的狂気』\nかな？\nサイコロふりに失敗して、\n正気度が無くなったから……\nにいちゃんはこれでゲームオーバーみたいだね。"
+    },
+    {
+      "name": "Mimi",
+      "text": "Fweeee, Mimi can't go on this adventure all alone~ Mimi will also give up! It's really difficult without Kyouka-chan...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "ふぇぇ、\nミミ\n一人でぼうけんなんてできないよ～\nミミもこうさ～ん。\nやっぱりキョウカちゃんといっしょじゃないと\nむずかしいね……"
+    },
+    {
+      "name": "Misogi",
+      "text": "You're right... I wonder what happened to Kyouka. I haven't seen her since \"that time\" during spring break. Did she catch a cold?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "そうだね。\nキョウカ、\nどうしちゃったのかなあ。\n春休みの『あの時』から、\n会ってないけど。\n風邪ひいたのかな？"
+    },
+    {
+      "name": "Mimi",
+      "text": "Hmm... it's gotten quite warm, so I wonder if she can even catch a cold? Maybe she's holed up in her house because of those rumours about a \"suspicious pervert\"?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "うーん、\nこんなにあったかいのに\n風邪なんてひくかなあ？\nもしかして、\nへんたいふしんしゃさんのうわさのせいで\nおうちにこもってる、\nとか？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Misogi heard everything about this recent rumor! Apparently, there's a villainess who's been dragging around an older lady dressed as a bunny on a chain. So I was told to be careful.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ミソギも最近聞いたんだけどさ。\nウサギのねえちゃんを鎖で連れまわす、\n悪い令嬢が出たんだって。\nそれで気をつけなさい、\nって。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Oh ho ho ho! The weather is lovely today, perfect for a stroll. My steps are as light as a spring breeze.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "おーっほっほっほ！　\n今日は天気に恵まれて、\nお散歩日和。\nわたくしの足取りも、\nまるで春風のように軽やかですわ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Please wait just a minute, pyon! My thighs are aching from all the bunny hopping, pyon! 100 laps around the elven forest and I feel like a balloon about to burst, pyon...!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "お待ちくださいぴょん、\nウサギ跳びで\n私の太ももはパンパンだぴょん！\nエルフの森100周のせいで、\nまるで\n爆発寸前の風船だぴょん……！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Uwaah, you're right. That must be them, Nii-chan! Wait, Kyouka?! What are you doing?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "うわ、\nほんとうだ。\nあれだよ、\nにいちゃん！\nって、\nキョウカ！？　\n何してるの！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hm...? H-Huh? M-Misogi...?! And everyone else too...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ん……？　\nあ、\nあれ？\nミ、\nミソギ……！？　\nそれに、\nみんなも……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Kyouka-chan, what's wrong...? Why are you carrying around that lady on a chain...?",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "キョウカちゃん、\nどうしたの……？\nどうして、\nおねえさんをくさりでつないでるの……？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "D-DON'T ASK...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "き、\n聞かないで……！"
+    },
+    {
+      "name": "Grace",
+      "text": "Hah...! Young lady Kyouka, let's run. You'll go left, milady, while I'll go right!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はっ……\nキョウカお嬢様、\n逃げましょう。\nお嬢様は左へ、\n私は右に！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yes...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "はい……！"
+    },
+    {
+      "name": "Kyouka Grace",
+      "text": "KYAAAAH!?\" \"Ah~",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・グレイス",
+      "orig_text": "「きゃあ！？」\n「あ～」"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wait, of course this would happen! We're chained together, so we can't escape in different directions!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "って、\n当たり前です！\n鎖があるから、\n左右バラバラには逃げられませんよ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ugh, we've been caught... Geez... It's all your fault, Grace-san.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うぅ、\n捕まっちゃいました……\nもう、\nグレイスさんのせいですよ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Can't be helped, I suppose I'll just have to disclose all my secrets. So, where should I start? My annual income? Oh, my measurements? In that case, from top to bottom, they're 84, 5...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "仕方ありません、\n包み隠さず全部話しましょう。\nで、\n何からいきます？　\n年収ですか？\nあぁ、\nスリーサイズですか。\nそれなら、\n上から84、\n5──"
+    },
+    {
+      "name": "Kyoka",
+      "text": "YOU'RE SAYING TOO MUCH! Grace-san, please don't say anything weird.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "全部話し過ぎです！\nグレイスさん、\nへんなことばかり言わないでください。"
+    },
+    {
+      "name": "Narration",
+      "text": "What exactly happened to the two of them during spring break?",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "春休みの間に、\n二人に一体何が起きたのか──"
+    },
+    {
+      "name": "Narration",
+      "text": "Going back a few days, a cultural exchange event with Landosol was held in Geo Niflhell, and the three members of Little Lyrical, who were on spring break, were invited as children.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "遡ること数日。\nジオ・ニヴルヘルでは、\nランドソルとの異文化交流会が開催され、\n春休みだった【リトルリリカル】の３人も子どもの枠で招待されていた。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "We dark elves are quite versed in sorcery. Among such magics, Necromancy, spells performed to interact with the dead, is quite special. Have you heard of zombies? If we're talking about low-grade zombies with rotten brains...",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "我々、\nダークエルフは\n呪術を得意としているんだ。\nその中でも、\n死者を介して行われる呪術\n『ネクロマンシー』は特別でね。\nゾンビは\n知っているかな？　\n脳が腐った低級なゾンビであれば──"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Z-Zombies...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ゾ、\nゾンビ……"
+    },
+    {
+      "name": "Mimi",
+      "text": "Oh no... What Mr. Dark Elf is saying is scary...",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "やだぁ……\nダークエルフさんのお話、\nこわいよ～"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Uh... Sorry. I didn't mean to scare you. Well, umm... shall we talk about a different type of sorcery? No, actually, let's take a break until you calm down. Sorry.",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフの男",
+      "orig_text": "え……\nごめん。\n怖がらせる気はなかったんだ。\nじゃあ、\nええっと……\n別の呪術の話にしようか？\nいや、\nやっぱり落ち着くまで\n一旦休憩時間にします。\nごめんね？"
+    },
+    {
+      "name": "Grace",
+      "text": "It seems things aren't going as planned. Aren't you scaring them a bit too much, Master \"Necroman\"?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "どうやら思惑通りとはいきませんね。\n怖がらせすぎでは？　\nネクロマン氏ー"
+    },
+    {
+      "name": "Violet",
+      "text": "My apologies, you two. I thought you might have found an affinity to talk about various matters since you are both elves, however...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "ごめんなさい、\nお二人とも。\nエルフという共通点から\n親近感を持って\n話をしていただけるかもと思ったのですが……"
+    },
+    {
+      "name": "Grace",
+      "text": "Cross-cultural exchange is not such a simple matter. ...It'd be nice if there was a different approach to handle this... Hey, Brocken.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "異文化交流も一筋縄ではいきませんね。\n……\n何か別の切り口があれば、\nいいのだけど……\nねぇ\nブロッケン。"
+    },
+    {
+      "name": "Brocken",
+      "text": "Hee-hee!",
+      "choice_data_list": [],
+      "orig_name": "ブロッケン",
+      "orig_text": "ヒヒーン！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Eeeehhhh?! Amazing, a horse! It's a horse, right?! So COOL! Hey, hey. What's this little one's name?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ええっ！？　\nすごい、\n馬だ！　\n馬だよね！？\nかっこいいね！\nねえねえ。\nこの子、\n名前は何ていうの？"
+    },
+    {
+      "name": "Grace",
+      "text": "...Well I'd be. Guess I found my approach. Grace-chan, you're way too skilled at following up on your foreshadowings.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "──おっと、\n早速切り口発見。\nグレイスちゃん、\nフラグ回収早すぎ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Madam Misogi, it seems you have the right eye to spot \"coolness\". This is Brocken, an excellent warhorse. Would you like to hitch a ride? Though for a spirit horse, the concept of a ride might be a little different from your usual.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ミソギ氏、\nかっこいいとはお目が高い。\nこの子はブロッケン、\n優秀な軍馬です。\nよかったら乗ってみますか？\n霊馬ですから、\nちょっと乗り心地が違うかもしれませんが。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Are you sure?! Of course I wanna ride! Mimi, Kyouka, join me!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "いいの！？　\n乗りたい乗りたい！\nミミとキョウカも乗ろうよ！"
+    },
+    {
+      "name": "Mimi",
+      "text": "S-Sure. It doesn't seem as scary as that zombie story we heard earlier.",
+      "choice_data_list": [],
+      "orig_name": "ミミ",
+      "orig_text": "う、\nうん。\nさっきのゾンビさんの話よりは\nこわくなさそうっ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Yeah, though this horse is a little big... I'm a bit nervous. I wonder if she'll allow us to ride her without issue...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そうだね、\nちょっと大きくて……\nドキドキするけど。\nうまく乗せてくれるかな……？"
+    },
+    {
+      "name": "Grace",
+      "text": "There's no need to be afraid. As long as you don't give the order, Brocken won't run off on her own.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "怖がる必要はありませんよ。\n命令しない限り、\nブロッケンは勝手に走ったりしませんし。"
+    },
+    {
+      "name": "Grace",
+      "text": "Let's go through the test ride one person at a time. First up, the one whose reaction might be quite amusing with the purple hair.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "試乗は、\n一人ずつ順番にいきましょう。\nまずは、\nリアクションに期待できそうな紫髪の貴女から。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? You mean me...? O-Okay. But don't expect any weird reaction coming from me!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ、\n私のことですか……？　\nわ、\nわかりました。\nでも私、\nへんなリアクションなんてしませんからね。"
+    },
+    {
+      "name": "Grace",
+      "text": "Now, please take my hand. Slowly approach Brocken with confidence as to not startle her. Here, put your left foot in the stirrup. There you go.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "では、\n私の手を取ってください。\nブロッケンを驚かせないように、\nゆっくり堂々と近づきますよ。\nはい、\n左足を鐙にかけて。\nそれっ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "H-Heave ho... Amazing! I managed to get on...? Hehe, you're a good girl, aren't you...? There, there.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "よ、\nよいっしょ……\nす、\nすごい。\n乗れましたよ……？\nふふ、\nおりこうさんなんだね……\nよしよし。"
+    },
+    {
+      "name": "Brocken",
+      "text": "...Brrrrrr.",
+      "choice_data_list": [],
+      "orig_name": "ブロッケン",
+      "orig_text": "……ブルルル\nル。"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "GWAAAAAAAAAH...!",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "ぐおおぉ～……！"
+    },
+    {
+      "name": "全員",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "KYAAAAAAH!? PLEASE RUN AWAY, BROCKEN-SAN...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "きゃあぁ！？\n逃げてください、\nブロッケンさん……！"
+    },
+    {
+      "name": "Brocken",
+      "text": "Hee-hee!",
+      "choice_data_list": [],
+      "orig_name": "ブロッケン",
+      "orig_text": "ヒヒーン！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Eeeeh?! She's gone...\" \"...She's gone, isn't she?\" \"Lady Kyouka!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "「えぇっ！？　行っちゃった……」\n「……行っちゃいましたね。」\n「キョウカ様！？」"
+    },
+    {
+      "name": "Horrible Zombie",
+      "text": "Uh, sorry... I was supposed to make a surprise entrance in the middle of that necromancy talk, but I never got my cue, so I lost track of the timing and just came out... Did I mess something up?",
+      "choice_data_list": [],
+      "orig_name": "こわもてなゾンビ",
+      "orig_text": "え、\nすみません……\nネクロマンシーの話の途中で\nサプライズで\n登場予定だったんですけど、\nずっと合図が無いから\nタイミング見失って、\nとりあえず出たんですけど……\nもしかして\n俺\nなんかやっちゃいました？"
+    },
+    {
+      "name": "Grace",
+      "text": "Her reaction was priceless. I'll go after her...!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "リアクションがよすぎましたね。\n私が追いかけます……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "She suddenly bolted... and we ran off. ...Oh, I see... It's because I told her to run away.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "急に走り出して……\n逃げてきちゃった。\n……あ、\nそうか……\n私が逃げて、\nって言ったから。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Brocken-san... you ran because I said so, didn't you? ...Thank you. But still, I wonder where we are... I have to hurry back.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ブロッケンさんは、\n走ってくれたんだよね。\n……ありがとう。\nそれにしても、\nここ、\nどこかな……\n早く戻らなくちゃ。"
+    },
+    {
+      "name": "？？？",
+      "text": "Oh ho ho ho, you are quite late. Our preparations are complete... Wait, who are you?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おーっほっほっほっほっほ、\n遅かったじゃない。\nこちらの準備は整ったわ……\nって、\nあなた誰よ。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Uh... H-Hello. Um, I got lost...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ……\nこ、\nこんにちは。\nその、\n迷子になっちゃって……"
+    },
+    {
+      "name": "？？？",
+      "text": "Oh my, is that so? I am far too busy to deal with lost children. But, as a special favor, I shall escort you directly to the afterlife. Do forgive me... and GOODBYE!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あら、\nそうですの。\n忙しくて\n迷子を相手にしている暇はないのですけど。\n特別に、\nわたくしがあの世まで送ってさしあげますわ。\nごめんあそばせ、\nさようならっ！"
+    },
+    {
+      "name": "Kyouka Brocken",
+      "text": "KYAAAAH...!?\" \"Brr...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ブロッケン",
+      "orig_text": "「きゃあっ……！？」\n「ブルッ……！？」"
+    },
+    {
+      "name": "Grace",
+      "text": "I WON'T LET YOU...!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "させませんっ……！"
+    },
+    {
+      "name": "？？？",
+      "text": "...Oh my, how rude of you to interrupt me. State your name, you shameless one-legged tights-wearer.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……あら、\nわたくしの邪魔をするなんて、\nとんだ無礼者ですこと。\n名を名乗りなさい、\nそこの恥知らずの片足タイツ。"
+    },
+    {
+      "name": "Grace",
+      "text": "My name is... \"Breezy Right Thigh\". A traveler in search of my missing stocking. ...Are you hurt, \"Breezy Left Thigh\"?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "私は、\nミギィ・スースー\nもう片方のタイツを探して旅をしている者よ。\n……怪我はない、\nヒダリ・スースー？"
+    },
+    {
+      "name": "Breezy Left Thigh?",
+      "text": "...Huh? You mean me? I'm not \"Breezy Left Thigh\". I'm Kyouka.",
+      "choice_data_list": [],
+      "orig_name": "ヒダリ・スースー？",
+      "orig_text": "……えっ、\n私ですか？\nヒダリ・スースーじゃないです。\nキョウカです。"
+    },
+    {
+      "name": "Breezy Right Thigh?",
+      "text": "Your reaction is still there. Thank goodness you're safe.",
+      "choice_data_list": [],
+      "orig_name": "ミギィ・スースー？",
+      "orig_text": "リアクションは健在。\nよかった、\n無事なようですね。"
+    },
+    {
+      "name": "Grace",
+      "text": "So, who exactly are you? I've never seen you around here before. Could it be that you, too, are traveling in search of tights?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "で、\n貴女こそ何者なんです？　\nここら辺では見かけない顔ですが。\nさては、\n貴女もタイツを探して旅をする者ですか？"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "Could you please not lump me in with you? ...\"The villainess from the Dreamlands\", that shall serve as my introduction.",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "あなたと一緒にしないでくれるかしら。\n……『ドリームランドから来た令嬢』\nとでも名乗っておくわ。"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "Well, not that I think we shall ever meet again... GOODBYE!",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "まぁ、\nもう会うこともないでしょうけど……\nさようならっ！"
+    },
+    {
+      "name": "Grace",
+      "text": "Kh, quite the aggressive \"goodbye\" you've got there... Are you the type to punch someone on the shoulder as a greeting? You'll be unpopular like that.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "くっ、\nずいぶん攻撃的な「さようなら」ですね……\n挨拶がわりに肩パンするタイプですか？　\n嫌われますよ。"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "Quiet down that insolent mouth of yours! I'll finish you both off right here!",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "お黙りなさいっ！\n二人まとめて、\nこれで最後よっ！"
+    },
+    {
+      "name": "Grace",
+      "text": "That's... MY LINE!",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "こっちの台詞っ……！"
+    },
+    {
+      "name": "令嬢（？）",
+      "text": "Kh... to pierce me like that... how impertinent...",
+      "choice_data_list": [],
+      "orig_name": "令嬢（？）",
+      "orig_text": "ぐっ……\nわたくしを貫くなんて、\n生意気な……"
+    },
+    {
+      "name": "Grace",
+      "text": "She disappeared, huh...? What an eerie, mysterious monster... *Cough*...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "消えたか……\n得体の知れない\n不気味な魔物だったわね……\nぐふっ……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A-Are you all right?! All because you had to protect me...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "だ、\n大丈夫ですか……！？\n私をかばったせいで……"
+    },
+    {
+      "name": "Grace",
+      "text": "I-I don't think... I'm okay. My whole body is starting to feel breezy... Huh? Am I about to ascend?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "だ、\n大丈夫……\nじゃないかもしれません。\n全身がスースーしてきました……\nあれ、\n消えかかってる？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "NO WAY... S-Someone...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "そんなっ……\nだ、\n誰かっ……！"
+    },
+    {
+      "name": "Grace",
+      "text": "I have no regrets... My heart feels breezy and peaceful... I fulfilled my role as a Chevalier with pride... Ah, my life is flashing before my eyes...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "後悔はありません……\n胸もスースーする想いです……\n私は守護騎士として\n誇りをもって全うしましたから……\nあっ、\n走馬灯……──"
+    },
+    {
+      "name": "Liza",
+      "text": "FULL POWER! Tear it off, ROYAL FAMILY'S EQUIPMENT...!",
+      "choice_data_list": [],
+      "orig_name": "リーザ",
+      "orig_text": "フルパワーよ！\nもぎりなさい、\n王家の装備──！"
+    },
+    {
+      "name": "グレイス",
+      "text": "──！！！",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "──！！！"
+    },
+    {
+      "name": "Liza",
+      "text": "...You surprised me for sure, but in terms of strength, I still won.",
+      "choice_data_list": [],
+      "orig_name": "リーザ",
+      "orig_text": "……ずいぶん驚かされたけど。\n力くらべは、\n私の勝ちね。"
+    },
+    {
+      "name": "Melissa",
+      "text": "So with that, bye bye☆",
+      "choice_data_list": [],
+      "orig_name": "メリッサ",
+      "orig_text": "ってことで、\nばいばーい☆"
+    },
+    {
+      "name": "Violet",
+      "text": "No way... GRACE!!",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "そんな……\nグレイス！！"
+    },
+    {
+      "name": "Grace",
+      "text": "Apologies, my Princess. They seem to have stung you too a little... those needles.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "すみません、\n姫。\n貴女にも少し刺さっちゃいましたね……\n針。"
+    },
+    {
+      "name": "Grace",
+      "text": "...Ah. Crap. It seems this poison also works on Wraiths like me... It looks like I can't move... I was aiming for a stealth kill after this. How frustrating.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……あ。\nやべ。\nこの毒\nレイスにも効きますね……\nちょっと動けそうにありません……\nここからステルスキル狙ってたのに。\nうらめしい。"
+    },
+    {
+      "name": "Grace",
+      "text": "...Huh? Was my life just a series of failures, in the end? Gwah, I'm shocked and mentally damaged... That didn't feel breezy at all...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……あれ、\n思ったよりいいとこなし？\nぐはぁ、\nショックで精神的ダメージ……\n全然スースーできなかったぁ……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "What do you think you're doing?! Please don't talk anymore, you're really going to die...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "何やってるんですか！？\nもうしゃべらないでください、\nほんとうに死んじゃいますよ……！"
+    },
+    {
+      "name": "Grace",
+      "text": "I'm already dead, though.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "もう死んでるんですけどね。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "You're still talking... Wh-What should I do... Umm... Huh? What's with these chains...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "まだしゃべってる……\nど、\nどうしよう……\nええっと……\nあれ、\nこの鎖は……？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "This is what that \"villainess\" dropped earlier, right...? Such incredible magical power... I wonder if I can do something with this...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "さっきの令嬢が落としたもの、\nだよね……？\nすごい魔力……\nこれを使って何か……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "...But how...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "……だけど、\nどうやったら……？"
+    },
+    {
+      "name": "Kyouka Grace",
+      "text": "Kyaaa!?\" \"...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・グレイス",
+      "orig_text": "「きゃあ！？」\n「……！？」"
+    },
+    {
+      "name": "Grace",
+      "text": "...My spirit body... stabilized...? What in the world... is this?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……霊体が、\n安定化した……？\nこれはいったい……？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "WHAT'S WITH THOSE OUTFITS!? It's like we're perverts! Wait, are we chained together!?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "なんですかその姿！？　\nまるで、\nへんたいさんですよ！\nって、\n私たち鎖で繋がれてる！？"
+    },
+    {
+      "name": "Narration",
+      "text": "Due to unforeseen trouble, the intercultural exchange event was canceled. Then, the \"Dinner Table of the Netherworld\" hastily convened to discuss the strange phenomena that had occurred to Grace and Kyouka.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "予期せぬトラブルにより、\n異文化交流会は中止となった。\nそして、\nグレイスとキョウカに起きた不思議な現象を議題に\n『黄泉の食卓』が急遽招集されたのだが──"
+    },
+    {
+      "name": "Violet",
+      "text": "The meeting ended just a little while ago. ...I will now disclose the results of our investigation and the actions we shall take from here on out.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "つい先ほど、\n会議が終わりました。\n……調査結果と\n今後の対応について、\nお伝えします。"
+    },
+    {
+      "name": "Kyouka Grace",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・グレイス",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Violet",
+      "text": "Let me begin with the conclusions. Unfortunately, we were unable to unravel the full details of the chain connecting the two of you. It appears to be a necromancy artifact unknown even to the Dark Elves.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "まず、\n結論から。\n残念ながら、\nお二人を繋ぐ鎖の全容は解明できませんでした。\nダークエルフ族も知らぬ\nネクロマンシーの呪物とのことです。"
+    },
+    {
+      "name": "Violet",
+      "text": "However, we have formed several hypotheses. It is believed that, in exchange for being spared from annihilation by the chain's magic, Grace became a familiar to Lady Kyouka, the chain's wielder.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "ですが、\nいくつか仮説は立ちました。\nグレイスが鎖の魔力を受けて消滅を免れたのを引き換えに、\n鎖の使用者である\nキョウカ様の使い魔となったとみていますわ。"
+    },
+    {
+      "name": "Violet",
+      "text": "For that reason, the two of you have taken on the forms of a villainess and her familiar representing a master-servant relationship. As for the reason Grace took on a bunny guise... it is probably due to the imagination of her new master.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "そのため、\nお二人は主従関係を表す\n令嬢と使い魔の姿に。\nグレイスがウサギなのは……\n恐らく、\n主人となったキョウカ様の想像力が影響したのでしょう。"
+    },
+    {
+      "name": "Grace",
+      "text": "Her imagination made me take on this form...? My, how imaginative you are, Young lady Kyouka.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "想像力で、\nこの姿に……？\nませてますね、\nキョウカお嬢様。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "A-Are you saying it's my fault?! ...I-I'm sure this is all because the appearances of my friends affected my imagination. Mimi is a bunny, and Misogi is wearing tights...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "わ、\n私のせいなんですか！？\n……き、\nきっと\nお友達の姿が想像力に影響したんです。\nミミはウサギさんだし、\nミソギはタイツをはいてるし……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Or rather... why are you calling me \"Young lady\"?! Please stop it at once, you're accepting this situation way too fast!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "って、\nどうしてお嬢様って呼ぶんですか！？\nやめてください、\n受け入れるのが早すぎますよ！"
+    },
+    {
+      "name": "Violet",
+      "text": "Ahem... Let me continue. That magical chain is proof of your master-servant relationship, and the fact it cannot be broken could just as well be called a curse. We are still investigating how to break that curse.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……\n話を続けますわね。\n外せない魔力の鎖は、\n主従関係の契りであり、\n呪いともいえます。\nその呪いの解き方は、\n今も調査中です。"
+    },
+    {
+      "name": "Grace",
+      "text": "No matter what I've tried, I've been left unable to remove it... Was that because of the curse? If we remain like this until the curse is broken, it's going to cause all sorts of problems.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "色々試しても、\n外せなかったのは呪いのせいか……\n呪いが解けるまでこのままだと、\n色々と支障が出てきそうですね。"
+    },
+    {
+      "name": "Violet",
+      "text": "Indeed. Furthermore... that chain is imbued with a magical power that induces \"madness\". If your sanity is eroded, you will begin to believe that this current form is your true self.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "はい。\n更に深刻なのは、\nその鎖には\n『狂気』を誘発する呪力が宿っていること。\n正気を奪われると、\n今の姿が自分自身だと思い込んでしまうのです。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh...? So we'll start believing we really are a villainess and her bunny familiar?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "えっ……\n令嬢とウサギの使い魔だと思い込んでしまうってことですか？"
+    },
+    {
+      "name": "Violet",
+      "text": "Yes... And in light of these circumstances, umm...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "はい……\nそして、\nこれらの状況を鑑みて、\nその……"
+    },
+    {
+      "name": "Violet",
+      "text": "Grace... You have been dismissed from your position as Chevalier by majority vote...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "グレイス……\nあなたは\n会議の多数決で\n守護騎士を解任されました……"
+    },
+    {
+      "name": "Grace",
+      "text": "Hehehe... So I've been fired. Guess I've changed job from Chevalier to Gadabout, haven't I.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ふふ……\nクビってことですか。\n騎士から遊び人に転職じゃないですか。"
+    },
+    {
+      "name": "Duran",
+      "text": "Princess. Grace may always be joking around, but she is serious about her duties as your Chevalier. She also engages in rigorous training every day to fulfill her responsibilities...",
+      "choice_data_list": [],
+      "orig_name": "デュラン",
+      "orig_text": "姫。\nグレイスはいつもふざけておりますが、\n守護騎士の仕事には真面目です。\n職責を果たすため、\n日々厳しい鍛錬にも取り組んでおりますし……"
+    },
+    {
+      "name": "Violet",
+      "text": "O-Of course, I was also against it. But as things stand, Lady Kyouka will be involved with her duties, so I decided it would be difficult for her to carry them out like this...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "も、\nもちろん、\nわたくしも反対しましたわ。\nですが、\n現状ではキョウカ様も巻き込んでしまうので、\n業務遂行に\n難ありとの判断で……"
+    },
+    {
+      "name": "Violet",
+      "text": "However, umm... If that is the case... I suppose I shall use my authority to null the decision reached by the \"Dinner Table of the Netherworld\"...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "ですが、\nその……\nこうなれば。\nわたくしの権限で、\nどうにか『黄泉の食卓』の決定を白紙に……"
+    },
+    {
+      "name": "Grace",
+      "text": "That won't do. It's only bound to cause more problems. ...Thank you, Sumire. Your kind thoughts are enough... I'll find a way to break the curse on my own.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "それはいけません、\nかえって問題が大きくなります。\n……ありがとうスミレ。\nその気持ちだけで十分……\n呪いの解き方は、\n自分の力で見つけてみせますから。"
+    },
+    {
+      "name": "Duran",
+      "text": "N-No way... Ababababaa...",
+      "choice_data_list": [],
+      "orig_name": "デュラン",
+      "orig_text": "そ、\nそんなぁ……\nあばばばばぁ……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ugh... This has turned into a serious problem... What should I do from now on...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "うぅ……\n大事になっちゃった……\n私、\nこれからどうすればいいんだろう……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Cursed, Kyouka and Grace were transformed into a young lady and her familiar. Thus, the two, bound by chains, began to live a life avoiding human eyes.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "呪いによって、\n令嬢と使い魔と化したキョウカとグレイス。\nこうして、\n鎖に繋がれた二人は人目を避ける生活を送り始めたのだった。"
+    }
+  ]
+}

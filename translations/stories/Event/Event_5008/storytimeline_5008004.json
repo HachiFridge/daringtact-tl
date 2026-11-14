@@ -1,0 +1,507 @@
+{
+  "title": "Den of Villainy",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Though Anna and {0} are making good progress\nwith their excavation work, laboring hard for hours on end\nis pushing them to their limits.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "アンナと{0}は採掘作業に取り組んでいたが、\n休みなく働かされ続け、既に体力の限界を迎えていた。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "*pant*... *pant*... *pant*...\nIs it not time for our lunch break yet...?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "はぁ、\nはぁ……\n昼寝の時間は、\nまだなのか……？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Rather than digging through this rock by hand,\ncould we not blast through it with magic instead?",
+      "choice_data_list": [
+        "That could bring the whole cavern down on us!",
+        "Yeah... Let's do that."
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "もう手作業での採掘などやめにして、\n魔法で破壊すればよいではないか……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "True enough. My dark magicks could wreak untold destruction.\nWielding near-limitless power comes with its own problems, heheheh!\n*sigh*",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "確かに、\nこの疾風の冥姫の一撃をもってすればそれは容易い。\n強大な魔力を持つというのも困りものだ、\nくっくっくっ……\nはぁ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "You think so too, Sigurd? Then let us unleash—",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルドもそう思うか？　\nではさっそく──"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "...No, wait. If I wreak too much destruction here,\nI may harm the other workers around us. Perhaps not, then...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "いや待てよ。\nここで魔法を放つと他の労働者たちも、\nまとめて吹き飛ばしてしまいそうだな。\nやめておくか……"
+    },
+    {
+      "name": "Noble",
+      "text": "How is the excavation progressing?",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "進捗はどうかな？"
+    },
+    {
+      "name": "Foreman",
+      "text": "Well enough. Though we suffered some brief setbacks,\nthese past few days have gone smoothly.",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "はい、\nしばらく停滞してしまいましたが、\nここ数日は目標通りです。"
+    },
+    {
+      "name": "Noble",
+      "text": "Very good. I've secured the reference material.\nWe can finally proceed with the deciphering.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "結構。\nこちらも資料を手に入れたよ。\nこれでようやく解読を進められる。"
+    },
+    {
+      "name": "Foreman",
+      "text": "Oh, how wonderful! Please, come this way.",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "それはそれは！　\nでは、\n奥へどうぞ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd... Did you see that? Some fancy-looking noble\nis heading off with the foreman to speak in private.",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "……シグルド。\nあれを見ろ。\n見るからに偉そうなやつが、\n現場監督と洞窟の奥に向かっていくぞ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "We should follow them. It's the perfect chance to investigate!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "後をつけよう。\n調査には絶好の機会だ。"
+    },
+    {
+      "name": "Noble",
+      "text": "I was concerned when we ran out of new laborers from that village,\nbut the flyers we distributed in Landosol\nseem to have worked exactly as we hoped.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "近隣の村の労働力が底をついた時はどうしたものかと思ったが……\nランドソルで出した求人広告は、\n十分な効果を上げてくれたようだね。"
+    },
+    {
+      "name": "Foreman",
+      "text": "Oh, yes! Our carefully worded advertisement\nhas brought rubes like moths to the flame!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "はい。\nこのチラシの文言につられて、\nバカ共が大勢集まって来ました。"
+    },
+    {
+      "name": "Noble",
+      "text": "\\\"Three meals a day, residence provided, with a friendly\non-the-job training program to make you feel right at home!\\\"",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "３食食事付き、\n住み込み寮完備、\n先輩たちによる親切丁寧な指導が大好評の\nアットホームで明るい職場です──"
+    },
+    {
+      "name": "Noble",
+      "text": "Haha! Truly hilarious, if I do say so myself!\nTrudging all the way out to the mountains for these empty promises...\nI'll never understand how commoners' minds work!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "はは、\n何度見ても、\n我ながら傑作だっ！\nこんなものに騙されて辺鄙な山奥くんだりまでやって来るとは、\nやはり平民の思考は理解できんよ！"
+    },
+    {
+      "name": "Foreman",
+      "text": "Many are wanted criminals,\nor otherwise suffering from unfortunate circumstances.",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "賞金首だったり、\nすねに傷を持つ者たちも\nたくさんやって来ています。"
+    },
+    {
+      "name": "Noble",
+      "text": "Hmm. I suppose even the lowliest of ne'er-do-wells\nneeds to make a living somehow.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ふむ。\n金がなくては生きていけないという現実に、\n貴賤はないということだね。"
+    },
+    {
+      "name": "Foreman",
+      "text": "True enough, true enough.\nNobody can survive for long without a penny to their name.",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "おっしゃる通りです。\nかすみを食って生き続けるのは堪えるものですから。"
+    },
+    {
+      "name": "Foreman",
+      "text": "Besides, it's not as if we wrote anything that's strictly untrue.\nWe do provide them all with food and a place to sleep, don't we?",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "それに、\nこのチラシの文言に一字一句、\n間違いはありませんしね。\n食事も出していますし、\n寝る場所もきちんと提供しています。"
+    },
+    {
+      "name": "Noble",
+      "text": "Hahaha! Provisions stolen from the nearby village,\nand beds of straw for them to sleep on like cattle, you mean!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "はははっ！　\n村から巻き上げた食料を食わせ、\n家畜小屋のような藁じきのベッドで眠らせておいてよく言う！"
+    },
+    {
+      "name": "Foreman",
+      "text": "That's another way of putting it! Hahaha...",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "これは手厳しい、\nははは……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Wh-what was that?! The food we ate earlier\nwas cruelly looted from unwilling villagers?\nThose villains... How dare they!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "な、\nなんだと！？　\n私たちがさっき食べたのは、\n略奪した食べものだったというのか……\nやつらめ、\nなんて非道を！"
+    },
+    {
+      "name": "Noble",
+      "text": "Well then... Now that the work is back on track,\nit's time to begin the final stage of my plan.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "さて……\n採掘ペースが再び軌道に乗ったことで、\nいよいよ私の計画も大詰めを迎えた。"
+    },
+    {
+      "name": "Noble",
+      "text": "As soon as I am able to decipher the ancient tomes, my power will rival...\nNo, it will surpass the very gods themselves!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "この取り寄せた文献を元に古文書を解読すれば、\n私は神に迫る……\nいや、\n神をも超える力を手にすることになる。"
+    },
+    {
+      "name": "Noble",
+      "text": "And then, overthrowing the royals of Landosol will be all too easy.\nSoon, I will be this land's new king!",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "そうなれば、\nランドソルの王政を転覆するなど、\n容易いこと。\nそして、\n私が新たな王となるのだ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Overthrowing royalty? Becoming king?!\nJust how hungry for power are these villains?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "王政を転覆？　\n新たな王だと……？\nこいつら、\nなんてことをたくらんでいるんだ。"
+    },
+    {
+      "name": "Foreman",
+      "text": "When the world is yours, I only hope you will remember me...",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "そのあかつきには、\nぜひ私めにもおこぼれを……"
+    },
+    {
+      "name": "Noble",
+      "text": "But of course. Your talent for manipulation\nwill be most helpful in managing my lowly subjects.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "分かっている。\nその平民をかどわかす才、\n私が作る新政府の要人として発揮するがいい。"
+    },
+    {
+      "name": "Foreman",
+      "text": "My liege! 'Tis an honor to serve you!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "ははー！　\nありがたき幸せー！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Tell me, Sigurd, did you hear all that?",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "聞いたかシグルド、\n今の話を。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I have little interest in politics.\nBut even I would hate to be ruled by a king like him!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私は政治に興味はない。\n興味はないが、\nあんなやつが王となる国などまっぴらだ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "My body still aches from all that work, but we cannot back down here!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "働き詰めたせいで身体はきついが、\nここで引くわけにはいかない……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Let's go! It falls to us to crush their ambitions!\nIn the name of the Order of Gehenna Immortals!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "行こう！　\nここでやつらの野望を打ち砕く！\n「熾炎戦鬼煉獄血盟暗黒団」の名にかけて！"
+    },
+    {
+      "name": "Noble",
+      "text": "Now then... I'll get down to deciphering these tomes.\nYou hurry the excavation along.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "さて、\n私は古文書の解読を始めるとしよう。\nおまえは\nあれの発掘を急げ。"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Hold it right there, villains!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "そこまでだ悪党ども！！"
+    },
+    {
+      "name": "Foreman",
+      "text": "You're the new recruits...?\nWe have intruders! Guards!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "貴様ら、\n新入りの……\n侵入者だぞ！　\n警備ー！"
+    },
+    {
+      "name": "Noble",
+      "text": "Alas... Did you overhear our little chat,\nmy dear young miss? Young man?",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "……今の話を聞いてしまったのかい？　\nお嬢さん。\nそれに少年。"
+    },
+    {
+      "name": "Noble",
+      "text": "Honestly... Youth can be such a troublesome thing.\nYour curiosity has led you to your own doom.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "まったく……\n若さというのは、\nやっかいなものだね。\nその好奇心が、\nキミたち自身を破滅させるのだから。"
+    },
+    {
+      "name": "Noble",
+      "text": "You. Kill them.\nThey're in your hands now.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "おい、\nやれ。\n後は任せる──"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Get back here, villain!\nMove it! I don't have time for cronies!\nHiyaaahhh!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "逃げるな外道！　\nどけ、\n雑魚に用はないっ！！\nてやぁああっ！！"
+    },
+    {
+      "name": "Foreman",
+      "text": "What's wrong? There's no oomph to your attacks!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "どうした？　\n力がまるではいってないぞ？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Urgh... If only I could use my magic freely,\nI could make short work of these miserable scoundrels!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "くそっ、\n魔法が自由に使える場所であれば、\nこんなやつらなど、\n一瞬で排除できるというのに……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd! Let's break through their lines! Follow my lead!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド！　\n包囲を突破するぞ！　\n私の後に続け！！"
+    },
+    {
+      "name": "Foreman",
+      "text": "Now, men! Take out the girl!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "今だ！　\n女をやれ！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Oh no! Projectiles?!",
+      "choice_data_list": [
+        "Anna!!!"
+      ],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "しまった、\n飛び道具か──！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Huh? Aahhh...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "え？　\nぁ……"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd?!\nSigurd, answer me! Hey! Sigurd!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド！？\n返事をしろ！！　\nおいっ！！　\nシグルドっ！！"
+    },
+    {
+      "name": "Foreman",
+      "text": "That takes care of the guy! Just the girl to go!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "男はやったぞ！　\n残るは一人だ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "You protected me... How foolish can you be?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "私をかばって……\nなんて愚かなことを！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Please, answer me! Ugh, is he unconscious...?!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "返事をしてくれっ！　\nくそっ、\n意識がないのか……！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "At this rate, we'll be caught!\nFor now, I have to get Sigurd to safety!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "このままでは捕まってしまう！\nとにかく今は、\nシグルドを安全な場所へ……！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Take this! Banishing Flash!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "くらえっ！　\n滅烈閃光弾！！"
+    },
+    {
+      "name": "Foreman",
+      "text": "Ugh...! Just a flashbang? How irritating!\nMove! Go after them! Don't let them escape!",
+      "choice_data_list": [],
+      "orig_name": "現場監督",
+      "orig_text": "ぐっ……！！　\n目眩ましかっ、\nちょこざいな！\n追え！　追うんだ！　\n絶対に逃がすな！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Sigurd... Hang on a little longer! We're almost out!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "シグルド、\nもう少しの辛抱だ。\n洞窟を出るぞ！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'm exhausted to the core... But I can't afford to fail!\nMove! Move, my aching limbs! Please...!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "身体は疲れ果てているが、\n倒れるわけにはいかない！\n動け、\n動けっ、\n我が肉体よ！　\n頼む……！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "It's my turn now to protect Sigurd...!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "今度は私が、\nシグルドを守るんだ……！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "*pant*... *pant*... Damn... it... I can't... go any farth...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "はあぁっ、\nはあぁっ……\nく、そ……\nもう、限界だ──"
+    },
+    {
+      "name": "Ruka",
+      "text": "Anna! {0}!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンナ！　{0}！！"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Annie-girl?! What's gotten you all beat-up?\nAhh! {0}! Are you OK?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "アンナたそ！？　\nどうしてそんなボロボロに……\nあっ！？　{0}君！　大丈夫！？"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "Nanaka... Ruka...!",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "ナナカ……\nルカ……"
+    },
+    {
+      "name": "Ruka",
+      "text": "{0}...?! Hey! Hang in there!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "{0}……！？　おい、\nしっかりしとくれ！！"
+    },
+    {
+      "name": "Stechpalm",
+      "text": "I'm sorry... He took an attack to protect me...\nWe have to get him... to safe... ty...",
+      "choice_data_list": [],
+      "orig_name": "シュテッヒパルム",
+      "orig_text": "すまない……\n私をかばって、\nシグルドが……\nどこか、安全な……\nところ、\nに──"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Anna?!\nR-R-Ruka, what should we do?!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "アンナたそっ！？\nルル、\nルカ姉っ、\nどうしようっ！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "We'd best retreat for now. Let's carry them to the village!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "一度引くしかないね。\n二人を村へ運ぶよ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Nanaka, can you collapse the cavern entrance?\nIt'll buy us some time, at least.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ナナカ、\n洞窟の入口を破壊しといてくれ。\n多少の時間稼ぎにはなる。"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Roger that, boss!\nHiyaaahh!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "了解であります！\nとりゃぁあ！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Nanaka",
+      "text": "Ruka! The cavern's blocked!",
+      "choice_data_list": [],
+      "orig_name": "ナナカ",
+      "orig_text": "ルカ姉、\n入口潰したよ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "...Good. Then let's move!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……\nああ、\nそれじゃあ行くよっ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "Harming our precious friends like this... They've done it now.\nThis is one crime I can't possibly let slide!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アタシたちの大切な仲間を傷つけるとは、\nやってくれたね。\nこの落とし前、\nきっちりつけてもらうよ……！"
+    }
+  ]
+}

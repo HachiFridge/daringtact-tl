@@ -1,0 +1,670 @@
+{
+  "title": "Those Who Seek Legends",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "An old castle towered far away from Landosol. It is where Illya Ornstein, the ruler of the night, resides.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソルより離れた場所にそびえたつ古びた城。\nそこは夜を統べる者、イリヤ・オーンスタインの居城であった。"
+    },
+    {
+      "name": "Illya",
+      "text": "I told you to go home, didn't I?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "だーかーら、\n帰れと言うとるじゃろ？"
+    },
+    {
+      "name": "Yuki",
+      "text": "No, I won't go home until you hear my wish.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "いいや\n帰らないよ。\nボクの願いを聞いてくれるまでは。"
+    },
+    {
+      "name": "Illya",
+      "text": "Ugh, you keep showing up day after day! No matter how many times you ask me, I can't grant you that wish! I'm telling this for your own good, so just leave!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぬ\nぅ～、\n毎日毎日性懲りもなく顔を出しおって！\n何回頼まれてもお主の願いは聞けん！\n悪いことは言わんから、\n大人しく立ち去るがよい！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Why? You're the legendary vampire, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "どうしてさ。\nだってキミ、\n伝説の吸血鬼なんでしょ？"
+    },
+    {
+      "name": "Illya",
+      "text": "It's true that I'm a great vampire and ruler of the night, but I'm currently in a bit of a predicament... Anyway, it's impossible!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "確かに\nわらわは偉大なる吸血鬼にして、\n夜を統べる者──\nしかし\n今はいろいろと事情があって……\nとにかく無理なのじゃ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "I want it right now!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "今じゃないとダメなんだよ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Oh! {0}, you've come at the right time! Can you help me kick him\n out of here?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "おお！　\n{0}よ、\nいいところに来おったな！\nこやつをここから摘まみだしてくれぬか！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hehe. You're attracted to my beauty too, aren't you, {0}-san? Now why don't you help me get a favor from this\n vampire?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふふっ。\n{0}さんも\nボクの美に惹かれて来たんだね。\nだったら\nキミからもお願いしてよ、\nこの吸血鬼さんにさ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "I want──",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "このボクを──"
+    },
+    {
+      "name": "Yuki",
+      "text": "To turn into a vampire!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "吸血鬼にしてくれってね！"
+    },
+    {
+      "name": "Illya",
+      "text": "And that's how it is. Can you help me with her?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "というわけなんじゃ。\nなんとかしてくれぬか。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Because I'm too beautiful!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ボクが美しすぎるからさ！"
+    },
+    {
+      "name": "Illya",
+      "text": "...Huh? You really are hard to understand...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……の？\nまったく話が通じんじゃろ？"
+    },
+    {
+      "name": "Yuki",
+      "text": "From what I’ve heard, vampires can keep the same appearance for eternities, don’t they?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "聞いた話によると、\n吸血鬼って\n姿形はそのまま、\n永遠の時を生きるらしいじゃないか。"
+    },
+    {
+      "name": "Illya",
+      "text": "Well, you're right. I've lived for a long time and my appearance... has mostly stayed the same.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "まぁ\n確かに、\nそうじゃな。\nわらわも永い時を生きておる。\n姿形は……\n多少大きくなったり小さくなったりしておるが。"
+    },
+    {
+      "name": "Yuki",
+      "text": "So you see, I thought I should become a vampire to make my beauty last for eternity. That's the destiny of someone carrying beauty itself after all!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ボクはね、\nボク自身の美を\n永久不変のものとするため、\n吸血鬼になろう、\nなるべきだと思ったのさ。\nそれが\n美を背負った者の宿命だからね！"
+    },
+    {
+      "name": "Illya",
+      "text": "I'm sure that \"beauty\" would be baffled as well.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "背負われた美も困惑しておろうな。"
+    },
+    {
+      "name": "Illya",
+      "text": "...Hey, {0}, what's with this guy? I've never seen anyone so\nincomprehensible before.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……のう{0}よ、\nなんなのじゃこやつは。\nこんなにも訳の分からぬやつは初めて見るぞ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Heheh. Aren't you proud too, Illya? You'll be the one to make my beauty eternal after all♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふふん、\nイリヤも誇らしいでしょ？\nこのボクの美しさを\n永遠のものにできるんだよ♪"
+    },
+    {
+      "name": "Illya",
+      "text": "*sigh*... Ever since he started barging in, the members of Diabolos have stopped coming to the castle.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "はぁ……\nこやつが押しかけてくるようになってから、\n【悪魔偽王国軍（ディアボロス）】の者たちも\n城に寄り付かなくなってしまったのじゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Even Miyako ran away after hearing him explain about 'My jiggly beautiful skin which is more beautiful than pudding' for a few hours.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あのミヤコですら、\n「プリンより美しいボクのぷるぷる美肌」の説明を\n数時間聞かされて\n逃げていきおった。"
+    },
+    {
+      "name": "Illya",
+      "text": "At first, I ordered Yori to deal with Yuki... But after she listened to Yuki for a while, she gets teary-eyed... \nShe's a bit of a pushover.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ、\n初めはわらわが命じて\nヨリにユキの相手をさせたのじゃがな。\nあやつ、\nしばらくユキの話を聞いているうちに\n涙目になりおってな……\n……\n押しが強いの、\n苦手だったんじゃろうな。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Akari is quite a promising girl♪ When I started talking about beauty, she was really interested in it♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "アカリちゃんはなかなか見どころがあるよね。\n美についての話を始めると、\nボクの話を興味津々に聞いてくれるんだ♪"
+    },
+    {
+      "name": "Illya",
+      "text": "...That's why I dismissed her. I can't let him influence Akari too much.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……ゆえに、\nなるべく会わんように暇を出しておる。\nいらん影響を与えられてはたまらんからな。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hm? Come to think of it, Shinobu didn't meet with Yuki at all. Ah! Did she divined the future before Yuki arrived？ Don't tell me she knew and avoided him...!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うん？　\nそういえば\nシノブのやつはユキに会っておらんな。\nあっ！　\nあやつ、\nユキが来る前になにやら占いをしておった！\nまさか予見して避けておったのか……！？"
+    },
+    {
+      "name": "Illya",
+      "text": "In any case, because of him alone, Diabolos has completely collapsed. Right now, there's no one else in this castle besides you and me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "とにかく、\nこやつ一人のせいで\n【悪魔偽王国軍（ディアボロス）】は総崩れなのじゃ。\n今、\nこの城には\nわらわとお主ら二人を除いて\n誰もおらん。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Huh? Really? Then what about him?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "あれ？　\nそうなの？\nじゃあ、\nあの人は？"
+    },
+    {
+      "name": "Illya",
+      "text": "...Him?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……あの人？"
+    },
+    {
+      "name": "Male Demon",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "魔族の男",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Illya",
+      "text": "...Hmm.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……ふむ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Who are you?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "誰じゃお主！？"
+    },
+    {
+      "name": "Male Demon",
+      "text": "Ohh, it is an honor to finally hear the voice of the legendary vampire herself, Illya-sama Ornstein.",
+      "choice_data_list": [],
+      "orig_name": "魔族の男",
+      "orig_text": "おお、\nこれは御自らお声がけいただき光栄の至り。\n伝説の吸血鬼、\nイリヤ・オーンスタイン様。"
+    },
+    {
+      "name": "Male Demon",
+      "text": "I didn't want to interrupt your conversation, so I kept my mouth shut.",
+      "choice_data_list": [],
+      "orig_name": "魔族の男",
+      "orig_text": "偉大なるあなた様の会話の邪魔になってはいけないと、\n口を閉ざしておりました。"
+    },
+    {
+      "name": "Illya",
+      "text": "What if I hadn't noticed...? However, you seem to understand my greatness. Alright, I'll permit you to come closer and state your business.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "このまま気付かなかったらどうするつもりだったんじゃ……？\nじゃが、\nこっちはわらわの偉大さを分かっておるようじゃな。\nよし、\n近くに来て用件を述べることを許そう。"
+    },
+    {
+      "name": "Male Demon",
+      "text": "Hah, I'm overjoyed.",
+      "choice_data_list": [],
+      "orig_name": "魔族の男",
+      "orig_text": "ハッ、\nありがたき幸せ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Ahh! Wait a minute, Illya, I was here first!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "あーっ！\nちょっとイリヤ、\nボクの方が先だったでしょ！"
+    },
+    {
+      "name": "Illya",
+      "text": "You coming first or not doesn't change anything! Just give it up and accomplish your destiny as a human instead!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "先でも後でも結果は変わらんわ！\n大人しく諦めて、\n人としての美を全うするがよい！"
+    },
+    {
+      "name": "Illya",
+      "text": "...Ahem. Sorry to keep you waiting. Name yourself first.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……こほん。\n待たせたの。\nまずは名乗るがよい。"
+    },
+    {
+      "name": "Brad",
+      "text": "My name is Brad. I am a demon who lives in a certain city far from here.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "私の名はブラド。\nここより離れた地のとある街に住む、\n魔族でございます。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hmm. Well then, Brad, let us hear what business you have here.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふむ。\nではブラドよ、\n汝の用件を聞こう。"
+    },
+    {
+      "name": "Brad",
+      "text": "──The Legendary Vampire. A long time ago, the lord of demons led the demon race and fought against the three races: humans, elves, and beastmen.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──伝説の吸血鬼。\n太古の昔、\n我ら魔族を率いて、\nヒューマン、\nエルフ、\n獣人の３種族を相手に戦った、\n魔族の王。"
+    },
+    {
+      "name": "Brad",
+      "text": "According to our legends, during the fight with the gods, us demons were defeated and the demon lord is thus sealed away.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "我々魔族の言い伝えでは、\n神々との争いにおいて敗北を喫し、\n封印されたと伝えられております。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hmm. I don’t know any legends like that. Is that true, Illya?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふぅん。\nそんな言い伝え全然知らないや。\n本当なの？　\nイリヤ。"
+    },
+    {
+      "name": "Illya",
+      "text": "I wonder. I've lived for a long time that I feel something like that could've happened...or not...\nActually Yuki, you shouldn't just butt into the conversation!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "どうじゃろうな。\nわらわも永く生きておるからのう。\nそんなこともあったような、\nなかったような……\nというかユキお主、\nさらっと話に割り込んでくるでないわ！"
+    },
+    {
+      "name": "Illya",
+      "text": "...So? Brad, there's no need for unnecessary preamble. Get down to business.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……それで？\nブラドよ、\n余計な前置きは不要じゃ。\n本題を述べよ。"
+    },
+    {
+      "name": "Brad",
+      "text": "Understood ...I heard a certain rumor and decided to come here.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "承知いたしました。\n……\n私は、\nある噂を耳にしてここを訪れたのです。"
+    },
+    {
+      "name": "Brad",
+      "text": "\"The legendary vampire has been revived, however she has lost her powers” the rumour said.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "『伝説の吸血鬼が復活した。\nしかし──\nその力を失っている』と。"
+    },
+    {
+      "name": "Illya",
+      "text": "...Oh? Are you here to slay me while I'm still powerless?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……ほう？\nよもや、\n力を失っているわらわを\n討ち取りにでも来たか？"
+    },
+    {
+      "name": "Illya",
+      "text": "Haha... Very well. Stand aside, my familiar. There were many ambitious people who wanted to make a name for themselves. There was no way I could lose to someone like thi──",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふふ……\nよい。\n控えておれ、\n我が眷属よ。\nわらわを狙い、\n名を上げようとする野心家は多くいた。\nこの程度の輩に\nわらわが負けるわけが──"
+    },
+    {
+      "name": "Brad",
+      "text": "Exactly! There's no way someone like me could match the power of the great and legendary vampire!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──その通りでございます！\n私ごときが、\n偉大なる伝説の吸血鬼のお力に敵うはずがありません！"
+    },
+    {
+      "name": "Brad",
+      "text": "She can change the weather with a single finger, split the earth with a step, create a great storm with a breath, and charm the hearts of tens of thousands of creatures just by looking at them. How can I stand up to such a powerful being?!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "指先一つで天候を変え、\n足を踏み鳴らせば大地を割り、\n吐息を漏らせば\n大嵐を巻き起こし、\n眼差しを向けるだけで数万の生物の心を魅了する。\nそのようなお力を持つ存在に、\n何故私が歯向かうことができましょう！"
+    },
+    {
+      "name": "Illya",
+      "text": "Y-Yes...? Was I really like that...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "う、\nうむぅ……\nそんなにじゃったかのう……？"
+    },
+    {
+      "name": "Illya",
+      "text": "T-That's right! You should respect me as much as you can! Hahaha...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そ、\nそうじゃな！\n存分に\n尊敬するがよいぞ！\nハーハッハ……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Illya, why are you forcing a smile? Well that being said, she currently doesn't have that kind of power, right? She said she lost it herself earlier.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "イリヤ、\n笑顔が引きつってない？\nまぁでもさ、\n今のイリヤにそんな力はないんでしょ？\n力を失ってるって言ってたし。"
+    },
+    {
+      "name": "Brad",
+      "text": "Yes, that's what I've also heard. And that's why── I have come here to restore Illya-sama's power.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ええ、\nそう聞き及んでおります。\nゆえに私は──\nイリヤ様のお力を復活させるために参じたのです。"
+    },
+    {
+      "name": "Illya",
+      "text": "Restore my power...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわの力を復活させる……\nじゃと？"
+    },
+    {
+      "name": "Brad",
+      "text": "Exactly. Please take a look at this.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "その通りです。\nどうぞ、\nこちらをご覧ください。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow, that's a pretty stone. It'd be good as my accessory...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "へぇ、\nきれいな石だね。\nボクのアクセサリーに──"
+    },
+    {
+      "name": "Illya",
+      "text": "──Don't try to steal it! So, what is it? That stone you're holding......I feel a strange magical energy.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "──しようとするでないわ！\nで、\nなんじゃ？　\n貴様の持つその石は。\n……妙な魔力を感じるが。"
+    },
+    {
+      "name": "Brad",
+      "text": "There are many places in this world associated with the legendary vampire. From one of those places, lies a trace of history hidden in the darkness.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "この世界には、\n伝説の吸血鬼にまつわる地が多くございます。\nそこを巡り手に入れた、\n闇に隠されし歴史の痕跡とでも言いましょうか。"
+    },
+    {
+      "name": "Brad",
+      "text": "──It is the crystallization of Illya-sama's power.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──イリヤ様のお力の、\n結晶にございます。"
+    },
+    {
+      "name": "Illya",
+      "text": "A crystallization of my power...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわの力の、\n結晶……？"
+    },
+    {
+      "name": "Brad",
+      "text": "Yes, it is a crystal imbued with the legendary vampire's power. If you take this, you will be able to regain your power, Illya-sama. Now, please accept it.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ええ、\n伝説の吸血鬼の力が込められし結晶でございます。\nこれを手にすれば、\nイリヤ様のお力を取り戻すことができるでしょう。\nさぁ、\nどうぞお受け取りください。"
+    },
+    {
+      "name": "Illya",
+      "text": "...Y-Yes.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……う、\nうむ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Is this really my power...? Restoring my power is what I truly desire. But is this really fine? With it being handed so easily like this...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "これで、\nわらわの力が本当に……？\n力の復活は\nわらわの本懐。\nだがよいのか？\nこんなに、\n簡単に……"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow, that’s nice, the power of the legendary vampire huh? Then, me too!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "へぇ、\nいいなぁ、\n伝説の吸血鬼の力かぁ。\nじゃあボクも。"
+    },
+    {
+      "name": "Both",
+      "text": "\"Me too\"?!",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "じゃあボクも！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Ugh... What is this...?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぐっ……\nなんじゃ、\nこれは……！"
+    },
+    {
+      "name": "Illya",
+      "text": "This intense magical energy surging from the depths of my body...! This burning feeling being unleashed in my heart...! This is definitely...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "体の奥底から湧き上がる\n深い魔力……！\n燃え盛るがごとき心の解放感……！\n確かに、\nこれは……！"
+    },
+    {
+      "name": "Brad",
+      "text": "Oh! The legend is coming back to life!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "おお！\n今まさに、\n伝説がよみがえる……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow♪ This is amazing. My body feels so hoot♪ It's like I'm being detoxified...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "へぇ♪\nすごいねこれ。\n体の中があつ～い♪\nデトックスしてるみたいだ……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "...Detox...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……デトックス……"
+    },
+    {
+      "name": "Yuki",
+      "text": "And our outfit even matches? You're so thoughtful♪ You sure know how to decorate me in dark colors.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "しかも\n服までコーディネートしてくれるなんて、\n気が利いてるね♪\n闇カラーでボクを飾るなんて、\nわかってるじゃないか。"
+    },
+    {
+      "name": "Illya",
+      "text": "What is this outfit?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "この装束はなんなのじゃ？"
+    },
+    {
+      "name": "Brad",
+      "text": "That's the outfit that was said to create an eternal night! I knew it... You really are the legendary...!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "それこそ永久の夜を生み出すとまでいわれた装束……！\nやはり……\nやはりあなた様こそ伝説の……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Heheh♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふふんっ♪"
+    },
+    {
+      "name": "Illya",
+      "text": "No, he's not talking about you.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "いや\nお主のことではないじゃろ。"
+    },
+    {
+      "name": "Illya",
+      "text": "It's true that I feel an extraordinary amount of power. Maybe it's really──",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "これまでとは別格の力のたぎりを感じるのは確かじゃ。\nもしかすると本当に──"
+    },
+    {
+      "name": "？？？",
+      "text": "──I, The King of demon──",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──ワラワハ、\nマゾクノオウ──"
+    },
+    {
+      "name": "Illya",
+      "text": "What was that voice...?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ッ！？\nなんじゃ、\n今の声は……？"
+    },
+    {
+      "name": "Yuki",
+      "text": "What’s wrong, Illya?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "どうかしたの、\nイリヤ？"
+    },
+    {
+      "name": "Illya",
+      "text": "No... It’s nothing...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "いや……\nなんでもない。"
+    },
+    {
+      "name": "Illya",
+      "text": "Fully restored, huh...? I still feel like something is missing.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "完全復活、\nか……\nそれにはまだ何かが足りぬ気がするのじゃ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Is it your beauty?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "美しさとか？"
+    },
+    {
+      "name": "Illya",
+      "text": "I'm beautiful enough!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわは十分美しいわ！"
+    },
+    {
+      "name": "Brad",
+      "text": "Something missing... Yes, that would be right.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "何かが足りない、\nですか。\n……ええ、\nそうでしょうな。"
+    },
+    {
+      "name": "Illya",
+      "text": "What is it? Are you still hiding something?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なんじゃ？\nお主、\nまだ何か隠しておるな？"
+    },
+    {
+      "name": "Brad",
+      "text": "Illya-sama. This is not the only reason I came here today.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──イリヤ様。\n私が今日、\nここを訪れた理由はこれだけではないのです。"
+    },
+    {
+      "name": "Illya",
+      "text": "Looks like that's the main topic.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "どうやらそちらが本題、\nのようじゃな。"
+    },
+    {
+      "name": "Brad",
+      "text": "Yes. There is a place that I'd like the legendary vampire, Illya-sama, to visit.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "はい。\n伝説の吸血鬼であるイリヤ様に、\nお越しいただきたい場所がございます。"
+    },
+    {
+      "name": "Illya",
+      "text": "...Are you saying that this 'something missing' will be found in there?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……『足りない何か』が、\nそこで埋まると？"
+    },
+    {
+      "name": "Brad",
+      "text": "Yes, I'm sure of it. After all, it was once──",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ええ、\n必ずや。\n何故なら、\nそこはかつて──"
+    },
+    {
+      "name": "Brad",
+      "text": "──The Land Once Ruled by the Legendary Vampire.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──伝説の吸血鬼が支配していた地にございますので。"
+    },
+    {
+      "name": "Narration",
+      "text": "Illya returned to her original form, and Yuki who also somehow gained the same power. The curtain rises on a story about the legendary vampire──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "本来の姿へと戻ったイリヤ、そして何故か同時に力を得てしまったユキ。\n伝説の吸血鬼を巡る物語が、幕を開ける──"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "title": "Anne Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Left with no choice but to wait for the Guild Association\nto prepare a magic tracer for them, Anne and co. decide\nto spend the time checking out Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ギルド管理協会から魔力探知機が届くまでの間、\nランドソルを見て回ることになったアンたち。\nそんなある日のこと――"
+    },
+    {
+      "name": "Karyl",
+      "text": "Anything you want to see in particular, Anne?\nWe've got the time, so I'm cool with showing you around.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "アンは、\nなんか見たいものとかあるの？\nどうせしばらく暇なんだし、\n観光に付き合ってあげるわ。"
+    },
+    {
+      "name": "Anne",
+      "text": "Really? Thanks so much!\nThere's actually something I've been really, really curious about!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "いいの？　\nありがとう！\nじゃあじゃあ、\nずっと思ってたんだけど……！"
+    },
+    {
+      "name": "Anne",
+      "text": "Books!\nI wanna read as many of Landosol's books as possible!\nIdeally all of them!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あのねっ、\nランドソルの本を\nい～\nっぱい読んでみたいの！"
+    },
+    {
+      "name": "Grea",
+      "text": "Hehe.\nYou really do love books, don't you?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ふふっ……\nアン、\n本当に本が好きだよね。"
+    },
+    {
+      "name": "Anne",
+      "text": "Can you blame me? We're in a whole different world!\nThere's gotta be all sorts of books I\nhaven't heard of, yet alone read!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "だってだってっ、\nミスタルシアとは違う世界なんだよ！？\nあっちにも\nこっちにも、\n読んだことない本があふれてるんだよ！"
+    },
+    {
+      "name": "Anne",
+      "text": "Just thinking about what's written in them has me all excited!\nAnd I just can't hide it!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "どんなことが書いてあるのかなぁって考えるだけで、\nもうわくわくしちゃって……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Cool, cool. Might want to calm down a little bit, though.\nI guess you really do love books, huh?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どうどう、\n少し落ち着きなさいって。\nふーん、\nアンってば\n相当な本好きなのね。"
+    },
+    {
+      "name": "Anne",
+      "text": "Yup! I do!\nOh. But there's one thing I love more.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うんっ！　\n本、\n大好きだよ～！\nあ、\n一番ってわけじゃないけどね。"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh? Now that's a first, even to me.\nThere's something you love more than books? What is it?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっ、\n違うの？　\nそうだと思ってた……\nじゃあ、\nアンが一番好きなものって……？"
+    },
+    {
+      "name": "Anne",
+      "text": "Grea's tail! ♪",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "グレアの尻尾♪"
+    },
+    {
+      "name": "Grea",
+      "text": "Wha?! W-wait a minute!\nY-you can't touch it, okay?!\nIt's really tickly!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えぇ！？　\nあっ、\nちょっ、\nさ、\n触らせないからね！？\nくすぐったいんだから……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Enough with the flirting, you two.\n...Anyway, you wanna go somewhere with lots of books, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はいはい、\nゴチソーサマ。\n……\nとりあえず\n本があるとこに案内すればいいってわけね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm not actually sure what place would be good around here, though.\nYou got any ideas, {0}?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "この辺だったら、\nどこにあるかしら？\n{0}、\nどっかいいところ知ってる？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Oh, that store over there?\nIt does look like it'd have a good amount of books.\nLet's go check it out, then.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……あぁ、\nあの道具屋ね。\nたしかにあそこなら揃ってそう。\nじゃ、\n行きましょうか。"
+    },
+    {
+      "name": "Lou",
+      "text": "Urgh... Books are my enemy...\nJust looking at them makes me so, so sleepy...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "うぅ、\nルゥは、\nどくしょはニガテですぅ……\n本を眺めてると、\nそれだけでもう\n眠たくなっちゃうですぅ。"
+    },
+    {
+      "name": "Lou",
+      "text": "No. It's worse than that...\nJust thinking about them... Zzz...",
+      "choice_data_list": [],
+      "orig_name": "ルゥ",
+      "orig_text": "いえ、\n見てなくても、\n本のことを考えるだけで……\nかんがえる……だけで～……\nぐぅ。"
+    },
+    {
+      "name": "Anne",
+      "text": "Huh? Lou?\nD-did she genuinely fall asleep?!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あれっ、\nルゥ……？\n　ね、\n寝ちゃったの！？"
+    },
+    {
+      "name": "Grea",
+      "text": "A-ahaha...\nI'd hate to wake her up,\nso let's let her rest here.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ、\nあはは……\n起こすのもかわいそうだし、\nルゥはこのまま\n寝かせててあげよっか。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Guess we'll head to the store, then.\nLet's get going, {0}.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "じゃ、\nアタシたちは道具屋に向かいましょ。\n行くわよ、{0}。"
+    },
+    {
+      "name": "Anne",
+      "text": "Wow! They've got such a good selection!\nAnd look! There's all sorts of books I haven't seen before!\nI knew I it!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うわぁ～！　\nすごい品揃えだね！\nそれに思ってたとおり、\nあっちにも！　\nこっちにも！\n読んだことない本でいっぱいだ～！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Hehe.\nI can see the sparkle in your eyes, Anne.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "ふふっ……\nアン、\n目がキラキラしちゃってる。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Loving books is one thing, but I'd say you're a fanatic at this point.\nActually, hold up.\nYou can read our language?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ここまでくると、\n本好きってレベルを逸してない……？　\nって、\nあれ？\nそもそもあんた、\nこの世界の字が読めるの？"
+    },
+    {
+      "name": "Anne",
+      "text": "Yup!\nThe people at the Sarendia Orphanage taught us yesterday.\nRight, Grea?",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "うん！　\n昨日【サレンディア救護院】のみんなに\n教えてもらって覚えたの。\nね、\nグレア！"
+    },
+    {
+      "name": "Grea",
+      "text": "Yeah. I can only read a bit though.\nGoes to show how amazing you are, Anne.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うん。\n私はまだ少ししか理解できないけど……\nさすがだね、\nアン。"
+    },
+    {
+      "name": "Karyl",
+      "text": "You learned to read another world's language in one day?\nYou really are an oddball.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "一日で異世界の字が読めるようになるって……\n本当に色々とぶっ飛んでるわね、\nあんたって。"
+    },
+    {
+      "name": "Anne",
+      "text": "Hey, can I read some of these?! Don't mind if I do!\nLet's see... \\\"The Foundations of Magic.\\\"\nWow! It's a book about Astraea's magic!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ねえねえ、\nちょっと読んでみていい！？　\n読んじゃうね！？\nえーっと、\nこれは……\n『基礎から学ぶ魔法学』……\nわ、\nこれってアストライアの魔法について書かれてるの！？"
+    },
+    {
+      "name": "Anne",
+      "text": "Hm, hm... Huh... I see, I see.\nSo that's how magic is activated here...",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "ふんふん……\nへぇ……\nなるほど\nなるほど。\nこっちではこういう感じで魔法が発動するんだ……"
+    },
+    {
+      "name": "Anne",
+      "text": "Spellcasting, magic circles...\nOh! This part of the process is similar to\nhow we do it in Rivenbrandt!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "術式に……\n魔法陣……\nあっ、\nこの辺はミスタルシ\nアとも似た体系をた\nどってる……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "How should I put this...\nYou're pretty earnest, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんていうか……\nアンって真面目なのね。"
+    },
+    {
+      "name": "Anne",
+      "text": "Huh? You think?",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "え？　\nそう？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I mean, you already know how to use magic.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "だって、\nこんなのわざわざ勉強しなくたって、\n魔法使えてるじゃない。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Let's not forget those spirits you can summon, too.\nNo real sense in studying when you can already do that, right?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っていうかそもそも、\n英霊なんてのが召喚できるんだから、\n今さら本読む必要なんてないんじゃないの？"
+    },
+    {
+      "name": "Anne",
+      "text": "So you'd think. But there's still so much I don't know.\nPlus, learning new stuff is just plain fun!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "そんなことないよ。\nまだまだ知らないことはたくさんあるし、\n知識が増えていくのってすごく楽しいよ！"
+    },
+    {
+      "name": "Anne",
+      "text": "And that's not all. The smarter I get, the stronger I get.\nThat'll enable me to protect everyone I love in Mysteria!\nNot a single downside to it!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "それに、\n私がちゃんと勉強して、\n強くなっていけば……\nそれだけマナリアのみんなを守れるようになるってことだもん。\nこれっていいことずくめだよねっ！"
+    },
+    {
+      "name": "Grea",
+      "text": "That's part of the reason I enrolled in Mysteria Academy, even.\nI was motivated enough to flee the castle.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "同じような理由で、\n王宮を飛び出して\n魔法学院へ勉強しに来ちゃったんだもんね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh.\nDid they not let you study magic there or something?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふーん。\n王宮じゃあ魔法の勉強、\nさせてもらえなかったの？"
+    },
+    {
+      "name": "Anne",
+      "text": "They kind of did.\nBut I wanted to learn more advanced, specific stuff as well.",
+      "choice_data_list": [
+        "That's incredible.",
+        "Guess that's what makes you a princess."
+      ],
+      "orig_name": "アン",
+      "orig_text": "ある程度はできたけど……\nもっと専門的で、\n高度なものを学びたかったんだ。"
+    },
+    {
+      "name": "Anne",
+      "text": "Huh?! Come on, it's not [i]that[/i] incredible!\nI just love the people of my kingdom. It's that simple.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "えっ！？　\nそんな改まった感じで褒められるようなことじゃないよ～！\n私は、\nマナリアのみんなが大好きなだけだから。"
+    },
+    {
+      "name": "Anne",
+      "text": "Ahaha. Not at all. That part's just coincidence!\nWanting to learn, wanting to protect everyone...\nThat's just how I feel as an individual.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あははっ、\nそんなんじゃないよ？　\n偶然そういう位置に生まれただけ！\n守りたいとか学びたいとかは\n全部、\n私自身の気持ちに従っただけだよ。"
+    },
+    {
+      "name": "Anne",
+      "text": "Now then. We don't have all the time in the world here,\nso I should use it to check out even more books. ♪",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "さてと、\nここにいられる時間も限られてるわけだし……\nもっともっと色々な本に触れ合っちゃおうかな～♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Really? You're not satisfied as it is?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "え？　\nまだ探す気なの？"
+    },
+    {
+      "name": "Anne",
+      "text": "How could I be?\nThere's so many interesting ones here!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "だって、\nここには面白そうな本が、たっくさんあるんだもん！"
+    },
+    {
+      "name": "Anne",
+      "text": "Let's see... \n\\\"A Record of Grand Magics,\\\" \\\"Magecraft: Past to Present,\\\"\n\\\"History's Greatest Heroes: A Memoire.\\\"",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "えっと、\n『大型魔法備忘録』に、\n『古代魔術とその変遷』、\n『歴戦の覇者たちの記録』――"
+    },
+    {
+      "name": "Anne",
+      "text": "Oh! The stuff here seems interesting! \\\"Landosol Records\\\"!\nWhat else is there... \\\"The Mystery of Astraea's Advanced Civilization\\\"!\nWow! Now I'm super curious! ♪",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あっ、\nこれも面白そう！　\n『ランドソル列伝』！！\nこっちは……\n『アストライア大陸に潜む超文明の謎』！！\nうわぁ～、\nどんな内容なんだろう♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey...\nWhat happened to studying magic?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……ねえ、\n選ぶ本が魔法から遠ざかってない？"
+    },
+    {
+      "name": "Grea",
+      "text": "Ahaha...\nShe's gone full bookworm mode on us.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あはは……\nなんだか、\n火が付いちゃったみたい。"
+    },
+    {
+      "name": "Anne",
+      "text": "Oh, more interesting stuff!\n\\\"Landosol's Most Grotesque and Vile Vegetation\\\"!\n\\\"The Sweet Scent of the Unnatural\\\"! \\\"Caressed by a Vampire's Smile\\\"!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "これもいいなっ！　\n『怪奇！　\n悪魔的植物辞典』！\n『幽霊は甘い香りに包まれて』！\n『吸血鬼は優雅に微笑む』！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Okay, now she's going off the deep end...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんなマニアックなオカルト本を読みたがる神経を疑うわ……"
+    },
+    {
+      "name": "Grea",
+      "text": "Oh.\nThe sun's starting to set.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ……\n日が暮れてきちゃったね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey, Anne!\nThat's enough reading for the day!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと、\nアン！　\nあんたいい加減にしなさいよっ！？"
+    },
+    {
+      "name": "Anne",
+      "text": "No way! Give me a bit more time!\nAt least enough for another book!\nActually, okay. Let me finish this page, at least!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "あ～ん、\nもうちょっとだけ待って！\nあと一冊……\nううん、\nせめて\nあとこの一ページだけ……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "This isn't the first time you've said that today!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと前にも同じ言葉を聞いたけど！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "*sigh*\nCome on, Grea. It's your job to reign her in!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁっ……\nねえグレア、\nなんとかしなさいよこの状況！"
+    },
+    {
+      "name": "Grea",
+      "text": "Huh? I-it is?",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "えっ、\nわ、\n私……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I mean. You're her best friend, right?\nYou should know how to get her head out of those books.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "だってあんた、\nあいつの親友なんでしょ？\nあの読書バカの気をそらす方法、\nなんか知ってるんじゃない？"
+    },
+    {
+      "name": "Grea",
+      "text": "Hm... A way to get her head out of those books...\nOh.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うぅーん、\n気をそらす、\nかぁ……\n……あっ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I knew it!\nI dunno what it is, but get it done!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あるのね！？　\nじゃあやって、\n今すぐやって！！"
+    },
+    {
+      "name": "Grea",
+      "text": "Th-there is a way, but...\nUrgh. I'd, uh, really rather not...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "な、\nなくはないけど……\nうぅ、\nでも、\nこれはちょっと……\nその……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hop to it!\nI'm begging you here! I can't handle this anymore!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "やって！　\nお願いっ！！　\nもー我慢の限界よ！"
+    },
+    {
+      "name": "Grea",
+      "text": "Urghhh...\nF-fine, I'll do it...",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うぅぅぅ……\nわ、\n分かった……"
+    },
+    {
+      "name": "Grea",
+      "text": "Hey, Anne.\nIt's getting dark, so let's go home.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "……アン。\nそろそろ暗くなってきたから、\n帰らない？"
+    },
+    {
+      "name": "Anne",
+      "text": "Grea! I swear I'll be done soon!\nJust let me read this passage!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "待って待って、\nあとちょっと待ってねグレア！？\nこの行だけ読んだら……！"
+    },
+    {
+      "name": "Grea",
+      "text": "If we go home now, I'll...\nI'll let you touch my tail.",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "帰ったら……\n尻尾、\n触ってもいいよ。"
+    },
+    {
+      "name": "Anne",
+      "text": "Tail.",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "えっ。"
+    },
+    {
+      "name": "Grea",
+      "text": "Uh... J-just a little bit, okay?!\nIt really is tickly when you touch it!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "あ……\nす、\n少しだけ、\n少しだけだからね！？\n本当にくすぐったいんだから、\nちょこっとだけ……！"
+    },
+    {
+      "name": "Anne",
+      "text": "...!\n{0}! Karyl!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "……！\n{0}さん、キャル！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Good lord, that's a change!\nShe's getting ready to home at the speed of light!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うわっ、\n早！\nあんだけだらだらしてたのに、\nすごい速さで帰り支度を……！？"
+    },
+    {
+      "name": "Anne",
+      "text": "Let's get going! Don't waste any time!\nCome on! What's the hold up!",
+      "choice_data_list": [],
+      "orig_name": "アン",
+      "orig_text": "すぐ帰ろう、\n今すぐ帰ろう！　\nさあさあさあさあ、\n早くっ！！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well I'll be.\nShe's even more excited than when we came in here.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……すごいわ、\n道具屋に入ってきたときより目がキラキラしてる。"
+    },
+    {
+      "name": "Grea",
+      "text": "Urghhh...\nI didn't want to have to resort to this!",
+      "choice_data_list": [],
+      "orig_name": "グレア",
+      "orig_text": "うぅぅぅ……\nこの手は使いたくなかったのに……！"
+    },
+    {
+      "name": "Narration",
+      "text": "Though they succeeded in returning home from the store,\nGrea's ticklish cries were to be heard all through the night.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "無事道具屋から帰ることはできたが、\nあたりにはグレアのくすぐったそうな悲鳴が\nしばらくこだましたのだった。"
+    }
+  ]
+}

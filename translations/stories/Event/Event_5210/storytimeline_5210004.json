@@ -1,0 +1,985 @@
+{
+  "title": "\"N's\" Tears",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The third victim was Kanon. Upon hearing this news, Kasumi gathered everyone to discuss countermeasures.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "第３の犠牲者はカノン──\nその報を聞いたカスミは、\n今後の対応策を話し合いに集まっていた。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...So then, what was the cause of Kanon-san's death? Was it poison this time too?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "──それで、\nカノンさんの死因は？\n今回もやはり毒ですか？"
+    },
+    {
+      "name": "Chairman",
+      "text": "Yes, that seems to be the case. I haven't been able to confirm this directly, but it seems that the cause of death was eating a poisoned hot spring bun.",
+      "choice_data_list": [],
+      "orig_name": "会長",
+      "orig_text": "ええ、\nそのようです。\n私も直接確認は取れていないのですが、\n毒入りの温泉饅頭を食べたのが死因だそうです。"
+    },
+    {
+      "name": "Judge",
+      "text": "You weren't able to confirm it? What does that mean?",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "確認が取れていない？　\nどういうことですかな？"
+    },
+    {
+      "name": "Chairman",
+      "text": "Since this incident occurred at a hot spring near the Demon's Foot Citadel, Lady Nephi Nela's subordinates were in charge of handling it directly...",
+      "choice_data_list": [],
+      "orig_name": "会長",
+      "orig_text": "今回の事件は\n鬼岩城塞近くの温泉で起きたこともあり、\nネフィ＝ネラ様配下の方が直接処理に当たられたので……"
+    },
+    {
+      "name": "Judge",
+      "text": "Hmm. In that case, it seems there will be no problem. However, I had heard that Lady Nephi Nela holds you in high esteem... and yet that doesn't seem to be the case...",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "ふむ。\nならば問題はなさそうですな。\nしかし、\n会長殿はネフィ＝ネラ様の信頼が厚いと伺っていましたが、\n案外そうでもないようで？"
+    },
+    {
+      "name": "Chairman",
+      "text": "...Same to you, Your Honor. There are rumors that you are quietly courting supporters out of Lady Nephi Nela's sight. Wouldn't it be better for you to worry about yourself?",
+      "choice_data_list": [],
+      "orig_name": "会長",
+      "orig_text": "……裁判長こそ。\nネフィ＝ネラ様の目の届かない所で支持者を集めているという噂、\nどうにかされた方がよろしいのでは？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "This isn't the time to be fighting, you two. What we need right now is to make sure there aren't any more victims.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "二人とも、\n仲たがいしてる場合ではありません。\nいま必要なのは、\n次の犠牲者が出ないように手を打つことです。"
+    },
+    {
+      "name": "Judge",
+      "text": "In that case, the solution is very simple. I'd like you to hand over the Magic Spider Arachne to me. I will take full responsibility for her detention and supervision.",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "だったら話は簡単です。\n魔蜘アラクネを私に引き渡していただきたい。\n責任をもって拘束、\n監視しましょう。"
+    },
+    {
+      "name": "Judge",
+      "text": "Wouldn't that be safer, since there's a risk of you all being attacked by a mob in this situation?",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "この状況では暴徒たちに襲われる危険もあるゆえ、\nその方が安全ではありませんか？"
+    },
+    {
+      "name": "Chairman",
+      "text": "I'm against it! You're accusing Arachne-san of a crime without any evidence! You should be more serious about finding the culprit!",
+      "choice_data_list": [],
+      "orig_name": "会長",
+      "orig_text": "私は反対です！\n証拠もないのにアラクネさんに罪をなすりつけるなんて！\nもっと真剣に犯人を捜すべきです！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Good grief. This discussion is going to drag on for a long time... I'm counting on you, my assistants. Please be careful so that \"she\" doesn't do anything rash...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……やれやれ。\nこの議論は長引きそうだな……\n頼むよ助手くんたち。\n『彼女』が早まったことをしないよう、\n気をつけてくれ……"
+    },
+    {
+      "name": "Narration",
+      "text": "On the other hand, after leaving the inn without being spotted by the rioters, {0} and the others...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "いっぽう、\n暴徒たちに見つからないように宿を出た\n{0}たちは──"
+    },
+    {
+      "name": "Rioter 1",
+      "text": "THERE THEY ARE! ARACHNE AND HER CREW! CATCH THEM!",
+      "choice_data_list": [],
+      "orig_name": "暴徒１",
+      "orig_text": "いたぞ！　\nアラクネとその一味だ！\n捕まえろお！"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Geez, seriously...! They chased us all the way out here! So obnoxiously persistent!",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "まったくもう、\nこんなところまで追いかけてきて！\nしつこいですねっ！"
+    },
+    {
+      "name": "Naana",
+      "text": "HURRY! A-chan! Over hereeeee!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "早く！　\nあーちゃん！　\nこっちだよー！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Y-Yes...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "は、\nはいっ……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Phew... We should be hard to find in this tall grass.",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "ふぅ……\nこれだけ背の高い草むらなら、\n見つかりにくいでしょう。"
+    },
+    {
+      "name": "Arachne",
+      "text": "Well, umm... Sadly, these horns of mine make hiding... difficult... so it is better that I crawl on the ground like this...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "それが、\nその、\nわたしはツノがあるので、\nこうして地べたに這いつくばらないと……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Ah. They can still be seen, actually... Can you bend down a bit more? A little more! Just a little...",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "あ゛。\nみ、\n見えちゃってますね……\nも、\nもう少し屈めます？\nもう少しっ！　\nあとちょい……っ。"
+    },
+    {
+      "name": "Naana",
+      "text": "Hmmm... A-chan's going to get crushed! What should we do!? If this keeps up, we'll get caught soon!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "うううーん……\nあーちゃんがつぶれちゃうよっ！\nどーしよ！？\nこのままだとそのうち捕まっちゃうよー！"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "I see! So we'll act as decoys by running away like stray chickens to attract the enemy, and then make it easier for Arachne to escape! I'm the right bird for the job... just kidding! What are you making me say?",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "なるほど！　\n私たちが囮になって相手をひきつけ、\nアラクネさんが逃げやすいように取り計らうわけですね！\n鳥だけに囮……\nなんちゃって！　\nって何言わせるんですか！"
+    },
+    {
+      "name": "Naana",
+      "text": "Okay♪ Nana's going to run as fast as she can! A-chan, don't move for a while! After everyone has left, come after us sloooooooowly!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "おっけー♪　\nナーナ全力で走っちゃうもん！\nあーちゃんはしばらく動かないでね！\n誰もいなくなってから、\nゆ～っくり来てね！"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Understood...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……かしこまりました……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Understood! Then, let us go! ...Now!",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "わかりました！　\nそれでは行きますよ！\n──それっ！"
+    },
+    {
+      "name": "Rioter 1",
+      "text": "Oh?! There they are! Go after them!",
+      "choice_data_list": [],
+      "orig_name": "暴徒１",
+      "orig_text": "おっ！？　\nいたぞあいつらだ！　\n追いかけろ！"
+    },
+    {
+      "name": "Rioter 2",
+      "text": "There's one here too! Split up and give chase!",
+      "choice_data_list": [],
+      "orig_name": "暴徒２",
+      "orig_text": "こっちにも出やがった！　\n手分けして捕まえろ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Arachne",
+      "text": "Kishi-sama... Lady Ho-ou... Na-chan... Thank you so much for everything.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "騎士さま……\nホウオウさま……\nなーちゃん……\n今まで、\n本当にありがとうございました。"
+    },
+    {
+      "name": "Naana",
+      "text": "*pant pant*... I finally managed to get away~ Nana's the first one to arrive, I guess...?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "はぁ、\nはぁ……\nようやく逃げ切れたよ～\nナーナが一番乗り、\nかな……？"
+    },
+    {
+      "name": "Naana",
+      "text": "I'm so hungry. Donuts, my donuts are... Ah! There's only one left... Guess I'll split it when everyone's here...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "お腹すいたなぁ。\nドーナツ、\nドーナツはっと……\nあ、\nもう一個しかないや。\nみんなが来てから分けようっと。"
+    },
+    {
+      "name": "Naana",
+      "text": "I'll have to give the biggest piece to A-chan! I'm sure that'll cheer her right up!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃんのぶんは、\n一番おっきくしてあげないと。\nそれで元気出してもらおうっと！"
+    },
+    {
+      "name": "Naana",
+      "text": "Ah! A-chan? ...Ah, it's not her...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あっ！　\nあーちゃん？　\n……\nなんだ、\n違ったんだ……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Wh-What do you mean... it's not her... Water... please some water...",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "な、\nなんだとは、\nなんですか……\nづ、\nづがれ゛だぁぁぁ……\nみず……"
+    },
+    {
+      "name": "Naana",
+      "text": "S-Sorry, Ho-chan! Here's some water!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ご、\nごめんほーちゃん！　\nはいっ、\nお水！"
+    },
+    {
+      "name": "Naana",
+      "text": "A-chan?! ...Ah, Kishi-chan.",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃん！？\n……\nあ、\n騎士ちゃん。"
+    },
+    {
+      "name": "Naana",
+      "text": "Y-Yeah... She's quite late! I wonder if something's wrong? Maybe she's taking a detour, or maybe she's hungry again. Luckily I have a donut...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "う、\nうん……\n遅いね！\nどうしたのかな？　\nどこかで\n道草食べてるのかな？\nまた\nお腹、すいちゃったのかな。\nドーナツ、\nあるんだけどなあ……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "...I don't think Arachne-san is coming... The sun has long since set...",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "……アラクネさん、\n来ませんね……\nもうとっくに日も落ちたというのに……"
+    },
+    {
+      "name": "ナーナ",
+      "text": "うっ……！\nナーナ、\nあーちゃんのこと捜しに行ってくる！\n道に迷ってるのかもしれないしっ！",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "うっ……！\nナーナ、\nあーちゃんのこと捜しに行ってくる！\n道に迷ってるのかもしれないしっ！"
+    },
+    {
+      "name": "Naana",
+      "text": "Maybe she's hungry and can't move! Nana's got a donut left, so I'll go and get her!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "もしかしたら\nお腹すいて動けなくなってるのかも！\nナーナ、\nドーナツ持ってるからお迎えにいくよ！"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Sounds dangerous to me, but I guess we have no other option... Well then, everyone, let's split up~ Wait, who are you?",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "危険ですが、\nそれしかないでしょうか……\nでは皆さん、\n手分けして──\nって、\nあなたは？"
+    },
+    {
+      "name": "Landosol Merchant 2",
+      "text": "A bunny-eared girl with a boy dressed as a knight... Ah, so you're Nana-san, then?",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの商人２",
+      "orig_text": "騎士の格好をした少年と一緒にいる、\nウサギ耳の女の子……\nああ、\nあんたがナーナさんかい？"
+    },
+    {
+      "name": "Naana",
+      "text": "Y-Yeah, but... You're from Landsol, right? Why would you know about Nana?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "そ、\nそーだけど……\nランドソルの人、\nだよね？\nどーしてナーナのこと？"
+    },
+    {
+      "name": "Landosol Merchant 2",
+      "text": "A big woman with horns asked me to do a favor for her. I didn't want to get involved in any trouble, but... with that look in her eyes, I couldn't refuse.",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの商人２",
+      "orig_text": "ツノのはえたでっかい女の人から、\n頼まれごとをしてね。\n面倒事に巻き込まれるのは嫌だったんだけど……\nあんな目をされちゃあ、\n断るに断れなくって。"
+    },
+    {
+      "name": "Naana",
+      "text": "...! A-Are you talking about A-chan? Tell me, where is she? I have to go pick her up!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "！　\nあ、\nあーちゃんのこと？　\n教えて、\nあーちゃんはどこにいるの？\nお迎えに行かなくちゃいけないから！"
+    },
+    {
+      "name": "Landosol Merchant 2",
+      "text": "After asking me for a favor, she was captured by the bloodthirsty Monstresses mob. She didn't resist, she held out her hands and was captured. Then it seems they took her to a nearby mountain.",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの商人２",
+      "orig_text": "俺に頼み事をした後、\n殺気立った妖魔人たちに捕まってたよ。\n抵抗もせず、\n自分からこう、\n両手を差し出してさ。\nそのまま山のほうへ連れていかれたよ。"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Don't tell me, Arachne-san... got caught by the rioters on purpose? Mm... what about that request you mentioned?",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "まさかアラクネさん……\nわざと暴徒たちにつかまったというのですか？\n頼み事って、\nいったい？"
+    },
+    {
+      "name": "Landosol Merchant 2",
+      "text": "This letter. She asked me to give it to a bunny-eared girl. Here. I've done as asked.",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの商人２",
+      "orig_text": "この手紙を、\nウサギ耳の女の子に渡してくれってさ。\nはい。\n確かに渡したからね。"
+    },
+    {
+      "name": "Naana",
+      "text": "...She wanted to give this to Nana?",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "……これを、\nナーナに？"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "W-Wait a second! Where are you going in such a hurry?",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "ま、\n待ってください！\nそんなに急いでどこへ行かれるのです？"
+    },
+    {
+      "name": "Landosol Merchant 2",
+      "text": "Back to Landosol, of course. That forest is full of rare plants, and I thought it would be a good business opportunity. But risking to get poisoned and die like that isn't worth it. So long.",
+      "choice_data_list": [],
+      "orig_name": "ランドソルの商人２",
+      "orig_text": "ランドソルに帰るんだよ。\nあの森林、\n珍しい植物だらけで\nいいビジネスになると思ったんだが。\n毒を飲まされたらたまらないからね。\nそれじゃ。"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "I thought we'd be able to have a good relationship with the people of Landosol... But it seems like this incident is going to ruin everything we've worked to build. I feel bad for the chairman...",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "せっかくランドソルの方々と良い関係が結べると思ったのに……\n今回の事件のせいで、\nだめになっちゃいそうですね。\n会長さん、\nかわいそう……"
+    },
+    {
+      "name": "Naana",
+      "text": "A-chan... why did you write me a letter...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃん……\nどうしてお手紙なんて……"
+    },
+    {
+      "name": "Arachne",
+      "text": "To Na-chan.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "「なーちゃんへ。」"
+    },
+    {
+      "name": "Arachne",
+      "text": "Thank you for calling me your friend. It made me happy. So, I will do the only thing I can do. Not as Arachne, but as A-chan.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "「わたしのことをお友達と呼んでくれて、\nありがとう。\nうれしかった。\nだからわたしはアラクネではなく、\nあーちゃんとして、\n自分にできることをしようと思います。」"
+    },
+    {
+      "name": "Arachne",
+      "text": "The donuts you gave me were so sweet. The kindness as to which both you and Kishi-sama have treated me... I shall never forget it. Goodbye.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "「あなたがくれたドーナツの甘さ。\n騎士さまと共に、\n優しく接してくださったこと、\nいつまでも忘れません。\nさようなら。」"
+    },
+    {
+      "name": "Arachne",
+      "text": "From, A-chan. Forever your friend.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "「いつまでも　\nあなたのお友達　\nあーちゃんより。」"
+    },
+    {
+      "name": "Naana",
+      "text": "A... chan...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あー、\nちゃん……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Th-The only thing she can do is... Could it be, Arachne-san is planning to...?",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "じ、\n自分にできることって、\nまさか\nアラクネさん……"
+    },
+    {
+      "name": "Naana",
+      "text": "...Idiot...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "……おばか……"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "Huh? Nana-san?",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "えっ？　\nナーナさん？"
+    },
+    {
+      "name": "Naana",
+      "text": "A-CHAN... YOU IDIOOOOOOOTTTTTTTTTTTTTTTTTTTTT!!!!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃんの、\nばかぁぁぁぁぁぁぁぁぁぁぁっっっ！\nうわぁぁぁぁぁぁんっっっっ！"
+    },
+    {
+      "name": "Ho-oh",
+      "text": "W-What incredible speed?! Is that Nana-san's full speed at maximum power!? That is much faster compared to when she carried me back then!",
+      "choice_data_list": [],
+      "orig_name": "ホウオウ",
+      "orig_text": "な、\nなんてスピード！？　\nあれがナーナさんの本気の全速力！？\n以前私を運んでくれた時よりも、\nずっと速いではないですか！"
+    },
+    {
+      "name": "ナーナ",
+      "text": "あーちゃんっ……\nあーちゃんっ！\nあーちゃんあーちゃん、\nあーちゃんっ！！　",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃんっ……\nあーちゃんっ！\nあーちゃんあーちゃん、\nあーちゃんっ！！　"
+    },
+    {
+      "name": "Naana",
+      "text": "You were scared, weren't you? You were so secretive, not knowing who you truly were all this time. You were so scared, you couldn't stand it, but even so, you were thinking about Nana.",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "こわかったんだよね？\nきおくそーしつで、\n自分が誰かもわかんなくて。\n怖くてたまらなくて、\nそれなのに、\nナーナのことを想ってくれて。"
+    },
+    {
+      "name": "Naana",
+      "text": "──Die already! Kanon-chan♪",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "──しんでね！　\nカノンちゃんっ♪"
+    },
+    {
+      "name": "Naana",
+      "text": "SHUT UPPPPPPPPPPPPPPPPPPPPPPPPPPP!!!!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "っ、\nうるさーーーーーーーーーーーーーーーーーーーーーーーーい！"
+    },
+    {
+      "name": "Naana",
+      "text": "THIS... THIS NIGHTMARE... I DON'T CARE ABOUT IT! I'M NOT SCARED! WHAT'S SCARIER IS BEING UNABLE TO SAVE MY FRIEND!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "こんな、\nこんな悪夢なんか、\n知らないっ！　\nこわくないっ！\nお友だちを助けられないことのほうが、\nこわいもんっ！"
+    },
+    {
+      "name": "Naana",
+      "text": "...! *sniff sniff*... A-chan's smell! If I follow this smell! ...Over there!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "っ！　\nくんくん……\nあーちゃんのにおい！\nこのにおいをたどればっ！　\n……\nこっち！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "Quite the predicament you're in, Lady Arachne. Even you wouldn't be able to move if you were bound by such thick chains.",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "いいざまだなあ、\nレディ・アラクネ。\nこれだけ太い鎖でつながれちゃあ、\nいくらお前でも動けないだろう。"
+    },
+    {
+      "name": "Arachne",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "Even if you snapped those chains, we've got you surrounded. Don't go getting any stupid ideas about running.",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "仮に鎖を千切れても、\nこの人数で囲んでるからね。\n逃げようなんて、\n馬鹿なことを考えるんじゃないよ。"
+    },
+    {
+      "name": "Arachne",
+      "text": "No such thing. I have prepared myself for this. Please do as you wish.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "いいえ。\nもう覚悟はできております。\nどうか、\nあなたがたのお好きなようになさってください。"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "Hmph. That's an admirable thing to say. Well then, don't mind if I do...!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "ふん。\n殊勝なことを言うじゃねえか。\nそれじゃあ、\nお言葉に甘えてっ──！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Ugh!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "ううっ！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "Does it hurt? But you know, I've STILL got scars on my back from when your damn spider brats attacked me!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "いてえか？　\nだけどなあ、\n俺の背中にゃまだ、\nお前の子蜘蛛にやられた跡が残ってんだよっっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Kuuuhhh! Auuuu!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "くううっっっ！　\nあううううっ！"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "This is... FOR MY DAD! And this... FOR MY MOM! When it rains, their wounds and memories come back up... ALL BECAUSE OF YOU!!!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "これは\nうちの親父のぶん！　\nそれから\nお袋のぶんだっ！\n雨が降ると、\nいまだに傷が痛むんだってよ！\nお前の、\nせいでっ！！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Aaah! My deepest... apologies for that... Nnngh!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "ああっ！　\nもうしわけ、\nありませっ……\nんうっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Their anger is justified... they were hurt... and lost something because of the war that I started in my previous life.",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "この方たちの怒りは……\nもっともなもの……\n前世のわたしが起こしたという戦によって、\n傷ついて……\n失って。"
+    },
+    {
+      "name": "Arachne",
+      "text": "...I accept this judgement... My life will end here... Either way, even if I were alive... there is no place where I belong... anywhere in this world...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……受け入れましょう……\nここで終わりにしましょう……\nどのみち、\n生きていたところで……\nわたしの居場所なんて……\nこの世界のどこにも……"
+    },
+    {
+      "name": "？？？",
+      "text": "...aaaaaaAAAAAAAAAAAAHHHHHHHHHHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "うわあああああああああああ！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "Huh? What's with that voice?",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "あ？　\nなんだ、\nこの声？"
+    },
+    {
+      "name": "？？？",
+      "text": "UWAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "うわあああああああああああああああああああああああんっ！！"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "Wh-What's going on?! What's with that Al-miraj now?! She's charging straight at us!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "なっ、\nなんだいなんだい！？\nあのアルミラージは！？　\nまっすぐこっちに突っ込んでくる！"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Eh!?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……えっ！？"
+    },
+    {
+      "name": "Naana",
+      "text": "A-CHAN... A-CHAN... STOP HURTING HERRRRRRRRRRR!!!!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃんを……\nあーちゃんを、\nいぢめるなあああ\nあああああ！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "What the hell did you just say?! Are you trying to cover for what Arachne did?!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "なんだてめえ？　\nアラクネをかばおうっていうのか？"
+    },
+    {
+      "name": "Naana",
+      "text": "A-chan isn't the culprit! Because, because...! Everyone here has spider webs on them, so if she was the culprit, she wouldn't be attacked by you like this!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "あーちゃんは犯人じゃないもん！\nだって、\nだって、\nみんな蜘蛛の巣があるし、\nあーちゃんが犯人なら、\nあーちゃんをいぢめるわけないよっ！"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "Huh? A spiderweb? What are you saying?!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "あ？　\n蜘蛛の巣？　\n何言ってんだいアンタ！"
+    },
+    {
+      "name": "ナーナ",
+      "text": "……ううっ。\nやっぱり、\nナーナじゃだめだぁ……\nカスミちゃんみたいに、\nろんぱ？　\nなんかできないよ……！　",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "……ううっ。\nやっぱり、\nナーナじゃだめだぁ……\nカスミちゃんみたいに、\nろんぱ？　\nなんかできないよ……！　"
+    },
+    {
+      "name": "Arachne",
+      "text": "Na-chan! Why did you come here?! My letter... did you read my letter...?!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "なーちゃん！　\nどうして来たのですか！\n手紙、\n手紙は……！？"
+    },
+    {
+      "name": "Naana",
+      "text": "I read it! That's why I came! You said you are happy to be my friend... that you'd forever be my friend... so there's no way I wouldn't come!!!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "読んだよお！　\nだから来たんだよお！\nお友だちだって、\nナーナのこといつまでもお友だちだって\n言ってくれたから、\n来たんだよおお！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "SHUT UP! YOU BRAT!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "うるせえっ！　\nこのガキッ！"
+    },
+    {
+      "name": "Naana",
+      "text": "PIIIIIAAAAAAAA!!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃぃぃぃっ！！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Stop! Please stop! If you wish to hurt me, then go ahead and do it! Just do not attack that young girl...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "やめて！　\nやめてください！　\n殴るならわたしを！\nその子にだけは……"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "What's with this girl? She's so weak! Let me show you what happens... WHEN A WEAKLING LIKE YOU GETS IN THE WAY!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "なんだいコイツ、\nてんで弱いじゃないか！\n弱いやつが出しゃばったらどうなるか……\n教えてやるよっ！"
+    },
+    {
+      "name": "Naana",
+      "text": "PIIII! PIIAAAAAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴぃっ！　\nぴぎぃぃぃっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Please stop! I am telling you to stop!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "やめてください！　\nやめてと言っているのです！"
+    },
+    {
+      "name": "Naana",
+      "text": "I-It's okay... it's okay, you know... A-chan. Nana's used to being bullied, so... this doesn't hurt...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "だ、\nだいじょうぶだよ？　\nあーちゃんっ。\nナーナ、\nいぢめられるの慣れてるから、\nこんなの、\nいたくない、\nよっ。"
+    },
+    {
+      "name": "Naana",
+      "text": "P-Pii! Ahaha... Let's eat donuts again later. Sweet, sweet donuts... cough!? *Cough, cough*!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "っ、\nぴぃ！　\nあはは……\n後で、\nまたドーナツ、\nたべようねっ。\n甘い、\nあまーい、\nドーナツ……\nごほっ！？　\nごほっ、\nごほっっっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Ahh... Stop... Stop it...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……ああ……\nやめて……\nやめてぇ……"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Stop. I keep telling you... do you not understand... YOU...!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "…………\nやめて、\nと\n言っているのが、\nわからぬのか……\n……この……"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Keep your vulgar hands off me... you plebians...! HMPH...!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……その卑しい手を放さぬか……\n下郎ども……！\nふんっ……！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "WHAT?! Th-This woman... she ripped off her chains?! UAAAGHH...!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "なにっ！？　\nこ、\nこいつ、\n鎖を引きちぎりやがった！\nおわあっ！"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "Th-Those claws... Don't tell me... this woman... her original personality is back!? She's finally showing her true colors! UWAAAH!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "そ、\nその爪……\nまさか、\nこいつ……\n元の\n人格を！？\n正体現しやがって──\nうぎゃあっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Hehehe... Kakakaka...! That face...! A face twitching in fear and pain... LET ME HAVE MORE FUN!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "ククク……\nカカカカカッ……！\nその顔だ、\nその恐怖と痛みにひきつる顔……\nもっと楽しませい！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "S-Surround her! I-If we surround her with these many people, no matter if she's a \"Six Evil\" or not, she'll... GYAAAAH!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "か、\n囲め！　\nこの人数で囲んじまえば\nいくら『六凶』だろうが、\n……うがあっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "It was a roundabout move on my part. I should have let these claws do the talking from the beginning. ...Hm? What is it?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "我が迂遠であったわ。\n初めからこの爪に物を言わせればよかったのだ。\n……ん？　\nなんだ？"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "...Ugh, s-she stopped moving?",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "……\nう、\n動きが\n止まった？"
+    },
+    {
+      "name": "アラクネ",
+      "text": "やめて！　\nやめてください！　\nわたしはそんなこと……\nしたくない！　",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "やめて！　\nやめてください！　\nわたしはそんなこと……\nしたくない！　"
+    },
+    {
+      "name": "Arachne",
+      "text": "You're still spouting such platitudes... You fool, this is the result of your naivety, you know?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "まだそんな世迷い事を……\nこれは\n貴様の甘さが招いた結果なのだぞ？"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "RIGHT NOW! CATCH HER OFFGUARD! ...Gyaaah!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "いまだ！　\nもう一度捕まえろ！\n……ぎゃああっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "I just told you to keep your vulgar hands off me! Shall I rip out your innards to make a majestic red flower bloom?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "卑しい手で触れるなと言っている！\nそのはらわたを引き裂いて、\n赤い花を咲かせてくれようか？"
+    },
+    {
+      "name": "？？？",
+      "text": "...Stop...it...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……め……\nて……"
+    },
+    {
+      "name": "アラクネ",
+      "text": "ほら、\n爪が貴様の喉に食い込むぞ？\nクカカカカッ！！",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "ほら、\n爪が貴様の喉に食い込むぞ？\nクカカカカッ！！"
+    },
+    {
+      "name": "？？？",
+      "text": "Stop... it... A-chan...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ゃ……\nめ……\nて……\nあーちゃん……"
+    },
+    {
+      "name": "Arachne",
+      "text": "Kakakakakakaaa! Kakakakakaakakaa!! ............Ahn?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "クカカカカッ！　\nカカカカカカカカカッ！！\n…………あぁん？"
+    },
+    {
+      "name": "Naana",
+      "text": "Stop... A-chan... Stop it...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "やめて……\nあーちゃん……\nやめてよお……"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Y-You... are...?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "…………きさ、\nま、\nは…………？"
+    },
+    {
+      "name": "Naana",
+      "text": "The current A-chan... is scaring me... Go back to the old, kind A-chan...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "今のあーちゃん、\n怖いよお……\nもとの優しいあーちゃんに、\n戻ってよおお……"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Why? You saw... ...my true identity... and yet...",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……\nなぜ？　\nわたしの正体は……\n見たはず、\nなのに……"
+    },
+    {
+      "name": "Naana",
+      "text": "Huh? Nana has no idea what you're speaking about... Ehehe, come on, smile? Shall we laugh... it off... together? A-chan...",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "え？　\nなんのことか、\nナーナわかんないなぁ……\nえへへ、\nほら、\n笑って？　\n笑おう？　\nあーちゃんっ。"
+    },
+    {
+      "name": "Arachne",
+      "text": "...Na-chan... Aaaaah. Aaahhhh. AAAAAAAAHHHH!",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "……\nなー、\nちゃん……\nああああ。\nああああああ。\nああああああああ\nあーーーー！"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "Wh-What the hell? What's going on now?",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "な、\nなんなんだ、\n何が\nどーなってやがんだ？"
+    },
+    {
+      "name": "Judge",
+      "text": "...Foolish... No, I suppose I should call her \"pitiable\" now.",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "……愚かな……\nいや、\nもはや\n『哀れ』と言うべきだな。"
+    },
+    {
+      "name": "Monstress Woman",
+      "text": "T-The judge?! Why are you here?!",
+      "choice_data_list": [],
+      "orig_name": "妖魔人女性",
+      "orig_text": "さ、\n裁判長！？　\nどうしてこちらに！？"
+    },
+    {
+      "name": "Judge",
+      "text": "Hmph! Hmmmmm!",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "ふんっ！　\nふぅぅぅんっ！"
+    },
+    {
+      "name": "Arachne",
+      "text": "Aaah!?",
+      "choice_data_list": [],
+      "orig_name": "アラクネ",
+      "orig_text": "ああっ！？"
+    },
+    {
+      "name": "Naana",
+      "text": "PI-PIIIIIII!",
+      "choice_data_list": [],
+      "orig_name": "ナーナ",
+      "orig_text": "ぴ、\nぃっ！"
+    },
+    {
+      "name": "Judge",
+      "text": "Having trouble against such pitiful wounded opponents. In the end, you're all just lowlives.",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "こんな手負いの者どもに手こずるとは、\n存外頼りにならぬものだ。\n所詮は下々にすぎぬか。"
+    },
+    {
+      "name": "Monstress Man",
+      "text": "O-Our apologies, judge.",
+      "choice_data_list": [],
+      "orig_name": "妖魔人男性",
+      "orig_text": "も、\n申し訳ありません。\n裁判長。"
+    },
+    {
+      "name": "Judge",
+      "text": "From now on, call me LORD Judge. Understood?",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "これからは、\n裁判長様と呼びなさい。\nいいですね。"
+    },
+    {
+      "name": "Judge",
+      "text": "Oh my, if it isn't Lord Kishi. You're late. I'm sorry you took the trouble to come, but I'll have to put these women on trial.",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "これは騎士殿。\n遅いご到着ですな。\nせっかく来ていただいたのに申し訳ないが、\n彼女たちには\n裁判を受けていただきます。"
+    },
+    {
+      "name": "Judge",
+      "text": "I'm sure they will receive a punishment befitting the crimes they committed. Hahaha. Hahhahahahhah. ...Kakakakakakakaka!!",
+      "choice_data_list": [],
+      "orig_name": "裁判長",
+      "orig_text": "この二人が犯した罪にふさわしい罰が、\nきっと\n下ることでしょう。\nははは。\nハハハハハハ。\n……クカカカカカカカッ！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I haven't heard from my Assistant or anyone else. I guess I can assume that something has happened. Honestly, I can't help but admit we're at a disadvantage in such a situation.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "助手くんたちからの連絡はない。\nやはり何かあったとみるべきか。\n正直、\n形勢は不利と言わざるを得ないね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "However, there is a way to turn the tables. There is still a way to break through the spider's web and make a major comeback from here...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "だが、\n逆転の手はある。\n蜘蛛の巣を打ち破り、\nここから大逆転する手は、\nまだ……"
+    },
+    {
+      "name": "？？？",
+      "text": "────────",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "────────"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Hey. I've been waiting for you. You're finally here.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nやあ。\n待っていたんだよ。\nようやく来てくれたね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The Mirror of Truth shines brighter than ever! It seems we are getting closer to the truth!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "真実の鏡が、\nこれまで以上の輝きを放っている！\nどうやら私たちは、\n真相に近づきつつあるようだね！"
+    }
+  ]
+}

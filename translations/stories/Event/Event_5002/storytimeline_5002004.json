@@ -1,0 +1,444 @@
+{
+  "title": "Traps and Tribulations",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Trusting that the herb they seek lies within,\nthe Misogi Explorers make their way into a labyrinth of tunnels.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "薬草を手に入れるため、迷宮へと足を踏み入れた３人。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Woooow, who knew there were tunnels like these in the mountains?!\nI always wanted to explore a labyrinth!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わー、\n山の中にこんな場所があったんだー！\nミソギが想像してた探検って感じ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Apparently, these tunnels were used as a kind of fortress\nby people long ago. That's what I read in a history book...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ここは\n昔の人たちが\nようさいとして使ってた場所なんだって。\n歴史の本に書いてあった……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Ohhh! Then there might be treasure and stuff hidden here?\nEheheh! Maybe we'll make a big discovery!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "へー！\n　それじゃあお宝とかが眠ってるかもしれないってことかな？\nんっふふー、\nもしかしたらミソギたちが発見しちゃうかも？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Any treasure hidden in places like this\nhas usually long since been looted by bandits.\nBesides, our goal isn't treasure, it's a rare herb, remember?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "こういうところの宝物は\n盗賊とかがとっくの昔に見つけてると思うよ。\nそれに\n私たちの目的は\n宝物じゃなくて薬草でしょ？"
+    },
+    {
+      "name": "Misogi",
+      "text": "I-I know all that, but... It can't hurt to dream, right?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "そ、\nそれはわかってるけどー、\n夢見たっていいじゃ～ん！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "It doesn't look like anyone has been here in a long time,\nso it could easily have become infested by monsters.\nLet's be very caref—",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ずっと人の出入りもなさそうな場所だし、\n魔物の住処になっててもおかしくないよ。\nだから注意して――"
+    },
+    {
+      "name": "Misogi",
+      "text": "Waaahhh! Kyoka! Don't move a muscle!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わぁぁぁ！\n　キョウカ！　動いちゃダメ～！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Huh? Wh-what's this all of a sudden?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "え？\n　ど、どうしたの急に。"
+    },
+    {
+      "name": "Misogi",
+      "text": "That tile you're standing on! It's a trap activation switch!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "キョウカがいま踏んでるの、\nトラップのスイッチだよ～！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Whaaa?! Wh-what should I do? Umm... umm...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ええっ！\n　ど、どうしよう！\n　えっと、\nえっと……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Try to calm down, Kyoka!\nIf you move, you'll be blown to little bits...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "落ち着いてキョウカ！\n　動くと、\nこっぱみじんになっちゃうから……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "T-to little bits?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "こっ、\nこっぱみじん！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "I'm gonna get you out of there! Just hold still...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "すぐにミソギが助けるから！\n　ジッとしてて……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "O-oh no... Ahhh...\n{0}, am I going to perish here in this spot?",
+      "choice_data_list": [
+        "Hold Kyoka's hand.",
+        "Misogi will take care of the trap!"
+      ],
+      "orig_name": "キョウカ",
+      "orig_text": "そ、\nそんな……\nうぅ……{0}さん、\n私、\nここで死んでしまうのでしょうか？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ahh... Thank you for that...\nI'm sure Misogi will rescue me... It'll be fine, right?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あぅ……\nありがとうございます……\nきっと\nミソギが助けてくれますよね、\n大丈夫ですよね？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "I-I know... But... even so, it's scary...\n{0}, please... stay close to me...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "は、\nはい……\nけど、\nそれでも少し怖くて……\n{0}さん、\nそばに、\nいてください……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Lessee... This bit goes here, and then... Huh?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "んしょ、\nここが\nこうで、\nこうして……\nあれ？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Wh-what?! What's wrong?!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "な、\nなに！\n　どうしたの！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "No, it's nothing really! It's fine, it's fine... Probably.",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "いやなんでもないよ！\n　大丈夫大丈夫……\nたぶん。"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Probably?! Aaahhh...\n{0}...! *sniff*... *whimper*...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "たぶん！？\n　\nあうぅ……\n{0}さ～ん……ぐすっ、\nぐすっ……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Oh! It's like this! Ummm... So if I do this... There!\nIt's all fine now! Trap deactivated!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "あ！\n　こうかー！\n　えーっと、\nこれをこうで……\nよしっ！\nもう大丈夫だよ！\n　解除かんりょー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Uwehh...? Ahh... You're right... No way...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ふぇ……\nあ、\nほんとだ……\nすごい……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Heheh! This is nothing for a master of traps like myself!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "へっへ～ん！\n　これくらい、\nトラップを仕掛ける者としては当然だよ♪"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi... Thank you.",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギ……\nありがとう。"
+    },
+    {
+      "name": "Misogi",
+      "text": "No problem! You're always helping me out with stuff.\nAnyway, this labyrinth probably has lots more traps, huh...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "べっつに！\n　いつもキョウカには助けてもらってるもん。\nそれより、\nこの迷宮、\nトラップがたくさんありそうだね……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hmmm... If I look carefully, I might be able to spot them.\nRight! I'll watch out for the traps, then you can deactivate them!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "う～ん……\n注意して見れば\nトラップには気付けるかも……\nよし、\n私がトラップを見つけるから、\nミソギがそれを解除してよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Gotcha! You can count on Misogi any time!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "りょーかい！\n　ミソギにかかればちょちょいのちょいだよ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Oh, Misogi! Doesn't that wall look a little different?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "あ、\nミソギ、\nその壁の色、\nあやしくない？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hmmm? It does look suspicious!\nCould this be a pitfall trap? Stay back, you guys!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "んんっ！？\n　確かにあやしい！\nこれは、落とし穴かな？\n　\nみんなはなれてて！"
+    },
+    {
+      "name": "Misogi",
+      "text": "There! I knew it was a pitfall!\nIf we'd been leaning against the wall, we'd be in trouble!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ほら\nやっぱり落とし穴だ！\nうっかり壁に触って進んでたら危なかったね！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hmm? Something's glinting near my feet... Ahh!\nMisogi, there's some kind of thread on the ground!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ん？\n　なんか足元が光って……\nあっ！\nミソギ、\n床に糸が張ってあるよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "This looks like one of those traps that triggers a flying arrow!\nCareful not to touch it! Step carefully across the thread!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "これは、\n引っかかったら横から矢とか出るタイプのやつだ！\n絶対引っかかっちゃだめ！\n　そーっとまたいで行こう！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whew... I think we made it through the trap zone!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ふー、\nなんとかトラップゾーンは抜けられたかな！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "All thanks to you, Misogi! You really do know your traps...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギのおかげだね！\n　対処法がきちんとしてたから……"
+    },
+    {
+      "name": "Misogi",
+      "text": "You're the one who managed to spot every last one!\nI just helped you deal with them!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "キョウカがトラップを全部見つけてくれたおかげだよ！\nミソギはその手伝いをしただけ！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "It was all you, really!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "いやいやミソギが！"
+    },
+    {
+      "name": "Misogi",
+      "text": "No, it was you, Kyoka!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "うんうんキョウカが～！"
+    },
+    {
+      "name": "Kyoka & Misogi",
+      "text": "...Pfft...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ミソギ",
+      "orig_text": "……ぷっ！"
+    },
+    {
+      "name": "Kyoka & Misogi",
+      "text": "Ahahahahaha!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ミソギ",
+      "orig_text": "あはははははは～！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hey, I think I'm talking to Kyoka pretty normally!\nThis is my chance to say sorry!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "なんかミソギ、\nキョウカと上手くしゃべれてる！？\nいまが謝るチャンスかも！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Since we entered this labyrinth, I feel like I'm talking to Misogi better...\nThis is my chance to apologize, right?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "迷宮に入ってから、\nちゃんとミソギと話せてる気がする……\n謝るなら\nいま、\nだよね？"
+    },
+    {
+      "name": "Kyoka & Misogi",
+      "text": "U-umm...!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ・ミソギ",
+      "orig_text": "あ、\nあの……！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Hm? What was that...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ん？\n　いまのって……"
+    },
+    {
+      "name": "Misogi",
+      "text": "That's... a trap switch, mister... Don't tell me you just...",
+      "choice_data_list": [
+        "...Sorry."
+      ],
+      "orig_name": "ミソギ",
+      "orig_text": "それ、\nトラップのスイッチ……\nにいちゃん、もしかして……"
+    },
+    {
+      "name": "Misogi",
+      "text": "You dummy, mister!\nWaaahhh! It's a giant rolling rock!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃんのばかーー！！！\nわー！！\n　岩が転がってくるよ～！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi, {0}!\nQuick, we have to run!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギ、{0}さん！\n早く逃げないと！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Didn't I tell you the other day to watch where you walk?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "周りには注意しないとってこの前言ったじゃーん！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "*pant*... *pant*... Ahh! There's a room up ahead!\nWe can hide in there!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "はっ、\nはっ……\nあ！\n　奥に部屋があります！\n　あそこに逃げましょう！"
+    },
+    {
+      "name": "Misogi",
+      "text": "*huff*... *puff*... We just about... made it, huh...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "はぁ、\nはぁ……\nなんとか、\nなったね……"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Y-yes. And I think we've made it to the end of the labyrinth.\nThe exit should be just through here, I... think...",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "う、\nうん、\nそれに、\nちょうど迷宮の最深部に着いたみたい。\nこの奥から外に出れると思う……\nから……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Kyoka? What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "キョウカ？\n　どうしたの？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "What is that thing...?",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "なんだろう、\nあれ……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Looks like some kinda big lamp...\nAhhh! Could it be a magic lamp?!\nDid we find the hidden treasure?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "おっきいランプみたい……\nああ～！\nもしかして魔法のランプ！？\n　ミソギたちお宝見つけちゃった！？"
+    },
+    {
+      "name": "???",
+      "text": "KKRRRKSSSHHH!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "I-it moved?!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "う、\n動いた～！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Ahhh! Get back, Misogi! That's no treasure or artifact!\nIt's... a monster!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ひっ！\n　ミソギ下がって！\n　宝物なんかじゃないよ！\nこれ……\n魔物だよ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Whaaaa?! It's so crazy huge...\nWe can't beat a monster like this!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えー！\n　こんなおっきい魔物、\nミソギたちだけじゃ倒せないよ！？"
+    },
+    {
+      "name": "Kyoka",
+      "text": "B-but... If we don't get past it, we can't reach the exit...\nWe're so close to getting the herb!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "で、\nでも、\nこの魔物をなんとかしないと出口には……\nもう薬草は目の前なのに！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Urghh... I'm scared... but... Mimi's counting on us!\nIf that's what it takes to help her, I'll take this thing down!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "うぇぇ……\n怖い、\nけど……\nミミが待ってるんだもん！\nミミの病気を治すためなら、\nおまえなんてやっつけてやるー！"
+    },
+    {
+      "name": "Kyoka",
+      "text": "Misogi... Yes, you're right... I'll fight too!\n{0}, back us up! We'll need your help!",
+      "choice_data_list": [],
+      "orig_name": "キョウカ",
+      "orig_text": "ミソギ……\nうん、\n私も、\n私も戦う！\n{0}さん、\n援護を……\nお願いします！"
+    },
+    {
+      "name": "Narration",
+      "text": "Though a gigantic monster blocked the way forward,\nfor the sake of their friend, Kyoka and Misogi mustered\nall of their courage and drew their weapons.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "３人の前に立ちふさがる巨大な魔物。\nミミのため、キョウカとミソギは勇気を振り絞り魔物に挑む。"
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "title": "Calling Cards, Carefully Planned?",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having resolved to become phantom thieves, Ayumi and the others gathered in Homare's secret room to plan their operation.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "怪盗となることを決意したアユミたちは、\nホマレの秘密の部屋で、作戦会議を行っていた。"
+    },
+    {
+      "name": "Inori",
+      "text": "All right, let's go over this again! The targets of our phantom thief crew are two items: the jewel known as the \"Dragon Egg\", and the secret ledger that records the casino's dirty money dealings!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "いいですか、\n確認するですよ。\nあたしたち怪盗団の狙いは\n『龍の卵』って宝石と、\nカジノの汚い金のやり取りが載ってる裏帳簿の二つです！"
+    },
+    {
+      "name": "Inori",
+      "text": "We steal those two, and bring that lousy casino crashing down! A simple, flawless plan! Any questions?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "その二つを盗み出して、\nあのクソカジノをぶっ潰してやるってのが\n今回の作戦ですよ！\nシンプルで完璧な作戦です！　\n何か質問はあるですか？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Um... Yes!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えっと……\nはいっ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Go ahead, AyuAyu!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はい、\nアユアユ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "If I remember correctly, that ledger is stored in the vault, but... where would the \"Dragon Egg\" be, I wonder...?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "裏帳簿は確か、\n金庫室に保管されているって話だったけど……\n『龍の卵』はどこにあるのかな……？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The other day... while we were working part-time, we saw that Casino King man using the Dragon Egg... does he normally carry it around with him?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "この前……\n私たちがアルバイトをしている時に、\nあのカジノ王さんが\n『龍の卵』を使っているのを見かけたけど……\n普段から、\n持ち歩いてるとか？"
+    },
+    {
+      "name": "Inori",
+      "text": "That's... Boss! What do you think?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "それは……\nボス！　\nどうなんですか！"
+    },
+    {
+      "name": "Homare",
+      "text": "When you saw him, he was probably carrying it around to show off to visiting VIPs from other countries. But that was just coincidence.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "アユミちゃんたちが見た時は多分、\nカジノへ訪れた各国の要人たちに自慢するために、\n持ち歩いてたんじゃないかな。\nけど、\nそれはたまたまだよ。"
+    },
+    {
+      "name": "Homare",
+      "text": "Normally, the \"Dragon Egg\" is kept under heavy security inside the vault. Which means... if you break into the vault, we can get both the \"Dragon Egg\" and the secret ledger at once☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "『龍の卵』は普段、\n金庫室に厳重に保管されているの。\nだから、\n『龍の卵』と裏帳簿を手に入れるためには、\n金庫室を突破さえすればいいってわけ☆"
+    },
+    {
+      "name": "Inori",
+      "text": "So all we have to worry about is cracking the vault! That's easy!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "じゃ、\n金庫破りのことだけ考えりゃいい、\nってことですね！\nそんなの楽勝ですよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Then... how do we exactly break into it?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……で、\nどうやって金庫室を突破すりゃいいんですか？"
+    },
+    {
+      "name": "Homare",
+      "text": "If you were to just charge through like someone here already did, there's no doubt that you'll fail☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "誰かさんみたいに考えなしに突っ込んでも、\n絶対に失敗するってことだけは、\n間違いないね☆"
+    },
+    {
+      "name": "Inori",
+      "text": "Ugh?! I-I can't say anything back...! ...In order to avoid repeating the same mistake, it seems important to gather some information first.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "うぐっ！？　\nな、\n何も言い返せないですよ……！\n……過ちを繰り返さないためにも、\nまずは情報収集することが大事そうですね。"
+    },
+    {
+      "name": "Inori",
+      "text": "Well, as long as we have the Boss's \"Dragon's Eye\", we can see right through the casino's security setup and layout! Isn't that right, Boss?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ま、\n警備体制だのカジノの様子だのは、\nボスの龍眼さえありゃ全部筒抜けですよ！\nですよね、\nボス！"
+    },
+    {
+      "name": "Homare",
+      "text": "I'd love to say \"leave it to me~☆\" but this time, I don't want to use my \"Dragon's Eye\" for gathering information. Instead... I want to leave that job to you, Ayumi-chan~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "任せて～☆　\nって言いたいところだけど。\nカジノの情報収集は\n私の龍眼を使うんじゃなくて、\nアユミちゃんに任せたいな～？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Huh? Me...?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えっ、\n私……\nですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "That's right. Why don't you infiltrate the casino on your own? While you're there, check the security arrangements, and map out a route all the way to the vault♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そう。\n今からアユミちゃん一人で\nカジノへ潜入してみない？\nそして、\n警備体制とかの確認をしつつ、\n金庫室までの潜入ルートを調べてほしいんだけど♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Isn't this exactly what your \"Dragon's Eye\" is for?! Why are you making AyuAyu do this alone?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "龍眼使えば全部解決することじゃねえですか！？\nどうしてアユアユ一人にやらせるですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Training on-site is important♪ Ayumi-chan's abilities are the real deal, but she has no experience being a phantom thief just yet. I thought this might be a good opportunity☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "実地研修って大事だからね♪\nアユミちゃんの能力は本物だけど、\n怪盗の経験なんてまだないし。\nこれはちょうどいい機会かな～\nって思って☆"
+    },
+    {
+      "name": "Homare",
+      "text": "Hey, what do you think, Ayumi-chan? I'll make sure to provide you with perfect support, so why don't you give it a try as practice?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ねえ、\nどうかな、\nアユミちゃん？\nサポートは完璧にするから、\n練習としてやってみない？"
+    },
+    {
+      "name": "Inori",
+      "text": "The Boss might be saying that... but you don't have to force yourself if you don't want to, AyuAyu.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……ボスはああ言ってますけど、\n無理しなくていいですよ、\nアユアユ。"
+    },
+    {
+      "name": "Inori",
+      "text": "You're an ordinary person, not a gangster like us. Sneaking into a villainous casino by yourself is a bit of a stretch. If you don't want to, just say no. No one will blame you.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "アユアユはギャングでもなんでもない一般人ですからね。\n一人で極悪カジノに忍び込めなんて、\n無茶ぶりにも程があるです。\n嫌なら嫌って言うですよ。\n誰も責めたりしないですから。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Inori-chan... Thank you for worrying about me... B-But you know...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "イノリちゃん……\n心配してくれて、\nありがとう……\nで、\nでもね……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Honestly, I don't know myself if I can pull it off... even so... I've decided to become a phantom thief...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "正直、\n私なんかにできるか分からないけど……\nそれでも……\n怪盗になるって、\n決めたから……！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...So... I'll give it a try!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……だから\n……私、\nやってみる！"
+    },
+    {
+      "name": "Homare",
+      "text": "Thank you☆ Well said, Ayumi-chan♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ありがとう☆\nよく言ってくれたね、\nアユミちゃん♪"
+    },
+    {
+      "name": "Inori",
+      "text": "AyuAyu, you're amazing... If you say so, then I won't stop you.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……アユアユはすごいですね。\n……そこまで言うのなら、\n止めはしないです。"
+    },
+    {
+      "name": "Inori",
+      "text": "But... I want you to promise me something. That you'll definitely... absolutely... come back!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……けど、\n約束してほしいです。\n絶対、\n絶対に、\nちゃんと帰ってくるですよ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Yeah... It's a promise, Inori-chan.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "うん……\n約束する、\nイノリちゃん。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Hearing you say so, Senpai... I feel like I can do anything! ...I'm going!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……先輩にそう言ってもらえたら、\nなんだってできちゃう気がします！\n……行ってきますね！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I've arrived... The customers are as excited as ever...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……着いた。\n相変わらず、\nお客さんたちが盛り上がってる……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Maybe it's thanks to this outfit. No one seems to have noticed me. Well... even without a costume, most people usually don't notice me anyway...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……この衣装のおかげか、\n誰にも気付かれてないみたい。\nまあ\n怪盗服じゃなくても、\nいつも大体、\n誰にも気付かれないけど……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The Casino King wants to use my ability for evil. Homare-san said she'd rescue me even if I got caught, but... I have to make sure it never comes to that.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……カジノ王さんは、\n私の能力を利用したがっている。\nホマレさんは、\n私が捕まっても助けてくれるって言ってたけど……\nそんなことに\nならないようにしなくちゃ。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Huh? That man is...?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "はっ、\nあの人は……！？"
+    },
+    {
+      "name": "Bodyguard",
+      "text": "...Report the situation.",
+      "choice_data_list": [],
+      "orig_name": "用心棒",
+      "orig_text": "……状況を報告しろ。"
+    },
+    {
+      "name": "Casino Staff",
+      "text": "Yes. As ordered, we've increased the number of guards beyond the usual. We had to gather them on short notice, so it cost quite a bit...",
+      "choice_data_list": [],
+      "orig_name": "カジノスタッフ",
+      "orig_text": "はい。\nご命令通り、\n警備員の数を普段よりも増やしています。\n急遽人をかき集めたので、\n金はかかりましたが……"
+    },
+    {
+      "name": "Bodyguard",
+      "text": "I don't care about money. ...Just make sure not to show me a sight as pathetic as the lot of you getting wrecked like yesterday. Got it?",
+      "choice_data_list": [],
+      "orig_name": "用心棒",
+      "orig_text": "金はどうでもいい。\n……昨日みたいにあっけなくのされるなんて情けないマネ、\n二度とないようにしろ。\nいいな。"
+    },
+    {
+      "name": "Casino Staff",
+      "text": "Y-Yes.",
+      "choice_data_list": [],
+      "orig_name": "カジノスタッフ",
+      "orig_text": "は、\nはいっ。"
+    },
+    {
+      "name": "Bodyguard",
+      "text": "By the way... are there any strong guys among the new guards? Someone strong enough to surpass me.",
+      "choice_data_list": [],
+      "orig_name": "用心棒",
+      "orig_text": "ところで……\nその増やした警備員の中に強いヤツはいるか？\n俺を超えるような、\nそんな強者は。"
+    },
+    {
+      "name": "Casino Staff",
+      "text": "W-Well... They all seem to be proud of their skills, but I don't think there's anyone as skilled as you...",
+      "choice_data_list": [],
+      "orig_name": "カジノスタッフ",
+      "orig_text": "い、\nいやあ……\nどいつも腕自慢ではあるみたいですけど、\nさすがに、\nあなたほどの人はいないかと……"
+    },
+    {
+      "name": "Bodyguard",
+      "text": "Tch... How boring. It's been a while since I've gone on a rampage.",
+      "choice_data_list": [],
+      "orig_name": "用心棒",
+      "orig_text": "チッ……\nつまんねえな。\n久々に暴れたいもんだが。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "That bodyguard really is scary... But what they just said might be important information.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "やっぱり怖いなぁ、\nあの用心棒さん……\n……けど、\n今のって大事な情報かも。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "They said that there's more guards than usual. I'll have to be careful...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "警備の数は\nいつもよりも多いって言ってたよね。\n気をつけなくちゃ……！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "First, let me take a closer look at the security system in this hall...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "まずは、\nこのホールの警備体制について、\nしっかり観察しよう\nっと……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "I'm not bragging, but... I think I'm fairly good at observing things... A-Alright... let's do this...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "自慢じゃないけど、\n観察は、\nそこそこ得意な方だと思うから……\nが、\n頑張るぞー……！"
+    },
+    {
+      "name": "Narration",
+      "text": "After safely finishing her investigation of the hall, Ayumi decided to check the party hall next.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ホールについて無事に調べ終えたアユミは、\n次に、パーティーホールの様子を確認することにした。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "This place is also extravagant... Everyone's wearing really fancy clothes and dresses...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……ここもすごい豪華だなぁ。\nみんな、\nとっても立派な服やドレスを着てる……"
+    },
+    {
+      "name": "VIP",
+      "text": "This casino is marvelous. I've taken quite a liking to it. That poker table in particular! Winning five million rupies almost makes me feel guilty!",
+      "choice_data_list": [],
+      "orig_name": "要人",
+      "orig_text": "このカジノは素晴らしい。\n実に気に入ったよ。\n特に、\nあのポーカー！\n500万ルピも勝たせてもらって悪いくらいだ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Inori-chan told me as much, didn't she...? This casino cheats ordinary customers out of their money, but also rigs the games so important people can win, all as part of their \"hospitality\".",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……イノリちゃんに教えてもらったっけ。\nこのカジノは、\nイカサマでお客さんからお金を巻き上げもすれば、\nイカサマで\n偉い人に勝たせてあげて、\n接待もする\nって。"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "My, my... how impressive. I'd love to share in that good fortune. ...Now then, let's talk business.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "いやはや、\nさすがですねェ。\nその豪運、\nあやかりたいものです。\n……さて、\nそろそろビジネスの話を。"
+    },
+    {
+      "name": "VIP",
+      "text": "...About that matter. Is it okay to talk about it here? If this story gets out, we're finished.",
+      "choice_data_list": [],
+      "orig_name": "要人",
+      "orig_text": "……例の件か。\nここで話しても大丈夫かね？\nこの話が外に漏れれば、\n我々は終わるぞ。"
+    },
+    {
+      "name": "Aristocrat",
+      "text": "Have no concern. There are no regular patrons here, not even casino staff. Gino-kun prepared this room so that people of our standing may speak freely.",
+      "choice_data_list": [],
+      "orig_name": "貴族",
+      "orig_text": "ご心配なく。\nここには一般客はもちろん、\nカジノスタッフすらいません。\n我々のような上流階級が\n気兼ねなく話せるように\nジーノ君が用意してくれた部屋ですよ。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...Now that he mentions it, it's true. The only people here are nobles and VIPs from other countries.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……言われてみれば、\n確かに。\nここにいるのは\n貴族や、\n外国から来た要人らしき人たちばかり。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...A room with no staff or security guards. Maybe it's a good idea to remember that? ...I should move on to the next room.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……スタッフさんや警備員がいない部屋。\n覚えておいた方が\nいいかも？　\n……次へ行こう。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The vault is at the very back of the top floor. I need to make sure I know the route there.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "金庫室は最上階の一番奥。\nそこまでのルートを\nちゃんと調べておかないと。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "The casino hall is so noisy... But this corridor is so quiet. My footsteps echo quite loudly...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……カジノホールはあんなに騒がしいのに、\nこの通路は静かだな。\n足音が結構響いちゃう……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...If someone were to hear these footsteps...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……もし、\nこの足音を誰かに聞かれたら……"
+    },
+    {
+      "name": "Security 1",
+      "text": "Hm? Just now... did you hear some footsteps coming from over there? ...It could be an intruder.",
+      "choice_data_list": [],
+      "orig_name": "警備員１",
+      "orig_text": "ん？　\n今、\n向こうで足音がしなかったか？\n……侵入者かもしれんぞ。"
+    },
+    {
+      "name": "アユミ",
+      "text": "ひいぃ！？　\nや、\nやっぱりこうなっちゃった！？\nと、\nとりあえず、\nこの銅像の後ろに隠れよう！　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ひいぃ！？　\nや、\nやっぱりこうなっちゃった！？\nと、\nとりあえず、\nこの銅像の後ろに隠れよう！　"
+    },
+    {
+      "name": "Guard 2",
+      "text": "I didn't hear any footsteps on my end. Isn't it just your imagination?",
+      "choice_data_list": [],
+      "orig_name": "警備員２",
+      "orig_text": "オレには足音なんて聞こえなかったぜ。\n気のせいじゃねえか？"
+    },
+    {
+      "name": "Security 1",
+      "text": "No. There's something suspicious behind that statue. Let's check it out first.",
+      "choice_data_list": [],
+      "orig_name": "警備員１",
+      "orig_text": "いや。\nあの銅像の後ろなんて怪しい。\nひとまず、\n確認してみよう。"
+    },
+    {
+      "name": "アユミ",
+      "text": "あわわわわっ！？　\nこ、\nこっちに来る！？\nこ、\n来ないで～……！　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あわわわわっ！？　\nこ、\nこっちに来る！？\nこ、\n来ないで～……！　"
+    },
+    {
+      "name": "Security 1",
+      "text": "...Is someone there?",
+      "choice_data_list": [],
+      "orig_name": "警備員１",
+      "orig_text": "……そこに誰かいるのか？"
+    },
+    {
+      "name": "アユミ",
+      "text": "ひっ……\n目が合った……！？　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ひっ……\n目が合った……！？　"
+    },
+    {
+      "name": "Guard 2",
+      "text": "Was there anyone behind the statue?",
+      "choice_data_list": [],
+      "orig_name": "警備員２",
+      "orig_text": "銅像の後ろ、\n誰かいたか？"
+    },
+    {
+      "name": "Security 1",
+      "text": "...Nope. No one. How strange. I definitely thought I heard footsteps.",
+      "choice_data_list": [],
+      "orig_name": "警備員１",
+      "orig_text": "……いや。\n誰も。\nおかしいな。\n確かに足音を聞いたと思ったんだが。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...Thank goodness. It was just my imagination that our eyes met. But, to think he didn't notice me even though I was right in front of him... I suppose I should be pleased as a phantom thief, but my presence is just too weak...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……よかった。\n目が合ったと思ったのは気のせいだったみたい。\nけど、\nすぐ目の前にいるのに気付かれないなんて……\n怪盗としては喜ぶべきかもだけど、\n私の存在感、\n薄すぎじゃ……"
+    },
+    {
+      "name": "Guard 2",
+      "text": "But still. Is such tight security really necessary? No one can ever break into that vault. That Casino King personally carries the key to enter it.",
+      "choice_data_list": [],
+      "orig_name": "警備員２",
+      "orig_text": "にしても。\nこんな厳重な警備なんて\n本当に必要なのかね。\nあの金庫室は\n絶対に誰にも破れないってのに。\n金庫室の鍵は\nカジノ王様が直々に持ち歩いてるんだぜ。"
+    },
+    {
+      "name": "アユミ",
+      "text": "鍵はカジノ王さんが……！？　",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "鍵はカジノ王さんが……！？　"
+    },
+    {
+      "name": "Guard 2",
+      "text": "On top of that, an invincible bodyguard is always by that guy's side. No matter who shows up, they simply can't get into that vault.",
+      "choice_data_list": [],
+      "orig_name": "警備員２",
+      "orig_text": "その上、\n無敵の用心棒が\n常にあのカジノ王様の側にいるんだ。\nどんなヤツだろうと\n金庫室には入れねえよ。"
+    },
+    {
+      "name": "Security 1",
+      "text": "Even so, we're just doing our jobs. We gotta work for what we're paid for. Let's go.",
+      "choice_data_list": [],
+      "orig_name": "警備員１",
+      "orig_text": "たとえそうでも、\n俺たちは俺たちの仕事をするだけだ。\nもらった金の分は働かないとな。\n行くぞ。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "So the key's on the Casino King himself... How am I supposed to get that...? No, I'll think about it later. For now, I need to keep investigating.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "鍵はカジノ王さんが持ってる……\nか。\nどうやって、\n手に入れれば……\nううん、\n考えるのは後にして、\n今はカジノを調べよう……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Phew. I think I've looked around enough. All that's left in this room is... the vault.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ふう。\n大体見て回ったかな。\n残るはこの先……\n多分、\nそこが金庫室なはず。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...Ah. The magic item for communication I borrowed from Homare-san is responding. U-Um, well... I wonder if it will connect if I click it like this?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……あっ。\nホマレさんから借りた、\n通信用のマジックアイテムが反応してる。\nえ、\nええと……\nこうやれば繋がるかな？"
+    },
+    {
+      "name": "Homare",
+      "text": "I'm surprised you were able to make it that far on your own~ You really have a thief sense as I thought, Ayumi-chan☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "よく、\nそこまで一人で来られたね～\nやっぱり、\nアユミちゃんには\n怪盗のセンスがあるよ☆"
+    },
+    {
+      "name": "Ayumi",
+      "text": "N-Nothing of the sort, I-I'm not... ...Ah, u-um. So, why did you contact me...?",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "そ、\nそんな、\n私なんて、\n別に……\n……あ、\nえ、\nえっと。\nそれで、\nどうして私に連絡を……？"
+    },
+    {
+      "name": "Homare",
+      "text": "I'm sure you've noticed already, but beyond there lies the vault. However, you see... a trap also happens to lie there, so I thought I'd tell you to be careful☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "アユミちゃんも気付いてるとは思うけど、\nその先は金庫室へと繋がってる。\nでもね、\n罠が仕掛けられてるから、\n危ないよって\n伝えようと思って☆"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Eeeh?! A-A trap?!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ええっ！？　\nわ、\n罠ですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Yeah♪ So, there's no need to go any further right now. We'll think about what to do when it's time for the operation. Good job, Ayumi-chan☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "うん♪　\nだから、\n今は\nこの先に進まなくていいよ。\nどうするかは、\n本番の時に考えよっか。\nお疲れさま、\nアユミちゃん☆"
+    },
+    {
+      "name": "Ayumi",
+      "text": "A-All right... I'll be going back, then.",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "わ、\n分かりました……\nじゃあ、\n一度、\n戻りますね。"
+    },
+    {
+      "name": "Homare",
+      "text": "And with that, Ayumi-chan returned safely~☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "というわけで、\nアユミちゃんが無事\n帰ってきました～☆"
+    },
+    {
+      "name": "Inori",
+      "text": "Getting into the casino all by yourself and coming back unfazed... AyuAyu, you're really amazing!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "たった一人でカジノに乗り込んで、\n平然と戻ってくるなんて……\nやっぱりアユアユはすごいヤツですよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "...Wait, huh? You look kind of glum... Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……って、\nあれ？\nなんか浮かない顔してるですけど……\nどうかしたですか？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Y-Yeah... I figured it out after scouting out the casino... There might be one problem...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "う、\nうん……\nカジノを偵察してみて分かったけど……\n問題があるかも……"
+    },
+    {
+      "name": "Ayumi",
+      "text": "U-Umm... Apparently, the Casino King has the key to the vault. So I don't really know how we'd be able to get it...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "え、\nえっと……\n金庫室の鍵は、\nカジノ王さんが持っているらしいんです。\nだから、\n一体、\nどうやって手に入れればいいのか……"
+    },
+    {
+      "name": "Homare",
+      "text": "If that's your worry, the answer's easy☆ You can steal it, Ayumi-chan♪ Secretly, from the pocket of the Casino King's suit.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それなら簡単☆\nアユミちゃんが盗めばいいんだよ♪\nカジノ王のスーツのポケットから\nこっそりと、\nね。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "EHHHHHH?! Th-Th-That's impossible! Just going near a person like that is scary enough... To steal a key from someone like that... H-H-He'd definitely notice!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えええっ！？　\nむ、\nむ、む、\n無理ですぅ！\nあんな人に近付くだけでも怖いのに……\nそんな人から鍵を盗むなんて……\nぜ、\n絶対に気付かれます！"
+    },
+    {
+      "name": "Homare",
+      "text": "Don't worry♪ After all, in a way, your power is invincible, Ayumi-chan. The essence of that ability of yours may be close to the authority of the Seven Crowns. You may be truly special indeed.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "大丈夫だよ♪　\nだってアユミちゃんの能力は\nある意味、\n無敵なんだから。\nその能力の本質は、\n七冠の権能に近しいものなのかも。\n特別なのかも、\nアユミちゃんは。"
+    },
+    {
+      "name": "Ayumi",
+      "text": "U-Umm...? I'm sorry, I don't really understand what you just said...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "え、\nえっと……？\nすみません、\n言っている意味がよく分からなくて……"
+    },
+    {
+      "name": "Homare",
+      "text": "In other words, you're amazing, so be more confident in yourself☆ You just don't realize how special you are♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "つまり、\nアユミちゃんはすごいんだから\n自信持って、\nってこと☆\n自分では、\nそのすごさに気付いていないだけだよ♪"
+    },
+    {
+      "name": "Ayumi",
+      "text": "It's an honor to be called amazing by someone like you, Homare-san... But... I... I don't have any confidence in myself...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "ホマレさんみたいな人にすごいなんて言ってもらえるのは、\n光栄ですけど……\nでも……\n私は……\n私に、\n自信なんて、\n持てません……"
+    },
+    {
+      "name": "Inori",
+      "text": "You can be like that, AyuAyu, sure. ...But even if you can't believe in yourself, I still believe in you!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "アユアユって、\nそういうとこあるですよね。\n……けど、\nアユアユが自分を信じられなくたって。\nあたしは、\nアユアユを信じてるです！"
+    },
+    {
+      "name": "Inori",
+      "text": "Don't worry! If it's you, AyuAyu, you can snatch a simple key from that shitty Casino King!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "大丈夫！　\nアユアユなら、\nあのクソッたれなカジノ王から、\n鍵を奪い取れるです！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Inori-chan...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "イノリちゃん……"
+    },
+    {
+      "name": "Inori",
+      "text": "AyuAyu, you can definitely do it! After all, you're my friend which I personally acknowledged!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "アユアユなら絶対にやれるです！\nなんたって、\nこのあたしが認めた友達ですからね！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Th-Thank you... Yeah... I-I'll... try...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "あ、\nありがとう……\nうん……\nわ、\n私……\nやってみる……！"
+    },
+    {
+      "name": "Homare",
+      "text": "Thank you, Ayumi-chan☆ Now, all that's left is to go steal those things... or so I'd like to say. But there's still one more thing left to do as a group of phantom thieves~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ありがとう、\nアユミちゃん☆\nこれで、\nあとは\n盗みに入るだけだね……\nと言いたいところだけど。\nまだ、\nあと一つ、\n怪盗としてやることが残ってるんだよね～♪"
+    },
+    {
+      "name": "Homare",
+      "text": "And that is... a calling card! Gangsters or phantom thieves, everyone has their own aesthetic sense♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それは……\n予告状を出すこと！\nギャングに美学があるように、\n怪盗にも\n美学は必要だよね♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Y-You're right! When you think of phantom thieves, a calling card is a must! I almost forgot about it! You're smart, Boss!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "た、\n確かに！　\n怪盗といえば予告状！\nうっかり忘れちまうところでしたよ！　\nさすがボスです！"
+    },
+    {
+      "name": "Inori",
+      "text": "...Did you really think I'd say that?! What are you thinking, Boss?! There's no merit at play here in sending a calling card!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……とでも言うと思いましたか！\n何考えてんですか、\nボス！\n予告状なんて出すメリット、\nちっともないですよ！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Inori's right. Sending out a calling card would only make them more wary. What's the point in doing that?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……イノリの言う通りだ。\n予告状を出しても、\nさらに警戒されるだけだと思うけど。\n何の意味があってそんなことするんだ？"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe. We're not going to send \"just\" a calling card, you know? Actually, I've already prepared one~☆ Here, read it♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ。\nただの予告状を出すんじゃないよ？\n実はもう、\n用意してきたんだ～☆　\nほら、\n読んでみて♪"
+    },
+    {
+      "name": "Kaya",
+      "text": "Let's see... \"Tomorrow night, I will come to the casino to claim the legendary jewel, \"Mermaid's Tear\", nya. From the beautiful righteous thief, Phantom Cat.\"",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ええと……\n『明日の夜、\nカジノに眠る伝説の宝石、\n『人魚の涙』をいただきに参上するにゃ。\n美少女義賊\nファントムキャッツより』……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Phantom Cat...? This calling card... you fabricated it, Boss? And what's a \"Mermaid's Tear\" anyway?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ファントムキャッツって……\nこの予告状、\n捏造しやがったな、\nボス？\nというか\n『人魚の涙』ってなんなんだよ。"
+    },
+    {
+      "name": "Homare",
+      "text": "It's part of the Casino King's collection. It's a jewel of immense value stored in the vault. If I had to put a price on it, it would be worth at least 1 billion rupiee☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "カジノ王のコレクションの一つでね？\n金庫室に保管されている、\nものすごい価値のある宝石なの。\nもし価格をつけるとすれば\n10億ルピはくだらないだろうね☆"
+    },
+    {
+      "name": "Inori",
+      "text": "Oweeeh, that's amazing... This isn't the time to be saying that!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "へー、\nそりゃすごいですねー……\nとか言ってる場合じゃねえですよ！？"
+    },
+    {
+      "name": "Inori",
+      "text": "Why should we pretend to be the Phantom Cat and send them a fake calling card?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なんでファントムキャッツのふりをして、\n偽予告状を出すですか！？"
+    },
+    {
+      "name": "Homare",
+      "text": "If we're talking about righteous thieves... the Phantom Cat of Landosol is a living legend whose real identity nobody knows, right?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "義賊ファントムキャッツといえば、\n今となっては\nランドソルに知らない者はない、\n生きる伝説でしょ？"
+    },
+    {
+      "name": "Homare",
+      "text": "The Phantom Cat, who helps the weak and defeat the strong, is the hope of the people of Landosol. Because she is loved by everyone, she will never, and cannot, betray their expectations.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "弱きを助け\n強きを挫くファントムキャッツは、\nランドソルの人々の希望。\n彼女はみんなに愛されているが故に、\n期待を決して裏切らないし、\n裏切れない。"
+    },
+    {
+      "name": "Homare",
+      "text": "Up until now, whenever the Phantom Cat has announced that she will steal something, she has always managed to steal it perfectly, without a single exception.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ファントムキャッツは、\nこれまで盗みを予告したものは、\nただ一つの例外もなく、\n必ず完璧に盗み出してみせたの。"
+    },
+    {
+      "name": "Homare",
+      "text": "That's why, even with this fake calling card, as long as the Casino King is a known villain, she has no choice but to act to protect her pride.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "だからこそ、\nこの偽予告状に関しても。\nカジノ王が悪人である以上、\nその矜持を守るために\n動かざるを得ない。"
+    },
+    {
+      "name": "Kaya",
+      "text": "In other words, the Phantom Cat will surely sneak into the casino to steal the \"Mermaid's Tear\". And if we're to blend in that commotion, it'll be easier for us to steal what we're after... is that right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "つまり、\nファントムキャッツは必ず『人魚の涙』を盗みに、\nカジノへ忍び込む。\nオレたちはその騒動に紛れれば、\nお目当てのものを盗みやすくなるって……\nそういうことか？"
+    },
+    {
+      "name": "Homare",
+      "text": "Ping pong! Right on the money, Kaya-chan! We need to do what we can to raise our chances of success even higher♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ピンポーン、\n正解だよ、\nカヤちゃん☆\nより成功率をあげるためにも、\nやれることはやっておかなくっちゃね♪"
+    },
+    {
+      "name": "Homare",
+      "text": "Of course, the calling card will make the casino more vigilant, but... it should increase the chances that Inori-chan will be cornered, so it's a good thing♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "もちろん、\n予告状でカジノ側の警戒は強まるけど……\nイノリちゃんが追い詰められる可能性が\n高くなってくれるはずだし、\nいいことだよね♪"
+    },
+    {
+      "name": "Inori",
+      "text": "ARE YOU SOME KIND OF PSYCHODRAGON YOU OLD HAG?!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "とんだサイコドラゴンじゃねーですか、\nこのババア！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Inori-chaaaan, did you say something just now☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "イノリちゃん、\n今、\n何か言ったかな～☆"
+    },
+    {
+      "name": "Inori",
+      "text": "PIIIIIIII?! I-I couldn't help but say it out loud!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴぃぃぃ！？\nつ、\nつい、\n口に出してしまったですよ！？"
+    },
+    {
+      "name": "Ayumi",
+      "text": "U-Umm... So, we just need to send this fake calling card to the casino, right? L-Let's do it, Inori-chan...!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "え、\nええっと……\nそれで、\nこの偽予告状をカジノに出してくればいいんですよね……？\nい、\n行こう、\nイノリちゃん……！"
+    },
+    {
+      "name": "Inori",
+      "text": "Y-You're right! Let's go right now! ...Nice assist in switching the subject, AyuAyu!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そ、\nそうですね！　\n行ってくるですよ！\n……ナイス話題逸らしですよ、\nアユアユ！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Still, there's a lot of calling cards here...",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "それにしても、\n予告状、\nいっぱいあるね……"
+    },
+    {
+      "name": "Inori",
+      "text": "For this operation to work, we need to make sure that the fake calling card reaches the Phantom Cat's ears. We need to be conspicuous enough to become the talk of town!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "この作戦は、\n偽予告状の件が\nファントムキャッツの耳にちゃんと入らなきゃいけないですからね。\n街中の話題になるくらい目立つ必要があるですよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "Which is why... I'd say we shouldn't just send it to the casino, but all over Landosol!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "だからカジノだけとは言わず、\nランドソル中にこれをバラまいてやるです！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "...Hehe. Sending out a calling card? We're just like some phantom thieves!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "……ふふっ。\n予告状を出すなんて、\n怪盗みたい。"
+    },
+    {
+      "name": "Inori",
+      "text": "Not \"like\", we're true phantom thieves! All of us!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "みたい、\nじゃなくて\n怪盗なんですよ、\nあたしたちは！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Ehehe... I think I'm kind of excited!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "えへへ……\nなんだか私、\nワクワクしてるかも！"
+    },
+    {
+      "name": "Inori",
+      "text": "I know right! Let's get to it!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ですね！　\nやってやるです！"
+    },
+    {
+      "name": "Ayumi",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "アユミ",
+      "orig_text": "うんっ！"
+    },
+    {
+      "name": "Narration",
+      "text": "A few hours later...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──数時間後。"
+    },
+    {
+      "name": "Casino Staff",
+      "text": "...Hm? What's with this card? ...Th-This is... a calling card!?",
+      "choice_data_list": [],
+      "orig_name": "カジノスタッフ",
+      "orig_text": "……ん？　\nなんだ、\nこのカード？\n……こ、\nこれは……\n予告状！？"
+    },
+    {
+      "name": "Narration",
+      "text": "A little more time passed...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それから更にしばらくして。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Hm? Isn't there some kind of commotion there, nya?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……ん？　\nなんか向こうが騒がしいにゃ？"
+    },
+    {
+      "name": "Male",
+      "text": "NEWS! FRESH NEWS! The Phantom Cat is going to steal a most precious treasure from the casino tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "号外！　\n号外だよ～！\nなんとファントムキャッツが、\n明日、\nあのカジノの財宝を盗むそうだ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...UNYAAAAAAAA~?! WHAT'S THYAT SYUPPOSED TO MYEAN?! I DIDN'T HEAR ANYTHING OF THE SORT, NYA?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……うにゃ～！？\nなんなのにゃ、\nそれ！？　\n聞いてないにゃ～！？"
+    },
+    {
+      "name": "Narration",
+      "text": "──Meanwhile, at that time────",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方、その頃──"
+    },
+    {
+      "name": "Bodyguard",
+      "text": "Haaaa... Good grief. What a pain.",
+      "choice_data_list": [],
+      "orig_name": "用心棒",
+      "orig_text": "……\nやれやれ。\n面倒なことになったな。"
+    },
+    {
+      "name": "Casino King",
+      "text": "Hahaha... It's been a while since I've been so excited. This is going to be an interesting show.",
+      "choice_data_list": [],
+      "orig_name": "カジノ王",
+      "orig_text": "クックック……\nオレは久々にワクワクしてるぜ。\n面白い見世物になりそうじゃねえか。"
+    },
+    {
+      "name": "Casino King",
+      "text": "Casinos are entertainment. Events like this aren't so bad once in a while. Besides, there's no way they could ever break into my vault.",
+      "choice_data_list": [],
+      "orig_name": "カジノ王",
+      "orig_text": "カジノってのはエンターテイメントだ。\nこういうイベントも\nたまには悪くねえ。\nそもそも、\nあの金庫室を突破することはできやしねえしな。"
+    },
+    {
+      "name": "Casino King",
+      "text": "Let's look forward to tomorrow, shall we! Hehehe... AHAHAHAHAHA!!",
+      "choice_data_list": [],
+      "orig_name": "カジノ王",
+      "orig_text": "明日を楽しみにしようぜ、\nオイ！\nククク……\nハーッハッハッハ！！"
+    },
+    {
+      "name": "Narration",
+      "text": "The evil laughter of the casino king echoed through the glittering casino...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "煌びやかなカジノに、\nカジノ王の邪悪な笑い声が響き渡るのだった……"
+    }
+  ]
+}

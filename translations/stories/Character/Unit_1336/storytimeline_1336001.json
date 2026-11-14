@@ -1,0 +1,880 @@
+{
+  "title": "Medusa Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} is walking through the city after work when──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}がバイト帰りに街を歩いていると──"
+    },
+    {
+      "name": "？？？",
+      "text": "Hey~! You guys, that's not okay!\nIf you run while looking away──",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "こらぁ～！　\nアンタたち、\n駄目でしょ！\nよそ見して走ってると──"
+    },
+    {
+      "name": "？？？",
+      "text": "Look, look! This way!\n…Huh!?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ほらほらー！　\nこっちだよー！\n……わっ！？"
+    },
+    {
+      "name": "Boy",
+      "text": "Uh, sorry... wait, huh?\nOnii-chan...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うう、\nごめんなさい……\nって、\nあれ？\nお兄ちゃん……"
+    },
+    {
+      "name": "Boy",
+      "text": "Wow! It really is Onii-chan!\nWhat are you doing here? We're showing people the way!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "わぁ！　\nやっぱりお兄ちゃんだ！\nこんなところでどうしたの？　\nぼくたちね、\n道案内してるとこ！"
+    },
+    {
+      "name": "？？？",
+      "text": "If that's what you call it… you mean 'being babysat'!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "それを言うなら……\n「子守されてるとこ」\nでしょ～が～！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Seriously now! Why do you keep running when I said not to run!?\nI'm the one who's going to get in trouble as the babysitter!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "まったくもう！　\nなんで走るなって言ってんのに走んのよ！\n怒られるの、\n子守役のアタシなんだからね！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Fufun! Long time no see, {0}.\nYou look surprised that I'm here.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふふんっ！　\n久しぶりね、\n{0}。\nアタシがここにいて驚いた\nって顔してるわ。"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaaa!",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアァー！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Aha!\nMedusiana says it's been a while, too!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "あはっ♪\nメドゥシアナも\n久しぶり、\nだって！"
+    },
+    {
+      "name": "Medusa",
+      "text": "That's right.\n…Well, I'd like to say that, but I'm here for babysitting.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そうよ。\n……って言いたいところだけど、\n子守のほうよ。"
+    },
+    {
+      "name": "Medusa",
+      "text": "I made a deal with Saren to help take care of the children\nin exchange for staying at the Sarendia Orphanage.\nMy sister also told me to handle these kinds of things properly.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "サレンディア救護院に泊めてもらう代わりに\n子どもたちの世話を手伝うって\nサレンと約束したから。\nお姉ちゃんも、\nこういうのはちゃんとしろ\nって言ってたもん。"
+    },
+    {
+      "name": "Girl",
+      "text": "Hey, hey, Medusa-chan, let's go soon~?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "ねーねー、\nメドゥーサちゃん、\n早く行こー？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Look, even if it's lodging cost, I don't have money from this world...\nInstead, I'm babysitting the brats to repay them!\nNephi Nela also told me to stay here.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ほら、\n宿代って言っても\nこの世界のお金とか持ってないし……\nそのかわり\nガキンチョの子守して\nお返ししてあげてるってわけ！\nネフィ＝ネラも\nこっちにいろって言ってたし。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Anyway, you guys try to behave a little, okay?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そういうわけだから、\nいい？　\nアンタたち。\nちょっとはおとなしくしなさいよ。"
+    },
+    {
+      "name": "Girl",
+      "text": "Yes, but Medusa-chan,\ndon't forget about the shopping you were asked to do, okay?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "は～い。\nけどメドゥーサちゃん。\nお買い物頼まれたのも\n忘れちゃダメだよ？"
+    },
+    {
+      "name": "Boy",
+      "text": "Right, right. Since you don't know the stores,\nSuzume Nee-chan told you to let us guide you.",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "そうそう。\nお店分からないだろうから、\nぼくたちに案内してもらってねって\nスズメ姉ちゃんに言われてたじゃん。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ugh, you're so annoying!\nI've just not gotten used to this world yet, okay!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "う、\nうるさいわね！\nまだこっちの世界に慣れてないんだから\nしょうがないでしょ！？"
+    },
+    {
+      "name": "Girl",
+      "text": "Geez, Medusa-chan, don't get so angry.\nI'll help you look for your sisters tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "も～\nメドゥーサちゃん、\nそんなに怒らないでよ。\n明日はお姉ちゃん探し、\n手伝ってあげるから！"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah, yeah! We know this area well.\nWe even know places where people might be hiding.\nLet's go together!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うんうん！　\nぼくたち、\nこのへん詳しいもん。\n人が隠れてそうな場所も知ってるよ。\n一緒に行こうよ！"
+    },
+    {
+      "name": "メドゥーサ",
+      "text": "…………\n…ふん。\nま、\nそういうことなら……\n行っても\nいいかな。",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "…………\n…ふん。\nま、\nそういうことなら……\n行っても\nいいかな。"
+    },
+    {
+      "name": "Medusa",
+      "text": "……{0}, you come too.\nYou're free anyway, right?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……{0}、\nアンタも来なさい。\nどうせヒマでしょ？"
+    },
+    {
+      "name": "Medusa",
+      "text": "But, what!? It's obvious you'll help me!\nThat's settled then, see you tomorrow!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "けど、\n何！？　\nこのアタシを手伝うのはトーゼンでしょ！\nそういうわけだから、\n明日ねっ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Ah, Medusa-chan, wait!\nThat's not the way to the stores~!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あ、\nメドゥーサちゃん待ってよ～！\nそっち、\nお店じゃないよ～！"
+    },
+    {
+      "name": "Narration",
+      "text": "The next day...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "翌日──"
+    },
+    {
+      "name": "Medusa",
+      "text": "Fufun♪\nLooks like you actually came, {0}.\nGood spirit.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふふん♪\nちゃんと来たみたいね、\n{0}。\nいい心がけよ。"
+    },
+    {
+      "name": "Boy",
+      "text": "Look, look! Onii-chan, Medusa-chan.\nWe made a sister-finding map for you!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "見て見て！　\nお兄ちゃん、\nメドゥーサちゃん。\nぼくたち\nお姉ちゃん捜し地図を作ってきたんだよ！"
+    },
+    {
+      "name": "Girl",
+      "text": "We've marked places where Medusa-chan's sisters might be!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "メドゥーサちゃんのお姉ちゃんたちがいそうなところに、\nしるしつけてあるの！"
+    },
+    {
+      "name": "Medusa",
+      "text": "You guys...\nYou've made something like this without me knowing…",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "アンタたち……\n知らない間に、\nこんなの……"
+    },
+    {
+      "name": "Medusa",
+      "text": "……H-Humph.\nSo, we'll go around the marked places?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……ふ、\nふんっ。\nじゃあ……\nしるしがついてるとこを\n回るってわけね？"
+    },
+    {
+      "name": "Girl",
+      "text": "Yeah, that's right!\nLet's go right away then!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うん、\nそういうこと！\nじゃあ早速行きましょ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "E-eh!?\n…Hehe. I hope we find your sisters.\nMedusiana──!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "え、\nええっ！\n……えへへ。\nお姉ちゃんたち、\n見つかるといいね。\nメドゥシアナ──！"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaa~!",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアァ～！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, with the children's map as their guide, the group embarked on a journey to find Medusa's sisters. But the journey was──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうして、\n子どもたちの作った地図を頼りに、\nメドゥーサの姉捜しを始めた一行。\nしかしその道行きは──"
+    },
+    {
+      "name": "Stray Cat",
+      "text": "Fssshaaa!!",
+      "choice_data_list": [],
+      "orig_name": "野良猫",
+      "orig_text": "フシャーーーッ！！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Hyaa!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ひゃうぅっ！？"
+    },
+    {
+      "name": "Monster",
+      "text": "Guooooooo!!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Nyaaah!!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "んきゃあああっ！？"
+    },
+    {
+      "name": "Tunus",
+      "text": "Bitchibitchibitchi!!",
+      "choice_data_list": [],
+      "orig_name": "トゥンヌス",
+      "orig_text": "ビチビチビチビチッ！！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Upiiiiiii~!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "うぴいいいいい～～～っ！？"
+    },
+    {
+      "name": "Medusa",
+      "text": "*huff*... *puff*...\nI-It was nothing...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ぜぇ……\nはぁ……\nこ、\nこれくらい余裕ね……"
+    },
+    {
+      "name": "Boy",
+      "text": "Medusa-chan was so surprised...!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "メドゥーサちゃん、\nめちゃくちゃ驚いてたね……"
+    },
+    {
+      "name": "Girl",
+      "text": "Yeah... It was more surprising than wild cats or monsters,\nMedusa-chan's scream...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "うん……\n野良猫より魔物より、\nメドゥーサちゃんの叫び声のほうにびっくりしちゃった……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Gnuuuu...!\nYou guys... I can hear you...!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ぎぬぬ\nぬ……！\nアンタたち……\n聞こえてるわよ～……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Haaah... In the end, we didn't find any of the sisters...\nWe worked so hard...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "は～あ……\n結局お姉ちゃんはどこにもいなかったし……\nせっかくがんばったのに……"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaa~...",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアァ～……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Medusiana, are you comforting me?\n...Heh, thank you. You really are a good child...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "メドゥシアナ……\n励ましてくれてるの？\n……ふふ、\nありがと。\nアンタ本当に、\nいい子ね……"
+    },
+    {
+      "name": "Male's voice",
+      "text": "You! Hey, you there!",
+      "choice_data_list": [],
+      "orig_name": "男性の声",
+      "orig_text": "キミ！　\nそこのキミ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Hm...?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ん……？"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "I'm glad... I finally found you!\nI've been looking for you non-stop!",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "良かった……\nようやく見つけたよ！\nずっとキミを捜してたんだ！"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "I watched all the New Year performances.\nWow, they were truly amazing!",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "正月のパフォーマンス、\n全て見させてもらったよ。\nいやぁ、\n本当に素晴らしかった！"
+    },
+    {
+      "name": "Medusa",
+      "text": "…Who are you?\nMy sisters told me not to get involved with weird people.\n...So? What do you want?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……誰、\nアンタ？\nヘンな人には関わるなって、\nお姉ちゃんたちから言われてるんだけど。\n……それで？　\n何か用？"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "Hahaha, I'm stumped now. I'm not a weird person.\nI happen to be the president of a commercial association.\nI deal in rare and unique items globally.",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "ははは、\n参ったな。\nヘンな人じゃあないよ。\nこれでも私は\n商会の会長をしていてね。\n古今東西の珍しいものを\n商っているんだけれど。"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "I'll get straight to the point.\nWould you be willing to sell me that snake of yours?",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "単刀直入に言おう。\nキミの連れているその蛇……\n買い取らせてもらえないかね？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Medusiana...?\nWhat are you talking about, why──",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "メドゥシアナを……！？\n何言ってんのよ、\nどうして──"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "Because the performance was outstanding. When it transformed\ninto a giant snake and went wild, the residents went wild too!\nIf I make a spectacle out of this snake, I'm sure to make a fortune!",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "パフォーマンスが素晴らしかったからさ。\nそいつが大蛇に変身して暴れた時、\n住民がどれほど熱狂したか！\nこの蛇で見世物でもやれば\n大儲け間違いなしだよ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "What──! You can't be serious!?\nYou want to make Medusiana a spectacle!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "なっ──！　\n何ですって！？\nメドゥシアナを、\n見世物に！？"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "Yes! Leave training the arts to me.\nThe more dangerous, the better.\nJumping through fire hoops... Or maybe trapping it in a water tank.",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "ああ！　\n芸を仕込むのも任せてくれ。\n芸は……\nそうだな、\n危険なほどいいだろう。\n火の輪くぐり……\nいや、\n水槽に閉じ込めるのもいいか。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Don't kid with me!\nMedusiana is my precious familiar!\nI wouldn't even give you a single scale!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふっ……\nふざけないで！\nメドゥシアナはアタシの大事な眷属よ！\nアンタなんかに……\n鱗一枚だってあげないんだから！"
+    },
+    {
+      "name": "Medusa",
+      "text": "This guy──Get him, Medusiana!!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "こんなヤツ──\nやっちゃえ、\nメドゥシアナ！！"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaaaaa!!!",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアアアアアッ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "W-Why did you stop me! Let go!\nA person this awful deserves to be swallowed whole!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "な、\n何で止めるのよ！　\n離して！\nこんなひどいヤツ、\nジオ・ゲヘナだったら\n丸呑みにされて当然よ！"
+    },
+    {
+      "name": "Suspicious Male",
+      "text": "Hi, hiieeeee!",
+      "choice_data_list": [],
+      "orig_name": "怪しげな男",
+      "orig_text": "ひ、\nひい\nいいっ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ah! Stop, hey!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "あっ！　\n待ちなさい、\nコラぁ～っ！！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ugh──why did you stop me!?\nThanks to you, he got away!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "もう──\nどうして止めたの！？\nアンタのせいで\n逃がしちゃったじゃない！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ugh…! But… But…!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "うっ……！　\nでも……\nで\nもっ！"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Look, that monster… it tried to attack someone...",
+      "choice_data_list": [],
+      "orig_name": "住民１",
+      "orig_text": "見ろ、\nあの化け物……\n人を襲おうとしたぞ……"
+    },
+    {
+      "name": "Resident 2",
+      "text": "So scary... It won’t go on a rampage, right?",
+      "choice_data_list": [],
+      "orig_name": "住民２",
+      "orig_text": "こわいわ……\n暴れたりしないわよね……？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Ugh, nuuuu... stop it…!\nDon't look at Medusiana like that...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "う、\nぬううぅ……\nやめて……！\nメドゥシアナを、\nそんな目で見ないでよ……"
+    },
+    {
+      "name": "Medusa",
+      "text": "…Medusiana.\nIt's okay. Go back to your small form.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……\nメドゥシアナ。\nもう、いいわ。\n小さい姿に戻って。"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaa...",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアァ……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Yes… good child.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そうよ……\nいい子ね。"
+    },
+    {
+      "name": "Girl",
+      "text": "Medusa-chan...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "メドゥーサちゃん……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Sorry for causing a disturbance. {0} too...\nIf you hadn't stopped me, I would've done something terrible.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "騒がせて悪かったわ。\n{0}も……\n止めてくれなかったら、\n大変なことしてた。"
+    },
+    {
+      "name": "Medusa",
+      "text": "This place is not Gio Gehenna.\nEven when something unpleasant happens, I shouldn’t fight immediately...\n…I'm heading back.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ここは\nジオ・ゲヘナとは違うのよね。\n嫌なことされても、\nすぐ\n戦っちゃダメなんだった……\n………帰る。"
+    },
+    {
+      "name": "Boy",
+      "text": "Ah, Medusa-chan...!\nWhat should we do, Onii-chan...\nIf we leave it like this, Medusa-chan might end up going back to her world...?",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あっ、\nメドゥーサちゃん……！\nどうしよう、\nお兄ちゃん……\nこのままじゃメドゥーサちゃん、\n元の世界に帰っちゃう……？"
+    },
+    {
+      "name": "Girl",
+      "text": "I don't want Medusa-chan to\ndislike Landosol...\nWhat should we do...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "メドゥーサちゃんに……\nランドソルのこと、\n嫌いになってほしくないな……\nどうしたらいいのかな……？"
+    },
+    {
+      "name": "Medusa",
+      "text": "…What? You can go back too, you know?\nWe've gone through all the places marked on the map the kids made──",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……何よ。\nアンタももう帰っていいわよ？\nこの子たちが作ってくれた地図にあった場所は\n全部回ったし──"
+    },
+    {
+      "name": "Medusa",
+      "text": "Eh…? Wait, what is this mark…?\nIt wasn’t there before.\nAnd this… it looks like it was just added. Where is this?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "え……？　\nちょっと、\n何よこのしるし……\nさっきまでなかったじゃない。\nていうか……\nどう見ても今書き足したって感じ。\nどこなの、\nここ？"
+    },
+    {
+      "name": "Girl",
+      "text": "Ah! Onii-chan, this place...!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "っ！　\nお兄ちゃん、\nこの場所って……！"
+    },
+    {
+      "name": "Boy",
+      "text": "Yeah, this place for sure…\nMaybe she'll like Landosol!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん、\n確かにこの場所なら……\nランドソルを好きになってもらえるかも！"
+    },
+    {
+      "name": "Childrens",
+      "text": "Let's go!",
+      "choice_data_list": [],
+      "orig_name": "子どもたち",
+      "orig_text": "行こ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Wha, what is it? Everyone...\nYou won't tell me where it is...",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "な、\n何なの。\nみんなして。\n結局どこなのか教えてくれないし……"
+    },
+    {
+      "name": "Medusa",
+      "text": "…It's not like I have a choice.\nJust a little bit, okay.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……\nしょうがないわね。\n少し、\nだけだからね。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Wow...!\nAll these flowers…!? Amazing, amazing!\nI-I can really go in? For real?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "わぁ……！\nこれ全部、\n花……！？　\nすごい、\nすごい！\nこ、\nこれ……\n入っても、いいの？　\nほんとに？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Y-Yes…! Then… hehehe…♪\nWow, it smells nice. Even the ground feels so soft.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そ、\nそう……！　\nじゃあ……\nえへへっ……♪\nわあ、\nいい匂い。\n足元もふっかふかなのね。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Look, look! This tiny flower!\nI've never seen one in Gio Gehenna! And, what is this red one?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "見て見て！　\nこのちっちゃい花！\nジオ・ゲヘナじゃ見たことないわ！　\nそれに、\nこの赤いのは──？"
+    },
+    {
+      "name": "Medusa",
+      "text": "A ladybug?\nHmmm... It's kinda cute…",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "てんとうむし？\nふ～ん……\nけっこう、\nかわいいじゃない……"
+    },
+    {
+      "name": "Medusa",
+      "text": "…Heh♪\nHey, tell me more! Next, what's the name of that flower over there?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……ふふっ♪\nねぇ、\nもっと教えて！　\n次はあっちの花の名前！"
+    },
+    {
+      "name": "Girl",
+      "text": "…Hehe. Medusa-chan looks like she's having fun.",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "……ふふふ。\nメドゥーサちゃん、\n楽しそうだね。"
+    },
+    {
+      "name": "Boy",
+      "text": "I'm glad.\nStill……is it rare for flowers to be in Medusa-chan's world.\nThen……heh! Alright……!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "うん、\nよかった。\nにしても……\nメドゥーサちゃんの世界は、\nお花珍しいんだ。\nだったら……\nへへ！　\nようし……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Haa~! That was fun! Come on!\nIf there's such a beautiful place, you should have told me sooner!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "はぁ～！　\n楽しかった！\nまったくもう！　\nこんなキレイなとこがあるなら、\n早く教えなさいよね！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Fufun♪ Landosol isn't bad at all!\nI was feeling bad earlier, but… I feel a little refreshed now.\nThose kids did well.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふふん♪　\nランドソルもいいとこね！\nさっきまで嫌な気分だったけど……\nちょっとすっきりしたわ。\nあの子たち、\nやるじゃない。"
+    },
+    {
+      "name": "Medusa",
+      "text": "…Huh? Where did those kids go?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……あれ？　\nあの子たち、\nどこ行ったの？"
+    },
+    {
+      "name": "Girl's voice",
+      "text": "Kyaaa! Help meee!",
+      "choice_data_list": [],
+      "orig_name": "女の子の声",
+      "orig_text": "きゃあああっ！　\nたすけてえぇえ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "T-That voice, over there──from the cliff!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "っ！　\n今の声、\nあっち──\n崖のほうからっ！？"
+    },
+    {
+      "name": "Boy",
+      "text": "Uu... uuuu… This is bad, I'm gonna fall…!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "う、\nううう……\nまずいよ、\n落ちちゃうっ……！"
+    },
+    {
+      "name": "Girl",
+      "text": "G-Gah…! Don’t let go!\nHold on tight…",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "く、\nうぅ……！　\n手、\n離しちゃダメだからね……！\nしっかりつかんでて……"
+    },
+    {
+      "name": "Medusa",
+      "text": "Oh no! Those kids, at this rate they'll fall off the cliff!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "なっ！　\nあの子たち、\nあれじゃ崖から落ちちゃうわよ！"
+    },
+    {
+      "name": "Girl",
+      "text": "Y-Yeah... please, Onii-chan, help us…!\nOr else... I'll fall along too──!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "う、\nうん……\nお兄ちゃん、\nたすけて……！\nこのままじゃ……\nわたしごと、\n一緒に──！"
+    },
+    {
+      "name": "Girl",
+      "text": "──Ahh!?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "──あぁッ！？"
+    },
+    {
+      "name": "Childrens",
+      "text": "Waaaaah!!",
+      "choice_data_list": [],
+      "orig_name": "子どもたち",
+      "orig_text": "わああああああっ！！"
+    },
+    {
+      "name": "？？？",
+      "text": "Shaaaaaaa!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "シャアアアアアッ！！"
+    },
+    {
+      "name": "Childrens",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "子どもたち",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "Boy",
+      "text": "H-Huh...? I'm okay…\nAnd we're flying...?",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "あ、\nあれ……？　\nなんともない……\nそれにぼくたち、\n空を飛んでる……？"
+    },
+    {
+      "name": "Medusa",
+      "text": "You're not hurt, right?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ケガはないわね？"
+    },
+    {
+      "name": "Girl",
+      "text": "M-Medusa-chan!\nThen, this means──",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "メ、\nメドゥーサちゃん！\nじゃあ、\nこれって──"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaa~!",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアァ～！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Right, you're on top of Medusiana.\nThis kid can even fly in the sky!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そ、\nメドゥシアナの上にいるのよ。\nこの子、\n空も飛べちゃうんだから！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Fufun♪ I even let you ride along.\nYou should be grateful!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふふんっ♪　\nついでにアンタも乗せてやったわ。\n感謝しなさい！"
+    },
+    {
+      "name": "Boy",
+      "text": "Medusa-chan, Onii-chan…!\nU-uwaaaaaah! I was so scared!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "メドゥーサちゃん、\nお兄ちゃん……！\nう、\nうわあああああんっ！　\nこわかったよーっ！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Now, don't cry!\nWhat were you thinking, doing something that dangerous!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "もう、\n泣くんじゃないわよ！\nあんな危ないことして、\n何考えてるわけ！？"
+    },
+    {
+      "name": "Girl",
+      "text": "W-Well... the flower blooming on the cliff was so beautiful...\nFor Medusa-chan and Medusiana, I wanted to pick it...",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "そ、\nそれは……\n崖に咲いてた、\nこのお花がきれいだったから……\nメドゥーサちゃんとメドゥシアナのために、\n摘みたくて……"
+    },
+    {
+      "name": "Medusa",
+      "text": "T-This flower… for us...?\nGeez… what foolish kids!\nDidn't Saren warn you not to do anything dangerous!?",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "こ、\nこの花を……\nアタシたちの、\nために……？\nま、\nまったく……\nバカな子たちね！\nサレンに危ないことするなって言われなかったの！？"
+    },
+    {
+      "name": "Boy",
+      "text": "We're sorry...\nBut, we didn't want Medusa-chan and Medusiana to dislike\nLandosol...",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "ごめんなさい……\nでも、\nメドゥーサちゃんたちにランドソルのこと、\n嫌いになってほしくなかったから……"
+    },
+    {
+      "name": "Medusa",
+      "text": "………! Ugh… Dummy! Truly a dummy!\nI was the one about to lose it and go wild… you guys did this……!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "……！　\nも\nう……\nバカ！　\nホントにバカ！\nアタシがキレて暴れそうになっただけなのに……\nこんなこと……！"
+    },
+    {
+      "name": "Medusa",
+      "text": "But well… thank you for that.\nOffering such a tribute to me,\nEven though you're just kids, that’s real initiative!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "でもまあ、\nその……\nありがと。\nア、\nアタシに供物を捧げようなんて、\nちびっ子のくせにいい心がけじゃない！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Besides… this view isn’t bad.\nWith this scenery, I’ll let this slide and not be mad anymore.\nGo home and get──lectured by Saren.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "それに……\n悪くないわね、\nこの景色。\nこの景色に免じて、\nこれ以上怒らないであげるわ。\n帰ってちゃんと──\nサレンに叱られなさい。"
+    },
+    {
+      "name": "Medusa",
+      "text": "──that’s something\nMy sister would probably say.",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "──って。\nお姉ちゃんなら\n言うよね、\n多分。"
+    },
+    {
+      "name": "Medusa",
+      "text": "Wh-Why are you smirking?.\nIt's irritating! Stop making that face!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "な、\n何ニヤニヤしてるのよ。\n何かむかつく！　\nやめなさいよね、\nその顔！"
+    },
+    {
+      "name": "Medusa",
+      "text": "Well then, I’ll fly even higher for you.\nTo surprise you enough that you can't smirk!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "そうだ、\nどうせならもっと高く飛んであげる。\nニヤニヤできないくらい、\nびっくりさせてあげるんだから！"
+    },
+    {
+      "name": "Girl",
+      "text": "E-Eeeh……!?\nMedusa-chan, even us~!?",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "え、\nえええ……！？\nメドゥーサちゃん、\nわたしたちまで～！？"
+    },
+    {
+      "name": "Medusa",
+      "text": "Hehe! It'll be alright, it'll be a slow ride.\nSo──I'm counting on you, Medusiana!",
+      "choice_data_list": [],
+      "orig_name": "メドゥーサ",
+      "orig_text": "ふふ！　\n大丈夫よ、\nゆっくり行くから。\nさぁ──\n頼んだわよ、\nメドゥシアナ！"
+    },
+    {
+      "name": "Medusiana",
+      "text": "Shaaaa～!",
+      "choice_data_list": [],
+      "orig_name": "メドゥシアナ",
+      "orig_text": "シャアアァ～～～！"
+    },
+    {
+      "name": "Narration",
+      "text": "Despite the screams of {0} and the children,\nMedusa rode on Medusiana,\nFlying joyfully through the sky of Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}と子どもたちの悲鳴をよそに、\nメドゥーサはメドゥシアナを駆り、\n楽しそうにランドソルの空を翔けるのだった。"
+    }
+  ]
+}

@@ -1,0 +1,894 @@
+{
+  "title": "Real Feelings and Lies",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "\"Go to the Tower of Sol.\" After receiving those instructions from Kaiser Insight, Kyaru and her allies make their way to the Tower of Sol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──ソルの塔に行きなさい。\n覇瞳皇帝から受け取った言葉を信じ、\nキャルは仲間とともにソルの塔へと足を踏み入れた。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ugh, haah, hah...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っく、\nはぁ、\nはぁ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru.\nPerhaps you should walk more slowly...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま。\nもう少しゆっくりと歩いた方がよいのでは……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kokkoro-san's right, Kyaru.\nYou didn't have to force yourself to be the only one carrying him.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "コッコロさんの言う通りよ、\nキャル。\n彼を背負ってるのに、\nそんなに先を急ごうとしなくても\nいいのよ？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I have to do this. We've finally found a hint to waking him.\nWe can't be wasting too much time...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "そうはいかないわよ。\nようやくこいつを起こすヒントを見つけたんだから。\nモタモタしてるわけにはいかないわ……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Then, I can take a turn carrying him.\nYou've been carrying him ever since we left the guild house.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "だったら\nせめて彼を運ぶ役、\n代わるわよ。\nギルドハウスを出てから\nずっと背負いっぱなしなんだから。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't worry about it. Let me carry him.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "気にしなくていいわ。\nこいつはあたしに運ばせて。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Kokkoro-chan, Kyaru-chan, Sheffy-chan! Over here, over here!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "コッコロちゃん、\nキャルちゃん、\nシェフィちゃん！\nこっちこっちー！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hiyori, don't rush them.\nI know there aren't any monsters here, but we should proceed with caution.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ヒヨリ、\n急かしてはダメだよ。\nソルの塔に魔物がいないとはいえ、\n気をつけて進まないとね。"
+    },
+    {
+      "name": "Yui",
+      "text": "Are you doing okay, Kyaru-chan...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "大丈夫？　\nキャルちゃん……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Enough worrying about me.\n...Sorry about this, having you guys guide us.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしの心配はいいから。\n……悪いわね、\nあんたたちに道案内を頼んだりして。"
+    },
+    {
+      "name": "Yui",
+      "text": "Oh no, it's for Kishi-kun, after all. I'll help in whatever way I can.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ううん。\n騎士クンのためだもん。\nわたしにできることなら、\nどんなことだってするよ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "And of course that includes me!\n...Ah, but, do you think we'll really find a way to wake Kishi-kun in this tower?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "もちろんあたしもー！\n……でもさー、\n本当にこの塔に\n騎士くんを\n起こすための手掛かりがあるの？"
+    },
+    {
+      "name": "Rei",
+      "text": "True...\nWe've heard this tower was just a husk with nothing in it.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "確かに……\nこの塔は何もない抜け殻だと、\n言われたことがあるね。"
+    },
+    {
+      "name": "Rei",
+      "text": "And on top of that... Our source of information is Kaiser Insight.\nI don't know what Kaiser Insight is thinking... but it's probably\nnot with our well-being in mind... There's a chance it's a... trap.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "なにより、\nここに何かがあるという情報源は\n覇瞳皇帝からのもの。\n今の覇瞳皇帝がどういう考えを持っているかは分からないけど、\n私たちをよくは思っていないだろう……\n罠、\nという可能性もある。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "We have to continue regardless.\nEven if it's nothing... And even if it's a trap...\nThat's just how much Kyaru has faith in it.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "それでも\n進むしかないわ。\n何もなくたって……\n罠であったとしても。\nキャルが、\nあそこまで信じているんだから。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, my heart is set.\nIf it's for my Lord, I will not waver.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\n心は決まっております。\n主さまのためならば、\nわたくしに迷いはありません。"
+    },
+    {
+      "name": "Rei",
+      "text": "I see...\nSo it's all with that in mind.\nI've underestimated your resolves.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "そうか……\nすべて承知の上か。\nキミたちの覚悟を、\n甘く見ていたみたいだ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "You always go straight to thinking of the complicated stuff! Relax, relax! ♪",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさんはすぐ難しく考えちゃうよね～\nもっとリラックスリラックス～♪"
+    },
+    {
+      "name": "Rei",
+      "text": "*sigh*\nI can't relax as much as you do.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……はぁ。\nヒヨリほど気楽にはなれないよ。"
+    },
+    {
+      "name": "Yui",
+      "text": "But that's been so helpful. We've made it this far because you've always been so cautious, Rei-chan.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わたしたちは\nそれで何度も助けられてるけどね。\nレイちゃんが色々注意しててくれるから、\nここまでやってこれたし。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Guilds... really are nice.\n...If only we could all hurry and get together...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ギルドって\nやっぱりいいものね。\n……私たちも、\n早く全員揃って……"
+    },
+    {
+      "name": "Karyl",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま……"
+    },
+    {
+      "name": "Karyl",
+      "text": "It'll be fine. I'm sure it'll be fine...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "大丈夫、\nきっと\n大丈夫よ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ah, it's just a little past there!\nThat's where we all saw that weird dream!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あっ、\nもうちょっとであそこだよ！\nあたしたち３人が\n前に、\n変な夢を見たところ！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Dream... you say?\nI feel there may be something here.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "夢……\nですか。\n何かがありそうな気がいたしますね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...It doesn't look like anything's here.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……見た感じ、\nなにもなさそうに見えるけど。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "The crystal you all mentioned... isn't here either.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ヒヨリさまたちが仰られていた結晶も……\n見当たりません。"
+    },
+    {
+      "name": "Yui",
+      "text": "Yeah, when we came back again, it was gone.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うん、\n改めて登った時も無くなってたよ。"
+    },
+    {
+      "name": "Rei",
+      "text": "All Kaiser Insight said was, to go to the Tower of Sol, right?\nDid that mean, to go to the top...?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "覇瞳皇帝は\nソルの塔へ向かえ、\nとしか言ってなかったんだよね？\nまさか、\n頂上まで行けということなのだろうか……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Your Majesty...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "陛下……"
+    },
+    {
+      "name": "キャル",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Kyaru-chan, something wrong?\n...Huh?\nKyaru-chan, aren't you kind of... glowing?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "キャルちゃん、\nどうかしたの？\n……あれ？　\nなんか、\nキャルちゃんの体……\n光ってない？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh? What's this...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えっ？\nなに、\nこれ……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "No, I know this feeling...\nThis is like the time I received power from her Majesty...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ううん、\nこの感覚、\n覚えがある……\nこれってあたしが前に、\n陛下からいただいた──"
+    },
+    {
+      "name": "Karyl",
+      "text": "it's the Princess Knight power...!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "──プリンセスナイトの力！？"
+    },
+    {
+      "name": "Kaiser Insight",
+      "text": "I've warned you before... about approaching me carelessly.",
+      "choice_data_list": [],
+      "orig_name": "覇瞳皇帝",
+      "orig_text": "前に言ったはずよ？　\n迂闊に近づくなって。"
+    },
+    {
+      "name": "Karyl",
+      "text": "!?\nK-Kyaaaaah!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "っ！？\nきゃ、\nきゃあああああっ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Y-Your Majesty...! What are you...?\n",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "へ、\n陛下……！\nなにを……っ！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Was it at that moment...!? Why...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まさか、\nあの時に……！？\nどうして……！？"
+    },
+    {
+      "name": "Rei",
+      "text": "...!\nEveryone, get ready! The enemy's here!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……！\nみんな、\n構えて！　\n敵襲だ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Eh!? Enemies!?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっ！？　\n敵！？"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Uwawawah!?\nThe monsters are just rushing in!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うわわわわっ！？\n魔物がなだれ込んできてるよ～っ！？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It looks like they're after us.\nAll of their hostility is aimed right at us.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "狙いは私たちみたいね。\nみんなまっすぐこっちに敵意を向けてる。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Was this because of me...?!\nI know her Majesty's Princess Knight power is controlling monsters...\nBut...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まさかこれって、\nあたしが……！？\n確かに、\n陛下にいただいたプリンセスナイトの力は、\n魔物を操る能力だった、\nけど……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Why is it going off now...?\nYour Majesty...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんで、\n今それが……？\n陛下……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Kyaru, now isn't the time to be lost in thought!\nTake care of my Lord...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "キャルさま、\n考えている場合ではありません！\n主さまをお願いします……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "G-Got it...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "わ、\n分かったわ……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "We're completely surrounded!\nWe can't just mindlessly charge in there...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "完全に囲まれちゃってるね～\nこれじゃあうかつに突っ込んでいけないかも……"
+    },
+    {
+      "name": "Rei",
+      "text": "More importantly, Hiyori, these monsters...!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "それよりもヒヨリ、\nこの魔物……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah, I feel some terrible power...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん、\nすっごい力を感じるよ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Is this Kaiser Insight-san's...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "それって、\n覇瞳皇帝さんの……？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Now's not the time! They're coming!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そんなことより、\n来るわよ！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "？？？",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "？？？",
+      "text": "I am in...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "僕は──"
+    },
+    {
+      "name": "？？？",
+      "text": "──you.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──君だ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Look out!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "危ないっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Why're you suddenly throwing attacks out!? That's dangerous!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いきなり攻撃してくるなんて、\n危ないじゃないですか！"
+    },
+    {
+      "name": "？？？",
+      "text": "Get out of the way, Peco-san.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "どいて、\nペコさん。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?! Wh-What's your power?! Hyaaaah?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっ！？\nこ、\nの力はっ──\nひゃあ\nああっ！？"
+    },
+    {
+      "name": "？？？",
+      "text": "I am you.\nThe \"you with power,\" you desired.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "僕は、\n君。\n君が求めた──\n『力ある僕』。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "D-Does that mean...\nYou are his power...?\nYou're the \"power that's grown too strong,\" that Lady Ameth mentioned...!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そ、\nそれって……\nあなたは、\n彼の力そのもの……？\nアメスさまが言っていた、\n強くなりすぎた力、\nってやつですか……！？"
+    },
+    {
+      "name": "？？？",
+      "text": "You should... accept me.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "僕を、\n受け入れて。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't listen to him! Lady Ameth said so herself!\nYour body won't be able to handle anymore power!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "聞いちゃだめです！\nアメスさまが言ってましたよねっ？\nこれ以上の力に、\nあなたの体は耐えられないって！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Your body'll destroy itself with all that power, you can't accept it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "自分まで壊しちゃうような身に余る力を、\n受け入れさせるわけにはいきません！"
+    },
+    {
+      "name": "？？？",
+      "text": "I wished for this.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "願ったのは、\n僕だよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's because I was in danger...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それは……っ、\nわたしが危なかったから……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Either way! I refuse to accept it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "とにかく！\nわたしは絶対に認めません！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You can take your time becoming strong!\nMe, Kyaru-chan, Kokkoro-chan, Sheffy-chan,\nall of us can take the same, relaxed pace towards becoming stronger!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "強くなるのはゆっくりだっていいじゃないですか！\nわたしとキャルちゃんとコッコロちゃんとシェフィちゃん、\nみんなでゆっくり、\n同じ歩幅で強くなればいいんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If you're not strong enough, we'll just make up for it!\nYou don't have rush getting stronger all alone!\nPeco-san...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "力が足りないなら、\n補い合えばいいんです！\nあなただけが急ぎ足で強くなる必要なんてありません！"
+    },
+    {
+      "name": "？？？",
+      "text": "Peco-san, are you getting in my way?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ペコさん、\n僕の邪魔をするの？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes. I will do everything I can to stop you.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい。\n思いっきり、\n邪魔させてもらいます。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "When someone you cherish might make the wrong decision...\nYou ask them if they're really okay with that.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "大切な人が間違った選択をしそうなとき。\n本当にそれでいいんですかって、\n言ってあげられる。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's what friends do.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それが──\n仲間ですから。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe...☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ……☆"
+    },
+    {
+      "name": "？？？",
+      "text": "I see.\nBut if you're in the way of my wish...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "そっか。\nでも、\n僕の願いを邪魔するなら──"
+    },
+    {
+      "name": "？？？",
+      "text": "──Here I go.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──いくよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "!?\nSo fast──!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っ！？\nは、や──っ！？"
+    },
+    {
+      "name": "？？？",
+      "text": "This... is my power.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "これが、\n僕の力なんだよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You're wrong!\nIt may be true that's his power!\nBut he doesn't need that right now!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "違います！\n確かにあなたは彼の力かもしれない！\nだけどそれは、\n今の彼に必要なものじゃない！"
+    },
+    {
+      "name": "？？？",
+      "text": "And if I don't have the power when I need it?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "必要な時に、\n力が足りないかもしれないのに？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...!\nHaah... kuh... uuu...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……っ！\nハァッ……\nくっ……\nうぅ……！"
+    },
+    {
+      "name": "？？？",
+      "text": "I'm tired of it.\nTired of someone getting hurt...\nTired of being powerless to stop it...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "僕はもうイヤだ。\n誰かが傷つくのも、\nその時自分が何もできないのも。"
+    },
+    {
+      "name": "？？？",
+      "text": "...Right?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……でしょ？"
+    },
+    {
+      "name": "？？？",
+      "text": "Yeah.\nthat's my true feeling.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "うん。\nそれが、\n僕の本心だ。"
+    },
+    {
+      "name": "？？？",
+      "text": "No...\nYou can't lie to me.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "いいや。\n僕に嘘はつけない。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It doesn't matter if it's a real or not!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "本心でも嘘でも、\nかまいません！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You're... Forgetting something important!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あなたは……っ、\n大切なことを忘れています！"
+    },
+    {
+      "name": "？？？",
+      "text": "？",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I...!\nI don't want that!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしは……っ！\nわたしが！　\nそれを望んでいません！"
+    },
+    {
+      "name": "？？？",
+      "text": "Why... does it matter what you think?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "どうして、\nペコさんに関係があるの？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Of course it matters!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あるに決まっています！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Because we're...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "だってわたしは！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "family that's surrounded the same dinner table!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──同じ食卓を囲む、\n家族ですから！"
+    },
+    {
+      "name": "？？？",
+      "text": "!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm really happy to know that you're so deeply hurt when we are!\nBut...\nyou're absolutely wrong to be feeling powerless about it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたちが傷つくことに、\nあなたが心を痛めてくれているのは\nとってもうれしいです！\nただ、\nそこに無力さを感じているのなら、\nそれは絶対に違う！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You've always fought right alongside us!\nEven if it wasn't perfect, you've saved us time and time again!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いつだってあなたは、\nわたしたちと一緒に戦ってきたじゃないですか！\n完璧じゃなくったって、\nわたしたちは何度もあなたに救われてきた！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You've done nothing but put your life on the line to protect us...!\nI won't call someone like that weak...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あなたに、\n命を懸けて守られてばかりでした……！\nそんなことができる人を、\n弱いとは言いません……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "{0}-kun, you're plenty strong!\nBut you can't measure that strength as just power!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くんは十分に強いんです！\nでもその強さは、\n単純な力で測れるものじゃありません！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If you did manage to get hold of this big power, what would happen?\n...I'm sure... you'd start fighting alone.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あなたがもし、\nこの大きな力を手に入れたとして、\nそれでどうなりますか？\n……きっと、\n一人で戦おうとしますよね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You'd be fighting to protect us, with a power that destroys your body.\n...And you're telling us to just watch you do that!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "自分の体を壊すような力で、\nわたしたちを守るために戦う。\n……それを、\nわたしたちに見ていろっていうんですか！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "{0}-kun.\n...Just like you always have.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "{0}くん。\nいつものように。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "──Please, lend me your strength.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──わたしに、\nあなたの力を貸してください。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Are you afraid of using your power? Or maybe you're afraid of it\nhurting me? But, you don't have to be afraid of your own power.\nYour power isn't about wielding a strong power.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "力を使うのが怖いですか？　\nそれとも、\nわたしがその力で傷つくのが？\nでも、\n自分の力を恐れる必要なんてないんです。\nあなたの力は、\nこんな風に\nただ強い力を振りかざすものじゃありません。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The power to form bonds with another.\nThe power to grab hold of the hands you've formed bonds with.\nThat is what your power is!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "誰かと心を通わせる力。\n絆を結んだ人と、\n手を取り合う力。\n──それが、\nあなたの力のはずです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Don't take that gentle power to forge bonds...\nand tie yourself up with it.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "誰かと絆を結ぶ優しい力を、\nあなただけを縛るものには、\nしないでください。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If... you can't believe in yourself right now.\nPlease believe in me.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "今、\nもし、\n自分が信じられないのなら。\n──わたしを信じてください。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If even then you're afraid...\nremember all the friends you've adventured with...\nand the many laughs you've had with friends.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それでも怖ければ、\n今まで一緒に旅してきた仲間のことを、\nたくさん笑いあってきた友達のことを、\n思い出すんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm sure that'll support your heart.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "きっとそれが、\nあなたの心を支えてくれる。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Try closing your eyes, and listen carefully.\nI'm know you'll hear it.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "目を閉じて、\n耳を澄ませてみてください。\nきっと聞こえるはずです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The gentle voice of that important, reassuring, and reliable person...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "頼もしくて心強い、\n大切な人たちの、\n優しい声が……！"
+    },
+    {
+      "name": "？？？",
+      "text": "-up!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──い！"
+    },
+    {
+      "name": "？？？",
+      "text": "-ke up!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──さいよ！"
+    },
+    {
+      "name": "？？？",
+      "text": "-ke up already, you sleepyhead!!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──っさと起きなさいよ、\nこのねぼすけーーーーー！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...That's a little different from the gentle voice I had in mind.\nBut you heard it, right? ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……わたしが思ってた優しい声とは\nちょっとだけ違いましたけど。\n聞こえましたよねっ♪"
+    },
+    {
+      "name": "？？？",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っ\n……！"
+    },
+    {
+      "name": "？？？",
+      "text": "You can't handle it.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ダメだよ。\n使いこなせない。"
+    },
+    {
+      "name": "？？？",
+      "text": "You alone can't handle the power that I have now.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "今の僕の力はもう、\nペコさんだけじゃ、\n受け止められないよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Maybe you're right.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……かも、\nしれませんね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I know I can't.\nI can't alone, and you can't either.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "きっとだめです。\nわたしだけでも、\nあなただけでも。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And to do that...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そのために──"
+    },
+    {
+      "name": "Narration",
+      "text": "Pecorine readies her sword, facing forward.\nJust then, on the other side...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "前を向き、剣を構えるぺコリーヌ。\nその時、向こう側では──"
+    }
+  ]
+}

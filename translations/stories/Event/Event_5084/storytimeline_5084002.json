@@ -1,0 +1,992 @@
+{
+  "title": "\"This\" World",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} is taken aback by the unfamiliar scenery.\nIt was then that a desperate Pecorine appeared before him.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "見たことのない景色で目覚め、戸惑う{0}。\nそこに現れたのは、必死な様子のペコリーヌであった。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's me, Pecorine!\nYou recognize me, right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしです！\nペコリーヌです！\n分かりますよね……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You remember, right?\nKyaru-chan, Kokkoro-chan, Sheffy-chan,\nall of us back at Landosol, we...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "憶えてますよね！？\nキャルちゃん、\nコッコロちゃん、\nシェフィちゃん、\nランドソルでわたしたちは──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Oh, good...!\nYou're really {0}-kun, right?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っ、\nよかった……！\nやっぱり、\n{0}くんなんですね？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This is... \"Reality,\" isn't it?\nI was sleeping at the Royal Castle bedroom and\nI suddenly woke up in a place I'd never seen before...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ここって……\n『現実』ってやつですよね？\n王宮の寝室で寝ていたはずなのに、\n目が覚めたらいきなり\n全然知らない場所で……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Could we have... returned?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "もしかしてわたしたち……\n帰ってきてしまったんでしょうか。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What makes you think that?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "どうしてそう思うんですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Everyone doesn't know about Landosol?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……みんなが、\nランドソルのことを知らない？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I see, that does sound unnatural...\nWhich means, this really is a dream?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "なるほど、\n確かにそれは不自然ですね……\nとなると、\nやっぱりこれは夢？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If this is the inside of a dream, why are we...?\nI don't have a clue what's going on...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "これが夢の中だとしたら、\nどうしてわたしたちが……？\n分からないことだらけです……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "For now, let's find a way to get back to Landosol!\nJust finding you makes me feel like things'll turn out just fine!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "と\nにかく、\nランドソルに戻る方法を探しましょう！\nあなたが見つかっただけで、\n何とかなる気がしてきました！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'd felt so hopeless up until now.\nThere we people I knew... or, people who looked like them,\nbut they acted like they had no idea who I was.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "さっきまで\n本当に心細かったんです。\n知ってる人……\nによく似た人を見かけて話しかけてみても、\n全然知らないって顔されちゃって。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I wonder what everyone at Landosol is up to now...?\nWe're probably worrying them.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ランドソルのみんなは、\n今頃どうしてるんでしょうか……\nきっと\n心配させちゃってますよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Wait, what happened to our bodies!?\nYou think they're just lying there asleep?\n...My stomach's definitely growling there...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……そういえば\nわたしたちの体って\nどうなってるんでしょう！？\nやっぱり\n眠ったままって感じなんですかね？\nうぅ……\nわたし、\n絶対おなか鳴らしちゃってますよ～……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "And you...\nYou've got Kokkoro-chan and the others with you, so you'll be fine.\nI'm sure everyone's doing whatever they can for you!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あなたは……\nコッコロちゃんたちがいるから\n大丈夫ですよね。\nきっとみんな、\nあなたのために\n色々頑張ってくれてるはずです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wh-What's wrong? Are you not feeling well?\nBe careful, we don't know a thing about this place, it's be trouble if you fell sick!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ど、\nどうかしたんですか？　\n気分でも悪いんですか？\n気をつけてくださいね、\nこんな右も左も分からない場所で体調を崩しちゃ\n大変ですからねっ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Mhhm...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……ん～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Still, this world is so drastically different from Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それにしてもこの世界、\nやっぱり\nランドソルとはまるで違いますよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "The shapes of buildings, the clothes people wear...\nSomehow, the smell of the air...\nIt all feels different.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "建物の形も、\n周りの人が着てる服も、\nなんだか\n空気の匂いも……\n違う気がします。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I was surprised back when we were at that viewing platform-like place,*\nbut I'm even more surprised seeing these up close.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "前に\n展望台っぽい場所から見た時も驚きましたけど、\nこうして近くで見ると、\nもっとビックリです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "If we weren't in this confusing situation,\nI would've enjoyed some sightseeing with you...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "こんなよく分からない状況でなければ、\nあなたとゆっくり見物したいんですけどね……"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Oh?\nCould that be you, my Lord, standing right there?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "──おや？\nそこにいらっしゃるのは……\n主さまですか？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Kokkoro? Hehe...\nThat is quite an endearing way to address me,\nbut my name is Kokoro—Kokoro Natsume.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "コッコロ？\nふふっ、\nなんだかかわいらしい呼び方ですが、\nわたくしの名前は\nこころ。\n棗こころでございますよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kokkoro-chan!!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "コッコロちゃ～～～～～ん！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Wh-What is it that you need from me?\nMy Lord, who might this lady be?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "わぷっ！？\nな、\nなんなのですか！？\n主さま、\nこの方は一体……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah... So you don't know who I am...\nBut I can tell! After all,\nI've already seen \"this\" Kokkoro-chan before.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あう……\nわたしのことは\n知らないんですね……\nでも、\n分かります！\nこっちのコッコロちゃん、\n前に見たことがありますよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "\"Kokoro Natsume\", is it?\nKokkoro-chan with long hair is super cute as always! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ナツメ、\nコッコロちゃんですよね！\n髪の長いコッコロちゃん、\n相変わらず超かわいいです☆"
+    },
+    {
+      "name": "Kokoro",
+      "text": "You are aware of who I am?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "わたくしのことを\nご存じなのですか……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, don't worry about that.\nOh but, you're as comfortable to hug as always...!\n*Hug* *Hug*",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ、\n気にしないでください。\nあぁでも、\n抱き心地はコッコロちゃんのまま……♪\nぎゅうぎゅう♪"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Umm, my Lord...\nIf it is not too much trouble,\ncould you kindly ask this person to step away from me?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "あの、\n主さま……\nできればこの方に、\n離れるよう仰っていただけると\n助かります……"
+    },
+    {
+      "name": "？？？",
+      "text": "……なにかしら、\nあれ。\n小さい女の子が、\n金髪の大きな女の人に\n抱きしめられてる？\nそばにいる男の子は……\nときどき\n私の話を聞いてくれる子……？　",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……なにかしら、\nあれ。\n小さい女の子が、\n金髪の大きな女の人に\n抱きしめられてる？\nそばにいる男の子は……\nときどき\n私の話を聞いてくれる子……？　"
+    },
+    {
+      "name": "？？？",
+      "text": "More importantly, the little girl seems troubled...\nShould I call the cops?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "それより\n小さい女の子は、\n困ってるように見えるけど……\n通報した方がいいのかしら。"
+    },
+    {
+      "name": "紫布菜",
+      "text": "えっ！？　\nうそ、\nこっちに話しかけてきた……！？　",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "えっ！？　\nうそ、\nこっちに話しかけてきた……！？　"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Sheffy...?\nWho is that?\nThat's not what my name is...",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "シェフィ……？\n誰ですかそれ、\n私はそんな名前じゃ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?! This girl is Sheffy?!\nNow that you mention it, she does give off a similar air.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えええっ！？\nこの子、\nシェフィちゃんなんですか！？\n確かに、\nなんとなく\n雰囲気がシェフィちゃんっぽい気がします！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "To think we would meet Sheffy-chan right after Kokkoro-chan!\nThis must be destiny!\nNow then, in appreciation of our fated meeting, *hug*",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まさかコッコロちゃんに続いて\nシェフィちゃんにも会えるなんて！\nこれはもう\n運命ですね！\nさぁ、\n運命の出会いに感謝してっ、\nぎ\nゅう～♪"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Mgh, Why me too...? What's with this person?\nShe acts so over-familiar...\n...And she's so soft.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "むぐっ、\nなんで\n私まで……！？\n何なのこの人、\n馴れ馴れしくて、\n柔らかい……！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Indeed, it felt like being enveloped in clouds.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "確かに、\n雲に包み込まれるような心地でございました。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Now that we've come this far, there's one more fated encounter I want...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ここまで来ると、\nあと一人。\n運命的な出会いを果たしたいところですが～……"
+    },
+    {
+      "name": "Kiruya",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahhhh!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ～っ！"
+    },
+    {
+      "name": "Kiruya",
+      "text": "!?\nEh, what...?",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "！？\nえっ、\nなに……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kyaru-chan! Kyaru-chan! Kyaru-chan! Kyaru-chan! Kyaru-chan!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃんキャルちゃんキャルちゃんキャルちゃんキャルちゃ～ん！"
+    },
+    {
+      "name": "Kiruya",
+      "text": "Gueh?! Hey, what is wrong with you, hugging people out of nowhere?\nThe hell are you, some freak?\nYou're a perverted creep, aren't you?*",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "ぐえっ！？\nちょっ、\nなんなのよ、\nいきなり抱きついてきたりして！\n誰あんた！？　\n変質者！？　\nそうか、\nへんたいふしんしゃね！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You're Kyaru-chan, right?\nI remember this Kyaru-chan-ness very well!\nThere's no doubt about it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃんですよね！\nバッチリ覚えてますよこのキャルちゃんっぽさ！　\n間違いありません！"
+    },
+    {
+      "name": "Kiruya",
+      "text": "Kyaru?\nWho the hell is that? I'm Kiruya!\nIt may sound similar, but you got the wrong person!",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "キャル！？\n誰よそれ、\nあたしは希留耶！\nちょっと似てるかもしんないけど、\n人違いよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "As I thought, this Kyaru-chan doesn't know me either...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うぅ……\nやっぱり、\nわたしのことを知らないキャルちゃんなんですね……"
+    },
+    {
+      "name": "Kiruya",
+      "text": "Can you stop saying bullshit and let go of me?\nStop being so damn clingy!",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "わけ分かんないこと言ってないで離してくれない！？\nベタベタすんな～～～～～！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This level of tsun...!\nIt's Kyaru-chan from when we first met her!\nBack when she was full of tsun! How nostalgic!☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "このツンツン具合は……！\nわたしたちと出会ったばかりのキャルちゃん……！\nツンツン成分盛り盛りだった頃、\nなつかしいです☆"
+    },
+    {
+      "name": "Kiruya",
+      "text": "The hell have you been going on about?\nI told you to get off, so get the fuck off!\nAnd why do you look so happy?!",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "あんたさっきからなんなの！？\n離れてって言ってるんだから離れなさいよ！\nってかなんでうれしそうなのよ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Of course I'm happy!~♪\nEven though none of you know me,\nwe still have the Gourmet Guild together.☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "うれしいにきまっているじゃありませんか～♪\nわたしのことを知らないとはいえ、\nこうして【美食殿】が揃ったんですから☆"
+    },
+    {
+      "name": "Kiruya",
+      "text": "Gourmet Guild?\nStop saying random shit and get the hell off!\nAnd you! Don't just stand there, do something about her!",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "【美食殿】？\nわけ分かんないこと言ってないで離れろ！\nあんたも！　\nボーっと突っ立ってないで\nこいつなんとかしてよ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe...☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ……☆"
+    },
+    {
+      "name": "Kiruya",
+      "text": "Ah geez!\nI'll seriously kill you!",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "あぁもう！\nぶっ殺すわよ～～～～～！？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "So, my Lord...\nWhat seems to be the matter?\nYou seem rather troubled by something...",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "それで、\n主さま……\n一体どうなされたのです？\n何か、\nずいぶんとお困りのようですが……"
+    },
+    {
+      "name": "Kokoro",
+      "text": "...?\nI am sorry, my Lord.\nI apologize for being of no use, but I do not know at all.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "……？\nすみません、\n主さま。\nお役に立てず申し訳ございませんが、\nまったく存じ上げません。"
+    },
+    {
+      "name": "Shifuna",
+      "text": "What is that?\nIt's the first I've heard of that word, let alone know what it is...",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "なんなのそれ？\n知ってるかって言われても、\n今初めて聞く言葉だけど……"
+    },
+    {
+      "name": "Kiruya",
+      "text": "I don't know what the hell that is.",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "知らないわよ\nそんなの。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It seems the three of them don't know after all.\nSo we're the only ones with our memories?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やっぱり、\n３人とも\n知らないみたいですね。\n記憶を持ってるのは、\nわたしとあなただけ……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'm understanding this less and less...\nWhat kind of place is this?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ますます分かりません……\nここは一体、\nどういう場所なんでしょう……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Still, everything will be fine!\nAfter all, the Gourmet Guild is back together again!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "でも！　\nきっと大丈夫です！\nこうして\n【美食殿】のメンバーが勢ぞろいしたんですから！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I am sorry for the sudden request but,\nKokkoro-chan, Sheffy-chan, Kyaru-chan...\nIf you do not mind, could you lend us a hand?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いきなりな話ですみませんけど、\nコッコロちゃん、\nシェフィちゃん、\nキャルちゃん！\nもしよければ、\nわたしたちに\n手を貸していただけませんかっ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm... It's quite hard to explain, but...\nWe need to get to somewhere called Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっと……\n説明するのが\nとっても難しいんですけど、\nわたしたち、\nランドソルって場所に行かなきゃいけないんです！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Of course.\nIf my Lord is in trouble,\nthen I shall do anything to aid you.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "もちろんでございます。\n主さまがお困りのようでしたら、\nわたくしは\nなんなりとお手伝いいたします。"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Well, if it's just helping...\n...This can also serve as rehabilitation.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "まぁ、\n手伝うくらいなら。\n……リハビリにも\nなるしね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hurray!\nThen let's all-",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やったぁ♪\nじゃあみんなで──"
+    },
+    {
+      "name": "Kiruya",
+      "text": "Hold the fuck up.\nI'm not doing anything.",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "待ちなさいよ。\nあたしは、\nゴメンよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Kyaru?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……キャルちゃん？"
+    },
+    {
+      "name": "Kiruya",
+      "text": "I told you my name is Kiruya!\nI don't know who you have me confused with,\nbut I loathe people like you.",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "あたしは希留耶だって言ってるでしょ。\nあんたがどこの誰と勘違いしてるのか知らないけど、\nあたし、\nあんたみたいなやつって苦手なの。"
+    },
+    {
+      "name": "Kiruya",
+      "text": "You go prancing about like you were raised in some sheltered bubble.\nYou've probably lived your life without any pain,\nsurrounded by kind people. People like you...get on my nerves.",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "いかにも温室で育てられましたって感じで\nヘラヘラしちゃってさ。\nなんの苦労もなく、\n優しい人に囲まれて生きてきたんでしょ？\nそういうの……\n癇に障るのよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ……"
+    },
+    {
+      "name": "Kiruya",
+      "text": "I'm off now.\nBye bye.\nSorry for ruining your day.",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "……あたしはもう行くわ。\nバイバイ。\n嫌な思いをさせてごめんなさいね。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kiruya",
+      "text": "...What's with that look?\nYou scared of me?",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "……何よその目。\nあたしが怖い？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "No...\nIt's just... I wonder why...\nI feel worried for you...",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "いいえ……\nただ、\nなぜでしょう。\nあなたのことが、\n心配で……"
+    },
+    {
+      "name": "希留耶",
+      "text": "…っ！\nガキんちょに心配されるなんて、\nあたしもいよいよだわ。",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "…っ！\nガキんちょに心配されるなんて、\nあたしもいよいよだわ。"
+    },
+    {
+      "name": "Kiruya",
+      "text": "I must be fucking done for if some kid is worrying about me.\nIt's okay, you don't have to worry about me.\nNo matter what, don't become someone like me.",
+      "choice_data_list": [],
+      "orig_name": "希留耶",
+      "orig_text": "いいのよ、\nあたしのことなんか心配しなくて。\n子どもは子どもらしく、\nなにも考えずに生きなさい。\n……あたしみたいにだけは、\nなっちゃダメよ。"
+    },
+    {
+      "name": "Shifuna",
+      "text": "That was quite the prickly person.\nStill... that expression of hers...\nIt feels like what I was like when I first injured my leg.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "随分、\n尖った感じの子だったわね。\n……でも\nあの表情……\nなんとなく、\n私が足を怪我したばかりの頃に\n似てる気がするわ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah, yes... I'm fine.\nIt just means that even if she looks the same,\nthat isn't the same Kyaru-chan that I know.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ……\nはい、\n大丈夫です。\nあの子はキャルちゃんに見えても、\nわたしが知ってるままのキャルちゃんじゃない、\nってことですよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I thought that no matter what situation I found myself in, as long as my friends...\n...As long as everyone from the Gourmet Guild were with me, things would work out...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "どんな状況に陥っても、\n仲間がいれば……\n【美食殿】のみんながいれば、\nなんとかなるって思ってましたけど。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "But this is not the world I'm familiar with.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "やっぱりここは、\nわたしがよく知る、\nあの世界ではないんですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's not Landosol, where I formed all those bonds.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "たくさんの絆を結んできた、\nランドソルじゃない。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ahaha...\n...I'm feeling a bit lonely now.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あはは……\nちょっぴり、\n寂しくなっちゃいました。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Lady Pecorine...",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "ペコリーヌさま……"
+    },
+    {
+      "name": "Shifuna",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's get our bearings back and get going.\nKokkoro-chan and Sheffy-chan...\nAh... That's not what your names are.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "気を取り直して、\nそろそろ行きましょうか。\nコッコロちゃんとシェフィちゃん……\nあ、\n名前、\n違うんでしたね。"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Sheffy is fine.\nIf that's what's easier for you to call me, Pecorine-san.\nIt's like a cool codename.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "いいわよ、\nシェフィで。\nあなた……\nペコリーヌさんが呼びやすいのなら。\n……なんだか\n格好いいコードネームみたいだし。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "I am also fine with Kokkoro.\nI'm fond of the way it sounds.\nI look forward to working with you, Miss Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "わたくしも、\nコッコロで大丈夫ですよ。\nふふっ、\n響きが気に入ってしまいました。\nよろしくお願いいたします、\nペコリーヌさま。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Both of you...!\nThank you very much♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "二人とも……！\nありがとうございます♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's make it back to our world for sure!\nTo that world where we spent our time!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "必ず、\n帰りましょう。\nわたしたちが過ごした、\nあの世界へ！"
+    },
+    {
+      "name": "Shifuna",
+      "text": "──Or so you declared so inspiringly.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "──なんて、\n格好よく決めてたのに。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I want to eat this next!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "次はこれ！\nこれ食べてみたいです！"
+    },
+    {
+      "name": "Clerk",
+      "text": "Welcome~♪",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "いらっしゃいませ～♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm... I would like this cake!\nEvery kind that's on your menu! ☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ええと、\nこのケーキください！\nメニューに載ってるの全種類☆"
+    },
+    {
+      "name": "Clerk",
+      "text": "Huh-?!\nE-Every kind...?!",
+      "choice_data_list": [],
+      "orig_name": "店員",
+      "orig_text": "えっ！？\nぜ、\n全種類ですか……！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい♪"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Miss Pecorine... certainly eats a lot.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "ペコリーヌさま……\nものすごい量をお食べになりますね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Whatever you do, must be done on a full stomach!♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "何をするにも、\nまずはお腹を満たしてからです♪"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Are you going to be fine... money-wise?",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "大丈夫なの？　\nお金とか……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Not a problem!\nThis is money, right?\nI don't know why, but I have a bunch of it!☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "問題ありません！\nお金って\nこれですよね？\nどうしてかは分かりませんが、\nわたし、\nたくさん持ってます☆"
+    },
+    {
+      "name": "Kokoro",
+      "text": "It's a stack...!\nI've never seen wads of cash actually stacked together before...!",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "束でございます……！\nわたくし、\nお札が束になっているところを初めて見ました……！"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Could Pecorine-san be... really rich?",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "もしかして\nペコリーヌさんって、\n相当なお金持ち……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "*sigh* My stomach's satisfied!♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はぁ～、\n満腹満腹♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This world has so many delicious food we've never seen before,\nand monster don't show up here, it's so peaceful~♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "この世界は見たことのない美味しいものがたくさんありますし、\n魔物も出てきませんし、\n平和ですね～♪"
+    },
+    {
+      "name": "Shifuna",
+      "text": "...We ended up spending the whole day walking and eating.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "……結局、\n食べ歩きで一日が終わっちゃったわ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe♪ When everyone gets together, I can't help it...\nIf Kyaru-chan were here, I'd have eaten even more. Next time,\nwe should absolutely bring Kyaru-chan and all have a meal together!☆\n\n",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ♪　\nみんなが揃ってるとつい……\nここにキャルちゃんがいれば、\nもっと食べられましたよ。\n次こそはキャルちゃんも一緒に、\nみんなでごはん、\n食べたいですね☆"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Hehe.\nMiss Pecorine, you seemed somewhat depressed earlier...\nso I'm pleased to see you smile.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "ふふ。\nペコリーヌさま、\n少し前までは\nどこか落ち込んだ様子でしたので……\n笑顔が見られて\nよかったです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I've got a full stomach, so my smile's full too!♪\nStarting tomorrow, I'll give my all into finding a way back to Landosol!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "おなかいっぱいで、\n笑顔もいっぱいです♪\n明日からは、\n張り切ってランドソルに戻る方法を探しますっ！"
+    },
+    {
+      "name": "Shifuna",
+      "text": "So we'll be helping tomorrow as well?\nWell, that's fine.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "また明日も協力するのね……\nまぁいいけど。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Then, let us meet here again tomorrow.\nAs for the time... we will meet the same time today.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "ではまた明日、\nこの場所でお会いすることにいたしましょう。\n時間は……\n今日と同じくらいで。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Sure! See you tomor...\nWait, aaah!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい！\nまた明日……\nって、\nあーっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I-I just realized something terrible!\nWhat should I do!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "たっ、\n大変なことに気づいてしまいました！\nどうしましょうっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's see, I didn't try everything on that hamburger shop's menu,\nso I'd like to go there tomorrow.\nNo, that's not it!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですね、\nあのハンバーガーショップのメニューはまだ\n全部食べてませんので、\n明日行きたいところではあります。\nって、\nそういうことじゃないんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Where do we go to sleep!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたち、\nどこで寝ればいいんですか！？"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Where...? What about your house?",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "どこで……\nって、\n家は？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Aah... Umm... Well...\nThere are some difficult to explain circumstances...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ～、\nえっと、\nその～、\n説明しにくい事情がありまして……"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Hmm.\nMy Lord and Miss Pecorine have nowhere to spend the night?\nThen, would you like to come to my place?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "ふむ。\n主さまもペコリーヌさまも、\n夜を明かす場所がないのですね。\nでは、\nわたくしの自宅へといらっしゃいますか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Is it really okay!?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いいんですかっ！？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "It's a bit of peculiar place...\nBut as long as you don't enter the important areas,\nit should be fine.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "少し、\n特殊な場所ではあるのですが……\n重要な場所にさえ立ち入らなければ、\n大丈夫ではないかと。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "You are my my Lord.\nPlease ask anything of me♪",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "あなたはわたくしの主さま。\n何なりとお申し付けくださいませ……♪"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Then, see you tomorrow.\n{0}, Pecorine-san, Kokkoro-san.",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "じゃあ、\nまた明日ね。\n{0}、ペコリーヌさん、\nコッコロさん。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes! See you tomorrow!\nLet's all do our best♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はいっ、\nまた明日！\nみんなで頑張りましょうっ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "The delight of having reliable allies in unfamiliar land.\nPecorine waves smiling, while deep down holding hope for tomorrow.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "記憶にない場所でも、頼れる仲間がいる喜び。\nペコリーヌは笑顔で手を振り、明日への希望を胸に抱いていた。"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Now then, we should take our leave as well.\nLet us go to the station and take the train from there.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "では、\nこちらも参りましょうか。\nそちらの駅から、\n電車で移動いたしましょう。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "A station... A train...\nThere's really a lot of different ways to travel.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "駅……\n電車……\n色んな移動方法があるんですね～"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe, I'm a little excited to ride one♪ I wonder how-",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ、\n乗るのがちょっと楽しみです♪\n一体どんな──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──え？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Nn... huh...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ん……\nあれ……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's bright... Morning...?\nIt was night just now, right...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "明るい……\n朝……？\nさっきまで、\n夜でしたよね……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Right...?\nHuh? Where's Kokkoro-chan?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ですよね……？\nあれっ？　\nコッコロちゃんは？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm...\nAh! There! Kokkoro-chaaan!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えっと……\nあ！　\nいました！\nコッコロちゃ～～～ん！"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Kokkoro? Hehe...\nThat is quite an endearing way to address me,\nbut my name is Kokoro—Kokoro Natsume.",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "コッコロ？\nふふっ、\nなんだかかわいらしい呼び方ですが、\nわたくしの名前は\nこころ。\n棗こころでございますよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "... Huh?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……え？"
+    },
+    {
+      "name": "Kokoro",
+      "text": "Oh?\nCould that be you, my Lord, standing right there?",
+      "choice_data_list": [],
+      "orig_name": "こころ",
+      "orig_text": "──おや？\nそこにいらっしゃるのは……\n主さまですか？"
+    },
+    {
+      "name": "Shifuna",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ah... Sheffy-chan! It's me! Pecorine!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あっ……\nシェフィちゃん！\nわたしです！　\nペコリーヌです！"
+    },
+    {
+      "name": "Shifuna",
+      "text": "Sheffy...?\nWho is that?\nThat's not what my name is...",
+      "choice_data_list": [],
+      "orig_name": "紫布菜",
+      "orig_text": "シェフィ……？\n誰ですかそれ、\n私はそんな名前じゃ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あ……れ……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What is... this...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "なんですか、\nこれ……？"
+    }
+  ]
+}

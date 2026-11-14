@@ -1,0 +1,672 @@
+{
+  "title": "Yui Episode 12",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Yui is asked to go shopping by her childhood friend, Makoto.\nShe makes a shopping list while they chat.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──ユイは幼なじみのマコトに買い出しを頼まれ、\n彼女と話しながら買う物をリストにまとめていた。"
+    },
+    {
+      "name": "Yui",
+      "text": "Makoto, are these all the groceries you want me to buy?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "マコトちゃん。\n買ってきて欲しい食材は、\nこれで全部だよね？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yeah, thanks.\nOh yeah, you should ask [i]him[/i] to go with you. I hear there's a gang of\nbandits haunting the highway these days, so it's a good excuse, right?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ、\nよろしくな。\nそうだ。\nどうせならアイツと一緒に行ってこいよ。\n最近盗賊団が街道に出るらしいから、\nちょうどいいだろ？"
+    },
+    {
+      "name": "Yui",
+      "text": "Oh, really...?\n...Then I might as well invite him to tag along.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "そうなんだ……\n……じゃあ、せっかくだし\n誘ってみようかな。"
+    },
+    {
+      "name": "Makoto",
+      "text": "What's up with you today?\nYou're unusually enthusiastic.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "どうしたんだよユイ。\n珍しく乗り気になったな。"
+    },
+    {
+      "name": "Yui",
+      "text": "You think so?\nIt's just that I want to make lots more memories with Mr. Knight...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "そう？　\nわたしはただ、\n騎士クンとの思い出を\nもっとたくさん作りたいなって思って……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Is that so...? That's the spirit, Yui.\nNow, get going!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そっか……\nいい顔してるぜ、ユイ。\n行ってきな！"
+    },
+    {
+      "name": "Yui",
+      "text": "Thanks, Makoto. Off I go.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ありがとう、マコトちゃん。\n行ってきます。"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight, thanks for always helping me out.\nIt's not just Makoto's groceries I have to get,\nbut the whole guild's, so I can't do it alone.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン。\nいつもありがとう。\nマコトちゃんから頼まれた分もあるんだけど、\nギルドのみんなの食材もあるから、\n一人じゃ大変で──"
+    },
+    {
+      "name": "Yui",
+      "text": "Heheh. These days I'm able to converse with him normally.\nIn the past, I was so nervous that I couldn't speak to him at all...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ふふっ、\n最近は騎士クンと\n普段通りお話できてる。\n昔は緊張して、\n全然話せてなかったのに……"
+    },
+    {
+      "name": "???",
+      "text": "Guaaahhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ぐあああああっ！！"
+    },
+    {
+      "name": "Yui",
+      "text": "Was that... a scream just now?",
+      "choice_data_list": [
+        "Let's head to where it came from!"
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "今の……\n悲鳴だったよね？"
+    },
+    {
+      "name": "Man",
+      "text": "Everybody, run! I'll take care of them...!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "みんな逃げろ！　\nこいつらは俺が……！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "What heroic garbage are ya tryin' to pull?\nJust hand over whatcha got!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの１",
+      "orig_text": "そんな構え方で俺たちに勝てると思ってんのか？\n大人しく荷物と金を渡せ！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "What's it gonna be? Yer money, or yer life!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "そうすりゃ\n命だけは助けてやる！"
+    },
+    {
+      "name": "Woman",
+      "text": "I knew I should've stayed at home...",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "なんでこんなことに……"
+    },
+    {
+      "name": "Yui",
+      "text": "Those people over there are the bandits Makoto was talking about...",
+      "choice_data_list": [
+        "Protect the people from the bandits."
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "あの人たち、\nマコトちゃんがいってた盗賊団だ……"
+    },
+    {
+      "name": "Yui",
+      "text": "Let me help!\nEveryone, please get out of here! We'll handle this!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わたしも一緒に！\nみなさん、逃げてください！　\nここはわたしたちが！"
+    },
+    {
+      "name": "Bandit 1",
+      "text": "Who the hell're they? They still got backup?\nYou, go mess 'em up! Let 'em get away an' I'll eat yer eyes fer dinner!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの１",
+      "orig_text": "なんだアイツら……\nまだ連れがいたのか。\nおい、\n捕まえてこい！　\n逃げるなら容赦はするな！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "I'll sort 'em out!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "まかせろ！"
+    },
+    {
+      "name": "Yui",
+      "text": "I'll stop these cretins with my magic, so you go ahead and save the\npeople who are being attacked!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "魔法で足止めするから、\n騎士クンは先に\n襲われてる人たちを！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Not so fast!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "させるかっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Urk!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "きゃっ！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Ya think ya can restrict my movements with magic?\nPathetic! Hyaaa!",
+      "choice_data_list": [
+        "Block the attack on Yui."
+      ],
+      "orig_name": "ならずもの２",
+      "orig_text": "魔法で動きをおさえようって考えか？\n甘ぇよ！　\nおらぁっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Heh. Tryin' to be a knight in shinin' armor, protectin' the princess?",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "へっ、\nお姫様を守るナイト様のつもりか？"
+    },
+    {
+      "name": "Bandit 3",
+      "text": "Havin' trouble holdin' yer sword?! Hurry up and take his head off!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの３",
+      "orig_text": "なに手こずってんだ！　\nさっさと終わらせるぞ！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "I'll admit, yer no slouch...\nBut I wonder how long ya can keep it up!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "少しはやるじゃねぇか……\nだが\nいつまでそうしてられるだろうなっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight, get back! I'll block his attacks with magic!\nAt this rate, you're...!",
+      "choice_data_list": [
+        "Protect Yui."
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン下がって！　\n攻撃は魔法で防ぐから！\nこのままだと騎士クンが……！"
+    },
+    {
+      "name": "Bandit 3",
+      "text": "Like hell I'd let that girl hidin' behind ya cast spells!\nI'll put an end to this!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの３",
+      "orig_text": "後ろの女に\n魔法なんぞ使わせるわけねぇだろ！\nこれで終わりだっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Ah...!",
+      "choice_data_list": [
+        "I'll protect you, no matter what."
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "ああっ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン……！"
+    },
+    {
+      "name": "Bandit 3",
+      "text": "Tsk! You're one stubborn bastard...!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの３",
+      "orig_text": "ちっ！　\nしぶとい野郎だ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "It's always like this... I'm always being protected by him...\nWhether it's in my dreams or in real life! ...I have to change!\nI don't want him to get hurt anymore than he already has been...! ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "いつもこうだ……\nわたしは、\n騎士クンに守られてばっかり……\n夢の中でも、\n今だって……！　\n……変わるんだ！\n騎士クンにはこれ以上、\n傷ついて欲しくない……！　"
+    },
+    {
+      "name": "Yui",
+      "text": "I won't... hesitate any longer!\nI don't want to lose the person I love!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "わたしは……\nもう迷わない！\n大好きな人を、\n失いたくないから！"
+    },
+    {
+      "name": "Yui",
+      "text": "Hold on, Mr. Knight... I'm going to save you!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "待ってて、騎士クン……\n今助けるね！"
+    },
+    {
+      "name": "Yui",
+      "text": "I've never used this magic before... but if I'm afraid,\nI'll never be able to protect the people I care about! That's why I...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "初めて使う魔法だけど……\nそんなことを怖がってたら、\n大切な人を守れなくなる……！　\nだから、\nわたしは……！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "Ya think ya can burn us to ashes, do ya?!\nCome an' have a go, if ya think yer hard enough!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "魔法でコイツごと焼き払う気か！\nやれるもんならやってみろ！"
+    },
+    {
+      "name": "Yui",
+      "text": "I'll unleash my power to support and protect Mr. Knight...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あの人を支え、\n守るための力を解き放つ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "O Light! Be the radiance of judgement that pierces the stars!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "光よ！　\n星をも穿つ、\n断罪の輝きとなれ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Goooo!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "いっけぇぇぇぇっ！！"
+    },
+    {
+      "name": "Yui",
+      "text": "Shooting Star!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "──シューティングスター！！！"
+    },
+    {
+      "name": "Bandits",
+      "text": "Waaaaaahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "ならずものたち",
+      "orig_text": "うわああああああっ！！"
+    },
+    {
+      "name": "Bandit 2",
+      "text": "No, it's not possible!\nIt's only targetin' us!",
+      "choice_data_list": [],
+      "orig_name": "ならずもの２",
+      "orig_text": "そんな馬鹿な！\n俺たちだけを、\n的確に──！"
+    },
+    {
+      "name": "Yui",
+      "text": "The power to make sure the people I care about don't get hurt is mine...\nThis is my full power...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "大切な人たちが\n傷つかなくていいようにする力……\nこれが\nわたしの全力だよ……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight! Are you okay?!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン！　\n大丈夫！？"
+    },
+    {
+      "name": "Yui",
+      "text": "That's a deep wound... Your pulse is getting weak!\nStay with me. I [i]will[/i] save you!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ひどい傷……\n鼓動が小さくなってる！\n待っててね。\n必ず助けるから！"
+    },
+    {
+      "name": "Yui",
+      "text": "Flowering Heal!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "フラワリングヒール！！"
+    },
+    {
+      "name": "Yui",
+      "text": "Even if it means sacrificing my own life...\nI'll give everything I've got so that Mr. Knight can live! ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "たとえ\n命を失ってもいい！\nわたしの全部を使って、\n騎士クンを救う！　"
+    },
+    {
+      "name": "Yui",
+      "text": "So make him open his eyes...\nI beg you...! ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "だから\n目を覚まして……\nお願い……！　"
+    },
+    {
+      "name": "Yui",
+      "text": "I've staunched the flow of blood...\nI'll take care of the bruises later...\nSo all that's left for now is to repair the laceration!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "出血は抑えられた……\n打撲は後回しにして、\n次は裂傷を塞がなきゃ！"
+    },
+    {
+      "name": "Yui",
+      "text": "You're going to be okay, Mr. Knight...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "もう大丈夫だからね、\n騎士クン……"
+    },
+    {
+      "name": "Man",
+      "text": "...Are you sure you don't need to come with us?",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "……私たちと一緒に行かなくていいんですか？"
+    },
+    {
+      "name": "Yui",
+      "text": "...I'm sure. We'll stay here until I've finished treating these wounds.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……はい。\nわたしたちは、\n治療が終わるまでここにいます。"
+    },
+    {
+      "name": "Man",
+      "text": "Okay, we'll get going then...\nThank you. Thank you ever so much...!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "では、\n私たちはこれで……\n本当に、\nありがとうございました……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Farewell...!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "さようなら～……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Have you come to? No need to worry anymore.\nAll of the bandits have been caught and are being taken back to the city.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……\n気がついた？　\nもう大丈夫だよ。\n盗賊の人たちは全員捕まえて、\n街に連れて行ってもらったの。"
+    },
+    {
+      "name": "Yui",
+      "text": "And I'm almost done with your medical treatment, so hold on two secs.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "治療もあと少しで終わるから、\nちょっとだけ待ってて。"
+    },
+    {
+      "name": "Yui",
+      "text": "...Even when you're gravely wounded, you come to my rescue.\nThank you. But the version of me who always needs your help\nwon't be here much longer.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……傷だらけになっても、\nわたしを守ってくれて、\nありがとう。\nもう守ってもらってばかりのわたしじゃ\nなくなるから。"
+    },
+    {
+      "name": "Yui",
+      "text": "From now on, I'll do my best to ensure that we can protect each other.\nYou can count on it.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "これからは騎士クンと、\nお互いに守り合えるように\n頑張るね。"
+    },
+    {
+      "name": "Yui",
+      "text": "...All right, I've completed your treatment.\nYou should be able to move now.",
+      "choice_data_list": [
+        "Thank you."
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "……はい、\n治療は終わり。\nもう動いても平気だよ。"
+    },
+    {
+      "name": "Yui",
+      "text": "Oh, don't worry about it.\nI just did what I could...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ううん、\n気にしないで。\nわたしにできることをやっただけだから……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Huh?\n...My eyes are welling up... What? Why...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……あれ？\n……涙が……\nあれ、\nあれ……？"
+    },
+    {
+      "name": "Yui",
+      "text": "It's so strange...\nThe tears just won't stop...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "おかしいな……\n全然、\n止まってくれない……"
+    },
+    {
+      "name": "Yui",
+      "text": "*sniff, sniff*...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うぅぅ……\nぐすっ……"
+    },
+    {
+      "name": "Yui",
+      "text": "*sniff*... Mr. Knight...\nI was so scared...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ぐすっ……\n騎士クン……\nわたし、\nずっと怖かった……"
+    },
+    {
+      "name": "Yui",
+      "text": "You were attacked so viciously...\nAnd you were down and out.\nI thought that was it—that you'd never move again...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あのまま攻撃されて……\n騎士クンが倒れたまま、\n動かなくなるんじゃないかって……"
+    },
+    {
+      "name": "Yui",
+      "text": "I was terrified...",
+      "choice_data_list": [
+        "Wipe Yui's tears."
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "怖かったよぉ……"
+    },
+    {
+      "name": "Yui",
+      "text": "Th-...\n...Thank you.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あ……\n……ありがとう。"
+    },
+    {
+      "name": "Yui",
+      "text": "Your hand is so warm...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クンの手、\nあったかい……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Is it my imagination, or is his face getting closer and closer...? ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……気のせいかな、\n騎士クンの顔が、\nどんどん近くなってる……？　"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士、\nくん……？"
+    },
+    {
+      "name": "Yui",
+      "text": "This is the first time we've locked eyes so close to each other...\nIt totally feels like we're about to kiss...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "こんなに近くで見つめ合うなんて、\n初めてだよ……\nまるでこのまま、\nキス\nしちゃいそうになるくらい……"
+    },
+    {
+      "name": "Yui",
+      "text": "...",
+      "choice_data_list": [
+        "Wait to see if her tears have stopped."
+      ],
+      "orig_name": "ユイ",
+      "orig_text": "ん……"
+    },
+    {
+      "name": "Yui",
+      "text": "...I'm so confused.\nI have no idea when I should open my eyes...! ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……どうしよう、\n目を開けていいタイミングが分かんない……！　"
+    },
+    {
+      "name": "Makoto",
+      "text": "Heeey! Yui!\nYou okay?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おーい！　\nユイー！\n大丈夫かー！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Uwehh?!\nAh! I-it's Makoto!\n...Ahem. Over here!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ふぇっ！？\nあっ！　\nマ、\nマコトちゃんだ！\n……こほん。\nこっちだよー！"
+    },
+    {
+      "name": "Makoto",
+      "text": "I was worried when I heard you got attacked by bandits!\nYou all right?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "盗賊団に襲われたって聞いて心配したぞ！\n無事か？"
+    },
+    {
+      "name": "Yui",
+      "text": "Yeah! I'm totally fine!\n...Mr. Knight was protecting me.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "うん！　\nわたしは大丈夫！\n……騎士クンが、\n守ってくれたから。"
+    },
+    {
+      "name": "Makoto",
+      "text": "I see...!\nGood job, {0}!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そうか……！\nよくやったな、{0}！"
+    },
+    {
+      "name": "Yui",
+      "text": "...If Makoto hadn't just shown up,\nI wonder if Mr. Knight and I...\nwould've ended up kissing... ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……もしもマコトちゃんがこなかったら、\nあのままわたし、\n騎士クンと……\nキス、\nしちゃってたのかな……？　"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yui? You sure you're okay?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ユイ？　\nホントに大丈夫か？"
+    },
+    {
+      "name": "Yui",
+      "text": "Huh?!\nAh, yeah! Nothing wrong at all!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっ！？\nあっ、うん！　\n大丈夫だよ？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Good to hear. I'm glad you're fine.\n...Did you two get along well?\nI bet you made some good memories.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ならいいんだ。\nとにかく無事で良かったよ。\n……ちゃんと仲良くなれたのか？\n思い出、\n作ってきたんだろ？"
+    },
+    {
+      "name": "Yui",
+      "text": "Memories... Definitely. But it's not like anything good happened,\nso I wouldn't exactly call them good memories...\nBut today was certainly unforgettable.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "思い出……\nなのかな。\nいいことがあったわけじゃないから、\nそう言っていいのかは分からないけど……\n今日のことは、\nずっと忘れられないと思う。"
+    },
+    {
+      "name": "Yui",
+      "text": "Thank you, Makoto, for giving me the courage I needed.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ありがとう、\nマコトちゃん。\nわたしに勇気をくれて。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Anytime! I'm happy for you, Yui!\nLet's go grab a bite to eat! You're coming too, right?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おう！　\n良かったな、ユイ！\nじゃあ飯でも食べに行こうぜ！　\nおまえも来るだろ？"
+    },
+    {
+      "name": "Makoto",
+      "text": "...What? You've got work to do?\nI wanted to squeeze all the juicy details out of you.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……なんだよ、\n仕事か。\n根掘り葉掘り聞きたかったのに。"
+    },
+    {
+      "name": "Yui",
+      "text": "Please, Makoto, not now...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "もう、\nマコトちゃんってば……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Mr. Knight! Thank you for everything you do... See you soon!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……\n騎士クン！　\nいつもありがとう……\nまたね！"
+    },
+    {
+      "name": "Yui",
+      "text": "Mr. Knight... No matter how badly or how many times you're hurt,\nI'll heal you up. Because if you're happy, then I can be happy too. ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎士クン……\nわたしね、\nどんなに騎士クンが傷ついても、\n何度でも治すよ。\n騎士クンが笑顔でいてくれたら、\nわたしも笑顔でいられるから……！　"
+    },
+    {
+      "name": "Yui",
+      "text": "But one day, I know... I'll be able to put a smile on your face! ",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "でもいつか、\nきっといつか……\nわたしが騎士クンを\n笑顔にしてあげられるようになるね！　"
+    },
+    {
+      "name": "Narration",
+      "text": "As she watched {0}'s figure disappear into the\ndistance, Yui gained a little bit of self-confidence knowing that she\nhad saved him for once.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ユイは{0}の背中を見送りながら、\n主人公を救えたことでほんの少しだけ自信を得たのだった──"
+    }
+  ]
+}

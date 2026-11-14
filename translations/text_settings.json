@@ -1,0 +1,1307 @@
+{
+  "global": {
+    "font_size_scale": 1.0,
+    "overflow": ""
+  },
+  "story_dialogue": {
+    "font_size": 22,
+    "spacing_y": 6
+  },
+  "story_name": {
+    "font_size": 24
+  },
+  "**/DialogDownloadSelect/SelectParts/MovieSelect/HighSelect/Recommended": {
+    "font_size": 16,
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "**/DialogDownloadSelect/SelectParts/VoiceSelect/OnSelect/Recommended": {
+    "font_size": 16,
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "**/PartsStoryPlate/**/TitleObject/storyTitleLabel": {
+    "font_size": 16,
+    "offset_x": 45,
+    "width": 220,
+    "alignment": 1,
+    "max_lines": 1,
+    "overflow": "ShrinkContent"
+  },
+  "**/PartsStoryPlate/**/storyTitleLabel": {
+    "font_size": 16,
+    "offset_x": 45,
+    "width": 220,
+    "alignment": 1,
+    "max_lines": 1,
+    "overflow": "ShrinkContent"
+  },
+  "**/ViewStoryEvent*/**/storyTitleLabel": {
+    "font_size": 16,
+    "offset_x": 45,
+    "width": 220,
+    "alignment": 1,
+    "max_lines": 1,
+    "overflow": "ShrinkContent"
+  },
+  "ALERT/Label": {
+    "font_size": 18
+  },
+  "PartsDialogBulkRecommendedEnhance/Main/ContentNode/btn_deselection/Label": {
+    "font_size": 18
+  },
+  "PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "PartsDialogJewelStorePurchaseConfirm/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "PartsDialogTravelPartyEdit/ButtonOrder/Label": {
+    "font_size": 14
+  },
+  "PartsDungeonDetail/contents/GUIGroup_ButtonObject/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 13
+  },
+  "PartsHatsuneBossQuestDetail/contents/GUIGroup_RetireButton/NonPoinCounter/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 15
+  },
+  "PartsQuestDetail/contents/GUIGroup_DialogTitle/ButtonGrid/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 13
+  },
+  "PartsTalentQuestDetail/OverUiParent/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 13
+  },
+  "PartsTravelingQuestPlate/TravelingObj/ResultConfirmButton/Label": {
+    "font_size": 13
+  },
+  "Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogRecommendedEnhance/BottomTable/transactionLawsButtonParent/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/BlurLayer/SubtitleArea/Subtitle/Text": {
+    "font_size": 30
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogAnimationViewer/CaravanTurnStart/root/base/goal/targetTurnCountText": {
+    "font_size": 28
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogBossResult/Main/Bottom/BottomParts/UIButton_Parts/ButtonAnimator/Button/NextButton/Label": {
+    "font_size": 22
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogBossResult/Main/Bottom/BottomParts/UIButton_Parts/ButtonAnimator/GUIGroup_CarryOverTime/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogBossResult/Main/Bottom/BottomParts/clan_reward00/Base/GUIGroup_dt/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogBossResult/Main/UIButton_DamageReport/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogBywayQuestDetail/Main/contents/GUIGroup_QuestDetail/QuestDetailHeaderText": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogBywayQuestDetail/Main/contents/GUIGroup_RewardList/RewardHeader/RewardLabel": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCaravanAppraisalTreasure/Main/TreasureResult/TotalGetCoin/Tween/TotalGetCoinLabel": {
+    "font_size": 23
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCaravanMileShop/Main/ScrollBg/ScrollContent/ScrollView/WrapContent/PartsCaravanDishPlateRow/Grid/PartsCaravanDishPlate/Label_description": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCaravanMileShop/Main/ScrollBg/ScrollContent/ScrollView/WrapContent/PartsCaravanDishPlateRow/Grid/PartsCaravanDishPlate/Label_item_name": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCaravanMileShop/Main/ScrollBg/ScrollContent/ScrollView/WrapContent/PartsCaravanTreasurePlateRow/Grid/PartsCaravanTreasurePlate/Label_item_name": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogColosseumBattleResult/Main/ButtonObject/NextButton/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogColosseumBattleResult/Main/GUIPanel_Dialog/GUIGroup_Bonus/GUIGroup_TimeBonus/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogColosseumBattleResult/Main/GUIPanel_Dialog/GUIGroup_Bonus/GUIGroup_TotalBonus/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogBulkRecommendedEnhanceConfirm/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogCaravanDishInfo/GUIGroup_DishInfo/GUIGroup_DishEffectInfo/DishEffectInfoLabel": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogCaravanDishInfo/GUIGroup_DishInfo/GUIGroup_DishInfo/DishInfoLabel": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogCaravanDishInfo/GUIGroup_DishInfo/GUIGroup_Scroll/ScrollContent/ScrollView/UITable/GUIGroup_DishInfo/DishInfoLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogCaravanDishOverrideConfirm/AlertLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogCaravanRewardConfirm/ScrollContent/ScrollView/WrapContent/PartsCaravanRewardPlateRow/Grid/PartsDialogCommonItem_ITEM_DETAIL_CORRECT_ILLEGAL/ItemDetail": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogCaravanRewardConfirm/ScrollContent/ScrollView/WrapContent/PartsCaravanRewardPlateRow/Grid/PartsDialogCommonItem_ITEM_DETAIL_CORRECT_ILLEGAL/ItemName": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogChargesStaminaConfirm/TopTable/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIGroup_Scroll/ScrollContent/ScrollView/WrapContent/PartsClanBattleTrainingListPlate/GUIGroup_ListItem/EnemyNum/Label_enemy_num": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab2/State_Active/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab2/State_Normal/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab3/State_Active/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab3/State_Normal/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab4/State_Active/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab4/State_Normal/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab5/State_Active/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab5/State_Normal/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab6/State_Active/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogClanBattleTraining/GUIGroup_DialogContents/GUIPanel_Tab/GUIPanel_Tab/GUIGroup_tab6/State_Normal/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogDamageRankingFriendBattle/DamageInfo/GUIGroup_PlayerInfo/GUIGroup_CharaInfo/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogDamageRankingFriendBattle/HeaderAndTotalHp/Enemy/GUIGroup_dt/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogDamageRankingFriendBattle/HeaderAndTotalHp/Player/GUIGroup_dt/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogGachaBonusList/ExchangePointObjects/common_dt_bg/Label_HaveExchangePointNum": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogGuildMemberList/guildInfoObject/guildInfoLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogHighRarityEquipmentConfirm/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_0/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_0/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_1/State_Active/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_1/State_Normal/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_2/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_2/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_3/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_3/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_4/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogKnightEnhanceDetail/GUIGroup_5Tab/GUIButton_4/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogMonsterDetail/GUIPanel_DialogCommonSmall/GUIGroup_DialogContents/ScrollContent/ScrollView/WrapContent/PartsMonsterDetailTextPlate/TextPlate/DetailLabel": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogSecretDungeonRewardList/Mission/ScrollContent/ScrollView/WrapContent/PartsSecretDungeonMissionPlate/MissionStatus/Info/InfoLabel": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogSecretDungeonRewardList/Mission/ScrollContent/ScrollView/WrapContent/PartsSecretDungeonMissionPlate/Rewards/Info/InfoLabel": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogSecretDungeonRewardList/TotalAchievement/FloorNumInfo/InfoLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogSecretDungeonRewardList/TotalAchievement/ScrollContent/ScrollView/WrapContent/PartsSecretDungeonFloorAchievementPlate/Rewards/Info/InfoLabel": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogShopScrollConfirm/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogTogetherEquip/transactionLawsButtonParent/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogTogetherEquipHighRaritySingle/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogTravelDecrease/Ticket/PartsDecreaseInTravelTime/PartsDialogCommonItem_DOUBLE/LeftItem/WithIconObjectL/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogUniqueEquipmentEnhanceConfirm/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogUniqueEquipmentRankUpConfirm/GUIGroup_/GUIGroup_Alert/AlertLabel": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsDialogUserProfile/ProfileStatus/SupportTabRelease/GUIGroup_TotalPower/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsNotifyRoomItemsAreReadyToLevelUp/GUIPanel_Dialog/ScrollContentRoot/ScrollContent/ScrollView/WrapContent/PartsNotifyRoomItemsAreReadyToLevelUpManager/UIGrid/PartsNotifyRoomItemsAreReadyToLevelUpPlate/common_info_area/RoomItemCanLevelUpForCoins": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig/Main/PartsParent/PartsTalentQuestSpEffectDetail/ScrollContent/ScrollView/WrapContent/PartsTalentQuestSpEffectScrollItemManager/UIGrid/PartsTalentQuestSpEffectScrollItem/EffectDescription": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogAlcesBulkAlchemyExec/PartsAlcesTopExEquipStatePlate/EquipmentStatus/SkillStatus/DoubleRow/skill_texticon_yellow_2/LabelSkill": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBattleTimeline/GUIPanel_DialogCommonFullSize/GUIGroup_DialogContents/GUIGroup_MyParty/GUIGroup_dt/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBattleTimeline/GUIPanel_DialogCommonFullSize/GUIGroup_DialogContents/GUIGroup_SubButton/ButtonPostChat/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/ContentNode/FilterTab/TabButton_Talent_1/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/ContentNode/FilterTab/TabButton_Talent_2/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/ContentNode/FilterTab/TabButton_Talent_3/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/ContentNode/FilterTab/TabButton_Talent_4/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/ContentNode/FilterTab/TabButton_Talent_5/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/SettingPanel/common_unit_bg_lightgray/BulkEnhance/Description": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkRecommendedEnhance/Main/SettingPanel/common_unit_bg_lightgray/BulkRankup/Description": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogBulkTravelQuestList/SearchGroup/ScrollView/ScrollContent/ScrollView/WrapContent/PartsBulkTravelQuestListPlate/TimeSavingButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogCaravanDishSelect/ScrollBg/ScrollContent/ScrollView/WrapContent/PartsCaravanDishPlateRow/Grid/PartsCaravanDishPlate/Label_description": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogCaravanDishSelect/ScrollBg/ScrollContent/ScrollView/WrapContent/PartsCaravanDishPlateRow/Grid/PartsCaravanDishPlate/Label_item_name": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRanking/LeftNode/SelfInfo/GUIGroup_Info01_in_clan_release_emblem/GUIGroup_TotalScore/common_dt_bg/TotalScoreTitleLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRanking/LeftNode/SelfInfo/GUIGroup_Info_Clan/ClanTotalDamageGroup/Label_totalDamage": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRanking/RightNode/InClanMonsterAllScrollParent/ScrollContent/ScrollView/WrapContent/PartsClanBattleBossRankingPlate/GUIGroup_ListItem/allParent/GUIGroup_all_rank/GUIGroup_dt/LabelTitle": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRanking/RightNode/InClanMonsterOneScrollParent/ScrollContent/ScrollView/WrapContent/PartsClanBattleBossRankingPlate/GUIGroup_ListItem/GUIGroup_one/EmblemReleaseEmblemRanking/GUIGroup_TotalScre/common_dt_bg/TotalScoreTitleLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/GUIGroup_Filter/UIButton_6/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/ScrollContent/ScrollView/WrapContent/PartsClanBattleRecommendedPartyPlate/IconsParent/PartsPartyUnitIcons/Positions/Position1/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/ScrollContent/ScrollView/WrapContent/PartsClanBattleRecommendedPartyPlate/IconsParent/PartsPartyUnitIcons/Positions/Position2/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/ScrollContent/ScrollView/WrapContent/PartsClanBattleRecommendedPartyPlate/IconsParent/PartsPartyUnitIcons/Positions/Position3/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/ScrollContent/ScrollView/WrapContent/PartsClanBattleRecommendedPartyPlate/IconsParent/PartsPartyUnitIcons/Positions/Position4/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/ScrollContent/ScrollView/WrapContent/PartsClanBattleRecommendedPartyPlate/IconsParent/PartsPartyUnitIcons/Positions/Position5/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/SortButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogClanBattleRecommendedParty/contents/UIButton_Reload/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogDifferenceRarityExConfirm/Right/AlertTable/Alert/Label_1": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogDifferenceRarityExConfirm/Right/CheckBox/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogEnhanceExtraEquip/Right/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON (1)/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogEquipEnchant/Right/Right_Normal/transactionLawsButtonParent/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogEquipmentCraft/EquipmentCraftMap/EquipmentTree/GoldPlate/transactionLawsButtonParent/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogExEquip5ExceedLimitLineup/EquipStatus/SkillPlate_2/SkillIcon_2/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab2/State_Active/common_tab_selected/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab2/State_Normal/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab3/State_Active/common_tab_selected/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab3/State_Normal/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab4/State_Active/common_tab_selected/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab4/State_Normal/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab5/State_Active/common_tab_selected/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab5/State_Normal/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab6/State_Active/common_tab_selected/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogInvasionRelicEquipMenu/PartsLeft/GUIPanel_Tab/GUIGroup_tab6/State_Normal/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogItemSelect/SelectTab/MaterialTab/State_Active/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogItemSelect/SelectTab/MaterialTab/State_Normal/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_0/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_0/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_1/State_Active/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_1/State_Normal/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_2/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_2/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_3/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_3/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_4/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogKnightEnhanceHowToGetItem/GUIGroup_5Tab/GUIButton_4/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameFkeHappningAlbum/GUIGroup_IconList/GUIGroup_Icon/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameFkeHappningAlbum/GUIGroup_dt/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (1)/ConditionLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (1)/DetailLabel": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (2)/ConditionLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (2)/DetailLabel": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (3)/ConditionLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (3)/DetailLabel": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (4)/ConditionLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMinigameTtkEquipWeapon/GUIPanel_Dialog_S/GUIGroup_ShopList9 (4)/DetailLabel": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogMultiRarityUpConfirm/PartsDialogCommonItem_TRANSACTION_LAWS_BUTTON/Button/Text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogPurchaseOrUseCharaExchangeTicket/GUIGroup_Price/PriceLabel": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogPurchaseOrUseCharaExchangeTicket/ScrollContent/ScrollView/WrapContent/PartsDialogCharaExchangeTicketUnitRow/Center/Plate/OwnedUnitObject/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogPurchaseOrUseCharaExchangeTicket/ScrollContent/ScrollView/WrapContent/PartsDialogCharaExchangeTicketUnitRow/Left/Plate/OwnedUnitObject/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogPurchaseOrUseCharaExchangeTicket/ScrollContent/ScrollView/WrapContent/PartsDialogCharaExchangeTicketUnitRow/Right/Plate/OwnedUnitObject/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogPurchaseOrUseCharaExchangeTicket/description/PeriodLabel": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelExEventAlbum/Progress/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/AllRelease/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/ButtonOrder/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/DecreaseButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/FilterTab/TabButton_Talent_1/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/FilterTab/TabButton_Talent_2/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/FilterTab/TabButton_Talent_3/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/FilterTab/TabButton_Talent_4/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/FilterTab/TabButton_Talent_5/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/LapTranscationPlate/Title": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/PartyEditPlate/NecessaryPower/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/PartyEditPlate/SelectMemberNum/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPartyEdit/Recommended/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelPriorityPartyEdit/SelectMemberNum/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelQuestRestartSelect/BottomObject/Jewel/GUIGroup_dt/common_dt_bg/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelQuestRestartSelect/BottomObject/Ticket/GUIGroup_dt/common_dt_bg/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelQuestRestartSelect/GUIGroup_DialogContents/ScrollContent/ScrollView/WrapContent/PartsTravelQuestRestartSelectPlate/DecreaseTimeButton/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelQuestRestartSelect/GUIGroup_DialogContents/ScrollContent/ScrollView/WrapContent/PartsTravelQuestRestartSelectPlate/GUIGroup_QuestInfo/GUIGroup_dt/PartyNum/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelQuestRestartSelect/GUIGroup_DialogContents/ScrollContent/ScrollView/WrapContent/PartsTravelQuestRestartSelectPlate/GUIGroup_QuestInfo/GUIGroup_dt/PartyPower/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelingQuestList/Scroll/ScrollContent/ScrollView/WrapContent/PartsTravelingQuestPlateManager/Grid/PartsTravelingQuestPlate/LapDetailButton/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelingQuestList/Scroll/ScrollContent/ScrollView/WrapContent/PartsTravelingQuestPlateManager/Grid/PartsTravelingQuestPlate/TravelingObj/DecreaseTimeButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize/Main/PartsParent/PartsDialogTravelingQuestList/Scroll/ScrollContent/ScrollView/WrapContent/PartsTravelingQuestPlateManager/Grid/PartsTravelingQuestPlate/TravelingObj/RetireButton/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonMiddle/Main/PartsParent/PartsDialogMinigameTtkResultRewardGet/TtkResultRewardGet/TextLabel": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonMiddle/Main/PartsParent/PartsDialogMonsterDetail/GUIPanel_DialogCommonSmall/GUIGroup_DialogContents/ScrollContent/ScrollView/WrapContent/PartsMonsterDetailTextPlate/DetailLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonMiddle/Main/PartsParent/PartsDialogMonsterList/ScrollContent/ScrollView/WrapContent/PartsMonsterListPlate/MonsterInfoPlate/DetailButton/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit/Main/ButtonShort/ButtonExEquip/ExEquipLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit/Main/ContentNode/PartsFilterlingButton/PartsPartyTabPlate/TabButton_Talent_1/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit/Main/ContentNode/PartsFilterlingButton/PartsPartyTabPlate/TabButton_Talent_2/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit/Main/ContentNode/PartsFilterlingButton/PartsPartyTabPlate/TabButton_Talent_3/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit/Main/ContentNode/PartsFilterlingButton/PartsPartyTabPlate/TabButton_Talent_4/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit/Main/ContentNode/PartsFilterlingButton/PartsPartyTabPlate/TabButton_Talent_5/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogBattleStartConfirm/GUIGroup_Alert/alert_label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogClanBattleRecommendedPartySort/Main/contents_checkbox/GUIGroup_SortRadioButton/GUIToggle_RadioButton1/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogEventQuestAutoProgressStop/GUIGroup_DialogContents/GUIGroup_dt/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogGoldBuyConfirm/Main/GUIPanel_Dialog_SS/GUIGroup_DialogContents/GUIGroup_Num_Mana/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogShopShortage/GUIGroup_/Movable/CurrencyInfoLong/GUIGroup_Money/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogShopShortage/GUIGroup_/Movable/GUIGroup_Money/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogStorySkip/OutlineLabel": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogTravelLapDetail/AppliedCampaignLabel": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogTravelLapDetail/LapEndTimeLabel": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonSmall/Main/PartsParent/PartsDialogTravelLapDetail/PartsTravelLapDetailScrollController/ScrollContent/ScrollView/WrapContent/PartsTravelLapDetailPlate/LapInfo/LapLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogGoldShop/Main/GUIPanel_Dialog_L/GUIGroup_DialogContents/GUIGroup_CurrencyInfo/GUIGroup_InfoJewel/Label_JewelTitle": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogGoldShop/Main/GUIPanel_Dialog_R/PartsScrollObjects/ScrollContent/ScrollView/WrapContent/PartsGoldShopPlate/PartsSet/GUIGroup_UseJewel/Label_UseJewelType": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogGrandArenaResult/Main/Plates/ResultPlate_1/AnimNode_1/DamageRankingButton/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogGrandArenaResult/Main/Plates/ResultPlate_2/AnimNode_2/DamageRankingButton/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogGrandArenaResult/Main/Plates/ResultPlate_3/AnimNode_3/DamageRankingButton/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogHatsuneBossResult/Main/Bottom/BottomParent/GUIGroup_clan_reward00_Lose/Base/GUIGroup_dt/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogHatsuneBossResult/Main/Bottom/BottomParent/GUIGroup_clan_reward00_Win/Base/GUIGroup_dt/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogHatsuneBossResult/Main/Bottom/BottomParent/UIButton_Parts/ButtonAnimator_Lose/Button/NextButton/Label": {
+    "font_size": 22
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogHatsuneBossResult/Main/Bottom/BottomParent/UIButton_Parts/ButtonAnimator_Win/Button/NextButton/Label": {
+    "font_size": 22
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameFkeResult/Main/FKEResultMain/Main/ScrollContent/ScrollView/FKEHappningStamp/Label_HappeningName": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameFkeResult/Main/FKEResultMain/Main/ScrollContent/ScrollView/Happening/text_label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameFkeResult/Main/FKEResultMain/Main/ThisTimeRecord/text_label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameFkeResult/Main/FKEResultMain/Main/TotalRecord/text_label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameFkeResult/Main/UIButton_Next/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/Bonus_All/Defeat/DefeatBlue/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/Bonus_All/Defeat/DefeatGreen/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/Bonus_All/Defeat/DefeatLabel/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/Bonus_All/Defeat/DefeatRed/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/Bonus_All/Defeat/DefeatScore/text_label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/Bonus_All/HpBonus/text_label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameKmkResult/Main/KMKResultMain/Main/ButtonParent/Grid/ButtonNext/Position/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameTtkResult/Main/TtkResult/Main/Bonus_All/Defeat/DefeatLabel/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameTtkResult/Main/TtkResult/Main/Bonus_All/Defeat/DefeatScore/Label_sotobatsu": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameTtkResult/Main/TtkResult/Main/Bonus_All/Defeat/DefeatScore/text_label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogMinigameTtkResult/Main/TtkResult/Main/ButtonNext/Position/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogPopUp/Main/Table/BasePop/ChildTable/Decsription/title": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsClanBattleQuestDetail/contents/GUIGroup_clanBattleDetail/OverUIParent/GUIButton_RecommendedParty/Label_battleLog": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsClanBattleQuestDetail/contents/GUIGroup_clanBattleDetail/OverUIParent/GUIGroup_BattleSwitching/UIButton_Main_strategy/common_btn_middle_sub_8/Label_off": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsClanBattleQuestDetail/contents/GUIGroup_clanBattleDetail/OverUIParent/GUIGroup_Status/cpGaugeNode/PartsClanBattleCPGauge/Label_cp": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsClanBattleQuestDetail/contents/GUIGroup_clanBattleDetail/OverUIParent/GUIGroup_item/Label_alert_phase_change/Label_atention": {
+    "font_size": 19
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsColosseumQuestDetail/GUIGroup_questDetail/PartsColosseumResultScoreDetail/GUIGroup_timeBonus/GUIGroup_Label/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsColosseumQuestDetail/GUIGroup_questDetail/UIButton_ChallengeHistory/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsHatsuneBossQuestDetail/contents/GUIGroup_RetireButton/NonPoinCounter/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsInvasionQuestDetail/contents/GUIGroup_BossInfo/InfoPanel/quest_clanBossInfoBg/GUIGroup_Weak/GUIGroup_Difficulty_Normal/common_texticon_difficulty_normal/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsQuestDetail/contents/GUIGroup_DialogTitle/ButtonGrid/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsQuestDetail/contents/GUIGroup_QuestStamina/QuestUseStaminaObject/QuestUseStaminaHeaderLabel": {
+    "font_size": 16
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsSevenBossQuestDetail/contents/PlayerLv/GUIGroup_PlayerLv/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsTalentQuestDetail/OverUiParent/GUIGroup_texticon_TalentBonus/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsTdfQuestDetail/BossInfoObj/BossInfo/GUIGroup_Weak/GUIGroup_Difficulty_Normal/Label": {
+    "font_size": 7
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail/Main/PartsTdfQuestDetail/QuestSetting/Grid/GUIGroup_texticon_ElementBonus/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestResultLose/Main/PartsFormer/FormerButtons/TopParts/TopRightButtons/ReportButton/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestResultLose/Main/PartsLaterParent/PartsQuestResultLater/LaterButtons/BottomParts/ButtonAnimator/Button/TicketRematchButton/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestResultWin/Main/PartsFormer/FormerButtons/TopParts/TopRightButtons/ReportButton/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestResultWin/Main/PartsLaterParent/PartsQuestResultLater/LaterButtons/BottomParts/ButtonAnimator/Button/TicketRematchButton/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogSelectTravelQuest/Main/QuestPointParent/PartsTravelMapPoint/FrontInformtionUi/FrontParts/InformationPlate/InformationPlate1/common_dt_bg/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogSelectTravelQuest/Main/QuestPointParent/PartsTravelMapPoint/FrontInformtionUi/FrontParts/InformationPlate/InformationPlate2/InformationText2": {
+    "font_size": 18
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogSelectTravelQuest/Main/QuestPointParent/PartsTravelMapPoint/FrontInformtionUi/FrontParts/InformationPlate/InformationPlate2/common_dt_bg/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogSelectTravelQuest/Main/QuestPointParent/PartsTravelMapPoint/FrontInformtionUi/FrontParts/InformationPlate/InformationPlate3/common_dt_bg/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogSelectTravelQuest/Main/QuestPointParent/PartsTravelMapPoint/FrontInformtionUi/FrontParts/ProgressInformationPlate/DecreaseTimeButtoon/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogSelectTravelQuest/Main/QuestPointParent/PartsTravelMapPoint/FrontInformtionUi/FrontParts/ProgressInformationPlate/RetireButton/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogTravelExEventStillViewer/Main/HudPanel/EventTitleObj/EventTitleLabel": {
+    "font_size": 29
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogTrialBattleResult/Main/Bottom/BottomParts/UIButton_Parts/ButtonAnimator/Button/NextButton/Label": {
+    "font_size": 22
+  },
+  "_Game/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogTutorial/Main/Root/GUIGroup_Balloon/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/Normal/FrontMask/SplashPanel/ViewSplash/Description_1/Txt_line_1": {
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "_Game/UI Root/Normal/FrontMask/SplashPanel/ViewSplash/Description_1/Txt_line_2": {
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "_Game/UI Root/Normal/FrontMask/SplashPanel/ViewSplash/Description_2/Txt_line_1": {
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "_Game/UI Root/Normal/FrontMask/SplashPanel/ViewSplash/Description_2/Txt_line_2": {
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "_Game/UI Root/Normal/FrontMask/SplashPanel/ViewSplash/Description_2/Txt_line_3": {
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "_Game/UI Root/Normal/FrontMask/SplashPanel/ViewSplash/Description_2/Txt_line_4": {
+    "overflow": "ShrinkContent",
+    "max_lines": 1
+  },
+  "_Game/UI Root/ViewsArea/View/ViewArcadeTop/ArcadeUI/RightPartsNode/PartsArcadeDetail/Label_description": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/SlideRight/AnchorRight/Contents/GUIGroup_CategoryTab/GUIGroup_tab1/State_Active/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/SlideRight/AnchorRight/Contents/GUIGroup_CategoryTab/GUIGroup_tab1/State_Normal/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/SlideRight/AnchorRight/Contents/ScrollNode/ScrollContent/ScrollView/WrapContent/PartsCaravanCoinShopRow/Grid/ShopList/Label_item_name": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/SlideRight/AnchorRight/Contents/ScrollNodeBulk/ScrollContent/ScrollView/WrapContent/PartsCaravanCoinShopRow/Grid/ShopList/Label_item_name": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/WidgetOff/SlideRight/AnchorRight/Contents/GUIGroup_CategoryTab/GUIGroup_tab1/State_Active/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/WidgetOff/SlideRight/AnchorRight/Contents/GUIGroup_CategoryTab/GUIGroup_tab1/State_Normal/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewCaravanShop/Main/WidgetOff/SlideRight/AnchorRight/Contents/ScrollNode/ScrollContent/ScrollView/WrapContent/PartsCaravanCoinShopRow/Grid/ShopList/Label_item_name": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleMyLog/RightNode/ScrollObjcet/ScrollContent/ScrollView/WrapContent/PartsClanBattleMyLogInformationPlate/select_plate/GUIGroup_Info/GUIGroup_Damage/common_dt_bg/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/RightNode/InClanMonsterAllScrollParent/ScrollContent/ScrollView/WrapContent/PartsClanBattleBossRankingPlate/GUIGroup_ListItem/allParent/GUIGroup_all_rank/GUIGroup_dt/LabelTitle": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/RightNode/InClanMonsterOneScrollParent/ScrollContent/ScrollView/WrapContent/PartsClanBattleBossRankingPlate/GUIGroup_ListItem/GUIGroup_one/EmblemReleaseEmblemRanking/GUIGroup_TotalScre/common_dt_bg/TotalScoreTitleLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/GUIGroup_Btn/common_btn_s_sub_9/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/Group_Info/GUIGroup_Info00/ClanTotalDamageGroup/Label_totalDamage": {
+    "font_size": 19
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/Group_Info/GUIGroup_Info00/GUIGroup_btn_AddBattleRecord/GUIGroup_btn/SelfRankBtn/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab1/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab1/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab2/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab2/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab3/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab3/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab4/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab4/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab5/State_Active/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleRanking/WidgetOff/RightNode/TabParent/InClanMonsterTabObject/GUIGroup_tab5/State_Normal/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleTop/RightNode/GUIGroup_BattleLog/LogNode/PartsClanBattleLog/ScrollContent/ScrollView/WrapContent/PartsClanBattleLogPlate/Label_damage": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleTop/WidgetOff/RightNode/GUIGroup_BattleLog/LogNode/PartsClanBattleLog/ScrollContent/ScrollView/WrapContent/PartsClanBattleLogPlate/Label_damage": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleTop/WidgetOff/RightNode/GUIGroup_BattleLog/LogNode/PartsClanBattleLog/UIHeader/Label_battleLog": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleTop/WidgetOff/RightNode/InfoNode/GUIGroup_Info_AfterMyLogRelease/GUIGroup_CPgauge/PartsClanBattleCPGauge/Label_cp": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanBattleTop/WidgetOff/RightNode/RightTopNode/GUIGroup_IconButton/Button_BattleRecord/Label": {
+    "font_size": 9
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanProfileCard/TopProfileImage/ClanProfileCard/PreviewLayer/Profile/Condition/Condition": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanProfileCard/TopProfileImage/ClanProfileCard/PreviewLayer/Profile/Condition/common_dt_bg/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanTop/WidgetOff/ClanUI/UI_Left/GUIGroup_leftInfo/GUIGroup_Btn_clanBattle/btn_clan_battle_112/Label_challengeCount": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanTop/WidgetOff/ClanUI/UI_Left/GUIGroup_leftInfo/GUIGroup_ReleaseSingleMode/GUIGroup_Btn_member/Label_memberInfo": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanTop/WidgetOff/ClanUI/UI_Left/GUIGroup_leftInfo/GUIGroup_ReleaseSingleMode/GUIGroup_Btn_support/Label_supportSetting": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewClanTop/WidgetOff/ClanUI/UI_Left/GUIGroup_leftInfo/GUIGroup_ReleaseSingleMode/GUIGroup_ClanBattleModeInfo/LabelTitle": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewDomeTop/WidgetOff/SlideObjectRight/RightTopObject/PartsDomeProgressHeader/Challenge/Status": {
+    "font_size": 9
+  },
+  "_Game/UI Root/ViewsArea/View/ViewDomeTop/WidgetOff/SlideObjectRight/RightTopObject/PartsDomeProgressHeader/Round/Status": {
+    "font_size": 9
+  },
+  "_Game/UI Root/ViewsArea/View/ViewDungeonTop/Other/DungeonSelect/Scroll View/PartsDungeonAreaSetPlate/PartsDungeonAreaPlate/WidgetOff/AreaButton/Name": {
+    "font_size": 22
+  },
+  "_Game/UI Root/ViewsArea/View/ViewEmblem/WidgetOff/Main/Contents/EmblemSetInfo/ChangeButton/change_button_label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewEmblem/WidgetOff/Main/Contents/EmblemSetInfo/SelectedEmblem/SelecedEmblemDetail/HowToEmblem/how_to_label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewEmblem/WidgetOff/Main/Header/Achievement/achievement_label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewFriendList/WidgetOff/SlideRight/Other/ScrollViewParent/ScrollContent/ScrollView/WrapContent/PartsFriendListPlate/ListNode/UILabels_Parent/GUIGroup_UserTotalPower/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewFriendManagement/SlideRight/Other/ScrollViewParent/ScrollContent/ScrollView/WrapContent/PartsFriendListPlate/ListNode/UIButtons_Parent/UIButton_Right/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewGachaTop/WidgetOff/SlideRight/AnchorRightBottom/CharaDetailButton/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewGachaTop/WidgetOff/SlideRight/AnchorRightBottom/GachaDetailButton/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewGachaTop/WidgetOff/SlideRight/AnchorRightBottom/PartsGachaExchangeInfo/CharaExchangeButton/ButtonLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon1/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon2/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon3/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon4/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon5/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon6/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon7/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/LeftObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon8/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon1/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon2/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon3/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon4/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon5/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon6/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon7/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearDetail/WidgetOff/RightObj/GUIGroup_EpisodeBalloon/GUIGroup_Balloon8/PartsHatsuneDearDetailBalloon/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearTop/WidgetOff/RightObj/AnchorRight/ScrollContent/ScrollView/WrapContent/PartsHatsuneDearPlate/button/Label": {
+    "font_size_scale": 0.7
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneDearTop/WidgetOff/RightObj/AnchorRight/ScrollContent/ScrollView/WrapContent/WidgetOff/PartsHatsuneDearPlate/button/GUIGroup_UnReadEpisode/Label_UnreadEpisode": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneGacha/RightObj/TopAnchor/HeaderButton/GUIGroup_SettingPull100/Label_ExchangeCount": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneGacha/RightObj/TopAnchor/HeaderButton/GUIGroup_SettingPull100/Label_SettingEnable": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneGachaResult/WidgetOff/Right/HeaderNode/TweenNode/GUIGroup_Item/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneMap/UI/UIPanel/RightUI/AnchorBottomRight/AnchorBottomRightChild/ButtonGachaIconNode/ButtonGachaIcon/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHatsuneMap/UI/UIPanel/RightUI/AnchorBottomRight/AnchorBottomRightChild/ButtonMissionIconNode/ButtonMissionIcon/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHome/OtherNode/WidgetOff/Right/BottomRightAnchor/ButtonShopIcon/NumIconNode/text": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewHome/PartsDailyTask/Main/ScrollContent/ScrollView/WrapContent/PartsDailyTaskPlate/Node/GUIGroup_Button/UIButton_Move/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewJukeboxTop/Node_Buttons/Node_JukeboxButtons/WidgetOff/GUIButton_PurchaseMusic/btn_music_purchase/Label_Title": {
+    "font_size": 28
+  },
+  "_Game/UI Root/ViewsArea/View/ViewKnightEnhance/WidgetOff/Left/LeftButtonGroup/UnitRoleGroupParent/MasteryBulkEnhanceButton/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewKnightEnhance/WidgetOff/Left/LeftButtonGroup/UnitRoleGroupParent/MasteryEnhanceDetailButton/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewKnightEnhance/WidgetOff/Left/LeftButtonGroup/UnitRoleGroupParent/MasteryEnhanceSettingButton/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameFkeTop/FkeFixedUiPanel/LeftAnchor/TopFkeInfo/HappningAlbumBtn/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameFkeTop/FkeFixedUiPanel/RightTopAnchor/FlyingInfo/CurrentFlyingHeight/CurrentFlyingHeightTextLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameKmkTop/GameLevelBtnGroup/ExtraBtn/BtnPosition/ScrollUnlock/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameKmkTop/GameLevelBtnGroup/HardBtn/BtnPosition/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameKmkTop/GameLevelBtnGroup/NomalBtn/BtnPosition/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameTtkRecord/GUIButton_Index/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameTtkRecord/GUIGroup_Arrow/back/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameTtkRecord/GUIGroup_Arrow/next/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameTtkRecord/TtkPictureBookDetail/GUIGroup_Record_Left/Label/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameTtkTop/TweenScale/SpineController/TtkTextBalloon/Offset/TweenObj/BalloonSprite/TextLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMiniGameTtkTop/WidgetOff/GUIGroup_LeftInfo/GUIGroup_ButtonStory/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMinigameAsmMain/RightObj/PartsAsmResult/pos/GUIGroup_Button/GUIGroup_NextButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMinigameAsmTop/AsmTop/GUIGroup_CenterInfo/UIButton_s8/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMinigameAsmTop/WidgetOff/LeftObj/GUIGroup_LeftInfo/AnchorLeft/UIButton_s6/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMinigameAsmTop/WidgetOff/RightObj/GUIGroup_RightInfo/AnchorRight/UIButton_s6/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMinigameCccGameMain/FixedUiPanel/ingameuiroot/PartsCccInGameResult/maingroup/base/GUIGroup_Button_Solo/UIButton_8/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMinigameCccGameMain/FixedUiPanel/ingameuiroot/PartsCccInGameResult/maingroup/base/GUIGroup_Score/GUIGroup_DefeatIndex/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMyProfileCard/EditUI/Tab/CommentTab/State_Active/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMyProfileCard/EditUI/Tab/CommentTab/State_Normal/Label": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMyProfileCard/EditUI/Window/CommentWindow/Announce": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMyProfileCard/EditUI/Window/CommentWindow/CommentTitle": {
+    "font_size": 19
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMyProfileCard/TopProfileImage/MyProfileCard/ProfileLayer/ProfileNode/Profile/Power/common_dt_bg_pink/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewMyProfileCard/TopProfileImage/MyProfileCard/ProfileLayer/ProfileNode/Profile/Tower/ReachingFloor/common_dt_bg_pink/Label": {
+    "font_size": 19
+  },
+  "_Game/UI Root/ViewsArea/View/ViewNormalArenaResult/Buttons/BottomParts/NextButton/Label": {
+    "font_size": 22
+  },
+  "_Game/UI Root/ViewsArea/View/ViewPlayerProfile/all/rightObject/ProfileProgressGroup/ScrollView/PartsProfileProgress/GUIGroup_ClanBattle/Grid/GUIGroup_ClanBattle/common_dt_bg/DateTotalScoreLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewQuestSpecialAndUnitExpand/Main/WidgetOff/quest_high_rarity_equip/Title": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewQuestSpecialAndUnitExpand/Main/quest_high_rarity_equip/Title": {
+    "font_size": 28
+  },
+  "_Game/UI Root/ViewsArea/View/ViewQuestTop/Right/quest_menu_00/WidgetOff/Slide4/UIButtonDungeon/GUIButton_Dungeon/State_Normal/DungeonSameCampaign/dungeon_badge_noshadow/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewQuestTop/Right/quest_menu_00/WidgetOff/Slide4/UIButtonDungeon/GUIButton_Dungeon/State_Normal/DungeonSameCampaign/secret_dungeon_badge_noshadow/Label": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewRaceTop/FixedUiPanel/TopAnchor/TopAnchorAnimNodeGroup/CharaSelectLabelBarAppearAnimNode/CharaSelectLabelBar/CharaSelectLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewRedeemUnitDetail/Left/GUIGroup_CastVoice/Label_CastVoice": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSecretDungeonTop/FrontUi/WidgetOff/RightObj/RightAnchor/GUIGroup_FloorListButton/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSecretDungeonTop/FrontUi/WidgetOff/RightObj/RightAnchor/GUIGroup_RewardListButton/Label": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/AlcesButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/ExEquip5ExceedLimitButton/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/Head/ItemDescriptionLabel": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/Scroll/ScrollView/EquipmentInfo/UITable/Head/ItemDescription/ItemDescriptionLabel": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/NodeItemDetail/NormalItem/NodeItemInfo/ItemDescription/ItemDescriptionLabel": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/TabObject/MemoryPieceTab/State_Active/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/SlideObj/Main/TabObject/MemoryPieceTab/State_Normal/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/WidgetOff/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/AlcesButton/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/WidgetOff/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/ExEquip5ExceedLimitButton/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/WidgetOff/SlideObj/Main/TabObject/MemoryPieceTab/State_Active/Label": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSharedItemList/WidgetOff/SlideObj/Main/TabObject/MemoryPieceTab/State_Normal/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/Contents/ScrollNode/ScrollContent/ScrollView/WrapContent/ShopLists/Grid/ShopList/Label_item_name": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/Contents/SubTabRoot/NormalShopCategoryTab/PartsCommonTab/REFININIG_STONE/Active/Text": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/Contents/SubTabRoot/NormalShopCategoryTab/PartsCommonTab/REFININIG_STONE/Normal/Text": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/FooterCounter2Digit/ButtonReset/Label_reset_price": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/FooterDefault/ButtonMove/Label_target": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/ConnectShopTab/TabButton_8/State_Active/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/ConnectShopTab/TabButton_8/State_Normal/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/ExEquipmentShopTab/TabButton_7/State_Active/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/ExEquipmentShopTab/TabButton_7/State_Normal/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/LimitedShopTab/TabButton_10/State_Active/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/LimitedShopTab/TabButton_10/State_Normal/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/MemoryPieceShopTab/TabButton_9/State_Active/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/MemoryPieceShopTab/TabButton_9/State_Normal/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/NormalShopTab/TabButton_1/State_Active/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04/NormalShopTab/TabButton_1/State_Normal/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/Contents/NormalShopCategoryTab/Stone/Normal/Text": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/Contents/ScrollNode/ScrollContent/ScrollView/WrapContent/ShopLists/Grid/ShopList/Label_item_name": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/FooterDefault/Label_reset_time": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/ConnectShopTab/TabButton_8/State_Normal/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/ExEquipmentShopTab/TabButton_7/State_Normal/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/LimitedShopTab/TabButton_10/State_Active/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/LimitedShopTab/TabButton_10/State_Normal/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/MemoryPieceShopTab/TabButton_9/State_Active/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/MemoryPieceShopTab/TabButton_9/State_Normal/Label": {
+    "font_size": 11
+  },
+  "_Game/UI Root/ViewsArea/View/ViewShop/Main/WidgetOff/SlideRight/AnchorRight/TabPos/PartsShopTab04/NormalShopTab/TabButton_1/State_Normal/Label": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewSplash/Line3/Text": {
+    "font_size_scale": 1.2
+  },
+  "_Game/UI Root/ViewsArea/View/ViewStoryCharacterTop/Right/AnchorRight/ScrollContentParent/ScrollContent/ScrollView/WrapContent/PartsStoryCharacterPlate/selectObject/GUIGroup_Text/catchCopyLabel": {
+    "font_size": 12
+  },
+  "_Game/UI Root/ViewsArea/View/ViewStoryCharacterTop/WidgetOff/Right/AnchorRight/ScrollContentParent/ScrollContent/ScrollView/WrapContent/PartsStoryCharacterPlate/selectObject/GUIGroup_Text/catchCopyLabel": {
+    "font_size": 10
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTdfTop/PartsTdfNormalQuestTop/TopRightNode/TreasureQuestGaugeParent/PartsTdfTreasureQuestGauge/ContentsBase/AppearingButton/AppearingLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTravelTop/FrontPanel/TravelTopParts/LeftAnchor/TravelAreaSelectMenu/AreaSelectMenuTween/PartsTravelTopAreaList/ScrollContent/ScrollView/WrapContent/PartsTravelTopAreaPlate/AreaPlateObjects/AreaNameLabel": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTravelTop/FrontPanel/TravelTopParts/LeftAnchor/TravelAreaSelectMenu/AreaSelectMenuTween/QuestListParent/PartsTravelTopQuestList/QuestPlateGrid/PartsTravelTopQuestPlate/QuestPlateButton/QuestName/QuestNameLabel": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTravelTop/FrontPanel/TravelTopParts/LeftAnchor/TravelAreaSelectMenu/AreaSelectMenuTween/QuestListParent/PartsTravelTopQuestList/SingleAreaNameLabel": {
+    "font_size": 17
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTravelTop/FrontPanel/TravelTopParts/LeftAnchor/TravelAreaSelectMenu/OpenCloseButton/travel_btnicon_map_close/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTrialBattleSelectCategory/WidgetOff/contents/QuestList/NormalContent/ScrollContent/ScrollView/WrapContent/PartsTrialBattleSelectCategoryPlate/PlateContent/StageName/TypeDescriptionLabel": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewTrialBattleSelectDifficulty/WidgetOff/contents/DescriptionDetailLabel": {
+    "font_size": 20
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/Right/PartsViewUnitDetailTab/EvolutionTab/EvolutionTabActiveNode/tab_text_rarity_selected": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/Right/PartsViewUnitDetailTab/EvolutionTab/EvolutionTabInactiveNode/tab_text_rarity": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/Right/UnitExtraEquip/Blank/EmptyWayOfGettingButton/Label": {
+    "font_size": 15
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/Right/UnitExtraEquip/Equipped/ExEquip5FooterButton/ExceedLimitButton/Label": {
+    "font_size": 22
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/Right/UnitRarityUp/Right/RarityUpButton/Label": {
+    "font_size": 25
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/WidgetOff/Right/PartsViewUnitDetailTab/EvolutionTab/EvolutionTabInactiveNode/tab_text_rarity": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitDetail/WidgetOff/Right/UnitRarityUp/Right/RarityUpButton/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/WidgetOff/contents/FilterTab/TabButton_Talent_1/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/WidgetOff/contents/FilterTab/TabButton_Talent_2/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/WidgetOff/contents/FilterTab/TabButton_Talent_3/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/WidgetOff/contents/FilterTab/TabButton_Talent_4/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/WidgetOff/contents/FilterTab/TabButton_Talent_5/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/WidgetOff/contents/btn_order/Label": {
+    "font_size": 13
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/contents/FilterTab/TabButton_Talent_1/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/contents/FilterTab/TabButton_Talent_2/Label": {
+    "font_size": 14
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/contents/FilterTab/TabButton_Talent_3/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/contents/FilterTab/TabButton_Talent_4/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewUnitTop/contents/FilterTab/TabButton_Talent_5/Label": {
+    "font_size": 16
+  },
+  "_Game/UI Root/ViewsArea/View/ViewWacTop/PartsWacCalendarList/PartsDaysList/BeforeMonthButton/BeforeMonthLabel": {
+    "font_size": 18
+  },
+  "_Game/UI Root/ViewsArea/View/ViewWacTop/PartsWacCalendarList/PartsDaysList/NextMonthButton/NextMonthLabel": {
+    "font_size": 20
+  }
+}

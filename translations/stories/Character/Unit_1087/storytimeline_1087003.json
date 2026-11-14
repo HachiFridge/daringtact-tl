@@ -1,0 +1,758 @@
+{
+  "title": "Hiyori (New Year) Episode 3",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "With the grab bag now in their hands,\nHiyori and {0} talk about what's in it.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "福袋を手に入れたヒヨリは、{0}と共に、\n福袋の中身について話をしていた。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "All that's left is this and this, I think? Yup!\nThat's it all organized. Wow though, that really was a bargain and a half!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あとは、\nこれとこれ……\nかな。\nうん！\n選別おわりっ！　\nこの福袋、\nやっぱりとってもお得だったね……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "There's still some left, so I'll give them to people we know around town.\nYui and Rei, too. And you, of course!",
+      "choice_data_list": [
+        "Are you sure you want to give so much away?"
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "残りは人にあげちゃおっと。\nお世話になってる街の人でしょー？\nそれに\nユイちゃんとレイさん！　\nもちろん騎士くんにも！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "No problem!\nApparently each year's winner does this anyway.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うん！　\n福袋を買えた人のほとんどがそうしてるんだって。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "And there's plenty of stuff I don't have any use for.\nMight as well give those to people that do, right?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あたしが持ってても使わないものもあったし、\nそういうのは\n使う人にあげちゃったほうがいいでしょ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hm?\nWhat's going on over there?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "？\nなんだろ……？"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Outta the way, slowpoke!\nI'mma beat your ass if you don't move faster!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "おらっ！　\nどきやがれっ！\nちんたら歩いてんじゃねぇよったくよ！　\nぶっ飛ばすぞ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What's up with him?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あの人、\nどうしたのかな……？"
+    },
+    {
+      "name": "Man 1",
+      "text": "Ohhh, right. He's a delinquent that lives around here.\nSecurity's pretty tight during this time of the year,\nso he's probably annoyed that he can't get up to anything.",
+      "choice_data_list": [],
+      "orig_name": "男性１",
+      "orig_text": "ああ、\nアイツかい？　\nこの近くに住むワルだよ。\n正月は街の警備が厳しいから、\n悪さできなくてイライラしてるみたいだね。"
+    },
+    {
+      "name": "Man 2",
+      "text": "Try not to get involved with him, you hear?",
+      "choice_data_list": [],
+      "orig_name": "男性２",
+      "orig_text": "あんたたちも気を付けな。\nあんまり近くに行くんじゃないぞ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Okay!\nHe kind of looks like he's trying to get himself hurt, though.\nMaybe there's something on his mind?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "はーい。\n……あの人、\nまるで自分から傷つきたがってるみたい。\n何かで困ってるんじゃないかな……？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Mama? Where are you?",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "ママ～？　\nどこぉ？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Oh. I'm sorry. I didn't mean to—",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "あっ、\nぶつかっちゃってごめんなさ……"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Tch. Scram, kid!\nYou're getting in everyone's way!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "ちっ、\n人の周りをウロチョロしやがって！\n邪魔なんだよ！"
+    },
+    {
+      "name": "Lost Child",
+      "text": "*sob* Waaahhh!\nMama! I'm scared!",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "うぅっ、\nうわ～ん！　\n怖いよぉ～！　\nママ～！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Uh oh. He made him cry.\nHey, Mr. Knight.",
+      "choice_data_list": [
+        "Let's go help out."
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ああ、\n泣いちゃった……\n騎士くん。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うんっ！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Ugh. Why do crying kids gotta be so annoying?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "けっ、\nピーピー泣きやがって……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hey! If you've got the time to bother people,\nthen give us a hand and help the kid out! Okay?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ねえお兄さん！　\n人を困らせるくらい暇なら、\n一緒にあの子を助けようよ！　\nいいよね！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "The hell? Don't just start bossing—",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "はぁ？　\nいきなり何言って……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Come on, come on!\nHe's gonna cry even more if you don't!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "早く早く！　\nあの子がもっと泣き出しちゃう！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "L-let go of me!\nWhat's with you two?! Seriously, let me go!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "あっ、\nおい引っ張んじゃねぇ！\nなんなんだよおまえら！　\nおい、\n離せって！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hey, are you okay? What's wrong?\nDid you get separated from your mommy?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "キミ、\n大丈夫？　\nどうしたの？\nお母さんとはぐれちゃった？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "U-um... I...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "あ、\nあの……\nぼく……"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Spit it out already!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "はっきり言いやがれ！"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Eeek! I'm scared!",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "ひいぃっ……\n怖いっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hey there! Be nicer to him!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "もーっ！　\nもっと優しく声かけてあげてよー！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Urgh..! W-why is this chick so strong?!\nHey. Wh-what's wrong?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "ぐっ……！　\nコ、\nコイツ、\nなんつー力……！\n……おい、\nど、\nどうしたんだ？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "*sob, hic*\nI dunno where my mama is...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "うぅっ、\nひっく……\nママと、\nはぐれちゃったの。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Well that's not good.\nDon't worry, though. We'll help you find he—",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そうだったんだ。\nじゃああたしたちが一緒に探して……"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Oh, Hiyori! There you are!\nMind if I ask you a favor?",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "いたいた！　\nおーいヒヨリちゃん！\nちょっといいかい？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hey there! How come you're not running the takoyaki stall?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "たこ焼き屋のおじさん！　\nどうしたんですか？"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "I kinda ran out of ingredients, you see,\nso now I gotta run out to buy more.\nSorry, but could you take care of the stall while I'm gone?",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "悪いんだけど、\n材料が足りなくなっちゃって\n買い出しに出なきゃいけなくなったんだ。\nその間、\n店番頼まれてくれないか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "No problem!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "いいですよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Can you do me a favor in return, then?\nIt'd help if you told everyone we've got a lost boy here.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "その代わり、\n迷子の男の子が店にいるって、\nいろんな人に伝えてくれませんか？"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "That so? Sure thing. I've got stock being\nkept warm in the back, so sell those if anyone\ncomes by.  I'll be back as quick as I can!",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "あぁ、\nもちろんいいよ。\nしばらくは裏の魔法陣で保温してある、\n作り置きを売ってくれればいいから。\nじゃあ行ってくる！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Right then! Guess we've got a job to do!\nLet's all work together!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "よーし！　\nあたしたちで店番だよ！\n一緒に頑張ろうね！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "What?! Y-you're including me here?!\nI ain't about that! Just let me go already!",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "はぁ！？　\nお、\n俺もかよ！？\nもういいだろ！　\nいい加減離せよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "We're all in it together, my friend!\nSo let's bring some customers in!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "困った時はお互いさまさまだよ！　\nお兄さん！\nみんなで一緒に呼び込みしよう！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "The more people that come,\nthe more chances we have of finding his mom!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "大勢の人が来てくれれば、\n男の子を探してる人が見つかるかも知れないし！"
+    },
+    {
+      "name": "Lost Child",
+      "text": "*sob* Takoyaki...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "ぐすっ……\nたこ焼き……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Sure looks delicious, doesn't it?\nBut let's hold off until he gets back.\nThink you can do that for me?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "おいしそうだよねー……\nでも\nおじさんが戻ってくるまで\n我慢しよ！　\nできるかな？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Okay...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "……うん。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Atta boy! We can have some together,\nso let's use that as motivation to work! Woo! ♪",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "偉いねー！　\n後でお姉ちゃんたちと一緒に食べよ！\nたこ焼きのために、\nお仕事頑張ろー！　\nおーっ♪"
+    },
+    {
+      "name": "Lost Child",
+      "text": "*sniff* Woo...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "ずずっ……\nおーっ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Welcome, welcome!\nIf it's takoyaki you're looking for, we've got it!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "いらっしゃいませー！　\nたこ焼きはいかがですかー！？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "W-welcome...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "いらっしゃい、\nませ……"
+    },
+    {
+      "name": "Woman 1",
+      "text": "Wow! That looks and smells good!\nOh! Hello, Hiyori! I take it you're helping\nsomeone out again? Talk about a hard worker!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "いい匂～い！　\nおいしそうね～！　\nあら、\nヒヨリちゃんじゃない！\nまた誰かを手伝ってるの？　\n偉いわ～！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Not at all. Also, um. This boy here's lost,\nso I'm trying to find his mom while taking care of the store.\nYou didn't happen to see anyone looking for their child, did you?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そんな……\nあの、\n実はこの子が迷子で……\n今は店番しながら、\nお母さんを探してるんです。\n子供を探してる人、\n見てませんか？"
+    },
+    {
+      "name": "Woman 1",
+      "text": "Hm...\nI didn't, no, but I'll ask around for you!",
+      "choice_data_list": [],
+      "orig_name": "女性１",
+      "orig_text": "うーん、\n私は知らないけど、\n他の人にも聞いてみるわ！"
+    },
+    {
+      "name": "Woman 2",
+      "text": "Hello, Hiyori.\nI heard you talking about a lost child.\nIs there anything I can do to help?",
+      "choice_data_list": [],
+      "orig_name": "女性２",
+      "orig_text": "こんにちはヒヨリちゃん。\n今迷子って聞こえたんだけど、\n私もなにか手伝えることはないかしら？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Thank you!\nWe're in the middle of looking for his mom!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ありがとうございます！　\nこの子のお母さんを探してるんです！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "...What's with them?\nThey only just met the kid. Why are they so...",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "……\nなんだよコイツら。\n会ったばっかのガキのために、\nなんでこんなに……"
+    },
+    {
+      "name": "Narration",
+      "text": "The four of them continue to look after the store until the owner returns.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "それから{0}とヒヨリは、\n涙声の少年と不貞腐れている男と一緒に店番を続けた。"
+    },
+    {
+      "name": "Narration",
+      "text": "As they're doing so,\n{0} notices something important.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そんな中、{0}があることに気づいた。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Mr. Knight? What's wrong? ",
+      "choice_data_list": [
+        "We're running out of takoyaki."
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くん、\nどうしたの騎士くん？　"
+    },
+    {
+      "name": "Hiyori",
+      "text": "You're right! I got ahead of myself and sold too many too quick!\nWe've only got one, two... Five boxes left!\nThey'll sell out in no time!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ホントだ！　\n張り切って早く売りすぎちゃった……！\nあとひーふーみーよ……\n５つ！　\nこのままだと売り切れちゃう！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wh-what should we do? The owner's nowhere to be seen...\nWe're gonna have to make some ourselves!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ど、\nどうしよう！　\nおじさんはまだ帰ってこないし……\nあたしたちで作るしか……！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "*sigh* Fine, fine. Whatever.",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "はあ～……\nしかたねぇな。"
+    },
+    {
+      "name": "Lost Child",
+      "text": "*sniff* What are you doing?",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "ぐす……\nお兄さん、\n何してるの？"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Use your eyes, kid. I'm gonna make some more.\nThose two'll be useless, but I've got experience from one of my old jobs.",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "あ？　\n残りの材料でたこ焼き作るんだよ。\n前にバイトでやったことあるし。\nアイツらじゃまるで頼りになりゃしねぇ……"
+    },
+    {
+      "name": "Lost Child",
+      "text": "I'll help too.",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "……ぼくもやる。"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Uh, sure.\n...Make some boxes out of that paper and line them up over there.\nThink you can do that for me?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "お、\nおう……\n……\nじゃあその紙で箱作って、\nそこに並べてくれ。\nできるか？"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Okay.\n...Sorry for bumping into you earlier.",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "分かった。\n……\nさっきはぶつかってごめんなさい。"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "...No problem, squirt.\nBut less talking, more working.",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "……\n気にしてねぇよ。\nほら、\n手動かせ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Hehe. That's a relief.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ふふっ、\nよかった。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Not only do we have more takoyaki,\nbut those two seem like they're getting along now.",
+      "choice_data_list": [
+        "Looks like it'll be all right."
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "たこ焼きのこともだけど、\nあの二人、\n仲良くなれたみたい。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yup!\nWhich means we should get back to attracting customers!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そうだね！　\n騎士くん。\n呼び込み再開するよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Excuse me!\nAre any of you looking for a lost boy?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "すみませーん、\nお客様の中に\n迷子の男の子を探してる人いませんかー！？"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Hiyori! I think I found his mom!",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "おーいヒヨリちゃん！　\nお母さんらしき人見つけてきたよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Oh, you're back!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あっ、\n出店のおじさん！"
+    },
+    {
+      "name": "Boy's Mother",
+      "text": "Um, excuse me!\nIs my son really here?!",
+      "choice_data_list": [],
+      "orig_name": "少年の母",
+      "orig_text": "あの、\nすみません、\n息子はどこに……！"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Oh! Mama!",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "あっ、\nママだ！"
+    },
+    {
+      "name": "Boy's Mother",
+      "text": "Oh, thank goodness you're okay!\nYou have no idea how worried I was!",
+      "choice_data_list": [],
+      "orig_name": "少年の母",
+      "orig_text": "よかった！　\n無事だったのね……！　\nすっごく心配したんだから！"
+    },
+    {
+      "name": "Lost Child",
+      "text": "I'm sorry...",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "ごめんなさーい……"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Thanks so, so much!",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "お兄ちゃん、\nお姉ちゃん\nありがとう！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I'm glad you managed to find her!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "お母さん見つかってよかったね！"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Yeah!\nThank you as well, mister!",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "うん！　\nあと、\nお兄さんもありがとう！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Hmph...\nYou stayed strong right at the end.\nNot bad, kid.",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "ふんっ……\n最後は泣かなかったな。\nやるじゃねぇか。"
+    },
+    {
+      "name": "Lost Child",
+      "text": "Ehehe! Working with you was real fun!\nSee you again! Bye-bye!",
+      "choice_data_list": [],
+      "orig_name": "迷子の少年",
+      "orig_text": "えへへっ！　\nお兄さんとおしごとできて、楽しかった！\nまたね～！　\nばいば〜い！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Bye-bye!\n...He sure took a liking to you, didn't he?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ばいば〜い！\n……\nあの子が懐いてくれてよかったね！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "I'm surprised how many customers you brought in.\nThanks a lot. You really saved my bacon!",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "お客の入りもよくて驚いたよ。\n本当に助かった。\nありがとう！"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Sh-shut it! I didn't even do any—",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "う、\nうるせぇっ！　\n俺は別になぁ──"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "That's enough!\nYou must be the person who's been causing issues around here recently.",
+      "choice_data_list": [],
+      "orig_name": "王国騎士",
+      "orig_text": "──そこまでだ！\nおまえか、\nこの辺りで暴れまわってる男は？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What's going on?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "どうしたんですか？"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "There's been several reports of someone trying to start fights\never since New Year's, so we came out on patrol. Lo and behold,\nthe culprit's now being violent towards a young girl!",
+      "choice_data_list": [],
+      "orig_name": "王国騎士",
+      "orig_text": "新年からやたらと周りにからむヤツが街にいると通報があったので\n巡回に来てみたが、\n女性に乱暴を働くとは……！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "No he's not!\nIn fact, he just helped us reunite a lost child and his mom!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "誤解ですっ！　\nこの人はさっきまで一緒に、\n迷子の男の子の、\nお母さんを探してくれたんです！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What's more, he even made takoyaki while the owner was gone!\nI'm not lying! I swear!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "しかも\nこのお店のおじさんがいない間、\nたこ焼きまで作ってたんです！　\n嘘じゃありません！"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "It's as she says, sir.\nHe helped both my store and that lost boy.",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "ヒヨリちゃんの言う通りだ、\n騎士さん。\nこの人はウチの店も、\n迷子の子も助けてくれたんだ。"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "...Well. No one got hurt, nor is there proof of any scuffle taking place.\nYour behavior remains an issue, however.",
+      "choice_data_list": [],
+      "orig_name": "王国騎士",
+      "orig_text": "……\nふむ、\n確かにけが人もいないし暴れた形跡もないようだ。\nだが、貴様の素行がよくない事実は変わらないからな。"
+    },
+    {
+      "name": "Royal Knight",
+      "text": "Cause any more issues, and you'll be arrested on the spot.\nNow then. Allow us to take our leave.",
+      "choice_data_list": [],
+      "orig_name": "王国騎士",
+      "orig_text": "何かあればすぐに捕縛するぞ。\n……それでは、\n失礼します。"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Dammit.\nThe kid's gone home, so I'mma scram too.",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "くそっ……\nガキはもう帰ったし、\n俺も帰るぜ。"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Wait a minute!\nYou made this takoyaki, didn't you?",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "ちょっと待って！　\nこのたこ焼き、\n君が作ったんだろう？"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Yeah. And so what?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "あ？　\nそうだけど……"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "It's delicious! I actually run a restaurant here, you see.\nAnd now I'm very keen on having you as part of the kitchen staff.\nHow about it?",
+      "choice_data_list": [],
+      "orig_name": "店主",
+      "orig_text": "すごくおいしいよ！　\nうちの店は普段料理店をやっていてね。\nよかったら、\n今度は厨房を手伝ってほしいんだが……\nどうだろう？"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "Y-you what?",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "……は、\nはぁ？"
+    },
+    {
+      "name": "Boorish Man",
+      "text": "...Well. If I feel like it, I guess.\nCatch you later.",
+      "choice_data_list": [],
+      "orig_name": "ガラの悪い男",
+      "orig_text": "……\nまぁ、\n気が向いたら……\nな。\nあばよ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "He might act like that, but I knew he wasn't bad at heart.\nNo one is, after all.",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "お兄さん……\nやっぱり、\n心の底から悪い人なんていないよね。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I just hope today stays with him, though.\nMaybe that'll help him change, even if just a little.",
+      "choice_data_list": [
+        "I'm sure it will.",
+        "It probably will."
+      ],
+      "orig_name": "ヒヨリ",
+      "orig_text": "今日のことで、\nお兄さんの心の中が、\nすこしでも変わってくれたらうれしいな。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yeah! Definitely!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そうだよね！　\nきっと！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Glad you agree!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くんもそう思うよね！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I mean, just look at what happened today!\nLots of stuff happened, and he helped make a difference!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "だって、\n今日だけでお兄さんの周りの、\nいろんなことが変わったし、\n変えられたんだから！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That boy was able to find his mom,\nand the stall owner found someone to help with his restaurant!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "迷子の男の子はお母さんと会えたし、\n出店のおじさんはお店を手伝ってくれそうな人を見つけたしさ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "So yeah. He's needed, just like anyone else.\nNot only today, but from here on out as well!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "お兄さんは、\nみんなに必要な人なんだよ……\n今日だけじゃなくて、\nこれからも！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I always go on about scratching each other's backs,\nbut today really proved that! Right?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "やっぱり困った時は\nお互いさまさま、\nだよね！\n騎士くん！"
+    },
+    {
+      "name": "Narration",
+      "text": "Hiyori flashes a smile at {0}\n, happy to have witnessed a moment that allows someone to change for the better.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "人の心の何かが変わる瞬間を目にしたヒヨリは、\n満足げに{0}を見て微笑むのだった。"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "title": "Mitsuki Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} makes his way to the town outskirts\nto complete a quest he accepted in Landosol.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}は、ランドソルで受けたとある依頼をこなすため、\n街道へと足を運んだ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Oh, are you the person who answered my request?\nI'm your client, Mitsuki. Pleased to meet you.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あら、\n君が私の依頼を受けてくれた子？\n依頼主のミツキよ。\nよろしくね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I want to pick some of the flowers that bloom in this area.\nWill you give me a hand with gathering them?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "今日はこの周辺に咲いている花を集めたいの。\n君には、\nその作業を手伝ってもらえるかしら？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You probably won't know which ones they are,\nso I picked one as an example.\nThis is the flower I'm looking for.",
+      "choice_data_list": [
+        "Smell the flower."
+      ],
+      "orig_name": "ミツキ",
+      "orig_text": "といっても見分けがつかないでしょうから、\n先に私が一つ摘んでおいたわ。\nこれがその花よ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Oh, don't do that. You shouldn't approach things so carelessly.\nSome flowers can be dangerous, you know.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あら……ダメよ。\nうかつに近寄るなんて。\n花には危険なものだってあるんだから。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "This pollen of this flower is poisonous.\nMore accurately speaking, it has poisonous effects on humans.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "この花の花粉には毒があるのよ？\n正しくは、\nヒトにとっては毒になる花粉ってことなんだけど……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "And look here, at the stem. Do you see the little thorns?\nThere's poison in there, as well.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "それに花の下……\n茎をよく見て。\n小さなトゲがあるでしょう？\nそこにも毒があるの。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "If you were to prick yourself or inhale any pollen,\nthe results wouldn't be pretty.\nYou want to be very, very careful.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "トゲが刺さったり、\n花粉を吸いこんだりしたら、\n大変なことになるのよ。\n集める時は注意してね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "But you know, this poison is special. It has medicinal\nproperties as well. Even deadly poisons can save lives\nin the right hands. Isn't that just wonderful?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "でもね、\nこの花の毒は特殊で、\n上手くすれば薬にもなるの。\n毒だって使い方次第ではヒトを救う。\n素敵だと思わない？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You must be wondering how I know all this.\nYou see, I'm a scientist, and I specialize in botanical research.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "どうしてこんなことを知っているかっていうとね、\n私は科学者で、\n普段は植物の研究をしているの。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "When I say science, I mean... \nActually, let's save that for some other time.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "科学っていうのは……\n今は止めておきましょうか。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Even a trace amount of pollen can be dangerous,\nso we'll contain them in this glass case, one flower at a time.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "小さな花粉でも吸いこむと危険だから、\n一つずつ、\nこのガラスのケースに入れてちょうだいね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "All right, then let's get started, shall we?\nI'll warn you once more: be very, very careful.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "じゃあ、\nさっそく集めていきましょうか。\nさっきも言ったけど、\nくれぐれも気を付けて。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "What's wrong? Oh dear, did you prick yourself?\nAre you all right? Let me see your hand.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……どうしたの？　\nもしかして、\nやっちゃった？\n大丈夫？　\nちょっと診せてもらうわね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Don't worry. From time to time, I like to play doctor as well.\nI know first aid well enough.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "心配しないで。\nこれでも時々、\n医者の真似事もしてるの。\n応急処置ぐらいならできるわ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "It's not a deep wound. Not much poison will have\nentered your bloodstream, so it should heal by itself.\nNo need for an antidote this time.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……傷は浅いわね。\nこれなら入り込んだ毒も少ないし、\nすぐに治るはずよ。\n特に治療もいらないわ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Goodness though, your hands... Your arms and\nshoulders, too... You're quite muscular, aren't you?\nOh, this? I'm just giving you a quick once-over.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……それにしても君の手、\nそれだけじゃなくて腕や肩も……\n意外とがっしりしてるのね。\nああこれ？　\nただの触診よ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You look thin, but you're actually rather toned.\nWhat a truly ideal, healthy body...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "細身に見えて、\nかなり鍛えられているわ。\n実に理想的な体よ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Listen... Would you like to become my test subject?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "──ねぇ君……\n私の実験体になってみない？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I have so many medicines to test and experiments to run.\nI think you can give me the results I want. What do you say?",
+      "choice_data_list": [
+        "That sounds sketchy.",
+        "Er, let me think about it."
+      ],
+      "orig_name": "ミツキ",
+      "orig_text": "試したい薬や実験がいっぱいあるのよ。\n君が実験体ならきっといい結果が出そうだわ。\nどうかしら？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "It's not sketchy at all!. Lending your body to science\nis good, honorable work, you know!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "怪しくなんかないわ。\n実験体だってちゃんとしたお仕事なのよ……？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "So you're considering it?\nThat sounds like a yes to me. Oh, how wonderful!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "検討してくれるの？\nつまり答えはイエスってことね……？　\n嬉しいわ……"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Hey, you dumb quack doctor!\nWe finally found you!",
+      "choice_data_list": [],
+      "orig_name": "ならず者１",
+      "orig_text": "おいヤブ医者！\nやっと見つけたぞ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "And who's this? Just when things were getting good,\nsomeone had to interrupt. What a pity...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "誰かしら……\nいいところだったのに、\n邪魔が入っちゃったわね。\n残念……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Um, I'm sorry to ask, but... Who are you?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ええっと、\nあなたたちは……\n誰かしら？"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "Don't you act like you don't know us!\nWe're some of the patients you treated recently!",
+      "choice_data_list": [],
+      "orig_name": "ならず者２",
+      "orig_text": "忘れたとは言わせねぇぞ！\n俺たちはお前に治療された患者だ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Now that you mention it, you do look somewhat familiar.\nSo? How can I help you today?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……言われてみれば、\n見覚えがあるわね。\nそれで？　\nその元患者たちが何の用かしら？"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "It's about your medical bill! You gotta be kiddin' me!\nNo way in hell I'm payin' that much! You filthy fraud!",
+      "choice_data_list": [],
+      "orig_name": "ならず者１",
+      "orig_text": "治療費だよ！　\nふざけた値段、ふっかけてきやがって！\nあんな額払えるわけねぇだろ！　\nこの薄汚ねぇ闇医者がっ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I may not be a licensed doctor,\nbut I helped you when you needed it most.\nAre you honestly in any position to complain?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "確かに私は闇医者だけど、\n私しか頼れないあなたたちが、\n助けた私に文句を言える立場かしら？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "If all you were going to do was whine,\nmaybe I shouldn't have treated you. \nThat would have saved you from paying any bills.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "文句を言われるくらいなら助けない方が良かったわね。\nそれならあなたたちも、\n治療費を払わずに済んだでしょう？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You should be thankful that you're alive and well enough\nto come and find me at all. With a little good, honest work,\nyou'll be able to pay that bill in no time.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "生きて私のところに来られる命があるだけ、\nありがたいと思いなさい。\n真っ当に働けば、\nちゃんと返せる額のはずよ。"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "Cut the crap! I thought maybe we could talk it out,\nbut if you're gonna be like that,\nwe're gonna have to settle this by force!",
+      "choice_data_list": [],
+      "orig_name": "ならず者２",
+      "orig_text": "ふざけんな！　\n態度次第じゃ話し合いで済ませるつもりだったが、\nこうなりゃ実力で考えを改めさせてやる！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "And here I helped you when no one else would.\nIt sounds like you boys need to learn a little gratitude.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "普通なら助からないところを助けてあげたのに……\n恩知らずな人たちには教育が必要みたいね？"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Tch... So we're doin' this then?!",
+      "choice_data_list": [],
+      "orig_name": "ならず者１",
+      "orig_text": "くっ……\nやろうってのか！？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I don't think anything I said would have changed that.\nPrepare yourselves!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "先に敵意を向けてきたのはそっちじゃない。\n……覚悟しなさい！"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "Hurgh! What's up with this wind?!\nI can barely stay standing!",
+      "choice_data_list": [],
+      "orig_name": "ならず者２",
+      "orig_text": "ぐわぁ！　\nなんだこの風！？\nまともに立ってられねぇ……！"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Don't let it get to you! It's just wind!\nA little wind never hurt nobody!",
+      "choice_data_list": [],
+      "orig_name": "ならず者１",
+      "orig_text": "うろたえるな！　\nただの風だ！\nこの程度、\n威嚇にもなりゃしねぇ！"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "Yeah, you're right... Heh, nice try, lady.\nNow it's our turn!",
+      "choice_data_list": [],
+      "orig_name": "ならず者２",
+      "orig_text": "確かに……\nへへっ、\n脅かしやがって。\n今度はこっちの番だ！"
+    },
+    {
+      "name": "Ruffian 1",
+      "text": "Yeah! ...Wh-what the? The hell?!\nI can't move my legs!",
+      "choice_data_list": [],
+      "orig_name": "ならず者１",
+      "orig_text": "おう！　\n……\nあ、\nあれ？　\nなんだ？\n足が、\n動かねぇ……！？"
+    },
+    {
+      "name": "Ruffian 2",
+      "text": "I-I can't either! And m-my body's... going numb!\nI can't breathe...! *cough* *gasp*",
+      "choice_data_list": [],
+      "orig_name": "ならず者２",
+      "orig_text": "お、\n俺もだ……！　\nそれに、\nか、\n体が……\nしびれて……！？\n息ができなっ……！　\nげほっ！　\nげほっ！"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Heheheh! I knew it would kick in soon.\nThese flowers have a paralyzing agent\nin their thorns and pollen.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ふふふ……！　\nやっぱり。すぐに効いてきた。\nこの花のトゲや花粉からは、\n人体を麻痺させる成分が採れるのよ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "And the wind you felt just now was actually full to bursting\nwith pollen from these flowers. It's so fine that you can\nhardly see it, but trust me, there was a lot.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "そしてさっきの風にはね……\nこの花の花粉がそれはもうたくさん含まれていたわ。\n目に見えないくらい小さい花粉が、\nほんとうにたくさん……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Since you inhaled it all, of course you can't breathe!\nBut don't you worry!\nI'll make sure you never have to breathe again.",
+      "choice_data_list": [
+        "Stop her."
+      ],
+      "orig_name": "ミツキ",
+      "orig_text": "大量の花粉を吸ったから、\n息が出来ないのよね？\nでも安心して♪　\n……もう二度と、\n息をしなくて済むから♪"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Oh, what's this? Why are you interfering?\nI can't finish them off with you standing there.",
+      "choice_data_list": [
+        "They won't be able to pay you."
+      ],
+      "orig_name": "ミツキ",
+      "orig_text": "あら、君……\nどうして邪魔をするの？\nそこに立たれたら、\nトドメを刺せないわ……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Haha... I suppose you're right about that.\nThey have to be alive in order to pay their bill.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……ふふっ。\n確かに、\n君の言う通りね。\nここで始末しちゃったら、\n治療費を回収できなくなるわ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Very well, then. I'll let you boys go this time.\nYou can thank this young man.\nOf course, I will make sure that bill gets paid.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あなたたち、\n今回は見逃してあげるわ。\n彼に感謝するのね。\n……あと、\n治療費は必ず払ってもらうわよ？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Now that we're done picking flowers, let's head back to town.\nDon't worry about those guys. The poison will wear off in a\nlittle while. Let's go.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "花集めも終わったし、\n街に戻りましょうか。\n彼らのことなら心配しないで。\nしばらくしたら毒は抜けるから。\n行きましょう。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Excellent work today. I'm glad this went by quickly.\nHere. It's your pay for today's work.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "今日はお疲れさま。\n早く済んで良かったわ。\nはい。\nこれが今回の報酬よ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Oh, what's the matter?\n...I see. You must have inhaled some of that pollen yourself, didn't you?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "あら、どうしたの？\n……そっか。\nさっきの花粉、\n君も吸い込んじゃったのね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You pricked yourself earlier,\nand now there's pollen in your lungs too.\nYou could be in serious danger.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "トゲの毒だけじゃなく、\n花粉まで体内に入れたとなると、\nかなり危険よ。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Without immediate treatment, it could easily prove fatal.\nNow, I do have the skills to treat you, but...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "すぐに治療しないと、\n命に関わるかも知れない。\n私なら治してあげられるけど……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "How about this? \nIf you agree to help me with my experiments\nfrom time to time, I'll treat you right away.",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "そうね、\n今度から時々\n私の実験に付き合ってくれるなら、\n今ここで治してあげる。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "A healthy young man like yourself as a test subject\ncould really advance my research. Do we have a deal?",
+      "choice_data_list": [
+        "Fine."
+      ],
+      "orig_name": "ミツキ",
+      "orig_text": "君みたいに若くて健康的な男の子が実験台になってくれたら、\n私の研究がすごく捗るの。\nどうかしら？"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "Heheheh. Then the contract is sealed.\nNow let me heal you. Hold still...",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "ふふふ……\n交渉成立ね。\nじゃあ今から治療するわ。\nじっとしてて……"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "You should be all right now.\nSee? You can move again, can't you?",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "……もう大丈夫なはずよ。\n……うん、\nちゃんと体が動くようになったわね。"
+    },
+    {
+      "name": "Mitsuki",
+      "text": "I'm glad I got to you in time.\nNow don't forget your promise, okay?\nHeheheh. I can't wait for our experiments together!",
+      "choice_data_list": [],
+      "orig_name": "ミツキ",
+      "orig_text": "治療が間に合ってよかったわ……\n約束、\n忘れないでね？\nふふふ……\nこれからの実験、\n楽しみにしてるわ♪"
+    },
+    {
+      "name": "Narration",
+      "text": "Seeing Mitsuki's bewitching smile,\n{0} felt sure that in the whole wide city,\nthere was nowhere for him to run...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "妖艶な微笑みを浮かべるミツキに{0}は、\n広い街の中にもかかわらず、逃げ場を失ったように感じた。"
+    }
+  ]
+}

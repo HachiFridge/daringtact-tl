@@ -1,0 +1,726 @@
+{
+  "title": "Matsuri Episode 10",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Matsuri remembered the original calling that led her to join the Royal Knights of NIGHTMARE. With a change of heart, she found herself working even harder with {0}.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】団員としての初心を\n思い出すことができたマツリ。\n心機一転して、\n{0}と共により熱心に業務に取り組んでいた。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "It's already been a week since we started working at the Lost&Found department~ It was tough at first, but once I got the hang of it everything felt smoother!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "落とし物係に来てから、\nもう一週間経ったんスね～\n最初こそ大変だったッスけど、\n流れを覚えたら\nサクサク捌けるようになってきたッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yesterday, I returned a lost item and someone thanked me, so I'm starting to feel like this is a worthwhile job! At this rate, I'll become a full fledged Lost&Found clerk!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "昨日も落とし物を返してあげたらお礼を言われたし、\nなんだか\nやりがいがある仕事って気もしてきたッスよ！\nこの調子で、\nまずは一人前の落とし物係を目指すッス！"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "I see, I see. I'm glad to hear that you're working hard and staying positive. ...Honestly, I didn't expect that.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "そうかそうか。\n前向きにがんばっているようで何よりだ。\n……\n正直、\n予想外だったが。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ah, Captain! What's wrong, pal? You're in the Lost&Found department, did you lose something?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あっ、\n隊長！\nどうしたんスか、\n落とし物係に来るなんて。\nもしかして、\nなにか失くしちゃったんスか？"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "No, that's not it. Let's see... Do you like your current job here?",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "いや、\nそうじゃない。\nええっと……\n落とし物係の仕事、\n気に入ってるのか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Of course, pal! Helping people who have lost things and are in trouble is an important job.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "もちろんッス！\n物を失くして困ってる人たちを助ける、\n大切なお仕事ッスからね。"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "I see, haha... So you do, huh... Actually, I have something to tell you...",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "そうか～\nそうなのか～……\n実は、\n話があるんだが……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "EEEHHH?! Both of us... have been transferred to the recruitment department?! We've only been here for a week, isn't that a little too arbitrary?!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "え～！？\n二人揃って、\n今度は\n採用係に転属～！？\nまだ\n一週間しか経ってないのに、\n適当過ぎないッスか！？"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "Wait, let me explain! First of all, even though it's a transfer, it's only temporary! It's only for the duration of this recruitment campaign! Okay?! Okay!",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "待て、\n言い訳をさせてほしい！\nまず、\n転属とはいっても\n一時的なものなんだ！\n今回のキャンペーンの間だけだから！　\nね！　\nね！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So it's like... limited-time help? I knew NIGHTMARE was short on personnel, but I didn't realize it was this bad...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "期間限定のお手伝い\nってことッスか？\n【王宮騎士団（NIGHTMARE）】の人手不足って、\nそこまでやばかったんスね……"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "Well, yes, manpower is part of it -- but there's a deeper reason this time.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "まぁ、\n人手不足なのもそうだが、\n今回の事情はもう少し深いところにある。"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "You two played a major role in the peace negotiations with the beastfolk tribes. We want to highlight that achievement through this recruitment campaign.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "お前たち二人は、\n獣人族との和平交渉で大活躍している。\nそれをアピールするような形で、\n今回の採用活動を\n展開していきたいわけだな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I still don't quite get it, pal... What's the connection between our recruitment and the peace talks?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "まだ\nちょっと、\n分かんないッス……\n採用活動と和平交渉が\nどう繋がるんスか？"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "In short, we want to show that NIGHTMARE is no longer an organization that views beastfolk as enemies. By doing so, we can attract applicants from many different races.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "要するに、\nもう【王宮騎士団（NIGHTMARE）】は獣人族を\n敵視するような組織ではないことを\n併せて宣伝したいのだ。\nそうすることで、\n幅広い種族からの応募を期待できるからな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So that means... even beastfolk can apply now?! To become members of NIGHTMARE!?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "それって\nつまり……\n獣人族でも応募していいってことッスか！？\n【王宮騎士団（NIGHTMARE）】の団員募集に！？"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "Not only will we accept their applications, but we also promise to conduct a fair selection process. There is no one better suited to promote this than you, former peace ambassadors. The Commander also said so at the recruitment meeting.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "応募を認めるだけでなく、\n公平な選考も約束する。\nそれを喧伝するのに、\n和平大使だったお前たち以上の適任はないだろう。\n採用会議で、\n団長もそうおっしゃっていたぞ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "REALLY?! I'm so moved that Jun-san would say that about me!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "本当ッスか！？\nジュンさんが\nそんなふうに言ってくれてたなんて\n自分、\n感激ッスよ～！！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "We've got no choice but to do this, pal! It looks like we'll be together again, so I'm sure everything will go smoothly♪",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "これはもう、\nやるしかないッス！\n今回も\n{0}さんと一緒みたいだし、\nきっと大成功間違いなしッスよ♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "However... will the Lost&Found department be okay if we just suddenly leave? It's already a very busy job, and if they end up with less manpower...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ただ、\n自分たちが急に抜けて\n落とし物係は大丈夫ッスかね？\n激務なのに、\n人手が減っちゃったら……"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "Don't worry, we've already got that part figured out. As a condition for lending you two, I asked him to put five of his subordinates at work in here.",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "安心しなさい、\nその辺の話はついてるから。\nあなたたち２人を貸し出す条件として、\nそいつの部下５人を\n落とし物係に回してもらったの。"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "...We've made considerable sacrifices to make this happen, so you must deliver results. No, seriously.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "……このように\n相応の犠牲も払ってるので、\n必ず結果を出してほしい。\nいや、\nホントに。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "R-Roger that, pal! We'll advertise our hearts out and get tons of applicants!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "りょ、\n了\n解ッス！\nいっぱい応募してもらえるよう、\n一生懸命宣伝するッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Let's see, the recruitment staff asked us to... distribute flyers to recruit members and respond to inquiries from applicants. They also said to answer any questions that a citizen might have if the situation arises.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "えっと、\n採用係からお願いされたのは……\n団員募集のチラシ配りと、\n志願者からの問い合わせ対応ッスね。\n市民から採用について質問があったら、\n答えてあげてほしいそうッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So, uh... when we're handing out flyers and calling people over, what kind of approach should we take?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "というわけで、\n呼び込みをかけながらチラシを配りたいんスけど、\nどんな感じでやればいいんスかね？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I knew it, since it's our job to protect the safety of the city, a serious tone is best. Ahem...!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "やっぱり\n街の平和を守る仕事なんだから、\n真面目な雰囲気を出した方がそれっぽいッスよね。\nこほん……！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "The Royal Knights of NIGHTMARE are looking for new members! Your job shall be to protect the peace of Landosol and to assure the smiles of its citizens! If you're interested, please take a look at our flyer!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "【王宮騎士団（NIGHTMARE）】は、\n団員を募集しているッス！\nランドソルの治安を守り、\n市民の笑顔を守るお仕事ッス！\n興味のある方は、\n是非\nチラシをどうぞ～！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's a great idea! I'm sure people who admire heroes like me will flock to the flyers... Ahem!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "それは名案ッスね！\nきっと\n自分みたいにヒーローに憧れる人たちが、\nチラシに殺到してくるはず……\nこほん！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "You can become a future hero, so come now and fill this application form! Then go and shake hands with the recruiter at the NIGHTMARE barracks! Read the recruitment requirements and apply now!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "未来のヒーローは君だ、\n今すぐ\n応募書類に記入しよう！\n【王宮騎士団（NIGHTMARE）】詰め所で、\n採用係と握手！\n募集要項を読んで、\nどしどし応募するッス！"
+    },
+    {
+      "name": "Beastfolk Man",
+      "text": "Wh-What are you doing, Matsuri? This is a residential area for beastfolk, so there's no point in recruiting members for the Royal Knights of NIGHTMARE, is there?",
+      "choice_data_list": [],
+      "orig_name": "獣人族の男性",
+      "orig_text": "な、\nなにをやってるんだマツリ？\nここは獣人族の居住区だぞ、\n【王宮騎士団（NIGHTMARE）】の\n団員募集なんかしたって\n意味がないだろう？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's not true, pal. You see...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そんなことはないッス。\n実は……"
+    },
+    {
+      "name": "Beastfolk Man",
+      "text": "I see, so now even us beastfolk can apply openly. I never thought the Royal Knights of NIGHTMARE would change their mind that much.",
+      "choice_data_list": [],
+      "orig_name": "獣人族の男性",
+      "orig_text": "なるほど、\n獣人族でも公に応募が可能になったのか。\nまさか【王宮騎士団（NIGHTMARE）】が、\nそこまで考え方を変えるなんてな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "From now on, all races are welcome, pal! The only thing that matters is to harbor a desire to protect the peace of the city!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "これからは\nどんな種族もウェルカムッス！\n大切なのは、\n街の平和を守りたいって気持ちだけッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...If possible, it'd also be better if you had the stamina to endure hard work.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……できれば、\n激務に耐える体力もあった方がいいッスけど。"
+    },
+    {
+      "name": "Beastfolk Man",
+      "text": "Ahaha, all right. I'm not good at rough work so I don't really qualify, but I'm still rooting for the new Royal Knights of NIGHTMARE.",
+      "choice_data_list": [],
+      "orig_name": "獣人族の男性",
+      "orig_text": "あはは、\nわかったよ。\n俺は荒事が苦手だから\n応募はできないけれど、\n新しい【王宮騎士団（NIGHTMARE）】のこと、\n応援してる。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That makes me so happy, pal! You're more than welcome to cheer us on! If you can, I'd also appreciate if you could advertise it to other people tooo!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うれしいッス～！\n応援だけでも大歓迎ッスよ、\nできれば\n他の人にも\n宣伝よろしくッス～！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Aaah, somehow... it's kinda starting to hit me. Until a little while ago, I was working for NIGHTMARE while being considerate of a lot of things...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……\nなんか、\nじーんときたッス。\nちょっと前までは\nいろいろ気を遣いながら\n【王宮騎士団（NIGHTMARE）】で仕事してたッスけど……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "If things continue as they are now, such a thing won't be necessary anymore. There's a lot of people cheering me on like before, so I want this new job to be a success♪",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "今の流れが続いたら、\nそんなこともなくなるッス。\nさっきみたいに\n応援してくれてる人たちもいっぱいいるし、\n採用の仕事も\n成功させたいッスね♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Maaaan, I feel like we were able to advertise a lot! The reaction from people on the street was pretty good too! I'm sure we can expect a lot of applicants soon...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "いや～、\nたくさん宣伝できた気がするッス！\n街の人たちの反応も、\nかなりよかったッスね！\nこれなら、\n応募者の数も\n期待できるんじゃ……"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "うぅ……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hm? That kid... is he looking at me? Maybe he's looking to become a member in the future... I'll call out to him right away!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ん？　\nあの子、\nこっちを見てないッスか？\n未来の団員になってくれるかも……\nさっそく声をかけるッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Hello! Are you interested in the Royal Knights of NIGHTMARE? If you'd like, I'll give you this flyer as a gift♪",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "こんにちは～！\nもしかして\n【王宮騎士団（NIGHTMARE）】に興味あるッスか？\nよかったら、\n君にも\nこのチラシをプレゼントするッス♪"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "But I'm a beastfolk. Can us beastfolk really become knights?",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "でも、\n僕は獣人族だし。\n本当に、\n獣人でも騎士になれるの？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Of course pal! The Royal Knights of NIGHTMARE have changed. There's no longer any hatred for beastfolk in our ranks.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "もちろん！\n【王宮騎士団（NIGHTMARE）】は変わったッス。\n昔みたいに、\n獣人族だからって\n目の敵にしたりしないッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So please, apply with confidence! Ah, but if you're too young, I think you might not pass the age limit...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "だから\n自信を持って、\n応募してほしいッス！\nあー、\nでも、\nあんまり若すぎると\n年齢制限には引っ掛かったような～……"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Then... I'll apply when I'm older! Please, give me a flyer!",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "じゃあ、\nもっと大きくなったら応募する！\nチラシ、\n一枚ください！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Here you go, pal. Please read this to get a good idea of ​​what it's like to work for the Royal Knights of NIGHTMARE♪",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "はい、\nどうぞッス。\n【王宮騎士団（NIGHTMARE）】の仕事がどんな雰囲気か、\nこれを読んで\nしっかり予習してほしいッス♪"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Thank you! Umm...",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "ありがとう！\nえーっと……"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "...Hmmm. It's just a wall of text. I don't really get it...",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "……んー、\n文字ばっかり。\nなんか、\nよく分かんないし……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh? That's not a great reaction... Is the flyer really that hard to understand?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あれ、\nあんまり反応がよくなさそう……？\nそんなに分かりにくいッスかね、\nそのチラシ。"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "I still don't know what kind of job it is... What does it mean? \"Work-at-home friendly, room for advancement, wide salary range\"...? What kind of job is that supposed to be?",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "どんなお仕事してるのか、\n分かんない……\nあっとほーむで\nわかてがかつやくしてて\nすぐしょうしんできて\nはばひろいさいりょうけんがあたえられるお仕事って、\nどういうこと？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Ugh, no wonder...! I get that they wanted to make it sound appealing, but they could've added some actual details.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うっ、\nたしかに……！\n印象のいいこと書きたかったんだとは思うんスけど、\nもうちょっと\n具体的なことも載せてほしかったッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "The salary and employment conditions are clearly listed, so maybe this flyer is aimed towards adults? Even so, it's not very helpful.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "お給料や採用条件はしっかり載ってるから、\n大人向けのチラシってことなんスかねー？\nそれにしたって不親切ッスけど。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, that's a nice idea! I think if people knew exactly what the job entailed, they'd be more likely to apply!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "おぉ、\nナイスアイデアッス！\nどんな仕事かちゃんと分かった方が、\nみんなも\n応募する気になると思うッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I didn't have a very good impression of the Lost&Found job myself until I found more about what it's really about. Let's hurry up and go talk to the recruiting department right away!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分も\n落とし物係がどんな仕事か分かるまで、\nあんまり\nいい印象なかったッスからね。\nさっそく\n採用係に相談してみるッス！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "So having said that... I'll see you soon. I want you to wait until the new pamphlet's ready.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "というわけで、\nまた今度会いに行くッス。\nパンフレットができるまで、\n待っててほしいッス。"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Yeah, thanks! I'll be waiting for you, Onee-chan!",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "うん、\nありがとう！\n待ってるね、\nお姉ちゃん！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...So,after talking to the recruitment department, they said that they were inundated with applications due to our advertising effect, and that there were no other members of the departmentwho could participate in making the pamphlet.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……で、\n採用係に相談した結果。\n宣伝効果で応募者が殺到していて、\n自分たち以外に\nパンフレット作りに参加できそうな団員がいないと。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "It's a good problem to have, but it's still a problem...! We tried making a few patterns together, but the results were, well...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "うれしい悲鳴かもしれないッスけど、\n困ったッス……！\n自分と{0}さんで何パターンか作ってみたッスけど、\n正直、\nその……"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's way too direct, pal! ...Well, it's still true. The layout and illustrations aren't very good at all.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "直球過ぎるッス！\n……\nまぁ、\n事実ではあるんスけど。\nレイアウトもイラストも、\n全然上手に仕上がらないッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "I thought that since we can could write down business documents, we should be able to make pamphlets as well, but it turns out things don't really work that easily. I knew it, two amateurs can't really do this!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "業務書類が作れるんだから\nパンフレットも\nできるはずだって思ってたんスけど、\nやっぱり勝手が違うッスよ～\n素人二人だけじゃ、\nどうにもならないッス～！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "At this rate, I might not be able to keep my promise to that kid...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "このままじゃ、\nあの子との約束、\n守れなくなっちゃうかも……"
+    },
+    {
+      "name": "Lost Item Section Man 1",
+      "text": "Oh, if it isn't Matsuri-chan. How's the recruitment campaign doing?",
+      "choice_data_list": [],
+      "orig_name": "落とし物係１",
+      "orig_text": "ん、\nマツリちゃんじゃないか。\n採用係の仕事は\n上手くいってるのか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, the Lost&Found Senpai! There's actually something I'm having trouble with right now...",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あっ、\n落とし物係の先輩！\n実は今、\n困ってることがあって……"
+    },
+    {
+      "name": "Lost Item Section Man 1",
+      "text": "I see. Making pamphlets, huh? In that case, let's go and gather everyone from the Lost&Found department. We often create explanatory materials for citizens on procedures, so we're used to it.",
+      "choice_data_list": [],
+      "orig_name": "落とし物係１",
+      "orig_text": "なるほど、\nパンフレットの作成か。\nそういうことなら、\n落とし物係のみんなを集めてこよう。\n市民向けに手続きの解説資料をよく作るから、\n慣れてるんだよ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Are you sure, pal?! I know how busy of a department you are, can you really afford to help us?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "いいんスか！？\nただでさえ忙しい部署なのに、\n自分たちの手伝いをしてもらうなんて。"
+    },
+    {
+      "name": "Lost Item Section Man 1",
+      "text": "If recruitment slows down, we'll be the ones who suffer... I'll go get the section chief's permission.",
+      "choice_data_list": [],
+      "orig_name": "落とし物係１",
+      "orig_text": "採用が滞ったら、\n困るのは俺たちだからな……\n係長に許可だけもらってくるよ。"
+    },
+    {
+      "name": "Lost Item Section Man 2",
+      "text": "I think this is fine... what do you think...?",
+      "choice_data_list": [],
+      "orig_name": "落とし物係２",
+      "orig_text": "こんなもんでいいんじゃないかなぁ……\nどうかなぁ……？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Oh, this is a really nice cover, pal! Now we just need to think about the images and text to put on each page.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "おお、\nすごくいい感じの表紙になったッス！\nあとは\n各ページに載せる図とか、\n文章を考えないと。"
+    },
+    {
+      "name": "Lost Item Section Man 1",
+      "text": "Let's see... I guess it would be better to include a sentence on the first page explaining what kind of organization the Royal Knights of NIGHTMARE are, right?",
+      "choice_data_list": [],
+      "orig_name": "落とし物係１",
+      "orig_text": "えー\nっと、\n最初のページにはやっぱり、\n【王宮騎士団（NIGHTMARE）】とはそもそも\nどういう組織かを説明するような文章を入れた方がいいよな？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Also, let's include some cool illustrations to go with that! I think small children will be thrilled if they open it and see a cool picture of a royal knight!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "それと、\nかっこいいイラストも入れるッス！\n開いたときに、\nバーンと\nかっこいい王宮騎士の絵があったら、\n小さい子どもは大よろこびすると思うッス！"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "I came to check on things, and it looks like you're doing great. I even managed to score a favor from the recruitment officer, so I've got no complaints♪",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "様子を見に来たけど、\n上手くやってるみたいね。\n採用係に貸しも作れたし、\n私としても言うことなしだわ♪"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "Don't worry about thanking me. You are the one I should thank you to begin with.",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "手伝いを許可したことなら、\n気にしないで。\n先に借りを作ったのは、\nこちらのほうだから。"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "Back when she was in a tough spot, we couldn't do a thing for her. All we did was pretend not to notice that odd hat and her little tail sticking out.",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "あの子が難しい立場にいたとき、\n私たちは\n何もしてあげられなかった。\n奇妙な帽子と飛び出した尻尾を、\n見て見ぬフリをするだけだった。"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "But you stayed by her side and kept supporting her. You know, she lights up whenever she talks about you. It made me happy... and a little jealous, too.",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "でも、\nあなたはそばで支え続けてくれた。\nあの子ね、\nあなたの話をするとき、\nすごく楽しそうなのよ。\nそれがうれしくもあるし、\nくやしくもあった。"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "We... The Royal Knights of NIGHTMARE will no longer favor a race over another in who they choose to help. I'm grateful for the bond you two share, and for everything it brought about.",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "私たちは……\n王宮騎士は\nもう二度と、\n手を差し伸べる種族を選ばない。\nあなたたちの絆と、\nそこから得られた結果に\n感謝するわ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Huh, section chief? What are you two talking about?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "あれ、\n係長？\nなんのお話をしてるッスか？"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "I was just telling him thanks for always looking out for you. You told me yourself how much he's helped you, remember?",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "いつもあなたを気にしてくれて\nありがとうって伝えたのよ。\nお世話になってるって、\n話してくれたじゃない。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "D-DID YOU REALLY TELL HIM ABOUT THAT?! I told you to keep it a secret because it's embarrassing!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そ、\nその話、\nしちゃったんスか！？\n恥ずかしいから、\n秘密にしておいてほしいって言ったじゃないッスか～！"
+    },
+    {
+      "name": "Lost&Found Chief",
+      "text": "There's no need to keep it a secret. You'll continue to do lots of work with him and aim to become a full-fledged knight, right?",
+      "choice_data_list": [],
+      "orig_name": "係長",
+      "orig_text": "秘密にする必要なんてないじゃない。\nこれからも彼と一緒に、\nたくさんお仕事をこなして、\n一人前の団員を目指していくんでしょ？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Well, yeah... that's what I'd love to do, but...! Um, aren't you surprised to hear all of this out of the blue?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そりゃ、\nそうしたいッスけど～……！\nあの、\nいきなり\nこんなこと言われて、\nびっくりしてないッスか？"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Really, pal...? Ehehe, then I'm relieved.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "本当ッスか……？\nえへへ、\nなら、\nよかったッス。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "If it weren't for you, pal, I might've gotten discouraged along the way. There wasn't anyone else I could tell my secret to.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分、\n{0}さんがいなかったら、\n途中で\nくじけてたかもしれないッス。\n秘密を打ち明けられる人って、\n他にいなかったから。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Having you by my side all this time... honestly, it meant a lot. I bet other people need someone like that too -- a pal to lean on when things get scary.",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ずっとそばにいてくれて、\n正直、\n心強かったッス。\nきっと\n他の人たちにも、\nそういう誰かが必要なんスよ。\n不安な時、\n支えになってくれるような人が。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "That's the kind of knight I aspire to be! So first off, I'm gonna make a great pamphlet -- one that'll let that beastfolk kid apply without worrying!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "自分は、\nそんな団員を目指したいッス！\nだからまず、\nあの獣人族の子が\n安心して応募できるような、\n立派なパンフレットを作るッスよ～！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Ohhhhh~!!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "お～！！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "And with that said, here's the pamphlet we agreed on! What do you think, pal? Is it easier to understand?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "というわけで、\nこれが\n約束のパンフレットッス！\nどうッスか？　\n分かりやすくなったッスか？"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Amazing, this looks fun! There's so many cool pictures on it! I knew it! So it's a job where you defeat bad guys after all!",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "すごい、\n面白そう！\nかっこいい絵がいっぱい描いてある！\nやっぱり、\n悪い人をやっつけるお仕事なんだね！"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Hmm, however... I wasn't aware there were other jobs mixed in. So many different kinds too, and they all look fun!",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "……\nでも、\n他にもお仕事があったのは知らなかったかも。\nいっぱいいろんなお仕事があって、\n楽しそう！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Exactly so, pal! We're an organization that helps people in need in various ways, so I hope you'll apply when you grow a little bigger!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "そういうことッス！\nいろんな形で困ってる人を助ける組織ッスから、\nもうちょっと大きくなったら\n是非\n応募してほしいッス！"
+    },
+    {
+      "name": "Beastfolk Children",
+      "text": "Understood! Thank you, Onee-chan! I'll go show this to Papa and Mama!",
+      "choice_data_list": [],
+      "orig_name": "獣人族の子ども",
+      "orig_text": "分かった！\nありがとう、\nお姉ちゃん！\nパパとママにも見せてくるね～！"
+    },
+    {
+      "name": "Beastfolk Man",
+      "text": "Haha, quite popular, aren't you? I've also seen a number of beastfolk around me who saw your pamphlet and applied. Seeing all your efforts, they wanted to help out.",
+      "choice_data_list": [],
+      "orig_name": "獣人族の男性",
+      "orig_text": "ははっ、\n大人気じゃないか。\n俺の周りでも、\nパンフレットを見て応募した獣人族が何人もいたよ。\nマツリのがんばりを見て、\n協力しようって気になったみたいだ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Really, pal?! I'm so happy! It'd be reassuring to have more beastfolk friends in the Royal Knights of NIGHTMARE!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "本当ッスか！？　\nうれしいッス～！\n【王宮騎士団（NIGHTMARE）】に獣人族の仲間が増えたら、\n心強いッスよ～！"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "It seems like you've carried your job as a temporary hire to perfection.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "どうやら、\n採用係の仕事も立派に果たしたようだな。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Captain! It was quite the hard work! Umm, are you doing all right?",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "隊長、\nお疲れさまッス！\nあのー、\nそっちの業務は\n大丈夫ッスか？"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "Well, it's all going well I guess... But more importantly, your pamphlet is getting a lot of attention. Apparently it's easy for even children to understand, so we're getting a flood of requests to receive it.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "まぁ、\nなんとかなっている……\nそれより、\nお前たちのパンフレット、\n大評判じゃないか。\n子どもにも分かりやすいと、\n取り寄せの依頼が殺到しているらしいぞ。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Yay! It was tough, but I'm glad we all worked so hard to make it! I'll go thank the others at the Lost&Found department later!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "やったッス～！\n大変だったけど、\nみんなで一生懸命作ってよかったッス～！\nあとで\n落とし物係のみんなにも、\nお礼を言っておくッス！"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "Please do so. ...Employment is the pillar that sustains an organization. If new talent doesn't come in, the organization will continue to wear out.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "是非、\nそうしてくれ。\n……\n採用は\n組織を維持するための柱だ。\n新しい人材が入ってこなければ、\n組織はどんどん摩耗してしまう。"
+    },
+    {
+      "name": "Knight Captain",
+      "text": "Like what you've experienced at the Lost&Found, it may seem unglamorous, but it's an important job. You've done a great job working together with the other members. I'll report your achievements to the Commander.",
+      "choice_data_list": [],
+      "orig_name": "騎士隊長",
+      "orig_text": "落とし物係と同様、\n地味に感じるかもしれないが、\n大切な仕事だ。\n他の団員と協力しながら、\nよくぞ立派に果たしてくれたな。\n団長にも\n活躍ぶりを報告しておこう。"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Thank you very much, pal!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "ありがとうございます！"
+    },
+    {
+      "name": "Matsuri",
+      "text": "...Did you hear that? That was one hell of a compliment! I knew it, you and I really are the perfect duo! I bet we can take on any job we want♪",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "……\n聞いたッスか？　\nメチャクチャ褒められたッス！\nやっぱり、\n{0}さんと自分は\n最高のコンビッス！\nどんな仕事でも\nこなせちゃいそうッスね♪"
+    },
+    {
+      "name": "Matsuri",
+      "text": "Of course, I can't just rely on you all the time, pal. But, for now... I'll be counting on you!",
+      "choice_data_list": [],
+      "orig_name": "マツリ",
+      "orig_text": "もちろん、\n甘えてばかりじゃダメッスけど。\nこれからも、\nどうぞよろしくッス！"
+    },
+    {
+      "name": "Narration",
+      "text": "And so, Matsuri completed yet another new job. Working with {0} and the Royal Knights, she roused herself, aiming for even greater success.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてまた一つ、新しい仕事を達成したマツリ。\n{0}や王宮騎士たちと協力しながら、\nさらなる活躍を目指して奮起するのだった。"
+    }
+  ]
+}

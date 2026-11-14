@@ -1,0 +1,817 @@
+{
+  "title": "Kuon Glacier's Pudding Contest!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Everyone was bewildered in the face of the resurrected Satsuki(?) running amok. But {0} was reminded of a certain someone based on her behavior.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "暴れ回る復活したサツキ（？）を前に戸惑う一同。\nだが{0}は、\nその言動からある人物を連想していた。"
+    },
+    {
+      "name": "？？？",
+      "text": "Ah, {0}! You're in the right place! Bring me some pudding!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あ、\n{0}！　\nいいところにいたの！\nプリンを持ってくるの！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "The otherwordly knight?! Hey, why are you letting him run free?! I told you to catch him!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "異界の騎士！？\nおい、\n何故野放しになっているのだ！\n捕まえろと言ったはずだろう！"
+    },
+    {
+      "name": "Captain of the Headless Knights",
+      "text": "Ah, no. Now that Satsuki has returned, I thought the accusations against him have been cleared...",
+      "choice_data_list": [],
+      "orig_name": "首無し騎士の隊長",
+      "orig_text": "あ、\nいえ。\nサツキがこうして復活したので、\n彼の容疑は\n晴れたのかなと……"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "What part of that is Satsuki? She's clearly possessed by an evil spirit!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "これのどこがサツキだというのだ。\n明らかに、\n悪霊に取り憑かれておるだろうが！"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Oi. Who the hell are you? Doing whatever you please with my fleshy body...",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "こら。\n手前何者だ？\n人の体で、\n好き勝手やってくれてんな。"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Wh-What are you...!? Don't come this way!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "オ、\nオマエなんなの……！？\nこっち来るななの！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "What is it this time...? Who are you talking to?",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "今度は何だ……？\n誰としゃべっている？"
+    },
+    {
+      "name": "Yukino",
+      "text": "I see. The Count and the others have no connection with Kishi-sa, so they cannot see Satsuki-chan...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "そっか。\n伯爵たちには、\n騎士さとの繋がりがねぇから、\nサツキちゃんが見えねぇんだ……"
+    },
+    {
+      "name": "Yukino",
+      "text": "...So, this ghost named Miyako-chan, who loves pudding (?), is possessing Satsuki-chan's body...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "──つ、\nつまり、\nミヤコちゃんっつー\nプリン（？）\n好きの幽霊が\nサツキちゃんの体に取り憑いてんのか……"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Tch. I tried it earlier, but it was impossible for me to steal my body back.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "チ。\nさっき試したが、\n俺が無理やり体を奪うってのも無理だった。"
+    },
+    {
+      "name": "Satsuki",
+      "text": "It seems that as a spirit, I can't physically interfere. Maybe because Miyako is possessing me, I can't even return to my body.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "霊体の俺は、\nやっぱ物理的に干渉できねェみたいだ。\nミヤコが取り憑いてるせいか、\n体の中にも戻れなかった。"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Miyako was wandering the new world in search of pudding. When she got fed up of not being able to find any, she found this body!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "ミヤコは、\nプリンを求めて新しい世界をさまよってたの。\n全然見つからなくてうんざりしてたら、\nこの体を見つけたの！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Then, I had an idea! My kouhai Grace said that the Three Demon Princesses were powerful. So, I decided to use their power to find some pudding to eat!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "そこで、\nひらめいたの！\nコーハイのグレイスが、\n三魔姫属は偉いって言ってたの。\nだから、\nその権力でプリンを食べてやることにしたの！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "That's... also impossible for Miyako. For some reason, I just can't get out of this body...",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "それが、\nミヤコにも無理なの。\nなんだか、\nこの体から上手く抜けられないの……"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Ah, I just had a great idea...! Maybe if I eat some pudding, I might juuuust be able to get out!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "あっ、\nいいこと思いついたの……！\nプリンを食べられたら、\nふわ～って\n抜け出せると思うの！"
+    },
+    {
+      "name": "Everyone",
+      "text": "She just said \"a great idea\", did she...",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "今、\n「いいこと思いついた」って\n言った……"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "That's how it is. If you want your body back, bring me some pudding!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "そういうことなの。\n体を返してほしかったら、\nプリンを持ってこいなの！"
+    },
+    {
+      "name": "Yukino",
+      "text": "N-No. W-We're in the same boat... But what is pudding anyway...?",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "う、\nううん。\nお、\nお互いさまだ……\nそもそも、\nプリンって\nなんだ……？"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "You guys... you don't know what pudding is?! Then, allow me to tell you!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "オマエたち、\nプリンも知らないの！？\nだったら、\n教えてやるの！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Pudding is smooth, yellow, and jiggly♪ It melts in your mouth and makes you happy. It's a food that only Miyako is allowed to eat～",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "プリンは、\nツルンとした\n黄色いぷるぷるなの♪\n口に入れるととろけて、\n幸せになれるの。\nミヤコだけが\n食べることを許された食べ物なの～"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "...Very well. That pudding or whatever, I'll prepare it for you. In exchange, you'll give me that body.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "……いいだろう。\nそのプリンとやらを用意してやる。\nその代わり、\nその体は私に寄こせ。"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "You... you seem to be a very reasonable guy! We have a deal!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "オマエ、\n話がわかるやつなの！\n取引成立なの！"
+    },
+    {
+      "name": "Yukino Satsuki Lului",
+      "text": "Ehh...?!\" \"Wha...!?\" \"SLURP...!",
+      "choice_data_list": [],
+      "orig_name": "ユキノ・サツキ・ルルィ",
+      "orig_text": "「えぇ……！？」\n「なっ……！？」\n「うじゅっ……！？」"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "I couldn't possibly hand over Satsuki's body back to Yukino and those miscreants. If what the otherwordly knight is saying about her spirit is true... If Satsuki really is resurrected, it will only give momentum to the mainstream faction.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "ユキノたちに、\n遺体を渡すわけにはいかぬ。\n異界の騎士が、\nサツキの霊体がどうこう言っておるのが本当なら……\n本当にサツキに復活されては、\n主流派が勢いづいてしまう。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Headless knights, this is a mission that puts our national interest at stake! Bring us all the ingredients you can find in Gio Nivlhel! We'll make this pudding to protect Satsuki's body from an evil spirit!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "首無し騎士たちよ、\nこれは国益を懸けた任務だ！\nジオ・ニヴルヘルで採れる\nあらゆる食材を持ってこい！\n悪霊からサツキの体を守るため、\n我々でプリンを作るぞ！"
+    },
+    {
+      "name": "Headless Knights",
+      "text": "Hah!",
+      "choice_data_list": [],
+      "orig_name": "首無し騎士たち",
+      "orig_text": "はっ！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "I think I can expect more from the Count than from you and the others, {0}. Pudding~ Pudding♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "{0}たちより、\n伯爵の方が期待できそうなの。\nプリン～\nプリン～♪"
+    },
+    {
+      "name": "Rurui",
+      "text": "Miyako-shan... is she really a comradesh of yours, Kishi-shan...?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ミヤコしゃんは、\n本当に\n騎士しゃんの仲間なんでしゅか……？"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Can't be helped, guess we'll make some pudding too. A showdown is upon us... I have an idea.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "仕方ねェ、\nこっちもプリンてのを作るぞ。\n対決だ……\n俺に考えがある。"
+    },
+    {
+      "name": "Narration",
+      "text": "Then, {0} and the others worked hard to make pudding, and finally...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そして{0}たちもプリン作りに奔走し、\nついに──"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "It's time to announce the results! There are two puddings in front of me♪ The winner will be decided by taste~",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "結果発表なの～！\n目の前には、\n二つのプリン♪　\n勝者は、\n味で決めることにするの～"
+    },
+    {
+      "name": "Yukino",
+      "text": "S-Somehow, we managed to make it...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "な、\nなんとか間に合ったね……"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Tch. I didn't expect you'd also prepare pudding. But whatever.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "チ。\n貴様らまでプリンを用意していたとは。\nだが、\nまあよい。"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "First... let's start with the Count's pudding. Now, open up~♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "まず\n伯爵のプリンから、\nオープンなの～♪"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Y-You...! DON'T BELITTLE PUDDING LIKE THIS!!!!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "オ、\nオマエ！\nプリンをなめるななの～！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Wha?! What are you talking about?! I recreated this \"pudding\" using high grade ingredients from Gio Gehenna itself!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "なっ！？　\n何を言うか！\nジオ・ゲヘナの高級食材で\nプリンを再現したのだぞ！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "WHY does this THING have eyes and tentacles?! This isn't pudding! You're sentenced... TO DEATH!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "どーして、\n目と触手が生えてるのー！\nこんなの、\nプリンじゃないの！　\nオマエは死刑なの～！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "S-Sentenced to death?! How insolent, you brat! Just shut up and eat it!",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "し、\n死刑だと！？　\n小娘が、\nなんと無礼な！\n黙って食べろっ！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Wh-What are you trying to do?! Stop it, Count! This is... awful, ugh...",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "な、\n何をするの！？　\nやめるの伯爵！\nうげぇ～なの～！"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Just collapse and be done with it.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "そのまま共倒れしてくれ。"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "ふぅ……\nおかげで、\nゲロゲロだったの……\n伯爵のやつ、\n許さないの……",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "ふぅ……\nおかげで、\nゲロゲロだったの……\n伯爵のやつ、\n許さないの……"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "I-I need to pull myself together... Next, I need to open the pudding for {0} and the others!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "き、\n気を取り直して……\n次は、\n{0}たちのプリンをオープンするの！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Ah...! THIS! This is a real pudding! Ahhh... It's frozen and crisp, but it's delicious~♪ This flavor is the taste of Gio Teogonia pudding~♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "こ、\nこれこそ本物のプリンなの！\nあ～んっ……\n凍ってて\nシャリシャリしてるけど、\nおいしいの～♪\nこの味は、\nジオ・テオゴニアのプリンの味なの～♪"
+    },
+    {
+      "name": "Yukino",
+      "text": "W-We did it...! We won...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "や、\nやった……！\nあてらの勝ちだ……"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Damn it...! How the hell did they...",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "く\nそう……！\n奴ら、\n一体どうやって……"
+    },
+    {
+      "name": "Captain of the Headless Knights",
+      "text": "Count, that's...",
+      "choice_data_list": [],
+      "orig_name": "首無し騎士の隊長",
+      "orig_text": "伯爵、\nそれが──"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "What, something strange is happening at the Kuon Glacier...? What does this mean...?",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "なに、\n久遠氷河に異変だと……？\nどういうことだ……？"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Hmm? Miyako is starting to get curious too! Tell Miyako what happened while she's eating!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "ん～？　\nミヤコも気になってきたの！\n食べてる間、\nミヤコにも教えるの！"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Do not tell the Count about this. I don't want him to know where the pudding came from...",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "伯爵には黙っとけよ。\nプリンの出所は、\n知られたくねェ──"
+    },
+    {
+      "name": "Rurui",
+      "text": "Big Shis Satsuki...? What are you thinking about...?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "サツキ姉しゃま。\n考えっていったい……？"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Little-Kishi. In the first place, can you even make pudding using the ingredients from Gio Nivlhel?",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "騎士公。\nそもそも、\nジオ・ニヴルヘルの食材でプリンは作れんのか？"
+    },
+    {
+      "name": "Satsuki",
+      "text": "In that case, we have the advantage of geography and information. Thanks to Yukino and you being on our side, Little-Kishi.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "なら、\n地の利と情報がある俺らが有利だ。\nこっちには、\nユキノと騎士公がいるからな。"
+    },
+    {
+      "name": "Satsuki",
+      "text": "I'm sure you've heard of stories where the \"this and that\" in Gio Nivlhel are \"things that drifted in from somewhere.\"",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "ジオ・ニヴルヘルのあれやこれやは、\n『どっかから流れてきた物』\nって話があったろ。"
+    },
+    {
+      "name": "Satsuki",
+      "text": "If that's true in the Kuon Glacier, Cocytus, there's a good chance those things are well preserved. You, Little-Kishi, will assess whether those \"things\" are pudding or not. All that's left is to check the place out.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "久遠氷河なら、\nそれが状態よく保存されてる可能性が高い。\n騎士公なら\nプリンかどうかの見分けもつく。\n後は、\n探すだけだ。"
+    },
+    {
+      "name": "Yukino",
+      "text": "I-I see... So that's why we have the advantage of geography and information...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "な、\nなるほど……\nそれで、\n地の利と情報か……"
+    },
+    {
+      "name": "Yukino",
+      "text": "A-All right. Then I know a good place where to look. Everyone, follow me.",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "よ、\nよし。\nそんなら、\nいい場所があるよ。\nみんな、\nあてについてきて。"
+    },
+    {
+      "name": "Rurui",
+      "text": "AMAZINGsh! It's like we're in an ice aquariumsh!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "しゅご～い！\nまるで、\n氷の水族館でしゅよ。"
+    },
+    {
+      "name": "Yukino",
+      "text": "Th-Thanks... We're in the cracks of Cocytus. It's very slippery, so watch yer step...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nあんがと……\nこ、\nここは、\n久遠氷河の裂け目ん中だ。\nツルッと滑っから、\n足元に気を付けてな……"
+    },
+    {
+      "name": "Satsuki",
+      "text": "In the past, Yukino used to fall a lot in these halls.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "昔は、\nユキノがよく転んでたからな。"
+    },
+    {
+      "name": "ユキノ",
+      "text": "あ、\nあはは……\n昔といえば。\n小せぇ頃、\n久遠氷河にタイムカプセル埋めたよね。\n大ぎくなったら、\n一緒に開けようって。",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nあはは……\n昔といえば。\n小せぇ頃、\n久遠氷河にタイムカプセル埋めたよね。\n大ぎくなったら、\n一緒に開けようって。"
+    },
+    {
+      "name": "Satsuki",
+      "text": "...I don't remember anything of the sort.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "……んなこともあったっけな。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Then, maybe... somethingsh from Gio Teogoniash might be frozen around heresh. Ah! Isn't this glossysh stuff pudding?!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "じゃあ、\nこの辺りは、\nジオ・テオゴニアのものが\n凍っているのかもちれましぇんね。\nあ、\nこのつやつやしてるの、\nプリンじゃないでしゅか？"
+    },
+    {
+      "name": "Yukino",
+      "text": "A-Ah, that looks like chilled tofu to me...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nあてには、\n冷ややっこに見えっけど……"
+    },
+    {
+      "name": "Satsuki",
+      "text": "No, isn't that steamed egg custard?",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "や、\n茶碗蒸しだろ？"
+    },
+    {
+      "name": "Yukino",
+      "text": "Bavarian cream...? Y-Ya sure know a lot about sweets, Kishi-sa... W-Why, if I may ask...?",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ババロア……？\nき、\n騎士さは、\nお菓子に詳しいんだなあ……\nな、\nなして、\nそんな詳しいんだ……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Kishi-shan is also knownsh as a member of the Gourmetsh Guild. He's knowledgeablesh about gourmetsh food!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "騎士しゃんは【美食殿】でしゅからね。\nグルメに詳しいんでしゅよ！"
+    },
+    {
+      "name": "Yukino",
+      "text": "I-I see. T-That must be it... It's not like ya go on dates with girls all the time or something like that...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "そ、\nそっか。\nそうだよね……\nべ、\n別に、\n女の子と、\nよくデートしてるってことじゃねぇよな……"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Is this Duchess Gre's influence rubbing on you? Get off the comedic stage right now.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "グレ公の影響か？\n座布団没収だ。"
+    },
+    {
+      "name": "Yukino",
+      "text": "A-Ahaha... K-Kishi-sa ya can be very funny... A-Anyway, it's not pudding...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nあはは……\n騎士さは、\n面白いなぁ……\nと、\nとにかく\nプリンじゃねぇんだな……"
+    },
+    {
+      "name": "Yukino",
+      "text": "Hehe. B-But, it's fun y'know... We're all walking together like this...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ふふ。\nで、\nでも、\n楽しいな……\nみんなで、\nああでもねぇ、\nこうでもねぇって歩くの……"
+    },
+    {
+      "name": "Yukino",
+      "text": "K-Kishi-sa, if ya get curious about something... p-please feel free to ask... Cocytus is a place I personally manage, so... I-I'll answer ya...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "き、\n騎士さも、\n気になったことがあったら、\nな、\nなんでも\n聞いて……\n久遠氷河は、\nあてが管理してる場所だから……\nこ、\n答えるよ……"
+    },
+    {
+      "name": "Yukino",
+      "text": "B-Back at the Yasha Pass I promised to make it up to ya... S-So I wanna show ya around...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "や、\n夜叉峠出る時に、\n埋め合わせするって、\n約束したし……\nあ、\n案内してぇんだ……"
+    },
+    {
+      "name": "Yukino",
+      "text": "B-Back then, umm... I-If I were to panic, I'd be unable to control my power. I was afraid that I might've frozen ya, Kishi-sa... so I just went ahead...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nあん時はその……\nあて、\n慌てると力の制御が利かなくなるから。\n騎士さのこと、\n凍らせんじゃねぇかって、\n怖くて……\n先行っちったけど……"
+    },
+    {
+      "name": "Yukino",
+      "text": "B-But at this rate...! I'll still be my timid and cowardly self... I feel bad and don't want to...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "で、\nでもこのままじゃ、\n臆病なままだし……\n申し訳ねぇし、\n嫌だな\nって……"
+    },
+    {
+      "name": "Yukino",
+      "text": "I-I'd be happy if you knew... about Gio Niflhel... A-And... ah, about me...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ジオ・ニヴルヘルのこと……\nし、\n知ってもらえたら、\nうれしいし……\n……そ、\nそれに……\nあ、\nあてのことも……"
+    },
+    {
+      "name": "Yukino",
+      "text": "L-Let me think... I-I guess the fact that it's cold stands out... I don't like the heat, so it's nice and comfortable... Especially right here in the crack of the glacier itself...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "そ、\nそだなあ……\nや、\nやっぱ涼しいとこかな……\nあて、\n暑いの苦手だから、\n過ごしやすくて……\n氷河の割れ目なんかだと、\nまた静かで落ち着けんだ……"
+    },
+    {
+      "name": "Yukino",
+      "text": "T-There's also other things, of course! Like, the shaved ice is delicious... Ah. I-I'll treat ya to some next time, Kishi-sa... Ah, b-but it's homemade if that's fine with ya...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ほ、\n他にもあるよ。\nかき氷がうめぇとか……\nあっ、\nこ、\n今度\n騎士さにも、\n食わしてあげるね……\nあ、\nあての、\n手作りでよかったら、\nだけど……"
+    },
+    {
+      "name": "Yukino",
+      "text": "T-TY-TY-TY-TYPE...?! W-WHAT?! WHAT KIND OF TYPE?!",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "タ、\nタタタタ、\nタイプ……！？\nえ、\nええ！？　\nタイプ！？"
+    },
+    {
+      "name": "Satsuki",
+      "text": "What's with the fuss? You'll break the glacier screaming like that.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "どうした？\n声で氷でも割るつもりか。"
+    },
+    {
+      "name": "Yukino",
+      "text": "Ah, no... i-it's n-nothing... L-Let me think... I-I guess it'd be good to have someone who likes being close to me... like when I'm playing the shamisen.",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "あ、\nううん、\nな、\nなんでもねぇよ……\nそ、\nそだな……\n寄り添ってくれる人がいいかな……\n三味線弾く時とか。"
+    },
+    {
+      "name": "Yukino",
+      "text": "I-I'm having fun... I-I didn't expect I'd be able to talk to a man...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "た、\n楽しい……\nあ、\nあて、\n意外としゃべれんだな……\n男の人と……"
+    },
+    {
+      "name": "Yukino",
+      "text": "B-But I guess that's because it's Kishi-sa... H-He's always there for me, listens to me... I feel at ease... but it makes my heart beat fast.",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "で、\nでも\nやっぱ\n騎士さ、\nだからだろうな……\n寄り添ってくれっし、\n話聞いてくれっし……\n安心できっかも……\nド、\nドキドキすっけど。"
+    },
+    {
+      "name": "Yukino",
+      "text": "Hehe... Somehow, it's hot... My chest feels so warm...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "ふふ……\nなんだか、\nぽかぽかすんなあ……\n胸のあたりが、\nあったけえ……"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Great. Yukino, can you pull it out from there? ...Yukino?",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "でかした。\nユキノ、\n取り出すことはできるか？　\n……ユキノ？"
+    },
+    {
+      "name": "Yukino",
+      "text": "A-A date with Kishi-sa...? Crap, I'm starting to get heated...",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "き、\n騎士さと\nデート……\nなんて。\nやべ、\nなんか熱くなってきた……"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Oi, isn't the ice starting to melt?",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "おい、\n氷が融け始めてねェか？"
+    },
+    {
+      "name": "Yukino",
+      "text": "Huh...!?",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "えぇ……！？"
+    },
+    {
+      "name": "ユキノ",
+      "text": "や、\nやべ。\nほんとだ……！\n管理人のあてが熱くなっちったから、\n久遠氷河も融けちってんのかも……！？　",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "や、\nやべ。\nほんとだ……！\n管理人のあてが熱くなっちったから、\n久遠氷河も融けちってんのかも……！？　"
+    },
+    {
+      "name": "Rurui",
+      "text": "I-If we don't runsh away soonsh, we'll be buriedsh alive...!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "は、\n早く逃げないと、\n生き埋めになりましゅよ……！"
+    },
+    {
+      "name": "Satsuki",
+      "text": "On the upside, thanks to this sudden melting, we'll be able to grab the pudding. Little-Kishi!",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "融けたおかげで、\nプリンはすぐ取れそうだ。\n騎士公！"
+    },
+    {
+      "name": "Yukino",
+      "text": "A-All right! E-Everyone, let's get out of here...!",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "よ、\nよし！\nみ、\nみんな脱出するよっ……！"
+    },
+    {
+      "name": "Satsuki",
+      "text": "...That's how it went. Hurry up and eat, and give me back my body.",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "──ってな感じだ。\nさっさと食べて、\n体返せ。"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "I'm savoring it niiiice and slow♪ If you rush her, Miyako won't be able to get out of this body~",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "ゆっくり味わってるの♪\n焦ったら、\nミヤコも体から抜け出せないの──"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "The Dinner Table of the Netherworld has just been summoned at the Giant Whale Castle! It's an emergency meeting to discuss what to do with the resurrected Satsuki!",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフ族の男",
+      "orig_text": "たった今、\n巨鯨城で黄泉の食卓の招集がありました！\n復活したサツキの処遇について緊急会議です！"
+    },
+    {
+      "name": "Yukino Satsuki Lului",
+      "text": "Wha?!\" \"Tch.\" \"Slurp!?",
+      "choice_data_list": [],
+      "orig_name": "ユキノ・サツキ・ルルィ",
+      "orig_text": "「なっ！？」\n「ちっ。」\n「うじゅっ！？」"
+    },
+    {
+      "name": "Satsuki",
+      "text": "Miyako, RUN!",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "ミヤコ、\n逃げろ！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "Huh... OUCH! Count, what are you doing?! DON'T GET IN THE WAY OF MY PUDDING!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "えっ──\nいたたっ！　\n伯爵、\n何するの！？\nプリンの邪魔するななのー！"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Heh. You left yourself wide open, so I restrained you.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "フ。\n隙だらけだったのでな。\n拘束させてもらった。"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "The fate of the revived Satsuki will be decided at the emergency meeting. Until the vote at the Dinner Table of the Netherworld is over, you will be kept in custody. Take her with you.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "復活したサツキの処遇は緊急会議で決める。\n黄泉の食卓での採決が終わるまでは、\n身柄は預かっておくぞ。\n連れていけ。"
+    },
+    {
+      "name": "Headless Knights",
+      "text": "Hah!",
+      "choice_data_list": [],
+      "orig_name": "首無し騎士たち",
+      "orig_text": "はっ！"
+    },
+    {
+      "name": "ミヤコ（サツキ）",
+      "text": "S-Stop it! At least... let me take ONE MORE BITEEEE!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ（サツキ）",
+      "orig_text": "や、\nやめろなの！\nせめて、\nあと一口よこせなの～……！"
+    },
+    {
+      "name": "Yukino",
+      "text": "N-No way... Count, didn't ya promise Miyako-chan?",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "そ、\nそんな……\n伯爵、\nミヤコちゃんとの約束は？"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "The emergency meeting would take priority over that, of course. If you have an opinion, share it at the meeting. Well, if you're coming, that is.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "緊急会議が優先されるに決まっておろう。\n意見があるなら、\n会議で話せ。\nま、\n来るのであればだが。"
+    },
+    {
+      "name": "Satsuki",
+      "text": "You're doing a mistake, underestimating me. But if you think things will go that easy... KH~.........!",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "舐めたマネしやがって。\nだが、\nそう簡単に──\nっ……、\n……！"
+    },
+    {
+      "name": "Yukino Lului",
+      "text": "Satsuki-chan...?!\" \"Big Shis Satsuki...!",
+      "choice_data_list": [],
+      "orig_name": "ユキノ・ルルィ",
+      "orig_text": "「サツキちゃ……！？」\n「サツキ姉しゃま……！？」"
+    },
+    {
+      "name": "サツキ",
+      "text": "くそっ、\nこんな時に……！\n気ぃ抜くと、\n本気で逝っちまいそうだ……！　",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "くそっ、\nこんな時に……！\n気ぃ抜くと、\n本気で逝っちまいそうだ……！　"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "...Count, I followed your orders regarding the matter at the Yasha Pass. The chief of the oni tribe is dealing with the situation. So, um...",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフ族の男",
+      "orig_text": "……伯爵、\n夜叉峠の件はご命令通りに。\n鬼族の族長は、\n対応に当たっています。\nそれで、\nあの……"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "I know. Next, here at Cocytus... investigate the source of that pudding they brought.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "わかっておる。\n次は、\nこの久遠氷河で\nプリンの出所も調べろ。"
+    },
+    {
+      "name": "Dark Elf Man",
+      "text": "Y-Yes...",
+      "choice_data_list": [],
+      "orig_name": "ダークエルフ族の男",
+      "orig_text": "は、\nはい……"
+    },
+    {
+      "name": "Count Orlok",
+      "text": "Then, we shall ride to the Giant Whale Castle. Yukino, if you want to join, get in the carriage. Of course, don't think that an outsider like the otherworlder can ride in my carriage.",
+      "choice_data_list": [],
+      "orig_name": "オルロック伯爵",
+      "orig_text": "では、\n続きは巨鯨城だな。\nユキノ、\n参加するのであれば\n馬車に乗れ。\n無論、\n異界人などの部外者が、\n私の馬車に乗れるとは思うなよ。"
+    },
+    {
+      "name": "Yukino",
+      "text": "...Everyone. I'm going to the Giant Whale Castle. K-Kishi-sa, please take care of Satsuki-chan... She's unstable, so stay close to her.",
+      "choice_data_list": [],
+      "orig_name": "ユキノ",
+      "orig_text": "……みんな。\nあて\n巨鯨城まで行ってくる。\nき、\n騎士さ、\nサツキちゃんのことお願い……\n不安定化のこともあるし、\n近くにいてあげてね。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Big Shis Yukino, I'll go with yoush...! Just to be safesh, I made sure to savesh Miyako-shan's half-eaten puddingsh.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ユキノ姉しゃま、\nあたちも\nお供ちましゅ……！\n念のため、\nミヤコしゃんの食べかけプリン\n確保しておきまちた。"
+    },
+    {
+      "name": "Satsuki",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "サツキ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Narration",
+      "text": "Although the party had won the pudding contest, the Count's cunning plan resulted in Satsuki's body being transported to the Giant Whale Castle.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "プリン対決に勝利したものの、\n伯爵の奸計によりサツキの体は巨鯨城へと移送されてしまう。"
+    },
+    {
+      "name": "Narration",
+      "text": "In order to participate in the emergency meeting, Yukino and Lului headed towards it, leaving {0} and Satsuki behind at the Kuon Glacier.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "緊急会議に参加するため、\nユキノとルルィは巨鯨城へ向かい、\n{0}とサツキは久遠氷河に取り残されるのだった。"
+    }
+  ]
+}

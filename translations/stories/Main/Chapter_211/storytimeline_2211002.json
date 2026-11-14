@@ -1,0 +1,873 @@
+{
+  "title": "Part 3 Ch. 11 Ep. 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Meanwhile──{0}, who just parted ways with Noemu and Octo, Violet, Grace, Kokoro, Sheffy and Quria were searching for Pecorine and the others who had gotten separated from the group.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方──\nノウェム、\nオクトーと別れた{0}、\nヴァイオレット、\nグレイス、\nコッコロ、\nシェフィ、\nクリアの６人は、\nはぐれてしまったペコリーヌたちを捜していた。"
+    },
+    {
+      "name": "Quria",
+      "text": "Phew... It looks like we're finally clear of that swamp.\nI'm all covered in mud......",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ふぅ……\nやっと沼地を抜けられそうですね。\nあちこちドロドロになっちゃいました……"
+    },
+    {
+      "name": "Grace",
+      "text": "If it's water you need, we have plenty. The local river is a little cold, but you can wash your clothes and take a bath.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "水なら十分にありますよ。\n川は少し冷たいですが、\n洗濯も水浴びもいくらでも。"
+    },
+    {
+      "name": "Quria",
+      "text": "Huh? B-But... we can't turn transparent like you, Grace-san. While our clothes are drying, we would...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "えっ？　\nで、\nでも……\nわたしたちはグレイスさんみたいに、\nスケスケになれないですから。\n服を乾かしてる間は、\nそのっ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Our change of clothes and food are all inside the Gourmet Chaser. ...Walking around such long distances like this... it really makes me grateful for Lady Onigiri's assistance.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "着替えも食料も、\nグルメチェイサー号の中でございます。\n……こうして長距離を歩き回ると、\nあらためてオニギリさまのありがたさを感じますね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Onigiri, Pecorine... Kyaru, Riri, and Precia. I hope everyone's okay...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "オニギリちゃんもペコリーヌさんも、\nキャルもリリさんもプレシアちゃんも。\nみんな無事だといいんだけど……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Hey, Violet. That in the distance... is it a village?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……ねえ、\nヴァイオレットさん。\n向こうに見えるのは……\n村、\nなのかしら？"
+    },
+    {
+      "name": "Violet",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Violet?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ヴァイオレットさん？"
+    },
+    {
+      "name": "Grace",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……"
+    },
+    {
+      "name": "Grace",
+      "text": "Madam Sheffy. You're very much correct. That's a VILLAGE. A simple village. Having said that, it's one where only zombies whose brains haven't rotted away settled in, waiting for their day to come while living a simple life.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "シェフィ氏。\nその通り、\nあれはヴィレッジ。\n村です。\nといってもあちらでは、\nまだ脳まで腐食していないゾンビたちが集まり、\n細々と暮らしているだけですが。"
+    },
+    {
+      "name": "Grace",
+      "text": "In Gio Nivlhel... such settlements are not that uncommon. I have visited a variety of them on several occasions, on my routine wal-... I mean, on my patrols.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ジオ・ニヴルヘルでは、\nああした集落は珍しくありません。\n私も何度か散歩……\nいえ。\n巡視に訪れたことがあります。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I see. In that case, it might prove a valuable source of information for us all.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なるほど。\nでしたら、\n何か情報を集めることができるかもしれませんね。"
+    },
+    {
+      "name": "Quria",
+      "text": "...Somehow... this is a very quiet village. There doesn't seem to be anyone around...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……なんだか、\nとても静かな村ですね。\n人の気配もないみたい……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "That's right... Also, the construction of those buildings. It seems to be very similar to the architectural style of Landosol...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そうね……\nそれに、\nこの建物の造り。\nランドソルの建築様式と、\nすごく似てる気がするわ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Now that you mention it, that's certainly true. Up until now, in the Underworlds... in Gio Teogonia and Gio Gehenna, the buildings were made with materials and technologies hailing from their respective worlds...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "言われてみれば、\n確かに。\nこれまでの裏世界……\nジオ・テオゴニアや\nジオ・ゲヘナでは\nそれぞれの世界の建材で、\nそれぞれの技術を用いた建物でしたが……"
+    },
+    {
+      "name": "Quria",
+      "text": "...! Looks like someone's over there!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "！\nあそこに、\n誰かいるみたいですよっ……？"
+    },
+    {
+      "name": "？？？",
+      "text": "*Lick*... *lick*...uuu, uuu...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "ペロ……\nペロ……\nうぅ、\nうぅぅ……"
+    },
+    {
+      "name": "The Three",
+      "text": "...Ngh...",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "……っ……"
+    },
+    {
+      "name": "Zombie Man",
+      "text": "Ugh...! This thing tastes so rusty...!",
+      "choice_data_list": [],
+      "orig_name": "ゾンビの男",
+      "orig_text": "うぅぅ～っ……！\nサビた味しかしやがらねぇ～……！"
+    },
+    {
+      "name": "The Three",
+      "text": "...Ehhh...",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "……えぇ……"
+    },
+    {
+      "name": "Zombie Man",
+      "text": "Wh-Who's there?!",
+      "choice_data_list": [],
+      "orig_name": "ゾンビの男",
+      "orig_text": "だ、\n誰だっ！？"
+    },
+    {
+      "name": "Grace",
+      "text": "Good evening, Master Knife Licker",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "おばんです。\nナイフペロリーヌ氏。"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "Is that you, Grace?! And who or what's with the \"Knife Licker\"?!",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "グレイスの姐さん！？\nていうか\nナイフペロリーヌ氏って\n誰すか……！？"
+    },
+    {
+      "name": "Grace",
+      "text": "Oh dear, did you forget already? When we first met, you said you couldn't remember your name, so I gave you one. A NICKNAME. A cool and fitting one.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "やですねお忘れですか。\n最初にお会いした時、\n貴方が自分の名前を思い出せないというので\n付けてあげたんじゃないですか。\nニックネーム。\nイカすやつ。"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "...H-Huh...? If I recall, I wasn't really licking anything back then...",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "……あ、\nあれ……？\nそんときは、\nヤッパ舐めの助\nだった気が……"
+    },
+    {
+      "name": "Grace",
+      "text": "You're a zombie, so it must be a memory disorder unique to your current status. Please keep it cool and rest to prevent further decay. Now then...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ゾンビ特有の記憶障害かと。\n腐敗が進まないよう、\n寒くしてお休みください。\nさておき──"
+    },
+    {
+      "name": "Grace",
+      "text": "Master Knife Licker. Have you seen any strange people in this village recently? Aside from stray ghosts... skeletons... or anything like that.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ナイフペロリーヌ氏。\n最近この村に、\n見慣れない人物が来たりしませんでしたか。\n野良の幽霊とか\nスケルトンとか、\nそういうの以外で。"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "U-Umm... You mean someone other than those people with you, right? I don't remember...",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "え、\nえーと。\nそちらの知らないお嬢さんたち以外でってことっすよね。\nちょっと覚えが……"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "...Ah. That's right, I had almost forgotten...! About that weirdo who came from the castle a little while ago...!",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "……あ。\nそうでした、\nまた忘れてました……！\nちょっと前に、\n城から来たヘンなヤツのこと……！"
+    },
+    {
+      "name": "？？？",
+      "text": "*slurp*...! BIG SHIS PRINCESS! BIG SHIS GRACEEEEE...! ( TLNote: She's a squid, she says \"shama\" instead of \"sama\" )",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "うじゅる……！\n姫姉しゃま！\nグレイス姉しゃま～！"
+    },
+    {
+      "name": "Violet",
+      "text": "My, Lului...?! Is that really you, Lului? What are you doing here?!",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "まぁ、\nルルィ……！？\n本当に、\nルルィなのですか？\nどうしてここに……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Violet. This girl is...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ヴァイオレットさま。\nこの方は……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "*slurp*......? M-My greetingsh...... N-Nice to meetsh you?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "うじゅ……？\nど、\nどもでしゅ……\nはじめ\nまちて？"
+    },
+    {
+      "name": "Violet",
+      "text": "Lului is my page... She helps me with small chores like changing clothes and cleaning my room.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "ルルィは、\nわたくしの小姓……\n着替えや部屋の掃除など、\n細々した雑務を\n手伝ってくれる者なのです。"
+    },
+    {
+      "name": "Grace",
+      "text": "Also, sometimes she spills ink.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "あと、\nたまに墨をこぼしたりなど。"
+    },
+    {
+      "name": "Quria",
+      "text": "I-Ink...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "す、\n墨っ……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "A page... if you mean someone who takes care of their master's daily needs, then she could be called my peer. Pleased to meet you, Lady Lului.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "小姓……\n主人の身の回りをお世話する方という意味でしたら、\nわたくしのご同輩でいらっしゃいますね。\nよろしくお願いいたします、\nルルィさま。"
+    },
+    {
+      "name": "Rurui",
+      "text": "P-Pleased to meetsh you... Big Shish Princess, those peoplesh are...?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "よ、\nよろしくでしゅ……\nあの\n姫姉しゃま、\nこの人たちは……？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Umm... This might be a tale that could go on for hours, but...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "えっと。\n話すと\n少し、\n長くなるんだけど──"
+    },
+    {
+      "name": "Narration",
+      "text": "...{0} and his friends were guided by Mr. Knife Licker to a comfortable place where to discuss things further.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──{0}たちは\nナイフペロリーヌ氏に案内してもらい、\n落ち着ける場所で話をすることにした。"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "Well, you asked for a comfortable place, but this is merely an empty house. For the Princess and her guests, it might be a tad too small...",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "まァ落ち着ける場所っつっても、\nただの空き家っすけどね。\nお姫様とお客人を通すにゃ、\nちっと狭ぇですし……"
+    },
+    {
+      "name": "Violet",
+      "text": "No. You have our thanks.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "いいえ。\n助かります。"
+    },
+    {
+      "name": "Mr. Knife Licker",
+      "text": "I'll be going now. Call me if you need anything.",
+      "choice_data_list": [],
+      "orig_name": "ナイフペロリーヌ氏",
+      "orig_text": "あっしはこれで。\n何かあったら呼んでくだせぇ。"
+    },
+    {
+      "name": "Grace",
+      "text": "Thank you. O'Master Knife Lover.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "感謝を。\n刃物ねぶり一世氏。"
+    },
+    {
+      "name": "Rurui",
+      "text": "*slurp*... A-Anywaysh. I'm very gladsh you're safe, Big Shish Princess.",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "うじゅる……\nそ、\nそれにしても。\n姫姉しゃま、\nご無事みたいで\nなによりでしゅ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "I thoughtsh you might've been desheived by bad people, Big Shish Princess... that you had gone to another worldsh and would've never come backsh. Rumorsh were spreading around the castle...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "姫姉しゃま、\n悪い人たちに騙されてるかもって……\n異世界に行って、\n帰ってこないんじゃないかって。\nお城では、\nウワサになってまちたので……"
+    },
+    {
+      "name": "Violet",
+      "text": "That's... My deepest apologies for worrying you, Lului. I'll have to apologize to everyone at Giant Whale Castle later...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "それは……\n心配をかけて\nごめんなさい、\nルルィ。\n後で\n巨鯨城の皆にも、\n謝らなくてはなりませんね……"
+    },
+    {
+      "name": "Grace",
+      "text": "That's a necessary step, however... before that. What happened at the castle? Lului. Lisa and the others have attacked us.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "それも必要だけど……\nその前に。\n城で何があったの？　\nルルィ。\nリーザたちに襲われたのだけど、\n私たち。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Whaa...?! Big Shish Lisa attackedsh you Big Shish Grace?! C-Certainlysh I recall you twosh don't really get along...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ええっ！？\nリーザ姉しゃまが、\nグレイス姉しゃまをっ！？\n……\nた、\nたしかに\nあまり、\n仲は良くなかった気がしましゅけど……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "I wonder if it's because we were there... I understand that from their perspective, they can't really trust us.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "私たちがいたせい……\nなのかしら。\n確かに\n向こうからしたら、\n信用できないのはわかるけど。"
+    },
+    {
+      "name": "Violet",
+      "text": "Even so... I think that if they were the girls I knew, they would have been a little more willing to listen.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "ですが……\nわたくしの知る彼女たちでしたら\nもう少し、\n聞く耳を持ってくれたかと思います。"
+    },
+    {
+      "name": "Violet",
+      "text": "Lisa and Satsuki aside, even the usually meek Yukino seemed a bit strange...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "リーザやサツキもですが、\n普段おとなしいユキノまで、\nどこか様子がおかしかったですし……"
+    },
+    {
+      "name": "Quria",
+      "text": "There may have been some other circumstances. Like it happened with Sheffy, maybe they were manipulated using hostages...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "他に何か、\n事情があったかもしれないんですね。\nシェフィさんのときみたいに、\n人質を取られてしまっているとか……？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Hostages... *slurp* B-But, right now, the castlesh is supposed to be a densh of idiots...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "人質……\nうじゅる。\nで、\nでも今は、\nお城は\nモヌケのタコツボなはずでしゅけど……"
+    },
+    {
+      "name": "Violet",
+      "text": "Huh? Wh-Why is that?",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "えっ？\nな、\n何故です？"
+    },
+    {
+      "name": "Rurui",
+      "text": "Becausesh the \"Dining Table of the Netherworld\" ordered a \"Private Meeting\". That'sh also why I was thrownsh outside. I was thinking of goingsh back to the Deep Garden, howeversh...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "『黄泉の食卓』のお触れで、\n『ひとばらい』がされたからでしゅ。\nだからあたちも、\n外に\nおっぽり出されまちて。\n『深い庭』に帰ろうかと思ったでしゅけど……"
+    },
+    {
+      "name": "Grace",
+      "text": "That's where we came in. ...Looks like you had a rough time, Lului.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "そこに我々がやってきた、\nと。\n……大変だったみたいね、\nルルィ。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "The Dining Table of the Netherworld, if I remember correctly... it's the gathering of representatives from this world that Violet mentioned.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "『黄泉の食卓』って、\nたしか……\nヴァイオレットさんの言っていた、\nこの世界の\n代表者の集まりよね。"
+    },
+    {
+      "name": "Violet",
+      "text": "Correct. I, Lisa, Satsuki, and Yukino also have seats over there.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "はい。\nわたくしや\nリーザやサツキ、\nユキノも\nそちらに席を持っておりますわ。"
+    },
+    {
+      "name": "Quria",
+      "text": "...So people of such status no longer listen to what you have to say. Isn't this private meeting just an excuse to kick people out of the castle while you aren't around, Violet-san...?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……そんな身分のあるひとたちが、\n話を聞いてくれなくなって。\nヴァイオレットさんのいないあいだに、\n勝手にお城から\n人を追いだしたりしてるってことですか……？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Are you implying that perhaps... it's a coup d'état?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それは、\nもしや──\nクーデター、\nというものでは……？"
+    },
+    {
+      "name": "Violet",
+      "text": "No way...! ...That's...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "そんな……！\n……いえ……"
+    },
+    {
+      "name": "Violet",
+      "text": "Indeed, I am incompetent... It is no wonder that everyone is dissatisfied. I am not even able to handle the royal equipment properly...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "確かに、\nわたくしは至らぬ身……\n皆が不満を抱えていたとしても、\n無理はないのかもしれません。\n王家の装備を、\n十分に扱うことも\nできませんし……"
+    },
+    {
+      "name": "Quria",
+      "text": "...Umm. Violet, I recall that you said something similar during the Princess Conference...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……えっと。\nヴァイオレットさん、\nたしかプリンセス会議のときも\n似たようなことを言ってましたけど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Violet, what exactly do you mean when you say: “handle the royal equipment properly”? I believe there are circumstances we don't know about.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ヴァイオレットさまのおっしゃる、\n「王家の装備を使いこなす」\nとは\nいったいどのような意味なのでしょうか？\n我々の知らない事情があるように\n拝察いたしますが。"
+    },
+    {
+      "name": "Violet",
+      "text": "...Well, umm...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……それは、\nその……"
+    },
+    {
+      "name": "Violet",
+      "text": "...I feel like this is going to be something embarassing to admit, but at the same time it's better for you to know sooner than later. After all, it's not really unrelated to the goals you all have, so...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……わたくしとしては、\nお恥ずかしい話なのですが。\nいずれは、\n打ち明けなくてはならないと、\n思っておりました。\n皆様の目的と、\n無関係のことではありませんから。"
+    },
+    {
+      "name": "Violet",
+      "text": "Grace. Do you mind...?",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "グレイス。\n構いませんか……？"
+    },
+    {
+      "name": "Grace",
+      "text": "Of course, Princess Violet. If that's your decision.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はい、\nヴァイオレット姫。\n貴女がそう決めたなら。"
+    },
+    {
+      "name": "Grace",
+      "text": "...Kishi-shi. And everyone else. Both the Princess and I are personally trusting you all after all we've experienced. We would also like to lend a hand to your goals. Therefore--",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……騎士氏。\nそれに、\nみなさん。\n私も姫も、\n個人的には\n貴方たちのことを信頼しつつあります。\n貴方たちの目的に、\n手を貸したいという気持ちもあります。\nですから──"
+    },
+    {
+      "name": "Grace",
+      "text": "What you're about to hear... promise not to speak a word of it to anyone.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "これから話すことを口外しないと、\n約束していただけますか。"
+    },
+    {
+      "name": "Violet",
+      "text": "...Thank you very much, Kishi-sama.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……ありがとうございます。\n騎士様。"
+    },
+    {
+      "name": "Grace",
+      "text": "...As a premise, we of Gio Nivlhel have known for some time that there are multiple \"other worlds\"---To some extent.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……前提として、\nかねてより。\n我々ジオ・ニヴルヘルは、\n複数の『異世界』の存在を知っていました──\nある程度。"
+    },
+    {
+      "name": "Grace",
+      "text": "After all, this world... it's a place where all sorts of \"waste\" ends up. For example----Your turn, Lului.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "なぜならこの世界は、\n様々な廃棄物が流れ着く場所だからです。\nたとえば──\nどうぞ、\nルルィ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "Eeehhh?! You're shuddenly making me explain thish?! Umm, well...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "えぇっ！？\nいきなりムチャ振りでしゅか！？\nえっと\nえっと……"
+    },
+    {
+      "name": "Rurui",
+      "text": "F-For example... Ah! The buildingsh in this village. Or that Mr. Knifesh Licker... maybe?",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "た、\nたとえば……\nこの村の建物とか。\nさっきの、\nナイフペロリーヌしゃんとか……\nでしゅか？"
+    },
+    {
+      "name": "みんな",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...I see. I had a sense of déjà vu when I saw that Mr. Knife Licker clothes and belongings...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……なるほど。\nナイフペロリーヌさまの服装や持ち物など、\n既視感がありましたが……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "So that's why the atmosphere of the village's buildings is so similar to that of Landosol. ...I wonder if this is data that wasn't restored when the resets occurred...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "村の建物の雰囲気が\nランドソルの様式にそっくりなのも、\nそういうことだったのね。\n……リセットのときに復元されなかったデータとか、\nなのかしら……"
+    },
+    {
+      "name": "Grace",
+      "text": "Yes, that's a nice set of examples, Lului. ...After my trip to Gio Gehenna and my interactions with Kishi-shi and his crew, I was able to confirm it with my own eyes, not only as a theory.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ええ、\nよくできました\nルルィ。\n……ジオ・ゲヘナへの旅や、\n騎士氏らとの交流で、\n説としてじゃなく\nこの目で見て、\nきちんと確信できたわ。"
+    },
+    {
+      "name": "Grace",
+      "text": "What was lost in Landosol, Gio Teogonia, and Gio Gehenna eventually finds its way here, in this Gio Nivlhel. Be it abandoned buildings, monsters, even human corpses...",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ジオ・ニヴルヘルには、\nランドソルやジオ・テオゴニア──\nジオ・ゲヘナで失われたものが流れ着く。\n廃棄された建物、\n魔物や人間の死体などなど。"
+    },
+    {
+      "name": "Violet",
+      "text": "And also... souls.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "そして……\n魂も。"
+    },
+    {
+      "name": "Grace",
+      "text": "It was said that souls who have wandered in from another world find a brief rest in the center of Gio Nivlhel - in the deepest part of the giant tower known as the \"Obsidian Palace\" that stretches from the abyss-like cliffs to the very heavens.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "異世界から迷い込んだ魂は、\nジオ・ニヴルヘルの中央──\n奈落のような断崖から、\n天へと伸びる巨大な塔\n『黒曜宮』の最深部にて\nしばらくの休息につくと、\n言われてきました。"
+    },
+    {
+      "name": "コッコロ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Violet",
+      "text": "The \"Obsidian Palace\" is a key pillar in Gio Nivlhel. It is not only the cradle of those lost souls, but also a magical facility that controls this very world itself...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "黒曜宮は、\nジオ・ニヴルヘルにおける\n要柱。\n魂の揺り籠であるだけでなく、\nこの世界そのものを司る\n魔法の施設……\nと言われておりますわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I see. So it's something comparable to the Tower of Sol back in Landosol. To know that Freyja was capable of infiltrating such a place... that's very worrying.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なるほど。\nランドソルにおける、\nソルの塔のようなものでしょうか。\nそんな場所にフレイヤが侵入したというのは……\n大変気がかりですね。"
+    },
+    {
+      "name": "Grace",
+      "text": "Yes. But leaving the matter of her infiltration aside, to reach the core of the Obsidian Palace, you must break through two levels of seals.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はい。\nですが侵入はともかく、\n黒曜宮の中枢に触れるには、\n二段階の封印を突破しなくてはなりません。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "A seal... The top of the Tower of Sol was also sealed by those so called Sol Orbs, right? That also sounds similar...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "封印……\nソルの塔の頂上にも、\nソルオーブによる封印がされてたわよね。\nそこも、\n似てるような……"
+    },
+    {
+      "name": "クリア",
+      "text": "たしか、\nソルの塔の頂上の封印を解いて\n願いを叶えるには\n12個のオーブを集めなきゃいけないんでしたっけ。\nわたしはあまり詳しくないですけど……",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "たしか、\nソルの塔の頂上の封印を解いて\n願いを叶えるには\n12個のオーブを集めなきゃいけないんでしたっけ。\nわたしはあまり詳しくないですけど……"
+    },
+    {
+      "name": "グレイス",
+      "text": "ウチの封印は、\n12個もありませんが。\n一つは、\n黒曜の柱のカケラ。\n巨鯨城の秘密の部屋にて、\nあらゆるものを拒む\n霊炎の壁に護られています。",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ウチの封印は、\n12個もありませんが。\n一つは、\n黒曜の柱のカケラ。\n巨鯨城の秘密の部屋にて、\nあらゆるものを拒む\n霊炎の壁に護られています。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...Umm. I know it might be rude to ask again since you just confirmed it earlier, but is it really okay to tell such important information to outsiders like us?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……えっと。\nさっき\n念押しされたのに\nあらためて聞くのも\n野暮かもしれないけど。\nそんな大事なこと、\n余所者に教えてくれちゃって\nいいのかしら？"
+    },
+    {
+      "name": "Grace",
+      "text": "Yes. That spiritual wall flame... is really amazing. Isn't that right? Lului.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "はい。\n霊炎の壁、\nすごいので。\nそうでしょ？　\nルルィ。"
+    },
+    {
+      "name": "Rurui",
+      "text": "A-Are you goingsh to put me on the spotsh again?! Umm, well...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ま、\nまたムチャ振りでしゅか！？\nえっと\nえっと……"
+    },
+    {
+      "name": "Rurui",
+      "text": "That's rightsh. If onesh were to touch it, they'll be disintegratedsh. ...I've been in dangersh many times while cleaningsh around it...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "そでしゅね。\n触ったら\n消し飛んじゃいましゅし。\n……あたちも掃除中、\nあぶなかったことが何度も……"
+    },
+    {
+      "name": "Violet",
+      "text": "...Furthermore, the only way to get past that spiritual flame wall is with my royal equipment--\"Sloth\". However...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……そして。\n霊炎の壁を越える\n唯一の方法が、\nわたくしの王家の装備──\n『怠惰』なのです。\nが……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...I see, now things are starting to make sense. When Lady Violet says that she \"cannot fully utilize the royal equipment\", she means that she cannot overcome that wall... if I'm understanding this correctly.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……なるほど、\n話が繋がりました。\nヴァイオレットさまが\n「王家の装備を十分に扱うことができない」\nというのはつまり……\nその壁を越えることができない、\nという意味なのですね。"
+    },
+    {
+      "name": "Violet",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rurui",
+      "text": "B-Big Shish Princess can't helpsh it, she has her own circumstancesh...! If she were to use the royalsh family's equipment wrongsh, Big Shish Princess will...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "ひ、\n姫姉しゃまは、\nしょうがない事情があるんでしゅ……！\n王家の装備の使い方をまちがえちゃったら、\n姫姉しゃまは……"
+    },
+    {
+      "name": "Violet",
+      "text": "...Even so. I must make up my mind. For everyone's sake. Above all else, for the sake of Gio Nivlhel...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……ですが。\nわたくしは、\n心を決めなくてはなりません。\n皆様のために。\n何よりも、\nこのジオ・ニヴルヘルのために……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...? For Gio Nivlhel...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……？\nジオ・ニヴルヘルのため、\nというのは……"
+    },
+    {
+      "name": "Grace",
+      "text": "That's not really an urgent matter. Princess... No matter what Lisa said, there's no need to panic. As your Chevalier, I cannot stand by and watch you cross a dangerous bridge with no guarantee of making it across.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "喫緊の問題、\nというわけではありません。\n姫……\nリーザが何を言ったとしても、\n焦る必要はないですよ。\n私も守護騎士として、\n貴女が危険な橋を渡るのは見過ごせません。"
+    },
+    {
+      "name": "Violet",
+      "text": "Grace...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "グレイス……"
+    },
+    {
+      "name": "Everyone",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Quria",
+      "text": "...Umm... As for what's next... what should we do?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……えっと……\nこの後は、\nどうしましょうか。"
+    },
+    {
+      "name": "Quria",
+      "text": "Searching for Pecorine and the others, going to Violet-san's Castle, or heading straight to the Obsidian Palace... Those are our three options, right?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ペコリーヌさんたち捜しを続けるか。\nヴァイオレットさんのお城に行ってみるか。\nそれとも\n黒曜宮っていうところに乗り込むか……\nその三択、\nですかね？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Considering my purpose in coming to this world, I have to go to the Obsidian Palace sooner or later, but...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "この世界に来た目的を考えれば、\n黒曜宮には\n遅かれ早かれ行かなくちゃだけど……"
+    },
+    {
+      "name": "Rurui",
+      "text": "*slurp*... On my partsh, I wouldn't mindsh if you helped the castlesh...",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "うじゅる……\nお城のことも、\nどうにかしてほしいでしゅ……"
+    },
+    {
+      "name": "Grace",
+      "text": "...Even if making our way back to the castle is simple enough, there's a high chance we'll meet up with Lisa and the other two again and have a quarrel... In that case, I think we should rendezvous with Princess Pecorine and the rest first.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "……城にこのまま戻ったとしても。\nリーザたちと、\nまたいざこざになる可能性は高い……\nそれなら、\nペコリーヌ姫たちと合流するべきかと。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Yes. Even if the Obsidian Palace is our target, we have to make sure everyone's safe first.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……はい。\n黒曜宮に向かうとしても、\nまずは\nみなさまのご無事を確かめてからです。"
+    },
+    {
+      "name": "Grace",
+      "text": "You don't mind that? Princess.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "構いませんか？\n姫。"
+    },
+    {
+      "name": "Violet",
+      "text": "...Yes. Princess Pecorine, Lady Kyaru and the others must be feeling lonely in such a foreign land... We have to hurry up and welcome them properly.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……ええ。\nペコリーヌ姫や\nキャル様たちも、\n異国の地で心細いでしょうし……\n早く、\nお迎えしてあげてください。"
+    },
+    {
+      "name": "Violet",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Violet",
+      "text": "However, everyone, I think you should take a break first before you depart.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "ですが、\n皆様。\n出立の前に、\nまずは\n一休みなさるべきかと……\n思いますわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...That's right. Since we've arrived in this Gio Nivlhel we've only fought and walked without end... If we keep pushing ourselves any further, we'll be the ones becoming the new undead guests of this world.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……そうですね。\nジオ・ニヴルヘルに着いてから、\n移動と戦いが続いておりますし……\nこれ以上の無理が祟っては、\nミイラ取りがミイラになってしまいます。"
+    },
+    {
+      "name": "Grace",
+      "text": "Truly. I'll be sure to welcome you. As fellow ghosts.",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ええ。\n抵抗しますからね。\nミイラも。"
+    },
+    {
+      "name": "Grace",
+      "text": "Lului. Sorry to impose, but could you arrange for everyone to rest?",
+      "choice_data_list": [],
+      "orig_name": "グレイス",
+      "orig_text": "ルルィ。\n悪いけれど、\nみんなが休めるように手配をしてもらえる？"
+    },
+    {
+      "name": "Rurui",
+      "text": "*S-Slurp*...! Big Shish Grace, leave it to me...!",
+      "choice_data_list": [],
+      "orig_name": "ルルィ",
+      "orig_text": "う、\nうじゅ……！\nグレイス姉しゃま、\n任せてくだしゃい……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord... While we're resting, let's think it over. How to find everyone.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま……\n休みながら、\n何か考えましょう。\nみなさまを捜す方法を。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Violet",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Violet",
+      "text": "...I'm so sorry. Grace, Kishi-sama... Everyone. But...",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……ごめんなさい。\nグレイス、\n騎士様……\n皆様。\nでも……"
+    },
+    {
+      "name": "Violet",
+      "text": "...Please. Vušvður.",
+      "choice_data_list": [],
+      "orig_name": "ヴァイオレット",
+      "orig_text": "……お願い。\nヴシュヴーズル。"
+    },
+    {
+      "name": "Vušvður",
+      "text": "Kan...",
+      "choice_data_list": [],
+      "orig_name": "ヴシュヴーズル",
+      "orig_text": "ケーン……"
+    }
+  ]
+}

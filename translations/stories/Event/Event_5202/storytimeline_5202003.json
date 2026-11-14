@@ -1,0 +1,607 @@
+{
+  "title": "Phase Matching",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Talking to {0} gave Chika a clue as to how to resolve the current situation. She had returned to the Elven Village and was looking for Ranpha.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}と話したことで、\n解決の糸口が見えたチカ。\n彼女はエルフの里へ戻り、\nランファを捜していた。"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさんっ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Oh! Chi-Chika-chan...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "っ……！\nチ、\nチカ\nちゃん……？"
+    },
+    {
+      "name": "Chika",
+      "text": "Hah, hah... I'm sorry for suddenly yelling at you so loudly.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "はぁ、\nはぁ……\n急に大きな声を出してごめんなさい。"
+    },
+    {
+      "name": "Chika",
+      "text": "I... There's something I want you to hear, Ranpha-san. Would now be a good time?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私、\nランファさんと話したいことがあるんです。\n今\n大丈夫ですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Something you want me to hear... I see, I understand...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "話したい、\nこと……\n……\n……\nそう、\nわかったわ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Um... first, could you let me apologize...? I've been nothing but a nuisance... I'm sorry for not being a good pupil...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あの……\n先に\n謝らせて……？\nわたし、\n迷惑\nばっかりだったから……\nいい弟子じゃなくて、\nごめん\nなさい……"
+    },
+    {
+      "name": "Chika",
+      "text": "...Huh? Wait a minute, please. Ranpha-san, what are you talking about?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……え？\nちょっと待ってください。\nランファさん、\n何の話をしてるんですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huh...? I mean, you came here to tell me the training didn't work out, right...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "えっ……？\n特訓は\nおしまい\nって話じゃ、\nないの……？"
+    },
+    {
+      "name": "Chika",
+      "text": "No, of course that's not it! I just wanted to talk to you, Ranpha-san, outside of what's going on during our training.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "そんな、\n違います！\n私はただ、\n今の状況とか、\nそういうのは関係なしに\nランファさんと話がしたいだけです。"
+    },
+    {
+      "name": "Chika",
+      "text": "Ever since we fought each other during that battle in Landosol, we've been able to cooperate normally but were never able to actually sit down and have a chat, just the two of us.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私たちって、\nランドソルで戦ったときから始まって\n今では普通に協力したりできますけど、\nちゃんとお話ししたことってあまりなかったですよね。"
+    },
+    {
+      "name": "Chika",
+      "text": "That's why I just thought it would be nice if we could talk properly if only once... Believe me, that's really all.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "だからこそ、\n一度ちゃんと話せたらって思っただけで……\n本当に、\nそれだけなんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "Back then, at the outcome of that fight... I was relieved that you and your friends had surrendered, Ranpha-san, but at the same time, I was also a little happy.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私、\nあのときも、\nランファさんたちが投降してくれて\nほっとしたと同時に、\nちょっとだけうれしかったんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "Ah, thank goodness. Now I don't have to point my weapon at someone who has powers similar to mine.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ああ、\nよかった。\nこれで自分に似た力を持ってる人に、\n武器を向けなくて済む。"
+    },
+    {
+      "name": "Chika",
+      "text": "And that's not all. \"Maybe this will turn into a chance for the two of us to become friends\"... That's what I thought.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "それだけじゃありません。\nもしかしたら、\nこれをきっかけに仲間になれるかも……\nって。"
+    },
+    {
+      "name": "Chika",
+      "text": "That's why, in the present... I was really excited when I heard I could become your companion and be of help in your Song Summoner training.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "だから今回……\nあなたと仲間になれて、\n唱喚士として力になれるって聞いて\nすごく張り切ってたんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "I wanted to help in any way I could... but that only led to me putting too many eggs in one basket... and as a result of that, I ended up being overwhelmed.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私にできることがあれば\nなんでも手伝いたいって思って……\n一人で張り切って……\n結果的に、\nそのせいで空回ってしまいました。"
+    },
+    {
+      "name": "Chika",
+      "text": "For a Song Summoner, the first contract song is something that wells up from within their heart. I believe that it's something that is born naturally, not a result of forcing yourself to work hard.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "唱喚士にとって最初の契約の歌は、\nその人の心の中から湧き上がるもの。\nそれってきっと、\n無理して頑張って生み出すものじゃなくて、\n自然に生まれるものだと思うんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "And yet, I was so focused on guiding you, Ranpha-san, that I didn't listen to what you were trying to tell me. Acting like that, it's a given that nothing could be naturally born.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "なのに私は、\n自分が導くことに必死で、\nランファさんの言葉を\nちゃんと聞いてなかった。\nこれじゃ、\n自然になんて難しいですよね。"
+    },
+    {
+      "name": "Chika",
+      "text": "The truth is, I should've approached you to have a talk like this from the start... I’m really sorry for jumping to conclusions and getting ahead of myself.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "本当はこうして、\nちゃんと話をすればよかったのに……\n勝手に判断して、\n先走っちゃって本当にごめんなさい。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...No. If there's someone that should be apologizing... that'd have to be me...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……いいえ。\n謝るのは、\nわたしのほうよ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I... Everyone was so kind... I was scared...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたし……\nみんなが\n優しくて……\n怖かったの……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "You were kind to someone like me... and you went along with my whims... but... things just weren't going well at all...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "わたしなんかに、\n優しく\nしてくれて……\nつきあって\nくれて……\nなのに……\nぜんぜん、\nうまく\nいかなくて……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Because of my no-goodness... If things stay this way... I'll surely disappoint you... That's what I'm so scared of...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "だめなわたしのせいで……\nこのままじゃ……\nきっと、\nがっかり\nさせちゃう……\nそれが……\nとっても、\n怖いの……"
+    },
+    {
+      "name": "Chika",
+      "text": "Ranpha-san... So that is what's ailing you.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ランファさん……\nそうだったんですね。"
+    },
+    {
+      "name": "Chika",
+      "text": "Somehow, I feel like I'm beginning to understand you a little better. You're such a kind person, Ranpha-san.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "なんだか、\n少しだけ分かってきた気がします。\nランファさんは、\n優しい人なんですね。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "That's not true... It's just... I'm always scared...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そんなこと、\nないわ……\nわたしは、\nただ……\n怖い\nだけ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Scared of the noises everyone makes... I just don't want to get hurt...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "みんなの音が、\n怖くて……\n傷つきたくない\nだけ……"
+    },
+    {
+      "name": "Chika",
+      "text": "But, you could have snuck away from the village at any time, and yet, you didn't.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "でも、\nあなたは里からこっそりいなくなることもできたのに、\nそうしなかった。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I mean... I can't run away from the fact I'm causing you all trouble...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "だって……\n迷惑を\nかけてるのは、\n本当\nだし……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Because you're showing such kindness towards me... I have to do what I can...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "こんなわたしに、\n優しく\nしてくれたから……\nわたしも、\nできることをしたい\nだけ、\nだわ……"
+    },
+    {
+      "name": "Chika",
+      "text": "No matter what you're feeling inside, thinking of someone like that is a great act of kindness. Geez, just accept it already.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "どんな気持ちがきっかけでも、\nそうやって相手を思えるのは\n立派な『優しさ』ですよ。\nもう、\nおとなしく認めてください。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "B-But... Ugh... Chika-chan, you're being a little too mean...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "で、\nでも……\nうぅ……\n……\nチカちゃん、\nちょっと\nいじわる\nだわ……"
+    },
+    {
+      "name": "Chika",
+      "text": "And you can be a little too stubborn, Ranpha-san.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "そういうランファさんは\nちょっと頑固です。"
+    },
+    {
+      "name": "Ranpha Chika",
+      "text": "......Fufu.",
+      "choice_data_list": [],
+      "orig_name": "ランファ・チカ",
+      "orig_text": "…………\n……\nふふっ。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'm so glad we were able to talk... Chika-chan, you really were thinking about me...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "話せて、\nよかった……\nチカちゃんは\n本当に、\nわたしのことを\n考えて\nくれてたのね……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "And yet, I... was scared of facing myself...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "なのに\nわたし……\n勝手に\n怖が\nって……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...? Why... I'm suddenly getting so sleepy...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……？\nどう\nして……\n急に、\n眠く……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah... no... I wanted to talk... a little more...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あ……\nだめ……\nもう\n少し、\nおしゃべり\nしたい……\nのに……"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Chika",
+      "text": "Ah... {0}-san. Were you looking for me?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "あっ……\n{0}さん。\n私を捜してくれたんですか？"
+    },
+    {
+      "name": "Chika",
+      "text": "Thank you very much. However, I'm sorry, but could you please lower your voice a bit?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ありがとうございます。\nですがすみません、\nもうちょっと声を落としてもらえると……"
+    },
+    {
+      "name": "Chika",
+      "text": "You see... Here, it's best if you look yourself.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "実は……\nほら、\n見てください。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Huff...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "すぅ……"
+    },
+    {
+      "name": "Chika",
+      "text": "As you can see, Ranpha-san is fast asleep. She's been through a hard time for a while, so I want to let her sleep for now.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "この通り、\nランファさんがぐっすり寝ちゃってて。\nずっと大変でしたから、\n今は寝かせておいてあげたいんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "If you'd like, you can come here and stay with us too, {0}-san. I'd feel bad if we were to talk too loudly and woke her up as a result.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "よければ{0}さんもこっちにどうぞ。\nあまり大きな声で話して、\n起こしちゃったら申し訳ないですから。"
+    },
+    {
+      "name": "Chika",
+      "text": "Yes. ...Once I started to actually talk to her, things became so simple.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "はい。\n……\n話してみたら、\n本当に簡単なことでした。"
+    },
+    {
+      "name": "Chika",
+      "text": "Even though we only exchanged a few words, I feel like I've gotten closer to understand Ranpha-san's feelings. ...Heh, I wonder why it took me so long to notice... It seems I still have to train more myself.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "少し言葉を交わしただけなのに、\nランファさんの気持ちに、\n近づけた気がします。\n……\n私、\nなんで気がつけなかったんだろう……\n修業が足りませんね。"
+    },
+    {
+      "name": "Chika",
+      "text": "It's a bad habit of mine to narrow my perspective though...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "それで視野が狭くなっちゃうのは、\n悪い癖ですけどね……"
+    },
+    {
+      "name": "Chika",
+      "text": "But, you're right. We both probably tried too hard and failed to understand the other.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "でも、\nそうですね。\n私たちはきっと、\nお互いに一生懸命すぎたんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "Because we were trying too hard, even what was in front couldn't be visible... In a way, the two of us are similar.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "一生懸命すぎたせいで\n見えるものも\n見えなくなっちゃって……\n二人とも、\nある意味似た者同士ですね。"
+    },
+    {
+      "name": "Chika",
+      "text": "But, thanks to this, I think we'll be able to do more meaningful training starting tomorrow. A way for us to worry about the same things and grow together. I feel like I'm starting to understand how to handle this.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "でもこれで、\n明日からはもっと有意義な特訓ができると思います。\nどうすれば一緒に悩んで、\n一緒に成長できるのか。\nやり方が少しずつ分かってきた気がします。"
+    },
+    {
+      "name": "Chika",
+      "text": "Ah, on that wavelength, I came up with an idea. I don't know if it'll work, but maybe Ranpha-san will be able to calm down and challenge her training as a result~...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "あっ、\nそれで私、\n一つ思いついたんです。\n上手くいくかは分からないですけど、\nこれならランファさんも\n落ち着いて取り組めるかも──"
+    },
+    {
+      "name": "Chika",
+      "text": "...Wait, {0}-san?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……って、\n{0}さん？"
+    },
+    {
+      "name": "Chika",
+      "text": "Don't tell me... you fell asleep? Geez...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "もしかして……\n寝ちゃったんですか？\nもう……"
+    },
+    {
+      "name": "Chika",
+      "text": "But... Despite clearly being sleepy, {0}-san stayed up so late worrying about us.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "でも、\n{0}さんは眠いのに\nこんな夜遅くまで、\n私たちを心配してくれたんですよね。"
+    },
+    {
+      "name": "Chika",
+      "text": "My back opposed to his feels so warm... This warm kindness makes me happy, I want to respond to it. Isn't that right, Ranpha-san?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "背中があたたかい……\nこういう優しさがうれしいから、\n応えたくなる。\nそうですよね、\nランファさん。"
+    },
+    {
+      "name": "Chika",
+      "text": "...I'll do my best, too. Even with the worries I carry, I'll give it my all with you, Ranpha-san...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……\n私も頑張ろう。\nたとえ悩んでも、\nランファさんと一緒に──"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Lyrics...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "作詞……？"
+    },
+    {
+      "name": "Chika",
+      "text": "Yes! For today's special training session, I think it'd be a good idea to convert Ranpha-san's current feelings into lyrics.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "はい！\n今日の特訓なんですが、\n今のランファさんの気持ちを\n歌詞の形にしてみたらどうかなって思うんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "When it comes to the innermost feelings of your heart... I think it's a difficult task to express them. But once you write them down and put them into words, you might be able to sort them out, and most importantly, you'll be able to show them to others in a way that's clearer to understand.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "心の中って、\n素直に出すのはやっぱり難しいと思います。\nでも一度文字にすることで\n気持ちの整理もできますし、\n何より、\n手紙よりは人に見せやすいと思うんです。"
+    },
+    {
+      "name": "Chika",
+      "text": "Besides, if you were to write them down in the form of lyrics, it might help you turn your thoughts into a song. Um... What do you think?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "それに歌詞の形にしておけば、\n心の中を歌にする際に\n取っ掛かりとなってくれるかもしれません。\nその……\nどうでしょうか？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "But, can she really just learn to write lyrics out of nowhere? These kind of things aren't something you can come up with on the spot....",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "でも、\n急に作詞なんてできるの？\nこういうのって咄嗟に思いつくものじゃないんじゃ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah... Um... I... actually love to... compose poems...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あっ……\nあの……\nわたし……\n詩は……\n少しだけ……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Huh? So you're versed in writing?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "えっ、\n作れるんですか？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Ah, um... I wouldn't make it... such a big deal, you know...? It's just... a hobby... a little hobby of mine...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あ、\nえっと……\nそんな……\n大したものじゃ、\nないのよ……？\nただ、\n趣味で……\n少し\nだけ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Wait a minute... I'll try writing something down...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ちょっと\n待ってね……\n少し、\n書いてみるわ……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'm done... But... Mmm...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "できたわ……\nでも……\nうぅん……"
+    },
+    {
+      "name": "Chika",
+      "text": "Is it okay if I see what you've written? Let's see... Oh!?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "見せてもらってもいいですか？\nえっと──……\n！？"
+    },
+    {
+      "name": "Chika",
+      "text": "Such thoughtful lyrics...! Ranpha's innermost feelings are so easily conveyed...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "すごく丁寧な歌詞……！\nランファさんの気持ちが\n切々と伝わってくる……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Chika-san? Just what kind of lyrics did you read to be so surprised... Ah...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "チカさん？\nそんなに驚くなんて、\nどんな歌詞が……\n……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "The distant sky I looked up at is now dark. My outstretched hand disappears through the gap. A light more fleeting than a star.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "「見上げた遥かな空　\n今は暗く\n伸ばした手　\n隙間から　\n消えていく\n星よりも儚い光」……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "The wings of my heart are an endless faint illusion. I sleep, dreaming of flying, without any happy memories.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "「心の翼は　\nどこまでも淡い幻想\nはばたける夢を見て眠る\n幸せな記憶も　\nないまま」……"
+    },
+    {
+      "name": "4 people",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "４人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Um... E-Everyone...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "あの……\nみ、\nみんな……？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "This... I have no other words to describe it other than a product of true talent... It's like you've reached deep down to my very heart. I almost got dragged along with your feelings so carelessly...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "これ、\nある意味すごい才能ですね……\nなんかこう、\n胸に迫るっていうか。\nうっかり引きずられるところでした……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "U-Umm... I'm sorry...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "え、\nえっと……\nごめんなさい……？"
+    },
+    {
+      "name": "Chika",
+      "text": "There's nothing for you to apologize for. Those lyrics are just how you feel, Ranpha-san.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "謝らないでください。\nこれもランファさんの\n素直な気持ちですから。"
+    },
+    {
+      "name": "Chika",
+      "text": "So... How did it feel when you actually wrote down what you felt? I was hoping it would inspire something within you...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "それで……\n実際に書いてみて、\nどうでしたか？\n何かきっかけになればと思ったんですが……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "That's... ...Umm. Is it okay if I think about it just a little more......?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "それは……\n……\nあの。\nもう少し、\n考えてみても\nいい……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Actually, what I just wrote is... I guess you could say I've done it out of habit... I was in a hurry, so... it didn't feel right...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "実は、\n今書いたものは……\n手癖、\nっていうのかしら……\n急いでしまったから……\nなんだか、\nしっくりきてなくて……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'm still clueless on what's in my heart, but... right now... I might be able to write something a little different...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "まだ、\nわからないけど……\n今なら……\nもう少し、\n違うものが\n書ける\nかも……"
+    },
+    {
+      "name": "Chika",
+      "text": "...Understood. If that's how you feel, then there's no problem with it. Please try writing another one... No, as many as you want.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……分かりました。\nそういうことなら問題ないです。\nもう一本……\nいえ、\n何本でも書いてみてください。"
+    },
+    {
+      "name": "Chika",
+      "text": "When it comes to what's inside your heart... even I have trouble understanding it sometimes. If you take the time to really think about it... you'll surely find your answer.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "心の中は、\n自分ですら\nなかなか理解できないものです。\n時間をかけてゆっくり向き合えば……\nきっと、\n答えが見えてくるはずです。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Yes...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ええ……！"
+    },
+    {
+      "name": "Narration",
+      "text": "Ranpha writes lyrics searching for the innermost feelings sleeping inside her. There is a definite hope in her eyes, unlike yesterday.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "自分の中に眠る想いを探し、\n歌詞を綴るランファ。\nその眼には、\n昨日までと違い確かな希望が感じられるのだった。"
+    }
+  ]
+}

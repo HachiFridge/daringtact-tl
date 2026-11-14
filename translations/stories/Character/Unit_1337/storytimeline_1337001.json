@@ -1,0 +1,733 @@
+{
+  "title": "Labyrista (Alpha) Episode 1",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Going back in time a little, before Akira was pursued by the InterPol...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "時をしばらく遡り、\n晶が国際警察に追われる身になる前の事──"
+    },
+    {
+      "name": "Akira",
+      "text": "Hmm... *yawn*... Huh?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "んん……\nふわぁ～……\nあれ？"
+    },
+    {
+      "name": "Akira",
+      "text": "Oh, that's no good... Did I lose consciousness? I've been so busy that I've been putting off the maintenance of my artificial body.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "おっと、\nいけない……\n意識トバしちゃってた？\n忙しさにかまけて義体のメンテ後回しにしてたからなぁ。"
+    },
+    {
+      "name": "？？？",
+      "text": "Are you awake?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "目覚めましたか？"
+    },
+    {
+      "name": "Akira",
+      "text": "Eh?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "え？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Hmm. It seems you're indeed awake, Akira. Then die.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "ふむ、\n目覚めましたね晶。\nなら死になさい。"
+    },
+    {
+      "name": "Akira",
+      "text": "Whoa! What's this all of a sudden?!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "おわっ！　\nいきなり何！？"
+    },
+    {
+      "name": "Akira",
+      "text": "Wait, wait! Just wait a second now! I've no clue at all about what happened, so can't you atleast give me a handle on what happened and let me explain myself before throwing fists?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "待った待った！　\nとりあえず待った！\n何があったか分かんないけど、\n状況把握と弁明の機会はくれないかな！？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "...Very well. It won't be too late for me to test the endurance of that robotic body you're using afterwards.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "……いいでしょう。\n義体の耐久テストをするのは、\nその後でも遅くはありませんから。"
+    },
+    {
+      "name": "Akira",
+      "text": "Uwaah, so scary... Did I do something...?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "えぇ、\n怖～……\nアタシ\n何かした……？"
+    },
+    {
+      "name": "Narration",
+      "text": "Akira was told by Raijinikanth about the various troubles that occurred in the real world while she was diving into Astrum.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "晶はラジニカーントから\nアストルムにダイブしていた間に現実側で起きた\n様々なトラブルについて聞かされた。"
+    },
+    {
+      "name": "Akira",
+      "text": "Maaaan... looks like a lot of stuff happened, huh?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "いやー、\n色々大変だったみたいだね～？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Already acting like it's none of your business... You don't even know how much trouble I was forced to take on your stead while you were away.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "何を他人事のように……\nあなたが不在の間、\nどれほどの厄介事を引き受けさせられたか。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "I've fought off all kinds of assassins sent after you several times. I used all kinds of camouflage techniques I knew to dodge pursuers, and also diligently erased all kinds of physical evidence and traces.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "あなたの元に送り込まれた刺客を撃退する事、\n数度。\n追跡者をかわすための偽装工作、\n物的証拠や痕跡の丹念な消去。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Even taking into account the time you protected me, don't you feel like the scales have been tipped on the opposite side now?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "私を保護してもらっていた分と差し引きしても、\n今回は私が随分と貸しを作ったように思いますが？"
+    },
+    {
+      "name": "Akira",
+      "text": "So by this long-winded explanation you mean... that those two strong-looking guys tied to that tree over there, knocked out and unconscious... are they also...?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ってことは……\nあっちの木に括りつけられてる、\nノックアウトされて気絶中の屈っ強そ～な二人も、\nもしかして？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "It's a blessing that a well trained human like that can be hit quite a few times before breaking...",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "訓練された人間は\n多少殴りつけても\n簡単に壊れないから良い……"
+    },
+    {
+      "name": "Akira",
+      "text": "Don't say that so solemnly. Especially in front of someone who has studied medicine...",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "しみじみ言わないでよ。\n仮にも医学を学んだ人間の前でさぁ～……"
+    },
+    {
+      "name": "Akira",
+      "text": "Well, even so? Somehow you ended up saving me? That's a pretty nice act for you, Professor.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ま、\nでも？\nなんだかんだアタシを助けてくれたんだ？\n教授にしては随分とお優し～\nこと。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "No, I merely didn't want you to escape my sight. I still haven't had you pay for your debt. If you were to be destroyed, it'd be by my hand.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "いえ、\nあなたに居なくなられては困るので。\nまだ私の分の貸しを取り立てていませんから。\nあなたを壊すなら私の手です。"
+    },
+    {
+      "name": "Akira",
+      "text": "Whoa! I take that back, that's not nice at all!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "うわっ！　\nちっとも優しい理由じゃなかった！"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Well then, it's about time I asked you to settle your debt. Ah, no monetary compensation is necessary.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "では、\nそろそろ支払いをお願いするとしましょう。\nああ\n金銭面での対価は不要です。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "I'm just going to use my fists to settle this debt of being forced to protect someone beyond the amount they were promised.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "保護されていた対価以上に払わされた負担分を、\n拳で清算させてもらうだけなので。"
+    },
+    {
+      "name": "Akira",
+      "text": "You can't just decide the method of repayment on your own, don't dismiss my worries! Aren't your fists already clenched like crazy!? Stop! Now... open your clenched hands... and relax, okay?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "だけなので、\nじゃ済まされないでしょ！\n拳、\nめちゃくちゃ握りしめてるじゃん！？\nストップ！　\nハイ、\nその握った手を\n開いて\n楽にして～？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Yes, I'll relax indeed. After I'll be done with you.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "ええ、\nそうします。\nあなたを楽にした後で。"
+    },
+    {
+      "name": "Akira",
+      "text": "Wait, are you actually serious?! Is this really just to test the durability of those artificial bodies or something...? Wait, huh?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ちょっ、\n本気！？\n義体の耐久テストってそういう……？\n待ってって、\nね？"
+    },
+    {
+      "name": "Akira",
+      "text": "Ah, geez, I get it already! Rajiraji, I've prepared what you want right here!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "あーもう、\n分かったってば！\nラジラジの欲しそうな物は用意してるから！"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "That's what you should've said from the start, hurry up and give it to me. Since it's you we're talking about, I knew you had it ready anyway.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "なら早く渡しなさい。\nあなたの事です、\nどうせ用意しているだろうと思っていました。"
+    },
+    {
+      "name": "Akira",
+      "text": "If that's what you wanted, there's gentler ways to ask. You say everything with such a straight face I really can't tell if you're joking or not.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "だったら、\nもっと心臓に優しい聞き方をしてよね。\n真顔で言うから冗談か分かりにくいったらないよ。"
+    },
+    {
+      "name": "Akira",
+      "text": "*sigh* I haven't compiled all the data yet, so I wanted to give this to you at a later date... Here.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "はぁ～、\nまだデータがまとめきれてないから\nもう少し後で渡したかったんだけど……\nほい。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "...What's this report about?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "……この報告書は？"
+    },
+    {
+      "name": "Akira",
+      "text": "A draft report that analyzed the behavioral logs of the NPCs inside the current Astrum. Rajraji, I believe that's your area of ​​expertise as a professor, right?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "アストルム内のNPCの行動ログを分析した、\n報告書の草稿。\nラジラジ、\n教授としての専門分野はこっちだったよね？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Oh... \"The spontaneous emergence and evolution of beliefs in virtual societies\", you mean?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "ほう……\n「仮想社会における\n信仰の自然発生と進化」、\nですか。"
+    },
+    {
+      "name": "Akira",
+      "text": "Spot on. How humans behave in a virtual space, how they form a community... Analyzing the worship and faith of heroes that naturally arise within it.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そ。\n仮想空間内で人間がどのように振る舞い、\nコミュニティを形成するか……\nその中で自然発生した英雄崇拝と信仰についての分析。"
+    },
+    {
+      "name": "Akira",
+      "text": "To someone like you who can't currently log in and dive into Astrum, I'm sure you're curious about this world you cannot observe.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "今のアストルムにダイブできないラジラジには、\n自分の観測できない世界がどうなってるか、\n興味あるんじゃない？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Certainly, religious studies and theology are among my specialized fields, but... I see, this report will make for a fine reward.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "確かに\n宗教学や神学は専門分野の一つですが……\nなるほど、\nあなたのレポートなら\n報酬としては悪くない。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Very well. I'll take it as compensation for the time being. ...If you'd just obediently presented this report from the start, you wouldn't have had to waste either of your time asking questions.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "いいでしょう、\nひとまずの対価として受け取ります。\n……最初から素直に提示すれば、\n先ほどの無駄な問答をせずに済んだものを。"
+    },
+    {
+      "name": "Akira",
+      "text": "You didn't really leave me much time to ask any question... Besides, showing your cards in front of a smart person is a fool's errand.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "問答する時間なんて無かったじゃん……\nそれに手持ちのカードを見せるなんて\n切れ者を相手にするには愚行だよ。"
+    },
+    {
+      "name": "Akira",
+      "text": "Even more so when the one in front of me is one of the Seven Crowns. Am I wrong?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "それも目の前にいるのは七冠ときた。\nでしょ？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "I won't deny such a claim. I'm relieved to see you're not half-asleep anymore.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "否定はしません。\nあなたが寝惚けていないようで安心しました。"
+    },
+    {
+      "name": "Akira",
+      "text": "Thank you for that. And I'm glad those glasses of yours aren't just for show.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "それはどうも。\nお眼鏡にかなったようで何より。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "...I took a quick look just now.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "……ざっと拝見しました。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "A new faith that was not the product of our creation has arisen in the game-world of Astrum. Is that really the case?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "アストルムのゲーム内に\n我々が作成していない新たな信仰が発生した、\nと。\nそういう事ですね？"
+    },
+    {
+      "name": "Akira",
+      "text": "Yup. The origins of the continent of Astraea, the history of Landosol, Togoku, Centuria, Sarasalia... the culture and customs of each of those cities were certainly created by us.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そ。\nアストライア大陸のおこりや\nランドソルの歴史、\nトーゴク、\nセントールス、\nサラサリア……\n各都市の文化や風習は確かにアタシたちが設定した。"
+    },
+    {
+      "name": "Akira",
+      "text": "However, there was something I didn't recognize in Oedo. I wondered if I had overlooked something in that town's specifications, so I looked through the setting materials, but nothing there was relevant to what was going on.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "だけど、\nどーもオーエドで見覚えのない動きがあってね。\nアタシの見落としかなーと思って、\n設定資料ひっくり返して探したけど、\n該当する情報なし。"
+    },
+    {
+      "name": "Akira",
+      "text": "And that's when I decided to analyze the behavior logs of the NPCs in the area. And then... Man, what a surprise!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そこで\nエリアに居るNPCの行動ログを解析したんだ。\nそしたら……\nなんとびっくり！"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "The NPCs interpreted the player's words in their own way, developed them further on in their data, and created new settings that we developers never intended for... or so it says.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "NPCがプレイヤーの発言を独自に解釈し、\n発展させ、\n開発者が意図しない新しい設定を作り上げた……\nと。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "An example of this new faith for heroes born in Oedo... Is one about a certain player who defeated the Evil Magistrare who ruled over the town and had a bronze statue made in his honor that the villagers still worship.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "この、\nオーエドにおける英雄信仰の例……\n悪政を敷くアクダイカンを倒し、\n銅像を作られ\n祀り上げられた英雄\nとありますが。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "The player's name has been redacted from the report--It has to be {0}, right?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "報告書ではプレイヤー名が伏せられていますが──\n{0}の事ですよね？"
+    },
+    {
+      "name": "Akira",
+      "text": "Right. I don't remember setting up such an event for the game... But an NPC in town still built a bronze statue of him. And that's how a strange folk belief was born.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そう。\nそんなイベント設定した覚えはないんだけど……\n町のNPCが彼の銅像を建てちゃって。\n変な民間信仰まで誕生しちゃったわけ。"
+    },
+    {
+      "name": "Akira",
+      "text": "\"Stroke the statue's feet and you'll be healthy for life!\", they say. There are talismans named after him, and hot springs associated with him. This is a typical transition from hero worship to deification.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "「銅像の足を撫でて\n生涯健脚！」\nだとか、\n彼にあやかったお守りだとか、\nゆかりのある温泉だとか。\n典型的な英雄崇拝から神格化への移行だ。"
+    },
+    {
+      "name": "Akira",
+      "text": "What's interesting is... what kind of blessings do you think all those practices are said to bring? I'll tell you, they're all health-related. That's so typical of the Boy.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "面白いのがさ、\n謳われてるご利益は何だと思う？\nみーんな健康関連。\nそこがまた彼らしいというか。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "How interesting. They may have been highly intelligent NPCs provided with the best coding imaginable, but they still acted on their own initiative.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "興味深いですね。\n高度な知能を組みこまれたNPCとはいえ、\nそのような自発的行動を行うとは。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Is this due to the special nature of him being a Princess Knight... or is there some other associated factor involved?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "これは\nプリンセスナイトという特別性……\nあるいは、\nそれに類する要因が関連しているのでしょうか？"
+    },
+    {
+      "name": "Akira",
+      "text": "I still haven't figured that part out. {0} is definitely a special player, but I believe there's no guarantee other players cannot trigger the same response.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "その辺りは\nまだなんとも。\n確かに{0}は特別なプレイヤーだけど、\n他のプレイヤーでも起こり得ないとは限らないし。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "That said, I see he's solved many cases within Astrum, not simply this one.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "とはいえ、\nこの例に限らず、\n彼はアストルム内で多くの事件を解決している。"
+    },
+    {
+      "name": "Akira",
+      "text": "That's right. His accomplishments are far too great by now. He's even defeated Mana and saved that world. I can understand the desire to worship him.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そうだね。\n彼の成し遂げた功績はあまりにも大きい。\n真那を倒し、\nあの世界を救ってさえいる。\n拝みたくなる気持ちも理解できるけどね。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "It's just like a heroic tale passed down in myths and legends. And if we follow that line, you... would be the witch who gave the power to the hero, so to speak.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "まるで神話や伝説に語り継がれる英雄譚のようだ。\nとなると、\nさしずめ……\nあなたは英雄に力を与える魔女、\nといったところですか。"
+    },
+    {
+      "name": "Akira",
+      "text": "A witch? Haha, a witch, heh? Unfortunately, I didn't show up just to hand him some glass slippers and a nice dream.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "魔女？　\nははっ、\n魔女か。\n残念ながら、\n彼に贈ったのはガラスの靴じゃないけどね。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "You could see that as a witch's gifts changing from era to era. In modern times, those slippers have simply taken the form of a small electronic device known as \"mimi\" while the nice dream is what's known as a \"Princess Knight\" ability.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "魔女の贈り物は\n時代によって様々です。\nそれが現代では\n小型電子デバイス『mimi』と\nプリンセスナイトの能力の形を取っただけでしょう。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Come to think of it, if we're talking about a witch's assistance... That {0}, isn't he cooperating with both Regina Geas and the Metamorph Regnant aswell?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "そういえば、\n魔女の助力……\nというと。\n彼は\nあの誓約女君や\n変貌大妃とも\n協力関係を結んでいるとか？"
+    },
+    {
+      "name": "Akira",
+      "text": "Cooperating... To be more precise, I'd say that they're just fighting the same enemies. A result of how things turned out. A lot's happened over there. It does seem like they're earnestly lending him a hand now, though.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "協力……\n正しくは\n共闘関係かな。\n成り行きというか、\nまあ\n向こうで色々あってね。\n今のトコは手を貸してくれてるみたいだけど。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "The fact that he was able to join forces with either of them is already an abnormal situation. Even if those two girls were to look for someone to help them, I'm sure that they'd have a vast choice before going for him.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "共同戦線を張れている時点で\n既に異常事態ですよ。\n彼女らの助力を得られる者を探したとして、\n果たして\n他に見つかるかどうか。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "The fact that he was basically enshrined in the town of Oedo... maybe it might not be a mere coincidence.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "オーエドの町で\n彼が祀り上げられたのも、\nあながち偶然ではないのかもしれませんね。"
+    },
+    {
+      "name": "Akira",
+      "text": "By that you mean...?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "と、\n言うと？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Just now, I likened you three to witches... Queen Labyrinth, Metamorph Regnant and Regina Geas. Three unique witches are lending him their strength.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "先ほど魔女に例えましたが……\n迷宮女王、\n変貌大妃、\n誓約女君。\n彼には\n稀代の魔女が３人も力を貸している。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "A power that could transform an ordinary person into a hero, even by itself, is something that a mere boy would normally find too much to handle. I wonder just how he's built to behave like that...",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "一人でさえ\n凡夫を傑物に変え得る力、\n単なる少年なら\n持て余すのが普通です。\n彼の何がそうさせるのか……"
+    },
+    {
+      "name": "Akira",
+      "text": "Wow, that's rare! To see someone like Rajiraji interested in someone else. You always act like you don't really care about anyone around you.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "へぇ～\n珍しい！\nラジラジが他人にそこまで興味持つなんて。\nいつも周りの事なんて眼中にない、\nって顔してるのに。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "With such outstanding performance reported, it would be impossible not to pay attention to him.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "ここまで目立つ活躍をされては、\n注目するなという方が無理でしょう。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Furthermore, all three of them are very talented and famous horses, but also the kind that tend to kill their rider. If someone like Queen Labyrinth expected {0} to be able to ride either of them... I suppose you could call that her keen eye.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "しかも皆が、\n才有り余る名馬にして\n乗り手殺しの荒馬だ。\nそれを乗りこなす器量ありと見込んでいたなら……\n流石は\n迷宮女王の慧眼\nというべきでしょうか。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Hmm... I'm starting to get a little curious about what he's like now.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "ふむ……\n今の彼がどうなっているのか、\n私も少々興味が湧いてきました。"
+    },
+    {
+      "name": "Akira",
+      "text": "Hey~? Don't be planning of messing with the Boy now, okay?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ちょっと～？　\n少年にちょっかいかけるのはやめてよね？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "There'd be no way for me to do so anyway. Unless a way to log into Astrum was found.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "かけようにも手段がありません。\nアストルムにログインする方法があれば別ですが。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "That said, I sympathize with him. If only you hadn't found him, he would have had a different, more normal life.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "しかし彼には同情しますよ。\nあなたに見出されさえしなければ、\n今とは違う、\nもっと普通の人生もあったでしょうに。"
+    },
+    {
+      "name": "Akira",
+      "text": "...That's right. I'm the one who's changed the path the Boy walked on. I won't deny that.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "……そう\nだね。\nアタシが少年の歩く道を大きく変えてしまった。\nそれは否定しない。"
+    },
+    {
+      "name": "Akira",
+      "text": "I was the one who made the Boy press the start button. No one else. I understand the meaning and responsibility of that action.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "少年にスタートボタンを押させたのはアタシだ。\n他の誰でもない。\nその意味と責任は理解してるつもり。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "In that case, Akira, you should at least raise your head.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "なら、\n晶。\nせめてあなたは顔を上げていなさい。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Whoever sent him off that path must have a duty to see where he goes, no matter how it ends.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "送り出した者には、\nどのような結末になろうと\n彼の行く先を見届ける責務があるはずです。"
+    },
+    {
+      "name": "Akira",
+      "text": "Yeah, of course, that's always been my intention. But, even though I knew this already... It hurts to hear it again from someone else's mouth.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ああ、\nもちろんそのつもりだ。\nだけど、\n分かったつもりではいたけど……\n他人の口から改めて聞かされると\n耳が痛いなぁ。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "A little pain is probably appropriate here. A perfect reminder for us who are outside of the norm.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "多少痛いくらいで丁度良いのでしょう。\n我々のような\n世間一般から外れてしまった人間には。"
+    },
+    {
+      "name": "Akira",
+      "text": "Hey, I've been thinking this for a while, but don't you radiate with a strong sense of responsibility, Rajiraji? Even though you look like you're not interested in other people.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ねえ、\n前から思ってたけど\nラジラジって意外と責任感強い？\n他人には興味ないね、\nみたいな顔してるのに。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Who are you taking me for? Personal feelings have no place in the line of duty.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "あなたは私を何だと思っているのですか？\n果たすべき義務の前に\n個人的感情は無用です。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "I am myself as long as I act in accordance with my own beliefs and morals. ...Well then.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "私は\n私の中の信義、\n道徳に従って行動しているまで。\n……では。"
+    },
+    {
+      "name": "Akira",
+      "text": "Oh my? You're leaving already?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "およ？　\nもう行っちゃうの？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "You've woken up and I've received payment for the debt you've had against me. There's no reason for me to stay.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "あなたが目覚め、\n不在の間の対価を受け取りました。\nこの場所にいる必要はもうありませんから。"
+    },
+    {
+      "name": "Akira",
+      "text": "I see. But, well... could you wait just a moment? I'll make something right away.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そっかー、\nでもさ。\nちょっとだけ待っててくれない？\nすぐ作っちゃうからさ。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Wait right there, Akira. Why are you starting to prepare crepes?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "待ちなさい、\n晶。\nなぜクレープを焼き始めているのです？"
+    },
+    {
+      "name": "Akira",
+      "text": "Well, I guess you're right that I already paid you back with interest so... Let's say I'm trying to pay upfront for your next task. I'm sure I'll cause you trouble again for a while.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そりゃ寝てた間の利子──\nは、\n清算しちゃったか。\nじゃあ\n次回報酬の先払いってことで。\nこっちでまたしばらく迷惑かけちゃうと思うし。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "It appears that you might've received some damage to the integrated circuitry in that robotic body of yours. You actually believe one crepe will suffice as payment for your request to me?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "どうやら\n義体の集積回路に損傷があるようですね。\n私へ依頼する報酬が\nクレープ一つで事足りるとでも？"
+    },
+    {
+      "name": "Akira",
+      "text": "It's not about money, it's about FEE-LIN-GS. It seems like I've caused you a lot of trouble up until now, and I'm sure I'll be asking you for a lot of things in the future, so this is my way of thanking you♪",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "お金じゃないよ、\n気・\n持・\nち。\nこれまで色々迷惑かけたみたいだし、\nこれからも色々頼むだろうから、\nそのお礼\nってことで♪"
+    },
+    {
+      "name": "Akira",
+      "text": "Ah, of course I'll pay for all the necessary expenses you might face later. Please send me an invoice with all of them.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ああ、\nもちろん必要経費なんかは\n後でちゃんと払うから。\nアタシ宛に請求書つけといて。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "...I see. \"Feelings\", huh?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "……なるほど、\n気持ちですか。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "I don't think this'll be worth the hardships I'm going to have to bear from now on, but... I guess I could take this as a deposit.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "これから背負わされるだろう苦労には\n到底見合わないでしょうが……\n手付金として\n受け取っておきましょう。"
+    },
+    {
+      "name": "Akira",
+      "text": "All right, negotiations are complete! So, what would you like from the menu?",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "よっし\n交渉成立！　\nで、\nメニューはどうする？"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Hmm, any recommendation?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "ふむ、\nおすすめは？"
+    },
+    {
+      "name": "Akira",
+      "text": "Let me see... If you ordered something like this sweetened azuki bean anmitsu crepe that's being sold for a limited time, that would be a huge help to me!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "そうだな……\nこの\n期間限定、\n甘納豆あんみつクレープとかだと\nアタシ的にはすんご～く\n助かっちゃうな！"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Akira, surely you aren't just planning to use me to get rid of the ingredients of those unsold crepes of yours are you? That's too much sugar, not enough protein, and a terrible crepe if you want to keep a healthy body.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "晶、\nどうせだからと言って\n売れ行きの良くないメニューの食材処理を目論んでませんか？\n糖質過多、\nタンパク質不足、\n健康な身体を維持するには不適切です。"
+    },
+    {
+      "name": "Akira",
+      "text": "I keep asking people to try them but they never listen... Aww, if the Boy was here he'd just listen and try out any crepe I'd make without question.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "人に聞いといて文句ばっかり……\nあーあ、\n少年だったらどんなクレープ焼いたって\n素直に食べてくれるのになぁ。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "...I've been thinking about this for a while. The menu here has so many crepes whose description couldn't ever be boiled down to \"unique\", it's making me question the sanity of the one who prepared them, also... who'd ever even taste-test them?",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "……前々から思っていたのですが。\nここのメニューに、\n変わり種という言葉では到底表せない\n正気を疑うメニューが数々見受けられますが……\n誰が試食を？"
+    },
+    {
+      "name": "Akira",
+      "text": "Well, having my reliable Princess Knight around makes menu development for the crepe shop a lot easier.",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "いやー、\n頼れるプリンセスナイトが居ると\nクレープ屋のメニュー開発も捗っちゃって。"
+    },
+    {
+      "name": "Rajnikanth",
+      "text": "Akira, please stop with this weird food exhibition obsession under the guise of developing new dishes, you're exploiting the appetite of a young boy. Not to add, it is a violation of his right to live.",
+      "choice_data_list": [],
+      "orig_name": "ラジニカーント",
+      "orig_text": "晶、\n成長期の少年の食欲に付け込んだ\n新メニュー開発という名のゲテモノ博覧会は即刻止めなさい。\n彼の生存権の侵害です。"
+    },
+    {
+      "name": "Akira",
+      "text": "Hey! You don't have to go that far! Their appearance... m-might be a little off, but I'm confident in the taste!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "ちょっと！　\nそこまで言うこたーないじゃん！\n見た目……\nは、\nちょっとアレかもだけど\n味には自信あるよ！"
+    },
+    {
+      "name": "Akira",
+      "text": "Alright, I'm fired up! I'll have you try our best crepe, on the house! If that doesn't work out, I'll listen to as many complaints as I can! Just wait right here!",
+      "choice_data_list": [],
+      "orig_name": "晶",
+      "orig_text": "よーしあったま来た！\nこうなりゃ、\nうちで一番\nのとっておきメニューで勝負だ！\nこれでダメならいくらでも苦情は聞くよ！　\nちょっと待ってて！"
+    },
+    {
+      "name": "Narration",
+      "text": "Akira then serves up her best crepe, but after eating it, Raijnikanth comments that it's \"just average\", and so a battle that has no victor ends right there.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "そうして晶は渾身のクレープを繰り出すが、\n食べたラジニカーントは「普通ですね」と評し、\n互いに勝ちも負けもない勝負が一つ終わったのだった。"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "title": "Part 2 Ch. 10 Ep. 4",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Two days after {0} and the others arrived in the land of beastfolk",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちが\n獣人の国にたどり着いてから、二日後──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Maho, and everyone from Caon! Thank you for treating me and eating!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "マホさん、\nそれに\n【自警団（カォン）】のみなさん！\n手当てとごはん、\nありがとうございました！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey, hey. Are you serious about going back to Landosol? You should be safe here.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おいおい。\nランドソルに戻るって\n本気かよ。\nここにいりゃ、\nちったぁ安全だろうに。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I appreciate the offer, but the enemy can also use spatial leap, and I honestly don't think there is any safe place to be.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "気持ちはありがたいんだけどね。\nでも相手は\n空間跳躍だって使えるんだし、\n正直、\n安全なところなんてどこにも無いと思うわ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes. That's why it's a race against time. Honestly, I'd like to greet you more properly and walk around eating, but...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい。\nなので、\n時間との勝負です。\n本当はもっと\nきちんとご挨拶したり、\n食べ歩きとかも\nさせてもらいたいんですけど……"
+    },
+    {
+      "name": "Maho",
+      "text": "Let's see... You're going back to Pecorine, Kyaru, Sheffy, and the Nightmare's Knights? The prince and Kokkoro-san...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "えっと……\n戻らはるんは\nペコリーヌはん、\nキャルはん、\nシェフィはんと\n【王宮騎士団（NIGHTMARE）】のひとらなん？\n王子はんと\nコッコロはんは……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We will stay here a little longer. We need My Lord to rest and recuperate.....",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちは、\nもう少しこちらにお世話になります。\n主さまに、\n静養していただかなくてはなりませんし……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I've talked to Pecorine and everyone else about it. I think it would be risky for all of us to move in unison.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ペコリーヌさんやみなさんと、\nいろいろ相談させてもらったんだけどね。\n全員が一丸となって動くのも、\nそれはそれでリスクが高いと思う。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "If it's really going to be a battle, we should have {0} come with us, but Eris and the monsters aren't in town right now...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "本気で戦いになるのなら、\n{0}にも\n一緒に来てもらうべきなんだけど。\n今のところ、\n街には\nエリスや魔物の姿はないそうだし……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yeah. According to the communication magic I've been using with the guys at Elizabeth Park, there's a lot of commotion, but it doesn't sound like a replacement king has come forward.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ。\n【動物苑】の連中と\n通信魔法で話した感じじゃ、\n騒ぎにはなってるが\n代わりの王様が名乗り出てきたとかは無いみたいだぜ。"
+    },
+    {
+      "name": "Jun",
+      "text": "If it looks dangerous, we'll use it as a shield to buy time for them to escape. I don't know how useful it will be, but...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "もし危険そうなら、\n我々が盾となって\n逃げていただくための時間を稼ぐ。\nどれだけ役に立てるかは、\nわからないが……"
+    },
+    {
+      "name": "Kaori",
+      "text": "By the way, is everyone all right? Shouldn't they still be asleep...?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "っていうか、\nみんな身体は平気さ？\nまだ寝てたほうがいいんじゃ……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, to be honest, I do want to do that, but...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まー正直、\nそうさせてもらいたい気持ちはやまやまなんだけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "As the princess of Landosol, I cannot leave the city unattended. I must return as soon as possible.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ランドソルのプリンセスとして、\nいつまでも街をほったらかしにすることはできません。\n一刻も早く、\n戻らなくっちゃです。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Yeah. Me too... I can't leave things as they are. About Zane...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "うん。\n私も……\nそのままには、\nしておけないの。\nゼーンのこと……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Miss Sheffy...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "シェフィさま……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Kokkoro-san and {0}, take your time healing your wounds. Things are going to get even more serious from here on out.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "コッコロさんと{0}は、\nゆっくり傷を治して。\nこれからますます、\n大変なことになっちゃいそうだし。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I can't just leave these guys alone. I'm worried about Her Majesty, too...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あたしはこいつら、\n放っておくわけにはいかないし。\n……陛下のことも気になるし……"
+    },
+    {
+      "name": "Jun",
+      "text": "If we can use the route that cuts through the cliff near the lake, it'll be a lot shorter. I'll rely on Kyaru-chan's flight magic.",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "湖畔近くの大断崖を突っ切るルートが使えれば、\n大幅な短縮になる。\nキャルちゃんの飛行魔法、\n頼らせてもらうよ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hmph. You'd better be prepared for it to be rough!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ふんっ。\n荒っぽいから、\n覚悟しておきなさいよね！"
+    },
+    {
+      "name": "Maho",
+      "text": "[Carmina] What will you do? I don't mind if you take your time for a while...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "【カルミナ】のみなはんは、\nどうしはります？\nしばらくゆっくりされはって、\n構いまへんけど……"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Hmm... I really do want to go with everyone, but...",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "ん……\nみんなと、\n一緒に行きたい気持ちは\nすごくあるけど……"
+    },
+    {
+      "name": "Chika",
+      "text": "We want to find a way to get rid of the brainwashing magic cast on the producer.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "私たち、\nプロデューサーさんにかけられた洗脳魔法を解く方法を\n探したいんです。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "I'm sure it'll help Lady Rei and the others. That's what I think!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "それはきっと、\nレイ様たちの手助けにもなるって。\nそう思うんです！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "That's right. If we can remove the brainwashing of Christina and Neneka, I'm sure they'll lend us their strength again.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうですね。\nクリスティーナさんやネネカさんたちの洗脳を解除できれば、\nきっとまた\n力を貸してくれるはずです。"
+    },
+    {
+      "name": "Nozomi",
+      "text": "Yeah! Everyone, be careful!",
+      "choice_data_list": [],
+      "orig_name": "ノゾミ",
+      "orig_text": "うん！\nみんなも、\n気をつけて！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's all be together and make sure we meet safely!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "全員揃って、\n必ず無事に会いましょう！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...She's gone. Is this really for the best...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……行ってしまわれましたね。\n本当にこれで、\n良かったのでしょうか……"
+    },
+    {
+      "name": "Kaori",
+      "text": "Hey, Kasumi... Can't we all fight together?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "ねえ、\nカスミ～\nみんなで力を合わせて迎え撃つんじゃ、\nダメさ～？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I'd like to, too, if possible. But with the enemy's identity, power, and numbers unknown, it's hard to come up with a plan. ...And most importantly, umm...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私だって、\n可能ならそうしたいところだけどね。\nでも、\n敵の正体も力も数も未知数じゃ\n作戦を立てることだって難しいし。\n……\n何より、\nその……"
+    },
+    {
+      "name": "Makoto",
+      "text": "? What's wrong? You're frowning.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "？\nどうしたんだよ、\nしかめっ面して。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...I asked Rei-san, Pecorine, and the others to tell me more about Eris and the rest of the group, as well as the battle against the [Rage Legion].",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nレイさんたちやペコリーヌさんたちに、\nエリスたちのこと、\nそれに\n【レイジ・レギオン】との戦いを\n詳しく聞かせてもらったんだけど。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "If I'm right, there's probably someone who's secretly communicating with the enemy. Someone from Gourmet or Twinkle Wish.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私の想像が正しければ、\nおそらく……\n敵に内通している人間がいる。\n【美食殿】か\n【トゥインクルウィッシュ】の誰かが、\nね。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Whaaat?!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "えええっ！？"
+    },
+    {
+      "name": "Maho",
+      "text": "Wh-What...?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "な、\nないつう……？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Wait, she's a spy?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "って、\nスパイってことかよ！？"
+    },
+    {
+      "name": "コッコロ",
+      "text": "あ、\nりえません！\nわたくしどもも、\n【トゥインクルウィッシュ】の方々も、\n身命を賭して戦いを続けて参りました。",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ、\nりえません！\nわたくしどもも、\n【トゥインクルウィッシュ】の方々も、\n身命を賭して戦いを続けて参りました。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Even if you could profit from selling the information, it would be worthless if you lost your life. I can't think of any reason for someone to do that.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "たとえ情報を売って利益を得られたとしても、\n命を失ってしまっては\n元も子もないではありませんか。\n内通など、\nとても考えられません……！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Umm... Sorry, sorry. I didn't explain it very well.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "んっと……\nご\nめんごめん、\n少々説明がヘタだったね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "As for why she’d brought this up in the first place, it was because she was planning to launch a surprise attack on the [Rage Legion]’s base, but she was worried about the fact that they’d been attacked instead.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そもそもどうして、\nこんなことを言い出したかというと。\n【レイジ・レギオン】の拠点に向けて\n奇襲をかけるつもりが、\n逆に攻め込まれたという話が\n気になったからなんだ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "That’s...yes... If Lady Labyrista hadn’t asked Masaki and Noemu for reinforcements, it would’ve been a close call.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "それは……\nはい……\nラビリスタさまが\nマサキさまやノウェムさまに\n援軍を頼んでいらっしゃらなければ、\n危ないところでした。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Yes, that's right. The surprise attack on Gourmet and Twinkle Wish was completely exposed, but the ambush you didn't know about was a success. Which means...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そう、\nそれだよ。\n【美食殿】と【トゥインクルウィッシュ】の\n奇襲は\n完全にばれてしまっていたのに、\n君たちの知らない伏兵は成功した。\nこれはつまり……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "It's because one of us leaked information...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしたちの中の誰かが、\n情報を漏らしてしまったからだ、\nと……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Misora took the Sol Orb we were looking for ahead of us...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……わたくしたちが目当てとしていたソルオーブを、\n先回りして\nミソラに奪われてしまいましたね……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "B-But... I still can't believe it...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "で、\nですが。\nやはり、\n信じられません……\nそのようなこと……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Just to be clear, she wasn't necessarily aware that she was leaking information to the person in question.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "一応言っておくけれど、\n必ずしも本人に\n情報を漏らしてしまっている自覚があるとは限らない。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's like communication magic, where you can read people's thoughts. There's a magic item embedded in your body that picks up sound. That's possible... It might be an optimistic view, though.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "通信魔法みたいなもので、\n思考を読み取られているとか。\n体内に、\n音を拾うマジックアイテムを埋め込まれているとか。\nそういう可能性もある……\nちょっと\n楽観的な見方かもしれないけどね。"
+    },
+    {
+      "name": "Maho",
+      "text": "A traitor... I see. So that's why you couldn't stop the princesses from insisting on going back to Landosol.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "内通者……\nなるほどなぁ。\nそれで\nランドソルに帰りたい言い張る王女はんらを、\n止めへんかったんやねぇ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Let's split everyone into two groups and see which of them finds out what we're doing.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "みんなを二手に分けて\nどっちの動きがばれちゃうか……\n見ようってことさ～？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's a gamble, though. But Pecorine's right that if Eris makes her move, it'll be dangerous no matter where or how many people there are...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "賭けではあるけどね。\nでもエリスが動き出したら\nどこに誰が、\n何人居ようと危ないっていうのは\nペコリーヌさんの言う通りだし……"
+    },
+    {
+      "name": "Makoto",
+      "text": "H-Hey. Could it be that the reason I didn't call Yui and the others to see the princess off was...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "な、\nなぁ。\nもしかして、\n王女さんたちの見送りに\nユイたちを呼ばなかったのは……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Of course, it's possible that there's a traitor among the Twiinkle wish people. And the only one who definitely does not fall into that category is Noemu.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "もちろん、\n【トゥインクルウィッシュ】の人たちの中に\n内通者がいる可能性もあるからだよ。\n間違いなく該当しないのは、\nノウェムさんだけだし。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "For now, let's see which side the enemy moves against.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ひとまずは。\nどの側に対して敵が動くか……\n様子見、\nだね。"
+    },
+    {
+      "name": "Makoto",
+      "text": "...I see. In that case, let's focus on recovering {0} and the others first.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "……そっか。\nじゃあそのあいだは、\nまずは{0}らの回復に専念だな。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Well then, {0}? Do you want to eat? Or do you want me?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "それじゃあ{0}っ？\nごはんにするさ？\nそれとも、\n私にするさ～？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Okay♪ Then we'll prepare a full course meal from our hometown!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "は～い♪\nそれなら私らの故郷のフルコース、\nたっくさん用意するさ～！"
+    },
+    {
+      "name": "Maho",
+      "text": "It's about time for the prince to get a taste of not just porridge, but the beastfolk's elaborate cooking as well.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そろそろ\nおかゆさんとかだけじゃなくて\n獣人族の手の込んだ料理、\n王子はんに\n味わってもらいたいわぁ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yeah! I didn't give the prince much to eat, but... I'll treat them to a feast so amazing that they won't want to go back to Landosol's food!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ああ！　\n王女さんたちにはあんまり食わせてやれなかったけど……\nランドソルの食事に戻りたくなくなるくらい、\nとびっきりのご馳走でもてなしてやるぜ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Okay~♪ Leave it to me~♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "は～い♪\nまっかせるさ～♪"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Whaaat!? Kaori-san said she'd do it to me...!?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ええっ！？\n「私にする」って、\nカオリさんっ……！？"
+    },
+    {
+      "name": "Kaori",
+      "text": "I'll cheer up {0} with my dance! I'm going to dance a lot! Oh, or will you dance with me, {0}?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "私の踊りで、\n{0}を元気にしてあげるさ～！\nたっくさん踊っちゃうよ～！\nあっ、\nそれとも{0}も一緒に踊るさ～？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Geez. What's the point of making injured people dance...?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ったく。\n怪我人踊らせてどーすんだっての……"
+    },
+    {
+      "name": "Maho",
+      "text": "Hehe, you're right. He's getting better soon, so...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふふっ、\nせやねぇ。\nはよ元気になってもろて、\nそれで……"
+    },
+    {
+      "name": "Maho",
+      "text": "...You'll have to meet my parents. You don't get many chances like this...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……うちの両親に、\n挨拶してもらわな。\nこんな機会、\nめったにあらへんし……"
+    },
+    {
+      "name": "Kaori",
+      "text": "Maho? What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "マホ？\nどうかしたさ～？"
+    },
+    {
+      "name": "マホ",
+      "text": "な、\nんでもあらへんよ～？\nほな、\nお屋敷に戻りましょ。",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "な、\nんでもあらへんよ～？\nほな、\nお屋敷に戻りましょ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "-Honestly, these people. Not only is the world in danger, but this world itself might be a closed room trick... They're so easygoing, it's almost reassuring. Really.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "──まったく、\nこの人たちときたら。\n世界の危機どころか、\nこの世界そのものが密室トリックなのかもしれないのに……\nお気楽すぎて頼もしいくらいだよ、\n本当に。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Eh?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……んっ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Kishi-kun!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "騎士くーーーんっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Everyone! There you are!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "みんなっ！\nここにいたのか！"
+    },
+    {
+      "name": "Maho",
+      "text": "Rei-han, Hiyori-han. What happened?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "レイはん。\nヒヨリはん。\nどないされはったん？"
+    },
+    {
+      "name": "Rei",
+      "text": "Yui... Did you see Yui?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ユイをっ……\nユイを見ていないかっ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yui-sama?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ユイさま、\nですか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I-I took my eyes off her for a moment, and then Yui-chan disappeared...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ちょ、\nちょっと目を離したあいだに、\nユイちゃんいなくなっちゃって……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "What?! What the hell are you talking about?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なんだって！？\nあんなザマで、\nどこに行くってんだよ！"
+    },
+    {
+      "name": "Rei",
+      "text": "I don't know... Maybe she was kidnapped by the enemy using spacial leap...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "わからない……\nひょっとしたら、\n敵の空間跳躍で\n誘拐されてしまったのかも……"
+    },
+    {
+      "name": "Kaori",
+      "text": "Spacial leap?! Kidnapping?! Th-This is terrible!!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "空間跳躍っ！？\n誘拐！？\nた、\n大変さ～っ！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Wait. We haven't seen the scene yet, but... If we use a magic spell that transcends space, we'll probably notice it too. Right, Maho-san?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "待って。\nまだ、\n現場を見ていないけれど……\n空間を飛び越えるような大魔法を使ったら、\nその魔力の流れで私たちも気づくんじゃないかな。\nね、\nマホさん。"
+    },
+    {
+      "name": "Maho",
+      "text": "That's right. There's a barrier around the mansion so you can tell when intruders come. Even if someone did slip through it, we would know.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "せやねぇ。\n屋敷のまわりは、\n侵入者が来たら\nわかるように\n結界を敷いてるし。\nそれを\nすり抜けられるとしても、\n大きな魔法を使ったら\n流石にわかるわ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Umm... Kasumi-chan and Yui-chan, then...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えっと……\nカスミちゃん、\nユイちゃんは、\nそれじゃあ……"
+    },
+    {
+      "name": "Makoto",
+      "text": "Then... why are you saying that Yui left on her own?! Hey, Kasumi!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "それじゃあ……\nなんだってんだ、\nユイが独りで、\n自分の足で出ていったとでも言いてーのかっ！？\nおいカスミっ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "C-Calm down! Maybe she just wanted to get some fresh air?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "お、\n落ち着いて！\nただちょっと、\n外の空気を\n吸いたくなっただけかもしれないだろうっ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Anyway, I have to find her! I can't leave Yui-chan alone right now!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "とにかく、\n捜さなきゃ！\n今のユイちゃんを、\n一人にしてはおけないよっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "I'm sorry, but I need your help! Could you split up and search for Yui?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "みんな、\nすまないが力を貸してほしい！\n手分けして、\nユイを捜してくれないかっ？"
+    },
+    {
+      "name": "Everyone",
+      "text": "Yeah!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "うん！"
+    },
+    {
+      "name": "オクトー",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "──……"
+    }
+  ]
+}

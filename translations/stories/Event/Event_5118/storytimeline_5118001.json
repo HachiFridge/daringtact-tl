@@ -1,0 +1,810 @@
+{
+  "title": "Where's my Rat Ears?",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]ランドソルにある宿屋の一室──\n[FFFFFFFF]\nカリンに助力を求められたジータと{0}。\n[FFFFFFFF]\nそんな彼女たちの前で、ビカラを名乗る少女は無言で小さくなっていた。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]ランドソルにある宿屋の一室──\n[FFFFFFFF]\nカリンに助力を求められたジータと{0}。\n[FFFFFFFF]\nそんな彼女たちの前で、ビカラを名乗る少女は無言で小さくなっていた。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]本当に……\n[FFFFFFFF]\nビカラちゃん、\n[FFFFFFFF]なんだよね？\n[FFFFFFFF]\n[FFFFFFFF]フリーマーケットで会ったときと\n[FFFFFFFF]イメージが違うような……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]本当に……\n[FFFFFFFF]\nビカラちゃん、\n[FFFFFFFF]なんだよね？\n[FFFFFFFF]\n[FFFFFFFF]フリーマーケットで会ったときと\n[FFFFFFFF]イメージが違うような……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]す、\n[FFFFFFFF]すす、\n[FFFFFFFF]すみません……\n[FFFFFFFF]\n[FFFFFFFF]お、\n[FFFFFFFF]驚かせてしまって……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]す、\n[FFFFFFFF]すす、\n[FFFFFFFF]すみません……\n[FFFFFFFF]\n[FFFFFFFF]お、\n[FFFFFFFF]驚かせてしまって……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]でも、\n[FFFFFFFF]本当なんです……\n[FFFFFFFF]\nあたし、\n[FFFFFFFF]あたし…………\n[FFFFFFFF]本当に、\n[FFFFFFFF]ビカラなんです……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]でも、\n[FFFFFFFF]本当なんです……\n[FFFFFFFF]\nあたし、\n[FFFFFFFF]あたし…………\n[FFFFFFFF]本当に、\n[FFFFFFFF]ビカラなんです……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]そっか。\n[FFFFFFFF]\nイメージが変わりやすいのは私も同じだったよね。\n[FFFFFFFF]\n[FFFFFFFF]うんうん、\n[FFFFFFFF]そう考えたら納得だよ！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]そっか。\n[FFFFFFFF]\nイメージが変わりやすいのは私も同じだったよね。\n[FFFFFFFF]\n[FFFFFFFF]うんうん、\n[FFFFFFFF]そう考えたら納得だよ！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]びっくりしちゃってごめんね、\n[FFFFFFFF]ビカラちゃん。\n[FFFFFFFF]\n[FFFFFFFF]もう大丈夫だから、\n[FFFFFFFF]安心して！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]びっくりしちゃってごめんね、\n[FFFFFFFF]ビカラちゃん。\n[FFFFFFFF]\n[FFFFFFFF]もう大丈夫だから、\n[FFFFFFFF]安心して！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]は、\n[FFFFFFFF]はぁ……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]は、\n[FFFFFFFF]はぁ……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]え……\n[FFFFFFFF]ジョブチェンジってなんだろ……？　",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]え……\n[FFFFFFFF]ジョブチェンジってなんだろ……？　"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ランドソル語……\n[FFFFFFFF]かな？　\n[FFFFFFFF]だとしても受け入れるのが早い……\n[FFFFFFFF]\n[FFFFFFFF]大体のニュアンスで分かっちゃうなんてノリがよすぎるよ……\n[FFFFFFFF]\n[FFFFFFFF]説明が楽っていうより、\n[FFFFFFFF]こうなってくるとむしろ怖い……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ランドソル語……\n[FFFFFFFF]かな？　\n[FFFFFFFF]だとしても受け入れるのが早い……\n[FFFFFFFF]\n[FFFFFFFF]大体のニュアンスで分かっちゃうなんてノリがよすぎるよ……\n[FFFFFFFF]\n[FFFFFFFF]説明が楽っていうより、\n[FFFFFFFF]こうなってくるとむしろ怖い……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]も、\n[FFFFFFFF]もしかして……\n[FFFFFFFF]この辺の人ってみんなノリで生きてるの……？\n[FFFFFFFF]\n[FFFFFFFF]まさかランドソルは陽の街……\n[FFFFFFFF]陽ドソルなのかな？　",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]も、\n[FFFFFFFF]もしかして……\n[FFFFFFFF]この辺の人ってみんなノリで生きてるの……？\n[FFFFFFFF]\n[FFFFFFFF]まさかランドソルは陽の街……\n[FFFFFFFF]陽ドソルなのかな？　"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]みなさん、\n[FFFFFFFF]もうお知り合いだったんですね。\n[FFFFFFFF]\n[FFFFFFFF]でしたら話は早いです。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]みなさん、\n[FFFFFFFF]もうお知り合いだったんですね。\n[FFFFFFFF]\n[FFFFFFFF]でしたら話は早いです。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]そういえば、\n[FFFFFFFF]困ったことが起きたんですよね。\n[FFFFFFFF]\n詳しく聞かせてもらえますか？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]そういえば、\n[FFFFFFFF]困ったことが起きたんですよね。\n[FFFFFFFF]\n詳しく聞かせてもらえますか？"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]もちろんです。\n[FFFFFFFF]\n[FFFFFFFF]ビカラさん、\n[FFFFFFFF]私から代わりに説明してもよろしいですか？",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]もちろんです。\n[FFFFFFFF]\n[FFFFFFFF]ビカラさん、\n[FFFFFFFF]私から代わりに説明してもよろしいですか？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]はい……\n[FFFFFFFF]\n[FFFFFFFF]すみません、\n[FFFFFFFF]助かります……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]はい……\n[FFFFFFFF]\n[FFFFFFFF]すみません、\n[FFFFFFFF]助かります……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]では、\n[FFFFFFFF]簡単に状況をお話ししますね。\n[FFFFFFFF]\n[FFFFFFFF]あれは、\n[FFFFFFFF]ちょうど今日のフリーマーケットが終了した頃でした──",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]では、\n[FFFFFFFF]簡単に状況をお話ししますね。\n[FFFFFFFF]\n[FFFFFFFF]あれは、\n[FFFFFFFF]ちょうど今日のフリーマーケットが終了した頃でした──"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]私は、\n[FFFFFFFF]イベントの警護を行っていたギルドの方々と\n[FFFFFFFF]現地で簡単な\n[FFFFFFFF]\n報告会をしていたんです。\n[FFFFFFFF]情報の共有も終わり、\n[FFFFFFFF]会場を後にしようと\n[FFFFFFFF]\nしたところ……\n[FFFFFFFF]店じまいをしていたビカラさんをお見かけしまして……",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]私は、\n[FFFFFFFF]イベントの警護を行っていたギルドの方々と\n[FFFFFFFF]現地で簡単な\n[FFFFFFFF]\n報告会をしていたんです。\n[FFFFFFFF]情報の共有も終わり、\n[FFFFFFFF]会場を後にしようと\n[FFFFFFFF]\nしたところ……\n[FFFFFFFF]店じまいをしていたビカラさんをお見かけしまして……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ビカラさん、\n[FFFFFFFF]お疲れさまです！\n[FFFFFFFF]\n[FFFFFFFF]ネズ耳の売り上げはいかがでした？",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ビカラさん、\n[FFFFFFFF]お疲れさまです！\n[FFFFFFFF]\n[FFFFFFFF]ネズ耳の売り上げはいかがでした？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]やぁ、\n[FFFFFFFF]カリンじゃないか！\n[FFFFFFFF]\n[FFFFFFFF]おかげさまでネズ耳は完売！　\n[FFFFFFFF]ソールドアウトさ！\n[FFFFFFFF]\nたとえ国が変わっても、\n[FFFFFFFF]いいものは分かっちゃうんだね♪",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]やぁ、\n[FFFFFFFF]カリンじゃないか！\n[FFFFFFFF]\n[FFFFFFFF]おかげさまでネズ耳は完売！　\n[FFFFFFFF]ソールドアウトさ！\n[FFFFFFFF]\nたとえ国が変わっても、\n[FFFFFFFF]いいものは分かっちゃうんだね♪"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]それはなによりです。\n[FFFFFFFF]\n[FFFFFFFF]もし困ったことがありましたら、\n[FFFFFFFF]いつでもお声がけくださいね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]それはなによりです。\n[FFFFFFFF]\n[FFFFFFFF]もし困ったことがありましたら、\n[FFFFFFFF]いつでもお声がけくださいね。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]かの鼠神宮のビカラさんといえど、\n[FFFFFFFF]\nトーゴクとアストライア大陸では\n[FFFFFFFF]勧進の方法も違うでしょうし……\n[FFFFFFFF]\n[FFFFFFFF]国からも\n[FFFFFFFF]可能な限り活動をサポートするようにと言われています。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]かの鼠神宮のビカラさんといえど、\n[FFFFFFFF]\nトーゴクとアストライア大陸では\n[FFFFFFFF]勧進の方法も違うでしょうし……\n[FFFFFFFF]\n[FFFFFFFF]国からも\n[FFFFFFFF]可能な限り活動をサポートするようにと言われています。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]なので、\n[FFFFFFFF]ご遠慮はなさらないでくださいね。\n[FFFFFFFF]\nギルド管理協会は\n[FFFFFFFF]いつでもビカラさんを歓迎しますよ。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]なので、\n[FFFFFFFF]ご遠慮はなさらないでくださいね。\n[FFFFFFFF]\nギルド管理協会は\n[FFFFFFFF]いつでもビカラさんを歓迎しますよ。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ハハッ！　\n[FFFFFFFF]助かるよ！\n[FFFFFFFF]\nこっちの大陸に来たのは初めてだからね！\n[FFFFFFFF]\n[FFFFFFFF]なにかあったら頼りにさせてもらうよ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ハハッ！　\n[FFFFFFFF]助かるよ！\n[FFFFFFFF]\nこっちの大陸に来たのは初めてだからね！\n[FFFFFFFF]\n[FFFFFFFF]なにかあったら頼りにさせてもらうよ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]それにしても……\n[FFFFFFFF]この街は王都だけあって活気があるね！\n[FFFFFFFF]\n[FFFFFFFF]活気があるところには、\n[FFFFFFFF]陽の気も集まる。\n[FFFFFFFF]\n[FFFFFFFF]陽の気があれば、\n[FFFFFFFF]みんなも笑顔になれるってものさ！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]それにしても……\n[FFFFFFFF]この街は王都だけあって活気があるね！\n[FFFFFFFF]\n[FFFFFFFF]活気があるところには、\n[FFFFFFFF]陽の気も集まる。\n[FFFFFFFF]\n[FFFFFFFF]陽の気があれば、\n[FFFFFFFF]みんなも笑顔になれるってものさ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]だからすぐに、\n[FFFFFFFF]びっかーん！　\n[FFFFFFFF]ときたよ！\n[FFFFFFFF]\n[FFFFFFFF]ここで暮らすみんなにとって、\n[FFFFFFFF]ランドソルは夢を見られる場所──\n[FFFFFFFF]\n[FFFFFFFF]いわゆる、\n[FFFFFFFF]ゆ～とぴあなんだってね♪",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]だからすぐに、\n[FFFFFFFF]びっかーん！　\n[FFFFFFFF]ときたよ！\n[FFFFFFFF]\n[FFFFFFFF]ここで暮らすみんなにとって、\n[FFFFFFFF]ランドソルは夢を見られる場所──\n[FFFFFFFF]\n[FFFFFFFF]いわゆる、\n[FFFFFFFF]ゆ～とぴあなんだってね♪"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ゆ～とぴあ……\n[FFFFFFFF]\n[FFFFFFFF]ふふっ、\n[FFFFFFFF]そう言っていただけるとうれしいです！\n[FFFFFFFF]\n明るく楽しいランドソルのために働いている一人としましては。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ゆ～とぴあ……\n[FFFFFFFF]\n[FFFFFFFF]ふふっ、\n[FFFFFFFF]そう言っていただけるとうれしいです！\n[FFFFFFFF]\n明るく楽しいランドソルのために働いている一人としましては。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ハハッ！　\n[FFFFFFFF]カリンは勤勉だね！\n[FFFFFFFF]\nそんなきみには、\n[FFFFFFFF]ネズ耳をサービス……\n[FFFFFFFF]したいところだけど、\n[FFFFFFFF]\nあいにく品切れ中なんだ。\n[FFFFFFFF]代わりに、\n[FFFFFFFF]ご利益たっぷりの握手をしよう！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ハハッ！　\n[FFFFFFFF]カリンは勤勉だね！\n[FFFFFFFF]\nそんなきみには、\n[FFFFFFFF]ネズ耳をサービス……\n[FFFFFFFF]したいところだけど、\n[FFFFFFFF]\nあいにく品切れ中なんだ。\n[FFFFFFFF]代わりに、\n[FFFFFFFF]ご利益たっぷりの握手をしよう！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]さあ、\n[FFFFFFFF]ぼくの手を握って！\n[FFFFFFFF]\n[FFFFFFFF]明るく楽しいランドソルで\n[FFFFFFFF]ぼくと握手！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]さあ、\n[FFFFFFFF]ぼくの手を握って！\n[FFFFFFFF]\n[FFFFFFFF]明るく楽しいランドソルで\n[FFFFFFFF]ぼくと握手！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ビカラさんと握手できるなんて光栄です。\n[FFFFFFFF]\n[FFFFFFFF]それでは、\n[FFFFFFFF]失礼して……",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ビカラさんと握手できるなんて光栄です。\n[FFFFFFFF]\n[FFFFFFFF]それでは、\n[FFFFFFFF]失礼して……"
+    },
+    {
+      "name": "？？？",
+      "text": "[FFFFFFFF]──ッ！！",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "[FFFFFFFF]──ッ！！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]きゃっ！？",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]きゃっ！？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]え？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]え？"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]今のは……\n[FFFFFFFF]鳥、\n[FFFFFFFF]ですよね？\n[FFFFFFFF]\n[FFFFFFFF]人の方に向かって飛んでくるなんて……\n[FFFFFFFF]\n珍しいですね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]今のは……\n[FFFFFFFF]鳥、\n[FFFFFFFF]ですよね？\n[FFFFFFFF]\n[FFFFFFFF]人の方に向かって飛んでくるなんて……\n[FFFFFFFF]\n珍しいですね。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]…………ぁ……\n[FFFFFFFF]\nあ、\n[FFFFFFFF]あ……\n[FFFFFFFF]\nあああああ…………！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]…………ぁ……\n[FFFFFFFF]\nあ、\n[FFFFFFFF]あ……\n[FFFFFFFF]\nあああああ…………！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ビカラさん……？\n[FFFFFFFF]\nどうされました？\n[FFFFFFFF]\nもしかして怪我でも……",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ビカラさん……？\n[FFFFFFFF]\nどうされました？\n[FFFFFFFF]\nもしかして怪我でも……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ないんです………",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ないんです………"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]え？",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]え？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ネ、\n[FFFFFFFF]ネネ、\n[FFFFFFFF]ネズ耳が……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ネ、\n[FFFFFFFF]ネネ、\n[FFFFFFFF]ネズ耳が……！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あたしのネズ耳が……\n[FFFFFFFF]\n[FFFFFFFF]ないんですぅ～……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あたしのネズ耳が……\n[FFFFFFFF]\n[FFFFFFFF]ないんですぅ～……！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]……ということがあったんです。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]……ということがあったんです。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]なるほど……\n[FFFFFFFF]\nそんなことがあったんですね。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]なるほど……\n[FFFFFFFF]\nそんなことがあったんですね。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]そこで、\n[FFFFFFFF]お二人には\n[FFFFFFFF]ネズ耳を取り返すために協力をしてほしいんです。\n[FFFFFFFF]\n[FFFFFFFF]お力を貸していただけませんか？",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]そこで、\n[FFFFFFFF]お二人には\n[FFFFFFFF]ネズ耳を取り返すために協力をしてほしいんです。\n[FFFFFFFF]\n[FFFFFFFF]お力を貸していただけませんか？"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]もちろんです！\n[FFFFFFFF]\n[FFFFFFFF]ビカラちゃんが困ってるなら、\n[FFFFFFFF]放っておくなんてできません！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]もちろんです！\n[FFFFFFFF]\n[FFFFFFFF]ビカラちゃんが困ってるなら、\n[FFFFFFFF]放っておくなんてできません！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]み、\n[FFFFFFFF]みなさん……！\n[FFFFFFFF]\n[FFFFFFFF]すみません、\n[FFFFFFFF]ご迷惑をおかけして……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]み、\n[FFFFFFFF]みなさん……！\n[FFFFFFFF]\n[FFFFFFFF]すみません、\n[FFFFFFFF]ご迷惑をおかけして……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]気にしないで！\n[FFFFFFFF]\n困ったときは\n[FFFFFFFF]お互いさまだよ。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]気にしないで！\n[FFFFFFFF]\n困ったときは\n[FFFFFFFF]お互いさまだよ。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]それにしても……\n[FFFFFFFF]\nやっぱり、\n[FFFFFFFF]あのネズ耳には\n[FFFFFFFF]特別な力があったんだね。\n[FFFFFFFF]\nここまでビカラちゃんのイメージが変わっちゃうなんて思わなかったよ。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]それにしても……\n[FFFFFFFF]\nやっぱり、\n[FFFFFFFF]あのネズ耳には\n[FFFFFFFF]特別な力があったんだね。\n[FFFFFFFF]\nここまでビカラちゃんのイメージが変わっちゃうなんて思わなかったよ。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ……\n[FFFFFFFF]いえ……\n[FFFFFFFF]特別な力とかは別に……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ……\n[FFFFFFFF]いえ……\n[FFFFFFFF]特別な力とかは別に……"
+    },
+    {
+      "name": "ジータ・カリン",
+      "text": "[FFFFFFFF]え？",
+      "choice_data_list": [],
+      "orig_name": "ジータ・カリン",
+      "orig_text": "[FFFFFFFF]え？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ざ、\n[FFFFFFFF]材料はどこにでも売ってますし……\n[FFFFFFFF]\n[FFFFFFFF]代わりはいくらでも作れます……\n[FFFFFFFF]\n[FFFFFFFF]それこそ売るくらい……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ざ、\n[FFFFFFFF]材料はどこにでも売ってますし……\n[FFFFFFFF]\n[FFFFFFFF]代わりはいくらでも作れます……\n[FFFFFFFF]\n[FFFFFFFF]それこそ売るくらい……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]そ、\n[FFFFFFFF]そうだったんですか？\n[FFFFFFFF]\n[FFFFFFFF]ええと、\n[FFFFFFFF]私はてっきり\n[FFFFFFFF]鼠神宮に伝わる\n[FFFFFFFF]魔道具か何かなのかと……",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]そ、\n[FFFFFFFF]そうだったんですか？\n[FFFFFFFF]\n[FFFFFFFF]ええと、\n[FFFFFFFF]私はてっきり\n[FFFFFFFF]鼠神宮に伝わる\n[FFFFFFFF]魔道具か何かなのかと……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]す、\n[FFFFFFFF]すすすみません……！\n[FFFFFFFF]\n[FFFFFFFF]まぎらわしいリアクションしちゃって……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]す、\n[FFFFFFFF]すすすみません……！\n[FFFFFFFF]\n[FFFFFFFF]まぎらわしいリアクションしちゃって……！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]でも、\n[FFFFFFFF]それなら事件は解決……\n[FFFFFFFF]かな？\n[FFFFFFFF]\n[FFFFFFFF]私たち、\n[FFFFFFFF]今もネズ耳を持ってるから！\n[FFFFFFFF]\n二つもあれば大丈夫だよね！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]でも、\n[FFFFFFFF]それなら事件は解決……\n[FFFFFFFF]かな？\n[FFFFFFFF]\n[FFFFFFFF]私たち、\n[FFFFFFFF]今もネズ耳を持ってるから！\n[FFFFFFFF]\n二つもあれば大丈夫だよね！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あああ……\n[FFFFFFFF]\nすみません、\n[FFFFFFFF]違うんです……！\n[FFFFFFFF]\n[FFFFFFFF]ややこしいんですけど、\n[FFFFFFFF]特別なことは本当なんです……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あああ……\n[FFFFFFFF]\nすみません、\n[FFFFFFFF]違うんです……！\n[FFFFFFFF]\n[FFFFFFFF]ややこしいんですけど、\n[FFFFFFFF]特別なことは本当なんです……！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]べ、\n[FFFFFFFF]別に\n[FFFFFFFF]特別な力があるわけじゃないんです……\n[FFFFFFFF]\n[FFFFFFFF]でも、\n[FFFFFFFF]あたしにとっては特別なネズ耳で……\n[FFFFFFFF]\n[FFFFFFFF]だって……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]べ、\n[FFFFFFFF]別に\n[FFFFFFFF]特別な力があるわけじゃないんです……\n[FFFFFFFF]\n[FFFFFFFF]でも、\n[FFFFFFFF]あたしにとっては特別なネズ耳で……\n[FFFFFFFF]\n[FFFFFFFF]だって……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あのネズ耳は…………\n[FFFFFFFF]\n旅に出るときからつけていた……\n[FFFFFFFF]\n鼠神宮から持ってきた、\n[FFFFFFFF]最後のネズ耳なので……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あのネズ耳は…………\n[FFFFFFFF]\n旅に出るときからつけていた……\n[FFFFFFFF]\n鼠神宮から持ってきた、\n[FFFFFFFF]最後のネズ耳なので……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]鼠神宮って、\n[FFFFFFFF]たしか\n[FFFFFFFF]ビカラちゃんが主をしてるっていう神殿……\n[FFFFFFFF]\n[FFFFFFFF]じゃなかった、\n[FFFFFFFF]神社だよね。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]鼠神宮って、\n[FFFFFFFF]たしか\n[FFFFFFFF]ビカラちゃんが主をしてるっていう神殿……\n[FFFFFFFF]\n[FFFFFFFF]じゃなかった、\n[FFFFFFFF]神社だよね。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]はい……\n[FFFFFFFF]\n[FFFFFFFF]一応、\n[FFFFFFFF]そういうことになってます……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]はい……\n[FFFFFFFF]\n[FFFFFFFF]一応、\n[FFFFFFFF]そういうことになってます……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]た、\n[FFFFFFFF]旅に出る前、\n[FFFFFFFF]ネズ耳の在庫はそれなりに作ってたんです……\n[FFFFFFFF]\n[FFFFFFFF]でも、\n[FFFFFFFF]アストライア大陸に着いたときには、\n[FFFFFFFF]在庫が切れちゃってて……\n[FFFFFFFF]\n[FFFFFFFF]気づいたら、\n[FFFFFFFF]あたしがつけていたネズ耳しか残ってなくて……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]た、\n[FFFFFFFF]旅に出る前、\n[FFFFFFFF]ネズ耳の在庫はそれなりに作ってたんです……\n[FFFFFFFF]\n[FFFFFFFF]でも、\n[FFFFFFFF]アストライア大陸に着いたときには、\n[FFFFFFFF]在庫が切れちゃってて……\n[FFFFFFFF]\n[FFFFFFFF]気づいたら、\n[FFFFFFFF]あたしがつけていたネズ耳しか残ってなくて……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]それで、\n[FFFFFFFF]今は材料を現地調達して作ってるんです……\n[FFFFFFFF]\n立ち寄った村や\n[FFFFFFFF]町の雑貨屋さんとかで……\n[FFFFFFFF]どうにか……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]それで、\n[FFFFFFFF]今は材料を現地調達して作ってるんです……\n[FFFFFFFF]\n立ち寄った村や\n[FFFFFFFF]町の雑貨屋さんとかで……\n[FFFFFFFF]どうにか……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]なるほど……\n[FFFFFFFF]それで\n[FFFFFFFF]最後のネズ耳なんですね。\n[FFFFFFFF]\n[FFFFFFFF]たとえるなら、\n[FFFFFFFF]今ランドソルにあるネズ耳は\n[FFFFFFFF]\nアストライア産\n[FFFFFFFF]といったところでしょうか。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]なるほど……\n[FFFFFFFF]それで\n[FFFFFFFF]最後のネズ耳なんですね。\n[FFFFFFFF]\n[FFFFFFFF]たとえるなら、\n[FFFFFFFF]今ランドソルにあるネズ耳は\n[FFFFFFFF]\nアストライア産\n[FFFFFFFF]といったところでしょうか。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]トーゴクから一緒に旅をしてきたネズ耳なんだ……\n[FFFFFFFF]\n[FFFFFFFF]それなら\n[FFFFFFFF]思い入れもあるよね。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]トーゴクから一緒に旅をしてきたネズ耳なんだ……\n[FFFFFFFF]\n[FFFFFFFF]それなら\n[FFFFFFFF]思い入れもあるよね。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]物ですから、\n[FFFFFFFF]いつかは壊れるって分かってます……\n[FFFFFFFF]\n[FFFFFFFF]でも……\n[FFFFFFFF]こんな形で別れるのは、\n[FFFFFFFF]ちょっと……\n[FFFFFFFF]\n[FFFFFFFF]いえ、\n[FFFFFFFF]かなり……\n[FFFFFFFF]まだ…………\n[FFFFFFFF]無理で……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]物ですから、\n[FFFFFFFF]いつかは壊れるって分かってます……\n[FFFFFFFF]\n[FFFFFFFF]でも……\n[FFFFFFFF]こんな形で別れるのは、\n[FFFFFFFF]ちょっと……\n[FFFFFFFF]\n[FFFFFFFF]いえ、\n[FFFFFFFF]かなり……\n[FFFFFFFF]まだ…………\n[FFFFFFFF]無理で……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ……\n[FFFFFFFF]\nす、\n[FFFFFFFF]すみません、\n[FFFFFFFF]自分語りしちゃって……\n[FFFFFFFF]\n[FFFFFFFF]ご清聴かしこみでした……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ……\n[FFFFFFFF]\nす、\n[FFFFFFFF]すみません、\n[FFFFFFFF]自分語りしちゃって……\n[FFFFFFFF]\n[FFFFFFFF]ご清聴かしこみでした……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ううん、\n[FFFFFFFF]おかげでビカラちゃんの気持ちが分かったよ。\n[FFFFFFFF]\n[FFFFFFFF]こっちこそ、\n[FFFFFFFF]話してくれてありがとう！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ううん、\n[FFFFFFFF]おかげでビカラちゃんの気持ちが分かったよ。\n[FFFFFFFF]\n[FFFFFFFF]こっちこそ、\n[FFFFFFFF]話してくれてありがとう！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ねえ、\n[FFFFFFFF]ビカラちゃん。\n[FFFFFFFF]\nもうちょっとお話を聞かせてもらってもいいかな？\n[FFFFFFFF]\n[FFFFFFFF]私、\n[FFFFFFFF]どうしても気になることがあって……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ねえ、\n[FFFFFFFF]ビカラちゃん。\n[FFFFFFFF]\nもうちょっとお話を聞かせてもらってもいいかな？\n[FFFFFFFF]\n[FFFFFFFF]私、\n[FFFFFFFF]どうしても気になることがあって……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]お、\n[FFFFFFFF]お話ですか……？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]お、\n[FFFFFFFF]お話ですか……？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]え、\n[FFFFFFFF]何が気になるの……？\n[FFFFFFFF]\n[FFFFFFFF]あたしなんて、\n[FFFFFFFF]ただの陰キャなのに……\n[FFFFFFFF]\n[FFFFFFFF]まさか……\n[FFFFFFFF]カツアゲ……？　",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]え、\n[FFFFFFFF]何が気になるの……？\n[FFFFFFFF]\n[FFFFFFFF]あたしなんて、\n[FFFFFFFF]ただの陰キャなのに……\n[FFFFFFFF]\n[FFFFFFFF]まさか……\n[FFFFFFFF]カツアゲ……？　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ビカラちゃんのイメージがすっごく変わっちゃったでしょ？\n[FFFFFFFF]\n[FFFFFFFF]ネズ耳がなくなって、\n[FFFFFFFF]しょんぼりしちゃった以外にも\n[FFFFFFFF]\n何か理由がありそうだなーって思ったんだ。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ビカラちゃんのイメージがすっごく変わっちゃったでしょ？\n[FFFFFFFF]\n[FFFFFFFF]ネズ耳がなくなって、\n[FFFFFFFF]しょんぼりしちゃった以外にも\n[FFFFFFFF]\n何か理由がありそうだなーって思ったんだ。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]は、\n[FFFFFFFF]はぁ……\n[FFFFFFFF]\nそういうことでしたら……\n[FFFFFFFF]\n[FFFFFFFF]つまらない話にはなっちゃいますけど……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]は、\n[FFFFFFFF]はぁ……\n[FFFFFFFF]\nそういうことでしたら……\n[FFFFFFFF]\n[FFFFFFFF]つまらない話にはなっちゃいますけど……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]あたし…………\n[FFFFFFFF]\n小さいころから本当にドジで、\n[FFFFFFFF]のろまで、\n[FFFFFFFF]地味で、\n[FFFFFFFF]暗くて、\n[FFFFFFFF]臆病で……\n[FFFFFFFF]\n[FFFFFFFF]いいところなんて一つもなくて……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]あたし…………\n[FFFFFFFF]\n小さいころから本当にドジで、\n[FFFFFFFF]のろまで、\n[FFFFFFFF]地味で、\n[FFFFFFFF]暗くて、\n[FFFFFFFF]臆病で……\n[FFFFFFFF]\n[FFFFFFFF]いいところなんて一つもなくて……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]で、\n[FFFFFFFF]でも、\n[FFFFFFFF]ある日……\n[FFFFFFFF]\nあたしのところに、\n[FFFFFFFF]いきなりドーちゃんがやってきたんです……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]で、\n[FFFFFFFF]でも、\n[FFFFFFFF]ある日……\n[FFFFFFFF]\nあたしのところに、\n[FFFFFFFF]いきなりドーちゃんがやってきたんです……"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──……",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]鼠神宮では、\n[FFFFFFFF]ドーちゃんに選ばれた人が\n[FFFFFFFF]お役目を果たす習わしなんです。\n[FFFFFFFF]\n[FFFFFFFF]それで……\n[FFFFFFFF]血筋も才能もないあたしが、\n[FFFFFFFF]主になっちゃって……\n[FFFFFFFF]\n[FFFFFFFF]どうしようもなくて……\n[FFFFFFFF]もう鬱くて…………",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]鼠神宮では、\n[FFFFFFFF]ドーちゃんに選ばれた人が\n[FFFFFFFF]お役目を果たす習わしなんです。\n[FFFFFFFF]\n[FFFFFFFF]それで……\n[FFFFFFFF]血筋も才能もないあたしが、\n[FFFFFFFF]主になっちゃって……\n[FFFFFFFF]\n[FFFFFFFF]どうしようもなくて……\n[FFFFFFFF]もう鬱くて…………"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]そんなとき、\n[FFFFFFFF]ネズ耳が……\n[FFFFFFFF]\nあたしを……\n[FFFFFFFF]\nビッキィにしてくれたんです……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]そんなとき、\n[FFFFFFFF]ネズ耳が……\n[FFFFFFFF]\nあたしを……\n[FFFFFFFF]\nビッキィにしてくれたんです……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ネズ耳が？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ネズ耳が？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ビッキィは、\n[FFFFFFFF]あたしの理想なんです……\n[FFFFFFFF]\nずっと頭の中で妄想してた、\n[FFFFFFFF]明るくてキラキラした理想の自分……\n[FFFFFFFF]\n[FFFFFFFF]それが、\n[FFFFFFFF]ビッキィなんです……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ビッキィは、\n[FFFFFFFF]あたしの理想なんです……\n[FFFFFFFF]\nずっと頭の中で妄想してた、\n[FFFFFFFF]明るくてキラキラした理想の自分……\n[FFFFFFFF]\n[FFFFFFFF]それが、\n[FFFFFFFF]ビッキィなんです……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]お役目に選ばれたとき、\n[FFFFFFFF]あたし、\n[FFFFFFFF]どうにかしなくちゃって思って……\n[FFFFFFFF]\n[FFFFFFFF]こ、\n[FFFFFFFF]こんな陰キャじゃ、\n[FFFFFFFF]ご利益の説得力とか出ないし……\n[FFFFFFFF]\n[FFFFFFFF]だから……\n[FFFFFFFF]自分で、\n[FFFFFFFF]思い込むことにしたんです……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]お役目に選ばれたとき、\n[FFFFFFFF]あたし、\n[FFFFFFFF]どうにかしなくちゃって思って……\n[FFFFFFFF]\n[FFFFFFFF]こ、\n[FFFFFFFF]こんな陰キャじゃ、\n[FFFFFFFF]ご利益の説得力とか出ないし……\n[FFFFFFFF]\n[FFFFFFFF]だから……\n[FFFFFFFF]自分で、\n[FFFFFFFF]思い込むことにしたんです……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ネズ耳をつければ、\n[FFFFFFFF]あたしは変われる……\n[FFFFFFFF]\n[FFFFFFFF]あたしはビッキィに……\n[FFFFFFFF]\n[FFFFFFFF]理想の自分……\n[FFFFFFFF]理想の陽キャになれるんだ、\n[FFFFFFFF]って……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ネズ耳をつければ、\n[FFFFFFFF]あたしは変われる……\n[FFFFFFFF]\n[FFFFFFFF]あたしはビッキィに……\n[FFFFFFFF]\n[FFFFFFFF]理想の自分……\n[FFFFFFFF]理想の陽キャになれるんだ、\n[FFFFFFFF]って……！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]よ、\n[FFFFFFFF]陽キャに……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]よ、\n[FFFFFFFF]陽キャに……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]一種の自己暗示\n[FFFFFFFF]と言っていいかもしれませんね……\n[FFFFFFFF]\nそう考えれば、\n[FFFFFFFF]ビカラさんの様子の変化にも説明がつきます。\n[FFFFFFFF]\n[FFFFFFFF]思い込む力が弱まってしまった、\n[FFFFFFFF]ということですから。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]一種の自己暗示\n[FFFFFFFF]と言っていいかもしれませんね……\n[FFFFFFFF]\nそう考えれば、\n[FFFFFFFF]ビカラさんの様子の変化にも説明がつきます。\n[FFFFFFFF]\n[FFFFFFFF]思い込む力が弱まってしまった、\n[FFFFFFFF]ということですから。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ネズ耳への思い入れが強ければ強いほど、\n[FFFFFFFF]暗示の力も強くなるのなら……\n[FFFFFFFF]\n[FFFFFFFF]鼠神宮の旅立ちから\n[FFFFFFFF]ランドソルまで一緒に過ごしてきた\n[FFFFFFFF]\nネズ耳への思い入れは、\n[FFFFFFFF]相当なものでしょう。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ネズ耳への思い入れが強ければ強いほど、\n[FFFFFFFF]暗示の力も強くなるのなら……\n[FFFFFFFF]\n[FFFFFFFF]鼠神宮の旅立ちから\n[FFFFFFFF]ランドソルまで一緒に過ごしてきた\n[FFFFFFFF]\nネズ耳への思い入れは、\n[FFFFFFFF]相当なものでしょう。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]手に馴染んだ武器がなくなっちゃうってことだもんね……\n[FFFFFFFF]\n[FFFFFFFF]その大変さ、\n[FFFFFFFF]分かるなぁ。\n[FFFFFFFF]\n[FFFFFFFF]調子が出ないし、\n[FFFFFFFF]新しい武器に慣れるのも時間がかかるし。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]手に馴染んだ武器がなくなっちゃうってことだもんね……\n[FFFFFFFF]\n[FFFFFFFF]その大変さ、\n[FFFFFFFF]分かるなぁ。\n[FFFFFFFF]\n[FFFFFFFF]調子が出ないし、\n[FFFFFFFF]新しい武器に慣れるのも時間がかかるし。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]あれ？　\n[FFFFFFFF]じゃあ、\n[FFFFFFFF]もしかして……\n[FFFFFFFF]\n新しいネズ耳に慣れるまで、\n[FFFFFFFF]ビカラちゃんはビッキィになれない\n[FFFFFFFF]\n……って、\n[FFFFFFFF]こと？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]あれ？　\n[FFFFFFFF]じゃあ、\n[FFFFFFFF]もしかして……\n[FFFFFFFF]\n新しいネズ耳に慣れるまで、\n[FFFFFFFF]ビカラちゃんはビッキィになれない\n[FFFFFFFF]\n……って、\n[FFFFFFFF]こと？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]……あ、\n[FFFFFFFF]はい……\n[FFFFFFFF]多分…………\n[FFFFFFFF]\n[FFFFFFFF]すみません……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]……あ、\n[FFFFFFFF]はい……\n[FFFFFFFF]多分…………\n[FFFFFFFF]\n[FFFFFFFF]すみません……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]そっか……\n[FFFFFFFF]\n[FFFFFFFF]だったら、\n[FFFFFFFF]なおさら取り返さなくっちゃね！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]そっか……\n[FFFFFFFF]\n[FFFFFFFF]だったら、\n[FFFFFFFF]なおさら取り返さなくっちゃね！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]えっ……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]えっ……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]……ふふっ。\n[FFFFFFFF]\n[FFFFFFFF]やはり、\n[FFFFFFFF]あなたたちにお声がけをして正解でした。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]……ふふっ。\n[FFFFFFFF]\n[FFFFFFFF]やはり、\n[FFFFFFFF]あなたたちにお声がけをして正解でした。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]今回の件は、\n[FFFFFFFF]信頼のおける方にしか頼めないんです。\n[FFFFFFFF]\n正式な依頼ではありませんし、\n[FFFFFFFF]それに……\n[FFFFFFFF]\n少しお伝えしにくいのですが、\n[FFFFFFFF]報酬もありませんので。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]今回の件は、\n[FFFFFFFF]信頼のおける方にしか頼めないんです。\n[FFFFFFFF]\n正式な依頼ではありませんし、\n[FFFFFFFF]それに……\n[FFFFFFFF]\n少しお伝えしにくいのですが、\n[FFFFFFFF]報酬もありませんので。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ビカラさんは\n[FFFFFFFF]アストライア大陸にいらっしゃったばかりです。\n[FFFFFFFF]\n今ギルド管理協会に依頼を出しては、\n[FFFFFFFF]これからの活動に影響する\n[FFFFFFFF]\n可能性もありますから……",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ビカラさんは\n[FFFFFFFF]アストライア大陸にいらっしゃったばかりです。\n[FFFFFFFF]\n今ギルド管理協会に依頼を出しては、\n[FFFFFFFF]これからの活動に影響する\n[FFFFFFFF]\n可能性もありますから……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]き、\n[FFFFFFFF]来たばっかりで、\n[FFFFFFFF]こんなスキャンダルがバレたら……\n[FFFFFFFF]\n[FFFFFFFF]鼠神宮のご利益も信じてもらえません……\n[FFFFFFFF]\n[FFFFFFFF]ああ……\n[FFFFFFFF]鬱さが押し寄せてくる……！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]き、\n[FFFFFFFF]来たばっかりで、\n[FFFFFFFF]こんなスキャンダルがバレたら……\n[FFFFFFFF]\n[FFFFFFFF]鼠神宮のご利益も信じてもらえません……\n[FFFFFFFF]\n[FFFFFFFF]ああ……\n[FFFFFFFF]鬱さが押し寄せてくる……！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]そういうことなら大丈夫だよ！\n[FFFFFFFF]\n事情も分かったし、\n[FFFFFFFF]報酬もいらないから！\n[FFFFFFFF]\n[FFFFFFFF]ね？　\n[FFFFFFFF]{0}！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]そういうことなら大丈夫だよ！\n[FFFFFFFF]\n事情も分かったし、\n[FFFFFFFF]報酬もいらないから！\n[FFFFFFFF]\n[FFFFFFFF]ね？　\n[FFFFFFFF]{0}！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ありがとうございます！\n[FFFFFFFF]\n無事に解決しましたら、\n[FFFFFFFF]お食事をごちそうしますね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ありがとうございます！\n[FFFFFFFF]\n無事に解決しましたら、\n[FFFFFFFF]お食事をごちそうしますね。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あの……\n[FFFFFFFF]\nどうして、\n[FFFFFFFF]そこまでしてくれるんですか……？\n[FFFFFFFF]\n[FFFFFFFF]あ、\n[FFFFFFFF]あたしたち、\n[FFFFFFFF]会ったばかりなのに……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あの……\n[FFFFFFFF]\nどうして、\n[FFFFFFFF]そこまでしてくれるんですか……？\n[FFFFFFFF]\n[FFFFFFFF]あ、\n[FFFFFFFF]あたしたち、\n[FFFFFFFF]会ったばかりなのに……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]さっきも言った通りだよ！\n[FFFFFFFF]\n[FFFFFFFF]困ってる人がいたら\n[FFFFFFFF]見過ごせないもん！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]さっきも言った通りだよ！\n[FFFFFFFF]\n[FFFFFFFF]困ってる人がいたら\n[FFFFFFFF]見過ごせないもん！"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]私も同じです。\n[FFFFFFFF]\n[FFFFFFFF]ビカラさんのサポートをすると言っておきながら、\n[FFFFFFFF]\n現場で何もできなかったことに心残りもありますし……",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]私も同じです。\n[FFFFFFFF]\n[FFFFFFFF]ビカラさんのサポートをすると言っておきながら、\n[FFFFFFFF]\n現場で何もできなかったことに心残りもありますし……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]それに……\n[FFFFFFFF]\nビカラさんにはランドソルを褒めていただきました。\n[FFFFFFFF]\n[FFFFFFFF]行動しないわけにはいきませんよ。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]それに……\n[FFFFFFFF]\nビカラさんにはランドソルを褒めていただきました。\n[FFFFFFFF]\n[FFFFFFFF]行動しないわけにはいきませんよ。"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]…………！",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]…………！"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]よし、\n[FFFFFFFF]それじゃあ早速作戦を練らないとね！\n[FFFFFFFF]\n[FFFFFFFF]何か手がかりはありますか？\n[FFFFFFFF]\n鳥がどっちの方角に飛んでいったかとか。",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]よし、\n[FFFFFFFF]それじゃあ早速作戦を練らないとね！\n[FFFFFFFF]\n[FFFFFFFF]何か手がかりはありますか？\n[FFFFFFFF]\n鳥がどっちの方角に飛んでいったかとか。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]ああ、\n[FFFFFFFF]そのことでしたら\n[FFFFFFFF]わかるそうなんです。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]ああ、\n[FFFFFFFF]そのことでしたら\n[FFFFFFFF]わかるそうなんです。"
+    },
+    {
+      "name": "ドーマウス",
+      "text": "[FFFFFFFF]──！！",
+      "choice_data_list": [],
+      "orig_name": "ドーマウス",
+      "orig_text": "[FFFFFFFF]──！！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]その、\n[FFFFFFFF]ドーちゃんの神通力で……\n[FFFFFFFF]大体の場所は……\n[FFFFFFFF]\n[FFFFFFFF]一応、\n[FFFFFFFF]あたしも方角くらいなら……\n[FFFFFFFF]\n[FFFFFFFF]うっすら、\n[FFFFFFFF]なんとなく、\n[FFFFFFFF]ぼんやりと……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]その、\n[FFFFFFFF]ドーちゃんの神通力で……\n[FFFFFFFF]大体の場所は……\n[FFFFFFFF]\n[FFFFFFFF]一応、\n[FFFFFFFF]あたしも方角くらいなら……\n[FFFFFFFF]\n[FFFFFFFF]うっすら、\n[FFFFFFFF]なんとなく、\n[FFFFFFFF]ぼんやりと……"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]じんつうりき……\n[FFFFFFFF]魔法とは違うのかな？\n[FFFFFFFF]\n[FFFFFFFF]はじめて聞いたけど、\n[FFFFFFFF]トーゴクには不思議な力があるんだね！\n[FFFFFFFF]\n[FFFFFFFF]場所が分かるなんてすごいよ！",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]じんつうりき……\n[FFFFFFFF]魔法とは違うのかな？\n[FFFFFFFF]\n[FFFFFFFF]はじめて聞いたけど、\n[FFFFFFFF]トーゴクには不思議な力があるんだね！\n[FFFFFFFF]\n[FFFFFFFF]場所が分かるなんてすごいよ！"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]え……\n[FFFFFFFF]\nあ、\n[FFFFFFFF]かしこみです……？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]え……\n[FFFFFFFF]\nあ、\n[FFFFFFFF]かしこみです……？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]このノリでどんどん進んでいく感じ……\n[FFFFFFFF]\n[FFFFFFFF]ああ、\n[FFFFFFFF]そっか……\n[FFFFFFFF]そうなんだ……\n[FFFFFFFF]\n[FFFFFFFF]この人たち、\n[FFFFFFFF]みんな、\n[FFFFFFFF]みんな…………！　",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]このノリでどんどん進んでいく感じ……\n[FFFFFFFF]\n[FFFFFFFF]ああ、\n[FFFFFFFF]そっか……\n[FFFFFFFF]そうなんだ……\n[FFFFFFFF]\n[FFFFFFFF]この人たち、\n[FFFFFFFF]みんな、\n[FFFFFFFF]みんな…………！　"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]かなりの陽キャなんだ……！！　",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]かなりの陽キャなんだ……！！　"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]ね、\n[FFFFFFFF]ビカラちゃんとドーマウスさん。\n[FFFFFFFF]\nネズ耳は今、\n[FFFFFFFF]どこにあるのかな？",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]ね、\n[FFFFFFFF]ビカラちゃんとドーマウスさん。\n[FFFFFFFF]\nネズ耳は今、\n[FFFFFFFF]どこにあるのかな？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]そ、\n[FFFFFFFF]そそ、\n[FFFFFFFF]それが……\n[FFFFFFFF]\nまだ、\n[FFFFFFFF]移動してるみたいで……\n[FFFFFFFF]\n[FFFFFFFF]ランドソルから離れていっているのは確かなんですけど……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]そ、\n[FFFFFFFF]そそ、\n[FFFFFFFF]それが……\n[FFFFFFFF]\nまだ、\n[FFFFFFFF]移動してるみたいで……\n[FFFFFFFF]\n[FFFFFFFF]ランドソルから離れていっているのは確かなんですけど……"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]私もそこが気になっているんです。\n[FFFFFFFF]\n他の物には目もくれず、\n[FFFFFFFF]ネズ耳だけを奪っていったことといい\n[FFFFFFFF]\n[FFFFFFFF]普通の鳥と断言するのは早計なように思うんです。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]私もそこが気になっているんです。\n[FFFFFFFF]\n他の物には目もくれず、\n[FFFFFFFF]ネズ耳だけを奪っていったことといい\n[FFFFFFFF]\n[FFFFFFFF]普通の鳥と断言するのは早計なように思うんです。"
+    },
+    {
+      "name": "カリン",
+      "text": "[FFFFFFFF]街の中に入れる以上、\n[FFFFFFFF]魔物の可能性は低いですが……\n[FFFFFFFF]\n[FFFFFFFF]現時点では\n[FFFFFFFF]情報が少なすぎますね。",
+      "choice_data_list": [],
+      "orig_name": "カリン",
+      "orig_text": "[FFFFFFFF]街の中に入れる以上、\n[FFFFFFFF]魔物の可能性は低いですが……\n[FFFFFFFF]\n[FFFFFFFF]現時点では\n[FFFFFFFF]情報が少なすぎますね。"
+    },
+    {
+      "name": "ジータ",
+      "text": "[FFFFFFFF]なんにしても、\n[FFFFFFFF]注意して追いかけないとね！\n[FFFFFFFF]\n[FFFFFFFF]えっと、\n[FFFFFFFF]そうなると移動手段は……",
+      "choice_data_list": [],
+      "orig_name": "ジータ",
+      "orig_text": "[FFFFFFFF]なんにしても、\n[FFFFFFFF]注意して追いかけないとね！\n[FFFFFFFF]\n[FFFFFFFF]えっと、\n[FFFFFFFF]そうなると移動手段は……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]こ、\n[FFFFFFFF]こんなスピード感で予定を立てちゃうの……？\n[FFFFFFFF]\n[FFFFFFFF]陽キャはやっぱりフッ軽だよ……\n[FFFFFFFF]\n[FFFFFFFF]基本的に部屋の隅でジッとしてるあたしとは大違い……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]こ、\n[FFFFFFFF]こんなスピード感で予定を立てちゃうの……？\n[FFFFFFFF]\n[FFFFFFFF]陽キャはやっぱりフッ軽だよ……\n[FFFFFFFF]\n[FFFFFFFF]基本的に部屋の隅でジッとしてるあたしとは大違い……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]ひゃおっ！？",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]ひゃおっ！？"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]んえっ？\n[FFFFFFFF]\nえ、\n[FFFFFFFF]あ……\n[FFFFFFFF]\n[FFFFFFFF]あう……\n[FFFFFFFF]あう……",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]んえっ？\n[FFFFFFFF]\nえ、\n[FFFFFFFF]あ……\n[FFFFFFFF]\n[FFFFFFFF]あう……\n[FFFFFFFF]あう……"
+    },
+    {
+      "name": "ビカラ",
+      "text": "[FFFFFFFF]んへ。",
+      "choice_data_list": [],
+      "orig_name": "ビカラ",
+      "orig_text": "[FFFFFFFF]んへ。"
+    },
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]かくして、ネズ耳を取り返すため──\n[FFFFFFFF]\nジータ、ビカラ、カリン、そして{0}。\n[FFFFFFFF]\n不思議な縁に引き寄せられた４人の旅が──翌日から、始まるのだった。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]かくして、ネズ耳を取り返すため──\n[FFFFFFFF]\nジータ、ビカラ、カリン、そして{0}。\n[FFFFFFFF]\n不思議な縁に引き寄せられた４人の旅が──翌日から、始まるのだった。"
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "title": "Tamaki Episode 10",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "While investigating the rumors of a new villain in the shadows,\nTamaki has learned of a secret merchants' meeting to be held in the city.\nTogether with {0}, she sets out to uncover more.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──新たなる悪党の影。値段を吊り上げている商人が、\n街中で商談をするという情報を手に入れたタマキは、\n{0}を連れ、調査に向かうのであった。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I was expecting it to be indoors,\nbut they're meeting out here in the open?\nOh well—it saves us the trouble of snyeaking in! ♪",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "どこかの店かと思ったら、\nこんな街中で商談をするにゃんて……\nまあ、\n潜入する必要がなくて楽ができたにゃ♪"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...I gotta say, though,\ntracking down these price-fixers was easier than I thought.\nI didn't expect to find them just from a few basic inquiries!",
+      "choice_data_list": [
+        "So... dark..."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "……それにしても、\n値段をつり上げた商人を突きとめるのがえらく簡単だったにゃ～\nまさか、\n聞き込みレベルの調査で情報がつかめるとは思わなかったにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Could this be a trap?\nWe'd better nyot let our guards down any time soon...",
+      "choice_data_list": [
+        "So... cramped..."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "……もしかして罠かにゃ？\nこれは注意した方がいいかもしれないにゃ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ahhh, geez!\nThis alley is really nyarrow, so try to be quiet!",
+      "choice_data_list": [
+        "Why are we in this tiny alley?",
+        "It's hard to talk through this mask..."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "あ～\nもう！\nここの路地は狭いんだから、\n静かにしてるにゃ～～！！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Out in the city, there are only so many places to hide!\nI considered other options, like under benches,\nbut this was the only good spot!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "こんな街中だと、\n隠れられる場所が限られるにゃ！\nベンチの下とか色々考えたけど、\nここしかなかったのにゃ！！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Anyway, for nyow, um... I-I'll try nyot to let it bother me,\nso shift this way to make sure you stay hidden!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "とにかく、\n今回はその……\nあ、\nあたしも気にしにゃいようにするから、\n見つからないようにもっとこっちに来るにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Wait, wh-wh-wh-where are you shoving your face?!\nTh-that's going too far...!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……って、\nど、\nどど、\nどこに顔を突っ込んでいるにゃ！！\nそ、\nそこはさすがに……！！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ahh... I did always think that mask seemed a bit too small...\nThat's why I made a nyew one... Sorry it's an awkward hand-me-down,\nbut it's the only other Phantom Cat mask I've got, so you'll have to cope.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "あ～\n確かにその仮面、\n昔からちょっと小さかったにゃ～\nだから新調したわけだし……\nまあ、\nお古で悪いけど、\nファントムキャッツの仮面はそれしかないから、\n我慢するにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Hm? Hand-me-down?\nThinking about it, that means the same mask I used to wear\nis touching {0}'s face...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……あれ、\nお古にゃ？\nよくよく考えれば、\nあたしの顔に付いてたものが、\n{0}の顔にも付いてるってわけで……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Th-that thought gets me all embarrassed!\n{0}!\nGive the mask back right nyow!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "な、\nなんか急に恥ずかしくなってきたにゃ！\n{0}！\nその仮面をすぐに返すにゃ～～！！"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "Ah, you're right on time.\nI'm sorry to make you meet me in a place like this.\nNormally, I'd prefer to hold discussions like this over a nice dinner, but...",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "おお、\n時間通りですね。\nこのような場所での商談になり、\n申し訳ありません。\n本来は、\nどこかの店で食事でもしながらと思っていたのですが……"
+    },
+    {
+      "name": "Merchant 2",
+      "text": "Ho ho hoh. Don't worry.\nWe're all having financial troubles, so I fully understand.\nWell then, shall we get down to business?",
+      "choice_data_list": [],
+      "orig_name": "商人２",
+      "orig_text": "ほっほっほっ、\nお互い、\n懐事情は理解しておるのだから、\n気にせんでええよ。\nでは、\n商談を始めるとするかな。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Ah! The merchants are here!\nUgh... fine!\nJust stay like that for nyow and be quiet, okay?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……はっ、\n商人たちが来たにゃ！！\nあ～\nもう！\nそのままでいいから、\n{0}は静かにしてるにゃ！"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "This is the contract for the latest deal.\nPlease sign once you've confirmed it.",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "こちらが\n今回の取引の証文になります。\n宜しければサインを。"
+    },
+    {
+      "name": "Merchant 2",
+      "text": "A bill this high for these quantities...?\nI'll have to keep charging double just to break even...\nMore of the Korruptio Syndicate's handiwork?",
+      "choice_data_list": [],
+      "orig_name": "商人２",
+      "orig_text": "たったこれだけで\nこの値段……\nまた、\nいつもの二倍で売らねば\nやっていけぬか……\nこれもまた、\nアクシツ商会連合のやつらが？"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "Yes... They've taken over all the supply chains,\nadded extortionate charges, and limited availability too...\nThanks to them, nobody can do honest business.",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "はい……\nあらゆる品の流通を牛耳り、\n法外な値段をつけるだけでなく、\n流通量も制限する……\nあいつらのせいで、\nまともな商売ができません。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "The \\\"Korruptio Syndicate\\\"?\nI thought these guys were the villains,\nbut could they just be victims of a greater enemy? ",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……アクシツ商会連合？\nこいつらが悪党かと思ったけど、\nもしかして、\nアクシツ商会連合っていうのが黒幕なのかにゃ？　"
+    },
+    {
+      "name": "Merchant 2",
+      "text": "\\\"Korruptio\\\"... The name reminds me of old Krook'd.\nYou don't think it could be the same man doing business\nunder a new assumed identity?",
+      "choice_data_list": [],
+      "orig_name": "商人２",
+      "orig_text": "アクシツ……\nアクドーイに名前が似ておるな。\nまさか\nアクドーイが偽名を使って、\nこのようなことをしているのでは？"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "No, Krook'd should still be\nout of the picture thanks to the Phantom Cat.\nThere may be some connection, but it seems to be a different group.",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "いえ、\nアクドーイは未だに、\nファントムキャッツにより衰退したままだそうです。\n関係はあるかもしれませんが、\nおそらく別の組織でしょう。"
+    },
+    {
+      "name": "Merchant 2",
+      "text": "The Phantom Cat...\nThe hero who took out Krook'd and restored our freedom, huh...",
+      "choice_data_list": [],
+      "orig_name": "商人２",
+      "orig_text": "ファントムキャッツ……\nアクドーイを追い出し、\n商売の自由を取り戻してくれた英雄か。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ooh, the Phantom Cat seems nyice and popular!\nKeep the compliments coming~! ♪ ",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "お、\nファントムキャッツが褒められてるにゃ！\nもっと褒めるといいにゃ～♪　"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "Thanks to her, our lives are worse than ever.",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "──本当に、\n余計なことをしてくれたものです。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Huh...?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "えっ……"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "Krook'd was an awful man,\nbut he was the one keeping all the other crooks under control.",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "アクドーイは最悪でしたが、\n最悪ゆえに、\n他の悪党の商会を押さえつけていましたからね。"
+    },
+    {
+      "name": "Merchant 2",
+      "text": "And this new syndicate was formed from those crooks banding together.\nIn other words, if it weren't for the Phantom Cat, the Korruptio Syndicate\nwould never have been born... Some hero she turned out to be.",
+      "choice_data_list": [],
+      "orig_name": "商人２",
+      "orig_text": "アクシツ商会連合は、\nそういった悪党の商会の連合らしいからのぅ。\nそれはつまり、\nファントムキャッツがいなければ、\n台頭しなかったということ……\nまったく、\nとんだ英雄さまだわい。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "The Phantom Cat... caused this...?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ファントムキャッツが……\n悪党を……"
+    },
+    {
+      "name": "Merchant 1",
+      "text": "Now, as for our next deal...",
+      "choice_data_list": [],
+      "orig_name": "商人１",
+      "orig_text": "さて、\n次の商談ですが……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...{0}.\nI've heard enyough. We should leave.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……{0}。\nもういいから、\n引き上げるにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Myahaha...\nI nyever expected anything like this.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "にゃはは……\nこんなことになってると思わなかったにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I thought I was just gonna\nbeat up some bad guys and save the day as usual...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "今回も、\nいつものように、\n悪いやつを懲らしめれば終わるって思ってたけど……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Who'd have thought the root cause of all the trouble\nwas me... the Phantom Cat all along...?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "まさか、\nその悪を生み出していたのが、\nあたし……\nファントムキャッツとは思わなかったにゃ～"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I always did my thing as the Phantom Cat\nso I could help people in need, but... Myahaha...\nLooking at the results nyow, I don't knyow who's the real villain.",
+      "choice_data_list": [
+        "You're no villain, Tamaki."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "苦しむ人たちの力になれればと思って、\nファントムキャッツをしてたけど……\nにゃはは……\nこれじゃああの人たちの言う通り、\nどっちが悪か分からないにゃあ～"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...That's nyot true at all.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……そんなことないにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I call myself a hero,\nbut in the end, I'm a thieving criminal, you knyow?",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "義賊といっても、\nけっきょくは\n盗みをはたらく悪党だからにゃ～"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Don't forget, I've stolen from the wrong people before,\nand even gotten you captured when you came to save me.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "それに、\n間違えて盗みに入って迷惑かけたり、\n{0}にいたっては、\nあたしを助けにきたせいで捕まるとこだったにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "And nyow I've created the biggest villain yet... Myahaha.\nLooking back on my work, I really am the most hopeless hero.",
+      "choice_data_list": [
+        "I'm the one who got myself captured."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "そのうえ、\n今回みたいに悪を作ってるなんて……\nにゃはは。\nこうやって改めて考えると、\nやっぱりあたしは、\nどうしようもないにゃ～"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...But I got you involved.\nWith nyo Phantom Cat... without me in your life...\nnone of that would have happened to you.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……巻き込んだのは事実にゃ。\nファントムキャッツと……\nあたしと関わらなければ、\n{0}はあんな目にあわなかったのにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Maybe I should quit this Phantom thing!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "──ファントムキャッツなんて、\nやめちゃうかにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Yep, that's the best choice!\nIf being the Phantom Cat hurts people, I should just quit it!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "うん、\nそれが一番いいにゃ！\nファントムキャッツが誰かの迷惑になるなら、\nやめた方がいいにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I'll quit the guild too... Oh, I knyow!\nOnce I'm a free agent, I'll make Akino a proposal\nand start a taiyaki stall that's all my own!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ギルドもやめて……\nあ、\nそうにゃ！\n足を洗ったら、\nアキノに売り込んで自分のたい焼き屋を持つのにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Wanna join me, {0}?\nWe work crazy well together,\nso I bet we could expand our chain through all of Landosol!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "{0}も一緒にどうかにゃ？\n{0}とあたしは息ぴったりだし、\nランドソル中に支店を持つことだって夢じゃないにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Hm?\nWhy's the cat got your tongue?\nDon't worry! I knyow we're an unstoppable team!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ん？\n黙っちゃってどうかしたのかにゃ……？\n心配しないでも、\nあたしと{0}なら大丈夫にゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Oh, while we're at it, why don't we do like that customer said,\nreally get married, and sell taiyaki as a family business?\nWouldn't that be tons of fun? ♪",
+      "choice_data_list": [
+        "...You don't mean that."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "あ、\nなんだったら、\nこの前お客さんに言われたみたいに、\n本当に結婚して、\n夫婦でたい焼き屋でもやるかにゃ？\nきっと、楽しいお店になるはずにゃ～♪"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Wh-why wouldn't I mean it?!\nCooking taiyaki is way more my style than stealing!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "む、\n無理なんてしてないにゃ！\nあたしは義賊なんかより、\nそっちの方が合ってるのにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Besides, being some kind of hero...\nMaking people's lives better was too big a dream for me.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……それに、\nあたしに義賊なんて……\n誰かを助けるなんて無理だったのにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I've nyever been an expert merchant like Akino...\nI could nyever adapt to a ton of jobs like Mifuyu...\nI don't have Yukari's good judgment...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "アキノみたいに\n商売の才能があるわけでもない……\nミフユみたいに\nなんでもできるわけでもない……\nユカリみたいに\n気が利くわけでもない……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "So I should just...!",
+      "choice_data_list": [
+        "The world needs a hero like the Phantom Cat."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "だからあたしは…………！！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……っっ！？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Ahh... *sniff*...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "うっ……\nううっ…………"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...W-waaaahhhh!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……うわぁぁ～～～～ん！！！！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I've calmed down...\nso you can let go of my head nyow.",
+      "choice_data_list": [
+        "Are you sure?",
+        "If you need to cry, I'm here anytime."
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "…………落ち着いたから、\nもう胸を貸してくれなくてもいいにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Y-yep!\nUm, I'm... sorry I kind of dived into your chest.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "う、\nうん。\nそ……\nその、\n勝手に飛びついちゃってごめんにゃ？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Anytime...? You'll give people funny ideas, making offers like that...\n*sigh* I don't even have the energy to set you straight.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "いつでもって……\nそういうのは誤解を招くから、\nあんまり頻繁に……\nはぁ。\n今はツッコミを入れる気力もないにゃ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "You knyow...\nIt feels like you just keep seeing me at my worst.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……なんだか、\n{0}にはあたしの弱い姿を見られてばっかりにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "But that's why I've gotta show you my best face next!\n...Yes, the face of the Phantom Cat!",
+      "choice_data_list": [
+        "You're still doing that, huh?"
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "だからこそ、\nそろそろ強い姿をみせるにゃ！\n……そう、\nファントムキャッツの姿を！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I left my worries over in someone's big snot-covered chest!\nI dunno how much I can really do,\nbut right nyow, I just wanna get out there and try!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "弱音も愚痴も、\n誰かさんの胸に置いてきたから吹っ切れたにゃ！\nあたしにどこまでできるか分からないけど、\nこうなったら、\nとことんまでやってやるのにゃ！"
+    },
+    {
+      "name": "Tamaki",
+      "text": "After all... the Phantom Cat's a bonya fide hero! ♪",
+      "choice_data_list": [
+        "I'll help too!"
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "だって……\nファントムキャッツは英雄にゃんだから♪"
+    },
+    {
+      "name": "Tamaki",
+      "text": "I've mixed you up in this enough already!\nOr so I'd like to say, but you're nyot gonna listen if I stop you...",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "これ以上巻き込むわけにいかないにゃ……\nと、\n言いたいところだけど、\nどうせ言っても聞かないだろうからにゃあ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Still, lemme ask you one thing.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……でも、\nこれだけは聞かせてにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "The path I walk lies outside the law.\nIf we mess up, we could be thrown in jail,\nor even get ourselves killed by villains out for revenge.",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "ここから先は、\nいわゆる裏の世界。\n失敗すれば投獄、\n悪党に恨まれて\n命を狙われることだってあるかもしれないにゃ。"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Are you sure... you want to help me with that?",
+      "choice_data_list": [
+        "Of course!"
+      ],
+      "orig_name": "タマキ",
+      "orig_text": "それでも……\nあたしに力を貸してくれるにゃ？"
+    },
+    {
+      "name": "Tamaki",
+      "text": "...Well, thanks!\nI'm a lucky cat to have met a guy like you!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "……ありがとにゃ。\n{0}と出会えて、\n本当によかったにゃ……"
+    },
+    {
+      "name": "Tamaki",
+      "text": "Nyow then, I hope you're ready, villains!\nThe Phantom Cat is coming to stop your evil deeds!",
+      "choice_data_list": [],
+      "orig_name": "タマキ",
+      "orig_text": "さ～て、\n覚悟するにゃ、\n悪党ども～！\nファントムキャッツが、\nおまえらを懲らしめてやるにゃ～～！！"
+    },
+    {
+      "name": "Narration",
+      "text": "A voice rang out in the outskirts of Landosol.\nTo the locals, it sounded like the random yells of a drunkard,\nbut to Tamaki, it was a cry of resolve and an oath to her precious bonds.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソル郊外に響く声……\n街の人には酔っ払いのふざけた叫びにしか聞こえなかったが、\nタマキにとっては、新たな決意と、確かな絆を乗せた誓いでもあった。"
+    }
+  ]
+}

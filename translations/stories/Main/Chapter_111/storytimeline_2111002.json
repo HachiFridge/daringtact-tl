@@ -1,0 +1,712 @@
+{
+  "title": "Part 2 Ch. 11 Ep. 2",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0}, Kokkoro, Rei, and Hiyori escaped from Octo and left the beastfolk lands. The ones who used communication magic to contact them as they searched for Yui were...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "オクトーから逃れ、\n獣人族の国から出た\n{0}、\nコッコロ、\nレイ、\nヒヨリ。\nユイを捜す彼らに対し、\n通信魔法で連絡を取ってきたのは──……"
+    },
+    {
+      "name": "Miyako",
+      "text": "I found you guys! Now, give me the pudding nano!!!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "オマエたち、\n見つけたの！\nさぁ、\nプリンをよこせなのーーー！！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "What?! Pudding?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えぇっ！？\nプリンっ？"
+    },
+    {
+      "name": "Shinobu",
+      "text": "Miyako-san, please hold back for a moment.",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "ミヤコさん。\nそれは、\nちょっとガマンしてください。"
+    },
+    {
+      "name": "Illya",
+      "text": "I'm so glad you're all safe! Youe made me worry.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "お主ら、\n無事であったか！\nまったく\n心配かけおって。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ladies and gentlemen of [Diabolos]. How did you get to us?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "【悪魔偽王国軍（ディアボロス）】のみなさま。\nどうしてわたくしたちの元に？"
+    },
+    {
+      "name": "Akari",
+      "text": "Because, you know Landosol was going crazy, we were worried about Onii-chan and the others!",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "だってだってー\nランドソルがどったんばっこんだったのに、\nお兄ちゃんたちどこかイっちゃうんだもーん"
+    },
+    {
+      "name": "Yori",
+      "text": "I heard you were fighting alongside the princess at the royal palace, so I rushed to save you...but there’s no one here. I was worried, you know? I-It’s just in case...",
+      "choice_data_list": [],
+      "orig_name": "ヨリ",
+      "orig_text": "王宮でお姫さまたちと一緒に戦ってるって聞いて、\n急いで助けに行ったのに……\n誰もいないし。\n心配したのよ？　\nい、\n一応だけど……"
+    },
+    {
+      "name": "Rei",
+      "text": "But... I'm surprised you were able to locate us. If I remember correctly, communication magic can't be used unless you know the target's general location, right?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "でも……\n我々の居場所を、\nよく突き止められたね。\nたしか通信魔法って、\n相手のおおよその位置がわからないと\n使えないはずだろう？"
+    },
+    {
+      "name": "Shinobu",
+      "text": "Yes. Therefore, based on my fortune-telling, I can only guess the general direction...",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "はい。\nですので\n私の占いで、\nおおよその方角だけ推測して……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Fortune-telling...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "占い……"
+    },
+    {
+      "name": "Akari",
+      "text": "After that, I relied on my maidenly instincts to find a spot where Onii-chan might be~♪",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "あとは乙女の勘を頼りにぃ、\nお兄ちゃんがいそうだな～\nってスポットを\n捜してみたんだぁ♪"
+    },
+    {
+      "name": "Yori",
+      "text": "It took quite a bit of time, though. I'm glad we found you before my mana ran out...",
+      "choice_data_list": [],
+      "orig_name": "ヨリ",
+      "orig_text": "結構時間かかっちゃったけど。\n魔力が空っぽになっちゃう前に当たりを引けて、\n良かったわ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "H-Hey, Rei. If fortune-telling can tell where we are, then what about Yui-chan...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ね、\nねぇレイさん。\n占いであたしたちの場所がわかるんだったら、\nユイちゃんのことも……？"
+    },
+    {
+      "name": "Rei",
+      "text": "...Yeah. [Diabolos]. I'd like to ask for your cooperation again.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ああ。\n【悪魔偽王国軍（ディアボロス）】よ。\nあらためて、\n協力を頼みたい。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hmm. You mentioned some communication magic. You're all looking for a lost comrade.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふむ\n通信魔法でも言っておったが。\nお主ら、\nはぐれた仲間を捜しておるのだったな。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes. I was wondering if I could rely on your help again...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\nシノブさまのお力に、\nまた頼らせていただけないかと……"
+    },
+    {
+      "name": "Shinobu",
+      "text": "...I explained this to Kokkoro-san and the others before, but... My fortune-telling is only vague enough to predict tomorrow's weather.",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "……\n前にも、\nコッコロさんたちにはご説明しましたが……\n私の占いは、\n明日の天気を予想する程度の\nあやふやなものでしかありません。"
+    },
+    {
+      "name": "Miyako",
+      "text": "That's right~ Shinobu's always so hopeless~",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "そうなの～\nシノブはいっつもアテにならないの～"
+    },
+    {
+      "name": "Shinobu",
+      "text": "Therefore.... If you are looking for a more reliable and quicker way to divine the whereabouts of your friends.",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "なので……\nより確実に、\nより手早く、\nお仲間の行方を占うのでしたら。"
+    },
+    {
+      "name": "Shinobu",
+      "text": "...Dad. You're awake, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "……お父さん。\n起きているんでしょう、\nお父さん。"
+    },
+    {
+      "name": "Skull Father",
+      "text": "*sigh* I told you, I only read fortunes about beautiful women!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "ファ～～\nったくよォ。\nオレは美女に関することしか\n占わないって言ってんだろ～！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Whoa! The skull talked?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "うわわっ！\nドクロがしゃべったぁ！？"
+    },
+    {
+      "name": "Shinobu",
+      "text": "This skull is my father. The accuracy rate of fortune-telling is high, but there's a lack of enthusiasm...",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "このドクロは、\n私の父です。\n占いの的中率は高いのですが、\nやる気にムラがあって……"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Hey, Shinobu! Let's hurry back to Landosol! We can't even hit on Big Sis in an empty place like this!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "なぁーシノブー！\nさっさとランドソルに戻ろうぜ！\nこんな何もない場所じゃ、\nお姉ちゃんのナンパもできねーっての！"
+    },
+    {
+      "name": "Rei",
+      "text": "...I'm sorry, but my friend's safety is at stake. Could you tell me where he is? As you can see, I'm counting on you.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "っ……\nすまないが、\n友の安否がかかっているんだ。\nどうか行方を占ってもらえないか。\nこのとおり、\n頼む。"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Huh? Mm~",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "あぁん？\nン～～～～～"
+    },
+    {
+      "name": "Skull Father",
+      "text": "That's no good! I want bon! Cu! Bon! I'm looking for a big sister! You're not good enough for me. Come back the day before yesterday!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "ダメだな！\nオレが求めてるのはボン！　\nキュッ！　\nボン！　\nのお姉ちゃんだ！\nおまえさんじゃイロイロ足りねえ、\nおととい来やがれ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Wha...!? You bastard, let me tell you!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "なっ……！？\n貴様、\n言わせておけば！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Whoa! Rei, calm down!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "わわっ！\nレイさん、\n落ち着いて！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Your anger is understandable, Lady Rei...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "お怒りはごもっともですが、\nレイさま……！"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Heheh! If you want me to read your fortune, try to satisfy me!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "へへんっ！\n占ってほしけりゃ、\nオレさまを満足させてみろってんだ～！"
+    },
+    {
+      "name": "Akari",
+      "text": "Hmm... Then, Illya-san? Do you have a skull?",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "ん～……\nそれじゃあイリヤさん？\nドクロのおじさんを持ってて？"
+    },
+    {
+      "name": "Illya",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぬ？"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Oo?",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "お？"
+    },
+    {
+      "name": "Akari",
+      "text": "Here, give Onii-chan to Illya-san♪",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "はい、\nお兄ちゃんをイリヤさんにどーん♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Ngh!!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぬぉっ！！？"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Nuhooohhh!!! Nice body!! It's breaking my satisfaction limit!!!!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "ぬぉ\nっほおおおっ！！！\nナイスバディキターーーーー！！\nオレさまの満足度上限突破じゃーーーーー！！！！！"
+    },
+    {
+      "name": "Rei",
+      "text": "...Will she be okay? Relying on this evil spirit's fortune-telling...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……大丈夫なんだろうか？\nこんな悪霊の占いに頼って……"
+    },
+    {
+      "name": "Shinobu",
+      "text": "I understand your anxiety, but I think I can count on him if he's motivated. More importantly...",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "不安なお気持ちは、\nごもっともですが。\nお父さんやる気になったら、\nアテにできると思います。\nそれよりも……"
+    },
+    {
+      "name": "Illya",
+      "text": "On the way, let's hear your story. The true identity of the one who suddenly appeared in Landosol, possessing more magical power than Kaiser Insight. What in the world are you fighting against?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "道すがら、\n聞かせてもらうぞ。\nランドソルに突如現れた、\n覇瞳皇帝以上の魔力の持ち主──\nその正体を。\nお主らが、\n一体何と戦っているのかをな。"
+    },
+    {
+      "name": "The Three",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "…………"
+    },
+    {
+      "name": "ナレーション",
+      "text": "…………\n……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………\n……"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile, Yui, mentally cornered by Misora, was about to be imprisoned somewhere no one could reach.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方。\nミソラによって精神的に追い詰められたユイは、\n誰の手も届かない場所へ幽閉されようとしていた。"
+    },
+    {
+      "name": "Misora",
+      "text": "Well then... Goodbye, Yui-san.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それじゃあ……\nさようなら、\nユイさん。"
+    },
+    {
+      "name": "ユイ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Kishi...kun...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "騎、\n士……\nクン……？"
+    },
+    {
+      "name": "Misora",
+      "text": "...Fufu♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "……ふふっ♪"
+    },
+    {
+      "name": "Misora",
+      "text": "That's a surprise ★ I almost locked Yui-san up in my [Hiding Spot]...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "びっくりですね★\nあと少しで、\nユイさんを『隠し場所』に\n閉じ込めちゃうところだったのに……"
+    },
+    {
+      "name": "Misora",
+      "text": "The Kishi-san is amazing. I can't believe you made it just in time like this!★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "騎士さんってば、\nすごいです。\nこーんなギリギリのタイミングで間に合っちゃうなんて★"
+    },
+    {
+      "name": "Rei",
+      "text": "Yui!!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ユイッ！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui-chan...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃん……！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord, you made it in time! I was surprised when you ran off by yourself, but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま、\n間に合ったのですね！\nお一人で飛び出したので、\n驚きましたが……"
+    },
+    {
+      "name": "Misora",
+      "text": "Rei, Hiyori, Kokkoro... Huh?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "レイさんにヒヨリさん、\nコッコロさんも。\n……あれっ？"
+    },
+    {
+      "name": "Illya",
+      "text": "Phew. Looks like we were just in the nick of time.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふぅ。\n間一髪だったようじゃの。"
+    },
+    {
+      "name": "Miyako",
+      "text": "It's thanks to Miyako and the others that I was able to find it! I only need a hundred puddings as a thank you!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "見つけられたのは、\nミヤコたちのおかげなの～！\nお礼はプリン100個でいいの！"
+    },
+    {
+      "name": "Skull Father",
+      "text": "Hey, hey! I'm the one who did the fortune-telling! You can thank me with a hundred bouncy ladies!",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "オイオイ！\n占ったのはオレだろーがよ！\nお礼はボインのねーちゃん100人でいいぞ～！"
+    },
+    {
+      "name": "Shinobu",
+      "text": "Dad, be quiet.",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "お父さん、\n静かに。"
+    },
+    {
+      "name": "Yori",
+      "text": "Whoa... What? That green doll. It's ugly...",
+      "choice_data_list": [],
+      "orig_name": "ヨリ",
+      "orig_text": "うわっ……\nなに？\nあの緑のぬいぐるみ。\nブサイクね……"
+    },
+    {
+      "name": "Akari",
+      "text": "Huh? I think Akari's cute and bigl.",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "え～？\nアカリはおっきくてカワイイって思うけどな～"
+    },
+    {
+      "name": "Misora",
+      "text": "I was surprised to see the members of the Diabolos with you. You have more friends than I do, Kishi-san. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "【悪魔偽王国軍（ディアボロス）】のひとたちがご一緒なんて、\nビックリしちゃいました。\n騎士さん、\nわたし以上に\nオトモダチが多いですね★"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Surprised? Then...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……「ビックリした」？\nそれでは……"
+    },
+    {
+      "name": "Yui",
+      "text": "K-Kishi-kun... Every...one...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "き、\nし、\nクン……\nみん、\nな……"
+    },
+    {
+      "name": "Yui",
+      "text": "...S-Sorry...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……ごっ……\nごめ……"
+    },
+    {
+      "name": "Misora",
+      "text": "If you make an apologetic face and say you're reflecting on your actions, I'm sure you'll forgive Yui-san.★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ごめんなさい\nってカオして、\n反省してます\nってしおらしくすれば。\nきっとユイさんを、\n許してくれますよ★"
+    },
+    {
+      "name": "ユイ",
+      "text": "あ、\nぁっ……！\n……ああぁ……",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あ、\nぁっ……！\n……ああぁ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui-chan...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃん……！"
+    },
+    {
+      "name": "Rei",
+      "text": "...Caught up... like this...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……こんなに、\n追いつめられて……"
+    },
+    {
+      "name": "Rei",
+      "text": "Misora...! What did you do to Yui?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ミソラ……！\n貴様、\nユイに何をしたっ！？"
+    },
+    {
+      "name": "Misora",
+      "text": "Huh? What do you mean?",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "えっ？\n何って……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yui-san said she wanted to know, no matter what. I was just telling you the truth, okay? What Rei-san and Hiyori-san kept secret all this time...★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ユイさんが、\nどうしても知りたいって言うから。\n本当のコトを教えてあげただけですよ？\nレイさんやヒヨリさんが、\nずーっとヒミツにしてたコト……★"
+    },
+    {
+      "name": "Hiyori & Rei",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ",
+      "orig_text": "う……"
+    },
+    {
+      "name": "イリヤ",
+      "text": "気に食わんのぅ、\nお主。\n誰ぞ知らぬが、\nお主が悪玉というわけかぇ？",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "気に食わんのぅ、\nお主。\n誰ぞ知らぬが、\nお主が悪玉というわけかぇ？"
+    },
+    {
+      "name": "Misora",
+      "text": "Yes ★ Right now, I'm in the position of an evil pawn.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はい★\n今のわたしは、\n悪の手先ってカンジのポジションですねー"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As Eris' pawn, you're going to lure Yui-sama, imprison her, and prevent her from doing this so-called ‘loop of the world’...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "エリスの手先として、\nユイさまをおびき寄せ、\n幽閉し、\n『世界のループ』とやらをさせない、\nというわけですか……"
+    },
+    {
+      "name": "Yori",
+      "text": "......I heard briefly about it..... on the way here. Loops and an avatar...... and so on. That kind of thing is interesting because you're the one watching.",
+      "choice_data_list": [],
+      "orig_name": "ヨリ",
+      "orig_text": "……ここまで来る途中、\nざっと聞いたけど。\nループだとか、\nアバターだとか……\nイヤんなるわね。\nそういうのって、\n見てる側だから面白いのよ……"
+    },
+    {
+      "name": "Shinobu",
+      "text": "It's hard for us to believe, but if that woman is hostile to {0} and the others, we can't overlook it.",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "我々には、\n実感の湧きにくい話でしたが。\nあの女性が{0}さんたちと\n敵対しているというのでしたら、\n見過ごせませんね。"
+    },
+    {
+      "name": "Miyako",
+      "text": "Miyako and the others are going to beat her up! Give up and become pudding~♪",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "ミヤコたちが叩きのめしてやるの！\n観念してプリンになるといいの～♪"
+    },
+    {
+      "name": "Misora",
+      "text": "Hmm... I don't mind fighting normally, but...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "う～ん。\nこのまま、\n普通に戦ってもいいですけれど……"
+    },
+    {
+      "name": "Yui",
+      "text": "...Ugh, ah...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……ぅ、\nぁ……"
+    },
+    {
+      "name": "Misora",
+      "text": "Yui-san doesn't seem to be able to defend herself right now. If a stray bullet hits her, there's a chance it'll happen. And besides...",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ユイさん、\n今は身を守ることもできなそうですし。\n流れ弾が当たって万が一、\nなーんてコトもあるかもですし。\nそれに──……"
+    },
+    {
+      "name": "ぺんぽこりん",
+      "text": "──……！",
+      "choice_data_list": [],
+      "orig_name": "ぺんぽこりん",
+      "orig_text": "──……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Nuoh!?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ぬおっ！？"
+    },
+    {
+      "name": "Akari",
+      "text": "Aaahn! Something weird's coming from under Akari and the others' feet!?",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "きゃあんっ！\nアカリたちの足の下から、\nへんなのがぁ～っ！？"
+    },
+    {
+      "name": "Yori",
+      "text": "There's another ugly one?!",
+      "choice_data_list": [],
+      "orig_name": "ヨリ",
+      "orig_text": "あのブサイク、\nもう一匹いたっての！？"
+    },
+    {
+      "name": "Shinobu",
+      "text": "{0}, watch out...!",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "{0}さん、あぶない……！"
+    },
+    {
+      "name": "ユイ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Hiyori & Rei",
+      "text": "Yui-chan...!\"\"Yui!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ",
+      "orig_text": "「ユイちゃん……！」\n「ユイッ！」"
+    },
+    {
+      "name": "Misora",
+      "text": "Besides, everyone at Twinkle Wish thinks it'd be better to have a proper discussion at once",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "それに。\n【トゥインクルウィッシュ】のみなさんは、\nいっぺんキチンとお話し合いしたほうがイイって思うんですよねー"
+    },
+    {
+      "name": "Misora",
+      "text": "About Yui-san's wish. And that there are many people suffering in the \"other\" world. And later on",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ユイさんの叶えた、\n『願い』のコトとか。\n『あっち』の世界でも、\n苦しんでる人がいーっぱいいるコトとか。\nあとあと……"
+    },
+    {
+      "name": "Misora",
+      "text": "The 'previous Kishi-san' in the reconstruction isn't Rei-san or Hiyori-san. The 'Kishi-san who chose Yui-san' is no longer here. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "再構築の、\n『前の騎士さん』は。\nレイさんでもヒヨリさんでもなくて、\n『ユイさんを選んだ騎士さん』は──\nもういないってコトとか★"
+    },
+    {
+      "name": "Hiyori & Rei",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ",
+      "orig_text": "っ！！"
+    },
+    {
+      "name": "Misora",
+      "text": "So, here you go. ★",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ってことで、\nは\nい★"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wah?! We're surrounded...?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "わわっ！？\n囲まれちゃった……！？"
+    },
+    {
+      "name": "Rei",
+      "text": "Ugh...! This is a cage of magical energy...!?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くっ……！\nこれは、\n魔力の檻……！？"
+    },
+    {
+      "name": "Illya",
+      "text": "What density of magical energy is that cage?! Even I can't beat it...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あの檻、\nなんという密度の魔力じゃ！\nわらわですら、\n打ち破ることはそう敵わんぞ……！？"
+    },
+    {
+      "name": "Misora",
+      "text": "Hehe♪ Lady Eris has given me a little bit of her power right now. I can do things I can't do all the time.",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "ふふ♪\n今のわたしは、\nちょっとだけエリスさまから力を預かってますので。\nいつもはできないことも、\nイロイロできちゃうんです。"
+    },
+    {
+      "name": "Akari",
+      "text": "What are you planning to do by imprisoning those girls?!",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "あのお姉ちゃんたちを監禁して、\nどうするつもりなのっ！？"
+    },
+    {
+      "name": "Misora",
+      "text": "I don't mind fighting normally, though. I thought I'd try playing a game with Kishi-kun, just like Azold-san. ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "普通に戦っても、\nいいんですけどね。\nアゾールドさんみたいに『趣向を変えて』、\n騎士さんたちと、\nゲームで勝負してみようかなって♪"
+    },
+    {
+      "name": "Yori",
+      "text": "Geh... A game match?",
+      "choice_data_list": [],
+      "orig_name": "ヨリ",
+      "orig_text": "ゲ……\nゲーム勝負？"
+    },
+    {
+      "name": "Misora",
+      "text": "Yes ★ Yui and her friends are the prizes.......the fate of the world is at stake, and it's a three-way contest! ♪",
+      "choice_data_list": [],
+      "orig_name": "ミソラ",
+      "orig_text": "はい★\nユイさんたちを、\n景品にして──\n世界の運命を賭けた、\n三本勝負です♪"
+    }
+  ]
+}

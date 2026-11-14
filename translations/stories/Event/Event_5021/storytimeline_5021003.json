@@ -1,0 +1,443 @@
+{
+  "title": "Anima Purification",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "The party asks around the fishing village for clues\nregarding the Majimun, only to hear about sightings\nof floating plushies.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "マジムンの手がかりを求めて、\n漁村で聞きこみをしていた{0}たち。\nその最中に、村人から浮かぶぬいぐるみを目撃したという話を聞く。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Hey.\nYou don't think...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "なぁ、おい。\nやっぱり……"
+    },
+    {
+      "name": "Kaori",
+      "text": "Hm...\nIdeally it'd just be a coincidence, but that feels like wishful thinking.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "う～ん。\n偶然であってほしいけど、\nそうはいかない感じだね～"
+    },
+    {
+      "name": "Maho",
+      "text": "Did they all run off and become bad kids?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "みんな、\n悪い子になってしもたんやろか……"
+    },
+    {
+      "name": "Makoto",
+      "text": "H-hey now.\nNothing's been confirmed yet.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "お、おい姫さん。\nまだそうと決まったわけじゃないだろ？"
+    },
+    {
+      "name": "Maho",
+      "text": "There ain't no excuse to be stealin' people's souls.\nIf there's even a chance that it's true, then I...",
+      "choice_data_list": [
+        "Let's believe in them."
+      ],
+      "orig_name": "マホ",
+      "orig_text": "人の魂を奪うやなんて\n絶対に許されへん。\nみんなが本当にそんなことをしてるなら、\nうちは……"
+    },
+    {
+      "name": "Maho",
+      "text": "Believe in them?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "信じる……？"
+    },
+    {
+      "name": "Makoto",
+      "text": "He's right.\nIt doesn't matter if they're really involved or not.\nIf we don't believe in them, then who will?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "そうだぜ姫さん。\nいなくなったあいつらが\n関係してようがしてまいが、\nあたしらが信じないでどうするんだ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Yeah!\nWell said, {0}! ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "そうだよ～\n{0}はいいこと言うね～♪"
+    },
+    {
+      "name": "Kaori",
+      "text": "Either way, it'll be okay!\nIt's said in my homeland that benevolent spirits make their\nhomes in objects that've been treated well!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "それに大丈夫さ～！\n　私の故郷では、\n大切にされたものには\n善い魂が宿るって言われてるさ～"
+    },
+    {
+      "name": "Kaori",
+      "text": "If that's really true,\nthen there's no way those plushies would become bad kids! ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "それなら絶対、\nマホのぬいぐるみが\n悪い子になるわけないよ～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "For sure. You talk to them and brush their hair every day.\nThere's no way they could do anything bad after being treated that well.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "だよなぁ。\n毎日毎日話しかけたり\nブラッシングしたり、\nあれだけ大切にされてたら\n悪いことなんてできるもんじゃないぜ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Hehe. Thanks, y'all.\nYou're right. I oughtta believe in them.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふふっ。\nありがとう\nカオリはん。\n王子はんに\nマコトはんも。\nそうやね。\nみんなのこと、\nうちが信じてあげなね。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Oh. We're almost at the area it was sighted.\nSheesh. Having to walk through a forest in my swimsuit isn't what I\nhad in mind when we talked about coming to the beach.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おっと、\nそろそろ目撃証言があった場所だぜ。\nったくよ、\n海に来たってのに\n水着で森に入る羽目になるとはな。"
+    },
+    {
+      "name": "Kaori",
+      "text": "This is where things went down, so there's not much else we can do!\nMore importantly, I wonder if there's any goya around here?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "漁師さんが襲われたのがこの辺りらしいから\n仕方ないさ～\nそれより\nゴーヤーどこかに生えてないかな～？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Much as this place might resemble your homeland, I doubt it.\nLook around. It's just trees, grass and a plushie.",
+      "choice_data_list": [
+        "A plushie?",
+        "There's bugs, too."
+      ],
+      "orig_name": "マコト",
+      "orig_text": "似てるとはいえ、\n故郷そのものじゃねぇんだから\n難しいだろ。\n見ろよ。\nあるのは木と草と\nぬいぐるみくらいだぜ。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Yup. Right over th— Wait, what?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おう。\n今そこに……\nってええええっ！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Ugh, no! Keep them away!\nWait, that's not the point!\nI just said something weird, didn't I?",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "やめろ持ってくんな気持ち悪ぃ！\n　ってそうじゃねぇだろ！？\nなんか今\nおかしなこと言ったよなあたし！"
+    },
+    {
+      "name": "Arthur",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "アーサー",
+      "orig_text": "……"
+    },
+    {
+      "name": "Maho",
+      "text": "Arthur!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "アーサー！"
+    },
+    {
+      "name": "Makoto",
+      "text": "That's your plushie, for sure.\nIt really is floating! The heck's going here?!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "間違いねぇ、\n姫さんのぬいぐるみだ。\nおいおい、\nほんとに浮かんでやがるぞ……！"
+    },
+    {
+      "name": "Maho",
+      "text": "Arthur! Can you hear me?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "アーサー、\nうちの声が聞こえる？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Princess! Watch out!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おい気を付けろ姫さん！"
+    },
+    {
+      "name": "Makoto",
+      "text": "There's real bad vibes coming from that black aura\nsurrounding the plushie—I mean Arthur.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "ぬいぐるみ、\nいやアーサーを包んでるあの黒いオーラ、\nいやな感じがする……"
+    },
+    {
+      "name": "Makoto",
+      "text": "It might really come after our souls.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "最悪、\n本当に魂を奪われちまうかもしれねぇぞ。"
+    },
+    {
+      "name": "Maho",
+      "text": "But...!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "でも……っ！"
+    },
+    {
+      "name": "Arthur",
+      "text": "...!",
+      "choice_data_list": [
+        "Watch out!"
+      ],
+      "orig_name": "アーサー",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Maho",
+      "text": "My prince?!\nI can't believe you used your body as a shield!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "王子はん！？\n　\nうちをかばって……！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Looks like it's on the offensive!\nGood stuff, {0}!\nI'll leave the princess to you!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "襲ってきやがったか！\nナイスだ{0}！\nそのまま姫さんを頼む！"
+    },
+    {
+      "name": "Arthur",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "アーサー",
+      "orig_text": "……"
+    },
+    {
+      "name": "Makoto",
+      "text": "This is gonna be tricky, though...\nI don't have it in me to harm the princess's plushie!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "でもどうすっかな……\n姫さんのぬいぐるみなんて、\nあたしには攻撃できねぇぞ……！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Don't sweat it!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "だ～いじょうぶさぁっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Kaori?!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "カオリはん！？"
+    },
+    {
+      "name": "Arthur",
+      "text": "...?!",
+      "choice_data_list": [],
+      "orig_name": "アーサー",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Gotcha! ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "捕まえたさ～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "Kaori! Watch out!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おいカオリ、\nあぶねぇぞ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "It's fine, it's fine. ♪\nThis is the best way to handle this situation. ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "大丈夫大丈夫♪\nこういう時は、\nこうするさ～♪"
+    },
+    {
+      "name": "Kaori",
+      "text": "WAH!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "わぁっ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Whoa?!\nDon't raise your voice out of nowhere!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "うおぉっ！？\n　いきなり大声出すなよ！？"
+    },
+    {
+      "name": "Arthur",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "アーサー",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Maho",
+      "text": "That black aura is leaving Arthur's body...?",
+      "choice_data_list": [
+        "You okay?"
+      ],
+      "orig_name": "マホ",
+      "orig_text": "アーサーから、\n黒いものが\n抜けていきはった……？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Always am! ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "私はいつも元気いっぱいさ～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "What the heck did you even do?\nFar as I can tell, you just shouted.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "今、何をしたんだ？\nあたしには\n大声を出したようにしか見えなかったけど。"
+    },
+    {
+      "name": "Kaori",
+      "text": "That's pretty much it.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "その通りよ～"
+    },
+    {
+      "name": "Kaori",
+      "text": "They say in my homeland that\nyou drop your anima when you're given a shock.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "私の故郷ではねぇ、\nびっくりしたりすると\nマブイが落ちるって言われてるんさ～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "Anima?\nThat means your soul, doesn't it?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "マブイ、って\n魂のことやろか？"
+    },
+    {
+      "name": "Kaori",
+      "text": "Yup!\nIt'll pop right out of your mouth if you sneeze, too. ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "そうそう～\nくしゃみしたりすると\n口からすっぽ抜けたりね～♪"
+    },
+    {
+      "name": "Makoto",
+      "text": "Your homeland sure sounds wild.\nBut man, I can't believe that solved it.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "恐ろしい故郷だなおい。\nってか、\nそれでなんとかなるのかよ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Okay, Arthur!\nBack to Maho you go. ♪",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "はいア～サ～、\nマホのところにおかえりさ～♪"
+    },
+    {
+      "name": "Maho",
+      "text": "Arthur! Welcome back...\nI can't thank you enough, Kaori.",
+      "choice_data_list": [
+        "It's great that he's back."
+      ],
+      "orig_name": "マホ",
+      "orig_text": "アーサー！\n　おかえり……\nカオリはん、\n感謝しますえ……"
+    },
+    {
+      "name": "Maho",
+      "text": "Thanks for protecting me too, my prince.\nAre you okay? Still got ahold of your soul?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "王子はんも、\n庇ってくれてありがとうな。\n大丈夫？\n　魂は奪われてへん？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Princess! His heartbeat's got nothing to do with his soul!\nYou're way, way too close!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おいおい姫さん！\n　心臓の音を聞いても無駄だろ！？\n近い！\n　近づきすぎだ！"
+    },
+    {
+      "name": "Makoto",
+      "text": "And you should at least try and push her away a bit!\nSheesh...",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "おまえも遠慮とかしろよ！\n……ったく。"
+    },
+    {
+      "name": "Makoto",
+      "text": "Either way,\nit really was possessed by something in the end.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "でも\nやっぱり何かが憑りついてやがったんだな。"
+    },
+    {
+      "name": "Maho",
+      "text": "I noticed a snake-lookin' thing pop out of Arthur's body\nafter Kaori hollered and spooked it.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "カオリはんが\n大声を出したとき、\nアーサーから\n蛇みたいなもんが\n抜けだしていくんが見えましたなぁ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Majimun have different forms based on different legends.\nSnakes are the most common out of them.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "マジムンは\n色々な姿形で伝わってるさ～\n蛇はその中でも\n代表的なものだね～"
+    },
+    {
+      "name": "Maho",
+      "text": "Which means everyone else has been possessed by that Majimun...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "じゃあ\nみんなは、\nあの\nマジムンに……"
+    },
+    {
+      "name": "Makoto",
+      "text": "That's a pretty safe bet, given the circumstances.\nMan. This ain't gonna be easy,\ngiven just how many plushies there are.",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "状況的に見て、\n間違いないだろうな。\n参ったな、\n姫さんのぬいぐるみ、\nめちゃくちゃ多いよな？\nあれだけの数を相手にすんのかよ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "We know what've got to do now, at least. ♪\nThat makes the rest a lot simpler!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "でも、目標がはっきりしたのはいいことさ～♪\nあとは突き進むだけよ～！"
+    },
+    {
+      "name": "Maho",
+      "text": "Aye.\nKaori's right.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうやね。\nカオリはんの言う通りやわ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Just wait, everyone.\nI'll save each and every one of you.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "みんな……\n待っとってね。\nうちが必ず助け出すから。"
+    }
+  ]
+}

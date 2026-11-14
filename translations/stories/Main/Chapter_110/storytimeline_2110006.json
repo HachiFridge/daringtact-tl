@@ -1,0 +1,768 @@
+{
+  "title": "Part 2 Ch. 10 Ep. 6",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Aiming for {0}, a swarm of monsters led by Octo attacked Centorus, the land of the beastfolk. The Caon (Kaon) and Muimi stood in their way to protect their comrades.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}を狙い、\nオクトー率いる魔物の群れが\n獣人の国・セントールスへと襲撃をかけてきた。\n【自警団（カォン）】とムイミは、仲間たちを守るため立ちはだかる。"
+    },
+    {
+      "name": "Octo",
+      "text": "Yo",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "よっ、\nとー"
+    },
+    {
+      "name": "Muimi",
+      "text": "...! Ugh...!!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "っ！\nくぅっ──！！"
+    },
+    {
+      "name": "Octo",
+      "text": "Come on, come on. You're not going to use that huge sword you finally picked up? Well, you can't use it, can you? You'll leave yourself wide open.",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "ほらほら。\nやっと拾ったそのでっかい剣、\n使わないのー？\nまあー使えないよね、\n隙だらけになるもんねー"
+    },
+    {
+      "name": "Muimi",
+      "text": "...Dammit!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "……くそっ！"
+    },
+    {
+      "name": "ムイミ",
+      "text": "あーもうっ、\nぜんぜん攻め込めない！\nアタシの動きのクセが、\n手の内が、\n全部読まれちゃってるんだ……！　",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "あーもうっ、\nぜんぜん攻め込めない！\nアタシの動きのクセが、\n手の内が、\n全部読まれちゃってるんだ……！　"
+    },
+    {
+      "name": "Muimi",
+      "text": "Ugh...",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "くっ……"
+    },
+    {
+      "name": "Muimi",
+      "text": "...Heh heh.",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "……くくっ。"
+    },
+    {
+      "name": "Muimi",
+      "text": "...Hehehe. Ah ha ha ha!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "……ふふふっ。\nあっはっはっはっはっ！"
+    },
+    {
+      "name": "Octo",
+      "text": "Wait, what are you laughing at? You're such a weird girl!",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "って、\nなに笑ってるのさ？\nへんな子だなー"
+    },
+    {
+      "name": "Muimi",
+      "text": "Haha! Why are you laughing? Of course it's because something's wrong!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "ははっ！\nなんで笑ってるのかって？\nそりゃ、\nおかしいからに決まってるさ！"
+    },
+    {
+      "name": "Muimi",
+      "text": "No matter how much you forget about me, no matter how hard you try to play dumb! You know me very well! When I fight like this, You know exactly what I'm doing!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "オマエがいくらアタシを忘れたってトボけても！\nオマエは、\nアタシを、\nよく知ってる！\nこうして戦ってると、\nそれがよくわかるんだっ！"
+    },
+    {
+      "name": "Octo",
+      "text": "Whoops...!",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "おっと……！"
+    },
+    {
+      "name": "Muimi",
+      "text": "Come on, dodge again, and it's that easy! But you're right! After all, you know my movements very well! We fought next to each other, in perfect sync, over and over again!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "ほらまた避けるっ、\nしかもそんなに簡単に！　\nでもそうだよな！\nだってオマエはアタシの動きを、\nよーくよーく知ってるんだからなっ！\n隣同士で、\n息を合わせて、\n何度も何度も戦ったもんな！"
+    },
+    {
+      "name": "オクトー",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Muimi",
+      "text": "I don't really want to fight you either! But...",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "アタシだって、\nホントはオマエと\n戦いたくなんかないけど！\nでも──"
+    },
+    {
+      "name": "Muimi",
+      "text": "It’s much easier to feel this way when we’re clashing than when I’m looking for you in a haze! I’m an idiot, after all!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "モヤモヤしながらオマエを捜し回ってるより、\nこうしてぶつかり合ってたほうが\nずっと気持ちが楽だ！\nだって、\nアタシはバカだからな！"
+    },
+    {
+      "name": "Octo",
+      "text": "Hmm. Oh, I see...",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "ふーん。\nあっそー\nじゃ……"
+    },
+    {
+      "name": "Octo",
+      "text": "I think I'll stop bumping into you directly. Everyone, assemble!",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "直接ぶつかるの、\nやーめたっと。\nみんな、\n集合ー"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "カオリ・マコト・マホ",
+      "text": "！？",
+      "choice_data_list": [],
+      "orig_name": "カオリ・マコト・マホ",
+      "orig_text": "！？"
+    },
+    {
+      "name": "Kaori",
+      "text": "The rest of the monsters suddenly gathered... and made a formation!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "魔物たちの残りが、\nいきなり集まって……\n陣形組んださっ！？"
+    },
+    {
+      "name": "Makoto",
+      "text": "That's not all! Their movements have changed! They're working together!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "それだけじゃねェ！\n動きが変わりやがった──\n連携してきやがるっ！"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Maho",
+      "text": "That Octo, he can control monsters so freely without using much mana...!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あのオクトーはん、\nろくに魔力も使わずに、\nこんなに\n自在に\n魔物らを\n操るなんて……！"
+    },
+    {
+      "name": "Muimi",
+      "text": "Yeah. You really are a summoner, not a knight of the royal palace. It's only natural that you can do this....!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "ああ。\nホントのオマエは、\n王宮騎士なんかじゃなくて\n魔物使いだもんな。\nこのくらいは、\nできて当然だよな……！"
+    },
+    {
+      "name": "Octo",
+      "text": "It's not quite like this yet, though.",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "まだまだ、\nこんなものじゃないけどねー"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Eek! Y-You're after me!?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ひゃん！\nう、\nうちを狙っとるんっ！？"
+    },
+    {
+      "name": "Octo",
+      "text": "Of course. Aiming for the healer is the most basic of basics, isn't it?",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "そりゃあもう。\n回復役を狙うのは、\n基本中の基本でしょー？"
+    },
+    {
+      "name": "Makoto",
+      "text": "Princess! Get behind us!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "姫さん！\nあたしらの後ろに下がっててくれ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Sorry, sorry!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "すんまへん！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Siege tactics and individual attacks?! If we're outnumbered like this, it's all we can do to defend against them!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "包囲戦術に、\n各個撃破！？\nこの人数差でやられると、\n防ぐだけで精いっぱいさ～！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Tch! As expected of Octo-senpai, you're so good at what you do!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "チッ！\n流石オクトー先輩、\nやることがこすっからいぜ！"
+    },
+    {
+      "name": "Octo",
+      "text": "Oh, come on, I need you to call me Clever.",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "やだなー\nクレバーって言ってくれないと。"
+    },
+    {
+      "name": "Octo",
+      "text": "...Or rather, {0} is currently running away from me because you guys keep getting in the way. I should at least earn points for something else!",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "……っていうか、\nキミたちが邪魔するせいで\n{0}には現在進行形で逃げられてるし。\nせめて何か他のことで、\nポイント稼がなくちゃだよねー"
+    },
+    {
+      "name": "Kaori",
+      "text": "Earning points?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "ポイント稼ぎっ？"
+    },
+    {
+      "name": "Octo",
+      "text": "Yeah. Like, for example...",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "そ。\nほら、\nたとえばー"
+    },
+    {
+      "name": "Octo",
+      "text": "Maybe I’ll use the monsters to tear the beastfolk’s land to shreds? I think that would make them pretty happy~",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "魔物たちを使って、\n獣人の国をズタズタにしちゃうとか？\n結構喜ばれると思うんだよねー"
+    },
+    {
+      "name": "Maho",
+      "text": "I won't let you do that!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そないなこと、\nさせまへんえ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Happy...? You mean for the sake of the enemy boss, Eris?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "喜ばれるって……\n敵のボスの、\nエリスのためにってことさ？"
+    },
+    {
+      "name": "Muimi",
+      "text": "You..... are not the kind of \"bad guy\" we were trying to be! It's not like we were trying to be \"bad guys\"!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "オマエッ……\nそういうんじゃないだろ、\nアタシたちのなろうとしてた「悪いやつ」ってさ！\n強い相手に\nゴキゲン取りするような──\nそんなんじゃなかったはずだ！"
+    },
+    {
+      "name": "Octo",
+      "text": "Hmm, really?",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "ふーん、\nそうだっけー？"
+    },
+    {
+      "name": "Octo",
+      "text": "But... a bad guy, huh?",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "でも……\n悪いやつ、\nかぁ。"
+    },
+    {
+      "name": "Octo",
+      "text": "Is that really true? Eris is...",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "ホントにそうなのかなー？\nエリスはさー"
+    },
+    {
+      "name": "Muimi",
+      "text": "Of course she’s bad! After all, she’s the root of all the evils that ruined this world!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "悪いに決まってるだろ！\nだってあいつが、\nこの世界をめちゃくちゃにした\n諸悪の根源なんだぞっ！？"
+    },
+    {
+      "name": "Octo",
+      "text": "Haa.",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "──はぁ。"
+    },
+    {
+      "name": "Octo",
+      "text": "Honestly. That's why.",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "まったく。\nそんなことだから──"
+    },
+    {
+      "name": "Octo",
+      "text": "That's why you can't even reach the location of the real Spiresbane Blade.",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "そんなことだからキミは。\n本物の天楼覇断剣の在り処にも辿り着けないのさ。"
+    },
+    {
+      "name": "Muimi",
+      "text": "Huh...?! Wh-What do you mean?!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "えっ……！？\nど、\nどういうことだっ……！！"
+    },
+    {
+      "name": "Octo",
+      "text": "Okay, we're done talking. All the monsters, let's do this!",
+      "choice_data_list": [],
+      "orig_name": "オクトー",
+      "orig_text": "はい、\nおしゃべりはおーしまいっ。\nそれじゃあ魔物のみんなー、\nやっちゃうよー"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Muimi",
+      "text": "Hey, Octooo...!!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "おい、\nオクトーッ……！！"
+    },
+    {
+      "name": "Makoto",
+      "text": "Calm down, Noemu! We can talk after we beat the crap out of Senpai!",
+      "choice_data_list": [],
+      "orig_name": "マコト",
+      "orig_text": "落ち着けよノウェム！\n話は先輩をボコってからすりゃいーだろ！？"
+    },
+    {
+      "name": "Maho",
+      "text": "If the demons are acting under Octo-san's command, then... Noemu, lend a hand to us Caon!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "魔物たちが、\nオクトーはんの指揮で\n動いてるならっ。\nノウェムはんも、\nうちら【自警団（カォン）】に\n手を貸しておくれやす！"
+    },
+    {
+      "name": "Kaori",
+      "text": "That's right! There's a battle between the herds!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "そーそー！\n群れには群れの戦いがあるさー！"
+    },
+    {
+      "name": "Muimi",
+      "text": "Yeah... Sorry! Fight with me, Caon!",
+      "choice_data_list": [],
+      "orig_name": "ムイミ",
+      "orig_text": "ああ……\n悪い！\nアタシと一緒に戦ってくれ、\n【自警団（カォン）】ッ！"
+    },
+    {
+      "name": "Kaori & Makoto & Maho",
+      "text": "Okay!\"\"Yeah!\" \"Leave it to me!",
+      "choice_data_list": [],
+      "orig_name": "カオリ・マコト・マホ",
+      "orig_text": "「うん！」\n「あぁ！」\n「任せといてな！」"
+    },
+    {
+      "name": "Narration",
+      "text": "On the other hand, {0}, Kokkoro, Rei, and Hiyori were following Kasumi’s lead to escape Centaurus, the capital of the Beastfolk Nation",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方、\n姿を消したユイを追いかける\n{0}、\nコッコロ、\nレイ、\nヒヨリはカスミの先導で、\n獣人の国の首都・セントールスを脱出しようとしていた。"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hah!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "はっ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Taaaaah!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "たああーっ！"
+    },
+    {
+      "name": "Monsters",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Rei",
+      "text": "...All right. So that's all the monsters that came after us...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……よし。\n我々を追ってきた魔物は、\nこれで全て片付いたか……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...There are still a lot of monsters in the city. Anyway, it looks like we managed to escape...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……街の方には、\nまだ魔物がたくさんいるけれど。\nとにかく、\n脱出には成功できたみたいだね……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Hmm. If Octo-senpai's really after Assistant-kun... I feel like the way he's pursuing him is a little lax.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……うーん。\nオクトー先輩の狙いが本当に助手くんだっていうなら……\n追撃の仕方が、\nちょっと緩いような気がする。"
+    },
+    {
+      "name": "カスミ",
+      "text": "『内通者』がいるから、\nいつでも捕まえられるとたかをくくっている？\nそれとも、\n他に目的があったんだろうか。\n何かの工作とか、\nアリバイ作りとか……？　",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "『内通者』がいるから、\nいつでも捕まえられるとたかをくくっている？\nそれとも、\n他に目的があったんだろうか。\n何かの工作とか、\nアリバイ作りとか……？　"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "............huu......",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "…………ふぅ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Kokkoro, how was it...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "コッコロちゃん、\nどうだった……？"
+    },
+    {
+      "name": "Rei",
+      "text": "Did I see Yui from above?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ユイの姿は、\n上空から見えただろうか？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm sorry. Yui-sama wasn't anywhere in sight. I don't know if she was hiding in the shadows or something, but...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "申し訳ありません。\n目の届く範囲に、\nユイさまはいらっしゃいませんでした。\n物陰などに隠れられていた場合は、\nわかりませんが……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I-I see...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "そ、\nそっか……"
+    },
+    {
+      "name": "Rei",
+      "text": "The gate guards saw Yui in the direction of the eastern highway...or so they say. There aren't many clues to be found blindly...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "門衛がユイを見たのは、\n東の街道の方角……\nという話だったが。\n闇雲に捜しまわるには、\n手掛かりが少なすぎるね……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "There are so many monsters trampling the ground that it's impossible to follow their footprints. And outside the city, we can't expect any more eyewitness testimony... This is a difficult case.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "大量の魔物が地面を踏み荒らしているから、\n足跡を追うのは不可能だし。\n街の外となると、\nこれ以上の目撃証言も期待できないし……\nこれは難事件だね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "We searched around Maho's mansion and the city... After that, we fought monsters and took detours to get here, so a lot of time has passed.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "マホさまのお屋敷や、\n街の中を捜し回り……\nその後、\n魔物と戦ったり、\n迂回などしてここまで来ましたから、\n時間がかなり経っております。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yuy-sama is also in pretty good health, and I wonder how far she's gone.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ユイさまもかなりのご健脚ですし、\nどこまで進んでしまっているのでしょうか……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Y-Yeah...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "う、\nうん……"
+    },
+    {
+      "name": "Rei",
+      "text": "...Hiyori?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ヒヨリ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui...chan...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……ユイ、\nちゃん……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "In order to save Yui-chan...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃんを、\n助けるためには……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "I have to take out Eris... I guess. Just like we did with Kaiser Insight...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "エリスさんを、\nやっつけなくちゃいけない……\nのかな。\n覇瞳皇帝さんのときみたいに……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Hiyori...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ヒヨリさま……"
+    },
+    {
+      "name": "Rei",
+      "text": "...If Eris is after {0}, Yui, and the rest of the world, then I'm sure we'll end up fighting eventually... But...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……エリスが{0}やユイのことを狙い、\nそして世界を破壊しかねないというなら。\nいずれは戦うことになるだろうけれど……\nでも……"
+    },
+    {
+      "name": "Rei",
+      "text": "But... even if I could defeat Eris, that wouldn't... save Yui in the truest sense...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "でも……\n仮にエリスを打倒できたとしても。\nそれは、\n本当の意味でユイを助けることには……\nならないだろうね……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...Y-Yeah...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……\nう……、\nうん……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "If we can return this world to the way it was before the 'reconstruction' took place, if we can guide everyone back to reality... then maybe Yui-sama won't be gripped by self-reproach anymore...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "この世界を、\n『再構築』の行われる前に戻すことができれば。\n現実へと、\nみなさまをお導きすることができれば……\nユイさまが\n自責の念に囚われることも、\nなくなるかもしれませんが……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hmm, hmm... We're going to a place called 'reality'--no, if we really are from 'Reality', we'll be going back. Do you think we can find a way to do that?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "フムフム……\nその、\n『現実』という場所へ行く──\nいや、\n私たちが本当に『現実』から来たのなら、\n戻る形になるのだけど。\nその方法は、\n見つかりそうなのかな？"
+    },
+    {
+      "name": "Rei",
+      "text": "...I don't know yet. I was in the middle of collecting an item called a Sol Orb in search of clues to save Minerva, the administrator of this world...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……まだ、わからない。\nこの世界の管理者──\nミネルヴァを救うための手がかりを求めて、\nソルオーブっていうアイテムを集めてる最中だったんだけど……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "There was a battle with the [Rage Legion], so we haven't been able to get all of them yet...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "【レイジ・レギオン】との戦いがあったから、\nまだ全部揃えられてないんだよね……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Minerva, huh? The world's administrator... If there really is someone that amazing, I'd love to meet her at least once.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ミネルヴァ、\nかぁ。\n世界の管理者だなんて……\n本当にそんなすごいひとがいるなら、\nぜひ一度会ってみたいな。"
+    },
+    {
+      "name": "Rei",
+      "text": "I'm sure they do exist. Hiyori and I vaguely remember meeting them once.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "実在は、\nしているはずだよ。\n私もヒヨリも、\nおぼろげながらに一度会った記憶があるし。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Is this......a memory from the previous world......? I'm not sure, but it's hazy......",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "これって……\n『前の世界』の記憶……\nなのかなぁ。\nはっきりしなくて、\nもやもやしちゃうんだけど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "As for me... It's faint, but I remember speaking with Lady Minerva when I was young. I hope she's safe...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしも……\nうっすらとですが、\nミネルヴァさまと\n幼い頃にお話し相手をさせていただいた記憶がございます。\nご無事だと良いのですが……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hmm, hmm. Everyone has made contact with Minerva before, but they don't remember her clearly...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "フムフムフム。\nみんな、\nミネルヴァと接触したことがあるのに\nはっきりとは記憶していない、\nと……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "If this is what they call a “correction of perception”...then it's troublesome. I feel like the link between my thoughts is weaker than usual. I hope there's some way around it...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "これが『認識の修正』というものなのだとしたら……\n厄介だね。\n私の方も、\n思考と思考の結びつきがいつもより弱っている感じだ。\n何とかして、\n回避する方法があるといいのだけど……"
+    },
+    {
+      "name": "Rei",
+      "text": "...Kasumi. Sorry, but more importantly...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……カスミ。\n悪いが、\n今はそれよりも……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Aaah, sorry! We need to find Yui-san and go help Maho and the others!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ああっ、\nすまない！\n早くユイさんを見つけて、\nマホさんたちの助けに向かわないとだね！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...That said, we don't have any clues as to Yui-sama's whereabouts...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……とはいえ、\nユイさまの行方にも\n手がかりはない状況なのですが……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wh-What should we do? Should we all split up?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ど、\nどうしようっ？\nこうなったら、\nみんなで手分けしてみる？"
+    },
+    {
+      "name": "Rei",
+      "text": "It’s too dangerous to act alone in a situation where the pursuers’ monsters might come again, but... I guess that’s our only option...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "再び追っ手の魔物が来るかもしれない状況で、\n単独行動するのは危険すぎるが……\nそれしかないか……"
+    },
+    {
+      "name": "Everyone",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Narration",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...My Lord? What's wrong?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……主さま？\nいかがなさったのですか？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Huh? Using communication magic on my assistant?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "えっ？\n助手くんに、\n通信魔法で？"
+    },
+    {
+      "name": "Rei",
+      "text": "At a time like this, from whom...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "こんなときに、\n誰から……"
+    },
+    {
+      "name": "？？？",
+      "text": "~-chan...",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "『──ちゃんっ……』"
+    },
+    {
+      "name": "Akari",
+      "text": "Onii-chaaan!",
+      "choice_data_list": [],
+      "orig_name": "アカリ",
+      "orig_text": "『お兄ちゃーーんっ！』"
+    },
+    {
+      "name": "Miyako",
+      "text": "Give me the pudding!♪!",
+      "choice_data_list": [],
+      "orig_name": "ミヤコ",
+      "orig_text": "『プリンをよこせなのーーーっ！♪！』"
+    }
+  ]
+}

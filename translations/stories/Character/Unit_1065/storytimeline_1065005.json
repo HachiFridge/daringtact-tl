@@ -1,0 +1,485 @@
+{
+  "title": "Kaya Episode 5",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "One day, when {0} is out on a lazy stroll,\nhe happens across Kaya in the city streets.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その日、暇を持て余し散歩していた{0}は、\n街中で偶然カヤと出会った。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Hey, if it ain't {0}!\nWhat brings you to these parts today?\nYou just bored, or what?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "よぉ、\nキミじゃんか。\n今日はこんなところでどうしたんだよ。\nひょっとして\n暇なのか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Here's an idea, then—you can join in with my training!\nI'm pretty free today too. No guild or gang work to take care of.",
+      "choice_data_list": [
+        "\\\"Gang work\\\"?"
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "じゃあさ、\nオレの稽古に付き合ってくれよ。\n今日はオレも暇しててさ。\nギルドでもギャングでも仕事ないし。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, right. Did I never mention?\nI'm a member of a gangster family.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そういや\n言ってなかったっけ？\nオレはギャングのメンバーなんだ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Don't get me wrong, my brawling work is Guild Association approved,\nand even the gang stuff is mostly just staffing stalls\nand patrolling our turf.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "っていっても、\n喧嘩屋の仕事は【ギルド管理協会】通してるし、\nギャングの仕事も\n普段は出店の店員か、\n縄張りの警備くらいでさ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "The real shady stuff all gets smoothed over by our boss.\nI hear things got nasty a while back, but we're peaceful nowadays.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "特別ヤバい話は、\n大体ボスが上手いことまとめてくるんだよ。\n前は色々ひどかったらしいけど、\n今は平和そのものだ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "So sometimes I have boring days with nothing to do. Like today.\nI tend to use them for brawling practice—in other words, training!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "おかげで退屈しちまうくらい暇になる日があってさ。\nそれが今日だ。\nこんな時はケンカの練習、\nつまり稽古だ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Why don't you come too? You're free, right?\nThen follow me! I know a great spot just outside the city!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "よかったらキミも来いよ。\n暇なんだろ？\nじゃあ行こうぜ！　\n街の外にいい場所があるんだよ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Yeah... This place'll do for today.\nNice and spacious, right? Now, let's get started...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……うん、\n今日はこの辺りにするか。\nだだっ広くていいだろ？　\n早速始めるとするか……"
+    },
+    {
+      "name": "Kaya",
+      "text": "...\nHahh! Yah! Haahhh!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "すぅぅぅ……\nはっ！　\nせいっ！　\nはあっ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "...You'll get bored just watching me.\nHow about you train with that sword? Do some practice swings.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……オレの稽古見てても退屈だろ？\nせっかくだし、\n剣の稽古でもやれば？　\n素振りとかさ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huh... Not bad form, actually.\nYou must have a good teacher.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "へぇ……\nわりといい感じじゃん。\nいい先生がいるんだな。"
+    },
+    {
+      "name": "Kaya",
+      "text": "A fishing teacher? Uh, I didn't mean fishing...\nWait. Do you mean swordplay's like handling a rod?...Maybe not.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "釣りの師匠？　\nいや、\n釣りの話じゃなくて……\n待てよ、\n竿の扱いが剣と似てる\nってことか？　\n……違うか。"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Hey, I just had a thought. Wouldn't it be a good idea\nto practice fighting with your bare fists too?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……なあ、\n今思ったんだけどさ。\nもしもの時のために、\n素手で戦える訓練もした方がよくないか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "You seem weirdly out of it sometimes,\nso you might get caught without a sword someday. Right?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "キミって\n妙にぼーっとしてるところもあるし、\nいざって時は自分で自分の身を守れないと。\nだろ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "C'mon, lemme show you the basics. Make a fist like this... That's right.\nPlace your feet at shoulder width, and thrust straight forward!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ほら、\n教えてやるから構えてみな。\nそんで拳を握って……\nそうそう。\n足は肩幅に広げて、\n正面に拳を突き出すっ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "At the end, you gotta tense your fist and give it a twist.\nThat puts more force behind it. Go on, try it for yourself.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "腕が伸びきる前に拳をぐっと締めて、\n捻りながら突いて。\nその方が突きは重くなるんだ。\nほら、\nキミもやってみな。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Your armpits are looking a little loose there.\nIf you leave yourself open... Take this!",
+      "choice_data_list": [
+        "That tickles..."
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "脇の締めかたが\n少し甘いな。\n隙を見せるやつの脇腹は……\nこうだ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Oh, come on!\nIf you can't endure this, how'll you win in a real fight?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "何言ってんだよ。\nこんなの我慢できないで\n相手を倒せるわけないだろ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "What if an enemy tickles you, huh?\nWill you leave yourself at their mercy?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "くすぐってくる敵がいたらどうする？\n倒さずにくすぐられっぱなしか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "C'mon, don't pay me any mind!\nKeep up the training!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ほら、\nオレのことは気にしないで、\n続けた、\n続けた！"
+    },
+    {
+      "name": "Kaya",
+      "text": "One, two! One, two!\nThere! There! Jab... jab!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "いち、\nに、\nに……\nそれ！　\nそれ！　\nちょん\nちょん！"
+    },
+    {
+      "name": "Kaya",
+      "text": "We're still only getting started here!\nTickle-tickle-tickle!",
+      "choice_data_list": [
+        "I-I can't take any more..."
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "まだまだこれくらいは序の口だぜ！\nこちょこちょこちょ～！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ahaha, sorry 'bout that!\nYour reactions were so funny, I couldn't resist.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あはは、\nゴメンゴメン。\nキミの反応が面白くて、\nつい。"
+    },
+    {
+      "name": "Kaya",
+      "text": "But you never know what'll happen in a fight.\nLike, what if right now, a monster attacked us out of the blue?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "でも戦いの最中は何が起きるか分かんないだろ？\nたとえば今オレたちが、\nいきなり魔物に襲われるかも知れないしさ。"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Huh? A monster?\nOh, come on! I didn't mean it that literally!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……は？　\n魔物？\nオイオイ、\nマジで襲ってくるやつがあるか！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Honestly... What a [i]massive[/i] pain, huh?!\nA perfect training partner out of nowhere!",
+      "choice_data_list": [
+        "You sound like you're... having fun?!",
+        "Aren't you scared at all?!"
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "ったくよぉ……\nコイツは困っちまったなぁ！\nちょうどいい稽古相手が現れやがった！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ahaha! Sorry, is that how it seems?\nThat must be 'cause I'm really loving this! Bring it on, beastie!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "あはは、\nそう見えるなら仕方ねぇな！\n実際楽しくなりそうだからしょうがねえだろ！　\nいくぜ\nオラァ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Scared? Why would I be?! If anything, I'm getting excited!\nYou can stand back! I'll take this guy one-on-one! Yahhh!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "怖いもんか！　\nむしろワクワクしてきたぜ！\nキミは下がってな！　\nコイツとはオレがタイマンはるぜ！　\nオラァ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Wait, huh? One hit and you're on your last legs?\nDon't tell me this thing was weakened before we started?\n...Well, whatever! I'll just finish it in a flash!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "なんだ？　\n一発でくたばりそうだってのか？\nひょっとしてコイツ、\nオレが殴る前から弱ってたのか？\n……\nどうでもいいか！　\nこのまま一気にぶっ倒すぜ！"
+    },
+    {
+      "name": "Adventurer 1",
+      "text": "You two! Are you all right?!",
+      "choice_data_list": [],
+      "orig_name": "冒険者１",
+      "orig_text": "君たち！　\n大丈夫か！"
+    },
+    {
+      "name": "Kaya",
+      "text": "...Whoa! Talk about awful timing...\nHey. Who the heck are you guys?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "っとぉ！　\n邪魔が入りやがった……\nよお。\nキミたちは何者だ？"
+    },
+    {
+      "name": "Adventurer 2",
+      "text": "We're here on a Guild Association job\nto locate and defeat that dangerous monster.",
+      "choice_data_list": [],
+      "orig_name": "冒険者２",
+      "orig_text": "私たちは\n【ギルド管理協会】から、\nそこの魔物を討伐するように依頼された者よ。"
+    },
+    {
+      "name": "Adventurer 2",
+      "text": "But it got away from us mid-battle.\nSo we chased after it and found you two here.",
+      "choice_data_list": [],
+      "orig_name": "冒険者２",
+      "orig_text": "でも仕留め損なっちゃって逃げられたの。\nそして追いかけてきたら、\n君たちを見つけたってわけ。"
+    },
+    {
+      "name": "Adventurer 1",
+      "text": "It's a savage beast. We'll fight it with you!",
+      "choice_data_list": [],
+      "orig_name": "冒険者１",
+      "orig_text": "そいつは強敵だ！　\n我々も一緒に戦おう！"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huh? Hold it right there. I'm the one fighting it right now.\nAre you gonna butt in on a one-on-one brawl?\n'Cause if you are, you'll have to take me down first!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "は？　\nちょっと待てよ。\n今コイツと戦ってんのはオレだぜ？\nまさかタイマンのケンカに水差すなんて言わねえよな？\nやるってんなら、\nまずオレを倒してからにしな！"
+    },
+    {
+      "name": "Adventurer 1",
+      "text": "Brawling with a monster?\n...No, it's far too dangerous for that!",
+      "choice_data_list": [],
+      "orig_name": "冒険者１",
+      "orig_text": "魔物とけんか……！？\nだがソイツは間違いなく危険だ！"
+    },
+    {
+      "name": "Adventurer 2",
+      "text": "But get a load of this girl's aura...\nI almost feel like she can take it!",
+      "choice_data_list": [],
+      "orig_name": "冒険者２",
+      "orig_text": "……でもこの子、\nすごい迫力……\nもしかしたら、\nもしかするかも……"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUOOOGHHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Adventurer 1",
+      "text": "What's the beast doing?\nDon't tell me it's taken a liking to this girl...?",
+      "choice_data_list": [],
+      "orig_name": "冒険者１",
+      "orig_text": "どうしたんだアイツ。\nまさか\nあの子に心を開いたとでもいうのか……？"
+    },
+    {
+      "name": "Kaya",
+      "text": "I didn't do this to save you, idiot!\nDon't let your damn guard down!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "別にテメェを助けたわけじゃねぇよ！\n何油断してんだオラァ！"
+    },
+    {
+      "name": "Monster",
+      "text": "GRUAAUUGHHHH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Kaya",
+      "text": "That's all you've got? Ugh, what a drag.\nDidn't even last long enough to give me a good spar.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "もう終わりかよ……\n拍子抜けだぜ。\nあんなんじゃ稽古の代わりにもならないっての。"
+    },
+    {
+      "name": "Adventurer 2",
+      "text": "Defeating it in a single hit...? You really are incredible.",
+      "choice_data_list": [],
+      "orig_name": "冒険者２",
+      "orig_text": "アイツを一撃で倒すなんて……\nあなたってすごく強いのね。"
+    },
+    {
+      "name": "Adventurer 1",
+      "text": "Thank you. This is half the reward we were offered.\nWe were given it as an advance, but let us split it with you.",
+      "choice_data_list": [],
+      "orig_name": "冒険者１",
+      "orig_text": "助かったよ。\nこれはあの魔物を倒した報酬の半分だ。\n前金として受け取っていたのだが、\n君と分けさせてくれ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huh? C'mon, no need for that.\nAll I wanted was to get a decent fight out of this...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "え？　\nいいってそんなの。\n別にオレは\n魔物とケンカできればそれでよかったんだし。"
+    },
+    {
+      "name": "Kaya",
+      "text": "It was your target to begin with, right?\nSorry for snatching it.",
+      "choice_data_list": [
+        "Hold Kaya back.",
+        "Poke Kaya in the tummy."
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "本当はキミらの獲物だったんだろ？\n横取りして悪かったな。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Aahhh! Don't just grab a girl's waist!\nAh, geez! You got something you wanna say?",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ひゃわっ！　\nいきなり腹をつかむな腹を！\nなんだよ！　\n何か言いたいことがあんのか？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Aahhh! Wh-what was that for?!\nThe brawler's code says no sudden ambushes!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ひゃうっ！　\nな、\n何すんだよいきなり！\n喧嘩屋はなあ、\n不意打ち禁止なんだぞっ！？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Wahhh! H-hey! I said stop that!\nYou're just getting back at me for before, aren't you?!",
+      "choice_data_list": [
+        "Just accept the money.",
+        "You've earned it."
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "ひゃあっ！　\nお、\nおい、\nだからやめろって！\nキミ、\nさっきの仕返しにやってるだろ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "Huhhh? All I did was finish the thing off.\nI mean, if it's what the guys hunting it want, I guess it's their call...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "えー？　\nオレなんて\nトドメさしただけだぜ？\nまあ\n仕事を受けたアイツらがいいって言うなら\nいいのかな……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Uhhh. Is that how it works?\nWell, coincidence or not, I guess it was me that defeated it...",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "うーん、\nそういうもんかな？\nいや、\nなりゆきだとしても\n魔物を倒したのは\n確かにオレか……"
+    },
+    {
+      "name": "Kaya",
+      "text": "All right. If you're gonna insist, I'll take it.\nCan't say no to a little extra cash.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "分かった。\nキミがそこまで言うなら\nもらっとくか。\nせっかくだし、\n報酬はいただくよ。"
+    },
+    {
+      "name": "Adventurer 1",
+      "text": "Yes, you really should have it.\nWe owe you for this one.",
+      "choice_data_list": [],
+      "orig_name": "冒険者１",
+      "orig_text": "ああ、\nぜひ受け取ってくれたまえ。\n君のおかげで助かったよ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "...I guess... you're welcome.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……\nそりゃ、\nどーも。"
+    },
+    {
+      "name": "Adventurer 2",
+      "text": "Well then, we'll be heading back to file a proper report.\nYou two take care!",
+      "choice_data_list": [],
+      "orig_name": "冒険者２",
+      "orig_text": "それじゃあ、\n私たちは討伐の報告があるから街に戻るわね。\n気をつけて帰るのよ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "...And they're gone.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "……行っちまったな。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Ah man. This feels so awkward.\nIt's not like I fought that thing for them, or for the cash...",
+      "choice_data_list": [
+        "But you made them happy.",
+        "Don't you like doing good deeds?"
+      ],
+      "orig_name": "カヤ",
+      "orig_text": "あーあ、\nなんか微妙な気分だぜ。\n別にアイツらや金のために戦ったわけじゃないんだけどな……"
+    },
+    {
+      "name": "Kaya",
+      "text": "Yeah... Even though all I did was have a fun brawl.\nYou know, I don't like accepting money for fights like that.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "うん……\nオレが勝手に魔物と殴り合っただけなのにな。\nオレさ、\n本当はああいうケンカで\n金は貰いたくないんだ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "But I guess if I got my fight, and their job got done,\neverybody wins... You seem pretty happy too, after all.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "でもまあ\n今日はオレも戦えて、\nアイツらも喜んでたし、\nよかったってことだよな……\nキミも喜んでくれてるみたいだしさ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "I wouldn't go that far, but... Did I really do a good thing?\nI mean, I only kicked its ass 'cause I wanted to,\nand those guys must've wanted the full reward.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "そういうわけじゃ\nないけどさ……\nオレ\nいいことしたのかな？\nだって\n魔物を倒したのはオレが勝手にやったことで、\n本当なら報酬だって\nアイツらが全額受け取ったはずだろ？"
+    },
+    {
+      "name": "Kaya",
+      "text": "It's like I stepped in and snatched part of their pay.\nIf anything, I feel bad for 'em...\nBut you seem real happy, so I guess it can't be all bad.",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "それをオレが割り込んで、\n横取りしちゃった気がしてさ。\nアイツらに悪い気がしてたんだ……\nでも\nキミが喜んでくれたし、\nいいことしたんだよな、\nオレ。"
+    },
+    {
+      "name": "Kaya",
+      "text": "Well, whatever!\nWe're done training, so let's spend this cash and have some fun!",
+      "choice_data_list": [],
+      "orig_name": "カヤ",
+      "orig_text": "ならいいや！\n稽古も終わったし、\n報酬使って\n今からパーッと遊ぼうぜ！"
+    },
+    {
+      "name": "Narration",
+      "text": "And flashing a grin to wipe away her uncertainty,\nKaya set off with {0} back towards the city.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カヤは晴れやかな笑顔を浮かべて\n{0}と共に街を目指し歩き出した。"
+    }
+  ]
+}

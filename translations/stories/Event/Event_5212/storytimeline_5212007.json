@@ -1,0 +1,460 @@
+{
+  "title": "\"Labyrinth\" Reboot",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Having finished the post incident clean-up, {0} and the others reached the main street of Togoku.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "事件の後始末を終えた{0}たちは、\nトーゴクの大通りへと足を運んでいた。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "That settles everything. Good work, everyone. Who would've thought the last safe house would actually be in Togoku?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "これで、\n全部片付いたね。\nおつかれさま。\n最後のセーフハウスが、\n本当にトーゴクだったなんてね。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yes! Including all the traveling, it really took a long time, but we can finally relax now! Thank you too, Onii-chan!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はい！　\n移動も含めて長かったけど、\nやっとひと息つけました～！\nお兄ちゃんも\nありがとうございますっ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Still, Togoku's main street sure is lively. Everyone seems to be having fun. There are lots of shops...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "それにしても、\nトーゴクの大通りはにぎやかですね。\nみんなが楽しそうです。\nお店もたくさんあって……"
+    },
+    {
+      "name": "Rino",
+      "text": "To think there'd be a safe house even in a place like this… Master really is impossible to pin down.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "こんなところにもセーフハウスがあるなんて、\nマスターは本当に神出鬼没ですよね。"
+    },
+    {
+      "name": "Rino",
+      "text": "After we sealed everyone's memories away, she just quietly slipped away before we even noticed.",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "みなさんの記憶を封印した後、\nいつの間にか、\nスー\nッといなくなっちゃいましたけど。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "She's probably off traveling around the world again. This time too, it wasn't like we were reforming the guild -- it was really just her lending us a hand.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "多分また、\n世界を飛び回ってるんじゃないかな。\n今回もギルドを組んでいたわけじゃなくて、\nあくまで手助けって形だったし。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yup, our guild is still disbanded in the end. Even though she went and talked about the \"true power of Labyrinth\" back there...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "ギルドはやっぱり、\n解散したままなんですよね。\n【ラビリンス】の底力を～\nなんて言ってたのに。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You're right on that. It still feels strange to me...",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "そうだね。\nちょっと不思議な感じもするけど……"
+    },
+    {
+      "name": "Rino",
+      "text": "Back there, I thought that we'd finally be all back together again. I wonder if things will just stay like this...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "またみんなで一緒にって、\nあの時は思ったんですけど。\nもう\nこのまま、\nなのかなぁ……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Riiiino-chan, don't look so gloomy. At times like this, eat something sweet and cheer yourself up!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "リーノちゃん。\n暗い顔はやめやめっ。\nこういう時は甘い物でも食べて、\n元気出そ！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Since we're in Togoku, after all, let's have some of their famous dango we usually can't get♪ Big Sis is treating today.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "せっかくトーゴクに来たんだもん。\n普段は食べられない有名なお団子、\n一緒に食べよ♪\n今日は\nお姉ちゃんがご馳走してあげる。"
+    },
+    {
+      "name": "Rino",
+      "text": "...Hehe, yes! That's a part of you I really like, Big Sis!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……ふふ、\nはいっ！\nお姉ちゃんのそういうところ、\n大好きです！"
+    },
+    {
+      "name": "Rino",
+      "text": "Ah, I found a dango shop! Let's go check it out right away♪",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あ、\nお団子屋さん発見っ！\n早速いってみましょう♪"
+    },
+    {
+      "name": "Rino",
+      "text": "Big Sis, Onii-chan! Over here!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃん、\nお兄ちゃんっ。\nこっちですよ～！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Geez, you sure bounce back fast, huh? Come on, little brother♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もうっ、\n現金だなぁ～？\n行\nこ、\n弟くん♪"
+    },
+    {
+      "name": "Rino",
+      "text": "Clerk-san! I'd like this New Year's Dango Set! As for drinks... I'll have some sencha tea!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "店員さん、\nこの\n新春お団子セットをお願いします！\nお茶は煎茶で！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Then I'll have the same. Maybe I'll go with matcha for the tea. What about you, little brother?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "じゃあ私も同じので。\nお茶は抹茶にしようかな？\n弟くんも同じのにする？"
+    },
+    {
+      "name": "Rino",
+      "text": "Matcha... that really feels like such a grown-up choice!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "抹茶、\nオトナっぽいですね！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ehehe! I am BIG Sis, after all♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "えへへ、\nお姉ちゃんだからね♪"
+    },
+    {
+      "name": "Rino",
+      "text": "Hmm, it's delicious. Tea from Togoku really has a different flavor...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "うーん、\nおいしい。\nトーゴクのお茶は一味違いますねぇ……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "You can say that again. And more than anything, sitting here with you and little brother... drinking tea like this is the best♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "本当だね。\nそれになにより、\n弟くんとリノちゃんがいて。\nゆっくり飲むお茶は\n最高だよ♪"
+    },
+    {
+      "name": "Rino",
+      "text": "...Thank you for the meal! Big Sis, Onii-chan. While we're here, why don't we go for a little walk?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "……ごちそうさまでした！\nお姉ちゃん、\nお兄ちゃん。\nせっかくだし\n少しお散歩していきませんか？"
+    },
+    {
+      "name": "Rino",
+      "text": "I agreed to help out in the heat of the moment, sure! But still, can't you at least let me take a break for New Year's!?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "つい勢いで手伝うって言っちゃいましたけど！\nそれにしたって、\nお正月くらい\n休ませてくれてもよくないですか！？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Master, you really work us to the bone. It'd be nice if we got a bonus every now and then, you know~? I mean, you somehow managed to get yourself a really nice kimono, didn't you?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "マスター、\n本っ当に人使いが荒いもん。\nたまにはボーナスとか欲しいな～？\nいつの間にかイイ感じのお着物仕立てちゃったみたいだしっ？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Oh, this? It's a rare piece of equipment with special effects that only work here in Togoku. It's not just for looks, it's also designed to improve my battle efficiency♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あ、\nこれ？\nトーゴク限定で\n特効効果が付くレア装備なんだよね。\n見た目だけじゃなく、\nバトルの効率アップも狙ってたりして♪"
+    },
+    {
+      "name": "Shizuru",
+      "text": "As expected of you, Master! Always prepared! In that case... we'd be really happy if you got some for us too... right♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "さっすがマスター、\n準備万端！\nそれなら～、\n私たちにも用意してくれたりすると\nうれしいんだけど……\nなっ♪"
+    },
+    {
+      "name": "Rino",
+      "text": "If we all wear matching outfits, I might be able to work even harder!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "みんなでお揃いの衣装だと、\n私も、\nもー\nっと頑張れちゃうかもしれません！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Hmm, when you put it like that, as your guild master I don't really have a choice but to consider it, huh! Now where would I get the differently colored versions...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "うーん、\nそう言われちゃうと、\nギルドマスターとしては検討せざるを得ないね！\n色違いって、\nどこで入手できたっけか……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ehehe♪ Since we worked so hard, we can't help but expect a little something in return~♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "えへへ♪　\n頑張った分だけ、\n期待しちゃうからね～♪"
+    },
+    {
+      "name": "Rino",
+      "text": "All riiiiight! Then let's get pumped and wipe them all out!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "よ～しっ！\nじゃあ気合入れて一掃しちゃいますねっ！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Eeeh... you two are way too good at asking for things, you know? You're making it hard to say no...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "はぁ……\n二人とも、\nお願い上手で困っちゃうなぁ……"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Alright, the battle's over.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "よーし、\n戦闘終了っ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Aaaahhh... I didn't think there'd be so many monsters! My fingers are still trembling...",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はぁ～……\nこんなに魔物が出てくるなんて～～っ！\n指、\nぷるぷるです……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Sorry, sorry! You two are just so reliable that I ended up relying on you a bit too much.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ごめんごめん！\n二人とも頼もしいから、\nつい甘えちゃってさ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Huh? Aren't you kinda honest today, Master?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あれ？　\n今日のマスター、\nなんだか素直じゃない？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...I've realized that I still really need everyone's help. Even if I get full of myself and think I can protect everything on my own... in the end, I can't, and before I know it I'm relying on everyone again...",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……アタシも、\nまだまだみんなの助けが必要だって\n実感してさ。\n一人で何もかも守ろうなんて思い上がっても、\n結局できなくて、\n気づけば頼ってる……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Before, I tried to protect everyone \"because I'm the adult\" -- I was always looking at things from that adult perspective. But now... it's different. I want to move forward while standing on the same level as you.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "前は\n『大人だから』\nってみんなを守ろうとしていた……\n大人の目線でさ。\nでも、\n今は違う。\nアタシは、\nキミたちと同じ目線で\n進んでいきたいんだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I'm not going to push myself like I used to. From now on, I want to move forward honestly... while borrowing everyone's strength.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "もう前みたいに無理はしない。\nこれからは素直に\n『力を借りながら』\n進んでいこうって思えたんだ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "That said... asking this right after such a dramatic reunion might be a bit uncool, but... I want to confirm something with you two again.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "とはいえ。\nせっかくドラマチックな再結成を果たした後で、\n野暮だとは思うんだけど……\n二人に、\n改めて確認させてほしい。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Shizuru-chan. Rino-chan. From here on out, I might end up dragging you into even more dangerous battles. So as your guild master, let me ask you once more.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "シズルちゃん。\nリノちゃん。\nこれから先、\nもっと危険な戦いに巻き込むこともあるかもしれない。\nだから\nギルドマスターとして、\n今一度問おう。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Knowing that... will you still come with me?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "それでも、\nアタシに\nついてきてくれるかい？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Of course! If I can help you while also being of help to my little brother, Master, then I have no reason to refuse!",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "もちろん！　\nマスターのお手伝いができるし、\n弟くんの力にもなれるなら、\n断る理由なんてないよ！"
+    },
+    {
+      "name": "Rino",
+      "text": "Big Sis is absolutely right! For you, Master! And for you too, Onii-chan! I'll give it everything I've got!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お姉ちゃんの言う通りです！\nマスターのためにも、\nお兄ちゃんのためにも！\n私も全力で頑張りますっ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Understood. Thank you, both of you.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "──分かった。\nありがとう、\n二人とも。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "If we support each other... rely on each other... if everyone's strength comes together, I'm sure we can save this world. That's what I believe.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "お互い支え合って、\n頼り合って……\n一人一人の力が集まれば、\nきっとこの世界を救える。\nアタシはそう信じてるよ。"
+    },
+    {
+      "name": "Rino",
+      "text": "Yes! If we combine our strength, there's nothing we can't do!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "はいっ！　\n私たちの力を合わせれば、\nどんなことだってできます！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "It's kind of refreshing seeing you so honest, Master. You're usually way cooler and more distant than this~♪ But... I don't dislike this version of you at all, okay?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "マスターがこんなに素直なの、\nなんだか新鮮かも。\nいつもは、\nもっとクールにしてるのに～♪\nでも、\nそういうマスターも\n嫌いじゃないよ？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Haha, thanks! But it's thanks to you two that we were able to restart \"Labyrinth\" like this. So... how about I return the favor for once?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ははっ、\nありがと～！\nでも、\nこうやって\n【ラビリンス】を再開できたのも二人のおかげだし。\nたまには恩返しをさせてもらっていいかな？"
+    },
+    {
+      "name": "Shizuru & Rino",
+      "text": "Return the favor...?",
+      "choice_data_list": [],
+      "orig_name": "シズル・リノ",
+      "orig_text": "恩返し……？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "For example, before solving the next mystery... how about we all go on a recreational trip together -- in other words, we relax at a hot spring? It'll all be at the guild's expense... in other words, my treat!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "たとえば\n『謎解き』の前に、\nみんなで慰安旅行──\n温泉でのんびり、\nってのは\nどうかな？\nぜーんぶギルドの経費……\nつまり\nアタシのおごり\nってことで！"
+    },
+    {
+      "name": "Rino",
+      "text": "A... A HOT SPRINGS TRIP?! Really? You're going to take us there? It's not like you're saying this just to have us work at the crepe shop afterwards to pay it... or something, right?",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "お……\n温泉旅行！？　\n本当ですかっ？\nマスターが\n連れて行ってくれるんですか？\n後でクレープ屋で働いて……\nとかじゃないですよね？"
+    },
+    {
+      "name": "Shizuru",
+      "text": "No way! This isn't a dream, right? You would offer this, Master? Really?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "うそっ、\n夢じゃないよね？\nあのマスターが？　\nほんとに？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Of course I'm telling the truth! As the guild master, I'll use my authority to arrange it for everyone! Let's refresh ourselves and start this year anew with renewed spirit!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "もちろん本当だよ。\nギルドマスターの権限で、\n全員分手配しよう！\nたっぷりリフレッシュして、\n気持ちも新たに再スタートだ！"
+    },
+    {
+      "name": "Rino",
+      "text": "YAAAY! We're going on a trip! A hot springs trip! You know what they say -- \"new year, new shop opening...! Even imoni stew turns into a battlefield!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "やった～っ！\n旅行ですよ、\n温泉旅行っ！\n新規一店、\n芋煮も戦い\nって言いますもんね！"
+    },
+    {
+      "name": "Shizuru",
+      "text": "If you're going to quote it, it's \"fresh start, renewed spirit\". Though in Togoku... yeah, I guess even imoni stew really could turn into a fight.",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "それを言うなら\n『心機一転、\n気持ちも新たに』\nだね。\nトーゴクだと\n本当に戦いになっちゃいそうだなぁ。\n芋煮。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Ah! Of course... my little brother is also coming with us, right? Don't say no, okay?",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "あっ！\nもちろん弟くんも一緒だよね？\nダメとか言わないでよ？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Of course! He's the guest of honor that I'm personally inviting! You're pretty much like family to those two, after all... and that kind of bond is something I really want to cherish.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "もっちろん！　\n主賓としてご招待だ！\n二人にとって\n家族みたいなものだしね。\nそういったつながりも、\nやっぱり大事にしたいからさ。"
+    },
+    {
+      "name": "Shizuru",
+      "text": "Thank you, Master♪ Little brother. Come on, let's hurry up and get ready. Big Sis will pick out a kimono for you♪",
+      "choice_data_list": [],
+      "orig_name": "シズル",
+      "orig_text": "ありがと、\nマスター♪\n弟くんっ。\nほらっ急いで準備しよう？\nお姉ちゃんが着物選んであげる♪"
+    },
+    {
+      "name": "Rino",
+      "text": "Ah, that's not fair, Big Sis! I want to be the one who chooses it for him! Onii-chan, let's go!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "あっ、\nお姉ちゃんずるいですっ！\n私だって選びたいのに～っ！\nお兄ちゃん\n行きましょうっ！"
+    },
+    {
+      "name": "Rino",
+      "text": "Master! Hurry, hurry!",
+      "choice_data_list": [],
+      "orig_name": "リノ",
+      "orig_text": "マスター！　\n早く早くっ！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I'm right behind you! This year, I really want to take better care of my guild... my family, too.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "今行くよ！\nギルドも\n家族も、\n今年は\nもっと大事にしなくちゃ──\nってね。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Maybe I should make a reservation for a family bath?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……\n家族風呂とか、\n予約しといたほうがいいのかな？"
+    },
+    {
+      "name": "Narration",
+      "text": "And so the guild \"Labyrinth\" was reformed -- and everyone went on to spend a lively, joy-filled holiday together for the first time in a long while.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "こうしてギルド【ラビリンス】は再結成を果たし──\n一行は、\n久しぶりの休暇を賑やかに楽しく過ごすのだった。"
+    }
+  ]
+}

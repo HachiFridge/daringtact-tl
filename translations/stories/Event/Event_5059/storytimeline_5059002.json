@@ -1,0 +1,964 @@
+{
+  "title": "A Reunion Without Memories",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Pecorine and the others head towards the\nElven Village as per Karin's request, but\nthey encounter an enormous spirit along the\nway.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "カリンに依頼された調査のため、エルフの里へと向かうペコリーヌたち。\nその道中、３人は巨大な精霊に遭遇するのであった。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wh-Wh-Wh-What [i]is[/i] this thing!?\nMonster...?\nNo, this feels like... a spirit?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なななっ、\nなんなのよこれ！\n魔物……？　\nいや、\nこの感じは……\n精霊？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Then, is this the unusual spirit Karin was\ntalking about...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "じゃあ、\nもしかしてカリンさんが言っていた異質な精霊って……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Of [i]course[/i] this is what she meant!\nShe doesn't want us to [i]do[/i] something about this, does she...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "どう考えたってこいつのことじゃないの！\nまさか、\nこのデカブツを何とかしろっていうの……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, Kyaru...\nAll we were requested to do was investigate.\nAs long as this big spirit doesn't cause any trouble...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえ、キャルちゃん……\nわたしたちがお願いされたのは\nあくまで調査です。\nこの大きな精霊さんが大人しいのなら……"
+    },
+    {
+      "name": "Spirit",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "精霊",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey! It's attacking us!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっと！　\n攻撃してきたわよっ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "This isn't good...\nIf it's hostile, then it's too dangerous to leave alone...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まずいですね……\n敵意があるのなら、\nこのまま放っておくのは危険過ぎます……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kyaru! Let's try to bring it down!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃん！\n精霊さんを大人しくさせましょう！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, course that's what comes next...!\nThen don't mind if I go all out!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "まぁ、\nそうなるわよね……！\nだったら遠慮なくいかせてもらうわっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "With this thing's size, it's basically a\npunching bag!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "図体がそんだけデカいと、\n当て放題よっ！"
+    },
+    {
+      "name": "Spirit",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "精霊",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Karyl",
+      "text": "Uwah, no reaction. It didn't even flinch.\nGeez, what's with this thing? It's [i]beyond[/i] tough!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "うわー無反応。\nビクともしてないわね。\nもう、何よこれ\n手ごたえも何もあったもんじゃないわ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I'll go all out too!\nFull power unleashed!\nPrincess Strike!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしも行っきますよ～っ！\n全力全開！　\nプリンセスストライクッ！"
+    },
+    {
+      "name": "Spirit",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "精霊",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Doesn't... look like that worked.\nYeah... Ahaha~☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "効いて……\nませんよね？\nやっぱり……\nあはは～☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Don't laugh about that!\nHey, {0}! Don't just stand there and help us!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "笑い事じゃないっての！\nちょっと{0}！\nボサッとしてないで協力しなさい！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Please do! {0}!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "お願いします！\n{0}くん！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm? What, are you trying to make yourself\nlook good?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん？\nなにもったいぶってんのよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wait, Kyaru.\n...{0} seems to be confused.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "待ってくださいキャルちゃん、\n……{0}くん、なんだか戸惑ってるみたいです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh?\nWhat'd you just say?\nYou can't use your power?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "は？　\n今、なんて言ったの？\n力が使えない？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "How... crazy is that☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "これは……\nやばいですね☆"
+    },
+    {
+      "name": "Spirit",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "精霊",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "F-For now we should...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "とっ、\nとにかく、ここは……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ruuun!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "逃げるわよーーーーーっ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "*pant pant*\nDoesn't seem like it's chasing after us.\nWhat was that thing...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "はぁ、\nはぁ～～～～\nどうやら追ってこないみたいね。\nなんだったのよあれ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I don't really know, but once we left,\nit stopped trying to attack us.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……よく分かりませんけど、\nわたしたちが離れたら\n攻撃は止みましたね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We'll have to keep an eye on it from a\ndistance for now...\n",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "今はこのまま、\n近づかずに様子を見るしかなさそうです……"
+    },
+    {
+      "name": "Karyl",
+      "text": "More importantly, what's going on with you?\nWhy can't you use your power...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "それよりあんた、\nどうしちゃったのよ？\n力が使えないなんて……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Maybe it's because you're hungry?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "お腹が空いてるとか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Do you really think your [i]stomach[/i] is the cause of every little problem?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんた、\nありとあらゆる問題は\n胃袋が原因だと思ってない？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Is it not?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "違うんですか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Aaah, I'm sure it is for [i]you[/i].\nMore importantly, what now? Do we head back to Landosol?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ～あ～、\nあんたはそうでしょうね。\nそれより、これからどうするの？\n一旦ランドソルに戻る？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Honestly, I don't think we can take it on just the three of us.\nWe won't be able to coordinate without {0}'s support...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "正直、\n３人じゃどうしようもないわよ。\n{0}のサポートもないんじゃ、\nいつもみたいに連携できないし……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "No, we should investigate more before we head back.\nTake a look over there, Kyaru.\nWith all that running we did, we ended up making it. ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえ、\n引き返すのはもう少し調べてからにしましょう。\nあっちを見てください、キャルちゃん。\n逃げてるうちに\n着いちゃったみたいですよ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Making it...?\nAh! That's...?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "着いたって……\nあっ！\nあれが……？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes!\nIt's the Elven Village we've been trying to find☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はいっ！\nわたしたちが目指していた、\nエルフの里です☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wow, the wind feels great..\nThis seems like a nice place to live.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "へぇ、\n風が気持ちいい……\nなんだか住みやすそうなところねー"
+    },
+    {
+      "name": "Male",
+      "text": "Welcome, travelers.\nYou've done well to come all this way.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ようこそ、\n旅の方々。\nこのような場所によくお越しくださいました。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Hello☆\nUm... We're stopping by to do an investigation...\nAn investigation...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "こんにちは☆\nえっと……\nわたしたち、\n調査のために立ち寄ったんですけど……"
+    },
+    {
+      "name": "Male",
+      "text": "Which would mean you've seen that spirit,\ncorrect?",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "調査……\nというと、\nあの精霊をご覧になられたんですね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes! We got up close and personal. ♪\n...Um, what is that big spirit...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はい、\nすごく近くで見ちゃいました♪\n……えっと、\nあの大きな精霊さんは\nなんなんですか……？"
+    },
+    {
+      "name": "Male",
+      "text": "...I'm very sorry.\nThough we are people who live with spirits,\nwe do not know either.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "……申し訳ありません。\n精霊と共に生きる、\n我々エルフの民にも分からないのです。"
+    },
+    {
+      "name": "Male",
+      "text": "It suddenly appeared one day,\nand it acts violently whenever we get close.\nSo we couldn't really look into it, let alone get close...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ある日突然現れ、\n近づくと暴れだすのです。\n調べようにも\n近づくことができないので……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "So even the people in the area don't know...\nThat isn't very good for us, Kyaru?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "現地の方でも分からないんですね……\nこれはちょっと困りましたね、\nキャルちゃん。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huh? Yeah.\nMore importantly, I'd like to rest right away.\nThere a place we can rest around here?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あー？　\nそうね。\nそれよりもあたしは今、\n一刻も早く休みたいわ。\nどっか休めるところないの？"
+    },
+    {
+      "name": "Male",
+      "text": "In that case, I'll simply show you around the village.\nPlease, come with me.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "それでしたら、\n簡単に里の方をご案内いたしましょう。\nどうぞこちらへ──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "It's great that they had an inn and a place to eat~♪\nAh, huh? Look at that, Kyaru!\nThere's a strange building over there!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "宿も食べ物屋さんもちゃんとあってよかったです～♪\nあ、\nあれ！　\n見てくださいキャルちゃん！\nなんだか不思議な建物がありますよ！"
+    },
+    {
+      "name": "Karyl",
+      "text": "We aren't here for sightseeing, calm down.\n...That building does have a weird air to it though.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "観光に来たんじゃないんだから、\nはしゃいでんじゃないわよ。\n……確かになんか変わった雰囲気の建物ね。"
+    },
+    {
+      "name": "Male",
+      "text": "That's the shrine for worshiping the Spirit\nof Wind.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "あちらは、\n風の精霊を祀る社です。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "He says it's a shrine, Kyaru!\nWe have to check this out!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "社だそうですよキャルちゃん！\nこれは見ておかないと！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Huuh? I don't really care though.\nI don't do so well with uptight places like that.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "えー、\n別にいいわよ。\nあたしそういうお堅そうな場所、\n苦手なのよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Then let's overcome that weakness. ♪\nCome on, come on, let's go~!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "だったら苦手を克服しましょう♪\nほらほら、\nれっつご～！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Wait, let go of me!\nI wanted to rest first!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっ、\n引っ張らないでよ！\nあたしは先に休みたいんだけどーっ！？"
+    },
+    {
+      "name": "Male",
+      "text": "Very recently, another visitor was brought into...\nOh? They already left?",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ちょうど今あちらには、\n他のお客さまが……\nおや？\nもう行ってしまわれましたか。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Quite some time... seems to have passed since\nthe day I collapsed...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あの日、\n倒れてから……\n随分時が経ってしまいましたね……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I'm grateful that the the villagers have allowed me to stay at this shrine...\nBut I should get moving soon...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "里の方に\n社を自由に使っていい、\nと言っていただいたのは\nありがたいですが……\nそろそろ動かなくて\nは……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Oh?\nIt's quite noisy outside...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "おや？　\nなんだか外が騒がしいですね……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Excuse me~♪\n",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ごめんくださーいっ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hold on! Did you really just waltz right in!?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "待ちなさいよ！\nあんたはなんでそうズケズケと入っていけるわけ！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "!?\nPeco~",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "っ！？\nペコ──"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "？",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Why is Miss Pecorine here!?\nCould I be dreaming...?\nOr.... Perhaps... They're here to...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "なぜ\nペコリーヌさまがここに！？\nわたくし、\n夢を見ているのですか……？\nそれとも……\nもしかして……\nわたくしを……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Nice to meet you♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──初めましてっ♪"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Are you someone from this village?\nI'm Pecorine!\nThat's Kyaru, and this is {0}!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あなたはこの里の方ですか？\nわたし、\nペコリーヌって言います！\nそっちはキャルちゃんで、\nこっちは{0}くん！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Ah...\nNice... to meet you...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "あ……\n初め、\nまして……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...Of... course.\nThere's no way that would be the case.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……そう、\nですよね。\nそんなわけがありませんでした。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Everything up until now had been a dream,\nMiss Pecorine, Miss Kyaru, and my Lord...\nThey'd all still remember me...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "今までのことは全て夢で、\nペコリーヌさまも、\nキャルさまも、\n主さまも……\nわたくしのことを覚えていてくれて……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "And perhaps... They'd come to all this way to see me...\nI thought. ...A far too convenient, naive thought, it seems.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "もしかして……\nわたくしをここまで迎えに来てくれた、\nなんて。\n……あまりに都合のいい、\n甘えた考えでしたね。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Huh? Th-That's correct...\nI am feeling a bit unwell...\nSo I've been allowed to rest here.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "えっ？\nそ、\nそうですね……\nわたくし、\n少し具合が悪くて……\nここで休ませていただいているのです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "So that's what's going on...\nThen, would you like to eat with us?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そうだったんですか……\nじゃあ、\n一緒にごはんなんてどうですかっ？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Everyone surrounding a dining table, and\neating delicious food until you're full,\nshould make you feel a lot better. ♪",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "みんなで食卓を囲んで、\nおいしいごはんをお腹い～っぱい食べれば、\n元気が湧いてきますよ♪"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey, you just met this person...\n...But, that sounds like a good idea.\nIt's better than sleeping here all alone anyway.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あんた、\n初対面の人にいきなり……\n……でも、いいかもしれないわね。\nこんなところに一人で寝てるより。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "What's this?\nThat's rare of you, Kyaru.\nYou're always so nervous when meeting new people!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あれあれ？\n珍しいですねキャルちゃん。\n知らない人に会うと、\nいつも緊張してるのに～"
+    },
+    {
+      "name": "Karyl",
+      "text": "I am not! Who're you calling shy, Dumborine!?\n...It's just, when I first saw her, I sort of...\nfelt like we could eat together, that's all.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "してないっ！　\n誰が人見知りよ、\nこのアホリーヌ！\n……ただなんか、\n一目見たとき、\nなんとなく……\n一緒にごはんを食べてもいいかなって、\n思っただけよ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "See, {0} wants to eat together too!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ねっ、\n{0}くんもこう言っていますし！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Could you start by telling us your name?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "まずはあなたのお名前、\n教えてもらえませんかっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Aah...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ああ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "They haven't changed one bit.\nDespite the fact they should not remember who I am,\nthey continue to so kindly interact with me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "この方たちは、\nなにも変わらない。\n覚えていないはずのわたくしにも、\nこうして優しく接してくださる。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Such... comforting people.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "とても、\nあたたかい人たち。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Ehehe! We'll use the ingredients we have left\nto make the best meal. ♪ Ah, are you picky\nabout anything? Kyaru's always avoiding the\nfood she doesn't like, it's hard to deal\nwith!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "えへへ、\n残った食材でとっておきのお料理\n作っちゃいますよ♪\nあっ、\n好き嫌いとかありますか？\nキャルちゃんは苦手な食べ物避けちゃうから大変なんですよ～"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...However.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……ですが。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "──I'm sorry, but I must decline.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "──お断りいたします。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "へっ？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Thank you for worrying about a stranger such as myself.\nHowever, we are nothing more than that, strangers.\n...I cannot join you around a dining table.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "見ず知らずのわたくしを心配してくださり、\nありがとうございます。\nですが、\nわたくしとあなた方は\n見知らぬ間柄。\n……食卓を共にするなど、\nできません。"
+    },
+    {
+      "name": "Karyl",
+      "text": "H-Hey, she went through the trouble of\ninviting you, you didn't have to put it like\nthat! Pecorine was just trying to be nice,\nsince you were in here with such a depressing\nlook on your face.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なっ、\nなによ、\nせっかく誘ってあげたのにその言い方！\nこんな場所でなんか辛気臭い顔してるから、\nペコリーヌが気をつかったってのに！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Kyaru, it's fine!\nI was too pushy about it.\nEveryone has times when they want to be alone.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "キャルちゃんっ、\nいいんです！\nわたしが強引過ぎたんです。\n誰だって、\n一人になりたいときはありますから。"
+    },
+    {
+      "name": "Karyl",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Um... Could we at least hear your name?\nI'd really like to know...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あの……\nせめて、\nあなたのお名前だけでも教えていただけませんか？\nどうしても、気になって……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "...My name...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……名前、\nですか……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしは……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "What good will telling them do?\n...It's not like they'll remember it.\nIf I create bonds now, it'll only end painfully again.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "教えてどうするのですか？　\n……記憶には残らないのに。\nまた絆を作ってしまえば、\nそれだけつらくなります。"
+    },
+    {
+      "name": "コッコロ",
+      "text": "このあたたかい人たちを、\n大事な人たちを、\n傷つけたくないから……\nわたくしは……！　",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "このあたたかい人たちを、\n大事な人たちを、\n傷つけたくないから……\nわたくしは……！　"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please... do not come near me.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしには、\n近づかないでください。"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey, you...!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっとあんた……っ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Let's go, Kyaru.\nI'm sorry to have bothered you...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "行きましょう、キャルちゃん。\nすみません……\nお邪魔しちゃって……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": ".........!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "…………っ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah geez! What was with that little brat!?\nHow does someone get raised to be that cheeky?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あーもうっ！\nなんなのよあのチビガキは！\nどうしたらあんな風に生意気に育っちゃうわけ！？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...Um... Kyaru.\nI know I might be asking something weird here but...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あの……キャルちゃん。\n変なことを聞くかもしれないんですけど……"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hm? Aren't you always weird?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ん？　\nあんたいつも変でしょ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Haven't we... met that girl before?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたち、\nあの子と……\n会ったこと、\nありませんか？"
+    },
+    {
+      "name": "Karyl",
+      "text": "...Nope, we're only first meeting her,\nis what I'd like to be saying...\nBut I honestly didn't feel nervous around her at all.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……記憶にない、\n初対面よ、\nって言いたいところだけど……\n正直あたしもなんか、\n全然緊張しなかったのよね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Nostalgia...\nI think I know what you mean.\nBut, this should be the first time we've met...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "懐かしい……\n分かる気がします。\nでも、\n初めて会ったはずなんですよね……"
+    },
+    {
+      "name": "Karyl",
+      "text": "If {0} says so, then it must be true. \nI wonder why she's acting so cold towards us... \nAnd why am I so concerned about it...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "{0}がそう言うなら、\nそうなのね。\nなんであんなに冷たく振舞ってるのかしら、\nあいつ……\nてか、\nなんでこんなに気になるのよ……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...When we first saw each other...\nI think she was about to call me...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……あの子、\n最初に顔を合わせた時……\nわたしのことを、\nこう呼ぼうとした気がするんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Pecorine.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──ペコリーヌ、\nって。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah... We've been using it for so long that it slipped my mind,\nbut that's not your real name, is it?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ……\nしっくりき過ぎてて思わず忘れてたけど、\nあんたのその名前、\n本名じゃなかったわね。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I don't even remember who first gave me this name...\nThe perpetually peckish Pecorine...\nSomeone had first said that to me...\nAnd I'd liked it so much...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "そもそもこの名前、\n誰が付けてくれたんでしたっけ……\nお腹ぺこぺこのペコリーヌ……\n最初に誰かがそう呼んでくれて……\nわたしは、それを気に入って……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "...I might just be imagining things.\nBut, I sort of feel like she isn't just some stranger.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……ただの気のせいかもしれません。\nでも、\nなんかわたし、\nあの子とは他人のような気がしないんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Even when she was acting so coldly,\nI didn't feel bad about it at all...\nIt's just, my chest felt really tight.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "冷たいことを言われても、\n全然イヤじゃなくて……\nただ、\n胸の辺りが\nぎゅう～ってなるんです。"
+    },
+    {
+      "name": "Karyl",
+      "text": "...You're probably worried about her.\nBut, I think I get it...\nShe seemed like she was forcing herself to act that way.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "……心配なんでしょ、\nあの子のことが。\n分かる気がするわ……\nあいつ、\nなんか無理してる感じだった。"
+    },
+    {
+      "name": "Karyl",
+      "text": "What do you mean, \"something,\" just another\nvague thing with you... But, she did say...\nthat she wasn't feeling very well, right? I\ndid feel an abnormal magic flowing from\nher...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なにかって、\nまた漠然としたことを……\nでも、そういえばあいつ……\n具合が悪いって言ってたわよね。\n確かにちょっと、\n普通じゃない魔力の流れを感じたけど……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I wonder what's causing that...?\nU-Um, excuse me!\nYou there, can I ask you something?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "なにか原因があるんでしょうか……？\nあ、あのっ、\nすみませ～ん！\nそこの方、\n聞いてもいいですかっ？"
+    },
+    {
+      "name": "Woman",
+      "text": "Yes? ...Aah, you're the travelers from earlier.\nHehe, it's quite rare to have so many visitors come one after another.",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "はい？　\n……ああ、\n先ほどやってきたという旅の方ですか。\nふふっ、\n珍しいですね、\nこのエルフの里に続けてお客さまがいらっしゃるなんて。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Um, about that girl inside the shrine...\nDo you know why she's doing so poorly?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あの、\n社の中にいる女の子なんですけど……\nどうしてあんなに体調が悪そうなんですか？"
+    },
+    {
+      "name": "Woman",
+      "text": "Aah... That girl seems to be easily affected by the power of spirits.\nSo, I believe the enormous spirit outside of the village would be the cause...",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "ああ……\nあの方は精霊の力に\n影響を受けやすいようです。\nですから、\n里の外にいる\nあの巨大な精霊が原因ではないかと……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Then, if we can do something about that big spirit...\nThat girl should get better?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "だったら、\nあの大きな精霊さんを何とかすれば……\nあの子も、元気になるってことですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "In that case...!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "それなら……！"
+    },
+    {
+      "name": "Karyl",
+      "text": "I know that's what our initial goal was...\nBut are you telling me to fight that thing,\nfor a girl I just barely met?",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "当初の目的と同じとはいえ……\n初めて会った子のために、\nあんなのと戦うっていうの？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Can't we...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "だめですか……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm not saying we can't.\nI'm, well...\nShe's been on my mind too.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "だめとは言ってないわよ。\nあたしもまぁ……\nあいつのこと、\n気になるしね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Then we'll just have to force her to eat with\nus!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "こうなったら、\n意地でも一緒にごはんを食べてやるわ！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Yes☆ The goal of the Gourmet Guild is to have\nfun eating with everyone, so let's do our\nbest to get her to join us at the dining\ntable!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "はいっ☆\n【美食殿】は楽しくごはんを食べるのが目的ですから、\nあの子と一緒に食卓を囲めるよう、\nみんなで頑張りましょう！"
+    },
+    {
+      "name": "Narration",
+      "text": "Pecorine and the others are have resolved to\ntake on the enormous spirit. Around that\ntime, at Landosol...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "巨大な精霊に立ち向かうことを決意するペコリーヌたち。\nその頃、ランドソルでは──"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui, hurry, hurry!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃんっ、\n早く早く！"
+    },
+    {
+      "name": "Yui",
+      "text": "Hiyori, wait!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ヒヨリちゃん待って～！！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hey, Hiyori. You shouldn't rush us so much.\nIf we ended up tripping and got hurt, it'd just slow us down.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "こら、ヒヨリ。\nそんなに急かすんじゃない。\n急ぐあまり、転んで怪我でもしたら\n逆効果になるだろう？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "But!\nEveryone of the \"Gourmet Guild's\" already went ahead of us!\nWe've gotta catch up to them!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "だって～！\n【美食殿】のみんなは\n先に向かっちゃってるんだよっ？\n急いで追いつかなきゃ！"
+    },
+    {
+      "name": "Yui",
+      "text": "The person from the Guild Association said it was an emergency too,\nso I'm worried about Kishi-kun and the others.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "【ギルド管理協会】の人も、\n緊急を要する事態って言ってたし、\n先に行ってる騎士クンたちが\n心配だよ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "Of course it's best that we get that as soon as we can,\nbut I don't think they'd go down so easily.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "確かに、\n急いだ方がいいのは間違いないが、\n彼らがそう簡単にやられるとは思えない。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "You're pretty calm about this, aren't you Rei?\nIt sounds like you really trust Kishi-kun!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさん、\n落ち着いてるねー？\nよっぽど騎士くんのことを信じてるんだねっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hi-Hiyori!\nWhy did you only bring up his name!\nI trust everyone in the Gourmet Guild!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ヒッ、\nヒヨリ！　\nなぜそこで彼だけを挙げるんだ！？\n私は【美食殿】のみんなを信頼しているんだよ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Ah... Now Rei's running on ahead...!\nW-Wait up, you two!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "あ……\nレイちゃんまで走りだしちゃった……！\nまっ、\n待ってよ、二人とも～～～！"
+    },
+    {
+      "name": "ユイ",
+      "text": "精霊の異変……\nなんだか、\nすごく嫌な予感がする。\n待っててね、\n騎士クン、\nペコリーヌちゃん、\nキャルちゃん……！　",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "精霊の異変……\nなんだか、\nすごく嫌な予感がする。\n待っててね、\n騎士クン、\nペコリーヌちゃん、\nキャルちゃん……！　"
+    },
+    {
+      "name": "Narration",
+      "text": "The three members of \"Twinkle Wish\" rush\nonward, to catch up to the \"Gourmet Guild,\"\nalready making their way for the Elven\nVillage.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "急ぎ足で駆けだす【トゥインクルウィッシュ】の３人。\n彼女たちは【美食殿】を追うようにエルフの里を目指すのであった。"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "title": "Ruka Episode 6",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} bumps into Ruka after\nfinishing up a particularly late shift.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その日夜遅くまでバイトに出ていた{0}は、\n帰り道でルカと出会った──"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey there.\nWhere are you off to this late at night?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "おや、お前さん。\nこんな遅くにどこへ行こうってんだい？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Oh, you're on your way home? Then don't let me hold you up.\nI assume you've heard about the slasher that's been\nstirring up trouble recently, right?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "なんだ帰るところか。\nなら早く行きな。\n最近ランドソルに通り魔が出る話、\n聞いてるだろ？"
+    },
+    {
+      "name": "Ruka",
+      "text": "That's got pretty much everyone scared stuff.\nOnly people I've seen out at night these past few days\nare people confident in their skills and royal knights.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "みんなソイツを怖がっちまってね。\nここ数日で夜に見かけるのは、\n腕に自信のあるヤツか騎士団くらいだよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "The stores around here are still open,\nbut you sure won't find any customers in them.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "この辺りの店も明かりは点いちゃいるが、\n客入りはさっぱりだ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "What about me, then?\nYou know the answer to that already, don't you?\nI've been asked to help deal with our little slasher friend.",
+      "choice_data_list": [
+        "That's one way to get me worried..."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "ああ、\nアタシかい？　\nお前さんならもう分かるだろ。\nみんなから通り魔退治を頼まれたのさ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I appreciate the concern,\nbut this is too dangerous for you. You'll be safe if you stay home,\nso get going already.",
+      "choice_data_list": [
+        "There's no place safer than by your side."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "気持ちは嬉しいけど、\n今回はさすがに危ないよ。\n安全に過ごせるとこがあるなら、\n急いで帰りな。"
+    },
+    {
+      "name": "Ruka",
+      "text": "By my side, huh? Haha! Fair enough!\nFine, fine. You got me good.\nJust make sure you stick by me, no matter wha—",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん……\nははっ！　\n確かにそうか！　\nコイツは一本取られたね。\n分かったよ。\nただし、絶対にアタシから離れるんじゃないよ──"
+    },
+    {
+      "name": "Man",
+      "text": "Waaaaaahhhhh!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "──うわああああああっ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "That was quick! Let's get going!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "早速お出ましか！　\n行くよ、お前さん！"
+    },
+    {
+      "name": "Man",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey! You okay?!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "おいアンタ、\n大丈夫か！？"
+    },
+    {
+      "name": "Man",
+      "text": "Y-yeah...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "う、\nうーん……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Thank goodness. He's still breathing.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "良かった。\n息はあるみたいだね。"
+    },
+    {
+      "name": "Man",
+      "text": "Y-you're...",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "ア、アンタは……"
+    },
+    {
+      "name": "Ruka",
+      "text": "What happened here? ",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "何があった？　"
+    },
+    {
+      "name": "Man",
+      "text": "We... we wanted to get rid of that slasher.\nBut we didn't stand a chance.",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "オレらは、\n通り魔を、倒そうと思って……\nでも、\nまるで歯が立たなかった……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Did you manage to catch a glimpse of what they looked like?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "顔は？　\n見てないのか？"
+    },
+    {
+      "name": "Man",
+      "text": "They...? Th-that thing wasn't human!\nAre you gonna go after it? Be careful if you do!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "顔……\nア、\nアレは、\n人間なんかじゃなかった……！\n追いかけるなら、\nアンタらも気をつけろ……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Same to you. You should get going if you can move.\nOr do you need me to call for help first?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アンタもね。\n動けるなら早いとこ逃げな。\nそれとも助けを呼んでこようか？"
+    },
+    {
+      "name": "Man",
+      "text": "No, I can move. But wait... My partner's gone!\nHe was right here a minute ago. Did you guys see him?!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "いや、\n動けるからいい……\n待ってくれ。\n相棒がいない……！\n仲間もここにいたんだ。\nアンタら、見てないか！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Afraid not. He must have run off to get help.\nI'll fill him in if I see him though. Stay safe!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "いや？　\nどっかへ助けを呼びに行ったんだろうさ。\n見かけたらアンタのことは伝えとくよ。\nじゃあね！"
+    },
+    {
+      "name": "Ruka",
+      "text": "He said it wasn't human. Does that mean a monster\ngot into town? Either way, we need to track it down\nbefore there are any more victims!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "人間じゃないって、\nまさか魔物が街に入りこんでるのか……？\nとにかく、\n次の被害者が出る前に、\n通り魔を見つけないとね！"
+    },
+    {
+      "name": "Knight 1",
+      "text": "Haaah!",
+      "choice_data_list": [],
+      "orig_name": "騎士１",
+      "orig_text": "はあっ！"
+    },
+    {
+      "name": "Youth",
+      "text": "Gragh!",
+      "choice_data_list": [],
+      "orig_name": "青年",
+      "orig_text": "──ぐあっ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "What's going on over there?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "あれは……？"
+    },
+    {
+      "name": "Knight 2",
+      "text": "...Phew. Finally settled down.",
+      "choice_data_list": [],
+      "orig_name": "騎士２",
+      "orig_text": "……\nふぅ。\nやっと大人しくなったか。"
+    },
+    {
+      "name": "Knight 3",
+      "text": "That took me by surprise.\nNever expected him to go wild out of nowhere.",
+      "choice_data_list": [],
+      "orig_name": "騎士３",
+      "orig_text": "さっきは冷や汗かいたぜ。\nいきなり暴れだしやがって……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Guess our help wasn't needed.\nHey, what's his deal?\nIs he the slasher everyone's been talking about?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "加勢はいらなかったか。\n騎士さんよ、\nソイツは何者だい？　\n噂の通り魔か？"
+    },
+    {
+      "name": "Knight 1",
+      "text": "We're not sure. He just attacked us out of nowhere.\nEither way, we're going to restrain him and take him away.\nWe'll need his weapon, too.",
+      "choice_data_list": [],
+      "orig_name": "騎士１",
+      "orig_text": "分からん。\n急に襲いかかってきてな。\nどちらにせよひとまず拘束し、連行する。\n得物も回収しないとな……"
+    },
+    {
+      "name": "Ruka",
+      "text": "A katana, huh? That's rare to see around here.\nWell, that settles that.\nLet's leave the rest to the knights and get going.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "刀か。\nこの辺じゃ珍しいな……\nやれやれ、一件落着か。\nお前さん、\n後は騎士団にまかせて、\nアタシたちは帰るとしよう。"
+    },
+    {
+      "name": "Knight 1",
+      "text": "GUAAAARGH!",
+      "choice_data_list": [],
+      "orig_name": "騎士１",
+      "orig_text": "ぐあああああっ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "What's wrong?!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "どうした！？"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Grrrrrr...! More! I need more!\nWhat a fantastic vessel, though!\nMuch better than the previous one!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "ぐうううううううっ……！\n　\nまだだ、\nまだ足りぬ……！\nしかしこの体、\n先程のものよりは使えそうだな……！"
+    },
+    {
+      "name": "Knight 2",
+      "text": "Wh-what in the world?!\nWhat's happening?!",
+      "choice_data_list": [],
+      "orig_name": "騎士２",
+      "orig_text": "な、\nなんだ……！？　\n一体、何が……！！"
+    },
+    {
+      "name": "Ruka",
+      "text": "A monster?! No, that's no regular monster!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "魔物！？　\nいや、違う……！？"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Mwahahaha! The time has come for my full strength to be unleashed!\nWoman. I sense incredible power within you!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "くかかかかっ……！　\nようやくワシが顕現出来るぞ……！\nそこな女。\nかなりの使い手と見た……！"
+    },
+    {
+      "name": "Knight 3",
+      "text": "What's wrong?! Snap out of it!",
+      "choice_data_list": [],
+      "orig_name": "騎士３",
+      "orig_text": "どうしたんだ！　\nしっかりしろ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Now I get it. It's that katana!",
+      "choice_data_list": [
+        "What about it?"
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "そうか、\nあの刀か……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "There's a certain story I heard back home when I was still a kid.\nAbout bewitched blades that hold their own will.\nThat katana has to be one of them!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ガキの頃、故郷で聞かされた話があってね……\n物でありながら、意思を持つ妖刀……\nあの刀も、その類に違いない！"
+    },
+    {
+      "name": "Knight 2",
+      "text": "Hey! What's going on here?!",
+      "choice_data_list": [],
+      "orig_name": "騎士２",
+      "orig_text": "おい、\nなにがあった！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Listen up! Your comrade's been possessed by that katana!\nAnd he'll stay that way, so long as the blade's in his hand!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "いいか！　\nアンタたちのお仲間は、\nあの刀に取り憑かれちまった！\n刀を手から叩き落とさないと、\nお仲間は操られたままだ！"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Mwahaha!\nRejoice, humans. For your lives end here!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "くかか！　\n喜べ……\nおぬしら全員、\nここで斬り捨てようぞ！"
+    },
+    {
+      "name": "Knight 2",
+      "text": "Graaagh!",
+      "choice_data_list": [],
+      "orig_name": "騎士２",
+      "orig_text": "ぐああっ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "It's going to overwhelm them!\nQuick, let's help!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アイツ、強い……！　\nお前さん、\n助太刀するよ！"
+    },
+    {
+      "name": "Knight 3",
+      "text": "No! You should run!\nA knight should never put a citizen in harm's way!",
+      "choice_data_list": [],
+      "orig_name": "騎士３",
+      "orig_text": "いや、キミたちは逃げろ！\n守るべき民を、危険に晒すわけにはいかない！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Quit fronting! You've got no chance of beating that thing!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "バカ言ってんじゃないよ！　\nアンタたちじゃ勝てっこない！！"
+    },
+    {
+      "name": "Knight 2",
+      "text": "Even still! We're proud knights of our country!\nFleeing isn't an option!",
+      "choice_data_list": [],
+      "orig_name": "騎士２",
+      "orig_text": "だが……我々は騎士だ！　\n逃げるわけにはいかん！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Forget your ridiculous pride!\nIs that really worth dying over?!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "下らない意地張ってんじゃないよ！　\nメンツのために死ぬ気か！？"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Right she is!\nYou know not your own limits!\nAnd for that, you must perish!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "女の言う通りよ……！　\n己が力量すら分からぬ愚図どもめ……！\n今ここで死ね……！"
+    },
+    {
+      "name": "Knight 3",
+      "text": "A-aaaaahhhhhh!",
+      "choice_data_list": [],
+      "orig_name": "騎士３",
+      "orig_text": "う、うわああああっ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey! Back me up!\nNot a single person is going to die tonight.\nNot so long as I'm here!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん！　\n力を貸しておくれ！\nアタシの目の前では、\n誰一人死なせやしないっ──！"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Ungh! Mwahaha!\nYou're as impressive as I thought, woman!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "ぬうっ！　\nくかかかかっ！　\n女！　\nやはり出来るな！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Can't say I care about your compliments!\nHah!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ソイツぁどうも！　\nはあっ！！"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Ungh! Hah hah hah!\nQuite the close call, that was!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "ぬおっ！　\nはっはっはっ！　\n危なかったわ！"
+    },
+    {
+      "name": "Knight 2",
+      "text": "Amazing! She's on equal footing with it!",
+      "choice_data_list": [],
+      "orig_name": "騎士２",
+      "orig_text": "すごい……！　\n互角に渡り合ってる……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Don't just stand there! Hurry up and go get help!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "何やってんだ！　\nぼさっとしないで早く助けを呼びに行きな！"
+    },
+    {
+      "name": "Knight 3",
+      "text": "G-got it!",
+      "choice_data_list": [],
+      "orig_name": "騎士３",
+      "orig_text": "は、はいっ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Equal footing? Not good enough. But that thing's using its host as a shield. \nMy only options are to knock the blade out of his hand, or just cut\nhim down. Either way, we're at a stalemate as things stand!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "互角なもんか。\nコイツめ、\n乗っ取った肉体を盾にしてやがる……\n刀を手から弾き飛ばすか叩き折るかしたいけど、\nこれじゃ埒が明かないよ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "You just had to go and make things difficult, didn't you?",
+      "choice_data_list": [
+        "Ruka! Let's flank it!",
+        "Ruka! Let's corner it together!"
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "化け物風情が、\nセコい真似してくれるじゃないか！"
+    },
+    {
+      "name": "Ruka",
+      "text": "We can throw it off guard like that, huh?\nGood call!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "それならヤツの気も逸れるか。\nさすがだね、お前さん！"
+    },
+    {
+      "name": "Ruka",
+      "text": "You want to flank it, right?\nRoger that!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "挟み撃ちだね？　\n了解だっ！"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "A pincer attack, is it?\nDon't waste your time!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "挟撃か、\nつまらん真似を！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Now's your chance!",
+      "choice_data_list": [
+        "Strike the blade."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん、\n今だっ！"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Hmph! You fool!\nSuch a feeble strike will never do away with me!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "ふん！　\nこの程度の力で\nワシに歯向かうとは愚かな！"
+    },
+    {
+      "name": "Ruka",
+      "text": "You're wide open, my friend!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "隙あり！　\nもらったっ！"
+    },
+    {
+      "name": "Knight 1 (Katana)",
+      "text": "Impossible! Graaagh!",
+      "choice_data_list": [],
+      "orig_name": "騎士１（妖刀）",
+      "orig_text": "なんとぉ！　\nぐうぅっ……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Perfect! I knocked it clean out of his hands!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "よし、\n刀は弾き飛ばせたよ！"
+    },
+    {
+      "name": "Katana",
+      "text": "Curses! I require a new host!",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "おのれぇ……！　\n早く新たな持ち主を探さねば……"
+    },
+    {
+      "name": "Ruka",
+      "text": "It can move on its own?! Watch out! It'll get away!\nDon't let it slip by you!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "刀だけで動いた！？　\nまずい、逃げられる！\nお前さん、\nソイツを逃がすんじゃないよ！"
+    },
+    {
+      "name": "Katana",
+      "text": "Oh? You dare to touch me, do you?\nVery well. Then your body shall be mine!",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "ぬぅ？　\n貴様、\nワシを手にしたな？\n良かろう、\nならば望みどおりにしてやろう！"
+    },
+    {
+      "name": "Ruka",
+      "text": "What're you doing?!\nLet go of it! Quick!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "何してるんだいお前さん！　\nソイツを放すんだ！　早く！"
+    },
+    {
+      "name": "Katana",
+      "text": "Hm. Quite the frail vessel, but alas.\nAll I need to do is flee!",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "ふむ、\n先ほどよりは貧弱だがまあいい！\nこの場は逃げるが勝ちよ……！"
+    },
+    {
+      "name": "Katana",
+      "text": "...What is the meaning of this? I can't move!\nIs he rejecting my influence?! Impossible!\nHow can one so frail possess such a strong will?!",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "……\n何故だ、\n体が動かぬ！　\nこやつめ、ワシに抗うというのか！？\nバカな！　\nこんな体の何処に、\nここまでの意志が……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Did you manage to stop it from moving?!",
+      "choice_data_list": [
+        "Cut through the both of us!"
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "まさかお前さん、\nソイツの動きを封じてるのか！？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Wait. Was that your plan all along?!\nOkay, leave it to me. I'll do just that!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん……\n最初からそのつもりで……！\n……まかせときな。\nキレイさっぱり叩き斬ってやるよ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "My greatest technique will be your final reckoning.\nOrigin Strike: Severing Moon!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "アタシの妙技、\nとくと味わいな！　妖刀野郎！\n秘剣、\n零の太刀！　\n水月鏡花！"
+    },
+    {
+      "name": "Katana",
+      "text": "...Incredible. To think one could cut clean through my spirit.\nVery well. I can think of no one more ideal than you.",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "……\n見事なり。\nよもやワシの妖気のみを斬り払うとは……\n良いぞ良いぞ……\nこれほどの使い手ならば……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Hey, you okay? Tell me you're okay.\nThank goodness... I haven't used that technique in a while,\nso I'm glad it went well.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さん、\n無事か？　\n無事なんだね？\n良かったぁ……\n久しぶりに使う技だったけど、\n上手くいってよかったよ。"
+    },
+    {
+      "name": "Ruka",
+      "text": "I'd actually planned on using it when we went on that ghost hunt.\nBut anyway, the sword should be fine to hold it now\nthat I've weakened it this much.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "実は今の、\n幽霊退治の時に使おうと思ってた技なんだ。\nさあて、\n今のでコイツは弱らせたし、\nもう持っても大丈夫だね。"
+    },
+    {
+      "name": "Katana",
+      "text": "H-heh... I can feel it. My spirit is fading.\nTell me. What is your name?",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "ふ、\nふふ……\n消える。\nワシの思念が消えていく……\n女よ、名は何と言う？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Huh? I'm Ruka.\nWhat's your deal? Trying to score yourself a parting gift?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "はぁ？　\nルカだ。\nなんだいいきなり\n冥土の土産にでもするつもりかい？"
+    },
+    {
+      "name": "Katana",
+      "text": "My name is Haromaru.\nYou have proven yourself more than worthy of wielding me.\nFinally... Finally, I can return to being a simple blade.",
+      "choice_data_list": [],
+      "orig_name": "妖刀",
+      "orig_text": "我が名は\n『波浪丸』\n……おぬしこそ、\nワシに相応しい使い手なり……\nああ、\nこれでようやく、\nただの刀に戻れる……"
+    },
+    {
+      "name": "Ruka",
+      "text": "Good grief. [i]That's[/i] why you stirred up all this trouble?\nYou sure are blunt for a katana, aren't you?\nBut oh well.",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "やれやれ。\nそのためにあんな真似してたってのか？\n愚直にも加減ってもんがあるだろ……\nでもま、\nしょうがないか。\n刀だしね。"
+    },
+    {
+      "name": "Ruka",
+      "text": "As for you, mister. You know what's coming.\nYou big, dumb idiot! What was even going through your head?!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "……さてと\nお前さん。\nアタシが今一番言いたいこと、分かるかい？\nこのバカっ！\n　\nなんて真似しやがるんだ！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Don't you dare pull something like that again, you hear?\nYou're the last person I ever want to cross blades with!",
+      "choice_data_list": [
+        "Sorry for making you worry.",
+        "It won't happen again."
+      ],
+      "orig_name": "ルカ",
+      "orig_text": "無茶するんじゃないよ、\nまったく……！\nお前さんと戦うなんて、\nアタシはゴメンだからね……！"
+    },
+    {
+      "name": "Ruka",
+      "text": "Worry? You almost gave me a heart attack!",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ホントだよ！　\n心臓が止まるかと思ったじゃないか！"
+    },
+    {
+      "name": "Ruka",
+      "text": "It better not. Promise me, okay?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "ならいいけどさ……\nもうあんな真似はするんじゃないよ？"
+    },
+    {
+      "name": "Ruka",
+      "text": "It's weird, though. I don't think I've ever felt this relieved before.\nIs this how you feel whenever I'm up against danger?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "変だね……\n自分でもビックリするくらい、ホッとしてる。\nお前さんもアタシに付き合ってる時は、\nいつもこんな気持ちなのか？"
+    },
+    {
+      "name": "Ruka",
+      "text": "Now I know what it's like to be in your shoes after that little stunt.\nSo I'll tone it down myself. Fair's fair, right?",
+      "choice_data_list": [],
+      "orig_name": "ルカ",
+      "orig_text": "お前さんにやられて、\n心配する側の気持ちがよ～く分かった……\n今後はアタシも、無茶は控えるよ。\nこれでおあいこだね、\nお前さん。"
+    },
+    {
+      "name": "Narration",
+      "text": "Having noticed a tinge of shyness behind Ruka's smile,\n{0} couldn't help but feel incredibly glad that he was \nable to protect her.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──少し恥じらいながら微笑むルカを見た{0}は、\n彼女を守れて良かったと心の底から安堵した。"
+    }
+  ]
+}

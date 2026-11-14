@@ -1,0 +1,614 @@
+{
+  "title": "Otoshidama and \"Otoshidama\"",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and the others began moving to prevent the prophetic dream where the meteor crashes on the city. They headed for the forest shrine for a clue...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "予知夢で見た隕石落下を阻止すべく\n動き始めた{0}たち。\n手がかりを求めて、森にある祠を目指していた……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Haah... Haah... I heard that it was deep in the forest... But it really is deeper than I thought. Hatsune-san, is your feet fine walking this far?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "はぁ、\nはぁ……\n森の奥って聞いてはいたけど……\n本当に奥地なんだね。\nハツネさん、\n足元は大丈夫かい？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmm, it's a bit tiring... But when I go with him on my first shrine visit later, I can probably make do somehow?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うーん、\nちょっと大変かも～……\nキミと初詣に行くときは、\n何か工夫した方がいいかな？"
+    },
+    {
+      "name": "カスミ",
+      "text": "えっ、\nハツネさん、\n助手くんと初詣に行くのか……！？\n完全に出遅れてしまったじゃないか……！　",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "えっ、\nハツネさん、\n助手くんと初詣に行くのか……！？\n完全に出遅れてしまったじゃないか……！　"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Is she going alone? Or is she taking everyone...? First of all, calm down me...! What I can infer from what she said is...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "二人きりで？　\nそれともみんなで……？\nまずは落ち着くんだ……！　\n今の発言から推理できることは……"
+    },
+    {
+      "name": "Inori",
+      "text": "Kasumi. If you don't watch where you're going, you're gonna hit a branch.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "カスミン。\n前見て歩かないと枝にぶつかるですよ？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Eh... Gyahh!!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "えっ……\nふぎゃあ！！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I'm sorry, Assistant-kun. I wasn't paying attention...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "す、\nすまない、\n助手くん。\n考え事をしてて……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Can you show me where you were hurt? ...Thank goodness, it's not swelling!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ちょっと見せてくれる？\n……よかった、\n腫れたりはしてないね！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Thank you, Hatsune-san. I'll concentrate on finding the girl from your dream now and listen to her story.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ありがとうハツネさん、\nこれからは集中するから。\nなんとか夢の中の少女を捕まえて、\n話を聞かないといけないしね。"
+    },
+    {
+      "name": "Inori",
+      "text": "...That's the shrine. The new year decorations I made really did disappear.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……あの祠です。\n確かに、あたしが作った正月飾りが消えてるですね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Is there anything else that has changed since you came in the morning? Any detail is fine no matter how trivial it is.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "他に何か、\n午前中に訪れたときから変わっていることはないかい？\nどんなに些細なことでも構わないよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Anything that changed...? Hmm... Oh? Speaking of which, was the shrine door open previously? When we were cleaning the shrine, I feel like it was closed before.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "変わったところですかぁ……？　\nう～ん……\nあれ？　\nそういえば\n祠の扉って開いてたですかね？\n中を掃除しようとしたときは、\n開かなかった気が……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Inside the shrine... Looks like it's empty.\nDid that girl take everything inside?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "中は……\n空っぽみたいだよ。\nあの女の子が持っていっちゃったのかな？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "This shrine seems to be old so it wouldn't be strange if it was emptied by thieves... If the door was still open in the morning, it's possible that the decoration was taken away.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "この祠も相当古そうだから、\n盗難や風化で中身が空になっていても、\nおかしくはないけれど……\n午前中は扉が閉まっていたのなら、\n持ち去られた可能性はあるね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I wonder what kind of god is here?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "一体どんな神様だったんだろうね？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I've brought books about various gods to help with the investigation...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いろいろな神様について記された本を\n今回の調査のために持ってきているんだけど……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "From the shape of the shrine, the god worshipped here is called Morigami. Apparently it was worshipped by a small group of elves in the past. Considering Hatsune-san is also an elf... have you ever heard of it?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "祠の形状からして、\n祀られているのは\n森神と呼ばれる神様だろう。\n遠い昔に\nごく一部のエルフ族から信仰されていたらしい。\nハツネさんはエルフ族だけれど……\n聞いたことはあるかい？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I haven't. But... being forgotten all this time must be painful.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ううん。\nだけど……\nずっと忘れられてたんなら、\nきっと寂しかったよね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I suppose Morigami-sama must've been overjoyed to see you and Inori-chan to clean up her shrine?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "キミとイノリちゃんがお掃除してあげて、\n森神さまも喜んでくれたんじゃないかな？"
+    },
+    {
+      "name": "？？？",
+      "text": "Indeed!! This ignore play kept going on and before I notice it, it has been hundreds of years... It has been a long time since someone last offered their faith to me, and it permeates throughout my body and soul!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "いかにも！！\n放置プレイをされ続けて気が付けば数百余年……\n久方ぶりに捧げられた信仰心が、\n五臓六腑に染み渡ったぞい！"
+    },
+    {
+      "name": "ハツネ",
+      "text": "えっ！？　\n誰かいるの！？",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっ！？　\n誰かいるの！？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Pay close attention! I'm a god! That young kid and boy gave their faith and revived me!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "刮目せよ！　\nわしこそが\n神様じゃ！\nそこの小娘と少年の捧げた信仰心により、\n復活を遂げたのじゃ！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ehh～!? The girl I saw on my dream is actually a god!? \nYou can't judge people by their appearances, \nbut looks like the same applies for a god too～",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "え～！？\nこの子、\n夢で見た女の子だけど\n神様だったの！？\n人は見かけによらないけど、\n神様も見かけによらないね～"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Instead of a clue, the person we're trying to find ends up showing up herself. Good job, Inori-kun and Assistant-kun.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "手がかりどころか、\nいきなり本人が捕まるとはね。\nお手柄だよ\n助手くん、\nイノリくん。"
+    },
+    {
+      "name": "Inori",
+      "text": "...So that means this is the god who did nothing but eat grilled corn in the middle of an emergency? Isn't it obvious that kind of god would end up being forgotten?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……ということは、\nこいつは街の非常時に何もせず\n焼もろこしをかじってただけの神ってことになるですよね？\n廃れて当然じゃないですか？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Eh? No, what are you talking about...? I've always been an unpopular god to begin with, but I've only did things that people would appreciate since ancient times.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "えっ？　\nいや、\n何の話じゃ……？\n初手から好感度低めの反応をされておるが、\nわしは大昔から\n感謝されるようなことしかしとらんぞ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Well, that's something that happens in the future anyway. By the way, do you have some examples of what you meant by \"things people would appreciate\"?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まぁ、\nその件については未来の話だからね。\nちなみに\n「感謝されること」って、\n具体的に何をしてたのかな？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Fufu, I'm a caring god after all. In the west, when there was a young man who was making a pile of Karaage, I secretly added some lemon juices into it.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "ふふん。\nわしは気配りのできる神様じゃからな。\n西にから揚げを山盛り作った若者あれば\nそっとレモンを絞ってやり……"
+    },
+    {
+      "name": "Morigami",
+      "text": "In the east, at a pizza party, I added some pineapples on top of the pizzas.\nIn the south, I put some cherries in Nagashi Somen.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "東のピザパーティーではピザにそっとパイナップルを乗せ、\n南の流しそうめんにはチェリーを追加したものじゃ……"
+    },
+    {
+      "name": "Morigami",
+      "text": "In the north, I removed the skewers from Yakitori and they were so deeply moved that they cried \"Who would do such a thing\"...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "北で焼き鳥の串をあらかじめ抜いてやった時には\n皆\n「誰がこんなことを」\nと\n感涙に咽び泣いたものじゃが……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Uhh, were they really deeply moved from that...?\nI think it's the opposite～",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ええっと、\nそれって\n本当に感謝して泣いてたのかな……？\nちょっと違うベクトルだと思うんだけど～"
+    },
+    {
+      "name": "Inori",
+      "text": "She's probably the type to do bad things with good intentions. It's probably better to beat her up and seal her quickly.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "多分、\n善意から邪悪な振る舞いをするタイプの神ですよ。\n速やかにぶちのめして、\n未来永劫封印したほうがいいです。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It sounds just like the god from legends. According to the book, even though she had the power to rival other famous gods, she couldn't read the room and everything she did backfired so her followers lost faith in her.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "どうにも、\n伝承通りの神様だね。\n本の記述によれば、\n他の有名な神々に匹敵する力を持ってたのに、\n空気が読めず\nやることなすこと裏目に出て信仰を失ったとあるよ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "N-No that's just a misunderstanding! Even though I granted the wish of this boy and that girl, you're still saying such terrible things about me!!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "ち、\n違う、\nそれは誤解じゃ！\n今回も小娘と少年の願いを叶えてやったというのに、\nなんでそんなひどいことを言われなければならんのじゃ！！"
+    },
+    {
+      "name": "Inori",
+      "text": "Oh! That reminds me, I asked for an Otoshidama!! You have a lot of them ready for me, right!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はっ！　\nそういえば、\nお年玉をリクエストしたですよ！！\nちゃんと元旦に、がっぽりもらえるですよね！？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yeah? A lot of them, right? Haven't I summoned \"The biggest Otoshidama ever so that I won't have any worries for the rest of my life!\" as you wished?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うん？　\nがっぽり？\nわしはお主らの望み通り\n「この先の人生が困らなくなる落とし玉」\nを\n一つ呼び出してやっただけじゃが？"
+    },
+    {
+      "name": "Inori",
+      "text": ".... Umm, didn't I ask for an Otoshidama?\nI'm asking when I'll become rich.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……一つ？\nあの、\n『お年玉』をくれるですよね？\nいつになったら大金持ちになれるのかって聞いてるですよ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Why are you talking about money? Dropping a ball has nothing to do with money, right?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "いやいや、\nなんでそこでお金の話が出てくるのじゃ？\n玉を落とすのと、\nお金は無関係であろう？"
+    },
+    {
+      "name": "Inori & Morigami",
+      "text": "...Hmm?",
+      "choice_data_list": [],
+      "orig_name": "イノリ・森神",
+      "orig_text": "……んん？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...I feel like Inori-kun's 'Otoshidama' and Morigami-sama's \"Otoshidama\" is different here.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nイノリくんの『お年玉』と、\n森神さまの『落とし玉』って、\nどうも意味が食い違ってる気がするね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Morigami-sama, what kind of wish did you grant in specific?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "森神さまは、\n具体的に\nどんな願いを叶えたんだい？"
+    },
+    {
+      "name": "Morigami",
+      "text": "As long as living things tries to live their life to the fullest, there is no such thing as a life without worries.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ。\n命あるものがその生を全うしようとする限り、\n困らない、\n心配のない人生などというものはありえぬ。"
+    },
+    {
+      "name": "Inori",
+      "text": "The explanation is too long, just give us the short version.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "長くなりそうなんで、\n結論だけお願いするです。"
+    },
+    {
+      "name": "Morigami",
+      "text": "In short, if everyone is blown off by an \"Otoshidama\" then you'll get the life without worries you wanted. After all, your life will end right there.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "要するに\n『落とし玉』でみんな吹っ飛べば、\n先々の人生で困ることはあるまい。\nなにせ、\nそこで終わりなんじゃからな。"
+    },
+    {
+      "name": "Inori",
+      "text": "...Huh? Blown off? What are you talking about?\nDo you really not know what 'Otoshidama' means?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……は？　\n吹っ飛ぶ？\nこいつ\n何を言ってやがるんです？\n全然意味が分かんねーですよ？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Don't tell me... This \"Otoshidama\" is referring to a big thing that falls from the sky?\n(TL Note: The \"dama\" in \"otoshidama\" also can be interpreted as \"a spherical object\", and the \"otoshi\" can be interpreted as \"to drop something\")",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まさかとは思うけれど……\nその『落とし玉』って、\n大きくて、\n空から落ちてきたりするのかい？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yes! I thought that the higher it falls, the more certain it is to blow everyone!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ！\nできる限り高い場所からの方が、\n確実かと思ってな！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I see... so that's what this is all about.\nHave you figured it out, Assistant-kun?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "なるほど……\nということは、\nつまり。\nどういうことか分かるかい、\n助手くん？"
+    },
+    {
+      "name": "Inori",
+      "text": "No way... Instead of 'New Year Money', she instead sent \"Giant Meteors\"...\nHOW CAN ANYONE MISINTERPRET IT LIKE THAT...!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "まさか……\n『お年玉』のかわりに\nドデカい隕石を\n『落とし玉』にしたってことですか！？\nそんな斜め上の解釈するヤツなんているわけねー……！"
+    },
+    {
+      "name": "Inori",
+      "text": "...No, I suppose there's someone on my family that would interpret it like that. Not to mention it's even an old hag that'd do it with clear malice.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……いや、\nよりにもよって身内に一人いやがるのです。\nしかも明確な悪意を持ってやってるババアが。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Even so, it's certainly a unique case. So is it fine to conclude that Inori's wish is the culprit?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "だとしても、\nレアケースな勘違いなのは確かだけどね。\n結論としては、\nイノリくんの願いが元凶ってことでいいのかな？"
+    },
+    {
+      "name": "Inori",
+      "text": "Hold on, that'd make me look like the bad guy! You're the one who misunderstood my wish, so do something about it! I don't want to be responsible for this!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ちょっ、\nそのまとめ方だと\nあたしが悪いみたいじゃないですか！！\nおまえの勘違いなんですから、\n早くどうにかするですよ！\nこんなの、\n責任取れねーです！！"
+    },
+    {
+      "name": "Morigami",
+      "text": "...Umm, sorry to ask, but could it be that I misunderstood your wish? I've always been reminded since a long time ago to ask first before granting a wish.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "……つまり。\nあの、\nすみません、\nもしかして\n願いが間違ってましたでしょうか？\n昔からよく、\n実行する前に相談しなさいって注意されることが多くて。"
+    },
+    {
+      "name": "Inori",
+      "text": "Everything was wrong to begin with!! If Landosol is destroyed, how would I even use my 'Otoshidama'～!!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "なにもかも、\n根本から全部間違ってやがりますよ！！\nランドソルが滅んじまったら、\nどこでお年玉を使えばいいですか～！！"
+    },
+    {
+      "name": "Morigami",
+      "text": "I-I-I'm so sorry～!",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "ごごご、\nごめんなさい～！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...To summarize. 'Otoshidama' refers to a tradition of handing money to childrens and not \"Dropping a spherical object from high in the sky\".",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……というわけで。\n『お年玉』というのは\n正月に子どもにお金を渡す風習のことで、\n「何かしら球形の物を落とす」ことではないんだ。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Uuuu... Hicc...! I really didn't mean anything bad...!\nI just don't keep up with recent trends...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うぐ……\nひぐ……！\n本当に、\n悪気があったわけじゃないんです……！\n最近のトレンドとか分かんなくて……"
+    },
+    {
+      "name": "Inori",
+      "text": "What do you mean by 'Otoshidama' being a trend!? How can a god be unaware of something even childrens would know?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "お年玉にトレンドもへったくれもないですよ。\nなんで子どもでも知ってるようなことを神様が知らないですか？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I don't think she's lying. Several hundred years ago, she was a god who's worshipped by a small group of elves. It's also possible that the concept of money didn't exist yet.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "お年玉の概念がなかったこと自体は、\nウソじゃないと思う。\n数百年前、\nごく一部のエルフ族から信仰されてた神なんだ。\n貨幣経済の概念がなかった可能性もある。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "In the past, there are villages that lived only by bartering with each other. Money didn't exist yet so a tradition of sharing money like Otoshidama likely didn't exist either～...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "昔なら、\n物々交換だけで暮らしてる村もありそうだし。\nお金がなかったら、\nお年玉の風習もないよね～……"
+    },
+    {
+      "name": "Morigami",
+      "text": "But if I said that I didn't know, then I'd be treated like a country bumpkin... I thought that you fundamentally wanted to be free from the pain and sorrows of life...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "でも、\n知らないって言ったら\n田舎者扱いされると思って……\n根本的に\n今生の苦楽から解放されたいという意味なのかと……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "This is amazing though～ Hearing stories like these\nreally makes me think \"Yep, she really is a god\"．",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うーん、\nすごいね～\nこういう話を聞くと、\n本当に神様なんだな～\nって思っちゃう。"
+    },
+    {
+      "name": "Inori",
+      "text": "It's kinda similar like the demon kings in mangas. Even my boss wouldn't go that far.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "漫画に出てくる魔王みたいな発想ですよ。\nうちのボスでもなかなかここまではやらねーです。"
+    },
+    {
+      "name": "Morigami",
+      "text": "Uguu ... I'm deeply sorry... It's all my fault for jumping to conclusions...",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うぐぅ……\n申し訳ございませんのじゃ……\nなにもかも、\n早合点したわしの責任じゃ……"
+    },
+    {
+      "name": "Morigami",
+      "text": "Huh? Why are you apologizing?",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "んっ？　\nなんでお主が謝るんじゃ？"
+    },
+    {
+      "name": "Inori",
+      "text": "It's not Onii-san's fault! ...If I don't say that, then I'll be the one held responsible.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "お兄さんは悪くないですよ！\n……\nっていうことにしておかないと、\nあたしまで責任を\n問われそうなんで、\nそういうことにしておくです。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then stop blaming each other! Morigami-sama, you should ask others if you don't understand something even if you're embarassed. Let's be more careful from now on!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "じゃあ、\nもう誰かを責めるのはおしまい！\n森神さまも、\n恥ずかしくても分からない時は質問しなきゃ。\nこれからは、\nみんなで気をつけていこー！"
+    },
+    {
+      "name": "Inori",
+      "text": "I appreciate the advice, but at this rate she'd sooner be in the afterlife before she can put that advice to use.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "有意義なアドバイスには感謝しますけど、\nこのままだと\n実践するのはあの世に着いてからになるですよ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, that's right! First of all we have to do something about the meteor. If you summoned them, couldn't you also make them go away?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん、\nそうだよね！\nまずは隕石をなんとかしてもらわなくちゃ。\n呼び出すことができるなら、\n消すこともできたりしない？"
+    },
+    {
+      "name": "Morigami",
+      "text": "No, that's not possible... My power to \"grant wishes\" is so powerful that it can't be undone.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "いや、\nそれはできんのじゃ……\nわしの『願いを叶える力』は強力ゆえに、\n一度発動してしまうと\n取り消しは不可能なんじゃよ。"
+    },
+    {
+      "name": "Inori",
+      "text": "Then how about sending her to NIGHTMARE and evacuate the townspeople? If we have a witness then surely they'll listen to our story?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "じゃあ、こいつを【王宮騎士団（NIGHTMARE）】に突き出して、\n街のみんなを避難させればいいですよ。\n証人がいれば話を聞いてもらえるんですよね？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmm... would they actually listen to Morigami-sama's story? Even my prophetic dreams wasn't easy to believe...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うーん……\n森神さまの話ってちゃんと聞いてもらえるかな？\n私の予知夢だって、\n簡単には信じてもらえなそうだったし……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Honestly, it'd be hard. It's very likely that it'd be taken as nonsense instead.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "正直、\n難しいと思う。\n荒唐無稽なほら話、\nとして取られてしまう可能性が限りなく高い。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's also year-end, NIGHTMARE would have their hands full with security duties in various places. They're probably in a situation where they can't afford to lend a help.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まして、\n年末なんだ。\n【王宮騎士団（NIGHTMARE）】もあちこちの警備に\n走り回っていて、\n手が足りない状態だろうしね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Another countermeasure would be～ \nWith my super abi-...Super ☆ Magic but it couldn't destroy the meteor, what about Inori-chan's dragon power?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "別の対応策か～\n超の……\n超☆魔法でも壊せなかったし、\nイノリちゃんのドラゴンパワーでなんとかならない？"
+    },
+    {
+      "name": "Inori",
+      "text": "No matter how strong of a dragon-tribe you are, it'd still be impossible. From what I heard, it's big enough to crush this place. Spraying fire on something like that won't do much.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "いくら超有能なドラゴン族だって\n無理なもんは無理ですよ。\n聞いた限りじゃかなりの大きさですし、\nこっちが押し潰されるです。\n火を吹きかけたくらいじゃ\nどうにもならねーですよ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "That's right～ Hmm～ What should we do...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そうだよね～\nう～ん、\nどうしよう……？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Morigami-sama. If it's impossible to cancel a wish, is it still possible to get another wish granted?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "森神さま。\n願い事を取り消すのは無理だとして、\n追加で\n別の願いを叶えてもらうことはできないかな？"
+    },
+    {
+      "name": "Morigami",
+      "text": "Yes, you can. I can grant another 2 wishes before new year.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "うむ、\nそれならできるぞ。\n新年を迎えるまでに\nあと二つ\n叶えられる。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Oh, is that so? And isn't the number of wishes and the deadline kinda specific?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっ、\nそうなの？\nっていうか、\n期限と回数がずいぶん具体的だね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "According to the book, Morigami-sama's followers would receive 3 blessing for the rest of the year. So that means the blessing is to have your wishes granted?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "本によると\n森神さま信仰では、\n祈りをささげることで、\nその年の間に３つ恩恵を受けることができるらしいんだ。\nこの恩恵\nっていうのが、\n願いを叶えてもらうことなんじゃないかな？"
+    },
+    {
+      "name": "Morigami",
+      "text": "No matter what kind of wish it is. However, once you receive the wish you can't take it back anymore.",
+      "choice_data_list": [],
+      "orig_name": "森神",
+      "orig_text": "いかにも。\nじゃが、\nその願いをもってしても、\nすでに願ったものを撤回することはできん。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "If it works that way, then I guess it really is impossible... I almost thought that'd work.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "やっぱりそういう使い方は無理なんだ……\nちょっと思いついたんだけどなぁ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Maybe we don't have to think so hard about it, wouldn't a simple wish work just fine?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そんなに難しく考えず、\nもっとシンプルな願いにすればいいんじゃないかな？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmm? What do you mean by that, Kasumin?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ん？\nどういうこと、\nカスミン？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "If we can't cancel the meteor wish, then we'll confront it head-on. We'll use the remaining 2 wishes and destroy it before it can crash!",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "隕石をなかったことにできないなら、\n迎撃すればいい。\n残り二つの願い事を駆使して、\n落下前に破壊してしまうんだ！"
+    }
+  ]
+}

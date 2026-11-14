@@ -1,0 +1,712 @@
+{
+  "title": "Meteor Interception Team，Formed!?",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "It's almost time for {0} and Inori to return. Maho and Kasumi, who sent both of them to gather branches, are preparing themself to greet them.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}とイノリが枝を集めて戻る頃。\n依頼を出していたマホとカスミはそれを受け取るために、\n彼らを出迎える準備をしていた。"
+    },
+    {
+      "name": "Maho",
+      "text": "It's almost the promised time now... Prince always keeps his promises, so I'm sure it'll be fine...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そろそろ、\n約束の時間を\n過ぎそうどすけど……\n王子はん、\nいつも時間は守らはるお人やから\n大丈夫だと思うんやけど……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "It's Assistant-kun we're talking about so you don't need to worry about him. If there's trouble, I'm sure he'll tell you.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "助手くんならきっと、\n心配ないと思うよ。\nなにかトラブルがあっても、\nきっと教えてくれるはずさ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Oh, speak of the devil... Oh? You're with...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ほら、\n噂をすれば……\nって、\nあれ？\n隣にいるのは……"
+    },
+    {
+      "name": "Maho",
+      "text": "Ohh, it's [Dragon's Nest]'s Inori-han.\nBoth of you are carrying so much things.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "確か\n【ドラゴンズネスト】の\nイノリはんどすなぁ。\n王子はんと一緒で、\nずいぶんな大荷物やわぁ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Could she be helping Prince out?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "もしかして、\n王子はんのお仕事、\n手伝ってくれはったんやろか。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "If that's the case, then I'll have to give her my thanks.\nLet's talk to them.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "だとしたら、\n彼女にもお礼をしないとね。\n声をかけてくるよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Hmmm ...Well ...Let me get this straight.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\nえっと……\n話を\n整理しようか。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hatsune just earlier had a dream of meteorites crashing on Landosol. The dream will likely come true so you quickly flew to Assistant-kun to stop it?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ハツネさんはさっき、\nランドソルに隕石が落ちてくる夢を見た、\nと。\nそれはおそらく正夢になるだろうから、\n被害を食い止めるため、\n助手くんの元に飛んできたということかな？"
+    },
+    {
+      "name": "Inori",
+      "text": "Huuh? That's so absurd, can that even actually happen? Even Onii-san is agreeing with me...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はあ？　\nそんな荒唐無稽な話、\nホントにあるですか？\nお兄さんは横でうなずいてるですけど……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Something similar has happened before! So I don't think this is just a dream, and this time around my power alone isn't enough.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "前にも似たようなことがあったの！\nだから、\n今回もただの夢なんだ\nっていうふうには思えなくて。\nそれに今回は、\n私の力だけじゃどうにもならなそうだし……"
+    },
+    {
+      "name": "Inori",
+      "text": "What's a \"prophetic dream\" in the first place? And you can use super abilities? You should explain it from there first.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そもそも予知夢ってなんですか？\n超能力でも使えるんです？\nそこから説明しやがれですよ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Eh!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "え゛っ！？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hmm, I have my doubts too... You seem to be convinced that the dream will come true, but do you have any reason for that?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "う～ん、\n私も疑問だね……\n予知夢だということを確信してるみたいだけど、\n何か根拠があるのかい？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "And what did you mean by \"something similar has happened before\"...?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "前にもあった似たようなこと、\nっていうのはいったい……？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "No, that was... \"Magic\"! I actually can use magic!\n...Does that answer your questions?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "いやぁ、\nそのー……\n『魔法』！\n私、\n実はそういう魔法が使えるんだよね！\n……\nってことで\nどうかな？"
+    },
+    {
+      "name": "Inori",
+      "text": "Your eyes are moving around restlessly, suspicious...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "目が泳いでて怪しいです……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Help me, {0}-kun.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "助けて、\n{0}くん。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Well, if Assistant-kun says so then I'll believe it. If I keep pushing for an answer, we won't get anywhere.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まぁ、\n助手くんがそう言うならいったんは信じよう。\nここで押し問答をしていても始まらないしね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "And when you have a prophetic dream. My theory is that what you see there... is not necessarily what you want to see?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "それに、\n仮に予知夢が見られるとして。\nセオリーとして、\n見たい未来が見られるとは限らない……\nって\nところじゃないかな？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, it's a dream after all... If it changed to what I want to happen, I would've changed that terrible future.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん、\nあくまで夢でしかないから……\n自分に都合のいい夢が見られたら、\nこんなひどい未来、\n変えちゃうのになぁ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "As I thought... Even if it actually happens, you have nothing to gain from this either. So we should investigate more for now.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "やっぱりそうか。\nでも備えた結果、\n何も起こらなくても失うものはないし。\nとりあえず、\n調査してみてもよさそうだね。"
+    },
+    {
+      "name": "Maho",
+      "text": "I agree♪ Hatsune-han, I'm happy to have the chance to help you out.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "賛成どす♪　\nハツネはん、\nうちも一緒に\n頑張らせて\nもらえたら\nうれしいわぁ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Thanks, both of you! Ah, and please don't ask more about how my magic works okay? I wouldn't be able to answer it even if I wanted to.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ありがとう、\n二人とも！\nあ、\n魔法の原理とか理屈とかやり方とかはもう聞かないでね？\n答えたくても答えられないから。"
+    },
+    {
+      "name": "Inori",
+      "text": "Well, even if we took what you said at face value... We can't really do anything, no? In the first place, if such a huge meteorite is about to crash at us then the townspeople would be rioting by now.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "まぁ、\n百歩譲って信じるとしても……\nあたしらにはどうしようもないですよ？\nそもそもそんなデカい隕石が壊せるなら、\nとっくに下剋上してるです。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The most realistic thing we can do is to evacuate the townspeople. But I don't think they'll easily comply with us even if we try to evacuate them.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "一番現実的なのは\n市民を避難させることだろうね。\nだけど、\n私たちが呼びかけたところで、\n素直に応じてもらえるとは思えない。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "A short while ago, there were news of a stuffed toys exploding in the town... They had quite the trouble evacuating the citizens during that, right?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "少し前にあった、\n市街地で多数のぬいぐるみが爆発するってニュース……\nあの時も、\n人々を避難させるのにずいぶん苦戦したって聞いたよ。\nそうだろう、\n助手くん？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "We're trying to have a serious conversation... Anyway that means we shouldn't do the same thing as them.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "本気だという説得のために、\nおすもう……\nだが\n私たちに同じことができるわけじゃない。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The proper way would be to tell about this situation to NIGHTMARE and have them lend a hand, or perhaps have Pecorine-san to issue an imperial mandate...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まっとうな手段としては、\n【王宮騎士団（NIGHTMARE）】に\n事の次第を伝えて人手を貸してもらうか、\nぺコリーヌさんに勅命を出してもらうか……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "In any case, it's hard to take any actions before we have a more solid ground to work with. I want to avoid giving bad informations and be distrusted by the royal palace.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いずれにしても、\nかなりの根拠を固めてからじゃないと\n動いてもらうのは難しいだろうね。\n下手な情報を出して、\n王宮が人々から不信を買うのは避けたい。"
+    },
+    {
+      "name": "Maho",
+      "text": "Evacuating all of the townspeople is harder than I thought.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "街の人たち\nみーんなに避難してもらういうんは、\nうちらが思うよりも\nずうっと大変なことどす。"
+    },
+    {
+      "name": "Maho",
+      "text": "In order for them to believe our story, we'll need to obtain more information first.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "お話聞いてもらうために、\nまずはできるだけ\n情報を集めまひょ。"
+    },
+    {
+      "name": "Inori",
+      "text": "If so, let's hurry and ask the townspeople one by one! If I fully mobilize my family to gather information we'll quickly...",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そんなら手っ取り早く、\n片っ端から聞くですよ！\nうちのファミリーを総動員して、\n情報を吸い上げれば一発……"
+    },
+    {
+      "name": "Kasumi",
+      "text": "...Do that and we might end up arrested for throwing the citizens into unrest.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "……\n逆に、\n市民を混乱に陥れた罪で\n捕まってしまうのがオチだろうね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "That sounds bad～ ...Umm, what should I be doing...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そんな～……\nう～ん、\nどうすればいいんだろう……？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Amazing, what a nice idea! I was so shocked when I had the dream earlier so I didn't take a good look around.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "すごい、\nナイスアイデア！\nさっき夢を見たときは、\nびっくりして\nあんまり周りを見れてなかったし。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Assistant-kun, you always surprise me with your ideas. I don't know if it'll be that convenient, but I think it's worth trying.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "君の発想にはいつも驚かされるよ、\n助手くん。\nそんなに都合よくいくかは分からないけど\n試してみる価値はあると思う。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Hatsune-san, if you have another prophetic dream, could you please collect as much information as you can?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "ハツネさん、\nもう一度夢が見られたら、\nなるべく周囲の情報を集めてきてくれるかい？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "First of all, we need more information about the meteorite. Like when we should start evacuating people... If we knew the date of the meteorite crashing, it'll be easier for us to make a plan about it.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まずはいつ隕石が落ちてくるのか、\nそれを知りたい。\n我々がいつまでに行動しなくてはならないのか……\n日付が分かれば、\n計画が立てやすくなるからね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah! I knew it was in the middle of the night, so I just have to confirm the date! Understood, I'll ask someone inside the dream!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん！　\n夜なのは分かってるから、\n日付が確認できればいいんだよね？\n分かった、\n夢の中で誰かに聞いてみる！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Then, let's keep our spirits high... Zzz♪",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "それじゃあ、\n気合を入れて～……\nスヤァ♪"
+    },
+    {
+      "name": "Inori",
+      "text": "Pyaa!? She suddenly fainted!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴゃああ！？\nい、\nいきなり意識を失いやがったです！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Zzz... Zzz...♪",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "スヤァ……\nスピィ……♪"
+    },
+    {
+      "name": "Maho",
+      "text": "I feel bad leaving her to sleep on the floor, let's put her on the sofa instead. Can anyone help me carry her?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "寝る場所が床の上やなんて、\n夢見も悪くなりそうやし、\nソファに寝かしてあげまひょ。\nみんな、\n手伝ってもらえますやろか？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Phew! ...Did I return to the same dream? It looks the same so let's ask for information immediately!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ふぅ！\n……また同じ夢に戻ってこれたかな？\n景色も同じだし、\n早速聞き込みに行ってみよう！"
+    },
+    {
+      "name": "Male",
+      "text": "This is bad, Landosol is finished～!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "もう駄目だ、\nランドソルはおしまいだ～！"
+    },
+    {
+      "name": "Male",
+      "text": "If that things crashes on us, there won't even be any grasses left behind! And just when I finally got a ticket to Carmina's live stage performance～!!",
+      "choice_data_list": [],
+      "orig_name": "男性",
+      "orig_text": "あんなものがぶつかったら、\n草一本残らないぞ！\nカルミナのライブのチケット\n当たったばっかりだったのに～！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "The same development as before huh...? Anyway, find someone to talk to... Oh, let's talk to that person in the stall!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "さっきと同じ展開……\nなのかな？\nとにかく、\n誰かに話しを……\nっと。\nあの屋台の人に聞いてみよう！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Excuse me, old man! I have something I want to ask～",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "すみません、\nそこのおじさん！\nちょっと聞きたいことがあるんだけど～"
+    },
+    {
+      "name": "Old Man at the Food Stall",
+      "text": "Anything I say right now wouldn't be able to help you, I'm afraid. Now how about spending humanity's last moments with some tasty grilled corns?",
+      "choice_data_list": [],
+      "orig_name": "屋台のおじさん",
+      "orig_text": "今さら何を聞いたって、\nもう助かる方法なんて見つからないよ。\nさ、\nできたての焼もろこしをあげよう。\nおいしいもので\n人生を締めくくりたいだろ？"
+    },
+    {
+      "name": "Old Man at the Food Stall",
+      "text": "I've spent 30 years of grilling corns, but if I could go out while having people enjoy these corns then I'm satisfied...",
+      "choice_data_list": [],
+      "orig_name": "屋台のおじさん",
+      "orig_text": "30年間\nとうもろこしを焼くだけの人生だったが、\n味を褒められながら終わるんなら本望よ……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "So it's a veteran grilled corn vendor... Wait this isn't the time to be impressed! Old man, I want to ask...!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ベテランの焼もろこし屋さんだったんだ～……\nって、\n感心してる場合じゃない！\nおじさん、\n聞きたいことがあって……！"
+    },
+    {
+      "name": "？？？",
+      "text": "It's futile to struggle, it's already too late. Let's just spend our final moments eating grilled corns together.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "悪あがきはよせ、\n何もかも手遅れじゃ。\nわしと一緒に\n焼もろこしを食べて\n最期の時を迎えよう。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Eh? Umm～ who might you be?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっ？\nあの～、\nどちらさま？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "She has a somewhat strange atmosphere to her... and she has a decoration on her waist. Is that a pin badge... with Inori-chan's face?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "なんか、\n不思議な雰囲気の子かも……\n腰に正月飾りつけてるし。\nそれに、\nあの缶バッジに描いてあるの、\nイノリちゃんの顔……？"
+    },
+    {
+      "name": "？？？",
+      "text": "Who might I be...? Are you joking? Even though we've only spent little time together, we've gotten through good and bad times together haven't we?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "どちらさま……\nじゃと？　\nなんの冗談じゃ？\nわしらは短い間とはいえ、\n苦楽を共にした間柄ではないか。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Eh? When did I meet you～?\nGood and bad times together... \nWhat are you talking about?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "あれ？　\nどこかで会ったかな～？\n苦楽を共に……\nって、\nなんの話だろ？"
+    },
+    {
+      "name": "？？？",
+      "text": "...Could it be that you are seeking revenge on me? To make all the time we spent together to be like it never happened, is that it?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……もしかしてこれは復讐なのか？\nわしらの時間をなかったことにして、\nお互いを知らなかったことに\nするつもりなのか？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "But this is my first time meeting you～ \n...What are you talking about?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "私、\nあなたとは初対面の気がするんだけど～……\n一体何の話をしてるの？"
+    },
+    {
+      "name": "？？？",
+      "text": "...Well, I suppose it's only natural for me to be treated like that. It's fine, I don't mind. After all, everything was my fault.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……まぁ、\nそういう扱いを受けても仕方ない。\nいいよ別に、\nそうじゃもん、\n全部わしのせいじゃもん！！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Everything... Was your fault...?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "全部……\nあなたのせい……？"
+    },
+    {
+      "name": "？？？",
+      "text": "I thought that this was what you guys wanted!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "これが\nお主らの望みだと思ったんじゃもん！"
+    },
+    {
+      "name": "？？？",
+      "text": "...And we're also out of time.\nIn the end, I couldn't finish eating those grilled corns.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……それにもう、\n時間切れじゃ。\n焼もろこし、\n食べきれんかったのう……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Ehh? ...Ahh.",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっ？\n……あっ。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hyaaaaaaaaa!?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ひゃああああああああ～！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "...The dream went something like that!\nHow is it? Is it useful as a reference?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "……っていう感じの夢だったよ！\nどうかな、\n参考になりそう？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "That's quite the fruitful dream. The date of the meteor falling is now confirmed and I'm also interested in that mysterious girl who seem to know what's happening.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "収穫はかなりあったね。\n落下してくる日付は判明したし、\n事情を知ってそうな少女も気になる。"
+    },
+    {
+      "name": "Inori",
+      "text": "Hmm? Outside of the mysterious kid, aren't we still clueless about the date? You should've asked the old man more instead of getting impressed by him.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "んん？\n謎のガキんちょはさておき、\n日付は分からないままじゃないですか？\n屋台のおっちゃんに感心してないで、\nさっさと聞けばよかったですよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "No, the stall is itself the hint. Landosol has stalls out since the end of the year, but they are only open from new year's eve.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いや、\nまさにその屋台こそがヒントだよ。\n年末年始には\nランドソルにも屋台が出るけれど、\n基本的に営業は\n大晦日からだ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "And in the first dream, one of the pedestrian mentioned \"Osechi\", right?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "そして\n最初の夢では、\n通行人が\n『おせち』について\nなにか言っていたんだよね？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, someone regretted having reserved an expensive Osechi. What about it?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "うん。\n高いおせちを予約して、\n後悔してたみたい。\nどうしてだろ？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "The meteorite crashed before New Year. And there's a passerby who mentioned regretting their Osechi. Combine those together and you can deduce that the meteor will fall at \"The Night of New Year's Eve\".",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "元旦を迎える前に、\n隕石が落ちてきたってことさ。\n他の通行人の嘆きも似たような内容だったし、\nこれらを総合すれば\n「大晦日の夜」に落下してくると推理できる。"
+    },
+    {
+      "name": "Inori",
+      "text": "Isn't New Year's Eve tomorrow...!!\nThat's not much time left at all!?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "大晦日って、\n明日じゃないですか……！！\n全然余裕ないですよ！？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "But we've taken a step forward!\nKasumin is amazing, you're just like a detective!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "だけど、\n一歩前進だね！\nすごいよカスミン、\n探偵みたい！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Well, I actually am a detective... But let's move on, the problem now is the mysterious girl in question. We need to contact her if possible.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "いや、\n本当に探偵なんだよ……\nまぁいい。\n問題は謎の少女の方かな、\nできれば接触したいんだけど。"
+    },
+    {
+      "name": "Maho",
+      "text": "From Hatsune-han's story, she seems to talk in an old-fashioned way. Perhaps she comes from an old family?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ハツネはんのお話やと、\n時代がかった話し方を\nしはるみたいやね。\nもしかして、\n古くからのお家のお嬢はんやったり\nしはるんやろうか？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "But it would be hard to search for her with just that. We need more clues like her appearance, her age, anything that'd help us...",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "だけど\nそれだけじゃちょっと捜し出すのは難しいだろうね。\n外見的な特徴とか、\n年齢とか、\nもう少し手がかりが欲しいけど……"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Hmm, her appearance～ ...Ah! I remember! \nShe had a new year decoration on her waist!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "う～ん、\n外見か～……\nあ！　\nそうだ！\n腰のあたりに\n正月飾りをつけてたよ！"
+    },
+    {
+      "name": "Inori",
+      "text": "That's quite the unique fashion sense. I'd rather decorate my house instead.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "だいぶ斬新なファッションをしてやがるですね。\nそういうのは家に飾っておくもんですよ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "But it sure is convenient for the ones investigating. It's rare to find someone dressed like that. Do you remember anything else, Hatsune-san?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "でも、\n調査する側としては好都合だ。\nそんな装いの人、\nめったにいないだろうからね。\n他に\n何か覚えていることはないかな、\nハツネさん？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Well, that new year decoration... If I remember correctly, it had Inori-chan's face on it!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "えっとね、\nその正月飾り……\n確か\nイノリちゃんの顔がくっついてたよ！"
+    },
+    {
+      "name": "Kasumi",
+      "text": "Huh, what kind of circumstances is that...? You mean that Inori-kun's head is hanging around her waist?",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "えっ、\nそれはどういう状況なんだ……？\nイノリくんの頭を腰にぶら下げていた\nということかい？"
+    },
+    {
+      "name": "Inori",
+      "text": "That can't be right at all!! ...Could it be that you meant it's my face on a pin badge instead?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "そんなわけねーですよ！！\n……\nそれ、\nあたしの顔が描いてある\n缶バッジじゃなかったですか？"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Yeah, that's right! Inori-chan, do you know of something?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "そうそう！\nイノリちゃん、\n何か知ってる？"
+    },
+    {
+      "name": "Inori",
+      "text": "Of course I know, I'm the one who carefully made those new year decorations. I decorated that shrine in the forest with those decorations after cleaning it.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "知ってるも何も、\nあたし謹製の正月飾りですよ。\n掃除がてら\n森の祠に飾ってやったです。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "So that means, the girl took those new year decorations from the shrine. If we want to follow her trails, we'll have to start from there. And if it's a kid, then she shouldn't have moved far from there.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "つまり、\n少女はその祠から\n正月飾りを持ち出しているということだ。\n足取りを追うなら、\nまず祠を当たってみるべきだろう。\n子どもの足なら、\nそんなに行動範囲は広くないだろうしね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "I see! But why would she take the pin? Maybe... that Inori-chan badge was just too cute?",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "なるほど！\nでも、\nなんでそんなことしたのかな？\nイノリちゃんの缶バッジがかわいくて、\nつい……\nとか？"
+    },
+    {
+      "name": "Kasumi",
+      "text": "We have no choice but to find the person in question to know their motives. Anyway, we have our starting point so the only thing left to do is to move forward.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "動機については、\n本人を捕まえて\n尋ねるしかないな。\nとにかく、\nとっかかりはできたね。\nそれだけでも前進だ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "First of all, let's search for her identity and whereabouts in the forest. It's highly likely that she knows something about the meteorites.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "まずは森に向かって、\n少女の正体や行方を探ろう。\n隕石の飛来について\n何か知っている可能性が高いしね。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "So Assistant-kun and Inori-kun, can you guide us to the shrine? It's not on the map and searching it blindly isn't realistic.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "というわけで助手くん、\nイノリくん。\n祠まで案内を頼めるかい？\n地図にも載っていないし\nやみくもに探すのは現実的じゃない。"
+    },
+    {
+      "name": "Inori",
+      "text": "Huuuuuuh? Why should I do that without getting paid? That shrine is so deep in the forest, I wouldn't come back there for anything.",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "はあああ？　\nなんであたしがタダ働きしなきゃならないんです？\nあの祠って\n森の奥の方にあったし、\nまた戻るなんてまっぴらごめんですよ。"
+    },
+    {
+      "name": "Maho",
+      "text": "If you cooperate until the end, we'll make it worth the effort...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "もしも最後まで\n協力してくれはるんやったら、\nちゃーんとお手伝いのお礼、\n払わさしてもらいますけど……"
+    },
+    {
+      "name": "Inori",
+      "text": "...How much?",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "……\nいくらです？"
+    },
+    {
+      "name": "Maho",
+      "text": "That's right, including the expenses... Do you think this amount would be enough to satisfy you?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "せやねぇ、\n経費とかもろもろいれて……\nこのくらいやったら、\n納得してもらえますやろか？"
+    },
+    {
+      "name": "Inori",
+      "text": "Piiii!? Compared to my usual salary, isn't this way too high!? This girl is a big catch... I'll do it, please let me do the job!",
+      "choice_data_list": [],
+      "orig_name": "イノリ",
+      "orig_text": "ぴぃっ！？\n普段もらってるお小遣いとか比較にならない高賃金じゃないですか！？\nこいつはデカいシノギ……\nやるです、\nやらせてほしいです！"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Maho-san, I'm the one who brought this up so I want to thank Inori-chan too...",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "マホさん、\n元々は私が持ち込んだ話だし、\nイノリちゃんへのお礼は私も……"
+    },
+    {
+      "name": "Maho",
+      "text": "Fufu, you don't have to worry. Hatsune-han might have the opposite personality with Shiori-han, but you're both sincere deep down.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふふっ、\n気い使わんといてくれやす。\nハツネはんって\nシオリはんと\n正反対の性格なようで、\n根っこは\n同じくらい\n真面目なんやねぇ。"
+    },
+    {
+      "name": "Maho",
+      "text": "If the prophetic dream is true, then this is a problem for all of Landosol. As the guild leader of Caon, I'll do everything I can.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "予知夢が本物なら、\nランドソル全体の問題どす。\n【自警団（カォン）】のギルドマスターとして、\nできることは\n何でもやらせてもらいますえ。"
+    },
+    {
+      "name": "Kasumi",
+      "text": "I feel the same. If Landosol is gone, then that'd be the end of my detective work too.",
+      "choice_data_list": [],
+      "orig_name": "カスミ",
+      "orig_text": "私も同じ気持ちだ。\nランドソルがなくなってしまうと、\n探偵も廃業だからね。"
+    },
+    {
+      "name": "Hatsune",
+      "text": "Thank you, both of you! ...Then, that's all we needed to talk about! Let's work together and stop the meteorite from crashing upon us～!",
+      "choice_data_list": [],
+      "orig_name": "ハツネ",
+      "orig_text": "ありがとう、\n二人とも～！\n……それじゃあ、\n話もまとまったところで！\n力を合わせて、\n隕石落下を阻止しちゃうよ～！"
+    },
+    {
+      "name": "Everyone",
+      "text": "Ohhhhh~!!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "お～！！"
+    }
+  ]
+}

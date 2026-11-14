@@ -1,0 +1,733 @@
+{
+  "title": "The Curse of Malevolent Spirits",
+  "text_block_list": [
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]ビーチリゾート施設に憑いた霊を\n[FFFFFFFF]除霊することになった{0}たちは、\n[FFFFFFFF]施設の中を調査していた。",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]ビーチリゾート施設に憑いた霊を\n[FFFFFFFF]除霊することになった{0}たちは、\n[FFFFFFFF]施設の中を調査していた。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]……ふぅ。\n[FFFFFFFF]これで施設内の見回りは終えましたね。\n[FFFFFFFF]霊の気配はありませんでしたが……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]……ふぅ。\n[FFFFFFFF]これで施設内の見回りは終えましたね。\n[FFFFFFFF]霊の気配はありませんでしたが……"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]手がかりなしですかぁ……\n[FFFFFFFF]どうすればいいんでしょう？",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]手がかりなしですかぁ……\n[FFFFFFFF]どうすればいいんでしょう？"
+    },
+    {
+      "name": "ドクロ親父",
+      "text": "[FFFFFFFF]そりゃあ出てくるのを待つしかねえだろうな～\n[FFFFFFFF]おもに美女がいるビーチとか、\n[FFFFFFFF]美女がいるビーチとか、\n[FFFFFFFF]美女がいるビーチとかで！",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "[FFFFFFFF]そりゃあ出てくるのを待つしかねえだろうな～\n[FFFFFFFF]おもに美女がいるビーチとか、\n[FFFFFFFF]美女がいるビーチとか、\n[FFFFFFFF]美女がいるビーチとかで！"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]駄目だよ、\n[FFFFFFFF]お父さん。\n[FFFFFFFF]美女がいるビーチに行きたいだけでしょ。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]駄目だよ、\n[FFFFFFFF]お父さん。\n[FFFFFFFF]美女がいるビーチに行きたいだけでしょ。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]こういう時は……\n[FFFFFFFF]そうですね。\n[FFFFFFFF]こちらから語りかけてみましょうか。\n[FFFFFFFF]いわゆる\n[FFFFFFFF]『交信術』です。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]こういう時は……\n[FFFFFFFF]そうですね。\n[FFFFFFFF]こちらから語りかけてみましょうか。\n[FFFFFFFF]いわゆる\n[FFFFFFFF]『交信術』です。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]交信術……？\n[FFFFFFFF]どうすれば\n[FFFFFFFF]いいのかしら……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]交信術……？\n[FFFFFFFF]どうすれば\n[FFFFFFFF]いいのかしら……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]全員で輪になって手をつなぎ、\n[FFFFFFFF]霊に語りかけるのです。\n[FFFFFFFF]何か情報が引き出せるかもしれません。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]全員で輪になって手をつなぎ、\n[FFFFFFFF]霊に語りかけるのです。\n[FFFFFFFF]何か情報が引き出せるかもしれません。"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]分かりましたぁ。\n[FFFFFFFF]輪になって、\n[FFFFFFFF]手を……\n[FFFFFFFF]ひゃんっ！？　\n[FFFFFFFF]ド、\n[FFFFFFFF]ドＳさん、\n[FFFFFFFF]いきなり手をつなぐなんてぇ！",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]分かりましたぁ。\n[FFFFFFFF]輪になって、\n[FFFFFFFF]手を……\n[FFFFFFFF]ひゃんっ！？　\n[FFFFFFFF]ド、\n[FFFFFFFF]ドＳさん、\n[FFFFFFFF]いきなり手をつなぐなんてぇ！"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]ク、\n[FFFFFFFF]クウカを驚かせて様子を楽しむとは……\n[FFFFFFFF]さすが人格破綻者ですぅ……！　\n[FFFFFFFF]うっかり弄ばれて、\n[FFFFFFFF]おかしな声をあげてしまいましたぁ……\n[FFFFFFFF]ぐふふぅ♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]ク、\n[FFFFFFFF]クウカを驚かせて様子を楽しむとは……\n[FFFFFFFF]さすが人格破綻者ですぅ……！　\n[FFFFFFFF]うっかり弄ばれて、\n[FFFFFFFF]おかしな声をあげてしまいましたぁ……\n[FFFFFFFF]ぐふふぅ♪"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]「おいおい、\n[FFFFFFFF]どうしてこんなになってるんだ？」\n[FFFFFFFF]……とでも言いたげですね！？\n[FFFFFFFF]ぐふふふ……\n[FFFFFFFF]なおさら\n[FFFFFFFF]手汗かいちゃいますぅ……♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]「おいおい、\n[FFFFFFFF]どうしてこんなになってるんだ？」\n[FFFFFFFF]……とでも言いたげですね！？\n[FFFFFFFF]ぐふふふ……\n[FFFFFFFF]なおさら\n[FFFFFFFF]手汗かいちゃいますぅ……♪"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ク、\n[FFFFFFFF]クウカさん、\n[FFFFFFFF]おかしな妄想をしていると\n[FFFFFFFF]意識を合わせられませんよ。\n[FFFFFFFF]むしろ\n[FFFFFFFF]私のほうに邪念が流れ込んで──",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ク、\n[FFFFFFFF]クウカさん、\n[FFFFFFFF]おかしな妄想をしていると\n[FFFFFFFF]意識を合わせられませんよ。\n[FFFFFFFF]むしろ\n[FFFFFFFF]私のほうに邪念が流れ込んで──"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]なっ……！？　\n[FFFFFFFF]ク、\n[FFFFFFFF]クウカさん……\n[FFFFFFFF]さすがに{0}さんは\n[FFFFFFFF]そんなことしないのでは……？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]なっ……！？　\n[FFFFFFFF]ク、\n[FFFFFFFF]クウカさん……\n[FFFFFFFF]さすがに{0}さんは\n[FFFFFFFF]そんなことしないのでは……？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]いえ、\n[FFFFFFFF]でも……\n[FFFFFFFF]なぜでしょう……\n[FFFFFFFF]クウカさんの意識が流れ込んで……\n[FFFFFFFF]あの人に\n[FFFFFFFF]ひどくしてもらいたい自分が……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]いえ、\n[FFFFFFFF]でも……\n[FFFFFFFF]なぜでしょう……\n[FFFFFFFF]クウカさんの意識が流れ込んで……\n[FFFFFFFF]あの人に\n[FFFFFFFF]ひどくしてもらいたい自分が……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]はっ！　\n[FFFFFFFF]き、\n[FFFFFFFF]気のせいです！\n[FFFFFFFF]それよりもみなさん、\n[FFFFFFFF]意識を合わせましょう……！\n[FFFFFFFF]協力して\n[FFFFFFFF]霊を呼ぶのです！",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]はっ！　\n[FFFFFFFF]き、\n[FFFFFFFF]気のせいです！\n[FFFFFFFF]それよりもみなさん、\n[FFFFFFFF]意識を合わせましょう……！\n[FFFFFFFF]協力して\n[FFFFFFFF]霊を呼ぶのです！"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]は、\n[FFFFFFFF]はいぃ、\n[FFFFFFFF]失礼しましたぁ……！\n[FFFFFFFF]集中、\n[FFFFFFFF]集中～……",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]は、\n[FFFFFFFF]はいぃ、\n[FFFFFFFF]失礼しましたぁ……！\n[FFFFFFFF]集中、\n[FFFFFFFF]集中～……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]……協、\n[FFFFFFFF]力……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]……協、\n[FFFFFFFF]力……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]あ……\n[FFFFFFFF]ううん。\n[FFFFFFFF]なんでも\n[FFFFFFFF]ないわ……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]あ……\n[FFFFFFFF]ううん。\n[FFFFFFFF]なんでも\n[FFFFFFFF]ないわ……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]……協力、\n[FFFFFFFF]ね。\n[FFFFFFFF]がんばらないと……\n[FFFFFFFF]みんなと、\n[FFFFFFFF]意識を\n[FFFFFFFF]合わせて……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]……協力、\n[FFFFFFFF]ね。\n[FFFFFFFF]がんばらないと……\n[FFFFFFFF]みんなと、\n[FFFFFFFF]意識を\n[FFFFFFFF]合わせて……"
+    },
+    {
+      "name": "二人",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]……い、\n[FFFFFFFF]意識を合わせるって……\n[FFFFFFFF]どうすれば\n[FFFFFFFF]いいのかしら……？\n[FFFFFFFF]と、\n[FFFFFFFF]というか\n[FFFFFFFF]その……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]……い、\n[FFFFFFFF]意識を合わせるって……\n[FFFFFFFF]どうすれば\n[FFFFFFFF]いいのかしら……？\n[FFFFFFFF]と、\n[FFFFFFFF]というか\n[FFFFFFFF]その……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]みんなと、\n[FFFFFFFF]協力する\n[FFFFFFFF]って……？　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]みんなと、\n[FFFFFFFF]協力する\n[FFFFFFFF]って……？　"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]……うーん。\n[FFFFFFFF]うまくいきませんね。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]……うーん。\n[FFFFFFFF]うまくいきませんね。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]あっ……！　\n[FFFFFFFF]ううぅ……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]あっ……！　\n[FFFFFFFF]ううぅ……"
+    },
+    {
+      "name": "ドクロ親父",
+      "text": "[FFFFFFFF]チッ！　\n[FFFFFFFF]失敗かよ～\n[FFFFFFFF]だからこういうまどろっこしいのは嫌いなんだ！",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "[FFFFFFFF]チッ！　\n[FFFFFFFF]失敗かよ～\n[FFFFFFFF]だからこういうまどろっこしいのは嫌いなんだ！"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]もう、\n[FFFFFFFF]お父さんは最初から参加してないでしょ。\n[FFFFFFFF]手もないし。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]もう、\n[FFFFFFFF]お父さんは最初から参加してないでしょ。\n[FFFFFFFF]手もないし。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ランファさん……？　\n[FFFFFFFF]どうかしましたか？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ランファさん……？　\n[FFFFFFFF]どうかしましたか？"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]もしかして\n[FFFFFFFF]疲れちゃいました～？　\n[FFFFFFFF]分かります～\n[FFFFFFFF]クウカも\n[FFFFFFFF]ドＳさんと手をつないでいたら、\n[FFFFFFFF]謎の動悸と息切れがぁ……\n[FFFFFFFF]ハア\n[FFFFFFFF]ハア……！",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]もしかして\n[FFFFFFFF]疲れちゃいました～？　\n[FFFFFFFF]分かります～\n[FFFFFFFF]クウカも\n[FFFFFFFF]ドＳさんと手をつないでいたら、\n[FFFFFFFF]謎の動悸と息切れがぁ……\n[FFFFFFFF]ハア\n[FFFFFFFF]ハア……！"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]動悸？　\n[FFFFFFFF]息切れ？\n[FFFFFFFF]だ、\n[FFFFFFFF]大丈夫ですか？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]動悸？　\n[FFFFFFFF]息切れ？\n[FFFFFFFF]だ、\n[FFFFFFFF]大丈夫ですか？"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]大丈夫ですぅ……\n[FFFFFFFF]たぶん。\n[FFFFFFFF]ハア\n[FFFFFFFF]ハア……♪",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]大丈夫ですぅ……\n[FFFFFFFF]たぶん。\n[FFFFFFFF]ハア\n[FFFFFFFF]ハア……♪"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]あまり大丈夫ではなさそうですね……\n[FFFFFFFF]今日はもう休みましょうか。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]あまり大丈夫ではなさそうですね……\n[FFFFFFFF]今日はもう休みましょうか。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ありがとうございます。\n[FFFFFFFF]では……\n[FFFFFFFF]宿泊部屋で、\n[FFFFFFFF]各々休むとしましょう。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ありがとうございます。\n[FFFFFFFF]では……\n[FFFFFFFF]宿泊部屋で、\n[FFFFFFFF]各々休むとしましょう。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]父とクウカさんは、\n[FFFFFFFF]先に隣の部屋で休むそうです。\n[FFFFFFFF]二人とも騒いだぶん、\n[FFFFFFFF]疲れたのでしょう。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]父とクウカさんは、\n[FFFFFFFF]先に隣の部屋で休むそうです。\n[FFFFFFFF]二人とも騒いだぶん、\n[FFFFFFFF]疲れたのでしょう。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]そ、\n[FFFFFFFF]そう……\n[FFFFFFFF]二人とも\n[FFFFFFFF]すごく、\n[FFFFFFFF]元気だったものね……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]そ、\n[FFFFFFFF]そう……\n[FFFFFFFF]二人とも\n[FFFFFFFF]すごく、\n[FFFFFFFF]元気だったものね……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ええ。\n[FFFFFFFF]見ているこちらが疲れるほどでしたね……\n[FFFFFFFF]ランファさんは大丈夫ですか？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ええ。\n[FFFFFFFF]見ているこちらが疲れるほどでしたね……\n[FFFFFFFF]ランファさんは大丈夫ですか？"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]え……？　\n[FFFFFFFF]わたし……？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]え……？　\n[FFFFFFFF]わたし……？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]はい。\n[FFFFFFFF]交信術の後から\n[FFFFFFFF]元気がないように見えたので、\n[FFFFFFFF]ずっと気になっていたのです。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]はい。\n[FFFFFFFF]交信術の後から\n[FFFFFFFF]元気がないように見えたので、\n[FFFFFFFF]ずっと気になっていたのです。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]ずっと、\n[FFFFFFFF]気に……？　\n[FFFFFFFF]うぅ……\n[FFFFFFFF]わ、\n[FFFFFFFF]わたしなんかのことを……\n[FFFFFFFF]ごめんなさい……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]ずっと、\n[FFFFFFFF]気に……？　\n[FFFFFFFF]うぅ……\n[FFFFFFFF]わ、\n[FFFFFFFF]わたしなんかのことを……\n[FFFFFFFF]ごめんなさい……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]え……？　\n[FFFFFFFF]なぜ、\n[FFFFFFFF]謝るのですか？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]え……？　\n[FFFFFFFF]なぜ、\n[FFFFFFFF]謝るのですか？"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]それは、\n[FFFFFFFF]その……\n[FFFFFFFF]気を遣わせて、\n[FFFFFFFF]しまったから……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]それは、\n[FFFFFFFF]その……\n[FFFFFFFF]気を遣わせて、\n[FFFFFFFF]しまったから……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]それに、\n[FFFFFFFF]さっきの術が\n[FFFFFFFF]失敗したのも……\n[FFFFFFFF]きっと\n[FFFFFFFF]わたしのせい\n[FFFFFFFF]だし……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]それに、\n[FFFFFFFF]さっきの術が\n[FFFFFFFF]失敗したのも……\n[FFFFFFFF]きっと\n[FFFFFFFF]わたしのせい\n[FFFFFFFF]だし……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]それは……\n[FFFFFFFF]どうでしょうか。\n[FFFFFFFF]霊のほうが術を拒絶したのかもしれませんし、\n[FFFFFFFF]ランファさんのせいだとは言い切れませんよ。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]それは……\n[FFFFFFFF]どうでしょうか。\n[FFFFFFFF]霊のほうが術を拒絶したのかもしれませんし、\n[FFFFFFFF]ランファさんのせいだとは言い切れませんよ。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]で、\n[FFFFFFFF]でも……\n[FFFFFFFF]わたし、\n[FFFFFFFF]みんなと\n[FFFFFFFF]気を合わせられて、\n[FFFFFFFF]なかったと\n[FFFFFFFF]思うわ……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]で、\n[FFFFFFFF]でも……\n[FFFFFFFF]わたし、\n[FFFFFFFF]みんなと\n[FFFFFFFF]気を合わせられて、\n[FFFFFFFF]なかったと\n[FFFFFFFF]思うわ……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]大勢で\n[FFFFFFFF]一緒に何かするの、\n[FFFFFFFF]慣れてなくて……\n[FFFFFFFF]協力とか、\n[FFFFFFFF]合わせるとか……\n[FFFFFFFF]全然、\n[FFFFFFFF]わからないの……\n[FFFFFFFF]だから、\n[FFFFFFFF]その……\n[FFFFFFFF]本当に\n[FFFFFFFF]ごめんなさい……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]大勢で\n[FFFFFFFF]一緒に何かするの、\n[FFFFFFFF]慣れてなくて……\n[FFFFFFFF]協力とか、\n[FFFFFFFF]合わせるとか……\n[FFFFFFFF]全然、\n[FFFFFFFF]わからないの……\n[FFFFFFFF]だから、\n[FFFFFFFF]その……\n[FFFFFFFF]本当に\n[FFFFFFFF]ごめんなさい……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]なるほど。\n[FFFFFFFF]そういうことでしたか。\n[FFFFFFFF]慣れない集団行動で、\n[FFFFFFFF]緊張されていたのですね。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]なるほど。\n[FFFFFFFF]そういうことでしたか。\n[FFFFFFFF]慣れない集団行動で、\n[FFFFFFFF]緊張されていたのですね。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]その気持ちは……\n[FFFFFFFF]分かります。\n[FFFFFFFF]私も\n[FFFFFFFF]得意なほうではありませんから。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]その気持ちは……\n[FFFFFFFF]分かります。\n[FFFFFFFF]私も\n[FFFFFFFF]得意なほうではありませんから。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]そ、\n[FFFFFFFF]そうなの……？　\n[FFFFFFFF]意外だわ……\n[FFFFFFFF]あなたは\n[FFFFFFFF]いつも落ち着いてて、\n[FFFFFFFF]堂々と\n[FFFFFFFF]して見えるし……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]そ、\n[FFFFFFFF]そうなの……？　\n[FFFFFFFF]意外だわ……\n[FFFFFFFF]あなたは\n[FFFFFFFF]いつも落ち着いてて、\n[FFFFFFFF]堂々と\n[FFFFFFFF]して見えるし……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ふふふ。\n[FFFFFFFF]たしかに年の割に大人びているとは言われます。\n[FFFFFFFF]昔から、\n[FFFFFFFF]父や幽霊のみなさんなど\n[FFFFFFFF]年長者に囲まれて育ったからでしょうね。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ふふふ。\n[FFFFFFFF]たしかに年の割に大人びているとは言われます。\n[FFFFFFFF]昔から、\n[FFFFFFFF]父や幽霊のみなさんなど\n[FFFFFFFF]年長者に囲まれて育ったからでしょうね。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ですがそのぶん、\n[FFFFFFFF]同年代の知り合いがいなかったんです。\n[FFFFFFFF]いざ接する機会があっても、\n[FFFFFFFF]何を話していいのか、\n[FFFFFFFF]分からなくて……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ですがそのぶん、\n[FFFFFFFF]同年代の知り合いがいなかったんです。\n[FFFFFFFF]いざ接する機会があっても、\n[FFFFFFFF]何を話していいのか、\n[FFFFFFFF]分からなくて……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]それでも今のギルドに身を置くうちに\n[FFFFFFFF]だいぶ慣れてきたと思います。\n[FFFFFFFF]ですからランファさんも、\n[FFFFFFFF]そのうち慣れますよ。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]それでも今のギルドに身を置くうちに\n[FFFFFFFF]だいぶ慣れてきたと思います。\n[FFFFFFFF]ですからランファさんも、\n[FFFFFFFF]そのうち慣れますよ。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]慣れる……？　\n[FFFFFFFF]本当に？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]慣れる……？　\n[FFFFFFFF]本当に？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]はい、\n[FFFFFFFF]きっと。\n[FFFFFFFF]もし困ることがあったら\n[FFFFFFFF]私を頼ってください。\n[FFFFFFFF]あなたの気持ちは、\n[FFFFFFFF]よく分かりますから。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]はい、\n[FFFFFFFF]きっと。\n[FFFFFFFF]もし困ることがあったら\n[FFFFFFFF]私を頼ってください。\n[FFFFFFFF]あなたの気持ちは、\n[FFFFFFFF]よく分かりますから。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]いつでもランファさんの力になりますよ。\n[FFFFFFFF]……ね？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]いつでもランファさんの力になりますよ。\n[FFFFFFFF]……ね？"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]……っ！\n[FFFFFFFF]そ、\n[FFFFFFFF]その……\n[FFFFFFFF]あ……\n[FFFFFFFF]ありがとう……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]……っ！\n[FFFFFFFF]そ、\n[FFFFFFFF]その……\n[FFFFFFFF]あ……\n[FFFFFFFF]ありがとう……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]う、\n[FFFFFFFF]うまくできるか……\n[FFFFFFFF]わからないけど……\n[FFFFFFFF]そう言ってもらえると、\n[FFFFFFFF]うれしいわ……\n[FFFFFFFF]もう少し……\n[FFFFFFFF]がんばってみる、\n[FFFFFFFF]わね……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]う、\n[FFFFFFFF]うまくできるか……\n[FFFFFFFF]わからないけど……\n[FFFFFFFF]そう言ってもらえると、\n[FFFFFFFF]うれしいわ……\n[FFFFFFFF]もう少し……\n[FFFFFFFF]がんばってみる、\n[FFFFFFFF]わね……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]その……\n[FFFFFFFF]シノブ、\n[FFFFFFFF]ちゃん？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]その……\n[FFFFFFFF]シノブ、\n[FFFFFFFF]ちゃん？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]はい、\n[FFFFFFFF]ランファさん。\n[FFFFFFFF]改めて、\n[FFFFFFFF]一緒に頑張りましょうね。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]はい、\n[FFFFFFFF]ランファさん。\n[FFFFFFFF]改めて、\n[FFFFFFFF]一緒に頑張りましょうね。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]……おや？\n[FFFFFFFF]何でしょう？　\n[FFFFFFFF]部屋が揺れて──",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]……おや？\n[FFFFFFFF]何でしょう？　\n[FFFFFFFF]部屋が揺れて──"
+    },
+    {
+      "name": "二人",
+      "text": "[FFFFFFFF]っ！？",
+      "choice_data_list": [],
+      "orig_name": "二人",
+      "orig_text": "[FFFFFFFF]っ！？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]部屋のランタンが……\n[FFFFFFFF]割れた！？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]部屋のランタンが……\n[FFFFFFFF]割れた！？"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]うぅ……！　\n[FFFFFFFF]真っ暗、\n[FFFFFFFF]よ……！",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]うぅ……！　\n[FFFFFFFF]真っ暗、\n[FFFFFFFF]よ……！"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]っ？　\n[FFFFFFFF]この音……\n[FFFFFFFF]ドアから？\n[FFFFFFFF]誰かが、\n[FFFFFFFF]隣の部屋の\n[FFFFFFFF]ドアノブを、\n[FFFFFFFF]回してる……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]っ？　\n[FFFFFFFF]この音……\n[FFFFFFFF]ドアから？\n[FFFFFFFF]誰かが、\n[FFFFFFFF]隣の部屋の\n[FFFFFFFF]ドアノブを、\n[FFFFFFFF]回してる……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]と、\n[FFFFFFFF]隣の部屋……？\n[FFFFFFFF]クウカさん、\n[FFFFFFFF]お父さん！　\n[FFFFFFFF]どうしたんですか！？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]と、\n[FFFFFFFF]隣の部屋……？\n[FFFFFFFF]クウカさん、\n[FFFFFFFF]お父さん！　\n[FFFFFFFF]どうしたんですか！？"
+    },
+    {
+      "name": "？？？",
+      "text": "[FFFFFFFF]………………",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "[FFFFFFFF]………………"
+    },
+    {
+      "name": "？？？",
+      "text": "[FFFFFFFF]……オオオオオオ……",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "[FFFFFFFF]……オオオオオオ……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]え？　\n[FFFFFFFF]そ、\n[FFFFFFFF]そんな……\n[FFFFFFFF]二人は……？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]え？　\n[FFFFFFFF]そ、\n[FFFFFFFF]そんな……\n[FFFFFFFF]二人は……？"
+    },
+    {
+      "name": "クウカの声",
+      "text": "[FFFFFFFF]ドＳ、\n[FFFFFFFF]さん……\n[FFFFFFFF]たすけて、\n[FFFFFFFF]くだ\n[FFFFFFFF]さ……",
+      "choice_data_list": [],
+      "orig_name": "クウカの声",
+      "orig_text": "[FFFFFFFF]ドＳ、\n[FFFFFFFF]さん……\n[FFFFFFFF]たすけて、\n[FFFFFFFF]くだ\n[FFFFFFFF]さ……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]！！　\n[FFFFFFFF]クウカ、\n[FFFFFFFF]ちゃん……！？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]！！　\n[FFFFFFFF]クウカ、\n[FFFFFFFF]ちゃん……！？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]くっ……！\n[FFFFFFFF]すぐにクウカさんたちを助けましょう！",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]くっ……！\n[FFFFFFFF]すぐにクウカさんたちを助けましょう！"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ドアを……\n[FFFFFFFF]開けますよ！",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ドアを……\n[FFFFFFFF]開けますよ！"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]…………っ！",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]…………っ！"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]……？\n[FFFFFFFF]何も、\n[FFFFFFFF]出てこないわ……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]……？\n[FFFFFFFF]何も、\n[FFFFFFFF]出てこないわ……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]霊には逃げられましたか……\n[FFFFFFFF]それよりも、\n[FFFFFFFF]二人は──",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]霊には逃げられましたか……\n[FFFFFFFF]それよりも、\n[FFFFFFFF]二人は──"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]きゃ……！？",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]きゃ……！？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]え、\n[FFFFFFFF]ええ……\n[FFFFFFFF]ありがとうございます。\n[FFFFFFFF]何かに躓いたようで……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]え、\n[FFFFFFFF]ええ……\n[FFFFFFFF]ありがとうございます。\n[FFFFFFFF]何かに躓いたようで……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]──っ！！\n[FFFFFFFF]これは……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]──っ！！\n[FFFFFFFF]これは……"
+    },
+    {
+      "name": "クウカ",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "クウカ",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ドクロ親父",
+      "text": "[FFFFFFFF]…………",
+      "choice_data_list": [],
+      "orig_name": "ドクロ親父",
+      "orig_text": "[FFFFFFFF]…………"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]ふ、\n[FFFFFFFF]二人とも……？　\n[FFFFFFFF]大丈夫、\n[FFFFFFFF]なの？\n[FFFFFFFF]縄に絡まって、\n[FFFFFFFF]倒れているけど……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]ふ、\n[FFFFFFFF]二人とも……？　\n[FFFFFFFF]大丈夫、\n[FFFFFFFF]なの？\n[FFFFFFFF]縄に絡まって、\n[FFFFFFFF]倒れているけど……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ええ。\n[FFFFFFFF]なんでしょう、\n[FFFFFFFF]この縄……？\n[FFFFFFFF]……\n[FFFFFFFF]いえ。\n[FFFFFFFF]それより今は状態の確認が先ですね。\n[FFFFFFFF]息は……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ええ。\n[FFFFFFFF]なんでしょう、\n[FFFFFFFF]この縄……？\n[FFFFFFFF]……\n[FFFFFFFF]いえ。\n[FFFFFFFF]それより今は状態の確認が先ですね。\n[FFFFFFFF]息は……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]………………",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]………………"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]……してない、\n[FFFFFFFF]です。\n[FFFFFFFF]息……\n[FFFFFFFF]二人とも……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]……してない、\n[FFFFFFFF]です。\n[FFFFFFFF]息……\n[FFFFFFFF]二人とも……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]えっ……？　\n[FFFFFFFF]じゃ、\n[FFFFFFFF]じゃあ……\n[FFFFFFFF]……死んでる、\n[FFFFFFFF]の？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]えっ……？　\n[FFFFFFFF]じゃ、\n[FFFFFFFF]じゃあ……\n[FFFFFFFF]……死んでる、\n[FFFFFFFF]の？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]い、\n[FFFFFFFF]いえ。\n[FFFFFFFF]かすかに魂の残り火を感じます。\n[FFFFFFFF]仮死状態……\n[FFFFFFFF]というものでしょうか。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]い、\n[FFFFFFFF]いえ。\n[FFFFFFFF]かすかに魂の残り火を感じます。\n[FFFFFFFF]仮死状態……\n[FFFFFFFF]というものでしょうか。"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]仮死状態……？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]仮死状態……？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]おそらくですが……\n[FFFFFFFF]先ほどまで、\n[FFFFFFFF]例の悪霊が\n[FFFFFFFF]この部屋にいたのでしょう。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]おそらくですが……\n[FFFFFFFF]先ほどまで、\n[FFFFFFFF]例の悪霊が\n[FFFFFFFF]この部屋にいたのでしょう。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]クウカさんと父は襲撃され、\n[FFFFFFFF]魂を囚われてしまったのだと思います……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]クウカさんと父は襲撃され、\n[FFFFFFFF]魂を囚われてしまったのだと思います……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]そんな……\n[FFFFFFFF]助けて、\n[FFFFFFFF]あげられないの……？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]そんな……\n[FFFFFFFF]助けて、\n[FFFFFFFF]あげられないの……？"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]霊を祓って\n[FFFFFFFF]魂を取り戻せば、\n[FFFFFFFF]もとに戻ると思います……\n[FFFFFFFF]ただ、\n[FFFFFFFF]その……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]霊を祓って\n[FFFFFFFF]魂を取り戻せば、\n[FFFFFFFF]もとに戻ると思います……\n[FFFFFFFF]ただ、\n[FFFFFFFF]その……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]……父はああ見えて、\n[FFFFFFFF]私よりも力のある霊能者です。\n[FFFFFFFF]その父が、\n[FFFFFFFF]こんな簡単に倒されてしまうなんて……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]……父はああ見えて、\n[FFFFFFFF]私よりも力のある霊能者です。\n[FFFFFFFF]その父が、\n[FFFFFFFF]こんな簡単に倒されてしまうなんて……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]相当強い悪霊の仕業です。\n[FFFFFFFF]父無しで除霊できるか、\n[FFFFFFFF]分かりません……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]相当強い悪霊の仕業です。\n[FFFFFFFF]父無しで除霊できるか、\n[FFFFFFFF]分かりません……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]シノブ、\n[FFFFFFFF]ちゃん……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]シノブ、\n[FFFFFFFF]ちゃん……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]{0}さん……\n[FFFFFFFF]で、\n[FFFFFFFF]ですが……\n[FFFFFFFF]本当に倒せるのか……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]{0}さん……\n[FFFFFFFF]で、\n[FFFFFFFF]ですが……\n[FFFFFFFF]本当に倒せるのか……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]あ、\n[FFFFFFFF]あの……\n[FFFFFFFF]シノブちゃん。\n[FFFFFFFF]わたしも、\n[FFFFFFFF]協力……\n[FFFFFFFF]するわ……？",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]あ、\n[FFFFFFFF]あの……\n[FFFFFFFF]シノブちゃん。\n[FFFFFFFF]わたしも、\n[FFFFFFFF]協力……\n[FFFFFFFF]するわ……？"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]さっき……\n[FFFFFFFF]諦めそうに\n[FFFFFFFF]なっていたの……\n[FFFFFFFF]でも、\n[FFFFFFFF]シノブちゃんが\n[FFFFFFFF]励ましてくれたから……\n[FFFFFFFF]わたしも\n[FFFFFFFF]がんばろうって、\n[FFFFFFFF]思えた……\n[FFFFFFFF]だから……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]さっき……\n[FFFFFFFF]諦めそうに\n[FFFFFFFF]なっていたの……\n[FFFFFFFF]でも、\n[FFFFFFFF]シノブちゃんが\n[FFFFFFFF]励ましてくれたから……\n[FFFFFFFF]わたしも\n[FFFFFFFF]がんばろうって、\n[FFFFFFFF]思えた……\n[FFFFFFFF]だから……"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]わ、\n[FFFFFFFF]わたし……\n[FFFFFFFF]全力で\n[FFFFFFFF]がんばります……\n[FFFFFFFF]この施設の悪霊を、\n[FFFFFFFF]除霊してみせる……\n[FFFFFFFF]シノブちゃんと\n[FFFFFFFF]一緒に……！",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]わ、\n[FFFFFFFF]わたし……\n[FFFFFFFF]全力で\n[FFFFFFFF]がんばります……\n[FFFFFFFF]この施設の悪霊を、\n[FFFFFFFF]除霊してみせる……\n[FFFFFFFF]シノブちゃんと\n[FFFFFFFF]一緒に……！"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ランファさん……",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ランファさん……"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]……そう、\n[FFFFFFFF]ですね。\n[FFFFFFFF]すみません。\n[FFFFFFFF]つい怖気づいてしまいました。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]……そう、\n[FFFFFFFF]ですね。\n[FFFFFFFF]すみません。\n[FFFFFFFF]つい怖気づいてしまいました。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]急ぎましょう。\n[FFFFFFFF]二人とも、\n[FFFFFFFF]まだ助けられますが、\n[FFFFFFFF]時が経つほどに肉体と魂は離れていきます。\n[FFFFFFFF]最後には……\n[FFFFFFFF]本当に死んでしまうかと。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]急ぎましょう。\n[FFFFFFFF]二人とも、\n[FFFFFFFF]まだ助けられますが、\n[FFFFFFFF]時が経つほどに肉体と魂は離れていきます。\n[FFFFFFFF]最後には……\n[FFFFFFFF]本当に死んでしまうかと。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]ええ、\n[FFFFFFFF]もちろんです……！\n[FFFFFFFF]悪霊の思い通りにはさせません。",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]ええ、\n[FFFFFFFF]もちろんです……！\n[FFFFFFFF]悪霊の思い通りにはさせません。"
+    },
+    {
+      "name": "シノブ",
+      "text": "[FFFFFFFF]この施設のどこかにいる悪霊を除霊して、\n[FFFFFFFF]父とクウカさんの魂を取り戻しましょう！",
+      "choice_data_list": [],
+      "orig_name": "シノブ",
+      "orig_text": "[FFFFFFFF]この施設のどこかにいる悪霊を除霊して、\n[FFFFFFFF]父とクウカさんの魂を取り戻しましょう！"
+    },
+    {
+      "name": "ランファ",
+      "text": "[FFFFFFFF]ええ……\n[FFFFFFFF]一緒に\n[FFFFFFFF]がんばりましょう、\n[FFFFFFFF]ね……\n[FFFFFFFF]シノブちゃん……\n[FFFFFFFF]{0}くんも……！",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "[FFFFFFFF]ええ……\n[FFFFFFFF]一緒に\n[FFFFFFFF]がんばりましょう、\n[FFFFFFFF]ね……\n[FFFFFFFF]シノブちゃん……\n[FFFFFFFF]{0}くんも……！"
+    },
+    {
+      "name": "ナレーション",
+      "text": "[FFFFFFFF]依頼開始初日、ドクロ親父とクウカの魂を奪われてしまった\n[FFFFFFFF]{0}たち。\n[FFFFFFFF]果たして悪霊を見つけ、\n[FFFFFFFF]二人を助けることはできるのだろうか……？",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "[FFFFFFFF]依頼開始初日、ドクロ親父とクウカの魂を奪われてしまった\n[FFFFFFFF]{0}たち。\n[FFFFFFFF]果たして悪霊を見つけ、\n[FFFFFFFF]二人を助けることはできるのだろうか……？"
+    }
+  ]
+}

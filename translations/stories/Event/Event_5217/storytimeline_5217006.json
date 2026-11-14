@@ -1,0 +1,621 @@
+{
+  "title": "Rebirth",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Finally, the three members of Alter Maiden have been reunited after countless ordeals. As they proceed through the wormhole with {0}, they explain the ongoing situation to Quria, who has just woken up.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ようやく、\n久しぶりに３人揃った【アルターメイデン】。\n{0}と共にワームホールを進みながら、\n目覚めたばかりのクリアに状況を説明する。"
+    },
+    {
+      "name": "Quria",
+      "text": "...Umm, so then. This Yatogami person is trying to gain the power to fight Vision Empress. And if his plan were to succeed... the souls of the Lost will be sacrificed as a result?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "──えっと、\nそれじゃあ。\nそのヤトガミさんっていう人が、\n幻境竜后と戦う力を得ようとしてて。\nそれが成功しちゃうと、\nロストした人たちの魂が犠牲に……？"
+    },
+    {
+      "name": "Riri",
+      "text": "Correct. I myself only just experienced a fragment of it through the Shadows... but it was excruciating. If one continues to be exposed to it, then even if they were to return to \"reality\"... the result would likely be total mental collapse.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "はい。\nわたくしも先ほど、\nシャドウを通じてその一端を浴びましたが……\n非常に苦しいものでした。\n浴び続ければ、\n現実に戻れても、\n廃人化してしまうことになると……"
+    },
+    {
+      "name": "Precia",
+      "text": "Minus emotions. Energy. Surroundings. Influence.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "まいなす、\nかんじょう。\nえねるぎー\nまわりに。\nえいきょう。"
+    },
+    {
+      "name": "Precia",
+      "text": "All Lost souls. Including Papa's. Are in a pinch.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ろすとした、\nみんなも。\nパパも。\nたましい。\nぴんち。"
+    },
+    {
+      "name": "Quria",
+      "text": "...The deepest part of the Obsidian Palace, where the souls of the Lost players reside. If that's the case, then what lies ahead is...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……ロストしたプレイヤーの魂が集まる、\n『黒曜宮』の一番奥。\nだとしたら、\nこの先が──"
+    },
+    {
+      "name": "Riri",
+      "text": "Our ultimate goal. At last... we have made it.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "──わたくしたちの、\n目的。\nついに……\nなのですね。"
+    },
+    {
+      "name": "Precia",
+      "text": "Mm. Every single Lost. We'll save them.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ん。\nろすとしたみんな。\nたすける。"
+    },
+    {
+      "name": "Precia",
+      "text": "Tia...?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "てぃあ？"
+    },
+    {
+      "name": "Quria",
+      "text": "Yet another acquaintance that also happens to be a girl, Onii-san?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……また新しい女の子のお知り合いですか？　\nお兄さん。"
+    },
+    {
+      "name": "Riri",
+      "text": "Lea-san, you sounded just like Lady Kokkoro... Ah, um... I also happen to be curious, though...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "リアさん、\nまるでコッコロ様のような……\nあ、\nその。\nわたくしも、\n気になりますが……"
+    },
+    {
+      "name": "Precia",
+      "text": "...I see. The \"Perception Correction\" program... personified?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……なる。\n『にんしきのしゅうせい』\nぎじんか？　\nぷろぐらむ。"
+    },
+    {
+      "name": "Quria",
+      "text": "So a being just like Croce-san or Nebbia-san... I guess that means she's an AI? And she has been \"correcting\" things to prevent the current world from collapsing.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "クローチェさんやネビアさんみたいな、\nＡＩのひと……\nってことでしょうか。\n今の世界が壊れちゃわないように、\n『修正』してくれてたんですね。"
+    },
+    {
+      "name": "Riri",
+      "text": "In that case, even though we may have never met, she is practically one of our allies. We most certainly will save her.",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ならば、\n面識はなくとも\nわたくしたちの仲間も同然です。\n必ず、\nお助けしましょう。"
+    },
+    {
+      "name": "Precia",
+      "text": "Tia. What kind of girl. Is she?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "てぃあ。\nどんなこ？"
+    },
+    {
+      "name": "Riri",
+      "text": "It seems as if this is the end of our path...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ここが、\n終点のようですが……"
+    },
+    {
+      "name": "Precia",
+      "text": "It's inverted. Strange.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "さかさま。\nへんてこ。"
+    },
+    {
+      "name": "Quria",
+      "text": "The water pooling at my feet is frozen... No. It seems like it is in a state of \"freeze\". It doesn't look like I'd sink if I stepped on it.",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "足元に溜まった水が、\n凍って……\nいいえ。\n『フリーズ』しちゃってるみたいですね。\n踏んでも、\n沈むことはないみたいです。"
+    },
+    {
+      "name": "Precia",
+      "text": "*Sniff, sniff*... This smell. A bad person.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……\nわるいひと。\nにおい。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "...That's quite the evaluation. Certainly, from your perspective, I may not be \"justice\".",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……随分な言われようだな。\n確かにお前たちからすれば、\n俺は『正義』ではないかもしれないが。"
+    },
+    {
+      "name": "Riri",
+      "text": "Lord Yatogami...!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ヤトガミ様……！"
+    },
+    {
+      "name": "Yatogami",
+      "text": "...I guess I'll take a small victory in knowing I don't smell like an old man. And...",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……オジサン臭いと言われなかっただけ、\nマシと思うとするか。\nそして──"
+    },
+    {
+      "name": "Yatogami",
+      "text": "...Good grief. In the end, you still showed up... with two more people alongside you.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……やれやれ。\n結局二人増やしただけで乗り込んでくるとはな。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "Sorry, but that's not an option. \nAfter all, this \"[rub:Being]perception correction program[/rub]\" is something I'll need after defeating Vision Empress and the lot of you.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "悪いが、\nそうもいかん。\n『[rub:こいつ]認識の修正[/rub]』は、\n幻境竜后や\nお前たちを倒したあと\n必要になるモノだからな。"
+    },
+    {
+      "name": "Quria",
+      "text": "Including Tia-san... release the souls of the Lost you've taken prisoner right away! There's no need to involve them in something like this...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "ティアさんもですけど……\nロストした人々の魂を、\n解放してあげてください！\nこんなことに巻き込む必要、\nないはずです……！"
+    },
+    {
+      "name": "Yatogami",
+      "text": "Unfortunately, there IS a need. Their purpose is, well... to act as hostages against those in power back in \"reality\".",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "残念ながら大いにある。\n彼らの用途は、\nそうだな──\n『現実』の権力者に対しての人質、\nといったところだ。"
+    },
+    {
+      "name": "Precia",
+      "text": "I knew it. You're a bad person.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "やっぱり。\nわるいひと。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "...Sure. I guess I am.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……ああ。\nそれでいい。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "I recognize that negotiations have long since broken down. Well then... shall we test this power out?",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "交渉はとうに決裂したと認識している。\nでは──\n試し斬りといくか。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "\"Yato-no-Kami: First Sword\".",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "『夜刀之神──、\n一の太刀』。"
+    },
+    {
+      "name": "みんな",
+      "text": "！！！！",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "！！！！"
+    },
+    {
+      "name": "Quria",
+      "text": "...M-My shield... It basically got turned into a piece of paper...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……わ、\nわたしの盾が……\n紙切れみたいに……"
+    },
+    {
+      "name": "Riri",
+      "text": "What an incredible... blow... No. It was more like being hit by countless slashes simultaneously...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "……なんという、\n一撃……\nいえ。\n無数の斬撃を、\n同時に叩き込まれたような……"
+    },
+    {
+      "name": "Precia",
+      "text": "Pshoo...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ぷしゅう……"
+    },
+    {
+      "name": "Yatogami",
+      "text": "This technique's purpose is to strip the scales from a gigantic alien dragon and take its head. A human being wouldn't stand a chance against it.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "巨大な異星の竜の鱗を剥ぎ、\n首級を獲るための技だ。\n人の身で受ければ、\nひとたまりもなかろうよ。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "That said... Hmph. It's difficult to find the right balance. I can't just cut this whole space in two, can I?",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "だが……\nフン。\n加減が難しいな。\nこの空間ごと、\n両断する訳にもいかんしな。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "I'd like to try it a few times to get the hang of it, but... If I keep attacking like this, it won't even count as practice.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "何度かやって、\n感覚を掴みたいところだが。\nそんな様では、\n練習にもならんではないか。"
+    },
+    {
+      "name": "Quria",
+      "text": "H-He's just... way too strong...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "つ……\nつよすぎ、\nです……"
+    },
+    {
+      "name": "Riri",
+      "text": "Even if we were to use our Shadow Split... or [rub:Rampage]Self-Destruction[/rub]... I fail to believe that we would stand a chance...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "シャドウ・スプリットや、\n[rub:ランページ]自爆技[/rub]を使ったとしても……\n太刀打ちできるとは……\n思えません……"
+    },
+    {
+      "name": "Riri",
+      "text": "Even... so...!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "です、\nがっ……"
+    },
+    {
+      "name": "Precia",
+      "text": "...Not yet. We will not. Give up!",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……まだ。\nあきらめない、\nよ……！"
+    },
+    {
+      "name": "Yatogami",
+      "text": "...Hoo?",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……ホウ？"
+    },
+    {
+      "name": "Yatogami",
+      "text": "Second Sword: Snake Disintegration",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "『二の太刀──\n蛇崩』。"
+    },
+    {
+      "name": "Quria",
+      "text": "...May you heal...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……癒しあれ……！"
+    },
+    {
+      "name": "Yatogami",
+      "text": "I see now. An impressive user of healing magic, far surpassing my very own \"Fast Regen\".",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "成程な。\n即時再生も顔負けの、\nすばらしい回復魔法の使い手だ。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "If I don't cut off your head with one stroke, we'll just go around in circles. Practically a cheat-like being. I don't like that one bit... but.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "一太刀で首を刎ねねば、\n堂々巡りか。\nまるでチートだな。\n気に食わん……\nが。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "If I'm going to say that... I should include myself in the target of my scorn.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……それを言うなら。\n今は、\n俺の方こそ、\nか……"
+    },
+    {
+      "name": "Riri",
+      "text": "...A slash of unparalleled power, fueled by the negative emotions accumulated during repeated loops. What can we do...?",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "……周回で蓄積された負の感情を源とする、\n強力無比の斬撃。\nいったい、\nどうすれば……"
+    },
+    {
+      "name": "Precia",
+      "text": "Minus. Emotions. In that case...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "まいなす、\nかんじょう。\nなら。"
+    },
+    {
+      "name": "Precia",
+      "text": "...Plus. Where?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "……ぷらす。\nどこ？"
+    },
+    {
+      "name": "Quria",
+      "text": "...! T-That makes sense...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……！\nた、\nたしかに……"
+    },
+    {
+      "name": "Riri",
+      "text": "No matter how strong the sorrow and resentment may be even at the end of the world, the human heart is surely more than just that...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "世界が終わる際の哀惜や、\n怨恨がいかに強くとも。\n人の心は、\nそれだけではないはず……"
+    },
+    {
+      "name": "Quria",
+      "text": "...Yes. We've had our own share of struggles...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "……はい。\nわたしたちも、\nたくさん苦しい思いを、\nしましたけど……"
+    },
+    {
+      "name": "Precia",
+      "text": "But also. Fun things. Many.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "たのしいこと。\nいっぱい。\nあったね。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "...That's a childish, naive way of thinking. The instinct to survive becomes strongest when one is cornered. Happiness as sweet as sugar either leads to decay... or simply fades away like mist.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……子供らしい甘えた考えだ。\n生存の本能は、\n追い詰められた時にこそ強く働く。\n砂糖菓子のような幸せは堕落を招くか、\n淡く霧散するだけだ。"
+    },
+    {
+      "name": "Quria",
+      "text": "There's no way you'd know...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "そんなこと、\nわかりませんっ……！"
+    },
+    {
+      "name": "Precia",
+      "text": "Let's try. Call out to them!",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "よびかけ。\nしてみよ。"
+    },
+    {
+      "name": "Riri",
+      "text": "Yes...! This is the closest place to where the souls of the Lost players reside... perhaps our voices can reach them here...!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "はい……！\nロストしたプレイヤーの方々と、\n最も近いこの場ならば……\nわたくしたちの声も、\n届くかもしれません……！"
+    },
+    {
+      "name": "Yatogami",
+      "text": "An impossible goal. Besides... I won't let you call out even once.",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "不可能だ。\nそれに──\n呼びかけもさせんよ。"
+    },
+    {
+      "name": "Yatogami",
+      "text": "I'll slit those slender throats of yours. \"Third Strike: Black Rainbow Piercing Moon\".",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "その細い喉首、\n掻ききってやる。\n『三の太刀──\n黒虹貫月』。"
+    },
+    {
+      "name": "Everyone",
+      "text": "!!!",
+      "choice_data_list": [],
+      "orig_name": "みんな",
+      "orig_text": "──っ！！！"
+    },
+    {
+      "name": "Riri",
+      "text": "This... is...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "こ、\nれはっ……"
+    },
+    {
+      "name": "Precia",
+      "text": "No good... I can't move...",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "だ、\nめ……\nとどか、\nないっ……"
+    },
+    {
+      "name": "Quria",
+      "text": "I... no longer... have the strength to heal everyone...",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "もう……\nみんなを、\n回復する力もっ……"
+    },
+    {
+      "name": "Riri",
+      "text": "Even so...",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "──ですが……"
+    },
+    {
+      "name": "リリ",
+      "text": "ですが……！\nたとえ、\n進退窮まる状況だとしても！\nわたくしたちは、\n絶対に……！　",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ですが……！\nたとえ、\n進退窮まる状況だとしても！\nわたくしたちは、\n絶対に……！　"
+    },
+    {
+      "name": "クリア",
+      "text": "もう二度と、\n過ちは繰り返しません！\nだから……！　",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "もう二度と、\n過ちは繰り返しません！\nだから……！　"
+    },
+    {
+      "name": "プレシア",
+      "text": "どうなっても──\nみんなを──\nたすける……！！　",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "どうなっても──\nみんなを──\nたすける……！！　"
+    },
+    {
+      "name": "Riri",
+      "text": "Eh~",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "え──"
+    },
+    {
+      "name": "Quria",
+      "text": "T-This is...!?",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "こ、\nこれって……！？"
+    },
+    {
+      "name": "Precia",
+      "text": "White... wings?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "しろい。\nはね？"
+    },
+    {
+      "name": "Neneka",
+      "text": "You endured well, Alter Maiden. Thanks to you, we managed to [rub:Release]implement[/rub] it just in time.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『──よく耐えましたね、\n【アルターメイデン】。\nおかげでどうにか、\n[rub:リリース]実装[/rub]が間に合いました』"
+    },
+    {
+      "name": "Riri",
+      "text": "Lady Neneka?!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "ネネカ様っ！？"
+    },
+    {
+      "name": "Quria",
+      "text": "So then... this is your doing, Neneka-san?!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "じゃあこれって、\nネネカさんが……！？"
+    },
+    {
+      "name": "Neneka",
+      "text": "\"That form is something I designed, made possible with resources provided by a certain collaborator. A new job specifically crafted for you three... let us call it \"Valkyrie\".",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『その姿は、\n私がデザインし、\nある協力者からのリソース提供で成立した\n貴方たち専用の新たな職業──……\n“ヴァルキュリア”とでも呼びましょうか』"
+    },
+    {
+      "name": "Precia",
+      "text": "Val... kyrie?",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ばる。\nきり？"
+    },
+    {
+      "name": "Neneka",
+      "text": "In the Old Edda, they acted as guides for the souls of the departed: transforming the desire for salvation, the wish to save others, into a force of purity.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『古エッダにおける、\n魂を導くもの。\n救済を求める願いを、\n他者を救いたいと願う心を、\n清浄の力へと転化する──』"
+    },
+    {
+      "name": "Neneka",
+      "text": "I am certain this is a fitting guise for you three, who wish to save the Lost more than anyone else.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『ロストしたプレイヤーの救済を誰より願う貴方たちに、\n相応しいものでしょう』"
+    },
+    {
+      "name": "Yatogami",
+      "text": "Metamorph Monarch... Curse you! Yet again...!",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "……変貌大妃。\nおのれ、\nまたしても……！"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Director Yatogami. I cannot help but acknowledge your attitude as an adult, as you strive for the justice you believe in while accepting both heroism and villainy. However...",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『……八斗神局長。\n清濁併せ呑みながら、\n己の信じる正義に邁進するその姿勢は\n大人として、\n認めてあげなくもありません。\n……ですが──』"
+    },
+    {
+      "name": "Neneka",
+      "text": "...Innocent hands stained with darkness. Wounded, suffering, lamenting, struggling to the very end, yet still trying to move forward without extinguishing the light in their eyes... such a glorious spirit is what I strive to emulate.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『……無垢の手を闇に染め。\n傷つき\n苦しみ\n嘆いて、\nもがき抜いて尚、\n瞳の光を消さず進もうとする──\nそんな輝かしい精神こそ、\n私は模倣したい』"
+    },
+    {
+      "name": "Neneka",
+      "text": "Therefore, I support them. Please do not officially file a complaint that this is favoritism.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『というわけで。\n私は彼女たちを支持します。\n贔屓だと、\n公式に苦情を入れないように』"
+    },
+    {
+      "name": "Yatogami",
+      "text": "YOU BASTARD...!",
+      "choice_data_list": [],
+      "orig_name": "ヤトガミ",
+      "orig_text": "貴様っ……！"
+    },
+    {
+      "name": "Neneka",
+      "text": "Now then... let this playtest begin, Alter Maiden. I forbid you from being defeated by an old-timer like him.",
+      "choice_data_list": [],
+      "orig_name": "ネネカ",
+      "orig_text": "『さぁ──\nプレイテストの時間ですよ、\n【アルターメイデン】。\nあのようなロートルに負けないように』"
+    },
+    {
+      "name": "The Three",
+      "text": "Okay!\" \"Nn!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "「はいっ！」\n「ん！」"
+    },
+    {
+      "name": "Quria",
+      "text": "Onii-san, give us your power...!",
+      "choice_data_list": [],
+      "orig_name": "クリア",
+      "orig_text": "お兄さん、\nわたしたちに力を……！"
+    },
+    {
+      "name": "Precia",
+      "text": "Thank you, Onii.",
+      "choice_data_list": [],
+      "orig_name": "プレシア",
+      "orig_text": "ありがと。\nお兄。"
+    },
+    {
+      "name": "Riri",
+      "text": "Here we come!",
+      "choice_data_list": [],
+      "orig_name": "リリ",
+      "orig_text": "──参ります！"
+    }
+  ]
+}

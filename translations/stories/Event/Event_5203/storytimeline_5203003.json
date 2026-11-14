@@ -1,0 +1,810 @@
+{
+  "title": "Her Name is Cry",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Aoi and Croce teamed up to defeat the Gedon terrorizing Gio Teogonia. However, this time they find themselves in a different kind of crisis than a monster's.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ジオ・テオゴニアに現れた謎のゲドンを倒したアオイたち。\nしかし、\n今度は魔物と違った意味でピンチが訪れていた──"
+    },
+    {
+      "name": "Aoi",
+      "text": "PLEASE LET ME OUT OF HEREEEEE!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『ここから出してくださぁ～～～いっ！！』"
+    },
+    {
+      "name": "Croce",
+      "text": "I'm sorry, Aoi-san. It seems you're locked in my cockpit. Oh, I can adjust the temperature in there! Is this fine?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ごめんなさい、\nアオイさんっ。\nわたしのコクピットに閉じこめちゃって。\nあ、\n温度調節はできますからっ！　\n寒くないですか？"
+    },
+    {
+      "name": "Aoi",
+      "text": "\"Yes, I'd say it's just the right amount of warmth... Wait, that’s not it! I've already been stuck inside here for a long time now~!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『はい、\n暖かさはちょうどいいくらいで……\nってそうじゃないですっ！\nもうずっとカンヅメ状態になっちゃってますよ～っ！？』"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "In addition to the damage received from the battle just now, it seems Gigantic Croce has also ran out of energy. The cockpit's life support system is barely working, but other than that, everything else is malfunctioning! Gahaha!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "先ほどの戦闘による損傷に加え、\nエネルギー切れのようじゃの。\nかろうじてコクピットの生命維持装置は生きているが、\nそれ以外は故障だらけじゃわい！　\nがっはっは！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "This is no time to be laughing, Gramps Popo. The base camp for the maintenance of Gigantic Roche has been set up. ...That said, I'd love to go back to the castle sometimes soon.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "笑ってる場合じゃないですってポポじい。\nギガンティックローチェの整備用ベースキャンプ、\n設営完了です。\n……\nってわけで、\nもーそろそろお城に帰りたいんですけど。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I'm sorry, but that's not an option for you. I even have Lady Lyrael's permission. You'll have to help me out for a while. I'll be counting on you, Assistant.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "残念じゃが\nそうはいかんぞい。\nライラエルさまに\n許可を取っておるからの。\nしばらくは\nワシの手伝いじゃ。\n助手、\nよろしく頼むぞ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Geeeeh...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "げー……"
+    },
+    {
+      "name": "Croce",
+      "text": "And I'm here, counting on you for maintenance! Uncle Popo, Wyrm-chan!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "メンテナンス、\nよろしくお願いしますっ。\nポポおじいさん、\nヴルムちゃんっ。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "...Hmm. This is going to take longer than I expected.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "……むむむ。\nこれは思ったより時間がかかりそうじゃぞ。"
+    },
+    {
+      "name": "Croce",
+      "text": "Huh, really? If energy is all that we need, we could just ask Lady Lyrael to replenish it, couldn't we?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "えっ、\nそうなんですかっ？　\nエネルギー不足なら、\nライラエルさまに充填してもらえばいいんじゃないですかっ？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "It seems that this Gigantic Croce has two power systems.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "それが、\nこのギガンティックローチェは\n二つの動力系統があるみたいでの。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "One is the energy of lightning. Just like you said, for this one, Lady Lyrael's lightning should suffice.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "一つは、\n雷のエネルギー。\nこっちはオマエさんの言う通り、\nライラエルさまにお願いすれば\nなんとかなるじゃろう。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "But, there's this other thing... a mysterious power system seems to have been installed. Croce, it might have something to do with your transplanted memory unit... but I don't know any more than that.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "が、\nもう一つ……\n謎の動力系統が仕込まれておるようじゃ。\nクローチェ、\n移植されたオマエさんのメモリーユニットと\n何か関係しておるらしいのじゃが……\nこれ以上はまだ分からん。"
+    },
+    {
+      "name": "Croce",
+      "text": "Hmm, then...? Does that mean that I'm the one who's keeping Aoi-san locked up in here?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "う～んと？\nひょっとして、\nわたしがアオイさんを閉じこめちゃってるって事ですかっ？"
+    },
+    {
+      "name": "Wyrm",
+      "text": "It seems you are very liked, Aoi-san.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "愛されてますね、\nアオイさん。"
+    },
+    {
+      "name": "Aoi",
+      "text": "I-Is that so? No, I mean, ehehe... ...isn't it a pretty twisted category of affection to lock away someone like this...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『そ、\nそうですか？　\nいやぁ、\nえへへ……\n……\n愛情表現が閉じこめるって\nかなり歪な部類では……？』"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That's not it, this cockpit incident is all just due to a lack of energy. Could you please wait a while until Lady Lyrael's magical powers are replenished?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いや、\nコクピットの件は単なる電力不足じゃ。\nライラエルさまの魔力が回復するまで、\nしばし\n待っててくれんかの。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, I suppose there are other things we can take the time to consider other than this malfunction. Like why a Gedon, a monster from Gio Gehenna, appeared in our Gio Teogonia in the first place.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "まあ\n動作不良の他にも、\n考えるべき事は色々ありますよね。\nそもそも、\nジオ・ゲヘナの魔物であるゲドンが\nなんでジオ・テオゴニアに現れたのか。\nとか。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I've never been to Gio Gehenna myself, but... Is it a monster so strong that even Lady Lyrael would have a hard time dealing with it? That Gedon.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ワシは\nジオ・ゲヘナには行ったことがないが……\nライラエルさまでも手こずるほどの魔物なのかの？\nゲドンとやらは。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Hmm... I-I’m pretty sure that even in Gio Gehenna it was one of those monster types at the top of the food chain. However not at the level where Lyrael-san would be unable to defeat it, if she got serious...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『うーん……\nた、\n確かに\nジオ・ゲヘナの魔物でも強いほうだったと思いますけど。\nライラエルさんが本気を出したら、\n倒せないってほどじゃ……』"
+    },
+    {
+      "name": "Wyrm",
+      "text": "That's right. Not to add how, in the first place, there's never been a case of a monster of that size to pass through a Gate...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "そですね。\nそもそも、\nあの大きさの魔物が野良ゲートを\n通ってくるなんて、\n今までなかったですし……"
+    },
+    {
+      "name": "Wyrm",
+      "text": "While we're on the topic, ever since that Gedon appeared, both the Gate towards Gio Gehenna or the one towards Landosol have been unusable.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ついでに言うなら、\nあのゲドンが現れたあたりから\nランドソルのゲートも、\nジオ・ゲヘナのゲートも\n開けなくなっちゃってるんですよね。"
+    },
+    {
+      "name": "Croce",
+      "text": "A strong Gedon and Gates who aren't working... Could there be some connection between the two? Hmm... hmmmm...?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "つよーいゲドンに、\n開かないゲート……\n何か関係があるんでしょうか。\nうーん……\nむむむむむ……？"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Huh? Is it just me, or is it getting hot in here? Hey, Croce-san?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『……あれ、\nなんだか暑くなってきたような？\nちょっと、\nクローチェさん！？』"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "It looks like the heat from the processing circuits isn't being properly dissipated. Therefore when Croce overheats, so does the temperature in her cockpit rise.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "演算回路の排熱が上手くいっとらんようじゃな。\nクローチェがオーバーヒートすると\nコクピットの気温まで上がるとは。"
+    },
+    {
+      "name": "Aoi",
+      "text": "H-Hot, it's so hot?! Croce-san, please cool down! At this rate, I'll turn into a roasted elf~!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『あつっ、\nあっつぅっ！？\nクローチェさん、\nクールダウンしてくださいっ！\nこのままじゃ蒸し焼きエルフになっちゃいます～っ！』"
+    },
+    {
+      "name": "Croce",
+      "text": "Pshyuuuu...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ぷしゅーっ…………"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Well, I'll wrap my head around those two things later. Let's continue with the repairs. If she continues to overheat any longer, Aoi-san will end up having to endure a 24-hour sauna session──",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ま、\n考えるのは後にして。\n修理の続きといきましょうか。\n今これ以上、\n熱暴走してると\nアオイさんが24時間耐久サウナする羽目になりそうですし──"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Crap, there's a monster here! It looks nothing like that Gedon, but just a stray monster from Landosol that survived...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "まずい、\n魔物が出おった！\nゲドンではなく、\nランドソルから来た魔物の\n生き残りのようじゃが……"
+    },
+    {
+      "name": "Aoi",
+      "text": "Uncle Popo, Wyrm-san! Please run away!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『ポポおじいさん、\nヴルムさんっ！\n逃げてくださいっ！』"
+    },
+    {
+      "name": "Wyrm",
+      "text": "This situation... If Vol-san was around it'd have been nice... Aoi-san, Cro-san, can't you take care of this thing, somehow?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "この状況、\nヴォルさんが居てくれたらよかったんですけど……\nアオイさん、\nクロさん、\nなんとかやっつけたりできません？"
+    },
+    {
+      "name": "Aoi",
+      "text": "As I've been saying, I've been trying to get out for a while now, but...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『さっきからっ、\nやってるん、\nですけどっ……！』"
+    },
+    {
+      "name": "Croce",
+      "text": "Ugh, I can't! I just can't move!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "うぅ～っ、\nだめですっ！　\n動いてくれません～っ！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "Nghhhh?! Don't come, monster! If you were to eat me... it'll be dangerous! Like an Echinococcus!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "ぬぉっ！？\n魔物どもめ\n来るでない！\nワシを食うと……\nやばいぞい！　\nエキノコックスとか！"
+    },
+    {
+      "name": "Aoi Croce",
+      "text": "UNCLE POPO!!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ・クローチェ",
+      "orig_text": "ポポおじいさんっ！！"
+    },
+    {
+      "name": "？？？",
+      "text": "...Tempest Ode!!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──『暴風』！！"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "The monster's...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『魔物が……』"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Gramps Popo, you okay?!",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "ポポじい、\n無事っ！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "...Good grief. That's too much stimulus for my age...",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "……やれやれ。\n腰が抜けたわい……"
+    },
+    {
+      "name": "Croce",
+      "text": "Thank goodness...",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "よかったぁ……"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "If it had been a bigger monster, things would've been dangerous.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "もっと大きな魔物だったら危なかったわね。"
+    },
+    {
+      "name": "Aoi",
+      "text": "A-And you are...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『あ、\nあなたは……？』"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "Hold on a second. I'll get you out of there first. I'm planning to get closer to your machine. Is that okay by you?",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "ちょっと待ってて。\n先に貴方をそこから出すわ。\n機体に近づくけど、\n問題ないわよね？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh? Y-Yes...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "『え？　\nは、\nはい……？』"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "...So it's this type of hatch. Then, the emergency lever should be here...",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "……この型のハッチね。\nなら、\nここに非常レバーが……"
+    },
+    {
+      "name": "Aoi",
+      "text": "...Yay, I've come out...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……わーい、\n出られました……？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "That bow and arrow... So you're the one who saved me just now? Thanks a bunch, I owe you one.",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "その弓矢……\nさっきはオマエさんが助けてくれたのか。\nすまんのう、\n恩に着るわい。"
+    },
+    {
+      "name": "Croce",
+      "text": "Have my thanks, too! I really thought we were done for back there!",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "わたしからもありがとうございますっ！\nもうほんっとーに、\nだめかと思っちゃいました～っ。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Um, I also wanted to offer my thanks for getting me out of that cockpit.",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あの、\n私も\nコクピットから出してくれて……\nありがとうございます。"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I don't need to be thanked.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "礼を言われることじゃないわ。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "This person...",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "この人…………"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I wonder if you have an issue with me.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "どうかしたかしら。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "...I don't, thank you. But anyway, how did you know how to open that hatch?",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "……いえ、\nありがとうございます。\nそれにしても、\nどうしてハッチの開け方を？"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I know a similar machine. What's more... I know what you two lack.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "私も似た機体を知っているの。\nそれに……\n貴方たちに足りないモノもね。"
+    },
+    {
+      "name": "Aoi",
+      "text": "What the two of us...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "私たちに……"
+    },
+    {
+      "name": "Croce",
+      "text": "...Lack?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "……足りないもの？"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I'm sure you two must be having an hard time getting this machine to move. And the reason for that is a mysterious lack of power... Am I wrong?",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "貴方たち、\nこの機体を動かすのに手こずっているんじゃないかしら。\nしかも、\nその原因は謎の動力不足……\n違う？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "You... How do you know that...?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "オマエさん、\nどうしてそれを……"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I'll start directly with the conclusion. What's missing to operate this machine is... Emotional synchronization to become one with it.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "先に結論から話すわ。\nこの機体を動かすのに欠けているのは……\nマシンと一心同体になる\n感情的シンクロナイズ。"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "Normally, a feedback system that directly connects the machine and the pilot would be used for that. But...",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "本来なら、\n機体とパイロットが直結する\nフィードバックシステムが採用されているはず。\nけど……"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "There's someone \"inside\" this machine, isn't there? I've been hearing her voice for a while now.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "この機体、\n中に誰か『入ってる』わね？\nさっきから声がしているし。"
+    },
+    {
+      "name": "Croce",
+      "text": "By that... are you referring to me?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "それって、\nわたしのことですか？"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "Yes. Normally, the pilot should be synchronized with the machine, but with you in between, it's become a level more difficult.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "ええ。\n本来ならパイロットが機体とシンクロすべきところを、\n貴方が間に入ったことで、\nさらに一段階難しくなってるの。"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "In other words, it's like two people working together to operate the same vehicle. If one of you two is out of sync, then you won't be able to move even a finger.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "いわば\n二人羽織で機体を動かしているようなもの。\n片方がズレれば、\n指一本まともに動かせない。"
+    },
+    {
+      "name": "Aoi",
+      "text": "I see, so that's why nothing seemed to work earlier...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "そうか、\nそれでさっきはうまく動かせなかったんだ……"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "What you two need is perfect communication - to have a friendship that doesn't need words, without any sense of distance.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "貴方たちに必要なのは、\n寸分違わない意思疎通──\n言わずとも伝わる、\n距離感ゼロの友情を培うこと。"
+    },
+    {
+      "name": "Wyrm",
+      "text": "You... just who are you? You seem to be very knowledgeable about our situation.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "あなた……\n何者ですか？\nこちらの事情に随分と詳しいようですけれど。"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I've just told you. I know a lot about this \"unit\". I don't know much about your individual profiles.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "言ったでしょ、\n私が詳しいのはこの『機体』について。\n貴方たちのプロフィールはよく知らない。"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "...No, let me correct myself. Aoi. I do know you very well.",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "……いえ、\n訂正するわ。\nアオイ、\n貴方のことだけはよく知っている。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Huh? Me? Um, have we met somewhere before...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "えっ、\n私？　\nあの、\nどこかでお会いしたことありましたっけ……"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "No, this is our first meeting. But I've always wanted to meet you...",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "いいえ、\n初対面よ。\nでもずっと会ってみたかった……"
+    },
+    {
+      "name": "Croce",
+      "text": "So, where do you come from exactly, lady?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "それで、\nお姉さんはどちらさんなんでしょう？"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "Fufu--I'm glad you asked. I am a Time Leaper from the future, one much farther than the time you're in... What's more...",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "ふふっ──\nよく聞いてくれたわね。\n私は今の世界よりも、\nずっと未来から来たタイムリーパー\nそして……"
+    },
+    {
+      "name": "Aoi",
+      "text": "A-A Time Leaper?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "タ、\nタイムリーパー？"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "I'm also a descendant of the super civilization that the robotic lady over there was involved with...!",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "そこの機械人族のお嬢さんにも関わる\n超文明の末裔にして……！"
+    },
+    {
+      "name": "Croce",
+      "text": "S-Super civilization... you say?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "ちょ、\n超文明……\nですかっ？"
+    },
+    {
+      "name": "Mysterious Woman",
+      "text": "A huge, abnormal monster appeared in this era - an investigator has come to prevent the world from being destroyed by the \"Kaiju\"...!",
+      "choice_data_list": [],
+      "orig_name": "謎の女性",
+      "orig_text": "この時代に現れた、\n巨大な異常個体の魔物──\n『怪獣』による世界の滅亡を防ぐためにやってきた調査員……！"
+    },
+    {
+      "name": "Wyrm",
+      "text": "Uwah... That sure sounds fishy.",
+      "choice_data_list": [],
+      "orig_name": "ヴルム",
+      "orig_text": "わー……\nうさんくさ。"
+    },
+    {
+      "name": "Cry",
+      "text": "My name's... Cry. The occult hunter from the future, Cry!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "私の名は──\n…………\nクライ。\n未来からやってきたオカルトハンター、\nクライよ！"
+    },
+    {
+      "name": "Cry",
+      "text": "And Aoi... No, respectable \"Ancestor\". I guess that means I'm your distant descendant.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "そしてアオイ……\nいいえ、\n『ご先祖様』。\n貴方の、\n遠い子孫\nってことになるかしら。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Eh? EEEEHHHHHHH?! Really?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "え、\nええぇぇぇぇぇぇっ！？\n本当ですか！？"
+    },
+    {
+      "name": "Cry",
+      "text": "If I said it was all a lie... what then?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "全部嘘って言ったら、\nどうする？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Ugh, this sloppy sense of humor... Furthermore, I can vaguely sense the LONER AURA oozing from her... I don't know why, but it's like I cannot deny that she might be a descendant of mine...!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "うっ、\nこの滑りがちな笑いのセンス……\nそれに、\nそこはかとなく感じるぼっちオーラ……\nなんででしょう、\n自分の子孫というのを否定できないような……！"
+    },
+    {
+      "name": "Cry",
+      "text": "I take after my mother. She, her mother, and even her grandma, weren't very sociable. If you were to trace my family tree, it'd probably be the same for anyone else.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "御先祖様に似たのよ。\n私の母も、\nその母も、\nそのまた母も、\n社交的な方じゃなかったわ。\n家系図をたどっても皆、\n口を揃えてそういうでしょうね。"
+    },
+    {
+      "name": "Aoi",
+      "text": "Ugh, it seems my genes were simply too strong~... To think they would manifest down into my descendants, almost eternally... How fearsome... this loner factor...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "うぅぅ、\n私の因子が強すぎる～……\n末代まで発現するとは……\nあなおそろしや、\nぼっち因子……"
+    },
+    {
+      "name": "アオイ",
+      "text": "だけど、\nどこか納得できる……\n初めて会った気がしない。\n遠い親戚のお姉さんみたいな……？　",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "だけど、\nどこか納得できる……\n初めて会った気がしない。\n遠い親戚のお姉さんみたいな……？　"
+    },
+    {
+      "name": "Aoi",
+      "text": "Um, Cry-san... No, MASTER!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "あの、\nクライさん……\nいいえ、\n師匠！"
+    },
+    {
+      "name": "Cry",
+      "text": "M-Master...?",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "し、\n師匠っ……？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Y-Yes. Um, well, when I saw you, Cry-san... You were kind of cool and respectable... so you could say I admire you...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "は、\nはいっ。\nあのっ、\nその、\nクライさんを見て……\nクールで\n格好良くて、\n私、\nちょっと憧れるって言いますか……"
+    },
+    {
+      "name": "Aoi",
+      "text": "The archery skills you showed earlier when you saved us were also amazing...! Ah, no... It's not like I'm asking you to force yourself to show them again...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "さっき、\n私たちを助けてくれた時の弓使いとかもすごくて……！\nあっ、\nいえ、\n無理にとは言わないんですけど……"
+    },
+    {
+      "name": "Aoi",
+      "text": "I just wanted to call you \"Master\"...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "師匠、\nなんて\n呼んでみたくて……"
+    },
+    {
+      "name": "Cry",
+      "text": "I'm about a generation older than you, but... it feels weird to be called that by my ancestor.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "私の方が、\n歳は一回りくらい上だけど……\nご先祖様にそう呼ばれるなんて変な感じね。"
+    },
+    {
+      "name": "Aoi",
+      "text": "S-So I can't...?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "ダ、\nダメ……\nですか？"
+    },
+    {
+      "name": "アオイ",
+      "text": "……あ、\nあれ？　\nあれれれれ？\nコミュ症ぼっちなのに私、\nどうしてこんな積極的になれてるんだろ？\n……クライさんが、\n血縁だから……？　",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……あ、\nあれ？　\nあれれれれ？\nコミュ症ぼっちなのに私、\nどうしてこんな積極的になれてるんだろ？\n……クライさんが、\n血縁だから……？　"
+    },
+    {
+      "name": "Cry",
+      "text": "Well... I don't really mind. On my part, I was also hoping to help you guys, too.",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "まぁ……\n別に構わないわ。\n私としても、\n貴方たちに協力したいところだったし。"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "I appreciate your cooperation, but... hmm. You said something about a \"kaiju\", right? Provided you're not lying, could you explain that part more in detail?",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "協力はありがたいが……\nフ～ム。\n「怪獣」とか言っておったな？\n嘘ではないのなら、\n詳しく説明してくれんかの。"
+    },
+    {
+      "name": "Croce",
+      "text": "Hah, that's right. I almost forgot about it because of the sudden family relation announcement.",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "はっ、\nそうですねっ。\n重大発表ですっかり忘れちゃうところでしたっ。"
+    },
+    {
+      "name": "Cry",
+      "text": "Sure, that's the main reason why I came here~...",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "ええ、\n私はそのためにここへ来た──"
+    },
+    {
+      "name": "Aoi",
+      "text": "A-Another monster?!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "まっ、\nまた魔物ですかっ！？"
+    },
+    {
+      "name": "Uncle Popo",
+      "text": "No, this reaction----It's not just a mere monster! Just like that Gedon... and it appeared in our Grand Dream Park, this time!",
+      "choice_data_list": [],
+      "orig_name": "ポポじいさん",
+      "orig_text": "いや、\nこの反応は──\n単なる魔物ではない！\nあのゲドンと同じ……\n出現場所はグランドリームパークじゃ！"
+    },
+    {
+      "name": "Cry",
+      "text": "They're coming... those things!",
+      "choice_data_list": [],
+      "orig_name": "クライ",
+      "orig_text": "来る……\nあいつらが！！"
+    },
+    {
+      "name": "Croce",
+      "text": "Those things...?",
+      "choice_data_list": [],
+      "orig_name": "クローチェ",
+      "orig_text": "あいつら……？"
+    },
+    {
+      "name": "Visitor 1",
+      "text": "Hey, isn't there... some kind of fissure in the sky?",
+      "choice_data_list": [],
+      "orig_name": "来園者１",
+      "orig_text": "なあ、\n空に何か……\n亀裂が走ってないか？"
+    },
+    {
+      "name": "Visitor 2",
+      "text": "Something's coming out... Waaaaah!?",
+      "choice_data_list": [],
+      "orig_name": "来園者２",
+      "orig_text": "何か出てくるぞ……\nうわあああぁあぁぁっ！？"
+    },
+    {
+      "name": "Roborima",
+      "text": "RIMARIMAAAAAA!!",
+      "choice_data_list": [],
+      "orig_name": "ロボリマ",
+      "orig_text": "リマリマーーーーーー！！"
+    },
+    {
+      "name": "Nakayoshi X",
+      "text": "CHERUUUUUUUUUUUUUUN!!",
+      "choice_data_list": [],
+      "orig_name": "なかよしＸ",
+      "orig_text": "ちぇるーーーーーーん！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "Next episode preview!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "次回予告っ！"
+    },
+    {
+      "name": "Aoi",
+      "text": "The dashing beauty who helped us out! A person from the future? Someone from a super civilization? An occult hunter? Cry-san, who exactly are you?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "私たちを助けてくれた\n颯爽登場の美人さん！\n未来人？　\n古代人？　\nオカルトハンター？\nクライさん、\nあなたは一体何者ですか？"
+    },
+    {
+      "name": "Aoi",
+      "text": "There's so many questions I want to ask, but the park is currently in some big trouble! That's terrible! I have to hurry up and help them! T-This time it's two enemies at the same time! C-Can I really win!?",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "聞きたい事は山ほどあるのに、\n何やらパークが大ピンチ！\n大変！　\n早く助けに行かなきゃ！\n今度は二体同時だなんて、\nほ、\nほんとに勝てるんでしょうか！？"
+    },
+    {
+      "name": "Aoi",
+      "text": "Next time, Episode 4! \"Friendship & Heart, Layered\"!!",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "次回、\n第４話っ！　\n“友情、\n心、\n重ねて”！！"
+    },
+    {
+      "name": "Aoi",
+      "text": "...No, but... before that, I feel like there's something I've seen before. That giant robot that looks like it's a llama, and that cross-marked robot that looks like it's going to start a rap battle...",
+      "choice_data_list": [],
+      "orig_name": "アオイ",
+      "orig_text": "……いえその前に、\nなんか見たことあるような無いような？\nあの偶蹄目っぽい巨大ロボットも、\nラップバトルしそうなバッテン印ロボットも……"
+    }
+  ]
+}

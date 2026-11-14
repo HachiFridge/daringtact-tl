@@ -1,0 +1,607 @@
+{
+  "title": "Radiance that Surpasses Legend",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and Yuki succeeded in rescuing Illya during the ceremony.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "儀式の最中、イリヤの救出に成功する{0}とユキ。"
+    },
+    {
+      "name": "Illya",
+      "text": "...Thank you, my Familiar.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……感謝するぞ、\n我が眷属よ。"
+    },
+    {
+      "name": "Illya",
+      "text": "I almost became your enemy.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "危うく──\nお主の敵に、\nなるところじゃった。"
+    },
+    {
+      "name": "Illya",
+      "text": "You...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "お主……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hey, hey, Illya, did you see? My beautiful figure appeared boldly during the ceremony! Don’t you think it was the best performance to accentuate me?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ねぇねぇイリヤ、\n見てた？\n儀式中に堂々と現れる\nボクの美しい姿！\nボクを引き立てる\n最高の演出だったと思わないかい？"
+    },
+    {
+      "name": "Illya",
+      "text": "Don't use my predicament as a staging! ...Well, you actually saved me. Yuki... You did well.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわの窮地を演出に使うでないわ！\n……\nまぁ、\n実際助かったのじゃがな。\nユキよ……\nよくやってくれた。"
+    },
+    {
+      "name": "Yuki",
+      "text": "...You're welcome♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……\nどういたしまして♪"
+    },
+    {
+      "name": "Illya",
+      "text": "More importantly, what are you going to do now? We may have escaped from the ritual site, but we're still in the city. Brad won't let us escape.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "それより、\nこれからどうする気じゃ？\n儀式場から脱したはいいが、\nここはまだ街の中。\nブラドはこのまま\nわらわたちを逃がしてはくれぬじゃろう。"
+    },
+    {
+      "name": "Illya",
+      "text": "We've got pursuers",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "今に追手が──"
+    },
+    {
+      "name": "Brad",
+      "text": "──Lady Illya.",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──イリヤ、\n様。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Looks like he's here. But... He looks different, doesn't he?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "来ちゃったみたいだよ。\nでも……\nなんだか雰囲気が違うみたいだね？"
+    },
+    {
+      "name": "ブラド",
+      "text": "何故、\nですか……\n復活を拒むのです……",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "何故、\nですか……\n復活を拒むのです……"
+    },
+    {
+      "name": "Brad",
+      "text": "You are a legendary vampire. You are the ruler of this world. You are everything to me...!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "あなた様は伝説の吸血鬼。\nあなた様はこの世界の支配者。\nあなた様は私のすべて……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Brad... You...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ブラド……\nお主……"
+    },
+    {
+      "name": "Brad",
+      "text": "My ladyyyyyyy──!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "あなたサマハァァァァァァァァァァァ──！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow, he’s transformed into a monster?! Wasn’t he a daemon?!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "うわぁ、\n魔物に変わっちゃった！？\nあの人、\n魔族じゃなかったの！？"
+    },
+    {
+      "name": "Brad",
+      "text": "──Lady Illya──!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──イリヤ、\nサマ──！"
+    },
+    {
+      "name": "Illya",
+      "text": "It must have been because of this vast amount of magical energy that you transformed! You used that magic crystal yourself?! Foolish... It’s not something a mere daemon can wield...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "変貌したのは\nこの膨大な魔力のせいじゃろうな……！\n貴様、\n自身であの魔力結晶を使いおったか！\n愚かな……\n一介の魔族が扱えるものではないというに……！"
+    },
+    {
+      "name": "Illya",
+      "text": "No! Don't try to fight him!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ダメじゃ！\nこやつと戦おうとしてはならぬ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Don't fight? Why? They're panting and looking at us with passionate eyes",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "戦っちゃダメって、\nどうしてさ？\n向こうはハァハァ言いながら、\n熱い目でボクたちを見つめてるんだけど？"
+    },
+    {
+      "name": "Illya",
+      "text": "...I can’t win.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……勝てぬ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Huh?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "はぁ？"
+    },
+    {
+      "name": "Illya",
+      "text": "If you're clad in the same magical energy, you should be able to tell. Right now, he has all the power he's built up to revive the Legendary Vampire inside him...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "同じ魔力を纏っておるなら分かるじゃろう。\nやつは今、\n『伝説の吸血鬼』を復活させるために\n溜めていた力のすべてを、\n自身に宿しておる……！"
+    },
+    {
+      "name": "Illya",
+      "text": "There's no way......I can win in human form.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "人の身で……\n勝てるわけがないんじゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "...It's no good.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……ダメなのじゃ。"
+    },
+    {
+      "name": "Illya",
+      "text": "If I clash with that magical energy, I... might not be able to be myself anymore.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あの魔力とぶつかれば、\nわらわは……\nわらわでいられなくなるかもしれぬ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "...What’s that supposed to mean? Are you... scared?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……なにそれ。\nもしかしてイリヤ……\n怖いの？"
+    },
+    {
+      "name": "Illya",
+      "text": "Wha?! No! I'm not scared...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なっ！？\n違うわ！　\nわらわが怖気づくなど……！"
+    },
+    {
+      "name": "Brad",
+      "text": "Illya-samaaaa!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "イリヤ──\nサマァァァァァ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hmm, I see... I see. That's good... Then get back. I'll take all the places to show off.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふぅん、\nそっか……\nなるほどね。\nいいね……\nだったら下がってなよ。\nこの見せ場は、\nボクが全部いただくからさ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Yuki, stop! You can't match him...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ユキ、\nよすのじゃっ！\nお主では太刀打ちできん……！"
+    },
+    {
+      "name": "Brad",
+      "text": "You're in the way!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ジャマ、\nダ──！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Teehee~",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふふんっ……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "What?! He... blocked it?! That attack...?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なっ！？\n防ぎ……\nおった……！？　\nあの一撃を……！？"
+    },
+    {
+      "name": "Yuki",
+      "text": "Wow, it’s no big deal, is it? The power of a legendary vampire?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "なぁんだ、\n大したことないんだね。\n伝説の吸血鬼の力ってのもさ。"
+    },
+    {
+      "name": "Brad",
+      "text": "out of the way!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "ドケェェェェェェェ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "You don't have the eyes to tell me to retreat in front of you♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ボクを前にして退け、\nなんて\n見る目がないねっ♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Yuki, you... How can you fight each other...? That power...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ユキ、\nお主……\nなぜ渡り合えるのじゃ……\nあの力は……"
+    },
+    {
+      "name": "Yuki",
+      "text": "What do you think, Illya? My beauty... You can praise me...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "どうだい、\nイリヤ？\nボクの美しさ……\n褒め称えていいんだよ……\nッ……"
+    },
+    {
+      "name": "イリヤ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "イリヤ",
+      "text": "違う……\nこやつ、\n無理をしておる……！\nなぜじゃ？　\nなぜ、\nそんなことを……？\n力の差がありすぎることくらい、\nお主も分かるじゃろう……？　",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "違う……\nこやつ、\n無理をしておる……！\nなぜじゃ？　\nなぜ、\nそんなことを……？\n力の差がありすぎることくらい、\nお主も分かるじゃろう……？　"
+    },
+    {
+      "name": "Brad",
+      "text": "──You bastard!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──キサマァッ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Hehe, nice! Make me shine more beautifully...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ふふっ、\nいいね！\nもっとっ、\nボクを美しく輝かせなよっ……♪"
+    },
+    {
+      "name": "Yuki",
+      "text": "I'll show you all♪ I'm beautiful enough to defeat the power of a legendary vampire! I will surpass the legend...",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "みんなに見せてあげるよ♪\n伝説の吸血鬼の力を打ち破る、\n美しいボクを！\nこのボクが、\n伝説を超える瞬間を……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "......because he's beautiful......? He's facing an opponent He'll never win against.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……美しい、\nからか……？\n絶対に勝てない相手に\n立ち向かう自分が。"
+    },
+    {
+      "name": "Illya",
+      "text": "Are you going to go that far... to bend yourself?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そこまでして……\n自分を貫くというのか？"
+    },
+    {
+      "name": "Illya",
+      "text": "Yes, I'm sure you're right.\nI've finally come to understand his beauty.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ああ、\nそうなのじゃろうな。\n今、\nようやく理解できたのじゃ……\nあやつの美しさが。"
+    },
+    {
+      "name": "Illya",
+      "text": "Those who are confident in themselves are beautiful.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "自分に自信がある者は──\n美しいのじゃな。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hey, My familiars. May I ask you a question?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なぁ、\n我が眷属よ。\nお主に一つ、\n聞いてもよいか。"
+    },
+    {
+      "name": "Illya",
+      "text": "──What am I?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "──わらわは何者じゃ？"
+    },
+    {
+      "name": "Illya",
+      "text": "...Indeed.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……うむ。"
+    },
+    {
+      "name": "Illya",
+      "text": "You said it! That's right, I'm Illya Ornstein! The ruler of the night, and your master!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "よう言うた！\nそうじゃ、\nわらわはイリヤ・オーンスタイン！\n夜を統べる者にして、\nお主のご主人様じゃ！"
+    },
+    {
+      "name": "Illya",
+      "text": "I won't stop being me",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわがわらわでなくなることなど──"
+    },
+    {
+      "name": "Illya",
+      "text": "There's no way that's possible.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あるはずがない。"
+    },
+    {
+      "name": "Brad",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Yuki",
+      "text": "Ugh...! I fell to my knees and collapsed...! This is so artistic...!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "くっ……！\n膝をついて崩れ落ちるボク……！\n芸術点高いね、\nこれは……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "I'm the rarest of them all, with my face twisted in pain, and my weapon-wielding hands are trembling. I am the premiere itself, and the sighs of exhaustion leaking out of my mouth are eternally preserved...♪",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "苦痛に顔をゆがめるボクは最高にレアだし、\n武器を持つ手が震えてるボクは\nプレミアそのもの、\n口から漏れる疲労の吐息も、\n永久保存ものだよ……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "I'm sorry to interrupt when you're earning a lot of artistic points, but... Yuki, switch with me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "芸術点を荒稼ぎしとるところ悪いがの。\n──ユキよ、\nわらわに代われ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "...What? You want a chance to show off now?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……なに？\n今さら見せ場が欲しくなったの？"
+    },
+    {
+      "name": "Illya",
+      "text": "Yeah, please.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ああ、\n頼む。"
+    },
+    {
+      "name": "Yuki",
+      "text": "Whaaat? But I was shining so brightly!",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "ええー？\nせっかくボクが輝いてたのにさー"
+    },
+    {
+      "name": "Illya",
+      "text": "Don't say that. That's right... Give it to me, and I'll show you.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そう言うな。\nそうじゃな……\n譲ってくれれば、\n見せてやるぞ。"
+    },
+    {
+      "name": "Illya",
+      "text": "──Something more beautiful than you.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "──お主よりも、\n美しいものを。"
+    },
+    {
+      "name": "Yuki",
+      "text": "......huh.That's a big deal.Interesting.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……へぇ。\n大きく出たね。\n面白いじゃないか。"
+    },
+    {
+      "name": "Yuki",
+      "text": "In that case, use this, too. It'll help you add a little.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "だったら、\nこれも使いなよ。\n少しは足しになるでしょ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Yuki, you...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ユキ、\nお主……"
+    },
+    {
+      "name": "Yuki",
+      "text": "The ruler of beauty gave you a chance to show off, after all.",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "美を統べる者が、\n見せ場を譲ってあげたんだからさ。"
+    },
+    {
+      "name": "Yuki",
+      "text": "-You won't lose, will you?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "──負けたりしないよね？"
+    },
+    {
+      "name": "Illya",
+      "text": "...Who are you talking to?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……誰に言うておる。"
+    },
+    {
+      "name": "Brad",
+      "text": "Lady...Illya...ohh...Lady...Illyaaaa!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "イリヤ、\nサマ……\nオォ……\nイリヤサマァァァァァ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Shut up, Brad.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ブラドよ──\n少し黙れ。"
+    },
+    {
+      "name": "Brad",
+      "text": "...Mm!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "……ッ！"
+    },
+    {
+      "name": "Illya",
+      "text": "{0}. The usual one... No, I'll draw out more of my power than usual. Will you help me?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "{0}よ。\nいつものやつを……\nいいや、\nいつも以上に\nわらわの力を引き出すぞ。\n協力、\nしてくれるか。"
+    },
+    {
+      "name": "Illya",
+      "text": "Hehe♪ Well then, I'm counting on you.\nUm... my heart is beating like crazy...\nOffer it to me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふふっ♪　\nでは、\n頼む。\nその……\n最大級のドキドキ……\n胸の高鳴りを、\nわらわに捧げるがよい。"
+    },
+    {
+      "name": "Illya",
+      "text": "Mm...♪",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "んっ……♪"
+    },
+    {
+      "name": "Illya",
+      "text": "Oooh...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "おおっ……！"
+    },
+    {
+      "name": "Illya",
+      "text": "Wh-Wh-What...?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "なな、\nなん\nと……！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Th-Th-That's enough! That's more than enough! Enough, enough! W-Well done... My heart's beating so fast, I'm sure I got it...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "も、\nもももっ、\nもうよい！\nそこまででよい！　\n十分、\n十分じゃ！\nよ、\nよくやったな……\n胸の高鳴り、\n確かに受け取ったぞ……！"
+    },
+    {
+      "name": "Yuki",
+      "text": "...Illya, your face is bright red and you’re grinning. Are you okay? Do you still have your dignity from before?",
+      "choice_data_list": [],
+      "orig_name": "ユキ",
+      "orig_text": "……イリヤ、\n顔真っ赤でニヤニヤしてるけど大丈夫？\nさっきまでの威厳とか残ってる？"
+    },
+    {
+      "name": "Illya",
+      "text": "Sh-Sh-Shut up! I didn't think it would be three times in a row!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "や、\nやや、\nやかましいわ！\nまさか\n３連続とは思わなかったんじゃ！"
+    },
+    {
+      "name": "Illya",
+      "text": "However, I can feel the power welling up inside me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "──じゃが。\n感じるぞ、\nわらわの内に湧き上がる力。"
+    },
+    {
+      "name": "Illya",
+      "text": "It's different from that magic crystal. This is... my power...!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あの魔力結晶によるものとは違う。\nこれが……\nわらわの力……！"
+    },
+    {
+      "name": "？？？",
+      "text": "──Give me your body──",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──カラダヲ、\nヨコセ──"
+    },
+    {
+      "name": "Illya",
+      "text": "......get lost.\nSome will of the past.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……失せよ。\nどこぞの過去の意志よ。"
+    },
+    {
+      "name": "Illya",
+      "text": "You're... not me.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "貴様は……\nわらわではない。"
+    },
+    {
+      "name": "Brad",
+      "text": "Y-You bastard...! Illya, what are you doing...!? You bastaaaaard!",
+      "choice_data_list": [],
+      "orig_name": "ブラド",
+      "orig_text": "キ、\nキサマ……！\nイリヤサマニ、\nナントイウコトヲ……！\nキサマ、\nキサマ、\nキサマァァァァァァァァ──！"
+    }
+  ]
+}

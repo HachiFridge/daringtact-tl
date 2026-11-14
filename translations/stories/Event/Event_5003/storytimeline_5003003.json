@@ -1,0 +1,358 @@
+{
+  "title": "Search for the Veggies!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Maho, Kaori and {0}\nmake their way through the jungle with Illya's guidance.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "マホとカオリ、そして{0}は、\nイリヤの案内で密林を進んでいた。"
+    },
+    {
+      "name": "Maho",
+      "text": "*huff, huff*\nIt just gets more stuffy the further in we go...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ふぅ……\n進めば進むほど、\nなんやジメジメしたところどすなぁ……"
+    },
+    {
+      "name": "Illya",
+      "text": "Sunlight is proving to be a nonissue now,\nbut I could very much do without my clothes\nfeeling like they've become a part of my skin.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "……日差しはだいぶ遮られているが、\nこの服が張り付いてくる感触は我慢ならぬぞ……"
+    },
+    {
+      "name": "Kaori",
+      "text": "I'm feeling better than ever!\nThis sorta heat just reminds me of back home!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "私は暑いのは平気さー\n故郷を思い出すよー！"
+    },
+    {
+      "name": "Maho",
+      "text": "Reckoned you'd be used to it.\nI'm havin' some real trouble just walking\n'cause the ground's all squishy.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "カオリはんは慣れてはんなあ。\nうちはこの足元のおぼつかへん柔らかい地面も苦手やわ～……"
+    },
+    {
+      "name": "Illya",
+      "text": "L-likewise!\nNot to mention this obscene humidity!\nIt's all so distressing!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ど、\n同感じゃ……！　\nこの水気の多い空気も、\n全てが不快に感じるわい……！"
+    },
+    {
+      "name": "Illya",
+      "text": "The foliage is far thicker than in times past, too.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "昔よりも、木々が生い茂っておるわ。"
+    },
+    {
+      "name": "Kaori",
+      "text": "The heat must be helping it all grow big and strong.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "きっと暖かいから、\nすぐに成長するんだねー"
+    },
+    {
+      "name": "Maho",
+      "text": "Eeeeeek?!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "キャアアアアアッ！？"
+    },
+    {
+      "name": "Illya",
+      "text": "Wh-what in the world?! Did something happen?!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "な、なんじゃ！？　\nどうした！？"
+    },
+    {
+      "name": "Maho",
+      "text": "Th-there's a bug...\nThere's a bug in my clothes!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "むしっ、\nむしむしっ……\n虫が服の中にいぃっ！"
+    },
+    {
+      "name": "Illya",
+      "text": "A bug? Blast...! \nThere's far more where that came from, too!\nStay away! Stay away, I tell you! ",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "虫？　\nわわわっ……\nいつの間に虫がこんなに……！\nえぇい\nわらわにまとわりつくな！　"
+    },
+    {
+      "name": "Illya",
+      "text": "You pesky little...!\nHow dare you approach me after I've swiped you away!",
+      "choice_data_list": [
+        "Deal with Maho's bug.",
+        "Swat away the bugs around Illya."
+      ],
+      "orig_name": "イリヤ",
+      "orig_text": "このっ……\nくぅっ、\n振り払っても近づいてくるとはっ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Gosh! Y-you can't go touchin' me around there, my prince!\nWe oughtta be much, much closer before that sorta action!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "やんっ！　\nお、王子はん、\nそんなところを触ったらあきまへん！\nそういうのは、\nもっと段階を踏んでからやないと！"
+    },
+    {
+      "name": "Illya",
+      "text": "Ouch!\nMaybe you should aim for the bugs\nrather than my face, you dolt!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "あたたっ！　\n虫をはらうのはいいが、\n手がわらわにも当たっておるぞ馬鹿者！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Man, you guys are overreacting.\nThey'll leave you alone if you stay still.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "みんな大げささー\n暴れなければなんもしてこないさー"
+    },
+    {
+      "name": "Kaori",
+      "text": "Oh, hey! There's a bunch of goya veggies over there!\nI'll go get 'em!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "あっ、\nあそこに『ゴーヤーっぽいもの』がいっぱい生えてるさ！\nちょっと採りに行ってくるさー！"
+    },
+    {
+      "name": "Maho",
+      "text": "Someone, please... I'm beggin' ya!\nThis gal does [i]not[/i] like bugs!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ひいぃんっ……\n助けてーっ！　\nうち、\n虫は苦手どす～！"
+    },
+    {
+      "name": "Illya",
+      "text": "Grrr...!\nOnly a foolishly foolish bug would dare\nhope for a morsel of my mighty blood!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "くうぅっ……\nこのわらわから血を吸おうとするとは……！\n無礼かつ命知らずな虫共じゃ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "They're gonna keep going at you if you don't stay still.\nJust chill out and enjoy the vibes.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "二人ともあんま動くと余計虫に襲われるさー\nもっと気楽に構えるさー"
+    },
+    {
+      "name": "Maho",
+      "text": "Wh-what's there to enjoy about this?!\nI-Illya! Please get this bug off my back for me!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "む、\n無茶言わんといてーっ！\nイ、\nイリヤはん、\nうちの背中の虫、\n取っておくれやすーっ！"
+    },
+    {
+      "name": "Illya",
+      "text": "V-very well! Have at thee!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ま、\n任せるがよい！　\nそれっ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Wah hah hah!\nBehold my power, you insignificant little—",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わはははっ！　\nどうじゃ！\nわらわの手にかかれば……"
+    },
+    {
+      "name": "Maho",
+      "text": "Oh.\nOne got on your head!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あっ、\nイリヤはん、\n頭の上に虫がおりますえ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Hm...?\nWaugh! Stay away! Stay away!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ん……\nうわあっ！？　\nや、やめんかっ！"
+    },
+    {
+      "name": "Illya",
+      "text": "Grrr...\nI could wipe these little nuisances out\nwith a snap of my fingers if I was at full power!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "くうぅっ……\nわらわが全快なら\n虫など一掃させてやるのに！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Hang in there, troops.\nI'll be back with a bunch of goya veggies in a jiffy!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "みんな、\nもうちょっと待ってるさー\nいっぱい採って、持って帰るさー"
+    },
+    {
+      "name": "Illya",
+      "text": "Sh-she's awfully laid-back about this situation...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "の、\nのんきじゃのう、\nカオリは……"
+    },
+    {
+      "name": "Kaori",
+      "text": "Heave-ho, heave-ho...\nPhew. That should be plenty!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "よいしょ、\nよいしょ……\nふぅ……\nこのくらいあれば十分さ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Sorry for the wait!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "待たせたさー"
+    },
+    {
+      "name": "Illya",
+      "text": "Quick! Let us take flight from this bug-infested hellscape!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "行くぞ！　\nこんなところからは\nさっさとおさらばじゃ！"
+    },
+    {
+      "name": "Maho",
+      "text": "Wait! Don't leave poor ol' me behind!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あぁ、待って！　\nうちを置いて行かんといておくれやすーっ！"
+    },
+    {
+      "name": "Illya",
+      "text": "*huff, huff*\nThat was the worst experience of my entire life...",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "はぁ……\nまったくひどい目におうたわ……"
+    },
+    {
+      "name": "Maho",
+      "text": "I-I'm never setting foot in a place like that again!\nY'all can be sure of it! Never, ever again!",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "も、\nもう\n二度とあんなところに行きまへん！\nたとえ、\n何があっても、\n一生！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Good job holding out.",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "みんなお疲れやっさー"
+    },
+    {
+      "name": "Illya",
+      "text": "Now then.\nWhat was our next objective?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "さぁて……\n次は、なんじゃったかのう？"
+    },
+    {
+      "name": "Maho",
+      "text": "The plan was to find an udon rolling pin...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "次は、\n『うどん用麺棒』どす……"
+    },
+    {
+      "name": "Illya",
+      "text": "Hm...\nAnd you're sure those aren't sold in stores?",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふむ……\nそれは、街で売っているのではないか？"
+    },
+    {
+      "name": "Maho",
+      "text": "Udon-making ain't a popular trade in Landosol, alas...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ランドソルは、\nうどん作りが\nそんなに盛んやないんよ……"
+    },
+    {
+      "name": "Illya",
+      "text": "Hm... Udon is a dish I have yet to savor myself,\nnow that I think about it. More proof that\nfinding a rolling pin will be quite difficult, I believe.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "ふむ……\n確かにわらわも、\n生まれてこの方、うどんは食べたことがないのう。\nそうなると、\n見つけるのは難しそうじゃなあ。"
+    },
+    {
+      "name": "Maho",
+      "text": "Aww... Figured as much, but that still ain't ideal...\nYou reckon there's anything we can use in its place?\nSomethin' long, hard, and mighty strong...",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あぅ……\nやっぱり\nそうなんやろか……\n困ったわぁ。\nイリヤはん、\nなんかこう、\n代わりになりそうなものとか\n思いつかへん？\n長くて、\n硬くて……\n強そうなやつなんやけど。"
+    },
+    {
+      "name": "Illya",
+      "text": "Something long and hard...\nHeh... I may have just the ticket!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "長くて硬い……\nふふ……\n心当たりがないこともないぞ！"
+    },
+    {
+      "name": "Kaori",
+      "text": "Ooh, really? Where can we find it?",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "おおーっ？　\nイリヤ、\nそれはどこさーっ？"
+    },
+    {
+      "name": "Illya",
+      "text": "My feud with the sun causes me to take refuge in\ncaves rather often, you see. And one in particular\nis full of countless monster corpses!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "わらわは日差しが苦手で、\n洞窟などで休むことがあるのじゃが、\nその洞窟には\n魔物の亡骸が無数にあるのじゃ！"
+    },
+    {
+      "name": "Maho",
+      "text": "M-monster corpses?\nSounds awfully scary, if you ask me.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ま、\n魔物の亡骸どすか？　\nなんや、\n怖そうやなあ。"
+    },
+    {
+      "name": "Illya",
+      "text": "Verily. From what I gather, powerful monsters\nhave turned it into a grave of sorts for themselves.\nAnd among them, naturally, are the horned kind.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "うむ、\nどうやらその洞窟は\n歴戦の魔物たちが、\n最期を迎える場所になっているらしくてな、\nその中には当然、\n角の生えた魔物もいての。"
+    },
+    {
+      "name": "Illya",
+      "text": "A cavern full of sharp, durable horns, free for the picking!\nOne of them should prove a suitable replacement.",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "その角なんかは、\nとても鋭く、\n同時に強固じゃ！\nこれなら、麺棒の代わりになると思うんじゃが。"
+    },
+    {
+      "name": "Kaori",
+      "text": "Now [i]that[/i] sounds like a plan!\nEven better if we won't have to deal with live monsters!",
+      "choice_data_list": [],
+      "orig_name": "カオリ",
+      "orig_text": "確かに名案さー！\nそれに、\n亡骸からだったら、\nたいして苦労もしなさそうさー！"
+    },
+    {
+      "name": "Illya",
+      "text": "Then let us be off!\nThe cave in question is conveniently nearby, so follow in my stead!",
+      "choice_data_list": [],
+      "orig_name": "イリヤ",
+      "orig_text": "そうと決まれば出発じゃ！\nさぁ、\nわらわについてまいれ！　\n洞窟はここからすぐじゃ！"
+    },
+    {
+      "name": "Narration",
+      "text": "With their original goal now nixed,\nthe crew set off to procure a monster horn.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "『うどん用麺棒』をあきらめ、新たに『魔物の角』を求める一行は、\n魔物の墓場である洞窟へと足を踏み入れるのだった。"
+    }
+  ]
+}

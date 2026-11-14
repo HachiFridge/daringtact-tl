@@ -1,0 +1,684 @@
+{
+  "title": "It's a Fantasy World!",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Miho, the younger sister, and Maho, the older sister. The members of the Gourmet Guild escort the two, who retained their memories of \"reality\", back to their guildhouse.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "妹のミホ、\n姉のマホ──\n『現実世界』の記憶を持ったままだという二人の姉妹を、\n【美食殿】の面々は、\nギルドハウスにいったん案内する。"
+    },
+    {
+      "name": "Miho",
+      "text": "Aaaah... My stomach's so full♪ ...Um, thank you for the meal! Everything was really delicious!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "はぁ～\nお腹いっぱ～い♪\n……あのっ、\nごちそうさまでした！\nお料理、\nどれもすっごく美味しかったです。"
+    },
+    {
+      "name": "Maho",
+      "text": "Right. You truly live up to the name \"Gourmet Guild\". Still... we may have imposed on you a bit too much.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ。\nさすがは\n【美食殿】を名乗るだけはある。\nしかし……\nずいぶん面倒をかけてしまったな。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Not at all♪ Please make yourselves at home☆ Truthfully, this kind of traditional food is not all we can offer, there's also fresh monster fo~ *Mumble, mumble*",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "いえいえ♪　\n自分の家だと思って\nくつろいじゃって下さい☆\n本当は\nこういう料理だけじゃなくて、\nもっと新鮮な魔物りょ──\nむぐむぐ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Y-Yeah, we'll let you try even fresher, tastier food someday! ...Hey, Dumborine! That word is dangerous to use with someone who just arrived in this world!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あ、\nああ、\nもっとおいしいものもいつか食べさせてあげるわ！\n……\nこらアホリーヌ！　\nこの世界に来たばっかりの人に、\nそのワードはデンジャラスだっての！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Now that things have settled, let us review the situation. Lady Maho. Lady Miho.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "落ち着いたところで、\n改めまして、\n状況を整理いたしましょう。\nマホさま。\nミホさま。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please keep this confidential, but... in the world of \"Astrum\", most people have lost their memories of \"reality\", and live here without ever questioning it.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "他言無用ですが……\nこの『アストルム』の世界では、\nほとんどの方が、\n『あちら側』の記憶は\n失っているものなのです。\nこの世界の住人として、\n何の疑問もなくお暮らしであるはず。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Well, as for us... we're kind of exceptions to that rule.",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ま、\nあたしたちは、\nちょっと例外──\nなんだけどね。"
+    },
+    {
+      "name": "Maho",
+      "text": "We have no knowledge of this \"Legend of Astrum\"... this so-called full-dive... game. We simply woke up, and found ourselves here.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あなたたちのいう\n『レジェンドオブアストルム』──\nそのフルダイブ型？　\n……\nのゲームのことを\nわたしたちは知らないんだ。\n本当に──\nただ目が覚めたら、\nわたしたちはこの世界にいた。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "The \"mimi\"... that is, the VR device... I take it you are unfamiliar with it as well. If you did not \"Dive\" of your own will, then perhaps something you did before you came here triggered this.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "『mimi』……\nえっと、\nVRデバイスのことも\n知らないんだものね……\n自分からダイブしたわけじゃない、\nとすると\nここに来る前の行動が\nきっかけになってたりするのかしら。"
+    },
+    {
+      "name": "Maho",
+      "text": "...Before we came here, huh? I was reviewing terrain, formations, and vehicle types in preparation for tomorrow's drills. Nothing out of the ordinary. What about you, Miho?",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……直前の行動か。\n明日の演習に備え、\n戦地の地形、\n布陣、\n車種の確認をしていた。\nわたしにとってみれば、\nいつも通りだったな。\nみほはどうだ？"
+    },
+    {
+      "name": "Miho",
+      "text": "I went out for tea with everyone from school... we talked about lots of things... And when I got home, I was getting ready for tomorrow's drills...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "わたしは、\n学校のみんなとお茶をしに出かけて……\nいろんなおしゃべりをして……\nそれからやっぱり、\n帰ってからは明日の演習に備えたり……"
+    },
+    {
+      "name": "Miho",
+      "text": "Ah, by \"drills\", I mean tank drills.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "あっ、\n演習っていうのは、\n戦車の演習です。"
+    },
+    {
+      "name": "Kokkoro & Kyaru",
+      "text": "...\"Tank\"?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・キャル",
+      "orig_text": "……『戦車』？"
+    },
+    {
+      "name": "Miho",
+      "text": "...? Um, is there something wrong with it...?",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "……？\nえっと、\n戦車が何かおかしかったですか……？"
+    },
+    {
+      "name": "Karyl",
+      "text": "No, no, the weird part is how casually you're saying that! By \"tank\", you mean actual tanks, right?! There's way too much to unpack here!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いやいや、\n当たり前のように言う方がおかしいでしょーが！\n戦車って、\nあの戦車よね！？\nあんたたちの話、\nさっきから気になることが多すぎない！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Okaaaay, let me handle the explanations☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "はーい、\nそれ私が説明しまーす☆"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Ho... Homare-san?!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ホ……\nホマレさん！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "At least knock before coming in!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "入ってくるときはノックくらいしなさいよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Yaho, been a while♪ Everyone been well? You too, {0}-kun♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "やっほ～、\n久しぶり♪\nみんな元気してた？\n{0}くんも♪"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Homare-san! Heyas☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "ホマレさん、\nオイッス～☆"
+    },
+    {
+      "name": "Homare",
+      "text": "I'll get right to the point, so... Sorry about that~☆ Looks like I'm the one who \"called\" them here♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "さっそく本題に入るんだけど\nごめんね～、\nその子たち、\n私が\n“呼んじゃった”みたい☆"
+    },
+    {
+      "name": "Sheffy",
+      "text": "You called them here... what does that mean? Are you two Homare-san's acquaintances...?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ホマレさんが呼んだ\nって……\nどういうこと？\n二人は\nホマレさんのお知り合いなの？"
+    },
+    {
+      "name": "Maho",
+      "text": "I see... she's your acquaintance, Miho.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "そうだったのか、\nみほ。"
+    },
+    {
+      "name": "Miho",
+      "text": "Huh? Big Sis, you don't know her either?",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "えぇっ？\nお姉ちゃんの知り合いじゃなくて？"
+    },
+    {
+      "name": "Homare",
+      "text": "No, it's the first time I'm meeting them both☆ Nice to meet you, I'm Homare♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ううん、\n二人ともはじめましてだよ☆\nこんにちは、\n私はホマレ♪"
+    },
+    {
+      "name": "Homare",
+      "text": "First, let me introduce them to everyone. These two are daughters of a very prestigious school of a certain martial art that is famous in \"another world\".",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "まずはみんなに紹介するね。\nこの二人は、\n『あっちの世界』では有名な\n“とある武芸”の、\nすごーく立派な流派の娘さんなんだ。"
+    },
+    {
+      "name": "Karyl",
+      "text": "A-A martial art? A school of martial arts?! So... like, proper high-class ladies? I-I see. I had a feeling that was the case...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ぶっ、\n武芸？　\n流派！？\nつまり……\nお嬢様ってやつ？\nそ、\nそうだったのね～～。\nちょっとそんな空気は感じてたわ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Hmm. When you say \"prestigious school of martial arts\", what kind are you speaking of? Kendo, judo, karate... several come to mind.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ふむ。\n高名な流派というと、\nいったいどのような武芸なのでしょうか？\n剣道、\n柔道、\n空手道。\nなどなど思い浮かびますが。"
+    },
+    {
+      "name": "Maho",
+      "text": "Ah, that's related to the \"drills\" we were speaking of earlier. Miho and I are both from the Nishizumi school... a school of \"Tankery (Sensha-do)\".",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ、\nそれこそ、\n先ほど話した\n『演習』に関係するものだ。\nわたしとみほは、\n西住流──\n『戦車道』の、\nその流派の家の者ということになる。"
+    },
+    {
+      "name": "Kokkoro Sheffy Kyaru",
+      "text": "\"Tankery\"...?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ・シェフィ・キャル",
+      "orig_text": "『戦車道』……？"
+    },
+    {
+      "name": "Maho",
+      "text": "I see... my apologies. So there are those unfamiliar with it. It seems we still have much to learn.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……そうか、\nすまない。\n『戦車道』を知らない人もいるのか。\nわたしたちもまだまだ精進が足りないようだな。"
+    },
+    {
+      "name": "Miho",
+      "text": "Um, \"Tankery\", as the name suggests, is a traditional martial art where you ride tanks and compete under a set of rules.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "えっと、\n戦車道っていうのは、\n名前の通り戦車に乗って、\nルールのもとに戦う、\n伝統的な武芸なんです。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "By tank, you mean... ACTUAL tanks? Those big ones... with cannons...?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "戦車って、\nあの戦車ですか？\n大きくて……\n砲台がついてる、\nあの……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "You girls actually pilot those?! Japanese girls sure are amazing! How crazy☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あれを、\nあなた方が乗りこなしているんですか！？\n日本の女の子たちって\nすごいですね！\nやばいです☆"
+    },
+    {
+      "name": "Karyl",
+      "text": "NO, STOOOOOOOP!! No matter how big the world may be, there's no way girls our age are fighting in tanks as a martial art!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "いやストーーーーップ！！\nいくら世の中は広いっつっても、\nあたしらと同い年くらいの女子が\n戦車に乗って戦う武芸だなんて、\nあり得ないでしょーが！？"
+    },
+    {
+      "name": "Karyl",
+      "text": "Hey, Homare! Dumborine's from overseas, you know!? You keep spouting nonsense and she's actually starting to believe it! Hurry up and explain already!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "ちょっとホマレ、\nアホリーヌは海外出身なのよ！？\nあんたが適当言ってからかうから、\n信じかけてるじゃない！\nさっさとネタバラシしなさいよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "No, no, I'm not trying to tease her. A proper explanation would take forever, so I'll keep it simple.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ううん、\nからかってなんかないよ～？\nちゃんと説明すると\n長くてややこしいから\n簡単にまとめるね。"
+    },
+    {
+      "name": "Homare",
+      "text": "These two... are guests from another version of \"reality\", connected here as a result of my experiment☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "この二人はね、\n私の実験の影響でつながった、\n『別の現実世界』からやってきた\nお客さんでーす☆"
+    },
+    {
+      "name": "Homare",
+      "text": "Have I ever told you about my \"TimeLab\"? {0}-kun, you were there when it went haywire, right?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "『タイムラーベ』のこと、\n話したことあったっけ？\n{0}くんは、\nあのとき一緒だったよね。"
+    },
+    {
+      "name": "Karyl",
+      "text": "Ah, I've heard of it! Some kind of magical device that can rewind time... No way, could it be...",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "あっ、\n聞いたことあるわ！\n時間をさかのぼれる魔道具が、\nどっかにあるって……\nまさか……"
+    },
+    {
+      "name": "Homare",
+      "text": "Ding-dong☆ To be precise, it doesn't allow one to travel through time, it's a \"spacetime branch simulator\". It lets you test what outcomes different points and branches in time would produce.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ピンポーン☆\n正確には、\nさかのぼるんじゃなくって、\n『時空分岐シミュレーター』。\nどの時点の、\nどの分岐が、\nどんな結果を生むか、\n確かめるものなの。"
+    },
+    {
+      "name": "Homare",
+      "text": "You know, a simulator that can generate near-perfect copies of reality by freely adjusting parameters♪ So, let's go♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "知っての通り、\n自由にパラメータを弄った\n現実そっくりの空間をつくれる\nシミュレーター\nそれでは、\nレッツゴー♪"
+    },
+    {
+      "name": "Homare",
+      "text": "So I thought... why not try it on that world too, \"reality\"? I was in the middle of modifying it when... well.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "それでね。\nこのアストルムの世界だけじゃなくって、\nあっちの世界……\n『現実世界』のほうも試せないかなーって、\n改造してたところだったんだけど。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "...! So that means... you were trying to simulate possible worlds that could have existed based on \"reality\"?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "……！\nそれって……\nあちら側で『ありえたかもしれない世界』を\nシミュレーションするってこと？"
+    },
+    {
+      "name": "Homare",
+      "text": "Sheffy-chan, I'm impressed☆ Virtual parallel worlds... \"what-if\" scenarios. I've been making all kinds and testing them♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "シェフィちゃん、\nさすがだね☆\n仮想的な並行世界──\n『もしもの世界』を、\nいろいろ創って試してる、\nって感じかな～"
+    },
+    {
+      "name": "Miho",
+      "text": "...Big Sis. They're talking about something really complicated, aren't they...?",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "……お姉ちゃん。\nみんな、\nなんだか難しそうな話をしてるね……？"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah... I can't quite grasp the logic behind it just yet, but it seems the reason we couldn't communicate with everyone was because we came from a different \"reality\"... or so it seems.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "あぁ……\nすぐには飲み込めないが\nみんなと話が噛み合わなかったのは、\nどうやらわたしたちが\n『別の現実世界』から来たから……\nということなのか。"
+    },
+    {
+      "name": "Homare",
+      "text": "Right, right... accidents happen in experiments, you know? The simulation itself worked fine, but... it seems some factors from \"that world\" slipped into this one.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そうそう、\n実験にアクシデントはつきものでね～？\nシミュレーションはうまくできたんだけど、\nあっちの世界の因子が\nこっちに\nちょっと入り込んじゃったみたいなんだ～"
+    },
+    {
+      "name": "Homare",
+      "text": "I still don't know how that happened, though. It should've all just been data inside the simulator...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "どうして入り込んだのかは、\n分かってないんだけどね。\nあくまでも\nシミュレーション装置の中の\nデータにすぎないはずなんだけど……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Factors from a \"what-if\" world. And those would be Lady Miho and Lady Maho.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "『もしもの世界』の\n因子。\nそれが、\nミホさまとマホさま、\nということなのですね。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Um... This is a lot to take in and believe all at once, however...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "その……\n急には\n信じられそうにないけど……\nでも……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Given all the extraordinary things Lady Homare has shown us before... her explanation does carry weight. I believe it is likely true.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "これまでも数々の離れ業をお見せくださっているホマレさまだけに、\n説得力がございます。\nおそらく本当に、\nホマレさまのおっしゃる通りなのかと。"
+    },
+    {
+      "name": "Karyl",
+      "text": "I'm kind of impressed, but basically, Homare messed up an experiment and people from \"another world\" flew into this one, right? You'd better reflect on your actions from now on!!!",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "なんか感心してるけど、\n要するに\nホマレが実験をミスって\n別の世界のやつらがこの世界に飛んできたって話でしょ？\nちっとは反省しなさいよ！！"
+    },
+    {
+      "name": "Homare",
+      "text": "Eeeeh, Kyaru-chan, so harsh~☆... But I guess that's true, I'm sorry for the trouble Maho-chan, Miho-chan. You must have been surprised to suddenly come to this world.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "えーん、\nキャルちゃん手厳しい～☆\n……でも\nそうだよね、\nマホちゃんとミホちゃんもごめんね？\nいきなりこんな世界に来て、\nびっくりしたでしょ。"
+    },
+    {
+      "name": "Miho",
+      "text": "Ah, no! It was a surprise... but meeting such kind people really helped put me at ease. ...Though I am a little worried about whether we can get back home...",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "あ、\nいえっ。\n確かにびっくりしましたけど、\nみなさんみたいな親切な人たちに助けてもらえて\n安心しました。\n……無事に元の世界に帰れるかは、\nちょっと心配ですけど……"
+    },
+    {
+      "name": "Maho",
+      "text": "Yeah. No matter how difficult the path ahead, I will overcome it. Perhaps this, too, is a trial to refine my tankery skills.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "ああ。\nだが\nどんな困難な道であろうとも、\n突破してみせよう。\nこれもまた\n戦車道を高めるための、\n試練なのかもしれないな。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Wow♪ You're both so composed, how cool☆ So, umm... What should we do to return them to their world?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わお♪　\nお二人とも立派ですね、\nカッコいいです☆\nそれで、\nえ～っと……\nミホさんとマホさんが元の世界に帰るには、\nどうすればいいんでしょう？"
+    },
+    {
+      "name": "Homare",
+      "text": "A way to send them back to their world's \"reality\", huh? Let me think...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "元の世界に戻る方法か～\nそうだなあ～……"
+    },
+    {
+      "name": "Homare",
+      "text": "Hmm... If these girls are just simulated beings, then we don't really have to worry about having them \"return\" or not; I can simply \"delete\" them and everything will be resolved.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "うーん……\nこの子たちがシミュレーション上の存在であれば\n帰るとか帰らないとか気にしなくても、\n『消去』しちゃえば\nまるっと解決──"
+    },
+    {
+      "name": "？？？",
+      "text": "WAAAAAAAAAAAIT--!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "待ったーっ！"
+    },
+    {
+      "name": "Miho",
+      "text": "Ah. A new person has arrived.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "わっ。\nまた新しい人が増えた。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Labyrista...?!",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ラビリスタさま……！？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "I KNEW it was your doing, Homare! Seriously, what do you think you're doing?!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "や～～っぱりホマレ、\nキミのしわざだったかー\nまったくもう、\nなんてことしてくれんのさー！"
+    },
+    {
+      "name": "Homare",
+      "text": "Ahaha, I got busted by someone I didn't want to alert☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あはは、\n見つかりたくない人に見つかっちゃった☆"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Well, well... I detected an unregistered factor and rushed over, only to find you, as usual, doing whatever you please in a world people worked very hard to create... Astrum wasn't designed to handle this kind of layered structure, you know?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "いやはや……\n未登録因子の出現を検知して飛んできてみたら\n相変わらずキミは、\n人が一生懸命作った世界で好き勝手するんだから……\nアストルムは\nこういう多重構造を想定してないんだよ？"
+    },
+    {
+      "name": "Homare",
+      "text": "But you know... it worked out, so I figured it'd be fine☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "でもさ～\nできちゃったんだから、\nいいかなーって☆"
+    },
+    {
+      "name": "Labyrista",
+      "text": "It is NOT! We've clearly got an irregular situation on our hands!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "ダーーー\nメっ！\n現にこうして、\nイレギュラーな事態が起きてるじゃないか！"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Ah, right. I got carried away talking about it as soon as I showed up. Umm... so you two are the \"otherwordly visitors\", correct? Hello, I'm Labyrista. Nice to meet you!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……っとと、\n登場するや否やこっちの話で盛り上がっちゃったね。\nえーと\nキミたち二人が、\n『別世界からの来訪者』で合ってるかい？\nこんにちは、\nアタシはラビリスタ。\nよろしくねっ。"
+    },
+    {
+      "name": "Miho",
+      "text": "Nice to meet you. I'm Nishizumi Miho.",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "はじめまして、\n西住みほです。"
+    },
+    {
+      "name": "Maho",
+      "text": "I am Miho's elder sister, Maho Nishizumi. A pleasure.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "みほの姉の、\n西住まほだ。\nよろしく。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Mmm, I'm glad to hear how polite you are♪ You can think of me, in very broad terms... as someone who knows this world pretty well.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "うんうん、\n礼儀が正しくてよろしい♪\nアタシのことは、\nザ～～ックリ説明すると\nこの世界に詳しい人……\nって\n思ってくれれば大丈夫だよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Ahaha, thank you for the slightly spicy explanation♪ Also, you seem to have been introduced to Homare already? She is... someone who knows a lot about this world in a reaaaaaaally bad way!",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "あははっ、\nほんのり辛味のある説明をどうも♪\nそれから、\nホマレのことはもう知ってるのかな？\nこっちは……\n悪～～\nい意味で\nこの世界に詳しい人、\nって感じだね！"
+    },
+    {
+      "name": "Homare",
+      "text": "Eeeeh... That sounded almost the same, but somehow mine leaves a worse impression?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "え～、\nほとんど同じなのに、\nなんか私の方が印象悪くな～い？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "We've already exchanged our greetings \"Gourmet Guild\" style♪ We even shared a meal at the same table☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "わたしたち【美食殿】は、\nもうバッチリご挨拶が済んでますよ♪\n一緒に食卓まで囲んじゃいましたから☆"
+    },
+    {
+      "name": "Sheffy",
+      "text": "It's reassuring to also have you here, Labyrista-san. ...You see, we were looking for a way for Miho and Maho to return to their original world.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ラビリスタさんまでこの場に揃ったら頼もしいわね。\n……\nあ\nのね、\n私たち、\nミホさんとマホさんが\n元の世界に帰る方法を探していたの。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...Yeah, figures. Heh, I had a feeling you'd say that.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……ああ、\nそうだね。\nははっ、\nキミならそう言うだろうと思ってたよ。"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...So, you've heard him loud and clear. You'll take responsibility and send them back, right, Homare?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……というわけで、\n聞いての通り。\nキミが責任もって送り返してくれるね、\nホマレ？"
+    },
+    {
+      "name": "Homare",
+      "text": "Okaaaay. Leave it to me☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "は～い。\n任されました☆"
+    },
+    {
+      "name": "Homare",
+      "text": "I also had a feeling... that {0}-kun would say something of the sort.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "私も、\nきっと{0}くんなら\nそう言い出すだろうなって、\n予感はしてたんだけどね。"
+    },
+    {
+      "name": "Homare",
+      "text": "You know, their arrival to this world was unexpected, but it seems doing the reverse won't be that difficult. I was doing a little research while we were talking.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あのね、\nこの世界に来れたのは想定外だったけど、\nその逆は\n難しくないみたいだよ～\n話しながらちょっと調べてたんだ。"
+    },
+    {
+      "name": "Homare",
+      "text": "If you enter the \"TimeLab\" with me, its owner, and transfer back... that's it☆ You'll both return safely to your original world.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "所有者の私と一緒に\nこの『タイムラーベ』に入って、\n向こうに転送されちゃえばおしまい☆\nそれで二人とも\nちゃんと、元の世界に戻れるよ。"
+    },
+    {
+      "name": "マホ・ミホ",
+      "text": "……！",
+      "choice_data_list": [],
+      "orig_name": "マホ・ミホ",
+      "orig_text": "……！"
+    },
+    {
+      "name": "Miho",
+      "text": "You've been figuring all that out while we were talking...? Amazing!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "いまこうして話しながら、\n調べてくれてたんですね。\nすごい……っ。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Umm, excuse me! In that case, could we come with you?!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "あのあのっ！\nそれなら、\nわたしたちも一緒に送りに行ってもいいですか！？"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "I concur with Lady Pecorine. There is no guarantee nothing will happen after the transfer.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "わたくしも\nペコリーヌさまに賛成でございます。\n転送された先で、\n何かトラブルが無いとも限りませんし。"
+    },
+    {
+      "name": "Miho",
+      "text": "Wow...! Thank you very much, everyone!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "わぁ……っ！　\nみなさん、\nありがとうございます！"
+    },
+    {
+      "name": "Maho",
+      "text": "I appreciate the sentiment, but... I cannot ask that much of you~",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "気持ちはありがたいが、\nそこまでしてもらうのは\n流石に申し訳ない──"
+    },
+    {
+      "name": "Karyl",
+      "text": "Maho~ even if you try to hold back, they're coming anyway. That's just how these people are♪",
+      "choice_data_list": [],
+      "orig_name": "キャル",
+      "orig_text": "マ～ホ～、\n遠慮したところで\nどうせ付いてくるわよ。\nそういうやつらなのよ、\nこいつら♪"
+    },
+    {
+      "name": "Maho",
+      "text": "...Ah, I see. In that case, I'll be in your care for a little while longer.",
+      "choice_data_list": [],
+      "orig_name": "マホ",
+      "orig_text": "……ああ、\nそうか。\nそれでは、\nもう少しだけ世話になろう。"
+    },
+    {
+      "name": "Homare",
+      "text": "Looks like we've reached an agreement. Okay, let's get started then~♪ Everyone, please enter the \"Gate\" with those two. Mosakuji-san~ How unfortunate, we're a bit over capacity☆",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "話はまとまったみたいだね。\nじゃ、\nそろそろはじめよっか～♪\nみんなは、\n二人とゲートに入ってほしいな。\n模索路さんは、\n残念～。\n定員オ～バ～～"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Eeeh?! Did you just add that \"capacity limit\" on the spot?! ...Well, I guess I'm supposed to stay here on standby in case something happens. Though honestly? I really wanted to see it... a world with this \"Tankery\" in it.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "えええ！？　\n定員とかいう設定、\n後付けしなかった今！？\n……ま、\nアタシは万が一に備えて、\nこっちで待機してくれってんでしょ。\nほんとは？　\nめちゃくちゃ見たいけど？　\nその\n戦車道ってのが\nある世界？"
+    },
+    {
+      "name": "Labyrista",
+      "text": "...To be more precise, there were some things I wanted to confirm. I understand now that this was an unexpected accident even for Homare. But then, what's the reason those two came here...?",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "……もっと言えば、\n確認しておきたいこともあった。\nこれがホマレも想定外のアクシデントだっていうのは分かったけど\nどうしてこの二人が来たのか、\nその理由──"
+    },
+    {
+      "name": "Labyrista",
+      "text": "But, well... I suppose there's no need to push it right now.",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "まあでも、\nここで無理をすることもない、\nか……"
+    },
+    {
+      "name": "Labyrista",
+      "text": "Well then, everyone, be careful♪",
+      "choice_data_list": [],
+      "orig_name": "ラビリスタ",
+      "orig_text": "それじゃみんな、\n気を付けてねっ♪"
+    },
+    {
+      "name": "Miho",
+      "text": "Yes! You too, Labyrista-san! Thank you so much!",
+      "choice_data_list": [],
+      "orig_name": "ミホ",
+      "orig_text": "はいっ！\nラビリスタさんも、\nありがとうございました！"
+    },
+    {
+      "name": "TimeLab",
+      "text": "The \"TimeLab\" has been activated. Please proceed to the \"Time Gate\".",
+      "choice_data_list": [],
+      "orig_name": "タイムラーベ",
+      "orig_text": "タイムラーベ起動しました。\nタイムゲートへどうぞ。"
+    }
+  ]
+}

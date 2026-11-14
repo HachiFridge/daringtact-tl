@@ -1,0 +1,898 @@
+{
+  "atlas_name": "AtlasQuestDetail",
+  "sprites": [
+    {
+      "name": "battle_gauge_bosshp_bg",
+      "x": 1743,
+      "y": 1588,
+      "width": 16,
+      "height": 12,
+      "border": [
+        5,
+        0,
+        5,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "battle_gauge_bosshp_frame",
+      "x": 1801,
+      "y": 1562,
+      "width": 76,
+      "height": 21,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "battle_gauge_bosshp01_clan",
+      "x": 1870,
+      "y": 1951,
+      "width": 16,
+      "height": 12,
+      "border": [
+        5,
+        0,
+        5,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bulkskip_icon_txt_rare",
+      "x": 1891,
+      "y": 1843,
+      "width": 29,
+      "height": 17,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "clear_cover",
+      "x": 2006,
+      "y": 1721,
+      "width": 32,
+      "height": 32,
+      "border": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "gauge_bar_energy",
+      "x": 1775,
+      "y": 1803,
+      "width": 16,
+      "height": 6,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "gauge_bar_hp",
+      "x": 1775,
+      "y": 1811,
+      "width": 16,
+      "height": 6,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "gauge_result_bg",
+      "x": 1922,
+      "y": 1845,
+      "width": 25,
+      "height": 15,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "icon_item",
+      "x": 1838,
+      "y": 2001,
+      "width": 51,
+      "height": 47,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "icon_minus",
+      "x": 1838,
+      "y": 1953,
+      "width": 30,
+      "height": 10,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_plus",
+      "x": 2006,
+      "y": 1689,
+      "width": 30,
+      "height": 30,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_plus_white",
+      "x": 2018,
+      "y": 1846,
+      "width": 28,
+      "height": 28,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_Reward",
+      "x": 1902,
+      "y": 1558,
+      "width": 92,
+      "height": 30,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_reward_boss",
+      "x": 1902,
+      "y": 1590,
+      "width": 112,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_reward_clear",
+      "x": 1652,
+      "y": 1602,
+      "width": 112,
+      "height": 34,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "icon_reward_sword",
+      "x": 1960,
+      "y": 1626,
+      "width": 62,
+      "height": 61,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "mask_questDetail00",
+      "x": 0,
+      "y": 1536,
+      "width": 512,
+      "height": 512,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_boss_frame",
+      "x": 1798,
+      "y": 1585,
+      "width": 102,
+      "height": 102,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_clan_boss_info_bg",
+      "x": 1653,
+      "y": 1843,
+      "width": 127,
+      "height": 104,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "quest_detail_effects_base",
+      "x": 2006,
+      "y": 1755,
+      "width": 36,
+      "height": 36,
+      "border": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_detail_txt_rare",
+      "x": 2001,
+      "y": 2028,
+      "width": 44,
+      "height": 20,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_frame00",
+      "x": 1652,
+      "y": 1638,
+      "width": 144,
+      "height": 156,
+      "border": [
+        93,
+        50,
+        18,
+        66
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_guide_balloon_chat",
+      "x": 1653,
+      "y": 1949,
+      "width": 183,
+      "height": 99,
+      "border": [
+        30,
+        25,
+        30,
+        25
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_guide_balloon_chat_triangle",
+      "x": 1766,
+      "y": 1612,
+      "width": 27,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_line_h3",
+      "x": 1838,
+      "y": 1965,
+      "width": 36,
+      "height": 34,
+      "border": [
+        30,
+        0,
+        6,
+        0
+      ],
+      "padding": [
+        0,
+        6,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "quest_reward_icon_txt_rare",
+      "x": 2001,
+      "y": 2004,
+      "width": 36,
+      "height": 22,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "quest_text_skipresult",
+      "x": 1079,
+      "y": 1493,
+      "width": 662,
+      "height": 99,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "questdetail_frame_uniqueequip",
+      "x": 1798,
+      "y": 1689,
+      "width": 102,
+      "height": 102,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questdetail_frame_uniqueequip2",
+      "x": 1902,
+      "y": 1689,
+      "width": 102,
+      "height": 102,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questguide_baloon_bg_gold",
+      "x": 1798,
+      "y": 1793,
+      "width": 221,
+      "height": 47,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "questguide_icon_level",
+      "x": 1902,
+      "y": 1631,
+      "width": 56,
+      "height": 56,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "name": "questguide_icon_princessknight",
+      "x": 437,
+      "y": 1478,
+      "width": 56,
+      "height": 56,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "name": "questguide_label_princessknight",
+      "x": 0,
+      "y": 1503,
+      "width": 435,
+      "height": 31,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "questguide_sd_danger",
+      "x": 514,
+      "y": 1392,
+      "width": 563,
+      "height": 200,
+      "border": [
+        525,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        5,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questguide_sd_danger_big",
+      "x": 1084,
+      "y": 1796,
+      "width": 567,
+      "height": 252,
+      "border": [
+        525,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questguide_sd_normal",
+      "x": 1082,
+      "y": 1594,
+      "width": 568,
+      "height": 200,
+      "border": [
+        530,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questguide_sd_normal_big",
+      "x": 514,
+      "y": 1796,
+      "width": 568,
+      "height": 252,
+      "border": [
+        525,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questguide_sd_princessknight",
+      "x": 514,
+      "y": 1594,
+      "width": 566,
+      "height": 200,
+      "border": [
+        525,
+        0,
+        25,
+        0
+      ],
+      "padding": [
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questmapbase_frame_target",
+      "x": 1766,
+      "y": 1586,
+      "width": 24,
+      "height": 24,
+      "border": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "questmapbase_texticon_target",
+      "x": 1775,
+      "y": 1819,
+      "width": 16,
+      "height": 21,
+      "border": [
+        5,
+        8,
+        5,
+        8
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "stamp_achievement",
+      "x": 1891,
+      "y": 1943,
+      "width": 108,
+      "height": 105,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "stamp_conquest",
+      "x": 1782,
+      "y": 1842,
+      "width": 107,
+      "height": 105,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "star_xl_off",
+      "x": 1891,
+      "y": 1862,
+      "width": 83,
+      "height": 79,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "star_xl_on",
+      "x": 1976,
+      "y": 1876,
+      "width": 67,
+      "height": 65,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "texticon_lightblue",
+      "x": 1976,
+      "y": 1846,
+      "width": 40,
+      "height": 28,
+      "border": [
+        12,
+        0,
+        12,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "texticon_talentbonus",
+      "x": 1653,
+      "y": 1803,
+      "width": 120,
+      "height": 38,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "texticon_white",
+      "x": 1743,
+      "y": 1543,
+      "width": 56,
+      "height": 40,
+      "border": [
+        20,
+        0,
+        20,
+        0
+      ],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

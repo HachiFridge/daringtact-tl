@@ -1,0 +1,619 @@
+{
+  "title": "Desperate Times",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "More and more visitors make their way to the temple\nas New Year's Eve slowly draws to a close,\nleaving the party busier than ever.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "冬の夕空が近づいてきた大晦日の神殿には参拝客が増え、\n{0}たちも忙しく駆け回っていた。"
+    },
+    {
+      "name": "Woman",
+      "text": "Excuse me, miss.\nCould you bring me a drink, please?",
+      "choice_data_list": [],
+      "orig_name": "女性",
+      "orig_text": "お姉さ～ん。\nこっちに飲み物をいただけるかしら？"
+    },
+    {
+      "name": "Youngster",
+      "text": "Could you bring us two drinks after that, then?",
+      "choice_data_list": [],
+      "orig_name": "若者",
+      "orig_text": "じゃあお姉さん、\nそのあと僕たちにも二つもらえないかな？"
+    },
+    {
+      "name": "Yui",
+      "text": "Of course!\nI'll go get them for you right away!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "はーい！\n　すぐ持ってきまーす！"
+    },
+    {
+      "name": "Yui",
+      "text": "So much for security!\nWe're just helping out with general errands now!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "これじゃあもう警備のお仕事じゃなくて、\nただのお手伝いみたいになってるよー！"
+    },
+    {
+      "name": "Boy",
+      "text": "Excuse me! Is there somewhere I can write down my wish?\nI kind of forgot to do it earlier.",
+      "choice_data_list": [],
+      "orig_name": "少年",
+      "orig_text": "すみませーん。\n願いを書いてくるの忘れちゃったから、\nここで書きたいんですけど、\nできますか？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "The temple has a place specifically for that, so don't worry!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "神殿に書く場所があるから、\n大丈夫だよっ！"
+    },
+    {
+      "name": "Boy",
+      "text": "Really? Thank you!",
+      "choice_data_list": [],
+      "orig_name": "少年",
+      "orig_text": "そうなんですか？\n　\nありがとうございます！"
+    },
+    {
+      "name": "Youngster",
+      "text": "You're one of the security folk, right?\nThought I should tell you that someone had their wallet stolen.",
+      "choice_data_list": [],
+      "orig_name": "若者",
+      "orig_text": "キミって警備の人？\n　\nなんか財布盗られたって人いるんだけど。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Really?! Okay, I'll be right there!\nI can't believe someone would do that at this time of the year.\nThey're gonna get a big slap on the butt!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ええっ！？\n　\nはいはーい！\n　今行きまーす！\nこんな時にひどいことする人は、\nお尻ペンペンしちゃうぞー！"
+    },
+    {
+      "name": "Rei",
+      "text": "Oh, here you are.\nYui and Hiyori are... still out helping others, I see.",
+      "choice_data_list": [
+        "How are you faring?"
+      ],
+      "orig_name": "レイ",
+      "orig_text": "やあ、\nここにいたのか。\nユイとヒヨリは……\n応援に駆り出されたままみたいだね。"
+    },
+    {
+      "name": "Rei",
+      "text": "I finally cleared my load up there, so it's about time I get back to\nsecurity duty. Who knows when another wish will show up.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "やっと手が空いたところさ。\nでもそろそろ警備に戻らないと。\nまたいつ願いが出てくるか分からない。"
+    },
+    {
+      "name": "Rei",
+      "text": "Would you mind joining me?\nIt'll be reassuring knowing there's two of us.",
+      "choice_data_list": [
+        "Can't say I'll be that much help."
+      ],
+      "orig_name": "レイ",
+      "orig_text": "キミも一緒についてきてくれないか。\n何かあった時に二人のほうが心強いからね。"
+    },
+    {
+      "name": "Rei",
+      "text": "Come now. I'm more than willing to rely on you these days,\nso don't put yourself down like that.",
+      "choice_data_list": [
+        "Sorry."
+      ],
+      "orig_name": "レイ",
+      "orig_text": "そんなことない。\n私はもうキミを頼っているんだ。\nだからキミにはキミ自身を、\nあまり悪く言わないでもらいたいな。"
+    },
+    {
+      "name": "Rei",
+      "text": "No worries. So long as you understand.\nNow then. Let's do some patrolling, shall we?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "謝らなくても、\n分かってくれればいいんだ。\nそれじゃあ気を取り直して、\n見回りにいこう。"
+    },
+    {
+      "name": "Rei",
+      "text": "It's as busy as usual, but nothing seems out of the ordinary.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "相変わらず人は多いけど、\n異常なし。"
+    },
+    {
+      "name": "Woman's Voice",
+      "text": "What's the deal here?!\nWhat is this thing?!",
+      "choice_data_list": [],
+      "orig_name": "女性の声",
+      "orig_text": "何よこれ！\n　どうなってるの！？"
+    },
+    {
+      "name": "Rei",
+      "text": "Did another wish appear? Let's hurry!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "願いが具現化したか？\n　\n急ぐよ！"
+    },
+    {
+      "name": "Man",
+      "text": "Take this! Hiyahhh!\nWhat the?! My strikes won't connect with it!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "このっ！！\n　\nおりゃああっ！！\nどうなってんだ……！\n　ワシの武器がちっとも当たらねぇ！"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "I just wanted one...\nI just wanted one...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "……ミツケタカッタ。\nミツケタカッタ……"
+    },
+    {
+      "name": "Rei",
+      "text": "Security here!\nLeave the rest to us and get away from here!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "神殿の警備の者です！\n　危ないから下がって！\nあとは私たちに任せてください！"
+    },
+    {
+      "name": "Man",
+      "text": "You're in charge of security this year, huh?\nSorry! It's in your hands!",
+      "choice_data_list": [],
+      "orig_name": "男",
+      "orig_text": "今年の警備はアンタたちか。\nすまんが頼んだぞ！"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "I just wanted one...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "ミツケタカッタ……"
+    },
+    {
+      "name": "Rei",
+      "text": "It has a much clearer form and color than the ones before it.\nBe on guard. This might not go as smoothly as it has so far.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "さっきのより色や形がはっきりしてる……\nコイツは今まで通りにはいかない気がする。\nキミも気をつけて。"
+    },
+    {
+      "name": "Rei",
+      "text": "What is it that you wanted?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "見つけたかったって、\n何を？"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "A... job...\nI just wanted... a job... before the year ended...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "シ……ゴト……\nミツケタカッタ……\nコトシマデニ、\nシゴトォ……"
+    },
+    {
+      "name": "Rei",
+      "text": "A job seeker, is it?\nI'm not quite sure how we should go about purifying this one.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……求職中の参拝客から生まれた願いか。\nこの場合、\nどうやって浄化すればいいんだ？"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "I want... a job...\nWhy can't I... find one...?",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "シゴト……\nミツケタイ……\nミツカラナイ……\nドウシテ？"
+    },
+    {
+      "name": "Rei",
+      "text": "We can't just go find a job for it, either...\nI'm stumped here...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "仕事を探してくる……\nなんて不可能だし、\nどうすれば……"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "Someone...\nCheer me up...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "……モット。\nモットゲンキ、\nホシイ……"
+    },
+    {
+      "name": "Rei",
+      "text": "N-now it wants to be cheered up?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "げ、\n元気？"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "Cheer me up!\nPep talk!",
+      "choice_data_list": [
+        "We should do just that."
+      ],
+      "orig_name": "具現化した願い",
+      "orig_text": "モットゲンキ！\n　ゲンキ！"
+    },
+    {
+      "name": "Rei",
+      "text": "I see.\nHelping to reframe its state of mind may do the trick, so let's try that.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "なるほど。\n気の持ちようかも知れない。\nとにかくやってみよう。"
+    },
+    {
+      "name": "Rei",
+      "text": "Hiyori's a much better fit for this than me,\nbut I'll give it my best shot.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "こういうのはヒヨリが得意なんだろうけど、\n私も自分にできる限り頑張ってみるよ。"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "Work...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "……シゴトォ。"
+    },
+    {
+      "name": "Rei",
+      "text": "Um... Cheer up!\nNext year'll be a great year!\nI'm sure you'll find a job soon!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "その……\n元気を出して！\n来年にはきっといいことあるよ！\n　仕事だって見つかるさ！"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "...",
+      "choice_data_list": [
+        "Well that didn't work."
+      ],
+      "orig_name": "具現化した願い",
+      "orig_text": "……"
+    },
+    {
+      "name": "Rei",
+      "text": "Urgh...\nWhere did I go wrong?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くっ、\n今の何がいけないって言うんだ……"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "Cheer me up... more...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "モットゲンキ、\nホシイ……"
+    },
+    {
+      "name": "Rei",
+      "text": "More?\nIs there anything else I can even say?\nOr was I just not saying the right things in the first place?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "「もっと」って……\nこれ以上の言葉なんてどうすればいいって言うんだ……\nそれとも今のは、\nベストな励ましじゃないのか……？"
+    },
+    {
+      "name": "Rei",
+      "text": "Argh! I don't have a clue...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ああもう、\nもっとなんて分かんないよ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Don't give in, Rei!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさーん、\n頑張ってー！！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hiyori! Yui!\nI didn't think you'd come!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ヒヨリ！\n　ユイ！\n　\n来てくれたのか！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Of course we would! And I just know you can do it!\nCome on! Believe in yourself and go for it!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "当たり前だよ！\n　それにレイさんならきっとできるよ！\nほらほら、\n自分を信じてレッツゴーだよ！！"
+    },
+    {
+      "name": "Yui",
+      "text": "I'm rooting for you, too!\nIt might be tough, but don't give in!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "レイちゃん、\nわたしも応援するね！\n大変だと思うけど、\n頑張って！"
+    },
+    {
+      "name": "Rei",
+      "text": "Hiyori, Yui... Thanks.\nThat's all I need to help me pull through.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ヒヨリ、\nユイ……\nありがとう。\n諦めずにやり遂げてみせるよ。"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "I'm feeling... all cheered up!\nI can do it! I can find a job!",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "ゲンキ……\nゲンキ！\n　シゴト、\nマタミツケル……！"
+    },
+    {
+      "name": "Rei",
+      "text": "It reacted more to them than it did to me...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "私の応援より、\nヒヨリたちの応援に反応した……？"
+    },
+    {
+      "name": "Rei",
+      "text": "But I can see why. They completely outdid me.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "確かに私のとは全然違った……"
+    },
+    {
+      "name": "Rei",
+      "text": "...Fine.\nChallenge accepted!",
+      "choice_data_list": [
+        "I know you can do it!"
+      ],
+      "orig_name": "レイ",
+      "orig_text": "……\nいいだろう。\n私だって、\n二人のようにやってみせる！"
+    },
+    {
+      "name": "Rei",
+      "text": "Thanks.\nYou're always helping me press forward.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ありがとう……\nキミのおかげで、\n前に進めるよ。"
+    },
+    {
+      "name": "Rei",
+      "text": "*inhale* *exhale*\nHere I go! I'm going to tickle you pink!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "すぅ、\nはぁ……\n行くぞ！\nしかと刮目しろーー！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Ohhh! Finally!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "おおっ！\n　ついに……！"
+    },
+    {
+      "name": "Yui",
+      "text": "She's all serious now!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "レイちゃんが本気になった……！"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "I'm feeling... cheery!",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "オオ、\nゲンキ……！"
+    },
+    {
+      "name": "Rei",
+      "text": "S-stay strong! I-I just know good things are waiting for you!\nSo please don't give in!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "が、\n頑張って！\n　き……\nきっとキミにも、\nいい仕事が見つかるよ！\nだから諦めないで、\n頑張っていこっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "Push forward towards a brilliant future!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "明るい未来に、\nレッツゴー！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Yui",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "……"
+    },
+    {
+      "name": "Rei",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Yui",
+      "text": "Good stuff, Rei! You tried your best!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……レイちゃん！\n　\n頑張ったね！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "That was great!\nI could tell just how committed you were to that!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさんよかったよー！\n一生懸命さがすっごく伝わってきた！！"
+    },
+    {
+      "name": "Rei",
+      "text": "Thanks, Hiyori!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "ありがとう、\nヒヨリ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Also. I could swear you sounded a bit like me there.\nJust kidding!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あと今の、\nひょっとして\nあたしの真似だった？\n……なんちゃって！"
+    },
+    {
+      "name": "Rei",
+      "text": "?!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……！？"
+    },
+    {
+      "name": "Rei",
+      "text": "My cover's blown!\nAhhh! This is too embarrassing!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "バレた……！\nああっ！\n　やっぱり恥ずかしい！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Huh?! Is sounding like me [[that]] embarrassing?!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "えーっ！？\n　あたしの真似ってそんなに恥ずかしいの！？"
+    },
+    {
+      "name": "Rei",
+      "text": "I'm embarrassed that copying you was my only option!\nI'm begging you all. Don't look at me for a while.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "こんなやり方しかできない自分を恥じているんだ！\nお願いだからみんな、\nしばらくこっちを見ないで……！"
+    },
+    {
+      "name": "Rei",
+      "text": "I can feel the shame washing over me!\nArgh! I never should have done that in the first place!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "かなぐり捨てたはずの羞恥心に全身が襲われている……！\nくそぉ……\nこんなこと、\nやるんじゃなかった……！"
+    },
+    {
+      "name": "Yui",
+      "text": "Look! It's starting to shine!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "みんな見て！\n　願いが光り始めたよ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Wow! You really managed to purify it, Rei!\nThat's amazing!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "レイさんすごーい！\n　ちゃんと浄化できたよ！\nやったね！"
+    },
+    {
+      "name": "Rei",
+      "text": "It really is...\nI assume what I did was enough, then?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "本当だ……\nさっきのでよかったのか……？"
+    },
+    {
+      "name": "Corporeal Wish",
+      "text": "I guess... that'll do...",
+      "choice_data_list": [],
+      "orig_name": "具現化した願い",
+      "orig_text": "……マア、\nコンナモンカナ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...G-good stuff, Rei!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……\nレ、\nレイさん\nお疲れ様！"
+    },
+    {
+      "name": "Yui",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Rei",
+      "text": "...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Rei",
+      "text": "Hehe. Hehehe.\nHehehehe!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ふふっ、\nふふふっ、\nふふふふふっ！"
+    },
+    {
+      "name": "Rei",
+      "text": "You guess that'll do?!\nThen I guess I'll just slice you to pieces!\nDon't you dare disappear on me! Get back here!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……どういう意味だ貴様ぁ！！\n勝手に消えるな！\n　戻ってこい！\n塵より細かく切り刻んでやる！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Yui! We gotta get her under control!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "ユイちゃん！\n　レイさんを抑えよう！"
+    },
+    {
+      "name": "Yui",
+      "text": "R-right!\nCalm down, Rei!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\nうん！\n　レイちゃん落ち着いて！"
+    },
+    {
+      "name": "Rei",
+      "text": "Let go of me! I'm perfectly calm!\nCalm enough to dice and mince that thing over and over!\nI swear I'll do it! I really will!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "放せヒヨリ！\n　ユイ！\n　私は！\n　私はぁ！\nヤツを必ず切り刻む！\n　必ずだ！！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It's already long gone!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "もういなくなってるよぉ！"
+    },
+    {
+      "name": "Rei",
+      "text": "There should still be traces of it!\nI'll carve right through it!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "いいや残りカスが存在しているはずだ！\nそれを両断してやるっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "M-Mr. Knight!\nHelp us stop her!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "ど、\nどうしよう騎士クン！？\nお願い、\n一緒にレイちゃんを止めてー！"
+    },
+    {
+      "name": "Rei",
+      "text": "Grrrrrr!\nI'll never, ever copy someone else again!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "くうううっ……！\nもう絶対に、\n人の真似なんてするものかーっ！"
+    }
+  ]
+}

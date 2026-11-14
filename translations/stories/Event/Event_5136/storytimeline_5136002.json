@@ -1,0 +1,747 @@
+{
+  "title": "Intersecting Boundaries",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "As the two mysterious women appeared before {0} and the others, the Red Fog Spirit turned their hostility towards them and began it's assault...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "{0}たちの前に現れた二人の人物。\n正体不明の彼女たちに対し\n霧の精霊は敵対心を露にして襲いかかっていた……"
+    },
+    {
+      "name": "Red Fog Spirit",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "赤い霧の精霊",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Woah! That was a nice try!\nWell, you're still just a li~ttle too slow to catch your big sis♪",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "よっと！\n今のはいい動きだったね～！\nま、\nお姉さんを捕まえるには\nちょ～っと足りないけどね♪"
+    },
+    {
+      "name": "？？？",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Red Fog Spirit",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "赤い霧の精霊",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Yui",
+      "text": "W-Wow...! It's just the two of them, but they're pushing the spirit back so much..!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "す、\nすごい……！\n二人だけで、\nあんなに押してる……！"
+    },
+    {
+      "name": "Hiyori & Rei",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・レイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Rei",
+      "text": "That movement, that swordsmanship...\nShe's extremely skilled. It's clear she's no ordinary fighter.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あの動き、\nあの剣さばき……\n相当な実力の持ち主だ。\n明らかにただ者ではない。"
+    },
+    {
+      "name": "ヒヨリ",
+      "text": "あの人たちを見てから\n胸がソワソワする……\nなんだろう、\nこの気持ち……！　",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "あの人たちを見てから\n胸がソワソワする……\nなんだろう、\nこの気持ち……！　"
+    },
+    {
+      "name": "？？？",
+      "text": "Whoops? I think it's about time we cleaned up and explained what's going on, right? You all look like you've got a big \"?\" plastered across your faces.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おっとっと？\nそろそろ片付けて、\n事情を説明した方がよさそうだね？\nみーんな「？」って顔しちゃってるもん。"
+    },
+    {
+      "name": "？？？",
+      "text": "...In that case, stop dodging and take this seriously.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……であれば。\nかわすだけでなく真面目にやれ。"
+    },
+    {
+      "name": "？？？",
+      "text": "Ahaha, seems like there's no room for small talk!\nWell then, why don't I start getting a li~ttle serious?",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あはは、\nぐうの音も出ない！\nんじゃ、ちょ～っとだけ真面目にやっちゃおっかな？"
+    },
+    {
+      "name": "？？？",
+      "text": "Okay, okay, gather around everyone~! It's time for some service! I'll show you big sis' \"secret weapon\"♪",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "はいはーい、\n全員ちゅうも～～～っく！\n今からサービスタイムだよー！\nお姉さんの\n『とっておき』、\n見せてあげる♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Secret weapon...?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "とっておき……？"
+    },
+    {
+      "name": "？？？",
+      "text": "Come! Spiresbane Blade!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "おいで！\n──天楼覇断剣ッ！！"
+    },
+    {
+      "name": "The Three",
+      "text": "...!?",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "っ！？"
+    },
+    {
+      "name": "Yui",
+      "text": "Th-There's a sword on her arm!",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "う、\n腕に剣が……！"
+    },
+    {
+      "name": "Rei",
+      "text": "Did you just say Spiresbane Blade...?\nOnly Noemu should be able to use that sword...!!",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "天楼覇断剣と言ったか……？\nそれは\nノウェムが使っている剣のはず……！！"
+    },
+    {
+      "name": "？？？",
+      "text": "Mhm, nice reaction♪ It was worth the service... ...Nya-hah!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "うんうん、\nいいリアクション♪\nサービスした甲斐がある──……\nねっと！"
+    },
+    {
+      "name": "Red Fog Spirit",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "赤い霧の精霊",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "It disappeared...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "消えた……"
+    },
+    {
+      "name": "？？？",
+      "text": "...What's with that wielding?\nIt's too unorthodox. The sword will cry.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……なんだ、\n今の太刀筋は。\n無軌道がすぎる。\n剣が泣くぞ。"
+    },
+    {
+      "name": "？？？",
+      "text": "I mean, I'm not a swordsman, am I?\nI was able to chase it off, so all's well that ends well♪",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "だって、\nあたしは剣士じゃないし？\n追っ払えたんだから結果オーライっ♪"
+    },
+    {
+      "name": "？？？",
+      "text": "Ahaha, you don't have to be so formal, Kishi-kun♪",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "あはは、\nそんなに他人行儀な感じじゃなくて大丈夫だよ。\n騎士くん♪"
+    },
+    {
+      "name": "？？？",
+      "text": "......Indeed. It's understandable that you don't recognize us.",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "…………ああ。\nキミが私たちのことを知らないのも無理はないが。"
+    },
+    {
+      "name": "？？？",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Yui",
+      "text": "...Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……え……"
+    },
+    {
+      "name": "Rei",
+      "text": "............No way......",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "…………そんな……"
+    },
+    {
+      "name": "Rei",
+      "text": "No way, that's... It can't be...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "まさか、\nそんな……\nそんな、\nはずは…………"
+    },
+    {
+      "name": "？？？",
+      "text": "Well then, I guess next is Hiyori-chan.\nCome on, take a good hard look! At my very own face♪",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "んじゃ、\nお次はヒヨリちゃんかな。\nほらほら、\nよ～く見ちゃって！\nあたしの顔っ♪"
+    },
+    {
+      "name": "Hiyori",
+      "text": "............Ah......",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "…………あ……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "......Are you... me?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……あたし、\nなの？"
+    },
+    {
+      "name": "Narration",
+      "text": "Upon hearing those words, the woman who resembled Hiyori quietly nodded...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "その言葉に、ヒヨリに似た女性は静かにうなずいたのだった……"
+    },
+    {
+      "name": "？？？",
+      "text": "Well then, now that we're somewhere safer: Allow me to introduce myself again!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "んじゃ、\n場所も変えたことだし！\n改めて\n自己紹介しておくね！"
+    },
+    {
+      "name": "Aira",
+      "text": "I'm Aira! I'm another you, Hiyori-chan. Nice to meet you♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あたしはアイラ！\nもう一人のあなただよ、\nヒヨリちゃん。\nよろしくね♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Rei. I'm your other self.\nShinatsu is the name I currently go by.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………レイ。\n私はもう一人のキミだ。\n今はシナツと名乗っている。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "H-Hello...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "こ、\nこんにちは……"
+    },
+    {
+      "name": "Rei",
+      "text": "...That's hard to believe.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……とても信じられないな。"
+    },
+    {
+      "name": "Yui",
+      "text": "Rei-chan...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "レイちゃん……"
+    },
+    {
+      "name": "Rei",
+      "text": "It's true that their appearance is similar, but that's all there is to it. There's no evidence.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "確かに外見は似ているかもしれない。\nだが、\nそれだけのことだ。\n証拠も何もない。"
+    },
+    {
+      "name": "Aira",
+      "text": "Hmm, well, I suppose that's true. I get how you feel.\nWell then, let me explain a few things.",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "ん～\nまあ、\nそうなるよね。\n気持ちはよ～く分かるよ。\nんじゃ、\nまずはそこら辺の説明をさせてもらおっかな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...To make a long story short. We are not of this world.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……結論から言おう。\n私たちはこの世界の存在ではない。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Do any of you happen to know of a place called \"reality\"?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "キミたちは──\n『現実』\nという場所のことを、\n知っているだろうか。"
+    },
+    {
+      "name": "The Three",
+      "text": "...!",
+      "choice_data_list": [],
+      "orig_name": "３人",
+      "orig_text": "っ！"
+    },
+    {
+      "name": "Aira",
+      "text": "Thank goodness~ That'll make this quick then!\nOur world is one that's created by \"reality\".",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "よかった～\nなら話は早いね！\nあたしたちの世界は、\nその『現実』が作った場所なんだよ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "That's right.\nThose living in \"reality\" created another Legend of Astrum.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "そう。\n『現実』の連中が作った……\n別の\n『レジェンドオブアストルム』だ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Another... one?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "別の……\nって？"
+    },
+    {
+      "name": "Aira",
+      "text": "To put it simply, there are multiple Legend of Astrums.\nLike Legend of Astrum A', A'', A'''... and so on!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "ざ～～～～っ\nくり言うとね？\n『レジェンドオブアストルム』っていうのは\n他にもあるんだよ。\n『レジェンドオブアストルム』A'、\nA''、\nA'''……\nみたいに！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...To be exact, it's not a perfect replica of the world.\nBut rather alternate copies of the original world. We came from those \"copy worlds\".",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……正確には、\n全く同じ世界ではないが。\n『この世界を模した複製』が複数存在している。\n私たちが来たのは、\nその『複製の世界』からだ。"
+    },
+    {
+      "name": "Aira",
+      "text": "By the way, Shinatsu and I were in separate worlds.\nWe managed to break in at a similar time, and we bumped into each other here♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "ちなみに、\nあたしとシナツちゃんの世界も別々ね。\n似たようなタイミングで侵入ってきて、\nこっちでバッタリ会ったんだ♪"
+    },
+    {
+      "name": "Yui",
+      "text": "A copy...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "『複製』……"
+    },
+    {
+      "name": "Rei",
+      "text": "Why would they...... create a copy of this world......?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "どうして、\nそんな……\n『複製の世界』を作るなんてことを……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...It's very well-crafted, this world of yours.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……よくできている、\nということだ。\nこの世界はな。"
+    },
+    {
+      "name": "Aira",
+      "text": "I'm guessing it was necessary for some kind of simulation. Maybe a sandbox where you could use this world's data as a \"base\" and do whatever with it?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "たぶんだけど、\n『模擬実験』のために必要だったんだろうね。\nここの情報を『基本』にして\nあーでもないこーでもないって、\nいじくりまわす場所がさ？"
+    },
+    {
+      "name": "Rei",
+      "text": "...If we believe that story...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "…………その話を信じるのなら……"
+    },
+    {
+      "name": "Rei",
+      "text": "You claim to come from a seperate copy of the world... But, assuming you're telling the truth... When you referred to yourself as an \"other self\", you actually meant...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "あなたたちが『複製の世界』から来たという\nその話を、\n仮に本当だとするのなら……\nさっき言っていた\n「もう一人の」という言葉の意味は……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "......A copy is what we meant. One based on your data.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………『複製』\nという意味だ。\nキミたちの情報を元にした、\nな。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "...!!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "……っ！！"
+    },
+    {
+      "name": "Rei",
+      "text": "So that's how it is...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "やはり、\nそういうことだったか……"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha, it must be shocking to hear that out of the blue, isn't it? Like, \"Hello! I'm a copy of you from another world!\" or something?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはは、\n急に言われてもびっくりするよね？\n「どうも！　\n『複製の世界』から来たあなたの『複製』でーす！」\nとかさ？"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Y-Yes. I was really surprised...!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "は、\nはい。\nびっくりしました……！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...However.\nYou seem to catch on quicker than I would expect.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……だが。\n想像以上に理解が早いように見えるな。"
+    },
+    {
+      "name": "Rei",
+      "text": "...What are you trying to say?",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……何が言いたい？"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Given how guarded you are now. It seems that your experience with those like us hasn't been very positive.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……キミがそこまで警戒していることを鑑みると。\nあまり穏やかな間柄ではなかったらしいな。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Who in our equivalent in this world?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "この世界における──\n私たちのような存在とは。"
+    },
+    {
+      "name": "Yui",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...I knew it. I suppose that makes sense.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……やはりか。\nそうだろうな。"
+    },
+    {
+      "name": "Aira",
+      "text": "Well, you don't have to go into the details. I think I can venture a guess. Because of my position.",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "まー\nあんまり詳しく話さなくてもいいよ。\nなんとな～く察しはつくから。\n立場上さ。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "She's like the two of you...?\nAira-san and her, they're copies of Rei-san and me, right?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "二人みたいな\nって……？\nアイラさん、\nたちは……\nもう一人のレイさんと\nあたしなんですよね？"
+    },
+    {
+      "name": "Aira",
+      "text": "It seems our roles are the same. What's her name... Eris? Just like her, we're world Administrators. Of course, we have Minerva's authority and the Sol Orb's power aswell♪",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "役割が同じってことだよ。\nその……\nエリスちゃん？　\nと同じで\n世界の管理者。\nもちろん、\nミネルヴァの権限とソルオーブの力も持ってるよ♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Of course, both Minerva and Sol Orb were copies. But that didn’t change their authority or power.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……無論、\nミネルヴァもソルオーブも『複製』だ。\nだが、\n権限と力であることには変わりない。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "In addition to those two factors...... the security protecting the base world was temporarily weakened. Thanks to the stars aligning, our infiltration was successful.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "この二つの要素に加え……\n『基本世界』を守るセキュリティの一時的な弱体化。\nこれらが合わさり、\n私たちは侵入することができた。"
+    },
+    {
+      "name": "Aira",
+      "text": "This world's security was really tight. No matter how many times I tried, I couldn't get in. Man, it was exhausting.",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "こっちの世界のセキュリティはガッチガチに固かったからね～\n今まで何度試しても、\nぜーんぜん侵入れなくって。\nいやー参っちゃったよ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...But \"something\" happened that made it lower it's guard. We were only able to get in because we saw the opportunity and took it.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……だが。\nそれが緩むほどの『何か』が起きた。\n私たちが侵入できたのは、\nその機を逃さなかったからだ。"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...And that \"something\" isn't completely unrelated to this world's Administrator. Atleast to me, that seems like the most likely cause of this.",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "……そして、\nその『何か』は。\nこの世界の管理者と無関係ではない。\nそう考えるのが自然だ。\n恐らくは──"
+    },
+    {
+      "name": "Hiyori & Yui & Rei",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・ユイ・レイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Aira",
+      "text": "Ah... Now, now, Shinatsu-chan! Let's leave the complicated stuff at that for now, okay? We were able to give you a rough rundown of the situation, right♪?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あー……\nまあまあシナツちゃん！\n難しい話はさ、\n一旦これくらいでいいんじゃない？\n事情はざざざ～っと話せたことだし？　\nねっ♪"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "Hm... Right, I suppose...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "ん……\nそうか、\nそうだな……"
+    },
+    {
+      "name": "Rei",
+      "text": "Those two... are my and Hiyori's... Eris...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "彼女たちが……\n私とヒヨリにとっての……\nエリス……"
+    },
+    {
+      "name": "Rei",
+      "text": "How should I respond to this... It's best to be vigilant, but...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "どう受け止めればいいんだ……\n警戒しておくに越したことはないけど、\nしかし……"
+    },
+    {
+      "name": "Hiyori",
+      "text": "But they saved us earlier, didn't they?\nSo... they don't hate us, right?",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "でも、\nさっき助けてくれたよね。\nじゃあ……\nあたしたちが\n嫌いってわけじゃないのかな。"
+    },
+    {
+      "name": "Hiyori",
+      "text": "Even now, they explained everything to us.\nIn that case, we might be able to get along...",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "今だって、\nちゃんと説明してくれたし。\nだったら、\n仲良くなれるのかも……"
+    },
+    {
+      "name": "Yui",
+      "text": "Rei-chan and Hiyori-chan... They must be confused.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "レイちゃんもヒヨリちゃんも……\nきっと、\n戸惑ってる。"
+    },
+    {
+      "name": "Yui",
+      "text": "...I want to help you guys.\nJust like you two did for me, this time I'll...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……力になりたいな。\n二人がそうしてくれたみたいに、\n今度はわたしが……"
+    },
+    {
+      "name": "Yui",
+      "text": "...If it's just the two of them, I'm sure things will turn out different...",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "……二人なら。\nきっと、\nわたしとは\n違う関係に……"
+    },
+    {
+      "name": "Hiyori & Yui & Rei",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ・ユイ・レイ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha... I guess it was too much at once after all.",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはは～……\nやっぱりちょ～っとヘビーな話だったかなぁ。"
+    },
+    {
+      "name": "Aira",
+      "text": "All right! Your big sisters will treat you guys to some food!\nSo everyone, put a smile on those faces!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "よし！\nここはお姉さんたちがひとつ、\nパーッとご飯でもおごっちゃおう！\nだからみんな、\n笑って笑って！"
+    },
+    {
+      "name": "Hiyori",
+      "text": "A-Are you sure? Let's go, everyone!",
+      "choice_data_list": [],
+      "orig_name": "ヒヨリ",
+      "orig_text": "い、\nいいんですかっ？\nやったね、\nみんなっ！"
+    },
+    {
+      "name": "Yui",
+      "text": "Huh... Oh, right.",
+      "choice_data_list": [],
+      "orig_name": "ユイ",
+      "orig_text": "えっ……\nそ、\nそうだねっ。"
+    },
+    {
+      "name": "Rei",
+      "text": "...Yeah...",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……ああ……"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahahaha! I'm glad everyone's getting along so well~♪\nRight, Shinatsu-chan?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あははは！\nみんな、\nノリがよくっていいね～♪\nね、\nシナツちゃんっ？"
+    },
+    {
+      "name": "シナツ",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "………………"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "...Why... am I so bad at conversing with people...?",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "…………どうして……\n私はこんなに人と話すのが下手なんだ……"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "I can't pace my explanations... I can't get my words out in time... even my face is scary...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "説明のペース配分も下手だし……\nとっさに言葉が出てこないし……\n顔だって\n怖いし……"
+    },
+    {
+      "name": "Aira",
+      "text": "Oops! Looks like I flipped the switch backwards!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あちゃー！\n後ろ向きスイッチ入っちゃったか～"
+    },
+    {
+      "name": "Aira",
+      "text": "Don't worry, Shinatsu-chan! Shinatsu-chan is cute! Cool! Master of the Sword! Yo, Astrum's most beautiful Administrator!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "大丈夫だよシナツちゃん！\nシナツちゃんはカワイイ！　\nクール！　\n剣の達人！\nよっ、\nアストルム随一の美人管理者！"
+    },
+    {
+      "name": "Shinatsu",
+      "text": "No, that's not true... I know I act distant... I must be mortifying to look at... I... Why am I like this...? Hah...",
+      "choice_data_list": [],
+      "orig_name": "シナツ",
+      "orig_text": "いや嘘だ……\n愛想がないのは分かっている……\n怖いに違いない………\n私は…………\nどうしてこうも………………\nはぁ……"
+    },
+    {
+      "name": "Rei",
+      "text": "......It suddenly...... became gloomy.",
+      "choice_data_list": [],
+      "orig_name": "レイ",
+      "orig_text": "……急に\n……暗くなったな。"
+    },
+    {
+      "name": "Aira",
+      "text": "Hmm... That's it. I give up! Ah ha ha ha!",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "う～ん……\nこれはアレだね。\nお手上げ！\nあっはっはっは！"
+    },
+    {
+      "name": "？？？",
+      "text": "...None of that \"ahahaha\"!\nThis isn't the mood for fooling around!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "……いや、\nあっはっはっは！　\nでごまかせる空気じゃないでしょ！"
+    },
+    {
+      "name": "Aira",
+      "text": "Ahaha, you're right! My bad, my bad-\nHuh? Who shot off that retort just now?",
+      "choice_data_list": [],
+      "orig_name": "アイラ",
+      "orig_text": "あはは、\nそうだよね！\nいやーごめんごめん──\nってあれ？\n今のツッコミ、\n誰がしてくれたの？"
+    },
+    {
+      "name": "？？？",
+      "text": "No matter how you slice it, I sound nothing like you!\nIt's me, ME!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "どう考えても、\nあんたの声とは似てないから！\nあたしよ、\nあ・た・し！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Well, good work.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "はい、\nお疲れさま。"
+    },
+    {
+      "name": "Everyone",
+      "text": "Fio?!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "フィオ！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "It's been a while, everyone♪",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "久しぶりね、\nみんな♪"
+    }
+  ]
+}

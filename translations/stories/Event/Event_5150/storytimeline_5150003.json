@@ -1,0 +1,810 @@
+{
+  "title": "Mischief Auction",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "Chasing after Nebbia, who is running around the streets of Landosol,\nare Ameth, Homare, {0},\nand besides them──",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "ランドソルの街中を逃げ回るネビア。\n追うのはアメス、ホマレ、{0}、\nそれに加えて──"
+    },
+    {
+      "name": "Resident 1",
+      "text": "Hey, did you hear!? A tiny fairy is flying around the city!",
+      "choice_data_list": [],
+      "orig_name": "住民１",
+      "orig_text": "おい、\n聞いたか！？\n小さな妖精が街を飛び回ってるんだってよ！"
+    },
+    {
+      "name": "Resident 2",
+      "text": "If you catch it, you'll get a reward from the palace.\nAn invitation to 'Royal Palace Dinner☆'!",
+      "choice_data_list": [],
+      "orig_name": "住民２",
+      "orig_text": "そいつを捕まえたら、\n王宮から褒賞が出るんでしょ？\n『王宮ディナーにご招待☆』\nだって！"
+    },
+    {
+      "name": "Boy",
+      "text": "I saw the fairy just a moment ago~!",
+      "choice_data_list": [],
+      "orig_name": "男の子",
+      "orig_text": "僕、\n妖精さんさっき見かけたよ～！"
+    },
+    {
+      "name": "Girl",
+      "text": "Alright, let's gather our friends and catch it!\nWe need to prepare a bug-catching net!",
+      "choice_data_list": [],
+      "orig_name": "女の子",
+      "orig_text": "よ～っし、\n友だちを集めて捕まえちゃいましょ！\n虫取り網、\n用意しなきゃ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Haha, it's starting to feel like a raid event~?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ、\nレイドイベントっぽくなってきたね～？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Gosh... Pecorine-chan went and increased the commotion again.\nNow it's become a national festive uproar.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "もう……\nペコリーヌちゃんったら騒ぎを大きくしてくれちゃって。\n国を挙げてのお祭り騒ぎになっちゃったじゃないの。"
+    },
+    {
+      "name": "Homare",
+      "text": "Royal Palace Dinner, huh~. Good strategy, Pecorine-chan.\nWith this, we can enlist not just the guild but also the townspeople,\nand above all, make this situation fun~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "王宮ディナーか～。\nペコリーヌちゃんらしい、\nうまいやり方だね。\nこれならギルドだけじゃなくて\n街の人たちの手も借りられるし、\n何より\nこの状況を楽しいものにできるもんね～"
+    },
+    {
+      "name": "Ameth",
+      "text": "Having more hands is welcome.\nIt will reduce Nebbia's places to escape.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "手が増えることは歓迎するわ。\nネビアの逃げ場を減らせるし。"
+    },
+    {
+      "name": "Ameth",
+      "text": "But we're the ones who are going to catch her.\nI must be the first to scold her!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "だけど、\n捕まえるのはあたしたちよ。\n誰よりも先に文句言ってやらないと\n気が済まないわ！"
+    },
+    {
+      "name": "Homare",
+      "text": "Ameth-chan, you can get that angry~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "アメスちゃん、\nそんなふうに怒れるんだね～♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "Huh? Ah... I showed you an embarrassing side.\nI just got a bit emotional...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "えっ？　\nあ……\n恥ずかしいところを見せたわね。\nつい、\n感情的になっちゃったわ……"
+    },
+    {
+      "name": "Homare",
+      "text": "I think it's better that way~♪\nHey, don't you think so too~?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "そっちの方がいいと思うよ～♪\nねっ、\n君もそう思うでしょ～？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Hmm, do you?\n...But it's too late to change my twisted personality now.\nIf you really want to see, I'll show it to only you in a dream next time.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ふぅん、\nそうなの？\n……でも、\n今更ねじくれちゃった性格なんて変えようがないわ。\nどうしても見たいって言うなら、\n今度夢の中で\nあんただけに見せたげる。"
+    },
+    {
+      "name": "Homare",
+      "text": "Sly~.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あざと～い。"
+    },
+    {
+      "name": "Ameth",
+      "text": "You're saying it like I'm always noisy?\nDo I somehow remember lecturing in dreams?\n...Maybe I should be cautious.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "まるであたしがいつもうるさいみたいな言い方ね？\nもしかして\n夢の中で小言言ってるのって、\nなんとなく覚えてたりする？\n……ちょっと気を付けておこうかしら。"
+    },
+    {
+      "name": "Ameth",
+      "text": "More importantly, it's Nebbia.\nWe have to catch her quickly.\nHomare, where is she now?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "そんなことより、\nネビアよネビア。\nさっさと捕まえないと。\nホマレ、\nあの子の現在地は？"
+    },
+    {
+      "name": "Homare",
+      "text": "Uhm, she's in the busy shopping district.\nBut to think she's in such an open area...\nHuh? And there's no visible change here~?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "えっと～\n繁華街にいるね。\nでも、\nこんな開けた場所にいるなんて……\nあれ？　\nしかもここだけ見た目の変化がないよ～？"
+    },
+    {
+      "name": "Ameth",
+      "text": "She's blatantly baiting us.\nShe must have set up tons of mischief, ready to go.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あからさまに誘ってるわね。\n悪戯を仕込みまくって、\n準備万端にしてるに違いないわ。"
+    },
+    {
+      "name": "Homare",
+      "text": "Even with Dragon's Eye, we can't see the details of her traps.\nAh, she's laughing, laughing.\nShe's aware she's being watched.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "龍眼じゃ仕掛けの内容までは見えないからね～\nあ、\n笑ってる笑ってる。\nこれは見られてるのも承知の上だね～"
+    },
+    {
+      "name": "Ameth",
+      "text": "She's confident in her mischief.\nContinuing to play tag like this means we're just going to run into her traps...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "自分の悪戯に自信があるのね。\nこのまま普通に追いかけっこしてるだけじゃ、\nあいつの仕掛ける悪戯に飛び込んでいくようなもの、\nか……"
+    },
+    {
+      "name": "Ameth",
+      "text": "……In that case.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……だったら。"
+    },
+    {
+      "name": "Homare",
+      "text": "What kind of strategy?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "どんな手を打つのかな？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Homare──there's someone I want you to find.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ホマレ──\n捜してほしい人がいるわ。"
+    },
+    {
+      "name": "Ameth",
+      "text": "There you are!\nI won't let you escape this time, Nebbia!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いた！\n今度こそ逃がさないわよ\nネビア！"
+    },
+    {
+      "name": "Navi",
+      "text": "Fio, you finally came?\nMade me wait too long. I had too much fun setting this up♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "フィオったらやっと来たの？\n待たせすぎよ。\n退屈しちゃっていろいろ仕込んじゃった♪"
+    },
+    {
+      "name": "Homare",
+      "text": "As planned, let's all go together on three~!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "打ち合わせ通り、\n３人で一気にいくよ～！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Yes!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええ！"
+    },
+    {
+      "name": "Navi",
+      "text": "Haha! \"Flying into a summer fairy's fire!\"\nThat turbulent flow is──",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ふふん！　\n飛んで火にいる夏の妖精\nってね！\nそこは乱気流を──"
+    },
+    {
+      "name": "Ameth",
+      "text": "──Yup. It really was there.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "──よっ\nと。\n本当にあったわね。"
+    },
+    {
+      "name": "Navi",
+      "text": "What!? You avoided the turbulent flow!?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "なっ？\n乱気流を避けた！？"
+    },
+    {
+      "name": "Navi",
+      "text": "But still! After that──",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "でもまだよ！　\nその後は──"
+    },
+    {
+      "name": "Homare",
+      "text": "After slowing down with the wind, you drop water from above, right?\nSorry, not gonna fall for that~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "風で足止めした後、\n上から水を落とすんだよね？\n残念、\n引っかからないよ～"
+    },
+    {
+      "name": "Navi",
+      "text": "What did you say?!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "なんですって……！？"
+    },
+    {
+      "name": "Navi",
+      "text": "Then how about {0}?\nA slowpoke like you can't avoid my ultimate trap!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "じゃあ\n{0}はどうっ？\nどんくさいあんたじゃ、\n私のとっておきは避けられないでしょ！"
+    },
+    {
+      "name": "Navi",
+      "text": "No way!? My ultimate pitfall trap!?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "うそっ！？　\nとっておきの落とし穴が！？"
+    },
+    {
+      "name": "Navi",
+      "text": "What's happening, how is he avoiding one mischief after another!?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "なになに、\nどうなってるのよっ？\n私の用意した悪戯が\n次々とかわされていくんだけど！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Looks like she's realized.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "気付いたようね。"
+    },
+    {
+      "name": "Navi",
+      "text": "……Fio……!\nWhat's going on? It's like you're reading my mind!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……フィオ……！\nどういうことよ？　\nまるで私の思考を読んでるみたいじゃない！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Unfortunately, neither I nor Homare\ncan understand your thoughts.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "残念だけど、\nあたしにもホマレにも、\nあんたの考えなんて分からないわ。"
+    },
+    {
+      "name": "Homare",
+      "text": "That's why we got help.\nFrom a prank professional~♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "だからね～、\n協力してもらったんだ。\n悪戯のプロフェッショナルにね～♪"
+    },
+    {
+      "name": "Navi",
+      "text": "A... prank professional...?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "悪戯の……\nプロフェッショナル……\nですって？"
+    },
+    {
+      "name": "？？？",
+      "text": "Hehehe♪",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "へへっ♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Hey, hey Nii-chan, is the tag game over～?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ねーねーにいちゃんっ、\n鬼ごっこはもうおしまい～っ？"
+    },
+    {
+      "name": "Navi",
+      "text": "Misogi...!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ミソギ……！"
+    },
+    {
+      "name": "Homare",
+      "text": "If it's Misogi-chan, which areas do you think she'd set traps?",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ミソギちゃんだったら、\n他にどの辺りに悪戯を仕掛けるかな～？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Let's see～!\nWater could fly out from that house,\nor maybe turn those stairs into a slide, that'd be fun too~!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっとね～！\nあの家からどかーんって水が飛び出したり、\nあの辺の階段を滑り台にするとかも面白いかな～！"
+    },
+    {
+      "name": "Navi",
+      "text": "…Gulp!",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……ぎくり！"
+    },
+    {
+      "name": "Ameth",
+      "text": "Seems like a hit.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "当たり、\nのようね。"
+    },
+    {
+      "name": "Homare",
+      "text": "So that's what 'gulp' means～",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ぎくりって言うものなんだね～"
+    },
+    {
+      "name": "Ameth",
+      "text": "Still, I'm honestly surprised Misogi-chan could trace Nebbia's mischief\nthat well... a bit worried about her future.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "それにしても、\n正直ミソギちゃんが\nここまでネビアの悪戯を\nトレースできるとは思わなかったわ……\n将来がちょっと心配ね。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Now you're out of moves.\nThis farce of an event is over.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "これでもうあんたに打つ手はないわ。\nこのふざけたイベントも終わりよ。"
+    },
+    {
+      "name": "Navi",
+      "text": "……Misogi. An unexpected formidable foe.\nUnderestimating a child's thought process is unwise.",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……ミソギ。\n予期せぬ強敵ね。\nお子さまの思考回路は\n侮りがたいわ。"
+    },
+    {
+      "name": "Misogi",
+      "text": "Homare nee-chan!\nWhere's my promised reward~?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "ホマレねえちゃん！\n約束のご褒美は～？"
+    },
+    {
+      "name": "Homare",
+      "text": "I got it~\nMy guild has tons of fun stuff,\nI'll give you some flashy ones♪",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "分かってるよ～\n私のギルドには面白いものがたくさんあるから、\n派手なのを\nいくつかあげるね～♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "What are you trying to give a kid?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……子どもに何あげようとしてるの？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Yaaaay, I did it♪",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "わ～いやったぁ♪"
+    },
+    {
+      "name": "Navi",
+      "text": "Hmmm...\nA child's thought process, huh... hehe♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ふぅ～ん……\nお子さまの思考回路、\nか……\nふふっ♪"
+    },
+    {
+      "name": "Navi",
+      "text": "Hey, Misogi~?\nThere's something even more fun here than any reward~?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ねぇミソギ～？\nそんなご褒美より、\nも～っと楽しいものが\nここにあるわよ～？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Eh? Really!?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっ？　\nほんと！？"
+    },
+    {
+      "name": "Ameth",
+      "text": "……Oh no!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……しまった！"
+    },
+    {
+      "name": "Navi",
+      "text": "Here, look at this♪\nYou can change the town however you like and make as many pitfalls as you want♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ほら、\nこれを見なさい♪\n街を好きなように変えられて、\n落とし穴も作り放題よ♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Endless pitfall making!?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "落とし穴作り放題！？"
+    },
+    {
+      "name": "Navi",
+      "text": "…Will you play with me?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "……私と一緒に、\n遊びましょ？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Y-Yeah...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "う、\nうん……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Eh!? But, Nii-chan...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "えっ！？　\nで、\nでも、\nにいちゃん……"
+    },
+    {
+      "name": "Ameth",
+      "text": "You, stop Misogi-chan somehow!\nIf Nebbia teams up with that prank genius,\nit'll go down in Landosol's nightmares!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あんた、\nなんとかミソギちゃんを引き止めなさい！\nネビアとあの悪戯の天才が組んだりしたら、\nランドソル悪夢の歴史の一つに刻まれるわよ！"
+    },
+    {
+      "name": "Homare",
+      "text": "It's going to be filled with pitfalls,\nand we won't be able to walk freely in the city~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "落とし穴だらけになって、\nおちおち街も歩けなくなりそ～"
+    },
+    {
+      "name": "Navi",
+      "text": "Don't listen to them.\nLook, Misogi, see the sky.\nIsn't there a beautiful rainbow? You can create things like this freely♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "そいつらの言うことなんて\n気にしなくていいのよ。\nほらミソギ、\n空を見てごらんなさい。\nきれいな虹が出てるでしょ？　\nこんなのも自由自在よ♪"
+    },
+    {
+      "name": "Misogi",
+      "text": "Amazing!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "すごーいっ！"
+    },
+    {
+      "name": "Misogi",
+      "text": "Candy... hmm...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "お菓子……\nう～ん……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Not strong enough!\nYour temptation is too weak!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ちょっと弱い！\nちょっと弱いのよあんたの誘惑！"
+    },
+    {
+      "name": "Homare",
+      "text": "Feels like an auction now~\nMisogi-chan auction~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "オークションめいてきたね～\nミソギちゃんオークションだ～"
+    },
+    {
+      "name": "Navi",
+      "text": "Misogi, should I build a pool at your place?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "ミソギ、\nあんたのおうちに\nプールを作ってあげましょうか？"
+    },
+    {
+      "name": "Misogi",
+      "text": "A pool!? Really!?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "プールッ！？\nほんとにっ！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Ah, that hit hard~\nIt's a dream for kids, a home pool.",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あー\nこれは効いたね～\n子どもの憧れだよね、\nおうちプール。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Misogi-chan, you promised to help us, right?\nBad girls who break their promises get punished.\n──By this scary sister over here!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ミソギちゃん、\nあたしたちに協力するって\n約束したわよね？\n約束を破る悪い子は\nお仕置きされちゃうわよ。\n──こっちの\nこわ～いお姉さんに！"
+    },
+    {
+      "name": "Misogi",
+      "text": "... *gasp*!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "……ひっ！"
+    },
+    {
+      "name": "Homare",
+      "text": "......",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "…………"
+    },
+    {
+      "name": "Ameth",
+      "text": "Homare, why are you staring at me in silence?\n...Are you hurt? I'm sorry.\nSo please don't side with Nebbia...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ホマレ、\nなんで無言であたしを見つめるの？\n……もしかして\n傷ついた？　\nわ……\n悪かったわね。\nだから\nあんたまでネビア側に寄らないでもらえる……？"
+    },
+    {
+      "name": "Navi",
+      "text": "Hahaha♪\nYou're hopeless, Fio?\nYou can't capture people's hearts if you're that on edge?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あははっ♪\nフィオったらダメね？\nそんなにピリピリしてちゃ、\n人の心なんて掴めないわよ？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Ugh...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "うっ……！"
+    },
+    {
+      "name": "アメス",
+      "text": "仕方ないじゃないのよ、\n久しぶりなのよこういうの！\nこいつのそばにずっといた頃なら、\n自然とできたけど……！　",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "仕方ないじゃないのよ、\n久しぶりなのよこういうの！\nこいつのそばにずっといた頃なら、\n自然とできたけど……！　"
+    },
+    {
+      "name": "Ameth",
+      "text": "You...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "あんた……"
+    },
+    {
+      "name": "Navi",
+      "text": "Oh, what? Misogi's heart is already with us?\nWhat can you do?\nCan you give something better than this environment system?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "あら何？　\nミソギの心はもうこっちのものよ？\nあんたに何ができるっていうのかしら？\nこの環境システムより\nいいものが出せるの？"
+    },
+    {
+      "name": "Misogi",
+      "text": "Nii-chan...?",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "にいちゃん……？"
+    },
+    {
+      "name": "Ameth",
+      "text": "Eh... no way, you're...!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "えっ……\nま、\nまさかあんた……！"
+    },
+    {
+      "name": "Homare",
+      "text": "So thrilling...!",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "どきどき……！"
+    },
+    {
+      "name": "Ameth",
+      "text": "No, why is it like this!? What bombshell revelation!?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "いやなんでそうなるのよ！？\nなんの告白を聞かされたの！？"
+    },
+    {
+      "name": "Misogi",
+      "text": "N-ii-chan...!\nNii-channnnn!",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "に、\nにいちゃん……！\nにいちゃ～～～～～んっ！"
+    },
+    {
+      "name": "Navi",
+      "text": "It's echoing loudly!?",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "すっごい響いてる！？"
+    },
+    {
+      "name": "Homare",
+      "text": "Hehe♪\nA sinful boy, indeed~",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "ふふっ♪　\n罪作りな男の子だね～"
+    },
+    {
+      "name": "Ameth",
+      "text": "Enough already, whatever it takes!\nNebbia, prepare yourself! This time──",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ええいもうなんでもいいわ！\nネビア、\n覚悟なさい！　\n今度こそ──"
+    },
+    {
+      "name": "Navi",
+      "text": "──Too bad♪\nYou've given me enough time♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "──ざ～んねん♪\n私に時間を与えすぎたわね♪"
+    },
+    {
+      "name": "Homare",
+      "text": "Huh...? The temperature's dropping...",
+      "choice_data_list": [],
+      "orig_name": "ホマレ",
+      "orig_text": "あれ……？\nなんか、\n気温が下がって～……"
+    },
+    {
+      "name": "Misogi",
+      "text": "Something's falling...? Whoa, cold! This is...",
+      "choice_data_list": [],
+      "orig_name": "ミソギ",
+      "orig_text": "なんか、\n降ってきたよ……？\nうわ、\nつめたいっ！　\nこれって……"
+    },
+    {
+      "name": "Ameth",
+      "text": "Snow!?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "雪ですって～～～！？"
+    },
+    {
+      "name": "Everyone",
+      "text": "So cold!",
+      "choice_data_list": [],
+      "orig_name": "全員",
+      "orig_text": "さむ～い！"
+    },
+    {
+      "name": "Navi",
+      "text": "Yes, you're tired, aren't you~♪",
+      "choice_data_list": [],
+      "orig_name": "ネビア",
+      "orig_text": "はい、\nおつかれ～\nってね♪"
+    },
+    {
+      "name": "Ameth",
+      "text": "Ne-Nebbiaaaaa!",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "ネ、\nネビア～～～～～！"
+    },
+    {
+      "name": "Narration",
+      "text": "Ameth and the others miss capturing Nebbia once again.\nThe out-of-season snow falls for a while,\nonly to be melted by the summer sunlight shortly after.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "再びネビアを取り逃がすアメスたち。\n季節外れの雪はしばらく降った後、\nすぐにまた夏の陽光に溶かされるのであった。"
+    },
+    {
+      "name": "Pecorine",
+      "text": "From outside... I can hear cheerful voices...\nThe voices of the people enjoying themselves...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "外から……\n楽しそうな声が聞こえてきます……\n国のみなさんが\n楽しんでいる\n声が……"
+    },
+    {
+      "name": "Jun",
+      "text": "Your Majesty, please hold back.\nThe chaos of the city below is something we can't overlook.\nI also plan to go and see the situation...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "陛下、\nどうか我慢してください。\n城下の混沌とした有様は\n予断を許せるものではありません。\nこれより私も、\n様子を見てこようと思っていますが……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I understand~...\n...Huh? Jun-san, are you going to see the city?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "分かっています～……\n……\nえ？　\nジュンさん……\n見に行くんですか？　\n街を。"
+    },
+    {
+      "name": "Jun",
+      "text": "...Yes, to lead the squads on the ground as their commander──",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……え、\nあ、\nはい。\n団長として、\n現場で働く団員たちの陣頭指揮を執る必要が──"
+    },
+    {
+      "name": "Pecorine",
+      "text": "──Armor.\nCan you take it off?",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "──鎧。\n脱いでみてもらえませんか？"
+    },
+    {
+      "name": "Jun",
+      "text": "...W-why is that?",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "……な、\nなぜですか？"
+    },
+    {
+      "name": "Pecorine",
+      "text": "Because I'm very curious.",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "とっても気になるからです。"
+    },
+    {
+      "name": "Jun",
+      "text": "No, it’s not like what Your Majesty is thinking... at all...",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "いえ、\n陛下の思っているようなことは\n全然……"
+    },
+    {
+      "name": "ペコリーヌ",
+      "text": "…失礼しますね☆",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "…失礼しますね☆"
+    },
+    {
+      "name": "Jun",
+      "text": "Wait... Your Majesty...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "待っ……\n陛下……！"
+    },
+    {
+      "name": "Jun",
+      "text": "P-please...don't look...!",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "そ、\nその……\n見、\n見ないで、\nいただけると……！"
+    },
+    {
+      "name": "Pecorine",
+      "text": "......Unfair...",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "……ずるい……"
+    },
+    {
+      "name": "Jun",
+      "text": "N-no, uh... it's not like I'm going to play around...\nI’m just wearing it for emergencies...!\nYou know that, right? I can’t take off my armor in public…",
+      "choice_data_list": [],
+      "orig_name": "ジュン",
+      "orig_text": "い、\nいえ、\nその……\n遊びに行くわけでは……\n万が一に備えて着ているだけで……！\nご存じですよね？　\n私は人前で鎧を脱げませんし……"
+    },
+    {
+      "name": "Pecorine",
+      "text": "I, I wanna play toooooo!",
+      "choice_data_list": [],
+      "orig_name": "ペコリーヌ",
+      "orig_text": "っ、\nわたしも遊びます～～～～～～～！"
+    }
+  ]
+}

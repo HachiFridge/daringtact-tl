@@ -1,0 +1,530 @@
+{
+  "title": "Mysterious Overture",
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "{0} and his friends have returned to Landosol for the first time in a long while. Without much time to relax, they are immediately handed requests to defeat monsters one after another.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "久しぶりに、\nランドソルへ一時帰還した{0}たち。\nゆっくりする間もなく、\n次々と魔物の討伐依頼を受けることになり──"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Phew... I didn't think we'd be overwhelmed by so many monster subjugation requests. If Pecorine and Kyaru were with us, we could've taken care of all of them in a jiffy.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "ふぅ……\nこんなに魔物の討伐依頼がたくさんあるなんて。\nぺコリーヌさんとキャルがいてくれたらもっと片付けられるのに。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Lady Sheffy. Lady Pecorine has her own official royal duties to attend to, and Lady Kyaru had to step in to help her with them, so it can't be helped. Causing Lady Creditta any more stomach aches as a result of our actions would be too troublesome.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "シェフィさま。\nペコリーヌさまにはご公務が、\nキャルさまはそのお手伝いがありますし、\n仕方ありませんよ。\nクレジッタさまの胃を\nこれ以上痛めるのも心苦しいですし。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "That said, hmm... It is very clear that the local monster's behaviour is more ferocious than usual. I pray this is merely a temporary trend...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ですが、\nふむ……\n魔物の動きが、\nいつもより凶暴になっているように見受けられますね。\nこれが\n一時的なものならよいのですが──"
+    },
+    {
+      "name": "？？？",
+      "text": "He...lp---",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "た……\nけ──"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "My Lord? Is something the matter?",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さま？\nどうかなさいましたか？"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Wait! This place is still filled to the brim with monsters, so it's dangerous to act alone!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "待って！　\n魔物も多いし、\n単独行動は危ないわ！"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "And just as I said that, one appears...! {0}, behind you!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "やっぱり魔物が……！\n{0}、\n後ろ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Please stay down! EEEEIII!",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "伏せてくださいっ！\nえーいっ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Spirit of the wind──",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "風の精霊よ──"
+    },
+    {
+      "name": "Monster",
+      "text": "Gyaoooooo!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──ギャオオオオオッ！"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Phew... That was close. SERIOUSLY! Even though it's you we're talking about, Kishi-san, jumping in front of a monster is just pure reckless behaviour! Just try to think what would've happened if we weren't around!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ふぅ……\n危なかったですね。\nもう！　\n騎士さんのくせに魔物の前に飛び出すなんて、\n無謀すぎですよ！\n私たちがいなかったらどうなってたか！"
+    },
+    {
+      "name": "Chika",
+      "text": "Actually... we're here to investigate the recent troublesome monster behaviour. Then, by chance, we saw you heading into the forest, {0}... We thought it was dangerous to go alone, so we chased after you.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "実は私たち、\n魔物の調査に来たんです。\nそれで、\nたまたまこの森に入っていくあなたを見かけて……\n一人じゃ危ないと思って、\n追いかけたんですよ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "For saving My Lord, you have my deepest thanks. The truth is, we came here following a request to subjugate monsters. However...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "主さまを助けてくださって\nありがとうございます。\n実はわたくしたちも、\n討伐の依頼を受けて\nこちらに来たのです。\nですが……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "You guys are here to investigate, not subjugate, aren't you?",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "あなたたちは討伐じゃなくて、\n調査なのね？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Right, right. You see, we recently came across a monster going berserk. At that time...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "ですです。\n実は最近、\n私たちも魔物が暴走してるところに出くわしたんですけど。\nその時に──"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Why are you all popping around here and there with no end in sight? You stupid monsters! I was planning to visit Rei-sama today, so don't get in my way! I'll be the one to decide how to spend my day off, thank you very much!",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "なんでこんなとこに湧いてるんですかあんぽんたん魔物～っ！\nレイ様のところに遊びに行くんですから、\n邪魔しないでください！\nせっかくのオフなのに～っ！"
+    },
+    {
+      "name": "Chika",
+      "text": "All passersby, please step back! We'll take care of...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "通行人のみなさんは下がってください！\nここは私たちが──"
+    },
+    {
+      "name": "ナレーション",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "──……"
+    },
+    {
+      "name": "チカ",
+      "text": "……？",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……？"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Chika-san?! Is something wrong?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "チカさんっ！？\nどうかしたんですか？"
+    },
+    {
+      "name": "Chika",
+      "text": "Just now, I thought I heard something... ...A song...?",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "今、\n何か聞こえた気がして……\n……\n歌……？"
+    },
+    {
+      "name": "Chika",
+      "text": "Yes. I could only faintly hear it, but it was a song imbued with magical powers. This is merely my own speculation, but... I wonder if that song could be the cause of the ongoing abnormalities.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "ええ。\nかすかにしか聞こえなかったけれど、\n魔力のある歌でした。\nまだ憶測に過ぎませんが……\n最近の異変の原因は\nもしかしたらあの歌なんじゃないか、\nって。"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "And that brings us to now, we decided to investigate right away...",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "というわけで、\n早速調査をしたいんですけど……"
+    },
+    {
+      "name": "Monsters",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物たち",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Before doing that, we'll have to do something about these monsters first. They seem pretty worked up...",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そのためには、\n一旦この魔物たちをなんとかしなきゃね。\nかなり気が立ってるみたいだし……"
+    },
+    {
+      "name": "Chika",
+      "text": "In that case, I'll use my chanting technique to put those monsters to sleep. Everyone, cover me!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "なら私が、\n唱喚術で魔物たちを眠らせます。\nみなさんは援護をお願いします！"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes, leave it to us.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "ええ、\nお任せください。"
+    },
+    {
+      "name": "チカ",
+      "text": "～～♪",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "～～♪"
+    },
+    {
+      "name": "Chika",
+      "text": "These monsters look a lot like the ones I saw before... Perhaps I can hear that song here too...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "この魔物たちの様子、\n私が前に見たのとよく似てる……\nもしかして、\nここでもあの歌が聞こえるんじゃ──"
+    },
+    {
+      "name": "？？？",
+      "text": "………………",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "………………"
+    },
+    {
+      "name": "チカ",
+      "text": "……？\nあの精霊は……？　",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……？\nあの精霊は……？　"
+    },
+    {
+      "name": "？？？",
+      "text": "──……",
+      "choice_data_list": [],
+      "orig_name": "？？？",
+      "orig_text": "──……"
+    },
+    {
+      "name": "Chika",
+      "text": "...! Please wait!",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……！\n待ってください！"
+    },
+    {
+      "name": "Chika",
+      "text": "It's gone... But I was sure that spirit headed this way...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "いない……\nあの精霊、\n確かにこっちへ向かったはずなのに……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...! You're...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……！\nあなた、\nは……"
+    },
+    {
+      "name": "Sheffy",
+      "text": "Hold up, {0}, Chika-san... Wait, you're... from Rage Legion?! Why are you here?!",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "待って{0}、\nチカさんっ……\nって……、\nあなたは\n【レイジ・レギオン】の……！？\nどうしてここにっ？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "That's... umm...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "それは……\nえっ\nと……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...? My voice... you've heard it?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……？\nわたしの、\n声……\n聞こえた、\nの？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "I'm sorry... We've met many times in my dreams before, {0}... so I unconsciously... connected to you... maybe...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ごめんなさい……\nあなたとは、\n夢で\n何回も\n会ってるから……\n無意識に、\n繋がっちゃった……\nの、\nかも……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "....",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "You see... umm... I... can't sing properly anymore, so...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "実は……\nその……\nわたし……\nうまく、\n歌えなくなったみたい、\nで……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "One day, I was feeling a little good... so I started singing...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "その日は\nちょっとだけ、\n気分がよくて……\nわたし、\n歌を\n歌ってたの……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "And then...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そうしたら……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...? The sound of my song... is weirder than usual...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……？\nいつもより……\n歌の響きが、\n変──"
+    },
+    {
+      "name": "Monster",
+      "text": "...GUOOOH!",
+      "choice_data_list": [],
+      "orig_name": "魔物",
+      "orig_text": "──グオオオオオッ！"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Eek...! A-A monster...? What is it doing here...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "きゃ\nっ……！\nま、\n魔物……？\nどうして\nここに……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "W-Wait...! There's a lot of people over there...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "ま、\n待って……！\nそっちは、\nひとが\nたくさん……"
+    },
+    {
+      "name": "ランファ",
+      "text": "このままじゃ、\n魔物が\n街のほうに……\nと、\n止めなきゃ……！　",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "このままじゃ、\n魔物が\n街のほうに……\nと、\n止めなきゃ……！　"
+    },
+    {
+      "name": "ランファ",
+      "text": "～～♪",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "～～♪"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...Huh...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……えっ……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Why... isn't my song... working...?",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "どうして……\n歌が……\n効かない……？"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Normally, I’d be able to handle any monster and drive them away easily... But instead, all I achieved was making it more energetic and violent...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "いつもなら、\nあのくらいの\n魔物は\nすぐ\n追い払えるの\nだけど……\nでも、\n逆に\n興奮しだしたり、\n暴れたりして……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "...That's not all. Recently... Just by humming... Plants around me suddenly started growing... The weather suddenly changed... And it seems I can no longer create my wyvern...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "……それだけじゃ\nなくて。\n最近は……\n鼻歌だけで、\n植物が\nすごく育ったり……\n天気が、\n変わったり……\nワイバーンが、\n造れなくなって\nしまったり……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Such a thing, it's the first time I've ever experienced it... so I don't know what to do... therefore I... I...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "こんなこと、\n初めてで……\nどうしたらいいか、\nわからなくて……\nわたし……\nわたしっ……"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Please calm down, Lady Ranpha. ...That said, hmm...",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "落ち着いてくださいませ、\nランファさま。\n……\nですが、\nふむ……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Leaving aside whether it's related to the recent monster uproar or not... It's a bit concerning that Ranpha-san can't control her singing, Chika-san.",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "魔物騒動と関連してるかはともかくですけど。\nランファさんの歌のコントロールが効かない\nっていうのは気になりますね、\nチカさん。"
+    },
+    {
+      "name": "Chika",
+      "text": "...Indeed. It’s true that Ranpha-san is a capable magic user, so I think it would be worth taking action before things get out of hand.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "……ええ。\nランファさんが強力な魔法の使い手なのは確かですし\n大事になる前に\n手を打っておいて損はないと思います。"
+    },
+    {
+      "name": "ランファ",
+      "text": "…ぅ……",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "…ぅ……"
+    },
+    {
+      "name": "Chika",
+      "text": "Also... That spirit worries me too...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "それに……\nあの精霊のことも気になる……"
+    },
+    {
+      "name": "Tsumugi",
+      "text": "Well then, first up we should try doing something about Ranpha-san's singing... Wait, can we even do something about that?",
+      "choice_data_list": [],
+      "orig_name": "ツムギ",
+      "orig_text": "それじゃ、\nまずはランファさんの歌をどうにか……\nって、\n簡単にどうにかなるものなんですか？"
+    },
+    {
+      "name": "Chika",
+      "text": "Honestly speaking... I don't know... The rhymes and melodies of my song summoning techniques compared to Ranpha's are vastly different. In the first place, there aren't many song summoners around nor documents on how to treat such situations...",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "正直……\n分かりません……\n私の唱喚術と\nランファさんの歌は、\n韻も旋律も違いますし。\nそもそも唱喚術自体、\n歌い手も資料も\nとても少ないものですから……"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Th-That's...",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "そ、\nそんな……"
+    },
+    {
+      "name": "Chika",
+      "text": "But, that doesn't mean we can just ignore your plight. As a fellow Song Summoner, I understand your anxiety.",
+      "choice_data_list": [],
+      "orig_name": "チカ",
+      "orig_text": "でも、\nだからって放っておけません。\n同じ歌を扱う者として、\n不安な気持ちは分かりますから。"
+    },
+    {
+      "name": "Sheffy",
+      "text": "That's right. Ranpha-san you really helped us during that fated battle for the sake of the world, so I can't just stand by and watch.",
+      "choice_data_list": [],
+      "orig_name": "シェフィ",
+      "orig_text": "そうね。\nランファさんには前の戦いでも助けてもらったもの、\nこのまま見過ごせないわ。"
+    },
+    {
+      "name": "Kokkoro",
+      "text": "Yes. We'll put a stop to your problems before they can lead to any kind of damage.",
+      "choice_data_list": [],
+      "orig_name": "コッコロ",
+      "orig_text": "はい。\n大きな被害が出る前に、\nわたくしたちで食い止めましょう。"
+    },
+    {
+      "name": "Ranpha",
+      "text": "Everyone... Th-Thank you...!",
+      "choice_data_list": [],
+      "orig_name": "ランファ",
+      "orig_text": "みんな……\n……あ、\nありがとう……！"
+    },
+    {
+      "name": "Narration",
+      "text": "Faced with a situation she had never experienced before, Ranpha was at a loss. In order to help her, {0} and the others decide to lend her their strength.",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "経験したことがない事態を前に、\n途方に暮れた様子のランファ。\nそんな彼女を助けるため、\n{0}たちは\n力を貸すことになった。"
+    },
+    {
+      "name": "Narration",
+      "text": "Meanwhile, in the tower of Sol...",
+      "choice_data_list": [],
+      "orig_name": "ナレーション",
+      "orig_text": "一方その頃、\nソルの塔では──"
+    },
+    {
+      "name": "Ameth",
+      "text": "*sigh*... I'm bored... Right now, there's no sign of any emergency coming from the simulation area.",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "はー……\n暇だわ……\nいまんとこ、\nシミュレーション領域からのアクセス\nなんて\n緊急事態の気配もないし。"
+    },
+    {
+      "name": "Ameth",
+      "text": "...As if. At times like these, there's always something going on. Let's see, anything out of the ordinary in the log... hmmm...",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……なーんて。\nこういうときに限って何かあるのよね。\nどれどれ、\nログに異常は、\nっと──"
+    },
+    {
+      "name": "Ameth",
+      "text": "...Hm? Hmm? No way, what's with this value?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "……ん？　\nんん～？\n嘘、\n何この値。"
+    },
+    {
+      "name": "Ameth",
+      "text": "Is this... a spirit?",
+      "choice_data_list": [],
+      "orig_name": "アメス",
+      "orig_text": "これって……\n精霊？"
+    }
+  ]
+}
